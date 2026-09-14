@@ -84,4 +84,13 @@ const server = http.createServer((req, res) => {
   createReadStream(file).pipe(res);
 });
 
+server.on("error", (e) => {
+  if (e.code === "EADDRINUSE") {
+    console.error(`\nポート ${PORT} は別のプロセスが使用中です（すでに npm start したサーバーが動いていませんか？）。`);
+    console.error(`  確認: netstat -ano | findstr :${PORT}   停止: taskkill /PID <PID> /F`);
+    console.error(`  別ポートで起動する場合: set PORT=3211 && npm start\n`);
+    process.exit(1);
+  }
+  throw e;
+});
 server.listen(PORT, HOST, () => log(`newsites: http://localhost:${PORT}  (serving docs/, bind ${HOST})`));

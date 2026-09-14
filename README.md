@@ -40,9 +40,13 @@ AI と一緒にゲームをつくる個人サイト「GameLab」のソースで�
 
 ## セットアップ
 
+Node.js **20 以上**が必要です（依存パッケージはありません）。
+
 ```bash
-npm install     # 依存パッケージはありません（Node 20 以上）
+node -v         # v20 以上を確認
 ```
+
+`npm start` で `EADDRINUSE` が出る場合は、前に起動したサーバーが残っています。`netstat -ano | findstr :3210` で PID を調べて `taskkill /PID <PID> /F` で止めてから起動し直してください。
 
 ## 使い方
 
