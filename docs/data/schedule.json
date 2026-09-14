@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-14T06:49:31.482Z",
+  "updatedAt": "2026-09-14T06:58:00.343Z",
   "daysAhead": 120,
   "stats": {
     "nintendo": 264,
     "steam": 100,
-    "news": 9,
+    "news": 7,
     "appstore": {
-      "searched": 12,
-      "matched": 7,
+      "searched": 8,
+      "matched": 5,
       "preorder": 0
     },
-    "prereg": 5
+    "prereg": 4
   },
   "releases": [
     {
@@ -3423,23 +3423,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "c2a36b475960",
-      "title": "原神",
-      "date": "2026-09-23",
-      "dateText": "2026年9月23日",
-      "sortKey": "2026-09-23",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://genshin.hoyoverse.com/ja/",
-      "image": "",
-      "maker": "",
-      "headline": "「原神」，Ver.7.1「冥府へのレクイエム」を9月23日リリース。新★5「ヴェスナ」「ヴォジャニーツァ」が登場",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/486/G048621/20260914016/"
     },
     {
       "id": "5ea079c7e519",
@@ -6915,23 +6898,6 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "1254c5555692",
-      "title": "勝利の女神：NIKKE",
-      "date": "2026-11-04",
-      "dateText": "2026年11月4日",
-      "sortKey": "2026-11-04",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://nikke-jp.com/",
-      "image": "https://nikke-jp.com/pc/ossweb-img/og_image.jpg",
-      "maker": "",
-      "headline": "『勝利の女神：NIKKE』11月4日配信決定！鮮烈なバトル、そして美少女の魅力を押し出した“背中で魅せるガンガールRPG”",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2022/10/12/141053.html"
-    },
-    {
       "id": "0b23b61f67e2",
       "title": "Goodboy Galaxy",
       "date": "2026-11-05",
@@ -7274,8 +7240,8 @@
         "mobile"
       ],
       "startedAt": "2026-09-13T12:33:22.000Z",
-      "releaseText": "9月24日リリース",
-      "releaseSource": "news",
+      "releaseText": "2026年9月22日",
+      "releaseSource": "appstore",
       "count": "事前登録者数は160万人",
       "reward": "",
       "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
@@ -7287,7 +7253,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
         "preorder": true,
         "releaseDate": "2026-09-22T07:00:00Z"
-      }
+      },
+      "announcedText": "9月24日リリース"
     },
     {
       "id": "2fb65f26bde8",
@@ -7335,30 +7302,6 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
-    },
-    {
-      "id": "ad75bad92792",
-      "title": "勝利の女神：NIKKE",
-      "url": "https://nikke-jp.com/",
-      "image": "https://nikke-jp.com/pc/ossweb-img/og_image.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2022-10-12T02:10:02.000Z",
-      "releaseText": "11月4日配信",
-      "releaseSource": "news",
-      "count": "事前登録者数が300万人",
-      "reward": "",
-      "headline": "『勝利の女神：NIKKE』11月4日配信決定！鮮烈なバトル、そして美少女の魅力を押し出した“背中で魅せるガンガールRPG”",
-      "description": "スマートフォン向けアプリゲーム、背中で魅せるガンガールRPG『勝利の女神：NIKKE』の公式サイトです。11月4日正式リリース！",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2022/10/12/141053.html",
-      "appleId": "",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/%E5%8B%9D%E5%88%A9%E3%81%AE%E5%A5%B3%E7%A5%9E-nikke/id1585915174",
-        "preorder": false,
-        "releaseDate": "2022-11-02T07:00:00Z"
       }
     }
   ],

@@ -141,8 +141,10 @@
     }
     if (p.releaseSource === "appstore") {
       s.className = "rel-store";
-      s.textContent = `App Store 表記 ${p.releaseText}`;
-      s.title = "App Store の予約ページに表示されている日付です。実際の配信日と異なることがあります";
+      s.textContent = `App Store ${p.releaseText}`;
+      s.title = p.announcedText
+        ? `App Store の予約ページに表示されている配信予定日です（発表時は ${p.announcedText}）`
+        : "App Store の予約ページに表示されている配信予定日です";
       return s;
     }
     s.className = "rel-news";

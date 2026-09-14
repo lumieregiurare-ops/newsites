@@ -160,14 +160,17 @@ export function extractReleaseFromHeadline(headline, now = new Date()) {
 // App Store の予約注文は発売日未定のとき 12/31 などの仮日付が入るため、確定日として扱わない
 export function appStoreReleaseText(iso) {
   if (!iso) return "";
+  // 配信開始日時は UTC で入っているので、日本時間の「日付」に直して表示する
+  // （収集は GitHub Actions の UTC 環境でも走るため、実行環境の時差に影響されないようにする）
   const d = new Date(iso);
+  const jst = new Date(d.getTime() + 9 * 3600000);
+  const y = jst.getUTCFullYear();
+  const m = jst.getUTCMonth() + 1;
+  const day = jst.getUTCDate();
   // 12/31 や 1/1、1 年以上先の日付は「未定」を埋めるための仮日付なので日付として扱わない
-  const isPlaceholder =
-    (d.getMonth() === 11 && d.getDate() === 31) ||
-    (d.getMonth() === 0 && d.getDate() === 1) ||
-    d.getTime() - Date.now() > 365 * 86400000;
+  const isPlaceholder = (m === 12 && day === 31) || (m === 1 && day === 1) || d.getTime() - Date.now() > 365 * 86400000;
   if (isPlaceholder) return "";
-  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+  return `${y}年${m}月${day}日`;
 }
 
 // 記事の見出しからだけ配信日を読み取る。
@@ -355,12 +358,12 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
       if (existing) {
         existing.appStore = { url: app.storeUrl, preorder: app.isPreorder, releaseDate: app.releaseDate };
         if (!existing.image && app.image) existing.image = app.image;
-        if (!existing.releaseText && app.isPreorder) {
-          const t = appStoreReleaseText(app.releaseDate);
-          if (t) {
-            existing.releaseText = t;
-            existing.releaseSource = "appstore";
-          }
+        // ストアの配信予定日は開発者が随時更新する最新値なので、記事見出しの発表日より優先する
+        const t = app.isPreorder ? appStoreReleaseText(app.releaseDate) : "";
+        if (t) {
+          if (existing.releaseText && existing.releaseText !== t) existing.announcedText = existing.releaseText;
+          existing.releaseText = t;
+          existing.releaseSource = "appstore";
         }
         continue;
       }

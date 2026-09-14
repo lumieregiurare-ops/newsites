@@ -373,11 +373,8 @@ const GAME_NEWS = {
     host: "4gamer.net",
   },
   gamespark: { name: "Game*Spark", feeds: ["https://www.gamespark.jp/rss20/index.rdf"], host: "gamespark.jp" },
-  insidegames: {
-    name: "Inside",
-    feeds: ["https://www.inside-games.jp/rss20/index.rdf", "https://www.inside-games.jp/rss20/mobile.rdf"],
-    host: "inside-games.jp",
-  },
+  // mobile.rdf は 2022 年で更新が止まった廃止フィードのため使わない
+  insidegames: { name: "Inside", feeds: ["https://www.inside-games.jp/rss20/index.rdf"], host: "inside-games.jp" },
   gamebusiness: { name: "GameBusiness.jp", feeds: ["https://www.gamebusiness.jp/rss20/index.rdf"], host: "gamebusiness.jp" },
   denfami: {
     name: "電ファミニコゲーマー",

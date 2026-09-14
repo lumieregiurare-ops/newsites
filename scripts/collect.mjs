@@ -116,11 +116,19 @@ const siteFilterOn = siteCfg.enabled !== false;
 const isOffTopic = createSiteFilter(siteCfg);
 const offTopic = [];
 
+// 更新が止まったフィードが古い記事を返してくることがあるので、公開日が古すぎるものは取り込まない
+const maxAgeMs = (config.maxArticleAgeDays ?? 90) * 86400000;
+let tooOld = 0;
+
 for (const r of raw) {
   if (!/^https?:\/\//i.test(r.url || "")) continue;
   const b = isBlocked(r);
   if (b.blocked) {
     blocked.push({ title: r.title, url: r.url, reason: b.reason });
+    continue;
+  }
+  if (r.publishedAt && now.getTime() - new Date(r.publishedAt).getTime() > maxAgeMs) {
+    tooOld++;
     continue;
   }
   r.headline = headlineOf(r);
@@ -216,6 +224,14 @@ for (const [id, it] of byId) {
     offFocus++;
   }
 }
+// 古い記事から取り込まれた既存項目も掃除する
+for (const [id, it] of byId) {
+  if (it.publishedAt && now.getTime() - new Date(it.publishedAt).getTime() > maxAgeMs) {
+    byId.delete(id);
+    tooOld++;
+  }
+}
+
 // 既存項目に残っている記事 URL・重複 URL を掃除する（新しい URL で取り直される）
 if (siteFilterOn) {
   for (const [id, it] of byId) {
@@ -363,6 +379,7 @@ const summary = {
   updated,
   pruned,
   offFocus,
+  tooOld,
   offTopic: offTopic.length,
   offTopicItems: offTopic.slice(0, 60),
   blocked: blocked.length,
@@ -374,6 +391,6 @@ const summary = {
 };
 await writeJson(RUN_FILE, summary);
 log(
-  `done in ${summary.durationSec}s: total=${items.length} added=${added} updated=${updated} pruned=${pruned} offFocus=${offFocus} offTopic=${offTopic.length} blocked=${blocked.length} noImage=${summary.meta.noImage}`
+  `done in ${summary.durationSec}s: total=${items.length} added=${added} updated=${updated} pruned=${pruned} offFocus=${offFocus} tooOld=${tooOld} offTopic=${offTopic.length} blocked=${blocked.length} noImage=${summary.meta.noImage}`
 );
 if (blocked.length) log("blocked:", blocked.map((b) => `${b.title} [${b.reason}]`).join(" | "));
