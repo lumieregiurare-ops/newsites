@@ -9,6 +9,7 @@ import { fetchMeta } from "./lib/meta.mjs";
 import { buildSchedule } from "./lib/schedule.mjs";
 import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 import { fetchPreregTitles } from "./lib/preregLists.mjs";
+import { fetchNoteArticles } from "./lib/note.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -346,6 +347,17 @@ await writeJson(DATA_FILE, {
 
 // 内部状態（メタ取得の試行回数など）は別ファイルに保持
 await writeJson(join(ROOT, "data", "state.json"), { items });
+
+// ---------- 5.5 note の記事一覧（自分の記事） ----------
+try {
+  const site = await readJson(join(ROOT, "docs", "data", "site.json"), {});
+  if (site.note) {
+    const notes = await fetchNoteArticles(site.note, { limit: config.note?.limit ?? 12 });
+    if (notes) await writeJson(join(ROOT, "docs", "data", "notes.json"), notes);
+  }
+} catch (e) {
+  log("note failed:", e.message);
+}
 
 // ---------- 6. リリーススケジュール / 事前登録 ----------
 let scheduleStats = null;

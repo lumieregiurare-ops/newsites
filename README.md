@@ -47,7 +47,7 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 | ファイル | 内容 |
 | --- | --- |
 | `docs/data/games.json` | 「AI でつくったゲーム」に出すカード。`status` は `live` / `soon` / `wip`、`image` は 16:9 推奨、`url` が空ならリンクなし |
-| `docs/data/site.json` | サイト名と X / note のリンク先（ヘッダーとフッターに出ます） |
+| `docs/data/site.json` | サイト名と X / note のリンク先（ヘッダーとフッターに出ます）。`note` にアカウント URL を入れると、収集時に note の公式 RSS（`note.com/<user>/rss`）から記事一覧を取り、トップの「note の記事」セクションに新しい順で 6 件表示します（タイトル・サムネイル・冒頭のみ。本文は転載しない）。データは `docs/data/notes.json` |
 
 ## サイト名について
 

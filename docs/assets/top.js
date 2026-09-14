@@ -403,4 +403,54 @@
     });
 
   loadSchedule();
+
+  // note の記事一覧（自分の記事。RSS から取ったタイトル・サムネイル・冒頭だけを表示）
+  getJson("data/notes.json")
+    .then((notes) => {
+      const items = notes?.items || [];
+      if (!items.length) return;
+      const sec = $("#notes");
+      sec.hidden = false;
+      $("#notesMore").href = notes.url;
+      const grid = $("#notesGrid");
+      for (const n of items.slice(0, 6)) {
+        const a = document.createElement("a");
+        a.className = "note-card";
+        a.href = n.url;
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+        const thumb = document.createElement("div");
+        thumb.className = "note-thumb";
+        if (n.image) {
+          const img = document.createElement("img");
+          img.src = n.image;
+          img.alt = "";
+          img.loading = "lazy";
+          img.referrerPolicy = "no-referrer";
+          img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
+          thumb.appendChild(img);
+        } else {
+          thumb.classList.add("no-image");
+        }
+        const body = document.createElement("div");
+        body.className = "note-body";
+        const h = document.createElement("h3");
+        h.className = "note-title";
+        h.textContent = n.title;
+        const p = document.createElement("p");
+        p.className = "note-summary";
+        p.textContent = n.summary || "";
+        const t = document.createElement("time");
+        t.className = "note-date";
+        if (n.publishedAt) {
+          t.dateTime = n.publishedAt;
+          const d = new Date(n.publishedAt);
+          t.textContent = `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, "0")}.${String(d.getDate()).padStart(2, "0")}`;
+        }
+        body.append(h, p, t);
+        a.append(thumb, body);
+        grid.appendChild(a);
+      }
+    })
+    .catch(() => {});
 })();

@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/radar/data/sites.json docs/data/schedule.json data/state.json data/schedule-state.json
+          git add docs/radar/data/sites.json docs/data/schedule.json docs/data/notes.json data/state.json data/schedule-state.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: daily collect $(date -u +%Y-%m-%d)"
           git push
