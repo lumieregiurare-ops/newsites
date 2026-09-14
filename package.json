@@ -1,0 +1,11 @@
+{
+  "name": "newsites",
+  "version": "2.0.0",
+  "description": "最近リリースされた Web サイトを自動収集してカテゴリ別に一覧表示する静的サイト",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "start": "node server.mjs"
+  }
+}

@@ -1,0 +1,461 @@
+import { UA, fetchText, fetchJson, cleanUrl, hostOf, pool, log, truncate } from "./util.mjs";
+import { parseFeed, stripTags, firstImage, decodeEntities } from "./xml.mjs";
+
+// 各収集元は共通形式の配列を返す:
+// { source, sourceKind, sourceUrl, url, title, description, publishedAt, tags, phCategories, image, points }
+
+// ---------- Product Hunt ----------
+export async function fetchProductHunt(cfg) {
+  const byPost = new Map();
+
+  async function load(category) {
+    const url = "https://www.producthunt.com/feed" + (category ? `?category=${category}` : "");
+    const xml = await fetchText(url);
+    for (const e of parseFeed(xml)) {
+      const postId = (e.id.match(/Post\/(\d+)/) || [])[1];
+      if (!postId) continue;
+      const html = e.content; // 二重エスケープされた HTML
+      const tagline = stripTags(html.split(/<\/p>/i)[0] || "");
+      const redirect = (decodeEntities(html).match(/href="(https:\/\/www\.producthunt\.com\/r\/p\/\d+[^"]*)"/) || [])[1];
+      let rec = byPost.get(postId);
+      if (!rec) {
+        rec = {
+          source: "Product Hunt",
+          sourceKind: "launch",
+          sourceUrl: e.link,
+          redirect,
+          title: e.title,
+          description: truncate(tagline, 200),
+          publishedAt: e.date ? new Date(e.date).toISOString() : null,
+          tags: [],
+          phCategories: [],
+          image: "",
+        };
+        byPost.set(postId, rec);
+      }
+      if (category) rec.phCategories.push(category);
+    }
+  }
+
+  await load("");
+  for (const c of cfg.categories || []) {
+    try {
+      await load(c);
+    } catch (e) {
+      log("Product Hunt category failed:", c, e.message);
+    }
+  }
+
+  const posts = [...byPost.entries()].filter(([, r]) => r.redirect);
+  log(`Product Hunt: ${posts.length} posts`);
+
+  // /r/p/ID のリダイレクトは Cloudflare のボット判定を受けやすいので、
+  // 未解決のものだけを間隔を空けて逐次解決し、結果をキャッシュする。
+  // 連続で拒否されたらそのランでは諦め、次回に持ち越す。
+  const cache = cfg._cache || {};
+  const delayMs = cfg.resolveDelayMs ?? 2000;
+  const maxPerRun = cfg.maxResolvePerRun ?? 60;
+  const pending = posts
+    .filter(([id]) => !cache[id]?.url && (cache[id]?.attempts || 0) < 5)
+    .sort((a, b) => new Date(b[1].publishedAt || 0) - new Date(a[1].publishedAt || 0))
+    .slice(0, maxPerRun);
+  let consecutiveBlocked = 0;
+  let resolvedNow = 0;
+  for (const [id, r] of pending) {
+    const entry = (cache[id] = cache[id] || { attempts: 0 });
+    entry.attempts++;
+    entry.lastTriedAt = new Date().toISOString();
+    try {
+      const res = await fetch(r.redirect, { redirect: "manual", headers: { "user-agent": UA } });
+      const loc = res.headers.get("location");
+      if (res.status >= 300 && res.status < 400 && loc && !/producthunt\.com/.test(hostOf(loc))) {
+        entry.url = cleanUrl(new URL(loc, r.redirect).toString());
+        consecutiveBlocked = 0;
+        resolvedNow++;
+      } else {
+        entry.lastStatus = res.status;
+        if (res.status === 403 || res.status === 429) {
+          consecutiveBlocked++;
+          entry.attempts--; // ボット判定による拒否は投稿側の問題ではないので試行回数に数えない
+        }
+      }
+    } catch (e) {
+      entry.lastStatus = e.message;
+    }
+    if (consecutiveBlocked >= 3) {
+      log(`Product Hunt: redirect blocked (status ${cache[id].lastStatus}), giving up for this run`);
+      break;
+    }
+    await new Promise((res) => setTimeout(res, delayMs));
+  }
+  const resolvedTotal = posts.filter(([id]) => cache[id]?.url).length;
+  log(`Product Hunt: resolved ${resolvedNow} now, ${resolvedTotal}/${posts.length} total`);
+
+  return posts
+    .filter(([id]) => cfg.includeUnresolved || cache[id]?.url)
+    .map(([id, { redirect, ...rest }]) => {
+      const real = cache[id]?.url;
+      return {
+        ...rest,
+        key: rest.sourceUrl, // 重複判定は PH の製品ページ URL で安定させる
+        url: real || rest.sourceUrl,
+        resolved: !!real,
+        noScreenshot: !real, // PH ページ自体は撮影できない
+      };
+    });
+}
+
+// ---------- Hacker News (Show HN) ----------
+export async function fetchHackerNews(cfg) {
+  const data = await fetchJson(
+    `https://hn.algolia.com/api/v1/search_by_date?tags=show_hn&hitsPerPage=${cfg.hitsPerPage || 100}`
+  );
+  const exclude = new Set((cfg.excludeHosts || []).map((h) => h.toLowerCase()));
+  const items = [];
+  for (const h of data.hits || []) {
+    if (!h.url) continue;
+    const host = hostOf(h.url).toLowerCase();
+    if ([...exclude].some((x) => host === x || host.endsWith("." + x))) continue;
+    if ((h.points || 0) < (cfg.minPoints || 0)) continue;
+    items.push({
+      source: "Hacker News",
+      sourceKind: "launch",
+      sourceUrl: `https://news.ycombinator.com/item?id=${h.objectID}`,
+      url: cleanUrl(h.url),
+      title: h.title.replace(/^show hn:\s*/i, "").trim(),
+      description: truncate(stripTags(h.story_text || ""), 200),
+      publishedAt: h.created_at,
+      tags: ["Show HN"],
+      phCategories: [],
+      image: "",
+      points: h.points || 0,
+      comments: h.num_comments || 0,
+    });
+  }
+  return items;
+}
+
+// ---------- One Page Love ----------
+export async function fetchOnePageLove() {
+  const xml = await fetchText("https://onepagelove.com/feed");
+  const entries = parseFeed(xml).filter((e) => /Website Inspiration/i.test(e.title) || e.categories.includes("Inspiration"));
+  const items = await pool(entries, 4, async (e) => {
+    const page = await fetchText(e.link);
+    const m = page.match(/<a[^>]+href="([^"]+)"[^>]*title="Visit [^"]*Website"/i) || page.match(/title="Visit [^"]*Website"[^>]*href="([^"]+)"/i);
+    if (!m) return null;
+    return {
+      source: "One Page Love",
+      sourceKind: "gallery",
+      sourceUrl: e.link,
+      url: cleanUrl(decodeEntities(m[1])),
+      title: e.title.replace(/^Website Inspiration:\s*/i, "").trim(),
+      description: truncate(stripTags(e.description || e.content).replace(/Full Review$/i, ""), 200),
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags: e.categories.filter((c) => c !== "Inspiration"),
+      phCategories: [],
+      image: firstImage(e.content),
+    };
+  });
+  return items.filter((x) => x && !x.error);
+}
+
+// ---------- minimal.gallery ----------
+export async function fetchMinimalGallery() {
+  const xml = await fetchText("https://minimal.gallery/feed/");
+  const entries = parseFeed(xml);
+  const items = await pool(entries, 4, async (e) => {
+    const page = await fetchText(e.link);
+    const m = page.match(/class="single-post-breadcrumbs-button"[^>]*href="([^"]+)"/i) || page.match(/href="([^"]+)"[^>]*title="Visit website"/i);
+    if (!m) return null;
+    return {
+      source: "minimal.gallery",
+      sourceKind: "gallery",
+      sourceUrl: e.link,
+      url: cleanUrl(decodeEntities(m[1])),
+      title: e.title.trim(),
+      description: "",
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags: e.categories.filter((c) => c !== "Uncategorized"),
+      phCategories: [],
+      image: firstImage(e.content),
+    };
+  });
+  return items.filter((x) => x && !x.error);
+}
+
+// ---------- Launching Next ----------
+export async function fetchLaunchingNext() {
+  const xml = await fetchText("https://www.launchingnext.com/rss/");
+  const entries = parseFeed(xml);
+  const items = await pool(entries, 3, async (e) => {
+    const page = await fetchText(e.link);
+    const m = page.match(/<a[^>]+href="(https?:\/\/[^"]+)"[^>]*>\s*Visit Website/i);
+    if (!m) return null;
+    // media:content の URL がドメイン二重になっているケースを補正
+    let image = (xml.match(new RegExp(`<link>${e.link.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}</link>[\\s\\S]*?<media:content url="([^"]+)"`)) || [])[1] || "";
+    image = image.replace(/^https:\/\/www\.launchingnext\.com(?=https?:\/\/)/, "");
+    return {
+      source: "Launching Next",
+      sourceKind: "launch",
+      sourceUrl: e.link,
+      url: cleanUrl(decodeEntities(m[1])),
+      title: e.title.trim(),
+      description: truncate(stripTags(e.description || ""), 200),
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags: [],
+      phCategories: [],
+      image,
+    };
+  });
+  return items.filter((x) => x && !x.error);
+}
+
+// ---------- PitchWall (旧 BetaPage) ----------
+export async function fetchPitchWall() {
+  const xml = await fetchText("https://betapage.co/rss");
+  const entries = parseFeed(xml);
+  const items = await pool(entries, 3, async (e) => {
+    const page = await fetchText(e.link);
+    const m = page.match(/<a[^>]+href="(https?:\/\/(?!(?:auth\.|cdn\.|www\.)?pitchwall\.co)[^"]+)"[^>]*>(?:(?!<\/a>)[\s\S]){0,800}?Visit Website/i);
+    if (!m) return null;
+    return {
+      source: "PitchWall",
+      sourceKind: "launch",
+      sourceUrl: e.link.replace(/^https:\/\/auth\./, "https://"),
+      url: cleanUrl(decodeEntities(m[1])),
+      title: e.title.trim(),
+      description: truncate(stripTags(e.content || ""), 200),
+      publishedAt: e.date ? new Date(e.date.replace(" ", "T") + "Z").toISOString() : null,
+      tags: [],
+      phCategories: [],
+      image: "",
+    };
+  });
+  return items.filter((x) => x && !x.error);
+}
+
+// ---------- 国内 Web デザインギャラリー（WordPress 系 RSS） ----------
+// 掲載ページ内の外部リンクから実サイト URL を取る。抽出ルールはサイトごとに指定。
+// extraFeeds: エンタメ系などカテゴリ別フィード。取得した項目には tags を強制付与して分類を安定させる
+const JP_GALLERIES = {
+  muuuuu: {
+    name: "MUUUUU.ORG",
+    feed: "https://muuuuu.org/feed",
+    extraFeeds: [
+      { url: "https://muuuuu.org/category/industry/entertainment/feed", tags: ["エンタメ"] },
+      { url: "https://muuuuu.org/category/industry/music/feed", tags: ["音楽"] },
+      { url: "https://muuuuu.org/category/industry/art/feed", tags: ["アート"] },
+    ],
+    pick: (page) => (page.match(/<a[^>]+href="(https?:\/\/[^"]+)"[^>]*class="c-linelink--hidden"/i) || page.match(/class="c-linelink--hidden"[^>]*href="(https?:\/\/[^"]+)"/i) || [])[1],
+    ignoreTags: /^(日本語サイト|レスポンシブ対応|多言語対応|.*系$)/,
+  },
+  sankou: {
+    name: "SANKOU!",
+    feed: "https://sankoudesign.com/feed/",
+    extraFeeds: [
+      { url: "https://sankoudesign.com/category/campaign-event-special/feed/", tags: ["特設サイト"] },
+      { url: "https://sankoudesign.com/category/music/feed/", tags: ["音楽", "エンタメ"] },
+      { url: "https://sankoudesign.com/category/comic-anime-game/feed/", tags: ["アニメ", "ゲーム"] },
+      { url: "https://sankoudesign.com/category/game-diagnosis-maker/feed/", tags: ["ゲーム"] },
+      { url: "https://sankoudesign.com/category/event-festival/feed/", tags: ["イベント"] },
+      { url: "https://sankoudesign.com/category/culture-art/feed/", tags: ["アート"] },
+    ],
+    pick: (page, e) => firstExternal(page, "sankoudesign.com"),
+  },
+  io3000: {
+    name: "I/O 3000",
+    feed: "https://io3000.com/feed/",
+    pick: (page, e) => (e.content.match(/<a[^>]+href="(https?:\/\/[^"]+)"/i) || [])[1],
+    noPageFetch: true,
+    ignoreTags: /^(カテゴリ|カラー|responsive|white|black|gray|grey|blue|red|green|yellow|orange|pink|purple|brown|beige|colorful|monotone)$/i,
+  },
+  webdesignclip: {
+    name: "Web Design Clip",
+    feed: "https://webdesignclip.com/feed",
+    extraFeeds: [
+      { url: "https://webdesignclip.com/category/tv/feed", tags: ["エンタメ"] },
+      { url: "https://webdesignclip.com/category/game/feed", tags: ["ゲーム"] },
+      { url: "https://webdesignclip.com/category/movie/feed", tags: ["映画"] },
+      { url: "https://webdesignclip.com/category/music/feed", tags: ["音楽"] },
+      { url: "https://webdesignclip.com/category/art/feed", tags: ["アート"] },
+      { url: "https://webdesignclip.com/tag/special-site/feed", tags: ["特設サイト"] },
+    ],
+    pick: (page) => firstExternal(page, "webdesignclip.com"),
+    ignoreTags: /^(Main_Color|Sub_Color|Layouot)/,
+    dropImage: true,
+  },
+  oneguu: {
+    name: "1guu",
+    feed: "https://1guu.jp/feed",
+    extraFeeds: [
+      { url: "https://1guu.jp/category/industry/entertainment/feed/", tags: ["エンタメ"] },
+      { url: "https://1guu.jp/category/industry/tv/feed/", tags: ["アニメ", "映画"] },
+      { url: "https://1guu.jp/category/industry/musics/feed/", tags: ["音楽"] },
+      { url: "https://1guu.jp/category/industry/leisure/feed/", tags: ["レジャー"] },
+    ],
+    pick: (page) => firstExternal(page, "1guu.jp"),
+  },
+  responsivejp: {
+    name: "Responsive Web Design JP",
+    feed: "https://responsive-jp.com/feed",
+    extraFeeds: [{ url: "https://responsive-jp.com/category/category/art/feed", tags: ["アート"] }],
+    pick: (page) => firstExternal(page, "responsive-jp.com"),
+  },
+};
+
+const NOISE_HOSTS = /twitter|facebook|instagram|linkedin|pinterest|x\.com|youtube|bsky|apple\.com|google|wordpress|w3\.org|gravatar|hatena|line\.me|note\.com|amazon|wp-content|feedly|getpocket|climarks/i;
+function firstExternal(page, ownHost) {
+  for (const m of page.matchAll(/<a\b[^>]*href="(https?:\/\/[^"]+)"[^>]*target="_blank"/gi)) {
+    const href = m[1];
+    if (href.includes(ownHost) || NOISE_HOSTS.test(href)) continue;
+    return href;
+  }
+  return undefined;
+}
+
+export async function fetchJpGallery(key, { maxAgeDays = 45 } = {}) {
+  const g = JP_GALLERIES[key];
+  const byLink = new Map();
+  const cutoff = Date.now() - maxAgeDays * 86400000;
+
+  const feeds = [{ url: g.feed, tags: [] }, ...(g.extraFeeds || [])];
+  for (const f of feeds) {
+    let entries;
+    try {
+      entries = parseFeed(await fetchText(f.url));
+    } catch (e) {
+      log(`${g.name}: feed failed ${f.url} (${e.message})`);
+      continue;
+    }
+    for (const e of entries) {
+      if (!e.link) continue;
+      if (e.date && new Date(e.date).getTime() < cutoff) continue;
+      const prev = byLink.get(e.link);
+      if (prev) {
+        for (const t of f.tags) if (!prev.forcedTags.includes(t)) prev.forcedTags.push(t);
+      } else {
+        byLink.set(e.link, { ...e, forcedTags: [...f.tags] });
+      }
+    }
+  }
+
+  const items = await pool([...byLink.values()], 3, async (e) => {
+    const page = g.noPageFetch ? "" : await fetchText(e.link);
+    const href = g.pick(page, e);
+    if (!href) return null;
+    const image = g.dropImage ? "" : firstImage(e.content);
+    return {
+      source: g.name,
+      sourceKind: "gallery",
+      region: "jp",
+      sourceUrl: e.link,
+      url: cleanUrl(decodeEntities(href)),
+      title: e.title.trim(),
+      description: truncate(stripTags(e.description || "").replace(/^\s*$/, ""), 200),
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags: [...e.forcedTags, ...e.categories.filter((c) => !(g.ignoreTags && g.ignoreTags.test(c)))].slice(0, 14),
+      phCategories: [],
+      image: /^https?:\/\//.test(image) && !/-\d{2,3}x\d{2,3}\./.test(image) ? image : "",
+    };
+  });
+  return items.filter((x) => x && !x.error);
+}
+
+// ---------- ゲームニュース → 記事内の「公式サイト」リンク ----------
+// 発表・ティザー・周年・事前登録などの記事から、リンクされている公式サイト / 特設サイトを拾う
+const GAME_NEWS = {
+  fourgamer: { name: "4Gamer", feed: "https://www.4gamer.net/rss/index.xml", host: "4gamer.net" },
+  gamespark: { name: "Game*Spark", feed: "https://www.gamespark.jp/rss20/index.rdf", host: "gamespark.jp" },
+  insidegames: { name: "Inside", feed: "https://www.inside-games.jp/rss20/index.rdf", host: "inside-games.jp" },
+  gamebusiness: { name: "GameBusiness.jp", feed: "https://www.gamebusiness.jp/rss20/index.rdf", host: "gamebusiness.jp" },
+  denfami: { name: "電ファミニコゲーマー", feed: "https://news.denfaminicogamer.jp/feed", host: "denfaminicogamer.jp" },
+};
+const GAME_ANNOUNCE_RE = /発表|ティザー|公式サイト|特設サイト|キャンペーン|周年|事前登録|配信開始|発売決定|発売日|サービス開始|新作|リリース|オープン|公開|始動|決定|開催|コラボ|正式|β|ベータ|体験版|予約/;
+const OFFICIAL_TEXT_RE = /公式サイト|公式ページ|公式ホームページ|公式HP|公式Web|オフィシャルサイト|ティザーサイト|特設サイト|キャンペーンサイト|スペシャルサイト|周年サイト|ポータルサイト|プロモーションサイト/i;
+const GAME_STORE_RE = /store\.steampowered|steampowered|apps\.apple|itunes\.apple|play\.google|nintendo\.(co|com)|playstation\.com|xbox\.com|epicgames|gog\.com|twitter\.com|x\.com|youtube|youtu\.be|facebook|instagram|tiktok|discord|twitch|line\.me|note\.com|amazon|amzn\.to|rakuten|wikipedia|google|iid\.(co\.)?jp|ads2\.iid|dmm\.co|famitsu|4gamer|gamespark|inside-games|gamebusiness|denfaminicogamer|automaton|aetas\.co\.jp|entame-print|1kuji\.com|bandainamco-am|abema\.tv|bsky\.app|\.(jpg|png|gif)$/i;
+
+function gameNameFromTitle(title) {
+  const m = title.match(/『([^』]{2,40})』/) || title.match(/「([^」『』]{2,40})」/);
+  if (m) return m[1].replace(/[『』「」]/g, "").trim();
+  return truncate(title.split(/[ー―！!。]/)[0], 60);
+}
+
+export async function fetchGameNews(key) {
+  const g = GAME_NEWS[key];
+  const entries = parseFeed(await fetchText(g.feed)).filter((e) => e.link && GAME_ANNOUNCE_RE.test(e.title));
+  const seen = new Set();
+  const items = await pool(entries, 3, async (e) => {
+    const html = await fetchText(e.link);
+    let official = null;
+    for (const m of html.matchAll(/<a\b([^>]*)>([\s\S]{0,160}?)<\/a>/gi)) {
+      const href = (m[1].match(/href="(https?:\/\/[^"]+)"/) || [])[1];
+      if (!href || href.includes(g.host) || GAME_STORE_RE.test(href)) continue;
+      const text = stripTags(m[2]);
+      const isOfficial = OFFICIAL_TEXT_RE.test(text) || /class="[^"]*\bofficial\b/.test(m[1]) || /alt="公式サイト/.test(m[2]);
+      if (isOfficial) {
+        official = href;
+        break;
+      }
+    }
+    if (!official) return null;
+    const tags = ["ゲーム"];
+    if (/ティザー/.test(e.title)) tags.push("ティザーサイト");
+    if (/特設|キャンペーン|スペシャルサイト/.test(e.title)) tags.push("特設サイト");
+    if (/周年/.test(e.title)) tags.push("周年");
+    if (/事前登録/.test(e.title)) tags.push("事前登録");
+    return {
+      source: g.name,
+      sourceKind: "news",
+      region: "jp",
+      sourceUrl: e.link,
+      url: cleanUrl(decodeEntities(official)),
+      title: gameNameFromTitle(e.title),
+      description: truncate(e.title, 200),
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags,
+      phCategories: [],
+      image: "",
+    };
+  });
+  return items.filter((x) => x && !x.error && !seen.has(x.url) && seen.add(x.url));
+}
+
+// ---------- itch.io 新着（海外インディーゲームのページ。既定では OFF） ----------
+export async function fetchItchio() {
+  const entries = parseFeed(await fetchText("https://itch.io/games/newest.xml"));
+  return entries
+    .filter((e) => e.link)
+    .map((e) => ({
+      source: "itch.io",
+      sourceKind: "launch",
+      sourceUrl: e.link,
+      url: cleanUrl(e.link),
+      title: e.title.replace(/\s*\[[^\]]*\]/g, "").trim(),
+      description: truncate(stripTags(e.content), 200),
+      publishedAt: e.date ? new Date(e.date).toISOString() : null,
+      tags: ["ゲーム", "インディー", ...[...e.title.matchAll(/\[([^\]$]+)\]/g)].map((m) => m[1]).filter((t) => !/^\$|Free|Off/i.test(t)).slice(0, 3)],
+      phCategories: [],
+      image: firstImage(e.content),
+    }));
+}
+
+export const SOURCES = {
+  producthunt: (config, caches) => fetchProductHunt({ ...(config.producthunt || {}), _cache: caches?.producthunt }),
+  hackernews: (config) => fetchHackerNews(config.hackernews || {}),
+  onepagelove: () => fetchOnePageLove(),
+  minimalgallery: () => fetchMinimalGallery(),
+  launchingnext: () => fetchLaunchingNext(),
+  pitchwall: () => fetchPitchWall(),
+  muuuuu: () => fetchJpGallery("muuuuu"),
+  sankou: () => fetchJpGallery("sankou"),
+  io3000: () => fetchJpGallery("io3000"),
+  webdesignclip: () => fetchJpGallery("webdesignclip"),
+  oneguu: () => fetchJpGallery("oneguu"),
+  responsivejp: () => fetchJpGallery("responsivejp"),
+  fourgamer: () => fetchGameNews("fourgamer"),
+  gamespark: () => fetchGameNews("gamespark"),
+  insidegames: () => fetchGameNews("insidegames"),
+  gamebusiness: () => fetchGameNews("gamebusiness"),
+  denfami: () => fetchGameNews("denfami"),
+  itchio: () => fetchItchio(),
+};

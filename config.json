@@ -1,0 +1,168 @@
+{
+  "port": 3210,
+  "schedule": {
+    "hour": 7,
+    "minute": 0,
+    "runOnStartIfStaleHours": 20
+  },
+  "retentionDays": 60,
+  "site": {
+    "title": "Game Sites Radar",
+    "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
+    "contactUrl": "",
+    "contactLabel": "掲載に関するお問い合わせ"
+  },
+  "meta": {
+    "maxPerRun": 300,
+    "maxAttempts": 3,
+    "concurrency": 6,
+    "timeoutMs": 15000,
+    "descriptionLength": 120
+  },
+  "focus": {
+    "enabled": true,
+    "keywords": [
+      "ゲーム", "げーむ", "\\bgames?\\b", "\\bgaming\\b", "\\bgamers?\\b", "プレイヤー", "プレイアブル", "\\bplayable\\b", "\\brpg\\b", "シューティング", "パズルゲーム", "アドベンチャーゲーム", "ローグライク", "roguelike", "metroidvania", "platformer", "visual novel", "ノベルゲーム",
+      "eスポーツ", "esports", "e-sports", "\\bsteam\\b", "nintendo switch", "switch ?2", "ニンテンドー", "playstation", "\\bps[45]\\b", "xbox", "nintendo", "任天堂", "セガ", "カプコン", "スクウェア・エニックス", "バンダイナムコ", "コナミ", "コーエーテクモ", "サイゲームス", "cygames", "ネクソン", "レベルファイブ", "アトラス", "フロム・ソフトウェア",
+      "インディーゲーム", "indie game", "同人ゲーム", "遊べる", "配信開始", "事前登録", "ガチャ", "ソシャゲ", "gacha", "ゲーミング", "アーケード", "arcade", "\\btcg\\b", "カードゲーム", "ボードゲーム", "speedrun", "\\bmmo", "\\bfps\\b", "\\bmoba\\b", "\\bjrpg\\b", "unreal engine", "godot", "itch\\.io", "ゲーム実況", "ゲームショウ", "\\btgs\\b", "bitsummit", "gamescom"
+    ]
+  },
+  "sources": {
+    "fourgamer": true,
+    "gamespark": true,
+    "insidegames": true,
+    "gamebusiness": true,
+    "denfami": true,
+    "producthunt": true,
+    "hackernews": true,
+    "onepagelove": true,
+    "minimalgallery": true,
+    "launchingnext": true,
+    "pitchwall": true,
+    "muuuuu": true,
+    "sankou": true,
+    "io3000": true,
+    "webdesignclip": true,
+    "oneguu": true,
+    "responsivejp": true,
+    "itchio": false
+  },
+  "producthunt": {
+    "resolveDelayMs": 2000,
+    "maxResolvePerRun": 60,
+    "includeUnresolved": false,
+    "categories": ["games"]
+  },
+  "hackernews": {
+    "hitsPerPage": 100,
+    "minPoints": 0,
+    "excludeHosts": [
+      "github.com", "gitlab.com", "npmjs.com", "pypi.org", "youtube.com", "youtu.be", "arxiv.org", "medium.com", "substack.com",
+      "news.ycombinator.com", "x.com", "twitter.com", "apps.apple.com", "play.google.com", "chromewebstore.google.com", "huggingface.co", "crates.io"
+    ]
+  },
+  "blocklist": {
+    "words": [
+      "porn", "porno", "xxx", "nsfw", "adult content", "adult site", "adult only", "adults only", "18+", "r18", "r-18",
+      "sex", "sexy", "sexual", "nude", "nudes", "nudity", "naked", "erotic", "erotica", "hentai", "eroge",
+      "onlyfans", "camgirl", "cam girl", "webcam girls", "escort", "escorts", "hookup", "hook up",
+      "fetish", "bdsm", "milf", "boobs", "tits", "dick", "cock", "pussy", "anal", "orgasm",
+      "stripper", "strip club", "sugar daddy", "sugar baby", "nsfw ai", "ai girlfriend", "ai boyfriend",
+      "virtual girlfriend", "undress", "deepnude", "sexting", "lewd", "waifu generator",
+      "アダルト", "エロ", "ポルノ", "無修正", "セックス", "風俗", "出会い系", "エッチ", "ヌード", "成人向け", "18禁", "美少女ゲーム", "エロゲ", "抜きゲー", "官能"
+    ],
+    "tlds": [".xxx", ".porn", ".sex", ".adult", ".sexy", ".cam"],
+    "hosts": ["dlsite.com", "dmm.co.jp", "fanza.com", "getchu.com", "nutaku.net"]
+  },
+  "platforms": [
+    { "id": "switch", "label": "Switch", "pattern": "Nintendo Switch|Switch ?2|Switch版|Switch向け|for Switch|on Switch|ニンテンドースイッチ|スイッチ版" },
+    { "id": "ps", "label": "PlayStation", "pattern": "PlayStation|プレイステーション|\\bPS[45]\\b|PS ?VR" },
+    { "id": "xbox", "label": "Xbox", "pattern": "Xbox|Game Pass" },
+    { "id": "pc", "label": "PC / Steam", "pattern": "\\bSteam\\b|\\bPC\\b|PC版|PC向け|Epic Games|\\bGOG\\b" },
+    { "id": "mobile", "label": "スマホ", "pattern": "iOS|Android|スマホ|スマートフォン|App Store|Google Play|モバイル|\\bmobile\\b|スマホアプリ|ゲームアプリ" },
+    { "id": "browser", "label": "ブラウザ", "pattern": "ブラウザ|browser|HTML5|Web ?ゲーム|playable in|play (it )?(in|on) your|in the browser" },
+    { "id": "arcade", "label": "アーケード", "pattern": "アーケード|arcade|ゲームセンター" },
+    { "id": "vr", "label": "VR", "pattern": "\\bVR\\b|Meta Quest|PSVR|Vision Pro" }
+  ],
+  "categories": [
+    {
+      "id": "teaser",
+      "label": "ティザー・カウントダウン",
+      "ph": [],
+      "tags": ["ティザーサイト"],
+      "keywords": ["ティザー", "teaser", "カウントダウン", "countdown", "近日公開", "coming soon", "始動", "プロジェクト発表", "新作発表", "正式発表", "新作.{0,12}発表", "発表.{0,6}新作", "初公開", "電撃発表", "announce"]
+    },
+    {
+      "id": "prereg",
+      "label": "事前登録・予約",
+      "ph": [],
+      "tags": ["事前登録"],
+      "keywords": ["事前登録", "予約受付", "予約開始", "pre-?registration", "pre-?register", "pre-?order", "ウィッシュリスト", "wishlist", "βテスト", "ベータテスト", "CBT", "OBT", "テスター募集", "先行体験"]
+    },
+    {
+      "id": "anniversary",
+      "label": "周年・記念",
+      "ph": [],
+      "tags": ["周年"],
+      "keywords": ["周年", "anniversary", "記念", "ハーフアニバーサリー", "half anniversary", "\\d+万本突破", "\\d+万(DL|ダウンロード)突破"]
+    },
+    {
+      "id": "campaign",
+      "label": "特設・キャンペーン",
+      "ph": [],
+      "tags": ["特設サイト", "特設サイト･キャンペーンサイト･プロモーションサイト", "キャンペーンサイト", "スペシャルサイト"],
+      "keywords": ["特設", "キャンペーン", "\\bcampaign\\b", "スペシャルサイト", "プロモーション", "コラボ", "\\bcollab", "フェア", "プレゼント", "抽選", "ハロウィン", "クリスマス", "年末年始", "夏休み", "ゴールデンウィーク", "セール", "\\bsale\\b", "giveaway"]
+    },
+    {
+      "id": "event",
+      "label": "イベント・大会・eスポーツ",
+      "ph": [],
+      "tags": ["イベント", "イベント･お祭り･アワード"],
+      "keywords": ["大会", "eスポーツ", "esports", "e-sports", "トーナメント", "\\btournament", "リーグ", "イベント", "\\bTGS\\b", "東京ゲームショウ", "ゲームショウ", "BitSummit", "gamescom", "ライブ", "フェス", "展示", "出展", "開催", "生放送", "配信番組", "ポップアップ", "コンサート", "オーケストラ", "\\bevent\\b", "\\bexpo\\b", "\\bconvention\\b"]
+    },
+    {
+      "id": "release",
+      "label": "配信・発売",
+      "ph": [],
+      "tags": [],
+      "keywords": ["配信開始", "サービス開始", "発売", "リリース", "\\brelease", "\\blaunch", "now available", "配信決定", "発売決定", "発売日", "アップデート", "\\bupdate", "アーリーアクセス", "early access", "体験版", "\\bdemo\\b", "\\bDLC\\b", "新章", "シーズン\\d|シーズン ?[0-9１-９]|新シーズン"]
+    },
+    {
+      "id": "indie",
+      "label": "インディー・個人開発",
+      "ph": [],
+      "tags": ["インディー", "Show HN"],
+      "keywords": ["インディー", "\\bindie\\b", "同人", "個人開発", "個人制作", "solo dev", "one-man", "game jam", "ゲームジャム", "itch\\.io", "I made", "I built", "my game", "side project", "open.?source game", "Show HN"]
+    },
+    {
+      "id": "browser",
+      "label": "ブラウザ・Web ゲーム",
+      "ph": [],
+      "tags": ["ゲーム･クイズ･ジェネレーター"],
+      "keywords": ["ブラウザゲーム", "ブラウザで", "Web ?ゲーム", "browser game", "in your browser", "in the browser", "playable in", "play (it )?online", "play now", "HTML5", "WebGL", "診断", "クイズ", "ジェネレーター", "ミニゲーム", "wordle", "daily puzzle", "\\bmultiplayer\\b", "\\.io game", "no download", "インストール不要"]
+    },
+    {
+      "id": "company",
+      "label": "ゲーム会社・採用",
+      "ph": [],
+      "tags": ["コーポレート", "採用サイト", "コーポレートサイト・企業サイト", "企業サイト・事務所・ビジネス"],
+      "keywords": ["株式会社", "有限会社", "合同会社", "Inc\\.", "Co\\., ?Ltd", "採用", "リクルート", "求人", "新卒", "キャリア採用", "\\bcareers?\\b", "\\brecruit", "コーポレート", "corporate", "スタジオ設立", "新スタジオ", "\\bstudios?\\b", "デベロッパー", "パブリッシャー", "\\bpublisher\\b", "設立", "会社概要", "ゲーム会社"]
+    },
+    {
+      "id": "media",
+      "label": "メディア・コミュニティ・ツール",
+      "ph": [],
+      "tags": ["Developer Tools", "開発ツール"],
+      "keywords": ["攻略", "\\bwiki\\b", "データベース", "\\bdatabase\\b", "コミュニティ", "\\bcommunity\\b", "掲示板", "フォーラム", "\\bforum\\b", "ファンサイト", "fan ?site", "ツール", "\\btools?\\b", "\\btracker\\b", "ビルダー", "\\bbuilder\\b", "計算機", "\\bcalculator\\b", "シミュレーター", "\\bsimulator\\b", "ランキングサイト", "\\bleaderboard\\b", "ニュースサイト", "ゲームメディア", "配信者", "\\bstreamers?\\b", "\\bmods?\\b", "ゲームエンジン", "game engine", "\\bSDK\\b", "\\bAPI\\b", "アセット", "\\bassets?\\b", "ゲーム開発", "game dev", "gamedev", "\\bUnity\\b", "Unreal", "Godot"]
+    },
+    {
+      "id": "goods",
+      "label": "グッズ・ストア",
+      "ph": [],
+      "tags": ["ECサイト / オンラインショップ"],
+      "keywords": ["グッズ", "\\bgoods\\b", "\\bmerch", "フィギュア", "\\bfigures?\\b", "ぬいぐるみ", "一番くじ", "くじ", "オンラインストア", "公式ストア", "\\bstore\\b", "ショップ", "\\bshop\\b", "通販", "ECサイト", "受注", "予約販売", "限定版", "コレクターズ", "サウンドトラック", "soundtrack", "\\bOST\\b", "アートブック", "設定資料集", "コラボカフェ", "プライズ"]
+    }
+  ],
+  "fallbackCategory": { "id": "official", "label": "公式サイト" },
+  "defaultCategoryBySourceKind": { "news": "official", "gallery": "official", "launch": "indie" }
+}
