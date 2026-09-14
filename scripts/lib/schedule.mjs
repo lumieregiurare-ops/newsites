@@ -491,9 +491,17 @@ export function trackChanges(data, cache, now, historyDays) {
   // 「事前登録開始」は、いま事前登録を受け付けているタイトルにだけ出す（配信済みなら消える）
   const key = (t) => (t || "").toLowerCase().replace(/\s+/g, "");
   const live = new Set([...data.releases, ...data.prereg].map((x) => key(x.title)));
-  const livePrereg = new Set(data.prereg.map((p) => key(p.title)));
+  const preregByKey = new Map(data.prereg.map((p) => [key(p.title), p]));
   return [...cache.changeLog]
     .reverse()
-    .filter((c) => (c.type === "prereg_start" ? livePrereg.has(key(c.title)) : live.has(key(c.title))))
+    .filter((c) => (c.type === "prereg_start" ? preregByKey.has(key(c.title)) : live.has(key(c.title))))
+    .map((c) => {
+      // 「事前登録開始」の配信日は記録時点の値ではなく、いま分かっている値（出典付き）を出す。
+      // 記録当時の抽出ミスが履歴に残り続けないようにするため
+      if (c.type !== "prereg_start") return c;
+      const p = preregByKey.get(key(c.title));
+      const to = p.releaseText ? (p.releaseSource === "appstore" ? `App Store ${p.releaseText}` : p.releaseText) : "";
+      return { ...c, to };
+    })
     .slice(0, 60);
 }

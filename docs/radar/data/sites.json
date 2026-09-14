@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T07:08:00.181Z",
+  "updatedAt": "2026-09-14T07:16:43.025Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 76,
+  "total": 78,
   "regions": {
-    "jp": 66,
+    "jp": 68,
     "global": 10
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 10
+      "count": 11
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 29
+      "count": 30
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 34
+      "count": 35
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "Hacker News",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5f3891a17ebe",
+      "url": "https://japan-kakurenbo.com/",
+      "host": "japan-kakurenbo.com",
+      "region": "jp",
+      "title": "“無人島”を舞台に大人100人が全力でかくれんぼをする参加型イベントが10月31日より開催",
+      "headline": "“無人島”を舞台に大人100人が全力でかくれんぼをする参加型イベントが10月31日より開催。BBQやドカン風呂、イカダづくりなども楽しめる究極のアウトドア体験",
+      "description": "日本かくれんぼ協会ホームページ",
+      "publishedAt": "2026-09-14T07:15:28.000Z",
+      "addedAt": "2026-09-14T07:16:43.025Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609142f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://japan-kakurenbo.com/wp/wp-content/uploads/2019/04/logo.jpg"
+    },
     {
       "id": "e97e5767d909",
       "url": "https://apps.apple.com/jp/app/valheim/id1554294918?mt=12",
@@ -2047,6 +2074,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/1c/74/b61c747d-cee3-287c-fb6d-dc902346a318/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "d10f93a61f26",
+      "url": "https://funjoysmith.com/",
+      "host": "funjoysmith.com",
+      "region": "jp",
+      "title": "Tap Block Out: Color Puzzle",
+      "headline": "Funsmith(Beijing) Technology Co., Ltd / カジュアル・パズル · App Store 新着",
+      "description": "Funsmith(Beijing) Technology Co., Ltd / カジュアル・パズル · App Store 新着",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "addedAt": "2026-09-14T07:16:43.025Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/tap-block-out-color-puzzle/id6798072890"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "f13b7813729b",
