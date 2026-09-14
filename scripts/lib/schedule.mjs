@@ -467,6 +467,29 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
   stats.appstore = appStats;
   stats.prereg = prereg.length;
 
+  // ---------- 配信済みになったものを事前登録から外す ----------
+  // 事前登録の根拠が古い記事 1 本だけだと、配信開始後も載り続けてしまう。
+  //  1) 公式サイトの説明文（OGP）に「配信中」などがあれば配信済み
+  //  2) App Store で該当アプリが見つかり、予約ではなく配信済みなら配信済み
+  //  3) App Store で確認できず記事だけが根拠のものは、記事から一定日数で外す（延々と載せない）
+  const RELEASED_RE = /配信中|好評配信中|サービス中|絶賛配信|ダウンロード(は)?こちら|今すぐ(プレイ|ダウンロード)|now available|available now|out now|download now/i;
+  const preregMaxAge = (cfg.preregMaxAgeDays ?? 45) * 86400000;
+  const before = prereg.length;
+  for (let i = prereg.length - 1; i >= 0; i--) {
+    const p = prereg[i];
+    let reason = null;
+    if (p.appStore && !p.appStore.preorder) reason = "released on App Store";
+    else if (RELEASED_RE.test(p.description || "")) reason = "official site says released";
+    else if (!p.appStore?.preorder && p.verified !== false && p.startedAt && now.getTime() - new Date(p.startedAt).getTime() > preregMaxAge) reason = "article too old";
+    if (reason) {
+      stats.preregDropped = stats.preregDropped || [];
+      stats.preregDropped.push({ title: p.title, reason });
+      prereg.splice(i, 1);
+    }
+  }
+  if (before !== prereg.length) log(`prereg: dropped ${before - prereg.length} as released/stale`);
+  stats.prereg = prereg.length;
+
   prereg.sort((a, b) => new Date(b.startedAt) - new Date(a.startedAt));
 
   // ニュース見出し由来の発売日も、App Store に確定した配信予定日があればそちらに合わせる
