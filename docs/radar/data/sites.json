@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T06:12:24.392Z",
+  "updatedAt": "2026-09-14T06:21:16.006Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 88,
+  "total": 90,
   "regions": {
-    "jp": 77,
+    "jp": 79,
     "global": 11
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 6
+      "count": 7
     },
     {
       "id": "anniversary",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 14
+      "count": 15
     }
   ],
   "platforms": [
@@ -122,15 +122,69 @@
   ],
   "sources": [
     "Inside",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Hacker News",
     "GameBusiness.jp",
     "App Store",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3bca2b9d4d65",
+      "url": "https://yu-gi-oh.jp/",
+      "host": "yu-gi-oh.jp",
+      "region": "jp",
+      "title": "遊戯王OCG",
+      "headline": "『遊戯王OCG』罪宝カード全98枚をセットにした「COMPLETE FILE －罪宝狩りの悪魔－」9月15日予約開始！新たな「ディアベルスター」も収録",
+      "description": "『遊戯王OCG』罪宝カード全98枚をセットにした「COMPLETE FILE －罪宝狩りの悪魔－」9月15日予約開始！新たな「ディアベルスター」も収録",
+      "publishedAt": "2026-09-14T06:15:02.000Z",
+      "addedAt": "2026-09-14T06:20:20.602Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187717.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "cec8fca899c4",
+      "url": "https://www.arcsystemworks.jp/demonsnightfever/",
+      "host": "arcsystemworks.jp",
+      "region": "jp",
+      "title": "デモンズナイトフィーバー",
+      "headline": "敵も味方も“キルしまくる”新感覚シミュレーションRPG『デモンズナイトフィーバー』ニンテンドーストアページが公開。DL版の予約を受付中",
+      "description": "敵も味方もキルキルキル 死ねば死ぬほど強くなる育成RTAシミュレーションRPG",
+      "publishedAt": "2026-09-14T06:14:40.000Z",
+      "addedAt": "2026-09-14T06:20:20.602Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.arcsystemworks.jp/demonsnightfever/assets/image/ogp_jp.jpg"
+    },
     {
       "id": "718e4c956cd2",
       "url": "https://muvluv.com/",

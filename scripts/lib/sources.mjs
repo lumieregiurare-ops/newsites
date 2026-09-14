@@ -408,17 +408,15 @@ export function analyzeArticleBody(html, title = "") {
     .replace(/<head[\s\S]*?<\/head>/i, "")
     .replace(CHROME_RE, " ")
     .replace(/<ul\b[^>]*class="[^"]*(nav|menu|breadcrumb|global)[^"]*"[\s\S]*?<\/ul>/gi, " ");
-  const text = stripTags(cleaned).slice(0, 20000);
-  const scope = `${title}\n${text}`;
+  // 記事の後ろには関連記事・別タイトルの情報が続くことが多いので、判定は本文の前半に限る
+  const lead = stripTags(cleaned).slice(0, 6000);
+  const scope = `${title}\n${lead}`;
 
   const ended = PREREG_END_RE.test(scope);
   const prereg = !ended && (PREREG_ACTIVE_RE.test(scope) || /事前登録|予約注文/.test(title));
 
   const countM = scope.match(/事前登録者?数?[^。\n]{0,12}?([\d,.]+\s*[万億]?)\s*人/);
   const rewardM = scope.match(/事前登録(?:特典|報酬)(?:として|には|は|に|：|:)?\s*[「『]?([^。」』\n]{4,60})/);
-  const releaseM = scope.match(
-    /(\d{4}年\s*\d{1,2}月\s*\d{1,2}日|\d{4}年\s*\d{1,2}月|\d{1,2}月\s*\d{1,2}日|\d{4}年(?:初頭|春|夏|秋|冬|内|前半|後半)|\d{4}年第[1-4]四半期)\s*(?:に|より|から)?\s*(?:正式)?(?:配信|リリース|サービス開始|ローンチ|発売)/
-  );
 
   const iosM =
     cleaned.match(/apps\.apple\.com\/[a-z]{2}\/app\/[^"'\s]*?\/id(\d+)/) ||
@@ -430,7 +428,6 @@ export function analyzeArticleBody(html, title = "") {
     preregEnded: ended,
     count: countM ? countM[0].replace(/\s+/g, "") : "",
     reward: rewardM ? rewardM[1].trim().slice(0, 50) : "",
-    releaseText: releaseM ? releaseM[0].replace(/\s+/g, "") : "",
     ios: iosM?.[1] || "",
     android: androidM?.[1] || "",
   };

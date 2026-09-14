@@ -130,6 +130,27 @@
     }
   }
 
+  // 配信日は出どころによって信頼度が違うので、どこの情報かを添える
+  function releaseChip(p) {
+    const s = document.createElement("span");
+    if (!p.releaseText) {
+      s.className = "rel-unknown";
+      s.textContent = "配信日未定";
+      s.title = "配信日がまだ発表されていないか、確認できていません";
+      return s;
+    }
+    if (p.releaseSource === "appstore") {
+      s.className = "rel-store";
+      s.textContent = `App Store 表記 ${p.releaseText}`;
+      s.title = "App Store の予約ページに表示されている日付です。実際の配信日と異なることがあります";
+      return s;
+    }
+    s.className = "rel-news";
+    s.textContent = p.releaseText;
+    s.title = "掲載元の記事見出しに書かれていた日付です";
+    return s;
+  }
+
   function renderPrereg() {
     const grid = $("#preregGrid");
     grid.innerHTML = "";
@@ -158,11 +179,7 @@
       t.textContent = p.title;
       const meta = node.querySelector(".prereg-meta");
       for (const c of platformChips(p.platforms, labels)) meta.appendChild(c);
-      if (p.releaseText) {
-        const s = document.createElement("span");
-        s.textContent = p.releaseText + (/配信|発売|リリース/.test(p.releaseText) ? "" : " 配信予定");
-        meta.appendChild(s);
-      }
+      meta.appendChild(releaseChip(p));
       if (p.count) {
         const s = document.createElement("span");
         s.className = "prereg-count";

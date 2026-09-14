@@ -134,6 +134,8 @@ function nearestFutureDate(month, day, now) {
 export function extractReleaseFromHeadline(headline, now = new Date()) {
   if (!headline || !RELEASE_WORD.test(headline)) return null;
   if (NON_GAME.test(headline)) return null;
+  // 「特別番組が◯月◯日より配信」のような、作品そのものの配信ではない見出しを弾く
+  if (NOT_A_RELEASE.test(headline)) return null;
   // イベント系だけの見出しは除外（「発売」などの語が無い場合）
   if (EVENT_ONLY.test(headline) && !/発売|配信開始|リリース|サービス開始|ローンチ/.test(headline)) return null;
 
@@ -159,25 +161,51 @@ export function extractReleaseFromHeadline(headline, now = new Date()) {
 export function appStoreReleaseText(iso) {
   if (!iso) return "";
   const d = new Date(iso);
-  const isPlaceholder = (d.getMonth() === 11 && d.getDate() === 31) || (d.getMonth() === 0 && d.getDate() === 1);
-  if (isPlaceholder) return "配信日未定";
+  // 12/31 や 1/1、1 年以上先の日付は「未定」を埋めるための仮日付なので日付として扱わない
+  const isPlaceholder =
+    (d.getMonth() === 11 && d.getDate() === 31) ||
+    (d.getMonth() === 0 && d.getDate() === 1) ||
+    d.getTime() - Date.now() > 365 * 86400000;
+  if (isPlaceholder) return "";
   return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
 }
 
-// 事前登録の判定: 記事本文の解析結果を最優先、無ければ見出しから
+// 記事の見出しからだけ配信日を読み取る。
+// 本文全体を対象にすると、関連記事や別タイトルの日付を拾ってしまうため使わない。
+const NOT_A_RELEASE = /番組|放送|生配信|特番|発表会|上映|ライブ|イベント|先行プレイ|試遊|配信者|ストリーマー|公開収録|カウントダウン/;
+const RELEASE_VERB = "(?:正式)?(?:配信|リリース|サービス(?:開始|イン)|ローンチ|発売|オープン)";
+
+export function releaseTextFromHeadline(headline) {
+  if (!headline) return "";
+  // 番組や生放送の日時を配信日と取り違えないようにする
+  if (NOT_A_RELEASE.test(headline)) return "";
+
+  // 「9月24日リリース」「2027年4月22日に発売」（直後に時刻が来るものは除く）
+  let m = headline.match(new RegExp(`(\\d{4}年)?\\s*(\\d{1,2})月\\s*(\\d{1,2})日(?!\\s*\\d{1,2}\\s*[:：時])\\s*(?:に|より|から)?\\s*${RELEASE_VERB}`));
+  if (m) return m[0].replace(/\s+/g, "");
+  // 「2027年春リリース」「2026年内に配信」「2026年第4四半期に配信」
+  m = headline.match(new RegExp(`\\d{4}年\\s*(?:内|初頭|前半|後半|春|夏|秋|冬|第[1-4]四半期|\\d{1,2}月)?\\s*(?:に|より|から)?\\s*${RELEASE_VERB}`));
+  if (m) return m[0].replace(/\s+/g, "");
+  // 「正式サービス開始日が9月14日に決定」「配信日は10月2日」
+  m = headline.match(/(?:正式)?(?:配信|リリース|発売|サービス開始|サービスイン)日(?:が|は|:|：)?\s*((?:\d{4}年)?\s*\d{1,2}月\s*\d{1,2}日)/);
+  if (m) return m[1].replace(/\s+/g, "") + "配信";
+  return "";
+}
+
+// 事前登録の判定。配信日は見出し由来のものだけを使い、無ければ App Store の表記に頼る
 export function extractPrereg(item) {
   const a = item.article;
+  const headlineRelease = releaseTextFromHeadline(item.headline || "");
   if (a) {
     if (a.preregEnded) return null;
     if (a.prereg) {
-      return { releaseText: a.releaseText || "", count: a.count || "", reward: a.reward || "", from: "body" };
+      return { releaseText: headlineRelease, releaseSource: headlineRelease ? "news" : "", count: a.count || "", reward: a.reward || "" };
     }
     return null;
   }
   const headline = item.headline;
   if (!headline || !/事前登録/.test(headline) || !PREREG_START.test(headline)) return null;
-  const rel = headline.match(/(\d{4}年)?\s*(\d{1,2}月)\s*(\d{1,2}日)?\s*(に|より|から)?\s*(配信|リリース|サービス開始|正式サービス|ローンチ)/);
-  return { releaseText: rel ? rel[0].replace(/\s+/g, "") : "", count: "", reward: "", from: "headline" };
+  return { releaseText: headlineRelease, releaseSource: headlineRelease ? "news" : "", count: "", reward: "" };
 }
 
 // ---------- 統合 ----------
@@ -256,6 +284,7 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
         platforms: platforms.length ? platforms : ["mobile"],
         startedAt: it.publishedAt,
         releaseText: pre.releaseText,
+        releaseSource: pre.releaseSource || "",
         count: pre.count,
         reward: pre.reward,
         headline: truncate(it.headline, 90),
@@ -326,7 +355,13 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
       if (existing) {
         existing.appStore = { url: app.storeUrl, preorder: app.isPreorder, releaseDate: app.releaseDate };
         if (!existing.image && app.image) existing.image = app.image;
-        if (!existing.releaseText && app.isPreorder) existing.releaseText = appStoreReleaseText(app.releaseDate);
+        if (!existing.releaseText && app.isPreorder) {
+          const t = appStoreReleaseText(app.releaseDate);
+          if (t) {
+            existing.releaseText = t;
+            existing.releaseSource = "appstore";
+          }
+        }
         continue;
       }
       if (!app.isPreorder) continue;
@@ -340,6 +375,7 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
         platforms: platforms.length ? platforms : ["mobile"],
         startedAt: it.publishedAt,
         releaseText: appStoreReleaseText(app.releaseDate),
+        releaseSource: appStoreReleaseText(app.releaseDate) ? "appstore" : "",
         count: "",
         reward: "",
         headline: truncate(it.headline || "", 90),

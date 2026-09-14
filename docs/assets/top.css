@@ -961,6 +961,20 @@ dd {
   font-weight: 700;
 }
 
+.rel-news {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.rel-store,
+.rel-unknown {
+  color: var(--text-muted);
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  padding: 1px 7px;
+  font-size: 11px;
+}
+
 /* ---------- changes ---------- */
 .changes {
   margin-top: 36px;
