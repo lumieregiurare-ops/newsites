@@ -137,6 +137,7 @@ for (const r of raw) {
       title: r.title,
       headline: r.headline,
       description: fallbackDescription(r),
+      article: r.article || null,
       publishedAt: r.publishedAt || nowIso,
       addedAt: nowIso,
       source: r.source,
@@ -165,6 +166,7 @@ for (const r of raw) {
     if (!prev.description && !prev.ogDescription) prev.description = fallbackDescription(r);
     if (!prev.headline && r.headline) prev.headline = r.headline;
     if (!prev.sourceKind) prev.sourceKind = r.sourceKind;
+    if (r.article) prev.article = r.article; // 記事本文の解析結果は最新で上書き（事前登録の終了を反映するため）
     if (r.points != null) prev.points = r.points;
     for (const t of r.tags || []) if (!prev.tags.includes(t)) prev.tags.push(t);
     prev.phCategories = [...new Set([...(prev.phCategories || []), ...(r.phCategories || [])])];
@@ -294,11 +296,21 @@ await writeJson(join(ROOT, "data", "state.json"), { items });
 let scheduleStats = null;
 if (config.releases?.enabled !== false) {
   try {
-    const schedule = await buildSchedule(config, items, { platformDetector: (it) => categorizer.detectPlatforms(it) });
+    // スケジュールの状態（タイトルごとの発売日・事前登録・変更履歴）は
+    // GitHub Actions でも引き継げるよう、コミット対象のファイルに保存する
+    const stateFile = join(ROOT, "data", "schedule-state.json");
+    const scheduleCache = await readJson(stateFile, {});
+    const schedule = await buildSchedule(config, items, {
+      platformDetector: (it) => categorizer.detectPlatforms(it),
+      cache: scheduleCache,
+    });
     schedule.platforms = categorizer.platforms;
     await writeJson(join(ROOT, "docs", "data", "schedule.json"), schedule);
-    scheduleStats = { ...schedule.stats, releases: schedule.releases.length };
-    log(`schedule: releases=${schedule.releases.length} prereg=${schedule.prereg.length} (${JSON.stringify(schedule.stats)})`);
+    await writeJson(stateFile, scheduleCache);
+    scheduleStats = { ...schedule.stats, releases: schedule.releases.length, changes: schedule.changes.length };
+    log(
+      `schedule: releases=${schedule.releases.length} prereg=${schedule.prereg.length} changes=${schedule.changes.length} (${JSON.stringify(schedule.stats)})`
+    );
   } catch (e) {
     scheduleStats = { error: e.message };
     log("schedule failed:", e.message);

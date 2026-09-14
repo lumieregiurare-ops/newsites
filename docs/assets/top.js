@@ -254,23 +254,91 @@
       const t = node.querySelector(".prereg-title a");
       t.href = p.url;
       t.textContent = p.title;
-      const meta = node.querySelector(".prereg-meta");
-      for (const c of platformChips(p.platforms, labels)) meta.appendChild(c);
-      if (p.releaseText) {
-        const s = document.createElement("span");
-        s.textContent = p.releaseText;
-        meta.appendChild(s);
-      }
-      const started = document.createElement("span");
-      started.textContent = `${relTime(p.startedAt)}に開始`;
-      meta.appendChild(started);
-      const hl = node.querySelector(".prereg-headline");
-      hl.textContent = p.headline || "";
-      hl.href = p.sourceUrl || p.url;
-      hl.hidden = !p.headline;
-      node.querySelector(".prereg-link").href = p.url;
+      fillPreregMeta(node, p, labels);
       grid.appendChild(node);
     }
+  }
+
+  function fillPreregMeta(node, p, labels) {
+    const meta = node.querySelector(".prereg-meta");
+    for (const c of platformChips(p.platforms, labels)) meta.appendChild(c);
+    if (p.releaseText) {
+      const s = document.createElement("span");
+      s.textContent = p.releaseText + (/配信|発売|リリース/.test(p.releaseText) ? "" : " 配信予定");
+      meta.appendChild(s);
+    }
+    if (p.count) {
+      const s = document.createElement("span");
+      s.className = "prereg-count";
+      s.textContent = p.count;
+      meta.appendChild(s);
+    }
+    const started = document.createElement("span");
+    started.textContent = `${relTime(p.startedAt)}に判明`;
+    meta.appendChild(started);
+
+    const reward = node.querySelector(".prereg-reward");
+    if (p.reward) {
+      reward.hidden = false;
+      reward.textContent = `特典: ${p.reward}`;
+    }
+    const hl = node.querySelector(".prereg-headline");
+    hl.textContent = p.headline || "";
+    hl.href = p.sourceUrl || p.url;
+    hl.hidden = !p.headline;
+    node.querySelector(".prereg-link").href = p.url;
+    const store = node.querySelector(".prereg-store");
+    if (p.appStore?.url) {
+      store.hidden = false;
+      store.href = p.appStore.url;
+      store.textContent = p.appStore.preorder ? "App Store で予約" : "App Store";
+    }
+  }
+
+  function renderChanges(sched) {
+    const box = $("#changesBox");
+    const list = $("#changesList");
+    const changes = (sched.changes || []).slice(0, 6);
+    if (!changes.length) {
+      box.hidden = true;
+      return;
+    }
+    box.hidden = false;
+    list.innerHTML = "";
+    for (const c of changes) list.appendChild(changeRow(c));
+  }
+
+  function changeRow(c) {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = c.url || "#";
+    if (c.url) {
+      a.target = "_blank";
+      a.rel = "noopener noreferrer";
+    }
+    const badge = document.createElement("span");
+    badge.className = `change-badge change-${c.type}`;
+    badge.textContent = c.label;
+    const text = document.createElement("span");
+    text.className = "change-text";
+    text.textContent = c.title;
+    if (c.from && c.to) {
+      const sub = document.createElement("span");
+      sub.className = "change-from";
+      sub.textContent = ` ${c.from} → ${c.to}`;
+      text.appendChild(sub);
+    } else if (c.to) {
+      const sub = document.createElement("span");
+      sub.className = "change-from";
+      sub.textContent = ` ${c.to}`;
+      text.appendChild(sub);
+    }
+    const when = document.createElement("span");
+    when.className = "change-when";
+    when.textContent = relTime(c.at);
+    a.append(badge, text, when);
+    li.appendChild(a);
+    return li;
   }
 
   async function loadSchedule() {
@@ -280,6 +348,7 @@
       const sched = await r.json();
       renderSchedule(sched);
       renderPrereg(sched);
+      renderChanges(sched);
       const u = new Date(sched.updatedAt);
       $("#scheduleUpdated").textContent = `最終更新 ${u.getMonth() + 1}/${u.getDate()}`;
     } catch {

@@ -395,6 +395,47 @@ function gameNameFromTitle(title) {
   return truncate(title.split(/[ー―！!。]/)[0], 60);
 }
 
+// 記事本文から事前登録の状況・特典・登録者数・配信時期・ストア ID を読み取る。
+// 見出しに「事前登録開始」と書かれない記事を取りこぼさないための処理。
+const PREREG_ACTIVE_RE =
+  /事前登録(?:キャンペーン)?(?:の)?(?:受付)?(?:が|を|は|も)?(?:本日|現在|すでに)?(?:より|から)?(?:開始|受付中|実施中|スタート|受付開始|受け付け中)|事前登録受付|事前登録はこちら|事前登録者数|事前登録特典|事前登録報酬|予約注文(?:が|を|は)?(?:開始|受付中|受付開始)|事前予約(?:が|を|は)?(?:開始|受付中)/;
+const PREREG_END_RE = /事前登録(?:の受付)?(?:は|が|を)?(?:終了|締め切|締切|終了しま)/;
+// サイト共通のナビゲーション（「事前登録情報」などのリンク集）を落とす
+const CHROME_RE = /<(nav|header|footer|aside|script|style|form|select)\b[\s\S]*?<\/\1>/gi;
+
+export function analyzeArticleBody(html, title = "") {
+  const cleaned = html
+    .replace(/<head[\s\S]*?<\/head>/i, "")
+    .replace(CHROME_RE, " ")
+    .replace(/<ul\b[^>]*class="[^"]*(nav|menu|breadcrumb|global)[^"]*"[\s\S]*?<\/ul>/gi, " ");
+  const text = stripTags(cleaned).slice(0, 20000);
+  const scope = `${title}\n${text}`;
+
+  const ended = PREREG_END_RE.test(scope);
+  const prereg = !ended && (PREREG_ACTIVE_RE.test(scope) || /事前登録|予約注文/.test(title));
+
+  const countM = scope.match(/事前登録者?数?[^。\n]{0,12}?([\d,.]+\s*[万億]?)\s*人/);
+  const rewardM = scope.match(/事前登録(?:特典|報酬)(?:として|には|は|に|：|:)?\s*[「『]?([^。」』\n]{4,60})/);
+  const releaseM = scope.match(
+    /(\d{4}年\s*\d{1,2}月\s*\d{1,2}日|\d{4}年\s*\d{1,2}月|\d{1,2}月\s*\d{1,2}日|\d{4}年(?:初頭|春|夏|秋|冬|内|前半|後半)|\d{4}年第[1-4]四半期)\s*(?:に|より|から)?\s*(?:正式)?(?:配信|リリース|サービス開始|ローンチ|発売)/
+  );
+
+  const iosM =
+    cleaned.match(/apps\.apple\.com\/[a-z]{2}\/app\/[^"'\s]*?\/id(\d+)/) ||
+    cleaned.match(/apps\.apple\.com\/[a-z]{2}\/app\/id(\d+)/);
+  const androidM = cleaned.match(/play\.google\.com\/store\/apps\/details\?id=([\w.]+)/);
+
+  return {
+    prereg,
+    preregEnded: ended,
+    count: countM ? countM[0].replace(/\s+/g, "") : "",
+    reward: rewardM ? rewardM[1].trim().slice(0, 50) : "",
+    releaseText: releaseM ? releaseM[0].replace(/\s+/g, "") : "",
+    ios: iosM?.[1] || "",
+    android: androidM?.[1] || "",
+  };
+}
+
 export async function fetchGameNews(key) {
   const g = GAME_NEWS[key];
   const byLink = new Map();
@@ -434,7 +475,13 @@ export async function fetchGameNews(key) {
     if (/ティザー/.test(e.title)) tags.push("ティザーサイト");
     if (/特設|キャンペーン|スペシャルサイト/.test(e.title)) tags.push("特設サイト");
     if (/周年/.test(e.title)) tags.push("周年");
-    if (/事前登録/.test(e.title)) tags.push("事前登録");
+
+    const body = analyzeArticleBody(html, e.title);
+    if (body.prereg) tags.push("事前登録");
+    if (body.ios) tags.push("iOS");
+    if (body.android) tags.push("Android");
+    if (body.ios || body.android) tags.push("スマホ");
+
     return {
       source: g.name,
       sourceKind: "news",
@@ -444,9 +491,10 @@ export async function fetchGameNews(key) {
       title: gameNameFromTitle(e.title),
       description: truncate(e.title, 200),
       publishedAt: e.date ? new Date(e.date).toISOString() : null,
-      tags,
+      tags: [...new Set(tags)],
       phCategories: [],
       image: "",
+      article: body,
     };
   });
   return items.filter((x) => x && !x.error && !seen.has(x.url) && seen.add(x.url));

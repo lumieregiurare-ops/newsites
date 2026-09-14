@@ -1,11 +1,16 @@
 {
-  "updatedAt": "2026-09-14T05:06:31.874Z",
+  "updatedAt": "2026-09-14T05:58:17.195Z",
   "daysAhead": 120,
   "stats": {
-    "nintendo": 263,
+    "nintendo": 264,
     "steam": 100,
     "news": 20,
-    "prereg": 0
+    "appstore": {
+      "searched": 17,
+      "matched": 9,
+      "preorder": 0
+    },
+    "prereg": 5
   },
   "releases": [
     {
@@ -174,7 +179,7 @@
       "date": "2026-09-14",
       "dateText": "2026年9月14日",
       "sortKey": "2026-09-14",
-      "priority": 3.073,
+      "priority": 3.072,
       "platforms": [
         "pc"
       ],
@@ -190,7 +195,7 @@
       "date": "2026-09-14",
       "dateText": "2026年9月14日",
       "sortKey": "2026-09-14",
-      "priority": 3.072,
+      "priority": 3.073,
       "platforms": [
         "pc"
       ],
@@ -702,7 +707,7 @@
       "date": "2026-09-16",
       "dateText": "2026年9月16日",
       "sortKey": "2026-09-16",
-      "priority": 3.08,
+      "priority": 3.081,
       "platforms": [
         "pc"
       ],
@@ -3031,7 +3036,7 @@
       "date": "2026-09-18",
       "dateText": "2026年9月18日",
       "sortKey": "2026-09-18",
-      "priority": 3.086,
+      "priority": 3.085,
       "platforms": [
         "pc"
       ],
@@ -3226,7 +3231,7 @@
       "date": "2026-09-21",
       "dateText": "2026年9月21日",
       "sortKey": "2026-09-21",
-      "priority": 3.081,
+      "priority": 3.08,
       "platforms": [
         "pc"
       ],
@@ -4606,7 +4611,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.041,
+      "priority": 3.042,
       "platforms": [
         "pc"
       ],
@@ -5938,30 +5943,6 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "adfd8e043119",
-      "title": "ブルーイのハッピースナップ",
-      "date": "2026-10-15",
-      "dateText": "2026年10月15日",
-      "sortKey": "2026-10-15",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000112753",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8226b4cd2861ce9ce27a192176dbc4d8f652d430666fc07fa80864c8b7bc4e35.jpg",
-      "maker": "ゲームロフト",
-      "genre": [
-        "アドベンチャー",
-        "パズル",
-        "学習"
-      ],
-      "price": 4650,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "5c0c711c4c6b",
       "title": "ブルーイのハッピースナップ – デラックスエディション",
       "date": "2026-10-15",
@@ -6187,7 +6168,7 @@
       "date": "2026-10-22",
       "dateText": "2026年10月22日",
       "sortKey": "2026-10-22",
-      "priority": 3.085,
+      "priority": 3.086,
       "platforms": [
         "pc"
       ],
@@ -6700,7 +6681,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.045,
+      "priority": 3.044,
       "platforms": [
         "pc"
       ],
@@ -7132,6 +7113,44 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "373f5d3cd0c9",
+      "title": "メタファー：リファンタジオ 「ペルソナ２」七姉妹学園制服&バトルBGM＆バトルジングル セット",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076521",
+      "image": "https://img-eshop.cdn.nintendo.net/i/24b2c6df23ff1e482ee66ffa0e87c6e921ede8534c4207c7929f642b0eca6cf1.jpg",
+      "maker": "アトラス",
+      "genre": [],
+      "price": 770,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "1602d0354b42",
+      "title": "メタファー：リファンタジオ 「ペルソナ３」月光館学園制服&バトルBGM＆バトルジングル セット",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076520",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1fa1d50185dea1f753fbbd0e3563f4c925985ab0bd3d0dd909f771690cd61c0e.jpg",
+      "maker": "アトラス",
+      "genre": [],
+      "price": 770,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "52ee397b7803",
       "title": "メタファー：リファンタジオ 「ペルソナ４ ザ・ゴールデン」八十神高校制服&バトルBGM＆バトルジングル セット",
       "date": "2026-11-12",
@@ -7240,7 +7259,7 @@
       "date": null,
       "dateText": "2026年9月",
       "sortKey": "2026-09-32",
-      "priority": 3.044,
+      "priority": 3.045,
       "platforms": [
         "pc"
       ],
@@ -7290,7 +7309,7 @@
       "date": null,
       "dateText": "2026年",
       "sortKey": "2026-13-00",
-      "priority": 3.042,
+      "priority": 3.041,
       "platforms": [
         "pc"
       ],
@@ -7331,7 +7350,124 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260913e"
     }
   ],
-  "prereg": [],
+  "prereg": [
+    {
+      "id": "1658dada9e13",
+      "title": "シャングリラ・フロンティア〜七つの最強種〜",
+      "url": "https://shangfro7c.netmarble.com/",
+      "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260903/kdiz1788413190678.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T04:35:35.000Z",
+      "releaseText": "2026年内にリリース",
+      "count": "",
+      "reward": "",
+      "headline": "「シャングリラ・フロンティア〜七つの最強種〜」，事前登録をApp StoreやGoogle Playなどで受付中。TGS 2026のステージイベント情報も公開に",
+      "description": "クソゲーハンター、ついに「神ゲー」と出会う！ 『シャングリラ・フロンティア』初の公式ゲーム化！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/991/G099198/20260914010/",
+      "appleId": "6757176525",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9-%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2-%E4%B8%83%E3%81%A4%E3%81%AE%E6%9C%80%E5%BC%B7%E7%A8%AE-%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%8A%E3%83%8A/id6757176525",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "e75a21764b16",
+      "title": "バンドリ！アワーノーツ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-13T12:33:22.000Z",
+      "releaseText": "9月24日リリース",
+      "count": "事前登録者数は160万人",
+      "reward": "",
+      "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
+      "description": "Bushiroad Inc.の「バンドリ！アワーノーツ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「バンドリ！アワーノーツ」に似たゲームを見ることなどができます。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p",
+      "appleId": "6771716739",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+        "preorder": true,
+        "releaseDate": "2026-09-22T07:00:00Z"
+      }
+    },
+    {
+      "id": "9e9e4c53a6c6",
+      "title": "ウィズジェネレーション",
+      "url": "https://wiz-generation.com/",
+      "image": "https://wiz-generation.com/assets/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-12T05:03:38.000Z",
+      "releaseText": "9月24日に配信",
+      "count": "",
+      "reward": "",
+      "headline": "9月12日はクイズの日。「ウィズジェネレーション」でクイズ募集キャンペーンがスタート。採用されたクイズは実際にゲーム内で出題される",
+      "description": "あなたの知識がド派手な一撃に変わる！クイズアクションRPG ウィズジェネレーションの公式サイトです。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/036/G103653/20260912005/",
+      "appleId": "6761871323",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3rpg-%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/id6761871323",
+        "preorder": true,
+        "releaseDate": "2027-02-14T08:00:00Z"
+      }
+    },
+    {
+      "id": "1efef306a6e3",
+      "title": "マビノギモバイル",
+      "url": "https://mabinogimobile.nexon.com/Main",
+      "image": "https://lwi.nexon.com/m_mabinogim/global/en/main/meta.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-11T09:32:14.000Z",
+      "releaseText": "9月24日に配信",
+      "count": "事前登録者数は15万人",
+      "reward": "",
+      "headline": "「リリース直前！『マビノギモバイル』TGS特別番組」，9月17日20：00より配信決定",
+      "description": "A World of Encounters & Adventures",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/387/G038732/20260911038/",
+      "appleId": "6775403879",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "678023700ccf",
+      "title": "勝利の女神：NIKKE",
+      "url": "https://nikke-jp.com/",
+      "image": "https://nikke-jp.com/pc/ossweb-img/og_image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2022-10-12T02:10:02.000Z",
+      "releaseText": "11月4日配信",
+      "count": "事前登録者数が300万人",
+      "reward": "",
+      "headline": "『勝利の女神：NIKKE』11月4日配信決定！鮮烈なバトル、そして美少女の魅力を押し出した“背中で魅せるガンガールRPG”",
+      "description": "スマートフォン向けアプリゲーム、背中で魅せるガンガールRPG『勝利の女神：NIKKE』の公式サイトです。11月4日正式リリース！",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2022/10/12/141053.html",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E5%8B%9D%E5%88%A9%E3%81%AE%E5%A5%B3%E7%A5%9E-nikke/id1585915174",
+        "preorder": false,
+        "releaseDate": "2022-11-02T07:00:00Z"
+      }
+    }
+  ],
+  "changes": [],
   "platforms": [
     {
       "id": "switch",

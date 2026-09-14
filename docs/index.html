@@ -124,9 +124,14 @@
             <p class="section-eyebrow">04 / Pre-registration</p>
             <h2 class="section-title">事前登録受付中</h2>
           </div>
-          <p class="section-desc">ゲームニュースで「事前登録開始」が報じられたタイトルを、公式サイトへのリンク付きで自動で集めています。</p>
+          <p class="section-desc">ゲームニュースの本文から事前登録の受付・特典・登録者数を読み取り、App Store で予約注文が始まっているタイトルも合わせて掲載しています。</p>
         </div>
         <div class="prereg-grid" id="preregGrid"></div>
+        <div class="changes" id="changesBox" hidden>
+          <h3 class="changes-title">最近の動き</h3>
+          <ul class="changes-list" id="changesList"></ul>
+          <a class="changes-more" href="schedule/#changes">更新履歴をすべて見る <span aria-hidden="true">→</span></a>
+        </div>
       </div>
     </section>
 
@@ -203,8 +208,12 @@
       <div class="prereg-body">
         <h3 class="prereg-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
         <div class="prereg-meta"></div>
+        <p class="prereg-reward" hidden></p>
         <a class="prereg-headline" target="_blank" rel="noopener noreferrer"></a>
-        <a class="prereg-link" target="_blank" rel="noopener noreferrer">公式サイトで事前登録 <span aria-hidden="true">→</span></a>
+        <div class="prereg-links">
+          <a class="prereg-link" target="_blank" rel="noopener noreferrer">公式サイト <span aria-hidden="true">→</span></a>
+          <a class="prereg-store" target="_blank" rel="noopener noreferrer" hidden>App Store で予約</a>
+        </div>
       </div>
     </article>
   </template>

@@ -4,6 +4,7 @@
 //  - ニュース: 収集済み記事の見出しから「M月D日発売」「事前登録開始」などを抽出
 import { fetchText, fetchJson, log, truncate, idOf } from "./util.mjs";
 import { decodeEntities } from "./xml.mjs";
+import { searchTitles, lookupIds, searchTerm } from "./appstore.mjs";
 
 const pad = (n) => String(n).padStart(2, "0");
 const isoDate = (y, m, d) => `${y}-${pad(m)}-${pad(d)}`;
@@ -154,15 +155,33 @@ export function extractReleaseFromHeadline(headline, now = new Date()) {
   return null;
 }
 
-export function extractPreregFromHeadline(headline) {
-  if (!headline || !/事前登録/.test(headline)) return null;
-  if (!PREREG_START.test(headline)) return null;
+// App Store の予約注文は発売日未定のとき 12/31 などの仮日付が入るため、確定日として扱わない
+export function appStoreReleaseText(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  const isPlaceholder = (d.getMonth() === 11 && d.getDate() === 31) || (d.getMonth() === 0 && d.getDate() === 1);
+  if (isPlaceholder) return "配信日未定";
+  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+}
+
+// 事前登録の判定: 記事本文の解析結果を最優先、無ければ見出しから
+export function extractPrereg(item) {
+  const a = item.article;
+  if (a) {
+    if (a.preregEnded) return null;
+    if (a.prereg) {
+      return { releaseText: a.releaseText || "", count: a.count || "", reward: a.reward || "", from: "body" };
+    }
+    return null;
+  }
+  const headline = item.headline;
+  if (!headline || !/事前登録/.test(headline) || !PREREG_START.test(headline)) return null;
   const rel = headline.match(/(\d{4}年)?\s*(\d{1,2}月)\s*(\d{1,2}日)?\s*(に|より|から)?\s*(配信|リリース|サービス開始|正式サービス|ローンチ)/);
-  return { releaseText: rel ? rel[0].replace(/\s+/g, "") : "" };
+  return { releaseText: rel ? rel[0].replace(/\s+/g, "") : "", count: "", reward: "", from: "headline" };
 }
 
 // ---------- 統合 ----------
-export async function buildSchedule(config, items, { platformDetector } = {}) {
+export async function buildSchedule(config, items, { platformDetector, cache = {} } = {}) {
   const cfg = config.releases || {};
   const now = new Date();
   const todayIso = isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
@@ -216,7 +235,18 @@ export async function buildSchedule(config, items, { platformDetector } = {}) {
       });
       fromNews++;
     }
-    const pre = extractPreregFromHeadline(it.headline);
+    const pre = extractPrereg(it);
+    // 配信日がすでに過ぎているものは「事前登録」から外す（配信開始済み）
+    if (pre && pre.releaseText) {
+      const parsed = parseJaDateText(pre.releaseText.replace(/(に|より|から)?(配信|リリース|正式サービス開始|サービス開始|ローンチ|発売).*$/, ""), { now });
+      if (parsed.date && parsed.date <= todayIso) continue;
+      if (!parsed.date && /^\d{1,2}月\d{1,2}日/.test(pre.releaseText)) {
+        const m = pre.releaseText.match(/(\d{1,2})月(\d{1,2})日/);
+        const guess = new Date(now.getFullYear(), Number(m[1]) - 1, Number(m[2]));
+        const today0 = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+        if (guess <= today0 && now.getMonth() + 1 - Number(m[1]) < 6) continue;
+      }
+    }
     if (pre) {
       prereg.push({
         id: it.id,
@@ -226,15 +256,17 @@ export async function buildSchedule(config, items, { platformDetector } = {}) {
         platforms: platforms.length ? platforms : ["mobile"],
         startedAt: it.publishedAt,
         releaseText: pre.releaseText,
+        count: pre.count,
+        reward: pre.reward,
         headline: truncate(it.headline, 90),
         description: it.description || "",
         source: it.source,
         sourceUrl: it.sources?.[0]?.url || "",
+        appleId: it.article?.ios || "",
       });
     }
   }
   stats.news = fromNews;
-  stats.prereg = prereg.length;
 
   // 期間内（今日〜daysAhead）の確定日付 + 時期のみ判明しているもの（先頭 N 件）
   const dated = releases
@@ -260,13 +292,160 @@ export async function buildSchedule(config, items, { platformDetector } = {}) {
     merged.set(key, { ...r });
   }
 
+  // ---------- App Store で予約注文中のタイトルを確認する ----------
+  // ニュースに出たスマホゲーム名を検索し、releaseDate が未来なら「予約受付中」として扱う
+  const appCfg = cfg.appstoreMatch || {};
+  const appCache = (cache.appstoreSearch = cache.appstoreSearch || {});
+  let appStats = { searched: 0, matched: 0, preorder: 0 };
+  if (appCfg.enabled !== false) {
+    const candidates = [];
+    const seenTitle = new Set();
+    for (const it of items) {
+      if (it.sourceKind !== "news") continue;
+      const mobile = (platformDetector ? platformDetector(it) : it.platforms || []).includes("mobile");
+      const preregLike = it.article?.prereg || /事前登録|予約注文/.test(`${it.title} ${it.headline || ""}`);
+      if (!mobile && !preregLike) continue;
+      const key = searchTerm(it.title);
+      if (!key || seenTitle.has(key)) continue;
+      seenTitle.add(key);
+      candidates.push(it);
+    }
+    const found = await searchTitles(
+      candidates.map((c) => c.title),
+      { cache: appCache, delayMs: appCfg.delayMs ?? 3000, max: appCfg.maxPerRun ?? 30 }
+    );
+    appStats.searched = candidates.length;
+    appStats.matched = found.size;
+
+    // 予約中のものは事前登録リストへ（既に載っていれば情報を補強）
+    const byTitle = new Map(prereg.map((p) => [p.title, p]));
+    for (const it of candidates) {
+      const app = found.get(it.title);
+      if (!app) continue;
+      const existing = byTitle.get(it.title);
+      if (existing) {
+        existing.appStore = { url: app.storeUrl, preorder: app.isPreorder, releaseDate: app.releaseDate };
+        if (!existing.image && app.image) existing.image = app.image;
+        if (!existing.releaseText && app.isPreorder) existing.releaseText = appStoreReleaseText(app.releaseDate);
+        continue;
+      }
+      if (!app.isPreorder) continue;
+      appStats.preorder++;
+      const platforms = platformDetector ? platformDetector(it) : it.platforms || [];
+      prereg.push({
+        id: it.id,
+        title: it.title,
+        url: it.url,
+        image: it.image || app.image,
+        platforms: platforms.length ? platforms : ["mobile"],
+        startedAt: it.publishedAt,
+        releaseText: appStoreReleaseText(app.releaseDate),
+        count: "",
+        reward: "",
+        headline: truncate(it.headline || "", 90),
+        description: it.description || "",
+        source: it.source,
+        sourceUrl: it.sources?.[0]?.url || "",
+        appStore: { url: app.storeUrl, preorder: true, releaseDate: app.releaseDate },
+      });
+    }
+  }
+  stats.appstore = appStats;
+  stats.prereg = prereg.length;
+
   prereg.sort((a, b) => new Date(b.startedAt) - new Date(a.startedAt));
+  const list = [...merged.values()];
+
+  // ---------- 変更履歴 ----------
+  const changes = trackChanges({ releases: list, prereg }, cache, now, cfg.historyDays ?? 30);
 
   return {
     updatedAt: now.toISOString(),
     daysAhead: cfg.daysAhead ?? 120,
     stats,
-    releases: [...merged.values()],
+    releases: list,
     prereg,
+    changes,
   };
+}
+
+// タイトルごとに「発売日」「事前登録」の状態を覚えておき、変化した項目を履歴として返す
+const CHANGE_LABELS = {
+  new: "新規",
+  date_fixed: "発売日決定",
+  delayed: "発売延期",
+  moved_up: "発売日前倒し",
+  date_changed: "発売日変更",
+  prereg_start: "事前登録開始",
+  prereg_end: "事前登録終了",
+  released: "配信開始",
+};
+
+export function trackChanges(data, cache, now, historyDays) {
+  const known = (cache.titles = cache.titles || {});
+  const log = (cache.changeLog = cache.changeLog || []);
+  const nowIso = now.toISOString();
+  const push = (type, entry, extra = {}) =>
+    log.push({
+      at: nowIso,
+      type,
+      label: CHANGE_LABELS[type] || type,
+      title: entry.title,
+      url: entry.url,
+      image: entry.image || "",
+      platforms: entry.platforms || [],
+      ...extra,
+    });
+
+  // 同じタイトルが複数の情報源（Nintendo と Steam など）で別項目になっていることがあるので、
+  // 追跡は「タイトルごとに最も信頼できる 1 件」に絞る。そうしないと情報源の差が毎回「変更」になる
+  const primary = new Map();
+  for (const r of data.releases) {
+    const key = r.title.toLowerCase().replace(/\s+/g, "");
+    const cur = primary.get(key);
+    if (!cur || (r.priority ?? 9) < (cur.priority ?? 9)) primary.set(key, r);
+  }
+
+  for (const [key, r] of primary) {
+    const prev = known[key];
+    if (!prev) {
+      known[key] = { title: r.title, dateText: r.dateText, date: r.date, sortKey: r.sortKey, prereg: false, firstSeen: nowIso };
+      // 初回実行時に全件が「新規」になるのを避ける（履歴が空のときは記録しない）
+      // Steam の人気一覧は入れ替わりが激しいので「新規」としては扱わない
+      if (cache.initialized && (r.priority ?? 9) <= 2) push("new", r, { to: r.dateText });
+      continue;
+    }
+    if (prev.dateText === r.dateText) continue;
+
+    const wasDate = prev.date;
+    const nowDate = r.date;
+    const diffDays = wasDate && nowDate ? Math.round((new Date(nowDate) - new Date(wasDate)) / 86400000) : null;
+    let type = null;
+    if (!wasDate && nowDate) type = "date_fixed";
+    else if (diffDays !== null && Math.abs(diffDays) >= 2) type = diffDays > 0 ? "delayed" : "moved_up";
+    else if (diffDays === null && prev.sortKey !== r.sortKey) type = "date_changed";
+    // ストアの表記ゆれ（1 日程度のずれ）は記録しないが、状態は更新しておく
+    if (type && (r.priority ?? 9) <= 2) push(type, r, { from: prev.dateText, to: r.dateText });
+    prev.dateText = r.dateText;
+    prev.date = r.date;
+    prev.sortKey = r.sortKey;
+  }
+
+  for (const p of data.prereg) {
+    const key = p.title.toLowerCase().replace(/\s+/g, "");
+    const prev = (known[key] = known[key] || { title: p.title, prereg: false, firstSeen: nowIso });
+    if (!prev.prereg) {
+      prev.prereg = true;
+      if (cache.initialized) push("prereg_start", p, { to: p.releaseText || "" });
+    }
+  }
+  const preregTitles = new Set(data.prereg.map((p) => p.title.toLowerCase().replace(/\s+/g, "")));
+  for (const [key, v] of Object.entries(known)) {
+    if (v.prereg && !preregTitles.has(key)) v.prereg = false;
+  }
+
+  cache.initialized = true;
+  const cutoff = now.getTime() - historyDays * 86400000;
+  cache.changeLog = log.filter((c) => new Date(c.at).getTime() >= cutoff).slice(-400);
+  return [...cache.changeLog].reverse().slice(0, 60);
 }

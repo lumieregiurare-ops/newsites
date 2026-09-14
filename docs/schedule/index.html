@@ -55,6 +55,7 @@
         <nav class="section-tabs" aria-label="ページ内">
           <a href="#releases">発売スケジュール</a>
           <a href="#prereg">事前登録受付中</a>
+          <a href="#changes">更新履歴</a>
         </nav>
       </div>
     </section>
@@ -75,9 +76,22 @@
             <p class="section-eyebrow">Pre-registration</p>
             <h2 class="section-title">事前登録受付中</h2>
           </div>
-          <p class="section-desc">ゲームニュースで「事前登録開始」が報じられたタイトル。公式サイトへのリンクと、掲載元の見出しを併記しています。</p>
+          <p class="section-desc">ゲームニュースの本文から読み取った事前登録の受付状況・特典・登録者数と、App Store で予約注文中のタイトル。公式サイトとストアへのリンクを併記しています。</p>
         </div>
         <div class="prereg-grid" id="preregGrid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="changes">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="section-eyebrow">Updates</p>
+            <h2 class="section-title">更新履歴</h2>
+          </div>
+          <p class="section-desc">発売日の決定・延期・事前登録の開始など、直近 30 日の変化を記録しています。</p>
+        </div>
+        <ul class="changes-list changes-list-full" id="changesList"></ul>
       </div>
     </section>
   </main>
@@ -124,8 +138,12 @@
       <div class="prereg-body">
         <h3 class="prereg-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
         <div class="prereg-meta"></div>
+        <p class="prereg-reward" hidden></p>
         <a class="prereg-headline" target="_blank" rel="noopener noreferrer"></a>
-        <a class="prereg-link" target="_blank" rel="noopener noreferrer">公式サイトで事前登録 <span aria-hidden="true">→</span></a>
+        <div class="prereg-links">
+          <a class="prereg-link" target="_blank" rel="noopener noreferrer">公式サイト <span aria-hidden="true">→</span></a>
+          <a class="prereg-store" target="_blank" rel="noopener noreferrer" hidden>App Store で予約</a>
+        </div>
       </div>
     </article>
   </template>

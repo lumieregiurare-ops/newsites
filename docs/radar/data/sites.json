@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T05:06:25.806Z",
+  "updatedAt": "2026-09-14T05:58:07.541Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 201,
+  "total": 202,
   "regions": {
-    "jp": 164,
+    "jp": 165,
     "global": 37
   },
   "categories": [
@@ -20,22 +20,22 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 3
+      "count": 8
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 25
+      "count": 26
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 21
+      "count": 22
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 36
+      "count": 37
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 16
+      "count": 15
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 44
+      "count": 43
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 23
+      "count": 24
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 40
+      "count": 43
     },
     {
       "id": "browser",
@@ -121,17 +121,49 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Hacker News",
-    "Inside",
     "GameBusiness.jp",
     "App Store",
     "minimal.gallery",
     "SANKOU!"
   ],
   "items": [
+    {
+      "id": "ae95a32add8d",
+      "url": "https://muvluv.com/news/5327/",
+      "host": "muvluv.com",
+      "region": "jp",
+      "title": "マブラヴ",
+      "headline": "『マブラヴ』シリーズ累計販売100万本突破！SNSで合計500名に“好きなSteam向けシリーズタイトル”が当たるキャンペーン開催",
+      "description": "マブラヴシリーズが販売累計100万本を突破しました！ （※パッケージ版およびダウンロード版のシリーズ累計販売本数） プレイしていただいたすべての皆さまに、心より感謝いたします！ 販売累計100万本突破を記念して、Stea…",
+      "publishedAt": "2026-09-14T05:50:03.000Z",
+      "addedAt": "2026-09-14T05:52:20.877Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187715.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://muvluv.com/wp/wp-content/uploads/2026/09/banner-muvluv-1million-campaign-ja.jpg"
+    },
     {
       "id": "8263d8182ac6",
       "url": "https://gundam-official.com/titles/rg-project/xarx-zero/news/detail/?id=b4fonce5k8mtnoifmlsdmlu6",
@@ -182,7 +214,10 @@
       ],
       "tags": [
         "ゲーム",
-        "事前登録"
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "prereg",
@@ -275,7 +310,8 @@
       "tags": [
         "ゲーム",
         "スマホ",
-        "iOS"
+        "iOS",
+        "Android"
       ],
       "categories": [
         "release",
@@ -470,6 +506,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260914v"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999103/20260914015/"
         }
       ],
       "tags": [
@@ -994,12 +1034,14 @@
       "tags": [
         "ゲーム",
         "スマホ",
-        "iOS"
+        "iOS",
+        "事前登録",
+        "Android"
       ],
       "categories": [
+        "prereg",
         "release",
-        "company",
-        "goods"
+        "company"
       ],
       "platforms": [
         "mobile"
@@ -1306,15 +1348,24 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260912x"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/486/G048621/20260914016/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "event"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
@@ -1638,14 +1689,19 @@
       ],
       "tags": [
         "ゲーム",
-        "特設サイト"
+        "特設サイト",
+        "事前登録",
+        "iOS",
+        "スマホ"
       ],
       "categories": [
         "campaign",
-        "browser",
-        "company"
+        "prereg",
+        "browser"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": "https://wiz-generation.com/assets/og-image.png"
     },
@@ -2272,12 +2328,17 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "event"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": "https://segafcchampions.sega.com/assets/official/img/ja/ogp.jpg?ver05"
     },
@@ -2299,7 +2360,10 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "release"
@@ -2356,9 +2420,14 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
+        "prereg",
         "release",
         "event"
       ],
@@ -2447,9 +2516,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
@@ -5709,9 +5780,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
