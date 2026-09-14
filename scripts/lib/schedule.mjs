@@ -393,7 +393,27 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
   stats.prereg = prereg.length;
 
   prereg.sort((a, b) => new Date(b.startedAt) - new Date(a.startedAt));
-  const list = [...merged.values()];
+
+  // ニュース見出し由来の発売日も、App Store に確定した配信予定日があればそちらに合わせる
+  // （発表後に日程が変わったケースで、スケジュールと事前登録の日付が食い違わないようにする）
+  const storeDates = new Map();
+  for (const p of prereg) {
+    if (p.appStore?.preorder && p.releaseSource === "appstore" && p.releaseText) {
+      storeDates.set(p.title.toLowerCase().replace(/\s+/g, ""), p.releaseText);
+    }
+  }
+  for (const r of merged.values()) {
+    const t = storeDates.get(r.title.toLowerCase().replace(/\s+/g, ""));
+    if (!t || r.source === "Nintendo" || r.source === "Steam") continue;
+    const parsed = parseJaDateText(t);
+    if (!parsed.date || parsed.dateText === r.dateText) continue;
+    r.announcedText = r.dateText;
+    r.date = parsed.date;
+    r.dateText = parsed.dateText;
+    r.sortKey = parsed.sortKey;
+    r.dateSource = "appstore";
+  }
+  const list = [...merged.values()].sort((a, b) => a.sortKey.localeCompare(b.sortKey) || a.title.localeCompare(b.title, "ja"));
 
   // ---------- 変更履歴 ----------
   const changes = trackChanges({ releases: list, prereg }, cache, now, cfg.historyDays ?? 30);

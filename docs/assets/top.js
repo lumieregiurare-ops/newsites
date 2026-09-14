@@ -217,6 +217,7 @@
         }
         node.querySelector(".sched-title").textContent = r.title;
         node.querySelector(".sched-maker").textContent = r.maker || r.headline || "";
+        if (r.dateSource === "appstore") node.title = `App Store の配信予定日です${r.announcedText ? `（発表時は ${r.announcedText}）` : ""}`;
         node.querySelector(".sched-source").textContent = r.source ? `via ${r.source}` : "";
         const plats = node.querySelector(".sched-platforms");
         for (const c of platformChips(r.platforms, labels)) plats.appendChild(c);
