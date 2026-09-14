@@ -37,57 +37,6 @@
     $("#footerSocial").innerHTML = links.join("");
   }
 
-  // ---------- Games ----------
-  function renderGames(games) {
-    const grid = $("#gamesGrid");
-    grid.innerHTML = "";
-    const live = games.filter((g) => g.status === "live").length;
-    $("#statGames").textContent = live || games.length;
-    if (!games.length) {
-      grid.innerHTML = `<div class="games-empty">最初のゲームを準備中です。</div>`;
-      return;
-    }
-    const tpl = $("#gameCardTpl");
-    for (const g of games) {
-      const node = tpl.content.firstElementChild.cloneNode(true);
-      const cover = node.querySelector(".game-cover");
-      const img = cover.querySelector("img");
-      const fb = cover.querySelector(".game-cover-fallback");
-      const href = g.url || "#games";
-
-      cover.href = href;
-      fb.style.background = gradientFor(g.title);
-      fb.querySelector("span").textContent = g.emoji || g.title[0];
-      if (g.image) {
-        img.src = g.image;
-        img.alt = g.title;
-        img.addEventListener("error", () => cover.classList.add("no-image"), { once: true });
-      } else {
-        cover.classList.add("no-image");
-      }
-
-      const status = node.querySelector(".game-status");
-      const isLive = g.status === "live";
-      status.textContent = isLive ? "公開中" : g.status === "soon" ? "近日公開" : "開発中";
-      status.classList.add(isLive ? "is-live" : "is-wip");
-
-      const t = node.querySelector(".game-title a");
-      t.textContent = g.title;
-      t.href = href;
-      node.querySelector(".game-desc").textContent = g.description || "";
-      node.querySelector(".game-tags").innerHTML = (g.tags || []).map((x) => `<span>${x}</span>`).join("");
-
-      const link = node.querySelector(".game-link");
-      if (g.url) {
-        link.href = g.url;
-        link.innerHTML = `${g.linkLabel || (isLive ? "プレイする" : "詳しく見る")} <span aria-hidden="true">→</span>`;
-      } else {
-        link.remove();
-      }
-      grid.appendChild(node);
-    }
-  }
-
   // ---------- Radar ----------
   function renderRadar(data) {
     const grid = $("#radarGrid");
@@ -388,10 +337,6 @@
   getJson("data/site.json")
     .then(renderSocial)
     .catch(() => renderSocial({}));
-
-  getJson("data/games.json")
-    .then((d) => renderGames(d.games || []))
-    .catch(() => renderGames([]));
 
   getJson("radar/data/sites.json")
     .then((d) => {

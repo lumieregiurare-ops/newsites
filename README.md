@@ -44,7 +44,7 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 
 ## ソースとビルド
 
-編集するのは `site/`（HTML / CSS / JS のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`games.json` / `site.json`）で管理します。
+編集するのは `site/`（HTML / CSS / JS のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`site.json`）で管理します。
 
 ```bash
 npm install      # 初回のみ（esbuild を入れる）
@@ -58,7 +58,6 @@ GitHub Actions では収集・デプロイのどちらのワークフローで�
 
 | ファイル | 内容 |
 | --- | --- |
-| `docs/data/games.json` | 「AI でつくったゲーム」に出すカード。`status` は `live` / `soon` / `wip`、`image` は 16:9 推奨、`url` が空ならリンクなし |
 | `docs/data/site.json` | サイト名と X / note のリンク先（ヘッダーとフッターに出ます）。`note` にアカウント URL を入れると、収集時に note の公式 RSS（`note.com/<user>/rss`）から記事一覧を取り、トップの「note の記事」セクションに新しい順で 6 件表示します（タイトル・サムネイル・冒頭のみ。本文は転載しない）。データは `docs/data/notes.json` |
 
 ## サイト名について
@@ -177,7 +176,7 @@ newsites/
     lib/categorize.mjs   カテゴリ判定
     lib/xml.mjs          RSS/Atom パーサ（依存なし）
   docs/                  公開ディレクトリ（サイトルート）
-    index.html           トップページ、assets/top.css・top.js、data/games.json・site.json
+    index.html           トップページ、assets/top.css・top.js、data/site.json
     radar/               Radar（index.html / app.js / style.css / data/sites.json）
   data/                  state.json（内部状態、コミット対象） / last-run.json / source-cache.json（非公開）
   .github/workflows/     日次収集の GitHub Actions

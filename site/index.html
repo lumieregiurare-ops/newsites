@@ -3,6 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KF1KBQ0KD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-0KF1KBQ0KD');
+  </script>
   <title>GameLab Radar｜新作ゲームサイト・事前登録・リリース情報まとめ</title>
   <meta name="description" content="GameLab Radar は、新しく公開されたゲームの公式サイト・ティザー・特設サイトを毎日自動で集めるまとめサイト。事前登録受付中のタイトルと新作リリーススケジュールも掲載しています。">
   <meta property="og:title" content="GameLab Radar">
@@ -31,7 +39,6 @@
         <a href="#mobile">Mobile</a>
         <a href="#schedule">Schedule</a>
         <a href="#prereg">事前登録</a>
-        <a href="#games">Games</a>
         <a href="#notes">note</a>
         <a href="#about">About</a>
       </nav>
@@ -52,7 +59,6 @@
         <dl class="hero-stats">
           <div><dt>掲載サイト</dt><dd id="statSites">–</dd></div>
           <div><dt>今日の新着</dt><dd id="statToday">–</dd></div>
-          <div><dt>つくったゲーム</dt><dd id="statGames">–</dd></div>
         </dl>
       </div>
     </section>
@@ -126,24 +132,11 @@
       </div>
     </section>
 
-    <section class="section" id="games">
-      <div class="wrap">
-        <div class="section-head">
-          <div>
-            <p class="section-eyebrow">05 / Works</p>
-            <h2 class="section-title">AI でつくったゲーム</h2>
-          </div>
-          <p class="section-desc">企画・コード・素材づくりに AI を使って制作しているゲームとアプリ。公開中のものはすぐに遊べます。</p>
-        </div>
-        <div class="games-grid" id="gamesGrid"></div>
-      </div>
-    </section>
-
     <section class="section section-radar" id="notes" hidden>
       <div class="wrap">
         <div class="section-head">
           <div>
-            <p class="section-eyebrow">06 / note</p>
+            <p class="section-eyebrow">05 / note</p>
             <h2 class="section-title">note の記事</h2>
           </div>
           <p class="section-desc">個人開発の記録や、ツール・ゲームをつくる過程で気づいたことを note に書いています。</p>
@@ -158,13 +151,13 @@
     <section class="section" id="about">
       <div class="wrap about">
         <div>
-          <p class="section-eyebrow">07 / About</p>
+          <p class="section-eyebrow">06 / About</p>
           <h2 class="section-title">GameLab Radar について</h2>
         </div>
         <div class="about-body">
           <p>GameLab Radar は、新しく公開されたゲーム関連の Web サイトを毎日自動で集めている個人サイトです。ゲームメディアが取り上げた公式サイト、ティザーサイト、特設・周年サイト、国内のデザインギャラリーに載ったゲームサイト、海外のインディーゲームまでを横断して収集しています。</p>
           <p>あわせて、<a href="prereg/">事前登録受付中のタイトル</a>と<a href="schedule/">新作リリーススケジュール</a>もまとめています。遊ぶゲームを探すときにも、サイトをつくるときの参考にも使えます。</p>
-          <p>もうひとつの顔として、AI を相棒にゲームをつくる実験もしています。できたものは <a href="#games">Games</a> に並べています。制作の裏側は note に、日々の進捗は X に書いています。</p>
+          <p>制作の裏側は note に、日々の進捗は X に書いています。</p>
         </div>
       </div>
     </section>
@@ -180,7 +173,6 @@
         <a href="radar/">Radar</a>
         <a href="schedule/">Schedule</a>
         <a href="prereg/">事前登録</a>
-        <a href="#games">Games</a>
         <a href="#about">About</a>
       </nav>
       <div class="footer-social" id="footerSocial"></div>
@@ -190,22 +182,6 @@
       <span>サムネイル・説明文は各サイトの OGP を参照しています。権利は各権利者に帰属します。</span>
     </div>
   </footer>
-
-  <template id="gameCardTpl">
-    <article class="game-card">
-      <a class="game-cover" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" decoding="async" alt="">
-        <div class="game-cover-fallback"><span></span></div>
-        <span class="game-status"></span>
-      </a>
-      <div class="game-body">
-        <h3 class="game-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
-        <p class="game-desc"></p>
-        <div class="game-tags"></div>
-        <a class="game-link" target="_blank" rel="noopener noreferrer">プレイする <span aria-hidden="true">→</span></a>
-      </div>
-    </article>
-  </template>
 
   <template id="scheduleRowTpl">
     <a class="sched-row" target="_blank" rel="noopener noreferrer">
