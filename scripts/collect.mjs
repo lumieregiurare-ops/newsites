@@ -7,6 +7,7 @@ import { createBlockChecker } from "./lib/filter.mjs";
 import { createCategorizer } from "./lib/categorize.mjs";
 import { fetchMeta } from "./lib/meta.mjs";
 import { buildSchedule } from "./lib/schedule.mjs";
+import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -110,6 +111,11 @@ let added = 0;
 let updated = 0;
 let offFocus = 0;
 
+const siteCfg = config.siteFilter || {};
+const siteFilterOn = siteCfg.enabled !== false;
+const isOffTopic = createSiteFilter(siteCfg);
+const offTopic = [];
+
 for (const r of raw) {
   if (!/^https?:\/\//i.test(r.url || "")) continue;
   const b = isBlocked(r);
@@ -122,7 +128,16 @@ for (const r of raw) {
     offFocus++;
     continue;
   }
-  const id = idOf(r.key || r.url);
+  if (siteFilterOn) {
+    // 記事・お知らせの個別ページはサイト（作品）のトップに寄せる
+    r.url = toSiteRoot(r.url, siteCfg);
+    const off = isOffTopic(r);
+    if (off) {
+      offTopic.push({ title: r.title, url: r.url, reason: off });
+      continue;
+    }
+  }
+  const id = idOf(r.key || (siteFilterOn ? canonicalKey(r.url) : r.url));
   const cat = categorizer.categorize(r);
   const prev = byId.get(id);
   const sourceRef = { name: r.source, url: r.sourceUrl };
@@ -201,6 +216,16 @@ for (const [id, it] of byId) {
     offFocus++;
   }
 }
+// 既存項目に残っている記事 URL・重複 URL を掃除する（新しい URL で取り直される）
+if (siteFilterOn) {
+  for (const [id, it] of byId) {
+    const root = toSiteRoot(it.url, siteCfg);
+    if (root !== it.url || idOf(canonicalKey(it.url)) !== id) {
+      byId.delete(id);
+      offTopic.push({ title: it.title, url: it.url, reason: "article url (existing)" });
+    }
+  }
+}
 
 const items = [...byId.values()];
 
@@ -242,6 +267,19 @@ log(`meta: ${metaOk} ok, ${metaFail} failed`);
 
 // .jp ドメインは英語ページでも国内扱いに固定
 for (const it of items) if (/\.jp$/.test(it.host)) it.region = "jp";
+
+// ---------- ゲーム以外の最終判定 ----------
+// OGP の説明文まで揃ったこの時点で判定すると、記事見出しだけのときより精度が上がる
+if (siteFilterOn) {
+  for (let i = items.length - 1; i >= 0; i--) {
+    const off = isOffTopic(items[i]);
+    if (off) {
+      offTopic.push({ title: items[i].title, url: items[i].url, reason: off });
+      byId.delete(items[i].id);
+      items.splice(i, 1);
+    }
+  }
+}
 
 // カテゴリ・プラットフォームは蓄積した情報（見出し・OGP 説明・タグ）から毎回再計算する
 for (const it of items) {
@@ -325,6 +363,8 @@ const summary = {
   updated,
   pruned,
   offFocus,
+  offTopic: offTopic.length,
+  offTopicItems: offTopic.slice(0, 60),
   blocked: blocked.length,
   blockedItems: blocked.slice(0, 50),
   meta: { ok: metaOk, failed: metaFail, noImage: items.filter((it) => !it.image).length },
@@ -333,5 +373,7 @@ const summary = {
   total: items.length,
 };
 await writeJson(RUN_FILE, summary);
-log(`done in ${summary.durationSec}s: total=${items.length} added=${added} updated=${updated} pruned=${pruned} offFocus=${offFocus} blocked=${blocked.length} noImage=${summary.meta.noImage}`);
+log(
+  `done in ${summary.durationSec}s: total=${items.length} added=${added} updated=${updated} pruned=${pruned} offFocus=${offFocus} offTopic=${offTopic.length} blocked=${blocked.length} noImage=${summary.meta.noImage}`
+);
 if (blocked.length) log("blocked:", blocked.map((b) => `${b.title} [${b.reason}]`).join(" | "));

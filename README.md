@@ -47,6 +47,19 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
   - 国内デザインギャラリー: MUUUUU.ORG / SANKOU! / I/O 3000 / Web Design Clip / 1guu / Responsive Web Design JP のうちゲーム関連のもの（エンタメ・ゲーム・特設サイト系カテゴリフィードも取得）
   - 海外: Product Hunt の Games カテゴリ / Hacker News (Show HN) / Launching Next / PitchWall / One Page Love / minimal.gallery のうちゲーム関連のもの。itch.io の新着は `sources.itchio: true` で有効化
   - **ゲーム特化フィルタ**（`focus`）: ニュース系と Product Hunt の Games 以外は、タイトル・見出し・説明・タグがゲーム関連キーワードに当たるものだけを残します
+  - **掲載 URL の正規化と絞り込み**（`siteFilter`）: 下記参照
+
+## 掲載する URL の方針（siteFilter）
+
+記事や細かい更新のページではなく、**ゲームの公式サイト（作品トップ）だけ**を載せるための処理です。
+
+1. **記事 URL をサイトのトップに寄せる**: `news` / `topics` / `press` / `blog` / `article` などのセグメントが現れたら、その手前までを掲載 URL にします。`https://umamusume.jp/news/detail.php?id=995` は `https://umamusume.jp/` に、`https://gundam-official.com/titles/rg-project/xarx-zero/news/detail/?id=x` は作品トップの `.../xarx-zero/` になります。`https://www.sega.jp/game/detail/kalanoro/` のような作品ページはそのまま残します。ストアページ（App Store / Google Play / Steam / itch.io）も個別ページのままにします。
+2. **重複の統合**: `http`/`https`、`www` の有無、末尾の言語セグメント（`/ja-jp/` など）だけが違う URL は同じサイトとして 1 件にまとめます。
+3. **ゲーム以外を除外**: EC・アパレル・飲料・アニメ制作会社・テレビ局・チケットなどのホスト（`excludeHosts`）、`news.` `press.` `support.` などのサブドメイン（`excludeHostPrefixes`）、ホスト名に `movie` / `film` / `museum` / `koubou` などを含むもの（`excludeHostPatterns`）を落とします。
+4. **グッズ・アニメのみの記事を除外**: 見出しや説明が「一番くじ」「Tシャツ」「TVアニメ放送決定」「展覧会」などグッズ・アニメの話だけで、ゲームらしい語（Steam / Switch / 事前登録 / 配信開始 / DLC など）が無いものは載せません。リンク先がゲーム会社のドメイン（`gameHostPattern`）なら除外しません。
+5. **海外ローンチ系の確認**: Show HN などの項目は、OGP の説明まで取得した時点でゲームらしい語が無ければ落とします（`requireGameSignalForLaunch`）。
+
+除外された項目は `data/last-run.json` の `offTopicItems` に理由付きで記録されるので、行き過ぎた除外がないか確認できます。`siteFilter.enabled` を `false` にすると全て無効になります。
 - **種類別カテゴリ**: ティザー・カウントダウン / 事前登録・予約 / 周年・記念 / 特設・キャンペーン / イベント・大会・eスポーツ / 配信・発売 / インディー・個人開発 / ブラウザ・Web ゲーム / ゲーム会社・採用 / メディア・コミュニティ・ツール / グッズ・ストア / 公式サイト（該当なしの既定）
 - **機種（プラットフォーム）フィルタ**: Switch / PlayStation / Xbox / PC・Steam / スマホ / ブラウザ / アーケード / VR を見出し・説明から検出
 - **サムネイル・説明文は OGP のみ**: 各サイトが共有用に公開している `og:image` を参照（複製・保存はしない）、説明文は `og:description` を 120 字まで。ニュース記事の見出しはカード下部に 1 行、記事へのリンク付きで表示

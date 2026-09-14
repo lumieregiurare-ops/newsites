@@ -81,6 +81,45 @@
       "news.ycombinator.com", "x.com", "twitter.com", "apps.apple.com", "play.google.com", "chromewebstore.google.com", "huggingface.co", "crates.io"
     ]
   },
+  "siteFilter": {
+    "enabled": true,
+    "articleSegments": [
+      "news", "topics", "press", "pressrelease", "blog", "article", "articles",
+      "announcement", "announcements", "notice", "information", "column", "interview", "report"
+    ],
+    "excludeHosts": [
+      "zozo.jp", "zozotown.jp", "palcloset.jp", "myshopify.com", "amiami.jp", "1kuji.com",
+      "rakuten.co.jp", "amazon.co.jp", "yahoo.co.jp", "shopify.com", "base.shop", "stores.jp", "booth.pm",
+      "coca-cola.com", "suntory.co.jp", "lawson.co.jp", "family.co.jp", "7andi.com",
+      "aniplex.co.jp", "toei-anim.co.jp", "mxtv.jp", "tv-tokyo.co.jp", "tbs.co.jp", "ntv.co.jp", "fujitv.co.jp",
+      "abema.tv", "netflix.com", "youtube.com", "nicovideo.jp", "twitch.tv",
+      "prtimes.jp", "atpress.ne.jp", "value-press.com", "note.com", "x.com", "twitter.com",
+      "wikipedia.org", "fandom.com", "discord.com", "discord.gg"
+    ],
+    "excludeHostPrefixes": ["news.", "press.", "support.", "help.", "blog.", "shop.", "store.", "ec.", "faq.", "docs."],
+    "excludeHostPatterns": [
+      "movie", "film", "cinema", "eiga", "museum", "exhibition", "tenrankai", "-ten\\.(com|jp)",
+      "-anime\\.", "anime-", "\\banime\\d", "^ec\\d*\\.", "koubou", "kobo\\.", "mall\\.", "-shop\\.", "shop-", "goods",
+      "support", "helpdesk", "^faq", "cosme", "beauty"
+    ],
+    "excludeUrlPatterns": ["ticket", "/goods/", "/merch/", "/shop/", "/store/", "/cart"],
+    "merchWords": [
+      "グッズ", "一番くじ", "Tシャツ", "アパレル", "フィギュア", "ぬいぐるみ", "アクリル", "キーホルダー",
+      "受注販売", "コラボカフェ", "コラボメニュー", "コラボ商品", "コラボドリンク", "コラボ弁当",
+      "プライズ", "景品", "くじ引き", "抽選販売", "先行販売", "サウンドトラック", "アートブック", "設定資料集",
+      "劇場版", "劇場公開", "TVアニメ", "アニメ化", "アニメ放送", "放送開始", "放送決定", "テレビ放送", "TV放送",
+      "放送スタート", "アニメ第\\d期", "声優", "オーディオドラマ", "ライブビューイング",
+      "展覧会", "美術館", "ミュージアム", "写真展", "原画展", "コミックス", "単行本", "novel", "マンガ", "漫画"
+    ],
+    "gameSignals": [
+      "ゲーム", "配信開始", "事前登録", "プレイ(できる|可能|動画|映像|レポ)", "Steam", "Switch",
+      "PlayStation", "Xbox", "\\bPC版\\b", "\\bDLC\\b", "実装", "ガチャ", "体験版", "\\bCBT\\b", "オープンβ",
+      "スマホ(?!ケース|スタンド|リング|ショルダー)", "アプリ(?!ケーション)", "\\bRPG\\b", "\\bADV\\b", "\\bFPS\\b",
+      "ローグラ", "シューティング", "パズルゲーム", "アクションゲーム", "基本無料", "サービス開始", "正式サービス"
+    ],
+    "requireGameSignalForLaunch": true,
+    "gameHostPattern": "game|sega|capcom|square-enix|bandainamco|konami|koei|nintendo|playstation|xbox|steam|blizzard|mihoyo|hoyoverse|cygames|nexon|netmarble|gungho|colopl|marvelous|falcom|atlus|fromsoftware|nitroplus|level5|arcsystemworks|snk|taito|tecmo"
+  },
   "blocklist": {
     "words": [
       "porn", "porno", "xxx", "nsfw", "adult content", "adult site", "adult only", "adults only", "18+", "r18", "r-18",

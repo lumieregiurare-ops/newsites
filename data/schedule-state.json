@@ -3140,8 +3140,49 @@
       "title": "マビノギモバイル",
       "prereg": true,
       "firstSeen": "2026-09-14T05:58:17.195Z"
+    },
+    "ガルバテイン：冒険者ギルド事務所": {
+      "title": "ガルバテイン：冒険者ギルド事務所",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-14T06:08:15.288Z"
+    },
+    "原神": {
+      "title": "原神",
+      "dateText": "2026年9月23日",
+      "date": "2026-09-23",
+      "sortKey": "2026-09-23",
+      "prereg": false,
+      "firstSeen": "2026-09-14T06:09:44.363Z"
     }
   },
-  "changeLog": [],
+  "changeLog": [
+    {
+      "at": "2026-09-14T06:09:44.363Z",
+      "type": "new",
+      "label": "新規",
+      "title": "原神",
+      "url": "https://genshin.hoyoverse.com/ja/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月23日"
+    },
+    {
+      "at": "2026-09-14T06:09:44.363Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "マビノギモバイル",
+      "url": "https://mabinogimobile.nexon.com/Main/",
+      "image": "https://lwi.nexon.com/m_mabinogim/global/en/main/meta.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "9月24日に配信"
+    }
+  ],
   "initialized": true
 }
