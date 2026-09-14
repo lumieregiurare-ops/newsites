@@ -8,7 +8,7 @@ import { createCategorizer } from "./lib/categorize.mjs";
 import { fetchMeta } from "./lib/meta.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const DATA_FILE = join(ROOT, "docs", "data", "sites.json"); // 公開用（GitHub Pages が docs/ を配信）
+const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
 const RUN_FILE = join(ROOT, "data", "last-run.json"); // 非公開の実行ログ
 const CACHE_FILE = join(ROOT, "data", "source-cache.json");
 

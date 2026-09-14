@@ -3,152 +3,149 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Game Sites Radar｜新着ゲーム関連サイトまとめ</title>
-  <meta name="description" content="ゲームの公式サイト・ティザーサイト・特設キャンペーンサイト・周年サイト・インディーゲームなど、新しく公開されたゲーム関連の Web サイトを毎日自動収集。種類・プラットフォーム・国内海外で絞り込めます。">
-  <meta property="og:title" content="Game Sites Radar">
-  <meta property="og:description" content="新しく公開されたゲーム関連の Web サイトを毎日自動収集。ティザー・特設・周年・インディーなどで絞り込み。">
+  <title>GameLab｜AI と一緒にゲームをつくる実験室</title>
+  <meta name="description" content="GameLab は、AI を使ってゲームをつくる個人の実験室。制作中のゲームの公開と、新しく公開されたゲーム関連サイトの毎日更新まとめ。">
+  <meta property="og:title" content="GameLab">
+  <meta property="og:description" content="AI と一緒にゲームをつくる実験室。制作したゲームと、新着ゲームサイトの毎日まとめ。">
   <meta property="og:type" content="website">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='45' fill='%234f46e5'/%3E%3Ccircle cx='50' cy='50' r='16' fill='white'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="style.css">
+  <meta property="og:url" content="https://gamelab.main.jp/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%230b0d12'/%3E%3Cpath d='M28 62V38h22v8H38v8h8v-4h8v12z' fill='%2322d3ee'/%3E%3Ccircle cx='68' cy='50' r='8' fill='%23a855f7'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;900&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/top.css">
 </head>
 <body>
-  <header class="site-header">
+  <div class="bg" aria-hidden="true">
+    <div class="blob blob-a"></div>
+    <div class="blob blob-b"></div>
+    <div class="grid-lines"></div>
+  </div>
+
+  <header class="header">
     <div class="wrap header-inner">
-      <a class="brand" href="./">
-        <span class="brand-mark" aria-hidden="true"></span>
-        <span class="brand-name" id="brandName">Game Sites Radar</span>
-      </a>
-      <nav class="header-nav" aria-label="グローバル">
-        <a href="#list">サイト一覧</a>
-        <a href="#about">このサイトについて</a>
-        <a href="#sources">収集元</a>
+      <a class="logo" href="./"><span class="logo-mark">G</span>GameLab</a>
+      <nav class="nav" aria-label="グローバル">
+        <a href="#games">Games</a>
+        <a href="#radar">Radar</a>
+        <a href="#about">About</a>
       </nav>
-      <button class="btn btn-fav" id="favToggle" aria-pressed="false">
-        <span class="star">★</span> お気に入り <span class="count" id="favCount">0</span>
-      </button>
+      <div class="header-social" id="headerSocial"></div>
     </div>
   </header>
 
-  <section class="hero">
-    <div class="wrap">
-      <p class="hero-eyebrow">Daily updated · 毎日自動更新</p>
-      <h1 class="hero-title">新しく公開された<br class="sp">ゲーム関連サイトを、毎日集めています。</h1>
-      <p class="hero-lead" id="heroLead">ゲームニュースで紹介された公式サイト・ティザーサイト・特設キャンペーンサイト・周年サイトから、国内のデザインギャラリーに掲載されたゲームサイト、海外のインディーゲームまでを横断して収集。種類・プラットフォーム・国内海外で絞り込めます。</p>
-      <dl class="hero-stats" id="heroStats">
-        <div><dt>掲載サイト</dt><dd data-stat="total">–</dd></div>
-        <div><dt>国内</dt><dd data-stat="jp">–</dd></div>
-        <div><dt>この 7 日で追加</dt><dd data-stat="week">–</dd></div>
-        <div><dt>最終更新</dt><dd data-stat="updated">–</dd></div>
-      </dl>
-    </div>
-  </section>
-
-  <main class="wrap" id="list">
-    <div class="toolbar" id="toolbar">
-      <div class="search">
-        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M21 21l-4.3-4.3M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14z"/></svg>
-        <input type="search" id="searchInput" placeholder="サイト名・説明・ドメインで検索" autocomplete="off" aria-label="検索">
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow"><span class="dot"></span>AI × GAME DEV · EXPERIMENTAL LAB</p>
+        <h1 class="hero-title">Game<span class="grad">Lab</span></h1>
+        <p class="hero-lead">AI と一緒に、ゲームをつくる実験室。<br>思いついたアイデアを、その日のうちに遊べる形へ。制作中のゲームと、世界の新着ゲームサイトをここに集めています。</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#games">作ったゲームを見る</a>
+          <a class="btn btn-ghost" href="radar/">新着ゲームサイトを見る <span aria-hidden="true">→</span></a>
+        </div>
+        <dl class="hero-stats">
+          <div><dt>Games</dt><dd id="statGames">–</dd></div>
+          <div><dt>Radar 掲載サイト</dt><dd id="statSites">–</dd></div>
+          <div><dt>今日の新着</dt><dd id="statToday">–</dd></div>
+        </dl>
       </div>
-      <div class="toolbar-controls">
-        <label class="select"><span>期間</span>
-          <select id="periodSelect">
-            <option value="1">24時間</option>
-            <option value="7">7日</option>
-            <option value="30" selected>30日</option>
-            <option value="all">すべて</option>
-          </select>
-        </label>
-        <label class="select"><span>地域</span>
-          <select id="regionSelect">
-            <option value="all">すべて</option>
-            <option value="jp">国内</option>
-            <option value="global">海外</option>
-          </select>
-        </label>
-        <label class="select"><span>機種</span>
-          <select id="platformSelect"><option value="all">すべて</option></select>
-        </label>
-        <label class="select"><span>収集元</span>
-          <select id="sourceSelect"><option value="all">すべて</option></select>
-        </label>
-        <label class="select"><span>並び順</span>
-          <select id="sortSelect">
-            <option value="new">新しい順</option>
-            <option value="points">注目順</option>
-            <option value="title">名前順</option>
-          </select>
-        </label>
+    </section>
+
+    <section class="section" id="games">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="section-eyebrow">01 / Works</p>
+            <h2 class="section-title">AI でつくったゲーム</h2>
+          </div>
+          <p class="section-desc">企画・コード・素材づくりに AI を使って制作しているゲームとアプリ。公開中のものはすぐに遊べます。</p>
+        </div>
+        <div class="games-grid" id="gamesGrid"></div>
       </div>
-    </div>
+    </section>
 
-    <nav class="categories" id="categoryNav" aria-label="カテゴリ"></nav>
-
-    <div class="result-bar">
-      <span id="resultCount"></span>
-      <div class="fav-tools" id="favTools" hidden>
-        <button class="btn btn-small" id="exportFav">お気に入りを書き出す</button>
-        <label class="btn btn-small">読み込む <input type="file" id="importFav" accept="application/json" hidden></label>
-        <span class="hint">お気に入りはこのブラウザにだけ保存されます</span>
+    <section class="section section-radar" id="radar">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="section-eyebrow">02 / Radar</p>
+            <h2 class="section-title">新着ゲームサイト</h2>
+          </div>
+          <p class="section-desc">公式サイト・ティザー・特設キャンペーン・周年サイトなど、新しく公開されたゲーム関連の Web サイトを毎朝自動で収集。<span id="radarUpdated"></span></p>
+        </div>
+        <div class="radar-grid" id="radarGrid"></div>
+        <div class="section-more">
+          <a class="btn btn-primary btn-lg" href="radar/">もっと見る <span aria-hidden="true">→</span></a>
+        </div>
       </div>
-    </div>
+    </section>
 
-    <section class="grid" id="grid" aria-live="polite"></section>
-    <div class="empty" id="empty" hidden><p>該当するサイトがありません。</p></div>
-    <nav class="pagination" id="pagination" aria-label="ページ"></nav>
+    <section class="section" id="about">
+      <div class="wrap about">
+        <div>
+          <p class="section-eyebrow">03 / About</p>
+          <h2 class="section-title">GameLab について</h2>
+        </div>
+        <div class="about-body">
+          <p>GameLab は、AI を相棒にしてゲームをつくる個人の実験室です。「こんなゲームがあったら」を、企画からコード、絵や音まで AI と一緒に組み上げて、遊べる形で公開していきます。</p>
+          <p>あわせて、世界中で新しく公開されたゲーム関連サイトを毎日自動で集める <a href="radar/">Radar</a> を運営しています。ティザーサイトや周年サイトのデザイン、インディーゲームの発表など、つくる側のヒントになるものを拾っています。</p>
+          <p>制作の裏側や気づきは note に、日々の進捗は X に書いています。</p>
+        </div>
+      </div>
+    </section>
   </main>
 
-  <footer class="site-footer">
-    <div class="wrap footer-grid">
-      <section id="about">
-        <h2>このサイトについて</h2>
-        <p>Game Sites Radar は、新しく公開されたゲーム関連の Web サイト（公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなど）を自動で収集し、種類別に一覧化する非営利のリンク集です。1 日 1 回自動更新されます。掲載しているサムネイルと説明文は、各サイトが共有用に公開している OGP（og:image / og:description）をそのまま参照しており、当サイトで複製・加工はしていません。</p>
-        <p>お気に入りはブラウザの localStorage に保存され、サーバーには送信されません。</p>
-      </section>
-      <section id="sources">
-        <h2>収集元</h2>
-        <ul class="source-list" id="sourceList"></ul>
-      </section>
-      <section id="policy">
-        <h2>掲載について</h2>
-        <p>成人向けサイトはキーワード・ドメインで自動的に除外しています。掲載を望まないサイト運営者の方、誤って掲載されている場合は、下記よりご連絡ください。確認後、速やかに除外します。</p>
-        <p id="contact"></p>
-      </section>
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div class="footer-brand">
+        <a class="logo" href="./"><span class="logo-mark">G</span>GameLab</a>
+        <p>AI と一緒に、ゲームをつくる実験室。</p>
+      </div>
+      <nav class="footer-nav" aria-label="フッター">
+        <a href="#games">Games</a>
+        <a href="radar/">Radar</a>
+        <a href="#about">About</a>
+      </nav>
+      <div class="footer-social" id="footerSocial"></div>
     </div>
     <div class="wrap footer-bottom">
-      <span>© <span id="year"></span> <span id="footerBrand">Game Sites Radar</span></span>
-      <span>各サイトの名称・画像・文章の権利はそれぞれの権利者に帰属します。</span>
+      <span>© <span id="year"></span> GameLab</span>
+      <span>Radar のサムネイル・説明文は各サイトの OGP を参照しています。権利は各権利者に帰属します。</span>
     </div>
   </footer>
 
-  <button class="to-top" id="toTop" aria-label="ページの先頭へ戻る" hidden>
-    <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" d="M12 19V5m-7 7 7-7 7 7"/></svg>
-  </button>
-
-  <template id="cardTpl">
-    <article class="card">
-      <a class="thumb" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="">
-        <div class="thumb-fallback"><span></span></div>
-        <span class="badge-new" hidden>NEW</span>
+  <template id="gameCardTpl">
+    <article class="game-card">
+      <a class="game-cover" target="_blank" rel="noopener noreferrer">
+        <img loading="lazy" decoding="async" alt="">
+        <div class="game-cover-fallback"><span></span></div>
+        <span class="game-status"></span>
       </a>
-      <div class="card-body">
-        <div class="card-top">
-          <h3 class="card-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
-          <button class="fav-btn" aria-label="お気に入りに追加" title="お気に入り">★</button>
-        </div>
-        <div class="card-host"></div>
-        <p class="card-desc"></p>
-        <a class="card-headline" target="_blank" rel="noopener noreferrer" hidden></a>
-        <div class="card-tags"></div>
-        <div class="card-foot">
-          <a class="source" target="_blank" rel="noopener noreferrer"></a>
-          <span class="points" hidden></span>
-          <time class="date"></time>
-        </div>
+      <div class="game-body">
+        <h3 class="game-title"><a target="_blank" rel="noopener noreferrer"></a></h3>
+        <p class="game-desc"></p>
+        <div class="game-tags"></div>
+        <a class="game-link" target="_blank" rel="noopener noreferrer">プレイする <span aria-hidden="true">→</span></a>
       </div>
     </article>
   </template>
 
-  <script src="app.js"></script>
+  <template id="radarCardTpl">
+    <a class="radar-card" target="_blank" rel="noopener noreferrer">
+      <div class="radar-thumb">
+        <img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="">
+        <div class="radar-thumb-fallback"><span></span></div>
+        <span class="radar-cat"></span>
+      </div>
+      <div class="radar-body">
+        <h3 class="radar-title"></h3>
+        <div class="radar-meta"><span class="radar-host"></span><time class="radar-date"></time></div>
+      </div>
+    </a>
+  </template>
+
+  <script src="assets/top.js"></script>
 </body>
 </html>

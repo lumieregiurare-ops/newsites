@@ -1,6 +1,27 @@
-# Game Sites Radar
+# GameLab（gamelab.main.jp）
 
-新しく公開されたゲーム関連の Web サイト（公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなど）を自動収集し、種類別に一覧表示する静的サイトです。`docs/` をそのまま GitHub Pages などに置いて公開できます。
+AI と一緒にゲームをつくる個人サイト「GameLab」のソースです。`docs/` がサイトルートで、そのままロリポップ（FTP）や GitHub Pages に置いて公開できます。
+
+- `docs/index.html` — トップページ（制作したゲーム一覧 / 新着ゲームサイト 8 件 / About / SNS リンク）
+- `docs/radar/` — **GameLab Radar**: 新しく公開されたゲーム関連の Web サイト（公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなど）を自動収集し、種類別に一覧表示する下層ページ
+
+## トップページの編集
+
+| ファイル | 内容 |
+| --- | --- |
+| `docs/data/games.json` | 「AI でつくったゲーム」に出すカード。`status` は `live` / `soon` / `wip`、`image` は 16:9 推奨、`url` が空ならリンクなし |
+| `docs/data/site.json` | X / note のリンク先（ヘッダーとフッターに出ます） |
+| `docs/index.html` | ヒーローの文言・About の本文 |
+| `docs/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
+
+## ロリポップへの公開
+
+1. ロリポップの FTP 情報（サーバー・アカウント・パスワード）を GitHub の Settings → Secrets and variables → Actions に `LOLIPOP_FTP_SERVER` / `LOLIPOP_FTP_USER` / `LOLIPOP_FTP_PASSWORD` として登録
+2. 同じ画面の Variables に `DEPLOY_TARGET` = `lolipop` を登録（これがないとアップロードはスキップされます）
+3. `docs/` に変更を push すると `deploy.yml` が、毎日の収集後は `collect.yml` が、`docs/` の中身をサーバーのルート（公開フォルダ）へ FTPS でアップロードします
+4. 手元から手動で上げる場合は、FTP クライアントで `docs/` の中身を公開フォルダ直下にコピーするだけです（Node は不要）
+
+## Radar の機能
 
 ## 機能
 
@@ -26,7 +47,7 @@ npm install     # 依存パッケージはありません（Node 20 以上）
 ## 使い方
 
 ```bash
-# 収集を 1 回実行 → docs/data/sites.json を更新
+# 収集を 1 回実行 → docs/radar/data/sites.json を更新
 npm run collect
 
 # ローカル確認（http://localhost:3210、docs/ を配信）。毎日 07:00 に自動収集
@@ -37,7 +58,7 @@ npm start
 
 1. リポジトリを作成して push（`docs/` と `data/state.json` を含める）
 2. Settings → Pages → Source を **Deploy from a branch**、Branch を `main` / `/docs` に設定
-3. `.github/workflows/collect.yml` が毎日 JST 07:00 に収集して `docs/data/sites.json` をコミットします（Actions の書き込み権限が必要: Settings → Actions → General → Workflow permissions → Read and write）
+3. `.github/workflows/collect.yml` が毎日 JST 07:00 に収集して `docs/radar/data/sites.json` をコミットします（Actions の書き込み権限が必要: Settings → Actions → General → Workflow permissions → Read and write）
 4. `config.json` の `site.contactUrl` に問い合わせ先（GitHub Issues の URL など）を入れると、フッターにリンクが出ます
 
 GitHub Actions の IP からは Product Hunt のリダイレクト解決（Cloudflare）が通らない可能性が高く、その場合 Product Hunt の項目は増えません。他の収集元は問題なく動きます。
@@ -79,7 +100,9 @@ newsites/
     lib/filter.mjs       除外フィルタ
     lib/categorize.mjs   カテゴリ判定
     lib/xml.mjs          RSS/Atom パーサ（依存なし）
-  docs/                  公開ディレクトリ（index.html / app.js / style.css / data/sites.json）
+  docs/                  公開ディレクトリ（サイトルート）
+    index.html           トップページ、assets/top.css・top.js、data/games.json・site.json
+    radar/               Radar（index.html / app.js / style.css / data/sites.json）
   data/                  state.json（内部状態、コミット対象） / last-run.json / source-cache.json（非公開）
   .github/workflows/     日次収集の GitHub Actions
 ```

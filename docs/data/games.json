@@ -1,0 +1,32 @@
+{
+  "_comment": "トップページ「AI でつくったゲーム」に表示する一覧。status は live（公開中）/ soon（近日公開）/ wip（開発中）。image は 16:9 推奨。url が空ならリンクなし。",
+  "games": [
+    {
+      "title": "HoloCard",
+      "description": "傾けるとキラキラ光るホログラムカードを、子どもが自分で描いて集められる Android アプリ。カードの絵柄づくりから、光の表現まで AI と一緒に制作中。",
+      "status": "wip",
+      "url": "",
+      "image": "",
+      "emoji": "✨",
+      "tags": ["Android", "こども向け", "開発中"]
+    },
+    {
+      "title": "うごく おえかき",
+      "description": "描いた落書きがその場で 3D になって動き出す、完全オフラインのお絵かきアプリ。画像処理と描画を AI と組み上げています。",
+      "status": "wip",
+      "url": "",
+      "image": "",
+      "emoji": "🖍️",
+      "tags": ["Android", "3D", "開発中"]
+    },
+    {
+      "title": "次のゲーム",
+      "description": "次に試すアイデアを仕込み中。進捗は X と note で。",
+      "status": "soon",
+      "url": "",
+      "image": "",
+      "emoji": "?",
+      "tags": ["Coming soon"]
+    }
+  ]
+}

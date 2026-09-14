@@ -27,7 +27,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/sites.json data/state.json
+          git add docs/radar/data/sites.json data/state.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: daily collect $(date -u +%Y-%m-%d)"
           git push
+      # GITHUB_TOKEN による push は deploy ワークフローを起動しないので、ここでもアップロードする
+      - name: Upload docs/ to Lolipop (FTP)
+        if: ${{ vars.DEPLOY_TARGET == 'lolipop' }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.LOLIPOP_FTP_SERVER }}
+          username: ${{ secrets.LOLIPOP_FTP_USER }}
+          password: ${{ secrets.LOLIPOP_FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./docs/
+          server-dir: ./
+          dangerous-clean-slate: false

@@ -56,7 +56,7 @@ function scheduleNext() {
 if (config.schedule?.enabled !== false) {
   scheduleNext();
   const staleHours = config.schedule?.runOnStartIfStaleHours ?? 20;
-  const f = join(DOCS, "data", "sites.json");
+  const f = join(DOCS, "radar", "data", "sites.json");
   const ageH = existsSync(f) ? (Date.now() - statSync(f).mtimeMs) / 3600000 : Infinity;
   if (ageH > staleHours) runCollect(existsSync(f) ? `stale ${ageH.toFixed(1)}h` : "no data");
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T00:47:16.345Z",
+  "updatedAt": "2026-09-14T01:56:47.240Z",
   "site": {
-    "title": "Game Sites Radar",
+    "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 141,
+  "total": 142,
   "regions": {
-    "jp": 110,
+    "jp": 111,
     "global": 31
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 17
+      "count": 18
     },
     {
       "id": "campaign",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ps",
@@ -126,6 +126,36 @@
     "SANKOU!"
   ],
   "items": [
+    {
+      "id": "970da706c211",
+      "url": "https://www.otomate.jp/event/party/2026/newtitle/",
+      "host": "otomate.jp",
+      "region": "jp",
+      "title": "薄桜鬼 真改 極",
+      "headline": "オトメイトが新作『薄桜鬼 真改 極』をNintendo Switch 2向けに発表。Nintendo Switchで登場した『薄桜鬼』6作品がひとつになった20周年記念タイトル",
+      "description": "「オトメイトパーティー2026」公式サイトです。",
+      "publishedAt": "2026-09-14T00:52:09.000Z",
+      "addedAt": "2026-09-14T01:56:47.240Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914d"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.otomate.jp/event/party/img/ogp.jpg"
+    },
     {
       "id": "a9c0ccfc275b",
       "url": "https://www.otomate-p.jp/",

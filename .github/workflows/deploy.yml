@@ -1,0 +1,32 @@
+# docs/ をロリポップ（FTP）へアップロードする
+# 必要な Secrets: LOLIPOP_FTP_SERVER / LOLIPOP_FTP_USER / LOLIPOP_FTP_PASSWORD
+# （Settings → Secrets and variables → Actions → New repository secret）
+name: deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ vars.DEPLOY_TARGET == 'lolipop' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload docs/ via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.LOLIPOP_FTP_SERVER }}
+          username: ${{ secrets.LOLIPOP_FTP_USER }}
+          password: ${{ secrets.LOLIPOP_FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./docs/
+          server-dir: ./
+          dangerous-clean-slate: false
