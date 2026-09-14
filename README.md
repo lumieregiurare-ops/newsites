@@ -42,6 +42,18 @@
 
 App Store の検索 API はレート制限が厳しいため、1 回の収集で最大 30 タイトル（`appstoreMatch.maxPerRun`）を 3 秒間隔で照会し、結果を `data/source-cache.json` に 72 時間キャッシュします。タイトルの状態（発売日・事前登録）も同ファイルに保存され、次回の収集で差分を取って更新履歴になります。**このキャッシュを消すと履歴がリセットされます。**
 
+## ソースとビルド
+
+編集するのは `site/`（HTML / CSS / JS のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`games.json` / `site.json`）で管理します。
+
+```bash
+npm install      # 初回のみ（esbuild を入れる）
+npm run build    # site/ → docs/
+npm start        # build してからローカルサーバー起動
+```
+
+GitHub Actions では収集・デプロイのどちらのワークフローでも build を実行するので、`site/` を push すれば圧縮済みのファイルが公開されます。圧縮は「読みにくくする」効果しかなく、ブラウザで読める JS を完全に隠すことはできません。ソースそのものを見せたくない場合は、GitHub のリポジトリを Private にしてください（ロリポップへの FTP デプロイは Private でもそのまま動きます。GitHub Pages を使う場合は Private だと有料プランが必要です）。
+
 ## トップページの編集
 
 | ファイル | 内容 |
@@ -52,8 +64,8 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 ## サイト名について
 
 「GameLab Radar」を正式名称にしています。「GameLab」単独だと、ゲーム情報誌『ゲームラボ』（三才ブックス、現在も刊行中）やドコモ向けゲーム配信サービス「GAME LAB」と分野が重なり、混同のおそれがあるためです。表示名を変える場合は `docs/data/site.json` の `name` と、各 HTML の `<title>` / ロゴ / フッターを直してください（ドメインは変更不要です）。
-| `docs/index.html` | ヒーローの文言・About の本文 |
-| `docs/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
+| `site/index.html` | ヒーローの文言・About の本文（編集後に `npm run build`） |
+| `site/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
 
 ## ロリポップへの公開
 

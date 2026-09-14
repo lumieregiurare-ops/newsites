@@ -25,13 +25,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Install build tools
+        run: npm ci
+      - name: Build site (minify JS/CSS/HTML into docs/)
+        run: npm run build
       - name: Collect
         run: node scripts/collect.mjs
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/radar/data/sites.json docs/data/schedule.json docs/data/notes.json data/state.json data/schedule-state.json
+          git add docs data/state.json data/schedule-state.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: daily collect $(date -u +%Y-%m-%d)"
           git push
