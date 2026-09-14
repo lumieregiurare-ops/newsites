@@ -101,31 +101,49 @@
     const u = new Date(data.updatedAt);
     $("#radarUpdated").textContent = `最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
 
-    const tpl = $("#radarCardTpl");
     grid.innerHTML = "";
-    for (const it of items) {
-      const node = tpl.content.firstElementChild.cloneNode(true);
-      node.href = it.url;
-      node.title = it.title;
-      const thumb = node.querySelector(".radar-thumb");
-      const img = thumb.querySelector("img");
-      const fb = thumb.querySelector(".radar-thumb-fallback");
-      fb.style.background = gradientFor(it.host || it.title);
-      fb.querySelector("span").textContent = (it.host || it.title || "?").replace(/^www\./, "")[0].toUpperCase();
-      if (it.image && /^https:\/\//.test(it.image)) {
-        img.src = it.image;
-        img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
-      } else {
-        thumb.classList.add("no-image");
-      }
-      node.querySelector(".radar-cat").textContent = labelOf(it.categories?.[0]);
-      node.querySelector(".radar-title").textContent = it.title;
-      node.querySelector(".radar-host").textContent = (it.region === "jp" ? "JP · " : "") + it.host;
-      const time = node.querySelector(".radar-date");
-      time.dateTime = it.publishedAt;
-      time.textContent = relTime(it.publishedAt);
-      grid.appendChild(node);
+    for (const it of items) grid.appendChild(makeRadarCard(it, labelOf));
+  }
+
+  function makeRadarCard(it, labelOf) {
+    const tpl = $("#radarCardTpl");
+    const node = tpl.content.firstElementChild.cloneNode(true);
+    node.href = it.url;
+    node.title = it.title;
+    const thumb = node.querySelector(".radar-thumb");
+    const img = thumb.querySelector("img");
+    const fb = thumb.querySelector(".radar-thumb-fallback");
+    fb.style.background = gradientFor(it.host || it.title);
+    fb.querySelector("span").textContent = (it.host || it.title || "?").replace(/^www\./, "")[0].toUpperCase();
+    if (it.image && /^https:\/\//.test(it.image)) {
+      img.src = it.image;
+      img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
+    } else {
+      thumb.classList.add("no-image");
     }
+    node.querySelector(".radar-cat").textContent = labelOf(it.categories?.[0]);
+    node.querySelector(".radar-title").textContent = it.title;
+    node.querySelector(".radar-host").textContent = (it.region === "jp" ? "JP · " : "") + it.host;
+    const time = node.querySelector(".radar-date");
+    time.dateTime = it.publishedAt;
+    time.textContent = relTime(it.publishedAt);
+    return node;
+  }
+
+  // スマホゲーム: 機種判定が「スマホ」の項目と App Store 新着
+  function renderMobile(data) {
+    const grid = $("#mobileGrid");
+    const labelOf = (id) => data.categories?.find((c) => c.id === id)?.label || "";
+    const items = data.items
+      .filter((it) => (it.platforms || []).includes("mobile") || it.source === "App Store")
+      .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+      .slice(0, RADAR_LIMIT);
+    grid.innerHTML = "";
+    if (!items.length) {
+      grid.innerHTML = `<div class="games-empty">スマホゲームのデータがまだありません。</div>`;
+      return;
+    }
+    for (const it of items) grid.appendChild(makeRadarCard(it, labelOf));
   }
 
   // ---------- schedule / prereg ----------
@@ -282,7 +300,10 @@
     .catch(() => renderGames([]));
 
   getJson("radar/data/sites.json")
-    .then(renderRadar)
+    .then((d) => {
+      renderRadar(d);
+      renderMobile(d);
+    })
     .catch(() => {
       $("#radarGrid").innerHTML = `<div class="games-empty">Radar のデータを読み込めませんでした。</div>`;
     });

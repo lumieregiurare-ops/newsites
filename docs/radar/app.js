@@ -54,6 +54,14 @@
     { category: "all", source: "all", region: "all", platform: "all", period: "30", sort: "new", query: "", favOnly: false },
     load(STATE_KEY, {})
   );
+  // URL パラメータで初期フィルタを指定できる（例: ?platform=mobile&period=7）
+  {
+    const q = new URLSearchParams(location.search);
+    for (const k of ["category", "source", "region", "platform", "period", "sort", "query"]) {
+      if (q.has(k)) state[k] = q.get(k);
+    }
+    if (q.has("platform") || q.has("category") || q.has("source")) state.favOnly = false;
+  }
 
   function load(key, fallback) {
     try {

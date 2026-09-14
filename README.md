@@ -38,7 +38,9 @@ AI と一緒にゲームをつくる個人サイト「GameLab」のソースで�
 ## 機能
 
 - **自動収集（1日1回）**
-  - ゲームニュース: 4Gamer / Game*Spark / Inside / GameBusiness.jp / 電ファミニコゲーマー の記事（発表・ティザー・周年・事前登録・配信開始など）にリンクされた公式サイト・特設サイト
+  - ゲームニュース: 4Gamer（総合 + PC）/ Game*Spark / Inside（総合 + スマホ）/ GameBusiness.jp / 電ファミニコゲーマー（総合 + スマートフォンタグ）の記事（発表・ティザー・周年・事前登録・配信開始など）にリンクされた公式サイト・特設サイト。公式サイトが無いスマホゲームは App Store / Google Play のページで代替
+  - App Store（日本）: ゲームカテゴリのランキング（無料 / 有料 / セールス）のうち直近 45 日以内にリリースされたタイトル。公式サイト（開発元 URL）があればそちら、無ければ App Store ページ。`config.json` の `appstore.days` で期間を変更
+  - ニュース系フィードは直近 100 件程度しか持たないため、GitHub Actions は 1 日 3 回（JST 07:00 / 13:00 / 19:00）収集します
   - 国内デザインギャラリー: MUUUUU.ORG / SANKOU! / I/O 3000 / Web Design Clip / 1guu / Responsive Web Design JP のうちゲーム関連のもの（エンタメ・ゲーム・特設サイト系カテゴリフィードも取得）
   - 海外: Product Hunt の Games カテゴリ / Hacker News (Show HN) / Launching Next / PitchWall / One Page Love / minimal.gallery のうちゲーム関連のもの。itch.io の新着は `sources.itchio: true` で有効化
   - **ゲーム特化フィルタ**（`focus`）: ニュース系と Product Hunt の Games 以外は、タイトル・見出し・説明・タグがゲーム関連キーワードに当たるものだけを残します

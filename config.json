@@ -42,6 +42,7 @@
     "insidegames": true,
     "gamebusiness": true,
     "denfami": true,
+    "appstore": true,
     "producthunt": true,
     "hackernews": true,
     "onepagelove": true,
@@ -55,6 +56,10 @@
     "oneguu": true,
     "responsivejp": true,
     "itchio": false
+  },
+  "appstore": {
+    "limit": 100,
+    "days": 45
   },
   "producthunt": {
     "resolveDelayMs": 2000,

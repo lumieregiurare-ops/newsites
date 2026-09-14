@@ -365,12 +365,25 @@ export async function fetchJpGallery(key, { maxAgeDays = 45 } = {}) {
 
 // ---------- ゲームニュース → 記事内の「公式サイト」リンク ----------
 // 発表・ティザー・周年・事前登録などの記事から、リンクされている公式サイト / 特設サイトを拾う
+// feeds: 総合フィードは直近 100 件程度しか持たないので、スマホ・PC などカテゴリ別フィードも併せて読む
 const GAME_NEWS = {
-  fourgamer: { name: "4Gamer", feed: "https://www.4gamer.net/rss/index.xml", host: "4gamer.net" },
-  gamespark: { name: "Game*Spark", feed: "https://www.gamespark.jp/rss20/index.rdf", host: "gamespark.jp" },
-  insidegames: { name: "Inside", feed: "https://www.inside-games.jp/rss20/index.rdf", host: "inside-games.jp" },
-  gamebusiness: { name: "GameBusiness.jp", feed: "https://www.gamebusiness.jp/rss20/index.rdf", host: "gamebusiness.jp" },
-  denfami: { name: "電ファミニコゲーマー", feed: "https://news.denfaminicogamer.jp/feed", host: "denfaminicogamer.jp" },
+  fourgamer: {
+    name: "4Gamer",
+    feeds: ["https://www.4gamer.net/rss/index.xml", "https://www.4gamer.net/rss/pc/pc_news.xml"],
+    host: "4gamer.net",
+  },
+  gamespark: { name: "Game*Spark", feeds: ["https://www.gamespark.jp/rss20/index.rdf"], host: "gamespark.jp" },
+  insidegames: {
+    name: "Inside",
+    feeds: ["https://www.inside-games.jp/rss20/index.rdf", "https://www.inside-games.jp/rss20/mobile.rdf"],
+    host: "inside-games.jp",
+  },
+  gamebusiness: { name: "GameBusiness.jp", feeds: ["https://www.gamebusiness.jp/rss20/index.rdf"], host: "gamebusiness.jp" },
+  denfami: {
+    name: "電ファミニコゲーマー",
+    feeds: ["https://news.denfaminicogamer.jp/feed", "https://news.denfaminicogamer.jp/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/feed"],
+    host: "denfaminicogamer.jp",
+  },
 };
 const GAME_ANNOUNCE_RE = /発表|ティザー|公式サイト|特設サイト|キャンペーン|周年|事前登録|配信開始|発売決定|発売日|サービス開始|新作|リリース|オープン|公開|始動|決定|開催|コラボ|正式|β|ベータ|体験版|予約/;
 const OFFICIAL_TEXT_RE = /公式サイト|公式ページ|公式ホームページ|公式HP|公式Web|オフィシャルサイト|ティザーサイト|特設サイト|キャンペーンサイト|スペシャルサイト|周年サイト|ポータルサイト|プロモーションサイト/i;
@@ -384,14 +397,30 @@ function gameNameFromTitle(title) {
 
 export async function fetchGameNews(key) {
   const g = GAME_NEWS[key];
-  const entries = parseFeed(await fetchText(g.feed)).filter((e) => e.link && GAME_ANNOUNCE_RE.test(e.title));
+  const byLink = new Map();
+  for (const feed of g.feeds) {
+    try {
+      for (const e of parseFeed(await fetchText(feed))) {
+        if (e.link && GAME_ANNOUNCE_RE.test(e.title) && !byLink.has(e.link)) byLink.set(e.link, e);
+      }
+    } catch (err) {
+      log(`${g.name}: feed failed ${feed} (${err.message})`);
+    }
+  }
+  const entries = [...byLink.values()];
   const seen = new Set();
   const items = await pool(entries, 3, async (e) => {
     const html = await fetchText(e.link);
     let official = null;
+    let storeLink = null; // スマホゲームは公式サイトが無く App Store / Google Play だけのことがあるので、その場合はストアページを採用
     for (const m of html.matchAll(/<a\b([^>]*)>([\s\S]{0,160}?)<\/a>/gi)) {
       const href = (m[1].match(/href="(https?:\/\/[^"]+)"/) || [])[1];
-      if (!href || href.includes(g.host) || GAME_STORE_RE.test(href)) continue;
+      if (!href || href.includes(g.host)) continue;
+      if (/apps\.apple\.com\/|play\.google\.com\/store\/apps/.test(href)) {
+        if (!storeLink) storeLink = href.replace(/[?&]at=[^&]*/, "").replace(/\?$/, "");
+        continue;
+      }
+      if (GAME_STORE_RE.test(href)) continue;
       const text = stripTags(m[2]);
       const isOfficial = OFFICIAL_TEXT_RE.test(text) || /class="[^"]*\bofficial\b/.test(m[1]) || /alt="公式サイト/.test(m[2]);
       if (isOfficial) {
@@ -399,8 +428,9 @@ export async function fetchGameNews(key) {
         break;
       }
     }
-    if (!official) return null;
+    if (!official && !storeLink) return null;
     const tags = ["ゲーム"];
+    if (!official) tags.push("スマホ", /apps\.apple/.test(storeLink) ? "iOS" : "Android");
     if (/ティザー/.test(e.title)) tags.push("ティザーサイト");
     if (/特設|キャンペーン|スペシャルサイト/.test(e.title)) tags.push("特設サイト");
     if (/周年/.test(e.title)) tags.push("周年");
@@ -410,7 +440,7 @@ export async function fetchGameNews(key) {
       sourceKind: "news",
       region: "jp",
       sourceUrl: e.link,
-      url: cleanUrl(decodeEntities(official)),
+      url: cleanUrl(decodeEntities(official || storeLink)),
       title: gameNameFromTitle(e.title),
       description: truncate(e.title, 200),
       publishedAt: e.date ? new Date(e.date).toISOString() : null,
@@ -420,6 +450,70 @@ export async function fetchGameNews(key) {
     };
   });
   return items.filter((x) => x && !x.error && !seen.has(x.url) && seen.add(x.url));
+}
+
+// ---------- App Store 新着ゲーム（日本ストア） ----------
+// RSS で新着アプリを取り、lookup API でジャンル・公式サイト（sellerUrl）・アートワークを補う
+const APPSTORE_JUNK_URL = /app-ads\.txt|apple\.com|facebook|twitter|x\.com|instagram|youtube|linktr\.ee|notion\.site|docs\.google|sites\.google|\.web\.app\/?$|firebaseapp|github\.io\/?$|privacy|terms|policy/i;
+
+// 「新着」フィードは更新が止まっているため、ランキング（無料 / 有料 / セールス）のうち最近リリースされたものを拾う
+export async function fetchAppStore({ limit = 100, days = 45 } = {}) {
+  const feeds = [
+    `https://itunes.apple.com/jp/rss/topfreeapplications/limit=${limit}/genre=6014/json`,
+    `https://itunes.apple.com/jp/rss/topgrossingapplications/limit=${limit}/genre=6014/json`,
+    `https://itunes.apple.com/jp/rss/toppaidapplications/limit=${limit}/genre=6014/json`,
+    `https://itunes.apple.com/jp/rss/newapplications/limit=${limit}/genre=6014/json`,
+  ];
+  const ids = new Set();
+  for (const f of feeds) {
+    try {
+      const j = await fetchJson(f);
+      for (const e of j.feed?.entry || []) {
+        const id = e.id?.attributes?.["im:id"];
+        if (id) ids.add(id);
+      }
+    } catch (e) {
+      log("App Store feed failed:", f, e.message);
+    }
+  }
+  const cutoff = Date.now() - days * 86400000;
+  const out = [];
+  const idList = [...ids];
+  const dbg = { ids: idList.length, results: 0, games: 0, recent: 0 };
+  for (let i = 0; i < idList.length; i += 50) {
+    const chunk = idList.slice(i, i + 50);
+    let res;
+    try {
+      res = await fetchJson(`https://itunes.apple.com/lookup?id=${chunk.join(",")}&country=jp&lang=ja_jp`);
+    } catch (e) {
+      log("App Store lookup failed:", e.message);
+      continue;
+    }
+    for (const r of res.results || []) {
+      dbg.results++;
+      if (!(r.genres || []).includes("ゲーム")) continue;
+      dbg.games++;
+      if (!r.releaseDate || new Date(r.releaseDate).getTime() < cutoff) continue;
+      dbg.recent++;
+      const seller = r.sellerUrl && /^https?:\/\//.test(r.sellerUrl) && !APPSTORE_JUNK_URL.test(r.sellerUrl) ? cleanUrl(r.sellerUrl) : "";
+      const storeUrl = r.trackViewUrl ? cleanUrl(r.trackViewUrl.split("?")[0]) : "";
+      out.push({
+        source: "App Store",
+        sourceKind: "launch",
+        sourceUrl: storeUrl,
+        url: seller || storeUrl,
+        title: r.trackName,
+        description: truncate(`${r.artistName || ""} / ${(r.genres || []).filter((g) => g !== "ゲーム").slice(0, 2).join("・") || "ゲーム"} · App Store 新着`, 120),
+        publishedAt: new Date(r.releaseDate).toISOString(),
+        tags: ["ゲーム", "スマホ", "iOS", ...(r.genres || []).filter((g) => g !== "ゲーム").slice(0, 2)],
+        phCategories: [],
+        image: r.artworkUrl512 || r.artworkUrl100 || "",
+        region: /ja/.test((r.languageCodesISO2A || []).join(",")) && /jp|日本/i.test(r.sellerName + " " + r.artistName + " " + (r.description || "").slice(0, 200)) ? "jp" : undefined,
+      });
+    }
+  }
+  log(`App Store: ${JSON.stringify(dbg)} -> ${out.length} items`);
+  return out;
 }
 
 // ---------- itch.io 新着（海外インディーゲームのページ。既定では OFF） ----------
@@ -459,5 +553,6 @@ export const SOURCES = {
   insidegames: () => fetchGameNews("insidegames"),
   gamebusiness: () => fetchGameNews("gamebusiness"),
   denfami: () => fetchGameNews("denfami"),
+  appstore: (config) => fetchAppStore(config.appstore || {}),
   itchio: () => fetchItchio(),
 };
