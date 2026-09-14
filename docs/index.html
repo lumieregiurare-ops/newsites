@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>GameLab｜AI と一緒にゲームをつくる実験室</title>
-  <meta name="description" content="GameLab は、AI を使ってゲームをつくる個人の実験室。制作中のゲームの公開と、新しく公開されたゲーム関連サイトの毎日更新まとめ。">
-  <meta property="og:title" content="GameLab">
-  <meta property="og:description" content="AI と一緒にゲームをつくる実験室。制作したゲームと、新着ゲームサイトの毎日まとめ。">
+  <title>GameLab Radar｜新作ゲームサイト・事前登録・リリース情報まとめ</title>
+  <meta name="description" content="GameLab Radar は、新しく公開されたゲームの公式サイト・ティザー・特設サイトを毎日自動で集めるまとめサイト。事前登録受付中のタイトルと新作リリーススケジュールも掲載しています。">
+  <meta property="og:title" content="GameLab Radar">
+  <meta property="og:description" content="新作ゲームの公式サイト・事前登録・リリーススケジュールを毎日自動で集めています。">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://gamelab.main.jp/">
   <meta name="twitter:card" content="summary_large_image">
@@ -25,13 +25,13 @@
 
   <header class="header">
     <div class="wrap header-inner">
-      <a class="logo" href="./"><span class="logo-mark">G</span>GameLab</a>
+      <a class="logo" href="./"><span class="logo-mark">G</span>GameLab<span class="logo-sub">Radar</span></a>
       <nav class="nav" aria-label="グローバル">
-        <a href="#games">Games</a>
         <a href="#radar">Radar</a>
         <a href="#mobile">Mobile</a>
         <a href="#schedule">Schedule</a>
         <a href="#prereg">事前登録</a>
+        <a href="#games">Games</a>
         <a href="#about">About</a>
       </nav>
       <div class="header-social" id="headerSocial"></div>
@@ -41,31 +41,18 @@
   <main>
     <section class="hero">
       <div class="wrap">
-        <p class="eyebrow"><span class="dot"></span>AI × GAME DEV · EXPERIMENTAL LAB</p>
-        <h1 class="hero-title">Game<span class="grad">Lab</span></h1>
-        <p class="hero-lead">AI と一緒に、ゲームをつくる実験室。<br>思いついたアイデアを、その日のうちに遊べる形へ。制作中のゲームと、世界の新着ゲームサイトをここに集めています。</p>
+        <p class="eyebrow"><span class="dot"></span>NEW GAME SITES · DAILY RADAR</p>
+        <h1 class="hero-title">GameLab<br><span class="grad">Radar</span></h1>
+        <p class="hero-lead">新しく公開されたゲームのサイトを、毎日自動で集めています。<br>公式サイト・ティザー・特設サイトから、事前登録中のタイトル、発売スケジュールまで。つくる人にも、遊ぶ人にも。</p>
         <div class="hero-actions">
-          <a class="btn btn-primary" href="#games">作ったゲームを見る</a>
-          <a class="btn btn-ghost" href="radar/">新着ゲームサイトを見る <span aria-hidden="true">→</span></a>
+          <a class="btn btn-primary" href="radar/">新着ゲームサイトを見る <span aria-hidden="true">→</span></a>
+          <a class="btn btn-ghost" href="schedule/">リリース・事前登録 <span aria-hidden="true">→</span></a>
         </div>
         <dl class="hero-stats">
-          <div><dt>Games</dt><dd id="statGames">–</dd></div>
-          <div><dt>Radar 掲載サイト</dt><dd id="statSites">–</dd></div>
+          <div><dt>掲載サイト</dt><dd id="statSites">–</dd></div>
           <div><dt>今日の新着</dt><dd id="statToday">–</dd></div>
+          <div><dt>つくったゲーム</dt><dd id="statGames">–</dd></div>
         </dl>
-      </div>
-    </section>
-
-    <section class="section" id="games">
-      <div class="wrap">
-        <div class="section-head">
-          <div>
-            <p class="section-eyebrow">01 / Works</p>
-            <h2 class="section-title">AI でつくったゲーム</h2>
-          </div>
-          <p class="section-desc">企画・コード・素材づくりに AI を使って制作しているゲームとアプリ。公開中のものはすぐに遊べます。</p>
-        </div>
-        <div class="games-grid" id="gamesGrid"></div>
       </div>
     </section>
 
@@ -73,7 +60,7 @@
       <div class="wrap">
         <div class="section-head">
           <div>
-            <p class="section-eyebrow">02 / Radar</p>
+            <p class="section-eyebrow">01 / Radar</p>
             <h2 class="section-title">新着ゲームサイト</h2>
           </div>
           <p class="section-desc">公式サイト・ティザー・特設キャンペーン・周年サイトなど、新しく公開されたゲーム関連の Web サイトを毎朝自動で収集。<span id="radarUpdated"></span></p>
@@ -89,7 +76,7 @@
       <div class="wrap">
         <div class="section-head">
           <div>
-            <p class="section-eyebrow">02.5 / Mobile</p>
+            <p class="section-eyebrow">02 / Mobile</p>
             <h2 class="section-title">新着スマホゲーム</h2>
           </div>
           <p class="section-desc">ニュースで報じられたスマホゲームの公式サイトと、App Store（日本）に新しく登場したゲームを集めています。</p>
@@ -135,16 +122,29 @@
       </div>
     </section>
 
+    <section class="section" id="games">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="section-eyebrow">05 / Works</p>
+            <h2 class="section-title">AI でつくったゲーム</h2>
+          </div>
+          <p class="section-desc">企画・コード・素材づくりに AI を使って制作しているゲームとアプリ。公開中のものはすぐに遊べます。</p>
+        </div>
+        <div class="games-grid" id="gamesGrid"></div>
+      </div>
+    </section>
+
     <section class="section" id="about">
       <div class="wrap about">
         <div>
-          <p class="section-eyebrow">05 / About</p>
-          <h2 class="section-title">GameLab について</h2>
+          <p class="section-eyebrow">06 / About</p>
+          <h2 class="section-title">GameLab Radar について</h2>
         </div>
         <div class="about-body">
-          <p>GameLab は、AI を相棒にしてゲームをつくる個人の実験室です。「こんなゲームがあったら」を、企画からコード、絵や音まで AI と一緒に組み上げて、遊べる形で公開していきます。</p>
-          <p>あわせて、世界中で新しく公開されたゲーム関連サイトを毎日自動で集める <a href="radar/">Radar</a> を運営しています。ティザーサイトや周年サイトのデザイン、インディーゲームの発表など、つくる側のヒントになるものを拾っています。</p>
-          <p>制作の裏側や気づきは note に、日々の進捗は X に書いています。</p>
+          <p>GameLab Radar は、新しく公開されたゲーム関連の Web サイトを毎日自動で集めている個人サイトです。ゲームメディアが取り上げた公式サイト、ティザーサイト、特設・周年サイト、国内のデザインギャラリーに載ったゲームサイト、海外のインディーゲームまでを横断して収集しています。</p>
+          <p>あわせて、<a href="schedule/">事前登録受付中のタイトルと新作リリーススケジュール</a>もまとめています。遊ぶゲームを探すときにも、サイトをつくるときの参考にも使えます。</p>
+          <p>もうひとつの顔として、AI を相棒にゲームをつくる実験もしています。できたものは <a href="#games">Games</a> に並べています。制作の裏側は note に、日々の進捗は X に書いています。</p>
         </div>
       </div>
     </section>
@@ -153,20 +153,20 @@
   <footer class="footer">
     <div class="wrap footer-inner">
       <div class="footer-brand">
-        <a class="logo" href="./"><span class="logo-mark">G</span>GameLab</a>
-        <p>AI と一緒に、ゲームをつくる実験室。</p>
+        <a class="logo" href="./"><span class="logo-mark">G</span>GameLab<span class="logo-sub">Radar</span></a>
+        <p>新作ゲームサイトを、毎日自動で集めています。</p>
       </div>
       <nav class="footer-nav" aria-label="フッター">
-        <a href="#games">Games</a>
         <a href="radar/">Radar</a>
         <a href="schedule/">Schedule</a>
+        <a href="#games">Games</a>
         <a href="#about">About</a>
       </nav>
       <div class="footer-social" id="footerSocial"></div>
     </div>
     <div class="wrap footer-bottom">
-      <span>© <span id="year"></span> GameLab</span>
-      <span>Radar のサムネイル・説明文は各サイトの OGP を参照しています。権利は各権利者に帰属します。</span>
+      <span>© <span id="year"></span> GameLab Radar</span>
+      <span>サムネイル・説明文は各サイトの OGP を参照しています。権利は各権利者に帰属します。</span>
     </div>
   </footer>
 

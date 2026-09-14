@@ -1,9 +1,9 @@
-# GameLab（gamelab.main.jp）
+# GameLab Radar（gamelab.main.jp）
 
-AI と一緒にゲームをつくる個人サイト「GameLab」のソースです。`docs/` がサイトルートで、そのままロリポップ（FTP）や GitHub Pages に置いて公開できます。
+新しく公開されたゲーム関連の Web サイトを毎日自動で集めるサイト「GameLab Radar」のソースです。`docs/` がサイトルートで、そのままロリポップ（FTP）や GitHub Pages に置いて公開できます。
 
-- `docs/index.html` — トップページ（制作したゲーム一覧 / 新着ゲームサイト 8 件 / About / SNS リンク）
-- `docs/radar/` — **GameLab Radar**: 新しく公開されたゲーム関連の Web サイト（公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなど）を自動収集し、種類別に一覧表示する下層ページ
+- `docs/index.html` — トップページ（新着ゲームサイト 8 件 / 新着スマホゲーム / リリーススケジュール / 事前登録 / AI でつくったゲーム / About / SNS リンク）
+- `docs/radar/` — 新着ゲームサイトの全件一覧。公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなどを種類別に表示
 - `docs/schedule/` — **リリーススケジュール / 事前登録受付中**: 向こう 120 日の新作発売予定と、事前登録開始が報じられたタイトル（データは `docs/data/schedule.json`）
 
 ## リリーススケジュール・事前登録のデータ源
@@ -35,7 +35,11 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 | ファイル | 内容 |
 | --- | --- |
 | `docs/data/games.json` | 「AI でつくったゲーム」に出すカード。`status` は `live` / `soon` / `wip`、`image` は 16:9 推奨、`url` が空ならリンクなし |
-| `docs/data/site.json` | X / note のリンク先（ヘッダーとフッターに出ます） |
+| `docs/data/site.json` | サイト名と X / note のリンク先（ヘッダーとフッターに出ます） |
+
+## サイト名について
+
+「GameLab Radar」を正式名称にしています。「GameLab」単独だと、ゲーム情報誌『ゲームラボ』（三才ブックス、現在も刊行中）やドコモ向けゲーム配信サービス「GAME LAB」と分野が重なり、混同のおそれがあるためです。表示名を変える場合は `docs/data/site.json` の `name` と、各 HTML の `<title>` / ロゴ / フッターを直してください（ドメインは変更不要です）。
 | `docs/index.html` | ヒーローの文言・About の本文 |
 | `docs/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
 

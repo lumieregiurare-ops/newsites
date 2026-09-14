@@ -157,6 +157,14 @@ dd {
   font-size: 15px;
 }
 
+.logo-sub {
+  margin-left: 6px;
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 .nav {
   display: flex;
   gap: 26px;
@@ -288,8 +296,8 @@ dd {
   margin-top: 22px;
   font-family: var(--font-display);
   font-weight: 900;
-  font-size: clamp(56px, 11vw, 132px);
-  line-height: .95;
+  font-size: clamp(46px, 9vw, 108px);
+  line-height: .96;
   letter-spacing: -.03em;
 }
 

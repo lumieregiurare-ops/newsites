@@ -387,7 +387,7 @@
     const r = await fetch(`data/sites.json?t=${Math.floor(Date.now() / 600000)}`);
     if (!r.ok) throw new Error("no data");
     data = await r.json();
-    document.title = `${data.site?.title || "Game Sites Radar"}｜新着ゲーム関連サイトまとめ`;
+    document.title = `新着ゲームサイト一覧｜${data.site?.title || "GameLab Radar"}`;
     renderBrand();
     renderHero();
     renderSources();
