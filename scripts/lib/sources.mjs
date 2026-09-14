@@ -381,7 +381,12 @@ const GAME_NEWS = {
     feeds: ["https://news.denfaminicogamer.jp/feed", "https://news.denfaminicogamer.jp/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/feed"],
     host: "denfaminicogamer.jp",
   },
+  appbank: { name: "AppBank", feeds: ["https://www.appbank.net/category/game/feed"], host: "appbank.net" },
+  applivgames: { name: "Appliv Games", feeds: ["https://games.app-liv.jp/feed"], host: "app-liv.jp" },
 };
+
+// 「◯◯公式サイト」と書かれていても、作品ではなくイベントや業界団体のポータルを指すリンクは採用しない
+const EVENT_PORTAL_RE = /tgs\.cesa\.or\.jp|cedec\.cesa\.or\.jp|(^|\.)cesa\.or\.jp|jesu\.or\.jp|gamescom|bitsummit/i;
 const GAME_ANNOUNCE_RE = /発表|ティザー|公式サイト|特設サイト|キャンペーン|周年|事前登録|配信開始|発売決定|発売日|サービス開始|新作|リリース|オープン|公開|始動|決定|開催|コラボ|正式|β|ベータ|体験版|予約/;
 const OFFICIAL_TEXT_RE = /公式サイト|公式ページ|公式ホームページ|公式HP|公式Web|オフィシャルサイト|ティザーサイト|特設サイト|キャンペーンサイト|スペシャルサイト|周年サイト|ポータルサイト|プロモーションサイト/i;
 const GAME_STORE_RE = /store\.steampowered|steampowered|apps\.apple|itunes\.apple|play\.google|nintendo\.(co|com)|playstation\.com|xbox\.com|epicgames|gog\.com|twitter\.com|x\.com|youtube|youtu\.be|facebook|instagram|tiktok|discord|twitch|line\.me|note\.com|amazon|amzn\.to|rakuten|wikipedia|google|iid\.(co\.)?jp|ads2\.iid|dmm\.co|famitsu|4gamer|gamespark|inside-games|gamebusiness|denfaminicogamer|automaton|aetas\.co\.jp|entame-print|1kuji\.com|bandainamco-am|abema\.tv|bsky\.app|\.(jpg|png|gif)$/i;
@@ -456,6 +461,8 @@ export async function fetchGameNews(key) {
         continue;
       }
       if (GAME_STORE_RE.test(href)) continue;
+      // 記事がそのイベント自体を扱っているのでなければ、イベント公式サイトは作品の公式サイトではない
+      if (EVENT_PORTAL_RE.test(href) && !EVENT_PORTAL_RE.test(e.title) && !/東京ゲームショウ|TGS|CEDEC/i.test(e.title)) continue;
       const text = stripTags(m[2]);
       const isOfficial = OFFICIAL_TEXT_RE.test(text) || /class="[^"]*\bofficial\b/.test(m[1]) || /alt="公式サイト/.test(m[2]);
       if (isOfficial) {
@@ -595,6 +602,8 @@ export const SOURCES = {
   insidegames: () => fetchGameNews("insidegames"),
   gamebusiness: () => fetchGameNews("gamebusiness"),
   denfami: () => fetchGameNews("denfami"),
+  appbank: () => fetchGameNews("appbank"),
+  applivgames: () => fetchGameNews("applivgames"),
   appstore: (config) => fetchAppStore(config.appstore || {}),
   itchio: () => fetchItchio(),
 };

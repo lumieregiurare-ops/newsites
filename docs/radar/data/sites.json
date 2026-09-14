@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T06:57:48.416Z",
+  "updatedAt": "2026-09-14T07:08:00.181Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -35,17 +35,17 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 18
+      "count": 16
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 17
+      "count": 19
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 2
+      "count": 1
     },
     {
       "id": "browser",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 2
+      "count": 1
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 28
+      "count": 29
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 6
+      "count": 7
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 2
+      "count": 3
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 10
+      "count": 12
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 33
+      "count": 34
     },
     {
       "id": "browser",
@@ -121,16 +121,50 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "4Gamer",
+    "AppBank",
     "Hacker News",
     "GameBusiness.jp",
     "App Store",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e97e5767d909",
+      "url": "https://apps.apple.com/jp/app/valheim/id1554294918?mt=12",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Valheim",
+      "headline": "北欧神話風オープンワールドサバクラ『Valheim』正式版リリースで再び盛況―Steam版の最大同時接続者数が30万人突破！",
+      "description": "Coffee Stain Publishingの「Valheim」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Valheim」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-14T07:00:04.000Z",
+      "addedAt": "2026-09-14T07:06:30.587Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/14/172228.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/7f/39/267f39a7-32cf-bae9-7ded-a18b29f601eb/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "3bca2b9d4d65",
       "url": "https://yu-gi-oh.jp/",
@@ -246,6 +280,37 @@
       ],
       "points": null,
       "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260903/kdiz1788413190678.jpg"
+    },
+    {
+      "id": "0c264c90964b",
+      "url": "https://oboromuramasakaikitan.marv.jp/",
+      "host": "oboromuramasakaikitan.marv.jp",
+      "region": "jp",
+      "title": "朧村正怪奇譚",
+      "headline": "和風アクションRPG『朧村正怪奇譚』2027年2月4日発売決定！ 最新映像「朧流遊戯伝」も公開",
+      "description": "ヴァニラウェア×マーベラスが贈る絢爛絵巻和風アクションRPG『朧村正怪奇譚』公式サイト。Nintendo Switch™ 2 / Nintendo Switch™ / PlayStation®5 / Steam®向けに2027年2月4日（…",
+      "publishedAt": "2026-09-14T03:55:00.000Z",
+      "addedAt": "2026-09-14T07:06:30.587Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/14/game/3102865.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "ps",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://oboromuramasakaikitan.marv.jp/assets/img/ogp.jpg?09"
     },
     {
       "id": "fb837f862abe",
@@ -397,6 +462,33 @@
       "platforms": [],
       "points": null,
       "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg"
+    },
+    {
+      "id": "09171898f87d",
+      "url": "https://pokemongo.com/ja/",
+      "host": "pokemongo.com",
+      "region": "jp",
+      "title": "ポケモン GO",
+      "headline": "『ポケモン GO』のリアルイベントが仙台とメキシコシティで同時開催！ 11月6日から東北を周遊できる「ワイルドエリア」開催",
+      "description": "地域のポケモントレーナーたちと一緒に、イベントに参加しよう！ 一緒にチャレンジに挑戦したり、ポケモンを捕まえたり、楽しい体験を共有しましょう。",
+      "publishedAt": "2026-09-13T22:45:00.000Z",
+      "addedAt": "2026-09-14T07:06:30.587Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/14/game/3102024.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lh3.googleusercontent.com/RyQzi0GT1DQpUc6X62nhd1R7pSRXfU4X4J3rA8qTakzh5yeYW9OPKIWEyyHo0wOmy3yHS5lVzYj0snN8ZRWYKX_oRgGXRqGW4Z8W"
     },
     {
       "id": "94824891f3b6",
@@ -817,6 +909,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/036/G103653/20260912005/"
+        },
+        {
+          "name": "Appliv Games",
+          "url": "https://games.app-liv.jp/archives/590569"
         }
       ],
       "tags": [
@@ -1071,89 +1167,6 @@
       "image": "https://crazytaxi-asia.sega.com/worldtour/ja/ogp.jpg"
     },
     {
-      "id": "7dcdb0debbd3",
-      "url": "https://puyo.sega.jp/PuyoPuyo_eSports/",
-      "host": "puyo.sega.jp",
-      "region": "jp",
-      "title": "ぷよぷよeスポーツ",
-      "headline": "「ぷよぷよeスポーツ」，TGS 2026のファミリーゲームパークでイベントを開催",
-      "description": "『ぷよぷよeスポーツ』公式サイト",
-      "publishedAt": "2026-09-11T11:09:45.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/458/G045823/20260911050/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://puyo.sega.jp/PuyoPuyo_eSports/common/image/og-image.jpg"
-    },
-    {
-      "id": "6efa6cdac0e5",
-      "url": "https://sonic.sega.jp/SonicRacingCrossWorlds/",
-      "host": "sonic.sega.jp",
-      "region": "jp",
-      "title": "ソニック",
-      "headline": "「ソニック」シリーズ，東京ゲームショウ2026の出展情報を公開",
-      "description": "同じレースは二度とない！？『ソニックレーシング クロスワールド』で予測不能の”驚き”が詰まったレースバトルを体験しよう！",
-      "publishedAt": "2026-09-11T10:54:43.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/882/G088214/20260911047/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://sonic.sega.jp/SonicRacingCrossWorlds/assets/images/jp/facebook260319.jpg"
-    },
-    {
-      "id": "c1da9b7c6ab0",
-      "url": "https://sapporo-game-camp.com/2026/",
-      "host": "sapporo-game-camp.com",
-      "region": "jp",
-      "title": "Sapporo Game Camp，東京ゲ",
-      "headline": "Sapporo Game Camp，東京ゲームショウ2026の出展情報を公開",
-      "description": "「Sapporo Game Camp」2026年10月9日(金)・10日(土)・11日(日)、プロと一緒にゲーム開発に挑戦する「Game Jam」、各種イベントも同時開催！",
-      "publishedAt": "2026-09-11T10:47:32.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/991/G999110/20260911046/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event",
-        "indie",
-        "media"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://sapporo-game-camp.com/2026/ogp.png"
-    },
-    {
       "id": "286ad75c6e58",
       "url": "https://segafcchampions.sega.com/ja/",
       "host": "segafcchampions.sega.com",
@@ -1200,6 +1213,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/042/G104224/20260911036/"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/14/game/3103578.php"
         }
       ],
       "tags": [

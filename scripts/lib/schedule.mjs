@@ -486,5 +486,14 @@ export function trackChanges(data, cache, now, historyDays) {
   cache.initialized = true;
   const cutoff = now.getTime() - historyDays * 86400000;
   cache.changeLog = log.filter((c) => new Date(c.at).getTime() >= cutoff).slice(-400);
-  return [...cache.changeLog].reverse().slice(0, 60);
+
+  // 掲載対象から外れたタイトル（除外ルールの変更などで消えたもの）の履歴は表示しない。
+  // 「事前登録開始」は、いま事前登録を受け付けているタイトルにだけ出す（配信済みなら消える）
+  const key = (t) => (t || "").toLowerCase().replace(/\s+/g, "");
+  const live = new Set([...data.releases, ...data.prereg].map((x) => key(x.title)));
+  const livePrereg = new Set(data.prereg.map((p) => key(p.title)));
+  return [...cache.changeLog]
+    .reverse()
+    .filter((c) => (c.type === "prereg_start" ? livePrereg.has(key(c.title)) : live.has(key(c.title))))
+    .slice(0, 60);
 }

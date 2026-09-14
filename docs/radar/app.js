@@ -20,10 +20,14 @@
     "Inside": "#6a1b9a",
     "GameBusiness.jp": "#00838f",
     "電ファミニコゲーマー": "#ef6c00",
+    "AppBank": "#ff8f00",
+    "Appliv Games": "#2e7d32",
     "itch.io": "#fa5c5c",
   };
   const SOURCE_URLS = {
     "GameBusiness.jp": "https://www.gamebusiness.jp/",
+    "AppBank": "https://www.appbank.net/",
+    "Appliv Games": "https://games.app-liv.jp/",
     "電ファミニコゲーマー": "https://news.denfaminicogamer.jp/",
     "Product Hunt": "https://www.producthunt.com/topics/games",
     "Hacker News": "https://news.ycombinator.com/show",
