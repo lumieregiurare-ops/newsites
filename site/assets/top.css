@@ -301,7 +301,7 @@ dd {
   margin-top: 22px;
   font-family: var(--font-display);
   font-weight: 900;
-  font-size: clamp(46px, 9vw, 108px);
+  font-size: clamp(46px, 9vw, 78px);
   line-height: .96;
   letter-spacing: -.03em;
 }
@@ -315,7 +315,6 @@ dd {
 
 .hero-lead {
   margin-top: 28px;
-  max-width: 640px;
   font-size: 17px;
   color: var(--text-muted);
 }
