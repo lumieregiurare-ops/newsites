@@ -63,11 +63,18 @@ if (config.schedule?.enabled !== false) {
 
 const server = http.createServer((req, res) => {
   const path = decodeURIComponent(new URL(req.url, `http://${req.headers.host}`).pathname);
-  const rel = path === "/" ? "/index.html" : path;
-  const file = normalize(join(DOCS, rel));
+  let file = normalize(join(DOCS, path));
   if (!file.startsWith(DOCS)) {
     res.writeHead(403);
     return res.end();
+  }
+  // ディレクトリは index.html を返す（末尾スラッシュなしはリダイレクト）— Apache / GitHub Pages と同じ挙動
+  if (existsSync(file) && statSync(file).isDirectory()) {
+    if (!path.endsWith("/")) {
+      res.writeHead(301, { location: path + "/" });
+      return res.end();
+    }
+    file = join(file, "index.html");
   }
   if (!existsSync(file) || !statSync(file).isFile()) {
     res.writeHead(404, { "content-type": "text/plain; charset=utf-8" });
