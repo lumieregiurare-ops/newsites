@@ -372,7 +372,12 @@ const GAME_NEWS = {
     feeds: [
       "https://www.4gamer.net/rss/index.xml",
       "https://www.4gamer.net/rss/pc/pc_news.xml",
-      // 事前登録情報の一覧ページ（RSS なし・EUC-JP）。記事 50 件分が並ぶので事前登録の取りこぼしを大きく減らせる
+      // RSS は直近 100 件しか持たないので、HTML の一覧ページ（EUC-JP）も読む。
+      // ニュース一覧・スマホ・Switch・PC・事前登録情報で合計 270 件前後、RSS に無い記事が 120 件以上ある
+      { url: "https://www.4gamer.net/news/", parse: "4gamer-list", encoding: "euc-jp" },
+      { url: "https://www.4gamer.net/smartphone/", parse: "4gamer-list", encoding: "euc-jp" },
+      { url: "https://www.4gamer.net/switch/", parse: "4gamer-list", encoding: "euc-jp" },
+      { url: "https://www.4gamer.net/pc/", parse: "4gamer-list", encoding: "euc-jp" },
       { url: "https://www.4gamer.net/smartphone/preregistration/", parse: "4gamer-list", encoding: "euc-jp" },
     ],
     host: "4gamer.net",
@@ -383,7 +388,12 @@ const GAME_NEWS = {
   gamebusiness: { name: "GameBusiness.jp", feeds: ["https://www.gamebusiness.jp/rss20/index.rdf"], host: "gamebusiness.jp" },
   denfami: {
     name: "電ファミニコゲーマー",
-    feeds: ["https://news.denfaminicogamer.jp/feed", "https://news.denfaminicogamer.jp/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/feed"],
+    feeds: [
+      "https://news.denfaminicogamer.jp/feed",
+      "https://news.denfaminicogamer.jp/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/feed", // スマートフォン
+      "https://news.denfaminicogamer.jp/tag/%E4%BA%8B%E5%89%8D%E7%99%BB%E9%8C%B2/feed", // 事前登録
+      "https://news.denfaminicogamer.jp/tag/%E6%96%B0%E4%BD%9C/feed", // 新作
+    ],
     host: "denfaminicogamer.jp",
   },
   appbank: { name: "AppBank", feeds: ["https://www.appbank.net/category/game/feed"], host: "appbank.net" },

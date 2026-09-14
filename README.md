@@ -11,10 +11,10 @@
 
 | 情報 | 取得元 | 備考 |
 | --- | --- | --- |
-| Nintendo Switch / Switch 2 の発売予定 | 任天堂公式サイトの検索 API（`search.nintendo.jp`、発売予定・予約受付中） | タイトル・発売日・メーカー・パッケージ画像・ストアリンク |
-| Steam の近日登場 | Steam ストアの「人気の近日登場」（`filter=popularcomingsoon`、日本語） | 上位 100 件。人気順を `priority` として保持 |
+| Nintendo Switch / Switch 2 の発売予定 | 任天堂公式サイトの検索 API（`search.nintendo.jp`、発売予定・予約受付中） | タイトル・発売日・メーカー・パッケージ画像・ストアリンク。上限 500 件（`nintendoLimit`、実数は 440 件前後） |
+| Steam の近日登場 | Steam ストアの「人気の近日登場」（`filter=popularcomingsoon`、日本語） | 上位 300 件を 100 件ずつページ送りで取得（`steamCount`）。人気順を `priority` として保持 |
 | ニュースで発表された発売日 | 収集済みのゲームニュース見出しから「M月D日発売」「2027年春リリース」などを抽出 | グッズ・番組・書籍の発売は除外 |
-| 事前登録受付中 | ① 4Gamer の事前登録情報ページ（RSS なし・EUC-JP、記事 50 件）を記事フィードと同じ経路で処理 ② ゲームニュース**記事本文の前半**の解析（受付中か終了か、特典、登録者数、App Store / Google Play の ID） ③ Game8 の事前登録一覧から**タイトル名だけ**を拾い、App Store 検索で予約注文中と確認できたものを掲載 ④ ニュースに出たスマホゲームを App Store 検索で照会 | 公式サイトとストアへのリンク、特典・登録者数を併記。一覧ページの内容（順位・特典・日付）は転載せず、タイトル発見にだけ使う |
+| 事前登録受付中 | ① 4Gamer の事前登録情報ページ（RSS なし・EUC-JP、記事 50 件）を記事フィードと同じ経路で処理 ② ゲームニュース**記事本文の前半**の解析（受付中か終了か、特典、登録者数、App Store / Google Play の ID） ③ Game8 の事前登録一覧から**タイトル名だけ**を拾い、App Store 検索で予約注文中と確認できたものを掲載。確認できないもの（Android 専用など）は `preregLists.showUnverified: true` のとき「事前登録中・未確認」の破線バッジ付きで掲載し、公式サイトが分からない場合は Game8 の該当ページへリンク ④ ニュースに出たスマホゲームを App Store 検索で照会 | 公式サイトとストアへのリンク、特典・登録者数を併記。一覧ページの内容（順位・特典・日付）は転載せず、タイトル発見にだけ使う |
 
 ### 配信日の扱い
 
@@ -61,7 +61,8 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
   - App Store（日本）: ゲームカテゴリのランキング（無料 / 有料 / セールス）のうち直近 45 日以内にリリースされたタイトル。公式サイト（開発元 URL）があればそちら、無ければ App Store ページ。`config.json` の `appstore.days` で期間を変更
   - ニュース系フィードは直近 100 件程度しか持たないため、GitHub Actions は 1 日 3 回（JST 07:00 / 13:00 / 19:00）収集します
   - 国内デザインギャラリー: MUUUUU.ORG / SANKOU! / I/O 3000 / Web Design Clip / 1guu / Responsive Web Design JP のうちゲーム関連のもの（エンタメ・ゲーム・特設サイト系カテゴリフィードも取得）
-  - 海外: Product Hunt の Games カテゴリ / Hacker News (Show HN) / Launching Next / PitchWall / One Page Love / minimal.gallery のうちゲーム関連のもの。itch.io の新着は `sources.itchio: true` で有効化
+  - 4Gamer は RSS（100 件）に加えて HTML の一覧ページ（ニュース・スマホ・Switch・PC・事前登録情報）も読み、RSS に載らない記事を拾います。電ファミは総合に加え「スマートフォン」「事前登録」「新作」タグのフィードを読みます
+  - 海外（Product Hunt / Hacker News / Launching Next / PitchWall / One Page Love / minimal.gallery）と国内デザインギャラリー 6 サイトは、ゲーム特化後は掲載への寄与がほぼ無かったため **既定で OFF** にしています（`sources.*` で再有効化可）。itch.io も OFF
   - **ゲーム特化フィルタ**（`focus`）: ニュース系と Product Hunt の Games 以外は、タイトル・見出し・説明・タグがゲーム関連キーワードに当たるものだけを残します
   - **掲載 URL の正規化と絞り込み**（`siteFilter`）: 下記参照
 

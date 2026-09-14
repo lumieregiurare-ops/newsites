@@ -7,6 +7,7 @@
     { id: "dated", label: "配信日決定", test: (p) => !!p.releaseText },
     { id: "tba", label: "配信日未定", test: (p) => !p.releaseText },
     { id: "store", label: "App Store で予約可", test: (p) => !!p.appStore?.preorder },
+    { id: "unverified", label: "未確認", test: (p) => p.verified === false },
   ];
 
   function hashHue(s) {
@@ -61,7 +62,8 @@
     const m2 = (p.releaseText || "").match(/(\d{4})年(\d{1,2})月/);
     if (m2) return `1-${m2[1]}-${m2[2].padStart(2, "0")}`;
     if (p.releaseText) return `2-${p.releaseText}`;
-    return `3-${99999999999999 - new Date(p.startedAt).getTime()}`;
+    // 未確認は最後尾
+    return `${p.verified === false ? 4 : 3}-${99999999999999 - new Date(p.startedAt).getTime()}`;
   }
 
   function renderFilters() {
@@ -129,6 +131,13 @@
       hl.href = p.sourceUrl || p.url;
       hl.hidden = !p.headline;
       node.querySelector(".prereg-link").href = p.url;
+      if (p.verified === false) {
+        const badge = node.querySelector(".prereg-badge");
+        badge.classList.add("is-unverified");
+        badge.textContent = "事前登録中・未確認";
+        badge.title = `${p.source} の事前登録一覧に掲載されていますが、App Store では確認できていません（Android 専用などの可能性）`;
+        if (!p.officialKnown) node.querySelector(".prereg-link").textContent = `${p.source} で見る →`;
+      }
       const store = node.querySelector(".prereg-store");
       if (p.appStore?.url) {
         store.hidden = false;

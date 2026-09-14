@@ -232,7 +232,8 @@
     const grid = $("#preregGrid");
     grid.innerHTML = "";
     const labels = new Map((sched.platforms || []).map((p) => [p.id, p.label]));
-    const items = (sched.prereg || []).slice(0, PREREG_MAX);
+    // トップでは裏取りできているものを優先して出す
+    const items = [...(sched.prereg || [])].sort((a, b) => (a.verified === false ? 1 : 0) - (b.verified === false ? 1 : 0)).slice(0, PREREG_MAX);
     if (!items.length) {
       grid.innerHTML = `<div class="prereg-empty">現在、事前登録の開始が報じられたタイトルはありません。毎朝 7 時に更新されます。</div>`;
       return;
@@ -281,6 +282,13 @@
     hl.href = p.sourceUrl || p.url;
     hl.hidden = !p.headline;
     node.querySelector(".prereg-link").href = p.url;
+    if (p.verified === false) {
+      const badge = node.querySelector(".prereg-badge");
+      badge.classList.add("is-unverified");
+      badge.textContent = "事前登録中・未確認";
+      badge.title = `${p.source} の事前登録一覧に掲載されていますが、App Store では確認できていません（Android 専用などの可能性）`;
+      if (!p.officialKnown) node.querySelector(".prereg-link").textContent = `${p.source} で見る →`;
+    }
     const store = node.querySelector(".prereg-store");
     if (p.appStore?.url) {
       store.hidden = false;

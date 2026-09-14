@@ -887,6 +887,13 @@ dd {
   color: #0b0d12;
 }
 
+/* 一覧ページで見つけたが App Store 等で裏取りできていないもの */
+.prereg-badge.is-unverified {
+  background: rgba(11, 13, 18, .8);
+  color: var(--text-muted);
+  border: 1px dashed var(--border);
+}
+
 .prereg-body {
   display: flex;
   flex-direction: column;

@@ -63,9 +63,14 @@ function parseNintendoDate(sdate) {
 
 // ---------- Steam ----------
 export async function fetchSteam({ count = 100 } = {}) {
-  const url = `https://store.steampowered.com/search/results/?query&start=0&count=${count}&filter=popularcomingsoon&infinite=1&cc=jp&l=japanese`;
-  const j = await fetchJson(url);
-  const blocks = (j.results_html || "").split(/<a href="https:\/\/store\.steampowered\.com\/app\//).slice(1);
+  // 1 ページ 100 件までなので、count に応じてページを重ねて取る（人気順は保たれる）
+  let html = "";
+  for (let start = 0; start < count; start += 100) {
+    const url = `https://store.steampowered.com/search/results/?query&start=${start}&count=${Math.min(100, count - start)}&filter=popularcomingsoon&infinite=1&cc=jp&l=japanese`;
+    const j = await fetchJson(url);
+    html += j.results_html || "";
+  }
+  const blocks = html.split(/<a href="https:\/\/store\.steampowered\.com\/app\//).slice(1);
   const out = [];
   for (const b of blocks) {
     const appid = b.match(/^(\d+)/)?.[1];
@@ -361,11 +366,42 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
     // 一覧ページで見つけたタイトルは、App Store で予約注文中と確認できたものだけ載せる
     const firstSeen = (cache.listFirstSeen = cache.listFirstSeen || {});
     const preregTitles = new Set(prereg.map((p) => p.title.toLowerCase().replace(/\s+/g, "")));
+    // App Store で確認できないもの（Android 専用・未掲載など）は「未確認」として載せる設定
+    const showUnverified = !!config.releases?.preregLists?.showUnverified;
+    const newsByTitle = new Map(items.filter((it) => it.sourceKind === "news").map((it) => [it.title.toLowerCase().replace(/\s+/g, ""), it]));
     for (const x of extras) {
       const app = found.get(x.title);
-      if (!app || !app.isPreorder) continue;
+      const xk = x.title.toLowerCase().replace(/\s+/g, "");
+      if (!app || !app.isPreorder) {
+        // App Store で配信済みと分かったものは事前登録ではないので載せない
+        if (app && !app.isPreorder) continue;
+        if (!showUnverified || preregTitles.has(xk)) continue;
+        const news = newsByTitle.get(xk);
+        firstSeen[xk] = firstSeen[xk] || now.toISOString();
+        appStats.unverified = (appStats.unverified || 0) + 1;
+        prereg.push({
+          id: idOf(`list:${x.source}:${xk}`),
+          title: x.title,
+          url: news?.url || x.sourceUrl || x.listUrl,
+          image: news?.image || "",
+          platforms: news?.platforms?.length ? news.platforms : ["mobile"],
+          startedAt: firstSeen[xk],
+          releaseText: "",
+          releaseSource: "",
+          count: "",
+          reward: "",
+          headline: "",
+          description: "",
+          source: x.source,
+          sourceUrl: x.sourceUrl || x.listUrl,
+          verified: false,
+          officialKnown: !!news?.url,
+        });
+        preregTitles.add(xk);
+        continue;
+      }
       const k = app.title.toLowerCase().replace(/\s+/g, "");
-      if (preregTitles.has(k) || preregTitles.has(x.title.toLowerCase().replace(/\s+/g, ""))) continue;
+      if (preregTitles.has(k) || preregTitles.has(xk)) continue;
       firstSeen[k] = firstSeen[k] || now.toISOString();
       appStats.fromLists++;
       prereg.push({
