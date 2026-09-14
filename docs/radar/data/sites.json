@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-14T08:26:06.523Z",
+  "updatedAt": "2026-09-14T12:56:12.526Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 113,
+  "total": 124,
   "regions": {
-    "jp": 101,
-    "global": 12
+    "jp": 111,
+    "global": 13
   },
   "categories": [
     {
@@ -20,22 +20,22 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 26
+      "count": 28
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 9
+      "count": 10
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 10
+      "count": 12
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 21
+      "count": 25
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 13
+      "count": 14
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 37
+      "count": 39
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 15
+      "count": 18
     }
   ],
   "platforms": [
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 3
+      "count": 4
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 16
+      "count": 18
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 58
+      "count": 61
     },
     {
       "id": "browser",
@@ -121,18 +121,340 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
-    "Appliv Games",
-    "Inside",
     "AppBank",
+    "Inside",
+    "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "App Store",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "92ad1fea03da",
+      "url": "https://hsr.hoyoverse.com/ja-jp/home/",
+      "host": "hsr.hoyoverse.com",
+      "region": "jp",
+      "title": "崩壊：スターレイル",
+      "headline": "「崩壊：スターレイル」の「火花」とコラボした完全ワイヤレスイヤホン「MOONDROP Sparxie」の予約受付が開始。価格は1万6200円",
+      "description": "Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that takes players on a cosmic adventure across…",
+      "publishedAt": "2026-09-14T11:41:07.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/599/G059954/20260914050/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "b24a8fa45946",
+      "url": "https://www.sega.jp/segastore/osaka/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "SEGA STORE OSAKA",
+      "headline": "「SEGA STORE OSAKA」，限定商品などの最新情報を公開。大阪グルメを楽しむソニックたちを描き下ろしたショッピングバッグなどを販売",
+      "description": "「SEGA STORE OSAKA」，限定商品などの最新情報を公開。大阪グルメを楽しむソニックたちを描き下ろしたショッピングバッグなどを販売",
+      "publishedAt": "2026-09-14T11:37:15.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999106/20260914045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "2cc1f8781de6",
+      "url": "http://sega-mj.com/",
+      "host": "sega-mj.com",
+      "region": "jp",
+      "title": "セガNET麻雀 MJ",
+      "headline": "「セガNET麻雀 MJ」，全国大会「快盗天使ツインエンジェル20thAnniv. CUP」を開催",
+      "description": "『セガNET麻雀 MJ』はセガが運営するネットワーク対戦麻雀ゲームです。PCとiPhoneとAndroidで、いつでもどこでも手軽に対局可能！登録不要ですぐに遊べます。",
+      "publishedAt": "2026-09-14T11:22:56.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/226/G022696/20260914051/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sega-mj.com/ogp02.png?upd"
+    },
+    {
+      "id": "2dc3bd4350b1",
+      "url": "https://www.sega.jp/game/detail/stupid-never-dies/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "ステューピッド・ネバー・ダイズ",
+      "headline": "「ステューピッド・ネバー・ダイズ」，PS5パッケージ版の店舗別購入特典情報を公開",
+      "description": "「ステューピッド・ネバー・ダイズ」，PS5パッケージ版の店舗別購入特典情報を公開",
+      "publishedAt": "2026-09-14T10:56:19.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/969/G096934/20260914044/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "c3e1f9fc823b",
+      "url": "https://apps.apple.com/app/id6760698900",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "雨のちハレ女",
+      "headline": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
+      "description": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
+      "publishedAt": "2026-09-14T10:44:53.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609142y"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "bace02931b6a",
+      "url": "https://playdarkmachine.com/",
+      "host": "playdarkmachine.com",
+      "region": "jp",
+      "title": "DARK MACHINE THE GAME",
+      "headline": "3サイズのメカで戦場を支配。PvE＆最大7対7のPvPメカアクション『DARK MACHINE THE GAME』Steamストアページ公開",
+      "description": "『DARK MACHINE THE GAME』は最大7vs7のチームで戦うメカアクションシューティング。小型から中型、そして大型へ、3つのサイズの機体の進化<シフトアップ>で戦況を操れ。​戦略的思考と爽快感が融合する戦場を支配せよ。",
+      "publishedAt": "2026-09-14T10:15:02.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/14/172244.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://playdarkmachine.com/og_image.png"
+    },
+    {
+      "id": "df290a3cf49f",
+      "url": "https://www.event-td.com/horror-tokk/",
+      "host": "event-td.com",
+      "region": "jp",
+      "title": "SILENT HILL f",
+      "headline": "「SILENT HILL f」が大賞を受賞。「日本ホラーゲーム大賞2026 produced by 百室」，受賞作品を発表",
+      "description": "東京ホラー特区!! 2026 公式サイト。映画・ドラマ・ゲーム・コミック・小説など、さまざまなホラーコンテンツが東京ドームシティ プリズムホールに集結。開催は2026年9月11日（金）〜13日（日）。",
+      "publishedAt": "2026-09-14T09:48:52.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20260914034/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.event-td.com/horror-tokk/images/ogp.webp"
+    },
+    {
+      "id": "a78ec1a197e9",
+      "url": "https://apps.apple.com/jp/app/ryzachat-ai/id6763540981",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "RyzaChat:AI",
+      "headline": "東京ゲームショウ2026で『RyzaChat:AI』スペシャルステージ開催！ コスプレイヤー・すずらさんがゲスト出演",
+      "description": "SpiralAI Inc.の「RyzaChat:AI」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「RyzaChat:AI」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-14T09:45:00.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/14/game/3104275.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/85/4f/4d854fad-8091-0c63-b04b-71a31006cf2b/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "694adeb54655",
+      "url": "https://www.kiwiwalks.com/",
+      "host": "kiwiwalks.com",
+      "region": "global",
+      "title": "人形の影",
+      "headline": "「人形」の主人公が「完成作」になる旅を描く新作3DアクションRPG『人形の影』発表。魔女育成RPG『魔女の泉』の世界観を受け継ぐ",
+      "description": "이야기와 캐릭터가 주는 게임의 감동. 키위웍스는 그것을 만들어 갑니다. | 대표작 : 마녀의샘",
+      "publishedAt": "2026-09-14T09:17:43.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609142q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/eca62b_c1ba8e0e54f64a989729ae8eb4d70d0e~mv2.png/v1/fill/w_2500,h_833,al_c/eca62b_c1ba8e0e54f64a989729ae8eb4d70d0e~mv2.png"
+    },
+    {
+      "id": "e8d877be21db",
+      "url": "https://eightthethalasso.jp/",
+      "host": "eightthethalasso.jp",
+      "region": "jp",
+      "title": "パペットスンスン",
+      "headline": "エイトザタラソが「パペットスンスン」と初コラボ！限定デザインのヘアケアアイテムが数量限定で登場",
+      "description": "スキンケア発想の美容液シャンプー。髪も頭皮も保水してぷるん髪。美容液で洗う、新発想。",
+      "publishedAt": "2026-09-14T08:30:03.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187726.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://eightthethalasso.jp/ogp.jpg"
+    },
+    {
+      "id": "5b09b397f61c",
+      "url": "http://www.thewitcher.com/",
+      "host": "thewitcher.com",
+      "region": "jp",
+      "title": "ウィッチャー3",
+      "headline": "Blizzard × CD PROJEKT RED 〜 Battle.netの30周年でさらなる協業へ。「ウィッチャー3」に加えて「サイバーパンク2077」もBattle.net…",
+      "description": "個性的なキャラクターたちと没入感のあるストーリー。『ウィッチャー』ならではのダークファンタジーの世界を冒険しよう。",
+      "publishedAt": "2026-09-14T08:28:12.000Z",
+      "addedAt": "2026-09-14T12:56:12.526Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/202/G020288/20260914025/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/home/og-image-home-diww7fkwnzl.jpg"
+    },
     {
       "id": "025060811184",
       "url": "https://www.darksouls.jp/detail_ds3.html/",
@@ -203,6 +525,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/14/172230.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/042/G104273/20260914032/"
         }
       ],
       "tags": [
@@ -287,6 +613,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/14/172228.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/09/14/28039.html"
         }
       ],
       "tags": [
@@ -475,6 +805,10 @@
         {
           "name": "GameBusiness.jp",
           "url": "https://www.gamebusiness.jp/article/2026/09/14/28034.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187732.html"
         }
       ],
       "tags": [
@@ -714,6 +1048,14 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260913o"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/14/172246.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187729.html"
         }
       ],
       "tags": [
