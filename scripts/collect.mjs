@@ -6,6 +6,7 @@ import { SOURCES } from "./lib/sources.mjs";
 import { createBlockChecker } from "./lib/filter.mjs";
 import { createCategorizer } from "./lib/categorize.mjs";
 import { fetchMeta } from "./lib/meta.mjs";
+import { buildSchedule } from "./lib/schedule.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -14,6 +15,13 @@ const CACHE_FILE = join(ROOT, "data", "source-cache.json");
 
 const started = Date.now();
 const config = await readJson(join(ROOT, "config.json"));
+
+// 収集元のどこかで接続が固まっても、全体が止まり続けないようにする（通常は 1〜3 分で終わる）
+const WATCHDOG_MIN = config.watchdogMinutes ?? 20;
+setTimeout(() => {
+  console.error(`[watchdog] ${WATCHDOG_MIN} 分を超えたため中断します`);
+  process.exit(2);
+}, WATCHDOG_MIN * 60 * 1000).unref();
 // 内部状態（state.json）を優先し、無ければ公開 JSON / 旧配置から読み込む
 const existing =
   (await readJson(join(ROOT, "data", "state.json"), null)) ||
@@ -282,6 +290,21 @@ await writeJson(DATA_FILE, {
 // 内部状態（メタ取得の試行回数など）は別ファイルに保持
 await writeJson(join(ROOT, "data", "state.json"), { items });
 
+// ---------- 6. リリーススケジュール / 事前登録 ----------
+let scheduleStats = null;
+if (config.releases?.enabled !== false) {
+  try {
+    const schedule = await buildSchedule(config, items, { platformDetector: (it) => categorizer.detectPlatforms(it) });
+    schedule.platforms = categorizer.platforms;
+    await writeJson(join(ROOT, "docs", "data", "schedule.json"), schedule);
+    scheduleStats = { ...schedule.stats, releases: schedule.releases.length };
+    log(`schedule: releases=${schedule.releases.length} prereg=${schedule.prereg.length} (${JSON.stringify(schedule.stats)})`);
+  } catch (e) {
+    scheduleStats = { error: e.message };
+    log("schedule failed:", e.message);
+  }
+}
+
 const summary = {
   ranAt: nowIso,
   durationSec: Math.round((Date.now() - started) / 1000),
@@ -293,6 +316,7 @@ const summary = {
   blocked: blocked.length,
   blockedItems: blocked.slice(0, 50),
   meta: { ok: metaOk, failed: metaFail, noImage: items.filter((it) => !it.image).length },
+  schedule: scheduleStats,
   sources: sourceStats,
   total: items.length,
 };

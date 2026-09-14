@@ -12,6 +12,15 @@
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
+  "releases": {
+    "enabled": true,
+    "daysAhead": 120,
+    "nintendo": true,
+    "nintendoLimit": 300,
+    "steam": true,
+    "steamCount": 100,
+    "maxUndated": 40
+  },
   "meta": {
     "maxPerRun": 300,
     "maxAttempts": 3,
@@ -75,7 +84,8 @@
     "hosts": ["dlsite.com", "dmm.co.jp", "fanza.com", "getchu.com", "nutaku.net"]
   },
   "platforms": [
-    { "id": "switch", "label": "Switch", "pattern": "Nintendo Switch|Switch ?2|Switch版|Switch向け|for Switch|on Switch|ニンテンドースイッチ|スイッチ版" },
+    { "id": "switch", "label": "Switch", "pattern": "Nintendo Switch(?! ?2)|Switch版|Switch向け|for Switch|on Switch|ニンテンドースイッチ|スイッチ版" },
+    { "id": "switch2", "label": "Switch 2", "pattern": "Switch ?2|スイッチ2" },
     { "id": "ps", "label": "PlayStation", "pattern": "PlayStation|プレイステーション|\\bPS[45]\\b|PS ?VR" },
     { "id": "xbox", "label": "Xbox", "pattern": "Xbox|Game Pass" },
     { "id": "pc", "label": "PC / Steam", "pattern": "\\bSteam\\b|\\bPC\\b|PC版|PC向け|Epic Games|\\bGOG\\b" },

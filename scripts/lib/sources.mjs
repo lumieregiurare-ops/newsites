@@ -66,7 +66,9 @@ export async function fetchProductHunt(cfg) {
     entry.attempts++;
     entry.lastTriedAt = new Date().toISOString();
     try {
-      const res = await fetch(r.redirect, { redirect: "manual", headers: { "user-agent": UA } });
+      const ac = new AbortController();
+      const timer = setTimeout(() => ac.abort(), 10000);
+      const res = await fetch(r.redirect, { redirect: "manual", headers: { "user-agent": UA }, signal: ac.signal }).finally(() => clearTimeout(timer));
       const loc = res.headers.get("location");
       if (res.status >= 300 && res.status < 400 && loc && !/producthunt\.com/.test(hostOf(loc))) {
         entry.url = cleanUrl(new URL(loc, r.redirect).toString());

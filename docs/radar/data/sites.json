@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-14T01:56:47.240Z",
+  "updatedAt": "2026-09-14T03:18:33.360Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 142,
+  "total": 151,
   "regions": {
-    "jp": 111,
+    "jp": 120,
     "global": 31
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 10
+      "count": 11
     },
     {
       "id": "prereg",
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 18
+      "count": 23
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 15
+      "count": 16
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 29
+      "count": 31
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 49
+      "count": 50
     },
     {
       "id": "indie",
@@ -65,19 +65,24 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 10
+      "count": 13
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 35
+      "count": 38
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 15
+      "count": 10
+    },
+    {
+      "id": "switch2",
+      "label": "Switch 2",
+      "count": 10
     },
     {
       "id": "ps",
@@ -117,15 +122,271 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
-    "Hacker News",
-    "4Gamer",
     "Inside",
+    "4Gamer",
+    "Hacker News",
     "Game*Spark",
     "GameBusiness.jp",
     "minimal.gallery",
     "SANKOU!"
   ],
   "items": [
+    {
+      "id": "95d7bd73cfcf",
+      "url": "https://transformers-the-movie2026.com/",
+      "host": "transformers-the-movie2026.com",
+      "region": "jp",
+      "title": "トランスフォーマー ザ・ムービー",
+      "headline": "『トランスフォーマー ザ・ムービー』日本での本格的な初スクリーン上映が決定。米国での公開から40周年を迎える",
+      "description": "TRANSFORMERS THE MOVIE は、ここだけの限定コンテンツを見ることができ、ファンクラブ先行などにも応募できるファンクラブサービスです。",
+      "publishedAt": "2026-09-14T03:11:28.000Z",
+      "addedAt": "2026-09-14T03:18:33.360Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914z"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fam-fansite.imgix.net/shared_file/15835/a298672a-31d9-4777-b161-3b6a712c549d.png?auto=format&s=79c19fa5731a0f929484790f092c9985"
+    },
+    {
+      "id": "ca5537cfe1b6",
+      "url": "https://gundam-official.com/titles/rg-project/xarx-zero/news/detail/?id=r3gircojylscg505jiqn4z91",
+      "host": "gundam-official.com",
+      "region": "jp",
+      "title": "機動戦士ガンダムRG アレックス ゼロ",
+      "headline": "「機動戦士ガンダムRG アレックス ゼロ」2027年4月放送決定！神山健治監督が描くガンダムシリーズアニメ最新作",
+      "description": "神山健治が描く、リビジョンされたガンダム――。ガンダムシリーズ新作アニメーション『機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）』 2027年4月放送決定",
+      "publishedAt": "2026-09-14T03:06:18.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187705.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gundam-official.com/media/335744380b8eff6014b62b3ca2c17fcd/335744380b8eff6014b62b3ca2c17fcd.jpg"
+    },
+    {
+      "id": "507ff32201a6",
+      "url": "https://gundam-official.com/titles/rg-project/xarx-zero/",
+      "host": "gundam-official.com",
+      "region": "jp",
+      "title": "機動戦士ガンダムRG XARX-ZERO",
+      "headline": "『機動戦士ガンダムRG XARX-ZERO』2027年4月にテレビ放送決定。神山健治監督のインタビューも公開",
+      "description": "神山健治が描く、リビジョンされたガンダム――。ガンダムシリーズ新作アニメーション『機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）』 2027年4月放送決定",
+      "publishedAt": "2026-09-14T03:00:30.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gundam-official.com/titles/rg-project/xarx-zero/assets/images/common/common/ogp.png?v2"
+    },
+    {
+      "id": "fbc2e5f360ad",
+      "url": "https://chillweeb.myshopify.com/",
+      "host": "chillweeb.myshopify.com",
+      "region": "jp",
+      "title": "ペルソナ",
+      "headline": "『ペルソナ』シリーズ30周年を記念したコラボTシャツがChillweebから登場。歴代シリーズの女性キャラクターが前後にズラリ",
+      "description": "Chillweeb(チルウィーブ) Official Store",
+      "publishedAt": "2026-09-14T03:00:22.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914f"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "3441d25baa64",
+      "url": "https://www.aniplex.co.jp/roujinz/",
+      "host": "aniplex.co.jp",
+      "region": "jp",
+      "title": "AKIRA",
+      "headline": "『AKIRA』大友克洋氏が原作・脚本・メカニックデザインのSFアニメ映画『老人Z』4Kリマスターの劇場公開が決定。35年前に公開された伝説の作品",
+      "description": "『AKIRA』大友克洋氏が原作・脚本・メカニックデザインのSFアニメ映画『老人Z』4Kリマスターの劇場公開が決定。35年前に公開された伝説の作品",
+      "publishedAt": "2026-09-14T03:00:16.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "5b2ca89fe452",
+      "url": "https://finalfantasy-x-museum.com/",
+      "host": "finalfantasy-x-museum.com",
+      "region": "jp",
+      "title": "FFX",
+      "headline": "「いなくなった人たちのこと、ときどきでいいから……思い出してください」──『FFX』25周年展“幻光の記憶”が開幕。ザナルカンドの空間再現からユウナの演説の絵コンテまで、“あの旅…",
+      "description": "思い出してください。愛（覚悟）のものがたり",
+      "publishedAt": "2026-09-14T03:00:08.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/260914x"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://finalfantasy-x-museum.com/ogp.png"
+    },
+    {
+      "id": "aa92965b77f7",
+      "url": "https://www.palcloset.jp/shared/pc_pal/event/3coins/2026/pokemon30th/",
+      "host": "palcloset.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "3COINSで『ポケモン』30周年記念グッズが10月10日発売！『赤・緑』151匹がズラリと揃ったデザインなど全62アイテム",
+      "description": "ポケモン30周年を記念して、3COINSのポケモンアイテムを販売！",
+      "publishedAt": "2026-09-14T02:45:03.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/14/187701.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://palcloset.jp/shared/pc_pal/event/3coins/2026/pokemon30th/assets/images/sns.jpg"
+    },
+    {
+      "id": "7e39d6234df4",
+      "url": "https://t-kazuki-ten.com/",
+      "host": "t-kazuki-ten.com",
+      "region": "jp",
+      "title": "遊戯王",
+      "headline": "『遊戯王』高橋和希先生の原画展開催を記念したスペシャルアニメーションが公開。童実野町を舞台に遊戯や城之内、海馬たちが再び集結",
+      "description": "高橋和希原画展公式サイト。2026年冬に東京で開催決定!!",
+      "publishedAt": "2026-09-14T02:26:33.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260914q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://t-kazuki-ten.com/wp-content/uploads/2026/08/0d4521f6cc8ffc193819f774e4b14549.jpg"
+    },
+    {
+      "id": "307577ff0c4d",
+      "url": "https://idolmaster-official.jp/",
+      "host": "idolmaster-official.jp",
+      "region": "jp",
+      "title": "アイドルマスター SideM",
+      "headline": "「アイドルマスター SideM」シリーズ初の家庭用ゲームプロジェクトが始動。Switch2/Switchで，49人のアイドルをプロデュース",
+      "description": "「アイドルマスター（アイマス）」シリーズの、最新情報やイベントスケジュール、グッズやメディア掲載情報など、アナタの気になるアイドルの情報満載！",
+      "publishedAt": "2026-09-14T02:05:30.000Z",
+      "addedAt": "2026-09-14T03:15:00.513Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/042/G104236/20260914003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://idolmaster-official.jp/ogp.jpg"
+    },
     {
       "id": "970da706c211",
       "url": "https://www.otomate.jp/event/party/2026/newtitle/",
@@ -151,7 +412,8 @@
         "anniversary"
       ],
       "platforms": [
-        "switch"
+        "switch",
+        "switch2"
       ],
       "points": null,
       "image": "https://www.otomate.jp/event/party/img/ogp.jpg"
@@ -377,7 +639,8 @@
         "goods"
       ],
       "platforms": [
-        "switch"
+        "switch",
+        "switch2"
       ],
       "points": null,
       "image": "https://idolmaster-official.jp/ogp.jpg"
@@ -489,7 +752,7 @@
         "release"
       ],
       "platforms": [
-        "switch"
+        "switch2"
       ],
       "points": null,
       "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt7e63ffa7acc28b95/692f34c7826cf18bafcedc51/d4-open-graph_001.jpg?format=webp"
@@ -2729,7 +2992,7 @@
         "release"
       ],
       "platforms": [
-        "switch",
+        "switch2",
         "ps",
         "pc"
       ],
@@ -2814,7 +3077,7 @@
         "official"
       ],
       "platforms": [
-        "switch",
+        "switch2",
         "ps",
         "pc"
       ],
@@ -3144,7 +3407,7 @@
         "release"
       ],
       "platforms": [
-        "switch",
+        "switch2",
         "ps"
       ],
       "points": null,
@@ -3596,7 +3859,7 @@
         "release"
       ],
       "platforms": [
-        "switch",
+        "switch2",
         "ps"
       ],
       "points": null,
@@ -3964,7 +4227,8 @@
         "official"
       ],
       "platforms": [
-        "switch"
+        "switch",
+        "switch2"
       ],
       "points": null,
       "image": "https://www.gamecity.ne.jp/zelda-yakusai/dx/assets/img/og.jpg"
@@ -4198,6 +4462,7 @@
       ],
       "platforms": [
         "switch",
+        "switch2",
         "pc"
       ],
       "points": null,
