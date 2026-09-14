@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "id": "a125fbf2128b",
+      "url": "https://iii-initiative.com/",
+      "host": "iii-initiative.com",
+      "region": "jp",
+      "title": "Triple-i Initiative Showcase",
+      "headline": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8本の完全新作発表も",
+      "description": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8本の完全新作発表も",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-14T16:00:03.000Z",
+      "addedAt": "2026-09-14T16:06:06.924Z",
+      "source": "Game*Spark",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/15/172261.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "teaser",
+        "event",
+        "indie"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "metaError": "fetch failed",
+      "platforms": []
+    },
+    {
+      "id": "e11ffbbf2abf",
+      "url": "https://enso-order.acecombat.jp/",
+      "host": "enso-order.acecombat.jp",
+      "region": "jp",
+      "title": "エースコンバット8",
+      "headline": "『エースコンバット8』ストーリートレイラー公開―偽りの英雄「シーヴの翼」の名を背負う物語。敵エース部隊キャラや攻撃衛星「トニトルスの槍」など超兵器の新情報も",
+      "description": "ACE COMBAT 8: WINGS OF THEVE 公式サイト",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-14T15:15:02.000Z",
+      "addedAt": "2026-09-14T16:06:06.924Z",
+      "source": "Game*Spark",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/15/172259.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://enso-order.acecombat.jp/assets/img/ogp.png",
+      "metaAttempts": 1,
+      "ogFetchedAt": "2026-09-14T16:06:06.924Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "92ad1fea03da",
       "url": "https://hsr.hoyoverse.com/ja-jp/home/",
       "host": "hsr.hoyoverse.com",
@@ -76,7 +158,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -161,7 +243,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 403",
       "platforms": [
         "ps"
@@ -207,7 +289,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 404",
       "platforms": [
         "mobile"
@@ -576,6 +658,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/042/G104273/20260914032/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609143e"
         }
       ],
       "tags": [

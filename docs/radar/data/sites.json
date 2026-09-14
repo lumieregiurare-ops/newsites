@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-14T12:56:12.526Z",
+  "updatedAt": "2026-09-14T16:06:06.924Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 124,
+  "total": 126,
   "regions": {
-    "jp": 111,
+    "jp": 113,
     "global": 13
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 2
+      "count": 3
     },
     {
       "id": "prereg",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 25
+      "count": 26
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 1
+      "count": 2
     },
     {
       "id": "browser",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 18
+      "count": 19
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
     "Inside",
     "Appliv Games",
@@ -133,6 +133,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a125fbf2128b",
+      "url": "https://iii-initiative.com/",
+      "host": "iii-initiative.com",
+      "region": "jp",
+      "title": "Triple-i Initiative Showcase",
+      "headline": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8…",
+      "description": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8本の完全新作発表も",
+      "publishedAt": "2026-09-14T16:00:03.000Z",
+      "addedAt": "2026-09-14T16:06:06.924Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/15/172261.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "event",
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "e11ffbbf2abf",
+      "url": "https://enso-order.acecombat.jp/",
+      "host": "enso-order.acecombat.jp",
+      "region": "jp",
+      "title": "エースコンバット8",
+      "headline": "『エースコンバット8』ストーリートレイラー公開―偽りの英雄「シーヴの翼」の名を背負う物語。敵エース部隊キャラや攻撃衛星「トニトルスの槍」など超兵器の新情報も",
+      "description": "ACE COMBAT 8: WINGS OF THEVE 公式サイト",
+      "publishedAt": "2026-09-14T15:15:02.000Z",
+      "addedAt": "2026-09-14T16:06:06.924Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/15/172259.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://enso-order.acecombat.jp/assets/img/ogp.png"
+    },
     {
       "id": "92ad1fea03da",
       "url": "https://hsr.hoyoverse.com/ja-jp/home/",
@@ -529,6 +585,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/042/G104273/20260914032/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609143e"
         }
       ],
       "tags": [
