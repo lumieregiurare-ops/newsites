@@ -212,7 +212,7 @@ export function extractPrereg(item) {
 }
 
 // ---------- 統合 ----------
-export async function buildSchedule(config, items, { platformDetector, cache = {} } = {}) {
+export async function buildSchedule(config, items, { platformDetector, cache = {}, extraTitles = [] } = {}) {
   const cfg = config.releases || {};
   const now = new Date();
   const todayIso = isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
@@ -342,12 +342,51 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
       seenTitle.add(key);
       candidates.push(it);
     }
+    // 一覧ページ由来のタイトル（ニュースにまだ無いもの）も検索対象に加える
+    const extras = [];
+    for (const x of extraTitles) {
+      const key = searchTerm(x.title);
+      if (!key || seenTitle.has(key)) continue;
+      seenTitle.add(key);
+      extras.push(x);
+    }
     const found = await searchTitles(
-      candidates.map((c) => c.title),
+      [...candidates.map((c) => c.title), ...extras.map((x) => x.title)],
       { cache: appCache, delayMs: appCfg.delayMs ?? 3000, max: appCfg.maxPerRun ?? 30 }
     );
-    appStats.searched = candidates.length;
+    appStats.searched = candidates.length + extras.length;
     appStats.matched = found.size;
+    appStats.fromLists = 0;
+
+    // 一覧ページで見つけたタイトルは、App Store で予約注文中と確認できたものだけ載せる
+    const firstSeen = (cache.listFirstSeen = cache.listFirstSeen || {});
+    const preregTitles = new Set(prereg.map((p) => p.title.toLowerCase().replace(/\s+/g, "")));
+    for (const x of extras) {
+      const app = found.get(x.title);
+      if (!app || !app.isPreorder) continue;
+      const k = app.title.toLowerCase().replace(/\s+/g, "");
+      if (preregTitles.has(k) || preregTitles.has(x.title.toLowerCase().replace(/\s+/g, ""))) continue;
+      firstSeen[k] = firstSeen[k] || now.toISOString();
+      appStats.fromLists++;
+      prereg.push({
+        id: idOf(`applist:${app.trackId}`),
+        title: app.title,
+        url: app.sellerUrl && !/apple\.com/.test(app.sellerUrl) ? app.sellerUrl : app.storeUrl,
+        image: app.image,
+        platforms: ["mobile"],
+        startedAt: firstSeen[k],
+        releaseText: appStoreReleaseText(app.releaseDate),
+        releaseSource: appStoreReleaseText(app.releaseDate) ? "appstore" : "",
+        count: "",
+        reward: "",
+        headline: "",
+        description: app.artist ? `${app.artist}${app.genres.length ? " / " + app.genres.join("・") : ""}` : "",
+        source: x.source,
+        sourceUrl: x.sourceUrl || x.listUrl,
+        appStore: { url: app.storeUrl, preorder: true, releaseDate: app.releaseDate },
+      });
+      preregTitles.add(k);
+    }
 
     // 予約中のものは事前登録リストへ（既に載っていれば情報を補強）
     const byTitle = new Map(prereg.map((p) => [p.title, p]));

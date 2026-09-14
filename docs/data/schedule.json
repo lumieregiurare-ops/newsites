@@ -1,16 +1,17 @@
 {
-  "updatedAt": "2026-09-14T07:21:08.690Z",
+  "updatedAt": "2026-09-14T07:37:27.850Z",
   "daysAhead": 120,
   "stats": {
     "nintendo": 264,
     "steam": 100,
-    "news": 8,
+    "news": 11,
     "appstore": {
-      "searched": 9,
-      "matched": 5,
-      "preorder": 0
+      "searched": 37,
+      "matched": 25,
+      "preorder": 1,
+      "fromLists": 3
     },
-    "prereg": 4
+    "prereg": 22
   },
   "releases": [
     {
@@ -532,6 +533,25 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "70a9e311f381",
+      "title": "ブラックチャンネル ブレイズロード",
+      "date": "2026-09-15",
+      "dateText": "2026年9月15日",
+      "sortKey": "2026-09-15",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/037/G103798/20260901015/",
+      "announcedText": "2026年9月14日",
+      "dateSource": "appstore"
     },
     {
       "id": "0ea96f734e52",
@@ -1516,7 +1536,7 @@
       "date": "2026-09-17",
       "dateText": "2026年9月17日",
       "sortKey": "2026-09-17",
-      "priority": 3.053,
+      "priority": 3.052,
       "platforms": [
         "pc"
       ],
@@ -2165,6 +2185,25 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "33bfb88bc92b",
+      "title": "デイヴ・ザ・ダイバー",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "スマホ版「デイヴ・ザ・ダイバー」，8月中にリリース。App StoreとGoogle Playで事前登録を受付中",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/439/G043999/20260629013/",
+      "announcedText": "2027年8月",
+      "dateSource": "appstore"
     },
     {
       "id": "d9b4768b6d37",
@@ -3263,7 +3302,7 @@
       "date": "2026-09-22",
       "dateText": "2026年9月22日",
       "sortKey": "2026-09-22",
-      "priority": 3.052,
+      "priority": 3.053,
       "platforms": [
         "pc"
       ],
@@ -7210,6 +7249,75 @@
   ],
   "prereg": [
     {
+      "id": "a1a719f8b2de",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年12月15日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "Level Infinite / アクション・エンターテインメント・ロールプレイング",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/808921",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+        "preorder": true,
+        "releaseDate": "2026-12-15T08:00:00Z"
+      }
+    },
+    {
+      "id": "ddc3066f6b2c",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年11月2日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "Eve-sense Inc. / エンターテインメント・カード・ボード",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/813851",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/galast-%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%AF%BE%E6%88%A6%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id6744635653",
+        "preorder": true,
+        "releaseDate": "2026-11-02T08:00:00Z"
+      }
+    },
+    {
+      "id": "a03273d74023",
+      "title": "Lumi Master（るぅみマスター）",
+      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/69/fa/d769fa0c-52ce-97f4-2e62-a7a0286d2e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年9月17日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "BILIBILI HK LIMITED / ロールプレイング",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/781704",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+        "preorder": true,
+        "releaseDate": "2026-09-17T07:00:00Z"
+      }
+    },
+    {
       "id": "4878d7b86722",
       "title": "シャングリラ・フロンティア〜七つの最強種〜",
       "url": "https://shangfro7c.netmarble.com/",
@@ -7305,9 +7413,590 @@
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
       }
+    },
+    {
+      "id": "31657f85ed93",
+      "title": "ラグナロク：アドベンチャーズ",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-09T00:00:00.000Z",
+      "releaseText": "2026年10月30日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "ゆめかわポリンヘアのレシピ",
+      "headline": "「ラグナロク：アドベンチャーズ」，魅力を紹介するPVを公開。事前登録特典に「ゆめかわポリンヘアのレシピ」などのアイテムを追加",
+      "description": "片手でサクサク遊べる！『ラグナロクオンライン（RO）』のカジュアルRPG、『ラグアド』が登場！職業・モンスター・カード・ペット・衣装など、お馴染みの要素が満載！オートバトルで手軽に、深く、ミッドガルドの冒険を楽しもう！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/033/G103301/20260909020/",
+      "appleId": "6765637031",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%AD%E3%82%AF-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA/id6765637031",
+        "preorder": true,
+        "releaseDate": "2026-10-30T07:00:00Z"
+      }
+    },
+    {
+      "id": "6964e1d57769",
+      "title": "白銀の城",
+      "url": "https://silverpalace.elementagames.com/ja-jp/",
+      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-07T00:00:00.000Z",
+      "releaseText": "2027年1月31日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "「白銀の城」，グローバル事前登録を受付中。ヴィクトリア朝様式の大都市を舞台に，事件を調査・推理しながら怪物と戦うオープンワールドRPG",
+      "description": "フェリアーナ3年。探偵はここに戻ってきた。シルバニアは繁栄と衰退の狭間に揺れ、現実と寓話が混じり合っている。 交際、調査、判断、戦闘——引き金を引いた「その真実」を突き止めるとき、あなたは、己と他者の運命を決する。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/908/G090896/20260907040/",
+      "appleId": "6758292278",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E7%99%BD%E9%8A%80%E3%81%AE%E5%9F%8E/id6758292278",
+        "preorder": true,
+        "releaseDate": "2027-01-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "65b2fbe7e779",
+      "title": "ブラックチャンネル ブレイズロード",
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-01T00:00:00.000Z",
+      "releaseText": "2026年9月15日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
+      "description": "Plott,Inc.の「ブラックチャンネル ブレイズロード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブラックチャンネル ブレイズロード」に似たゲームを見ることなどができます。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/037/G103798/20260901015/",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB-%E3%83%96%E3%83%AC%E3%82%A4%E3%82%BA%E3%83%AD%E3%83%BC%E3%83%89/id6803370140",
+        "preorder": true,
+        "releaseDate": "2026-09-15T07:00:00Z"
+      }
+    },
+    {
+      "id": "b6f8b2b689cd",
+      "title": "BLEACH Mirrors High",
+      "url": "https://bleach-mh.bn-ent.net/",
+      "image": "https://bleach-mh.bn-ent.net/ogp/ogp-ja-c7421f17.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-08-31T00:00:00.000Z",
+      "releaseText": "2026年11月28日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
+      "description": "死神（きみ）が斬りひらく、未だ見ぬ物語「BLEACH Mirrors High」公式サイト",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/970/G097078/20260831002/",
+      "appleId": "6747328897",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/bleach-mirrors-high-%E3%83%9F%E3%83%A9%E3%83%8F%E3%82%A4/id6747328897",
+        "preorder": true,
+        "releaseDate": "2026-11-28T08:00:00Z"
+      }
+    },
+    {
+      "id": "08fade7d2b1f",
+      "title": "アズールプロミリア",
+      "url": "https://azurpromilia.jp/",
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/favicon-CqtBkyih.ico",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-08-25T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数がグローバルで2000万人",
+      "reward": "",
+      "headline": "「アズールプロミリア」，事前登録者数がグローバルで2000万人を突破。App StoreとGoogle Playでの事前登録も可能に",
+      "description": "『アズールプロミリア』日本公式サイトです。星霊と旅するファンタジーワールドRPGのキャラクター、キボ、世界・地域、最新情報を紹介します。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/784/G078489/20260825025/",
+      "appleId": "6787982572",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%9F%E3%83%AA%E3%82%A2/id6787982572",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "49957b1853a1",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-08-17T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「シノビNEXUS -閃乱カグラ-」，Android版の事前登録をGoogle Playで受付中",
+      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/029/G102956/20260817028/",
+      "appleId": "6569243522",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%8E%E3%83%93nexus-%E9%96%83%E4%B9%B1%E3%82%AB%E3%82%B0%E3%83%A9-%E3%82%B7%E3%83%8E%E3%83%8D%E3%82%AF/id6569243522",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "ccbcbb12104b",
+      "title": "ディズニー スパークリンク・スターズ",
+      "url": "https://colyinc.com/sparklink-stars/",
+      "image": "https://colyinc.com/sparklink-stars/assets/img/icons/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-08-05T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数が50万人",
+      "reward": "",
+      "headline": "「ディズニー スパークリンク・スターズ」，事前登録受付をApp StoreとGoogle Playで開始。メインビジュアルやゲームシステムの情報を公開",
+      "description": "夢を叶えるスパークライダー育成ADV『ディズニー スパークリンク・スターズ』公式サイト",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/008/G100854/20260805029/",
+      "appleId": "6760274605",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "7fb1b4e513ca",
+      "title": "RyzaChat:AIライザと創るあなただけのひと夏の夢物語",
+      "url": "https://ryzachat-ai.go-spiral.ai/",
+      "image": "https://ryzachat-ai.go-spiral.ai/assets/kv/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-08-04T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「RyzaChat:AIライザと創るあなただけのひと夏の夢物語」が発表に。話すだけでゲームを楽しめるフリーシナリオ型のAIチャット形式RPG",
+      "description": "『ライザのアトリエ』公式ライセンスのAIチャットアプリ「RyzaChat:AI」。話しかけるだけで、旅・調合・バトル…物語が進む。iOS / Android で配信中。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/029/G102959/20260804017/",
+      "appleId": ""
+    },
+    {
+      "id": "44606bbc605d",
+      "title": "この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～",
+      "url": "https://konosuba-machisuba.com/",
+      "image": "https://konosuba-machisuba.com/ogp.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-07-24T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "オリジナルストーリーを楽しめる新作「この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～」，スマホ＆PC向けに配信決定",
+      "description": "暁なつめ製作監修、三嶋くろね制作協力 オリジナルストーリーの公式新作ゲーム",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/027/G102766/20260724066/",
+      "appleId": "6783591351",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92-%E3%81%93%E3%81%AE%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E8%A1%97%E3%81%AB%E7%B9%81%E6%A0%84%E3%82%92/id6783591351",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "2117b6e08e65",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1788401536992",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-07-13T00:00:00.000Z",
+      "releaseText": "2026年9月30日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "「刀剣乱舞ぱずぎり」，事前登録受付を開始。絵巻守として，さまざまな刀剣男士たちとともに物語の世界を守る新作パズルRPG",
+      "description": "刀剣乱舞の新作パズルRPGが、2026年にリリース決定！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/873/G087362/20260713003/",
+      "appleId": "6747331078",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%81%B1%E3%81%9A%E3%81%8E%E3%82%8A/id6747331078",
+        "preorder": true,
+        "releaseDate": "2026-09-30T07:00:00Z"
+      }
+    },
+    {
+      "id": "5007ebe29959",
+      "title": "Never Grave",
+      "url": "https://www.pocketpair.jp/nevergrave/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-07-08T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
+      "description": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/023/G102345/20260708017/",
+      "appleId": ""
+    },
+    {
+      "id": "bfada6ba3f9f",
+      "title": "骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE",
+      "url": "https://g123.jp/game/skeleton/",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/2f2eed45ebfff818d0bf75bc463e35a4a9c7351c6450b37cd5d73bdc.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-07-06T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE」，事前登録の受付を開始。骸骨騎士「アーク」を育成して異世界を冒険するRPG",
+      "description": "事前登録開始——『骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE』は、TVアニメ『骸骨騎士様、只今異世界へお出掛け中』を題材とした異世界冒険RPGです。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/022/G102283/20260706025/",
+      "appleId": ""
+    },
+    {
+      "id": "f2ee7d306c37",
+      "title": "クッキーラン：クランブル",
+      "url": "https://pre.cookieruncrumble.com/ja/",
+      "image": "https://assets.devsisters.com/cc/og/og_main.ja.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-06-29T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "放置系RPG「クッキーラン：クランブル」の事前登録が開始に。App StoreとGoogle Play，ゲーム公式サイトで受付中",
+      "description": "手も触れずに！？サクッと育成！放置系クッキーRPG",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/021/G102142/20260629040/",
+      "appleId": "6749251466",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC%E3%83%A9%E3%83%B3-%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB-%E6%94%BE%E7%BD%AE%E7%B3%BBrpg/id6749251466",
+        "preorder": false,
+        "releaseDate": "2026-07-29T07:00:00Z"
+      }
+    },
+    {
+      "id": "023c0770c97e",
+      "title": "デイヴ・ザ・ダイバー",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-06-29T00:00:00.000Z",
+      "releaseText": "2026年9月17日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "スマホ版「デイヴ・ザ・ダイバー」，8月中にリリース。App StoreとGoogle Playで事前登録を受付中",
+      "description": "Mintrocketの「デイヴ・ザ・ダイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「デイヴ・ザ・ダイバー」に似たゲームを見ることなどができます。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/439/G043999/20260629013/",
+      "appleId": "6759962259",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A4%E3%83%B4-%E3%82%B6-%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC/id6759962259",
+        "preorder": true,
+        "releaseDate": "2026-09-17T07:00:00Z"
+      }
+    },
+    {
+      "id": "d23d229201f3",
+      "title": "MIRESI：視えない未来",
+      "url": "https://miresi.onstove.com/ja/home/",
+      "image": "https://static-pubcomm.onstove.com/live/template/STOVE_MIRESI/common/img_og_ja.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-06-19T00:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "タイムトラベルRPG「MIRESI：視えない未来」，事前登録の受付をグローバルで開始",
+      "description": "今すぐ事前登録して、MIRESIの最新情報をいち早く受け取りましょう。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/939/G093947/20260619057/",
+      "appleId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "MIRESI：視えない未来",
+      "url": "https://miresi.onstove.com/ja/home/",
+      "image": "https://static-pubcomm.onstove.com/live/template/STOVE_MIRESI/common/img_og_ja.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デイヴ・ザ・ダイバー",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月17日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "クッキーラン：クランブル",
+      "url": "https://pre.cookieruncrumble.com/ja/",
+      "image": "https://assets.devsisters.com/cc/og/og_main.ja.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE",
+      "url": "https://g123.jp/game/skeleton/",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/2f2eed45ebfff818d0bf75bc463e35a4a9c7351c6450b37cd5d73bdc.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Never Grave",
+      "url": "https://www.pocketpair.jp/nevergrave/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1788401536992",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月30日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～",
+      "url": "https://konosuba-machisuba.com/",
+      "image": "https://konosuba-machisuba.com/ogp.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "RyzaChat:AIライザと創るあなただけのひと夏の夢物語",
+      "url": "https://ryzachat-ai.go-spiral.ai/",
+      "image": "https://ryzachat-ai.go-spiral.ai/assets/kv/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ディズニー スパークリンク・スターズ",
+      "url": "https://colyinc.com/sparklink-stars/",
+      "image": "https://colyinc.com/sparklink-stars/assets/img/icons/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アズールプロミリア",
+      "url": "https://azurpromilia.jp/",
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/favicon-CqtBkyih.ico",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "BLEACH Mirrors High",
+      "url": "https://bleach-mh.bn-ent.net/",
+      "image": "https://bleach-mh.bn-ent.net/ogp/ogp-ja-c7421f17.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月28日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ブラックチャンネル ブレイズロード",
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月15日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "白銀の城",
+      "url": "https://silverpalace.elementagames.com/ja-jp/",
+      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年1月31日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ラグナロク：アドベンチャーズ",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年10月30日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Lumi Master（るぅみマスター）",
+      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/69/fa/d769fa0c-52ce-97f4-2e62-a7a0286d2e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月17日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月2日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月15日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "new",
+      "label": "新規",
+      "title": "デイヴ・ザ・ダイバー",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月17日"
+    },
+    {
+      "at": "2026-09-14T07:37:27.850Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ブラックチャンネル ブレイズロード",
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月15日"
+    },
     {
       "at": "2026-09-14T07:21:08.690Z",
       "type": "moved_up",

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T07:20:57.454Z",
+  "updatedAt": "2026-09-14T07:37:16.033Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 78,
+  "total": 96,
   "regions": {
-    "jp": 68,
+    "jp": 86,
     "global": 10
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 6
+      "count": 25
     },
     {
       "id": "anniversary",
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 4
+      "count": 5
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 19
+      "count": 24
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 11
+      "count": 12
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 30
+      "count": 34
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 12
+      "count": 13
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 35
+      "count": 49
     },
     {
       "id": "browser",
@@ -121,6 +121,7 @@
     }
   ],
   "sources": [
+    "Appliv Games",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
@@ -132,6 +133,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7404ba664970",
+      "url": "https://www.nhn-playart.com/tgs26/",
+      "host": "nhn-playart.com",
+      "region": "jp",
+      "title": "LINE：ディズニー ツムツム",
+      "headline": "NHN PlayArtが東京ゲームショウ2026に出展！『LINE：ディズニー ツムツム』など豪華7タイトルにわたる各ブースの詳細を発表!!",
+      "description": "NHN PlayArtの東京ゲームショウ2026特設WEBページです。",
+      "publishedAt": "2026-09-14T07:33:17.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "Appliv Games",
+      "sources": [
+        {
+          "name": "Appliv Games",
+          "url": "https://games.app-liv.jp/archives/590708"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nhn-playart.com/tgs26/assets/images/tgs/common/og-image.png"
+    },
     {
       "id": "5f3891a17ebe",
       "url": "https://japan-kakurenbo.com/",
@@ -559,12 +588,21 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/kikakuthetower/260914o"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/974/G097456/20260904005/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
@@ -1816,6 +1854,39 @@
       "image": "https://www.dragonquest.jp/torneko_re/_assets/img/common/sns.png"
     },
     {
+      "id": "31657f85ed93",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "host": "ragnarokadv.gungho.jp",
+      "region": "jp",
+      "title": "ラグナロク：アドベンチャーズ",
+      "headline": "「ラグナロク：アドベンチャーズ」，魅力を紹介するPVを公開。事前登録特典に「ゆめかわポリンヘアのレシピ」などのアイテムを追加",
+      "description": "片手でサクサク遊べる！『ラグナロクオンライン（RO）』のカジュアルRPG、『ラグアド』が登場！職業・モンスター・カード・ペット・衣装など、お馴染みの要素が満載！オートバトルで手軽に、深く、ミッドガルドの冒険を楽しもう！",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/033/G103301/20260909020/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg"
+    },
+    {
       "id": "cbfc46280288",
       "url": "https://apps.apple.com/jp/app/knightica/id6758999138",
       "host": "apps.apple.com",
@@ -1915,6 +1986,39 @@
       ],
       "points": null,
       "image": "https://horihori.hachiware.app/_astro/og-default.DMkkIAWo_ZzqXHn.png"
+    },
+    {
+      "id": "6964e1d57769",
+      "url": "https://silverpalace.elementagames.com/ja-jp/",
+      "host": "silverpalace.elementagames.com",
+      "region": "jp",
+      "title": "白銀の城",
+      "headline": "「白銀の城」，グローバル事前登録を受付中。ヴィクトリア朝様式の大都市を舞台に，事件を調査・推理しながら怪物と戦うオープンワールドRPG",
+      "description": "フェリアーナ3年。探偵はここに戻ってきた。シルバニアは繁栄と衰退の狭間に揺れ、現実と寓話が混じり合っている。 交際、調査、判断、戦闘——引き金を引いた「その真実」を突き止めるとき、あなたは、己と他者の運命を決する。",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/908/G090896/20260907040/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg"
     },
     {
       "id": "ff36fed89b6e",
@@ -2110,6 +2214,41 @@
       "image": ""
     },
     {
+      "id": "65b2fbe7e779",
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ブラックチャンネル ブレイズロード",
+      "headline": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
+      "description": "Plott,Inc.の「ブラックチャンネル ブレイズロード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブラックチャンネル ブレイズロード」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103798/20260901015/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
       "id": "f13b7813729b",
       "url": "https://apps.apple.com/jp/app/%E7%B5%82%E7%84%89%E3%81%AE%E6%A5%94-%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9-%E3%83%8E%E3%83%B4%E3%82%A1/id6775121055",
       "host": "apps.apple.com",
@@ -2142,6 +2281,39 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/53/73/f35373fe-7988-160d-39bc-33d7a4dfea32/Placeholder.mill/1200x630wa.jpg"
     },
     {
+      "id": "b6f8b2b689cd",
+      "url": "https://bleach-mh.bn-ent.net/",
+      "host": "bleach-mh.bn-ent.net",
+      "region": "jp",
+      "title": "BLEACH Mirrors High",
+      "headline": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
+      "description": "死神（きみ）が斬りひらく、未だ見ぬ物語「BLEACH Mirrors High」公式サイト",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/970/G097078/20260831002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://bleach-mh.bn-ent.net/ogp/ogp-ja-c7421f17.jpg"
+    },
+    {
       "id": "b41226873614",
       "url": "https://sobtk.cmge.com/",
       "host": "sobtk.cmge.com",
@@ -2172,6 +2344,40 @@
       ],
       "points": null,
       "image": "https://haiwaicdn.51aiwan.com/ai-site-generator/assets/87d7e7db9555e0c9d4e8e8263c4cc6f1.png"
+    },
+    {
+      "id": "08fade7d2b1f",
+      "url": "https://azurpromilia.jp/",
+      "host": "azurpromilia.jp",
+      "region": "jp",
+      "title": "アズールプロミリア",
+      "headline": "「アズールプロミリア」，事前登録者数がグローバルで2000万人を突破。App StoreとGoogle Playでの事前登録も可能に",
+      "description": "『アズールプロミリア』日本公式サイトです。星霊と旅するファンタジーワールドRPGのキャラクター、キボ、世界・地域、最新情報を紹介します。",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/784/G078489/20260825025/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/favicon-CqtBkyih.ico"
     },
     {
       "id": "88b795a81155",
@@ -2272,6 +2478,39 @@
       ],
       "points": null,
       "image": "https://slotsanddaggers.ateo.ch/img/keyart_web.png"
+    },
+    {
+      "id": "49957b1853a1",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "host": "hpgames.jp",
+      "region": "jp",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "headline": "「シノビNEXUS -閃乱カグラ-」，Android版の事前登録をGoogle Playで受付中",
+      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/029/G102956/20260817028/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png"
     },
     {
       "id": "ab7ac2517a22",
@@ -2490,6 +2729,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9D-star-leap/id6746180100"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/887/G088743/20260701028/"
         }
       ],
       "tags": [
@@ -2497,9 +2740,12 @@
         "スマホ",
         "iOS",
         "エンターテインメント",
-        "ロールプレイング"
+        "ロールプレイング",
+        "事前登録",
+        "Android"
       ],
       "categories": [
+        "prereg",
         "goods"
       ],
       "platforms": [
@@ -2541,6 +2787,358 @@
       ],
       "points": null,
       "image": "https://app.commseed.net/asset/img/ogp.jpg"
+    },
+    {
+      "id": "ccbcbb12104b",
+      "url": "https://colyinc.com/sparklink-stars/",
+      "host": "colyinc.com",
+      "region": "jp",
+      "title": "ディズニー スパークリンク・スターズ",
+      "headline": "「ディズニー スパークリンク・スターズ」，事前登録受付をApp StoreとGoogle Playで開始。メインビジュアルやゲームシステムの情報を公開",
+      "description": "夢を叶えるスパークライダー育成ADV『ディズニー スパークリンク・スターズ』公式サイト",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G100854/20260805029/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://colyinc.com/sparklink-stars/assets/img/icons/og-image.png"
+    },
+    {
+      "id": "7fb1b4e513ca",
+      "url": "https://ryzachat-ai.go-spiral.ai/",
+      "host": "ryzachat-ai.go-spiral.ai",
+      "region": "jp",
+      "title": "RyzaChat:AIライザと創るあなただけのひと夏の夢物語",
+      "headline": "「RyzaChat:AIライザと創るあなただけのひと夏の夢物語」が発表に。話すだけでゲームを楽しめるフリーシナリオ型のAIチャット形式RPG",
+      "description": "『ライザのアトリエ』公式ライセンスのAIチャットアプリ「RyzaChat:AI」。話しかけるだけで、旅・調合・バトル…物語が進む。iOS / Android で配信中。",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/029/G102959/20260804017/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://ryzachat-ai.go-spiral.ai/assets/kv/ogp.jpg"
+    },
+    {
+      "id": "44606bbc605d",
+      "url": "https://konosuba-machisuba.com/",
+      "host": "konosuba-machisuba.com",
+      "region": "jp",
+      "title": "この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～",
+      "headline": "オリジナルストーリーを楽しめる新作「この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～」，スマホ＆PC向けに配信決定",
+      "description": "暁なつめ製作監修、三嶋くろね制作協力 オリジナルストーリーの公式新作ゲーム",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/027/G102766/20260724066/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://konosuba-machisuba.com/ogp.png"
+    },
+    {
+      "id": "2117b6e08e65",
+      "url": "https://touken-puzzle.com/",
+      "host": "touken-puzzle.com",
+      "region": "jp",
+      "title": "刀剣乱舞ぱずぎり",
+      "headline": "「刀剣乱舞ぱずぎり」，事前登録受付を開始。絵巻守として，さまざまな刀剣男士たちとともに物語の世界を守る新作パズルRPG",
+      "description": "刀剣乱舞の新作パズルRPGが、2026年にリリース決定！",
+      "publishedAt": "2026-07-13T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/873/G087362/20260713003/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1788401536992"
+    },
+    {
+      "id": "b363021a4a45",
+      "url": "https://gget.ggame.jp/jp/dmg/",
+      "host": "gget.ggame.jp",
+      "region": "jp",
+      "title": "SDガンダム ジージェネレーション エターナル",
+      "headline": "DMM GAMES版「SDガンダム ジージェネレーション エターナル」の配信日が7月22日に決定。事前登録を受付中",
+      "description": "DMM GAMES版「SDガンダム ジージェネレーション エターナル」オフィシャルサイトです。",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G102360/20260708029/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gget.ggame.jp/jp/ogp.png"
+    },
+    {
+      "id": "5007ebe29959",
+      "url": "https://www.pocketpair.jp/nevergrave/",
+      "host": "pocketpair.jp",
+      "region": "jp",
+      "title": "Never Grave",
+      "headline": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
+      "description": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
+      "publishedAt": "2026-07-08T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G102345/20260708017/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "bfada6ba3f9f",
+      "url": "https://g123.jp/game/skeleton/",
+      "host": "g123.jp",
+      "region": "jp",
+      "title": "骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE",
+      "headline": "「骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE」，事前登録の受付を開始。骸骨騎士「アーク」を育成して異世界を冒険するRPG",
+      "description": "事前登録開始——『骸骨騎士様、只今異世界へお出掛け中 SKULL BRAVE』は、TVアニメ『骸骨騎士様、只今異世界へお出掛け中』を題材とした異世界冒険RPGです。",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/022/G102283/20260706025/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/2f2eed45ebfff818d0bf75bc463e35a4a9c7351c6450b37cd5d73bdc.png"
+    },
+    {
+      "id": "f2ee7d306c37",
+      "url": "https://pre.cookieruncrumble.com/ja/",
+      "host": "pre.cookieruncrumble.com",
+      "region": "jp",
+      "title": "クッキーラン：クランブル",
+      "headline": "放置系RPG「クッキーラン：クランブル」の事前登録が開始に。App StoreとGoogle Play，ゲーム公式サイトで受付中",
+      "description": "手も触れずに！？サクッと育成！放置系クッキーRPG",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/021/G102142/20260629040/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://assets.devsisters.com/cc/og/og_main.ja.jpg"
+    },
+    {
+      "id": "023c0770c97e",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "デイヴ・ザ・ダイバー",
+      "headline": "スマホ版「デイヴ・ザ・ダイバー」，8月中にリリース。App StoreとGoogle Playで事前登録を受付中",
+      "description": "Mintrocketの「デイヴ・ザ・ダイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「デイヴ・ザ・ダイバー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/439/G043999/20260629013/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "d23d229201f3",
+      "url": "https://miresi.onstove.com/ja/home/",
+      "host": "miresi.onstove.com",
+      "region": "jp",
+      "title": "MIRESI：視えない未来",
+      "headline": "タイムトラベルRPG「MIRESI：視えない未来」，事前登録の受付をグローバルで開始",
+      "description": "今すぐ事前登録して、MIRESIの最新情報をいち早く受け取りましょう。",
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/939/G093947/20260619057/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static-pubcomm.onstove.com/live/template/STOVE_MIRESI/common/img_og_ja.jpg"
+    },
+    {
+      "id": "b440cc086ff5",
+      "url": "https://chronorestaurant.tokyohammock.jp/",
+      "host": "chronorestaurant.tokyohammock.jp",
+      "region": "jp",
+      "title": "クロノ・レストラン～追憶のレシピを求めて～",
+      "headline": "レストランごと異世界に!? 600種類以上の料理が登場するレストラン経営SLG「クロノ・レストラン～追憶のレシピを求めて～」，6月23日に配信決定",
+      "description": "異世界×料理×ワケあり王子のドラマチックカジュアルゲーム「クロノ・レストラン」は2026年6月にゲームリリース開始！これは、料理が全てを解決する、ワケあり王子と時空の旅の物語。",
+      "publishedAt": "2026-06-19T00:00:00.000Z",
+      "addedAt": "2026-09-14T07:37:16.033Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101014/20260619036/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://chronorestaurant.tokyohammock.jp/assets/images/common/ogp.jpg"
     }
   ]
 }

@@ -369,7 +369,12 @@ export async function fetchJpGallery(key, { maxAgeDays = 45 } = {}) {
 const GAME_NEWS = {
   fourgamer: {
     name: "4Gamer",
-    feeds: ["https://www.4gamer.net/rss/index.xml", "https://www.4gamer.net/rss/pc/pc_news.xml"],
+    feeds: [
+      "https://www.4gamer.net/rss/index.xml",
+      "https://www.4gamer.net/rss/pc/pc_news.xml",
+      // 事前登録情報の一覧ページ（RSS なし・EUC-JP）。記事 50 件分が並ぶので事前登録の取りこぼしを大きく減らせる
+      { url: "https://www.4gamer.net/smartphone/preregistration/", parse: "4gamer-list", encoding: "euc-jp" },
+    ],
     host: "4gamer.net",
   },
   gamespark: { name: "Game*Spark", feeds: ["https://www.gamespark.jp/rss20/index.rdf"], host: "gamespark.jp" },
@@ -384,6 +389,31 @@ const GAME_NEWS = {
   appbank: { name: "AppBank", feeds: ["https://www.appbank.net/category/game/feed"], host: "appbank.net" },
   applivgames: { name: "Appliv Games", feeds: ["https://games.app-liv.jp/feed"], host: "app-liv.jp" },
 };
+
+// RSS の無い一覧ページを、フィードと同じ {title, link, date} の配列に変換する
+async function parseHtmlList(feed) {
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), 20000);
+  try {
+    const r = await fetch(feed.url, { headers: { "user-agent": UA, accept: "text/html", "accept-language": "ja" }, signal: ac.signal });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const html = new TextDecoder(feed.encoding || "utf-8").decode(await r.arrayBuffer());
+    if (feed.parse === "4gamer-list") {
+      // <h2><a id="ARTICLE_LINK_20260914010" href="/games/991/G099198/20260914010/">見出し</a></h2>
+      return [...html.matchAll(/<h2><a id="ARTICLE_LINK_(\d{8})\d*" href="(\/games\/\d+\/G\d+\/\d+\/)">([^<]+)<\/a><\/h2>/g)].map((m) => ({
+        id: m[2],
+        link: "https://www.4gamer.net" + m[2],
+        title: decodeEntities(m[3]).trim(),
+        date: `${m[1].slice(0, 4)}-${m[1].slice(4, 6)}-${m[1].slice(6, 8)}T09:00:00+09:00`,
+        content: "",
+        categories: [],
+      }));
+    }
+    return [];
+  } finally {
+    clearTimeout(t);
+  }
+}
 
 // 「◯◯公式サイト」と書かれていても、作品ではなくイベントや業界団体のポータルを指すリンクは採用しない
 const EVENT_PORTAL_RE = /tgs\.cesa\.or\.jp|cedec\.cesa\.or\.jp|(^|\.)cesa\.or\.jp|jesu\.or\.jp|gamescom|bitsummit/i;
@@ -439,12 +469,14 @@ export async function fetchGameNews(key) {
   const g = GAME_NEWS[key];
   const byLink = new Map();
   for (const feed of g.feeds) {
+    const url = typeof feed === "string" ? feed : feed.url;
     try {
-      for (const e of parseFeed(await fetchText(feed))) {
+      const entries = typeof feed === "string" ? parseFeed(await fetchText(url)) : await parseHtmlList(feed);
+      for (const e of entries) {
         if (e.link && GAME_ANNOUNCE_RE.test(e.title) && !byLink.has(e.link)) byLink.set(e.link, e);
       }
     } catch (err) {
-      log(`${g.name}: feed failed ${feed} (${err.message})`);
+      log(`${g.name}: feed failed ${url} (${err.message})`);
     }
   }
   const entries = [...byLink.values()];

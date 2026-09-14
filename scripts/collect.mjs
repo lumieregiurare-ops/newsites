@@ -8,6 +8,7 @@ import { createCategorizer } from "./lib/categorize.mjs";
 import { fetchMeta } from "./lib/meta.mjs";
 import { buildSchedule } from "./lib/schedule.mjs";
 import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
+import { fetchPreregTitles } from "./lib/preregLists.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -354,9 +355,12 @@ if (config.releases?.enabled !== false) {
     // GitHub Actions でも引き継げるよう、コミット対象のファイルに保存する
     const stateFile = join(ROOT, "data", "schedule-state.json");
     const scheduleCache = await readJson(stateFile, {});
+    // 事前登録の一覧ページからタイトル名を拾い、App Store で予約状況を裏取りする材料にする
+    const extraTitles = config.releases?.preregLists?.enabled === false ? [] : await fetchPreregTitles(config.releases?.preregLists || {});
     const schedule = await buildSchedule(config, items, {
       platformDetector: (it) => categorizer.detectPlatforms(it),
       cache: scheduleCache,
+      extraTitles,
     });
     schedule.platforms = categorizer.platforms;
     await writeJson(join(ROOT, "docs", "data", "schedule.json"), schedule);
