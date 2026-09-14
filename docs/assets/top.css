@@ -10,8 +10,7 @@
   --violet: #a855f7;
   --pink: #f472b6;
   --grad: linear-gradient(120deg, var(--cyan), var(--violet) 55%, var(--pink));
-  /* ボタンやバッジなど横長の面には、端が途切れて見えない 2 色の横グラデーションを使う */
-  --grad-fill: linear-gradient(90deg, var(--cyan), var(--violet));
+  --grad-fill: var(--grad);
   --font-display: "Unbounded", "Noto Sans JP", system-ui, sans-serif;
   --font-body: "Noto Sans JP", system-ui, -apple-system, "Segoe UI", "Hiragino Sans", sans-serif;
   --radius: 18px;
@@ -246,6 +245,10 @@ dd {
 
 .btn-primary {
   background: var(--grad-fill);
+  /* 透明な枠線の下でグラデーションが繰り返されて端に別色の線が出るのを防ぐ */
+  background-origin: border-box;
+  background-clip: border-box;
+  border-color: transparent;
   color: #0b0d12;
   box-shadow: 0 10px 30px rgba(168, 85, 247, .25);
 }
@@ -880,6 +883,7 @@ dd {
   font-size: 11px;
   font-weight: 700;
   background: var(--grad-fill);
+  background-origin: border-box;
   color: #0b0d12;
 }
 
