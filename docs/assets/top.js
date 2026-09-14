@@ -270,9 +270,6 @@
       s.textContent = p.count;
       meta.appendChild(s);
     }
-    const started = document.createElement("span");
-    started.textContent = `${relTime(p.startedAt)}に判明`;
-    meta.appendChild(started);
 
     const reward = node.querySelector(".prereg-reward");
     if (p.reward) {

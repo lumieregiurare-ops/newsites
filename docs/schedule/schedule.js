@@ -154,8 +154,10 @@
     return s;
   }
 
+  // 事前登録は /prereg/ に独立させたので、このページでは描かない（データ互換のため関数は残す）
   function renderPrereg() {
     const grid = $("#preregGrid");
+    if (!grid) return;
     grid.innerHTML = "";
     const labels = new Map((sched.platforms || []).map((p) => [p.id, p.label]));
     if (!sched.prereg.length) {
@@ -189,9 +191,6 @@
         s.textContent = p.count;
         meta.appendChild(s);
       }
-      const started = document.createElement("span");
-      started.textContent = `${relTime(p.startedAt)}に判明`;
-      meta.appendChild(started);
       const reward = node.querySelector(".prereg-reward");
       if (p.reward) {
         reward.hidden = false;
