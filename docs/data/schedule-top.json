@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:41:32.478Z",
+  "updatedAt": "2026-09-15T09:00:18.974Z",
   "platforms": [
     {
       "id": "switch",
@@ -183,26 +183,6 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "f8363d3d0bf1",
-      "title": "AKIBA LOST：デジタルデラックスエディション",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70070000039859",
-      "image": "https://img-eshop.cdn.nintendo.net/i/20990f0e22bce7f58a68d7cd8f0bfe0fe45edfc48406f8c359f0d9723def674e.jpg",
-      "maker": "イザナギゲームズ",
-      "genre": [],
-      "price": 8250,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "1812ca9c3c70",
       "title": "Graveyard Keeper 2",
       "date": "2026-09-22",
@@ -301,9 +281,43 @@
       "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
+    },
+    {
+      "id": "64b5a2a0affb",
+      "title": "ポケットモンスター",
+      "date": "2026-12-18",
+      "dateText": "2026年12月18日",
+      "sortKey": "2026-12-18",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
+      "image": "https://www.pokemon.co.jp/ex/legends_z-a/assets/og/ja/og.jpg",
+      "maker": "",
+      "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
     }
   ],
   "prereg": [
+    {
+      "id": "f2c4c7cb70f1",
+      "title": "雨のちハレ女",
+      "url": "https://www.hare-onna.jp/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-15T05:58:04.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
+      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
+      "appleId": ""
+    },
     {
       "id": "c3e1f9fc823b",
       "title": "雨のちハレ女",
@@ -453,32 +467,19 @@
         "preorder": true,
         "releaseDate": "2026-11-02T08:00:00Z"
       }
-    },
-    {
-      "id": "a03273d74023",
-      "title": "Lumi Master（るぅみマスター）",
-      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/69/fa/d769fa0c-52ce-97f4-2e62-a7a0286d2e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-14T07:37:27.850Z",
-      "releaseText": "2026年9月17日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "BILIBILI HK LIMITED / ロールプレイング",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/781704",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-        "preorder": true,
-        "releaseDate": "2026-09-17T07:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-15T09:00:18.974Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケットモンスター",
+      "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
+      "image": "https://www.pokemon.co.jp/ex/legends_z-a/assets/og/ja/og.jpg",
+      "platforms": [],
+      "to": "2026年12月18日"
+    },
     {
       "at": "2026-09-14T16:06:22.178Z",
       "type": "new",
@@ -538,19 +539,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-09-14T08:07:27.954Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "くにおくんのサバイバーズ・オブ・ザ・デッド",
-      "url": "https://apps.apple.com/jp/app/id6749604300",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/05/4f/1f054fea-df82-7bbf-2739-8b02d4b2cc20/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile",
-        "arcade"
-      ],
-      "to": "App Store 2026年10月1日"
     }
   ]
 }
