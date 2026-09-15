@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T01:39:37.551Z",
+  "updatedAt": "2026-09-15T02:41:28.054Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 130,
+  "total": 131,
   "regions": {
     "jp": 116,
-    "global": 14
+    "global": 15
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 21
+      "count": 22
     }
   ],
   "platforms": [
@@ -133,6 +133,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6ed463789c98",
+      "url": "https://www.tinybuild.com/",
+      "host": "tinybuild.com",
+      "region": "global",
+      "title": "Road to Jukai",
+      "headline": "夜勤のタクシー運転手になるホラーゲーム『Road to Jukai』がtinyBuildより発表。後部座席に乗せたのは人か、それとも……？",
+      "description": "tinyBuild is the game label behind games like Hello Neighbor, Potion Craft, Despot",
+      "publishedAt": "2026-09-15T01:43:10.000Z",
+      "addedAt": "2026-09-15T02:35:43.665Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260915i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/e63cf6_f0bbfcd3f2ea4c1c8244d0666c30f2d3~mv2.jpeg/v1/fill/w_1280,h_720,al_c/e63cf6_f0bbfcd3f2ea4c1c8244d0666c30f2d3~mv2.jpeg"
+    },
     {
       "id": "9e4f9dc12377",
       "url": "https://www.graveyardkeeper2.com/",
@@ -287,6 +314,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/15/172259.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/969/G096901/20260915005/"
         }
       ],
       "tags": [

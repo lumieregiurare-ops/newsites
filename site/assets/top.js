@@ -375,6 +375,7 @@
           el.setAttribute("aria-selected", String(i === current));
         });
         note.innerHTML = `${b.note}。出典: <a href="${b.sourceUrl}" target="_blank" rel="noopener noreferrer">${b.label}</a>`;
+        list.classList.toggle("is-square", !!b.square);
         list.innerHTML = "";
         for (const it of b.items) {
           const li = document.createElement("li");
@@ -391,7 +392,6 @@
             const img = document.createElement("img");
             img.src = it.image;
             img.alt = "";
-            img.loading = "lazy";
             img.referrerPolicy = "no-referrer";
             img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
             thumb.appendChild(img);

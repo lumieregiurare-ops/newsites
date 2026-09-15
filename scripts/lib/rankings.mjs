@@ -56,10 +56,22 @@ export async function fetchSteamRanking({ limit = 10, cache = {} } = {}) {
 }
 
 // ---------- App Store ----------
+// 日本時間の日付（1 日 3 回走るので、比較の基準は「日」でそろえる）
+function jstDate(d = new Date()) {
+  return new Date(d.getTime() + 9 * 3600000).toISOString().slice(0, 10);
+}
+
 export async function fetchAppStoreRanking({ limit = 10, cache = {} } = {}) {
   const j = await fetchJson(APPSTORE_TOPFREE, { timeoutMs: 20000 });
   const entries = j.feed?.entry || [];
-  const prev = cache.appstorePrev || {};
+  const day = jstDate();
+
+  // 1 日 3 回走るので、比較の基準は「前日の順位」に固定する。
+  // 日付が変わったときだけ、前日ぶんを基準に繰り上げる
+  const snap = cache.appstoreToday || {};
+  if (snap.day && snap.day !== day) cache.appstoreBaseline = { day: snap.day, ranks: snap.ranks || {} };
+  const baseline = cache.appstoreBaseline || {};
+  const prev = baseline.ranks || {};
   const hasPrev = Object.keys(prev).length > 0;
   const today = {};
   const out = [];
@@ -70,22 +82,24 @@ export async function fetchAppStoreRanking({ limit = 10, cache = {} } = {}) {
     const rank = i + 1;
     today[id] = rank;
     if (out.length >= limit) return;
+    // アイコンは 100px までしか入っていないので、同じ画像の大きいサイズを指す URL にする
+    const icon = (e["im:image"]?.at(-1)?.label || "").replace(/\/\d+x\d+bb\.(png|jpg)$/, "/246x246bb.$1");
     out.push({
       rank,
       title: e["im:name"]?.label || "",
-      image: e["im:image"]?.at(-1)?.label || "",
-      url: (e.link?.attributes?.href || "").split("?")[0],
+      image: icon,
+      // link は配列なので、アプリページの URL は id.label から取る
+      url: (e.id?.label || "").split("?")[0],
       metric: e["im:artist"]?.label || "",
       delta: delta(rank, prev[id], hasPrev),
       deltaNote: "前日比",
     });
   });
 
-  // 次回の比較用に今日の順位を丸ごと覚えておく（100 位まで持つと圏外からの浮上も拾える）
-  cache.appstorePrev = today;
-  cache.appstorePrevAt = new Date().toISOString();
-  log(`App Store ranking: ${out.length} titles (前日データ ${Object.keys(prev).length} 件)`);
-  return out;
+  // 今日の順位は毎回上書きし、日付が変わったときに基準へ繰り上がる
+  cache.appstoreToday = { day, ranks: today, at: new Date().toISOString() };
+  log(`App Store ranking: ${out.length} titles (比較元 ${Object.keys(prev).length} 件 / ${baseline.day || "なし"})`);
+  return { items: out, baselineDay: baseline.day || "" };
 }
 
 export async function buildRankings(config, { cache = {} } = {}) {
@@ -113,13 +127,14 @@ export async function buildRankings(config, { cache = {} } = {}) {
 
   if (cfg.appstore !== false) {
     try {
-      const items = await fetchAppStoreRanking({ limit, cache });
+      const { items, baselineDay } = await fetchAppStoreRanking({ limit, cache });
       if (items.length) {
         boards.push({
           id: "appstore",
+          square: true, // アイコンなので正方形で表示する
           label: "App Store",
           title: "無料ゲーム",
-          note: "App Store（日本）の無料ゲームランキング（前日比）",
+          note: baselineDay ? `App Store（日本）の無料ゲームランキング（${baselineDay.slice(5).replace("-", "/")} 比）` : "App Store（日本）の無料ゲームランキング",
           sourceUrl: "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
           items,
         });

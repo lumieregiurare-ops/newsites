@@ -1407,3 +1407,19 @@ main > .section:first-child {
     white-space: normal;
   }
 }
+
+/* App Store はアプリのアイコンなので正方形で見せる */
+.rank-list.is-square .rank-item {
+  grid-template-columns: 40px 56px 1fr auto;
+}
+
+.rank-list.is-square .rank-thumb {
+  aspect-ratio: 1 / 1;
+  border-radius: 12px;
+}
+
+@media (max-width: 640px) {
+  .rank-list.is-square .rank-item {
+    grid-template-columns: 30px 1fr auto;
+  }
+}
