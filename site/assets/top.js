@@ -43,10 +43,14 @@
     const labelOf = (id) => data.categories?.find((c) => c.id === id)?.label || "";
     const items = [...data.items].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).slice(0, RADAR_LIMIT);
 
-    $("#statSites").textContent = data.total ?? data.items.length;
+    // 掲載数の表示はページに無いこともある（ヒーローを置かない構成）
     const today = new Date();
     today.setHours(0, 0, 0, 0);
-    $("#statToday").textContent = data.items.filter((i) => new Date(i.addedAt) >= today).length;
+    const stats = { statSites: data.total ?? data.items.length, statToday: data.items.filter((i) => new Date(i.addedAt) >= today).length };
+    for (const [id, v] of Object.entries(stats)) {
+      const el = $(`#${id}`);
+      if (el) el.textContent = v;
+    }
     const u = new Date(data.updatedAt);
     $("#radarUpdated").textContent = `最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
 

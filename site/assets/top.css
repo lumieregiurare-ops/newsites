@@ -1349,3 +1349,22 @@ dd {
     white-space: normal;
   }
 }
+
+/* ---------- ヘッダーのサイト名を h1 にした分の調整 ---------- */
+h1.logo {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1;
+}
+
+h1.logo > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: inherit;
+}
+
+/* ヒーローを置かないページでは、最初のセクションがヘッダーに寄りすぎないようにする */
+main > .section:first-child {
+  padding-top: 48px;
+}
