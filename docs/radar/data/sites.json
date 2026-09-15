@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-14T16:06:06.924Z",
+  "updatedAt": "2026-09-15T00:19:28.970Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 126,
+  "total": 129,
   "regions": {
-    "jp": 113,
+    "jp": 116,
     "global": 13
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 31
+      "count": 32
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 19
+      "count": 21
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 61
+      "count": 62
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Game*Spark",
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "Game*Spark",
     "AppBank",
     "Inside",
     "Appliv Games",
@@ -134,13 +134,94 @@
   ],
   "items": [
     {
+      "id": "853e4b68d5fa",
+      "url": "https://www.ro-co-co.com/",
+      "host": "ro-co-co.com",
+      "region": "jp",
+      "title": "王子さまと妖精",
+      "headline": "井上喜久子さん＆潘めぐみさんがゲーム『王子さまと妖精』に出演決定。迷い込んだ童話の世界で“王子”の代役となる",
+      "description": "ROCKS. ――心を“揺さぶる”ゲームを。",
+      "publishedAt": "2026-09-15T00:00:14.000Z",
+      "addedAt": "2026-09-15T00:19:28.970Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609152m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQVKw2WhG3e_dvA9p-kVw_c-VexbmBX8Ay1Ysqiog53Q_GIIqdMqyY4PlmCF_3zhZV4VDdiGXECEX-YkFQU31eXVXZFyJQsB2S8N0IJrJble-Am2Sa0KtcCkEduJbQMYQPTC4O_EaXTttrOHuyADi0fWleDNwK0zYFupz-QRzsFibUIa_Bg-f3YjkiVs=w16383"
+    },
+    {
+      "id": "7f727450ced7",
+      "url": "https://www.sega.jp/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "ソニック",
+      "headline": "『ソニック』『クレイジータクシー』『ストレンジャー ザン ヘヴン』3作品の映像化が発表。Netflixとセガが新たな提携を結ぶ",
+      "description": "『ソニック』『クレイジータクシー』『ストレンジャー ザン ヘヴン』3作品の映像化が発表。Netflixとセガが新たな提携を結ぶ",
+      "publishedAt": "2026-09-14T23:16:36.000Z",
+      "addedAt": "2026-09-15T00:19:28.970Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260915e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "3f551b178b27",
+      "url": "https://playwarcraft3.com/en-us/",
+      "host": "playwarcraft3.com",
+      "region": "jp",
+      "title": "Warcraft III Reforged: Forsaken Kingdom",
+      "headline": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
+      "description": "Experience the epic origin stories of Warcraft, now more stunning and evocative than ever before.",
+      "publishedAt": "2026-09-14T23:00:00.000Z",
+      "addedAt": "2026-09-15T00:19:28.970Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/439/G043977/20260915004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blta1b0ee178b5fb2c3/69656799872f3d6bc4c611fd/og_image.webp"
+    },
+    {
       "id": "a125fbf2128b",
       "url": "https://iii-initiative.com/",
       "host": "iii-initiative.com",
       "region": "jp",
       "title": "Triple-i Initiative Showcase",
       "headline": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8…",
-      "description": "広告なし・司会なし・ムダなしの45分！インディー発表番組「Triple-i Initiative Showcase」サプライズエディションが10月9日開催、登場ゲームは40本・8本の完全新作発表も",
+      "description": "A video game showcase made by studios, for players. No hosts, no ads, just games.",
       "publishedAt": "2026-09-14T16:00:03.000Z",
       "addedAt": "2026-09-14T16:06:06.924Z",
       "source": "Game*Spark",
@@ -158,9 +239,11 @@
         "event",
         "indie"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
-      "image": ""
+      "image": "https://iii-initiative.com/img/banner.jpg"
     },
     {
       "id": "e11ffbbf2abf",
