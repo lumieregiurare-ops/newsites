@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:00:18.974Z",
+  "updatedAt": "2026-09-15T14:35:50.041Z",
   "platforms": [
     {
       "id": "switch",
@@ -300,6 +300,26 @@
   ],
   "prereg": [
     {
+      "id": "40d20f49aa9a",
+      "title": "サイマジック 魔法世界のバグ、科学で直します！",
+      "url": "https://g123.jp/game/scimagic/?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/861ca52f6c58063932316cad66aa4fd1cd638e65d4d4537ca4f98892.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-09-15T11:26:19.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「サイマジック 魔法世界のバグ、科学で直します！」，ゲームプラットフォーム「G123」でサービス決定。事前登録の受付もスタート",
+      "description": "「サイマジック 魔法世界のバグ、科学で直します！」は、科学の原理で魔法を強化して戦うG123発の完全オリジナルローグライクRPG。魔法使いが異端視される世界で、仲間とともに窮地を突破しよう。会員登録・ダウンロードなしでスマホ・PCから無料…",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
+      "appleId": ""
+    },
+    {
       "id": "f2c4c7cb70f1",
       "title": "雨のちハレ女",
       "url": "https://www.hare-onna.jp/",
@@ -444,32 +464,44 @@
         "preorder": true,
         "releaseDate": "2026-12-15T08:00:00Z"
       }
-    },
-    {
-      "id": "ddc3066f6b2c",
-      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "url": "https://galast.net/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-14T07:37:27.850Z",
-      "releaseText": "2026年11月2日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "Eve-sense Inc. / エンターテインメント・カード・ボード",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/813851",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/galast-%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%AF%BE%E6%88%A6%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id6744635653",
-        "preorder": true,
-        "releaseDate": "2026-11-02T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-15T14:35:50.041Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "サイマジック 魔法世界のバグ、科学で直します！",
+      "url": "https://g123.jp/game/scimagic/?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/861ca52f6c58063932316cad66aa4fd1cd638e65d4d4537ca4f98892.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-15T14:35:50.041Z",
+      "type": "new",
+      "label": "新規",
+      "title": "PowerWash Simulator 2",
+      "url": "https://www.futurlab.co.uk/games/powerwash-simulator-2/",
+      "image": "https://www.futurlab.co.uk/media/hs5grick/pws2-main-keyart-1920x1080.png",
+      "platforms": [],
+      "to": "2026年内"
+    },
+    {
+      "at": "2026-09-15T14:35:50.041Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Minecraft Dungeons II ソウル パック",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000073240",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9e334edcd40a875a9f40b2fe0e68402e63e339b36665c1562e36d3d13c84bca6.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年9月29日"
+    },
     {
       "at": "2026-09-15T09:00:18.974Z",
       "type": "new",
@@ -503,42 +535,6 @@
         "switch2"
       ],
       "to": "2026年10月15日"
-    },
-    {
-      "at": "2026-09-14T16:06:22.178Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Ratatan - デラックス版",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000039504",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7aac91c644efbb24da168fae319be1b273b5e0e495e0a217fd0ef9cf08470e24.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月15日"
-    },
-    {
-      "at": "2026-09-14T16:06:22.178Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Ratatan - コブンセット",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077336",
-      "image": "https://img-eshop.cdn.nintendo.net/i/97ad15ab90d369c72b9525cc9e2687ca8087f10ba54ec522aa3f148f8d5d8514.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月15日"
-    },
-    {
-      "at": "2026-09-14T12:56:30.728Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "雨のちハレ女",
-      "url": "https://apps.apple.com/app/id6760698900",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
