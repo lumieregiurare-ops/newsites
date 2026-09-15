@@ -354,64 +354,84 @@
 
   loadSchedule();
 
-  // Google トレンド（日本）の急上昇キーワード
-  getJson("data/trends.json")
-    .then((t) => {
-      const items = t?.items || [];
-      if (!items.length) return;
-      $("#trends").hidden = false;
-      if (t.sourceUrl) $("#trendsSource").href = t.sourceUrl;
-      const u = new Date(t.updatedAt);
-      $("#trendsUpdated").textContent = ` 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
-      const list = $("#trendsList");
-      for (const it of items.slice(0, 10)) {
-        const li = document.createElement("li");
-        li.className = "trend-item";
-        const rank = document.createElement("span");
-        rank.className = "trend-rank";
-        rank.textContent = it.rank;
-        const body = document.createElement("div");
-        body.className = "trend-body";
-        const head = document.createElement("div");
-        head.className = "trend-head";
-        const kw = document.createElement("a");
-        kw.className = "trend-keyword";
-        kw.href = it.url;
-        kw.target = "_blank";
-        kw.rel = "noopener noreferrer";
-        kw.textContent = it.keyword;
-        head.appendChild(kw);
-        if (it.isNew) {
+  // Steam / App Store の人気ランキング（順位の動き付き）
+  getJson("data/rankings.json")
+    .then((data) => {
+      const boards = data?.boards || [];
+      if (!boards.length) return;
+      $("#ranking").hidden = false;
+      const u = new Date(data.updatedAt);
+      $("#rankingUpdated").textContent = ` 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
+
+      const tabs = $("#rankTabs");
+      const list = $("#rankList");
+      const note = $("#rankNote");
+      let current = 0;
+
+      function draw() {
+        const b = boards[current];
+        [...tabs.children].forEach((el, i) => {
+          el.classList.toggle("active", i === current);
+          el.setAttribute("aria-selected", String(i === current));
+        });
+        note.innerHTML = `${b.note}。出典: <a href="${b.sourceUrl}" target="_blank" rel="noopener noreferrer">${b.label}</a>`;
+        list.innerHTML = "";
+        for (const it of b.items) {
+          const li = document.createElement("li");
+          li.className = "rank-item";
           const n = document.createElement("span");
-          n.className = "trend-new";
-          n.textContent = "NEW";
-          n.title = "前回の取得には無かったキーワードです";
-          head.appendChild(n);
+          n.className = "rank-no";
+          n.textContent = it.rank;
+          const thumb = document.createElement("a");
+          thumb.className = "rank-thumb";
+          thumb.href = it.url;
+          thumb.target = "_blank";
+          thumb.rel = "noopener noreferrer";
+          if (it.image) {
+            const img = document.createElement("img");
+            img.src = it.image;
+            img.alt = "";
+            img.loading = "lazy";
+            img.referrerPolicy = "no-referrer";
+            img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
+            thumb.appendChild(img);
+          } else {
+            thumb.classList.add("no-image");
+          }
+          const body = document.createElement("div");
+          body.className = "rank-body";
+          const t = document.createElement("a");
+          t.className = "rank-title";
+          t.href = it.url;
+          t.target = "_blank";
+          t.rel = "noopener noreferrer";
+          t.textContent = it.title;
+          const meta = document.createElement("div");
+          meta.className = "rank-meta";
+          meta.textContent = it.metric || "";
+          body.append(t, meta);
+          const d = document.createElement("span");
+          d.className = `rank-delta is-${it.delta.kind}`;
+          d.textContent = it.delta.label;
+          d.hidden = it.delta.kind === "none";
+          d.title = it.delta.kind === "new" ? `${it.deltaNote}で圏外から浮上` : `${it.deltaNote}の順位変動`;
+          li.append(n, thumb, body, d);
+          list.appendChild(li);
         }
-        const cat = document.createElement("span");
-        cat.className = `trend-cat trend-cat-${it.category}`;
-        cat.textContent = it.categoryLabel;
-        head.appendChild(cat);
-        if (it.traffic) {
-          const tr = document.createElement("span");
-          tr.className = "trend-traffic";
-          tr.textContent = `検索 ${it.traffic}`;
-          head.appendChild(tr);
-        }
-        body.appendChild(head);
-        if (it.news?.length) {
-          const n = it.news[0];
-          const a = document.createElement("a");
-          a.className = "trend-news";
-          a.href = n.url;
-          a.target = "_blank";
-          a.rel = "noopener noreferrer";
-          a.textContent = n.title;
-          body.appendChild(a);
-        }
-        li.append(rank, body);
-        list.appendChild(li);
       }
+
+      boards.forEach((b, i) => {
+        const btn = document.createElement("button");
+        btn.className = "rank-tab";
+        btn.setAttribute("role", "tab");
+        btn.innerHTML = `${b.label}<small>${b.title}</small>`;
+        btn.addEventListener("click", () => {
+          current = i;
+          draw();
+        });
+        tabs.appendChild(btn);
+      });
+      draw();
     })
     .catch(() => {});
 

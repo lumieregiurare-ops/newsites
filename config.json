@@ -33,6 +33,16 @@
       "showUnverified": true
     }
   },
+  "rankings": {
+    "enabled": true,
+    "limit": 10,
+    "steam": true,
+    "appstore": true
+  },
+  "trends": {
+    "enabled": false,
+    "limit": 20
+  },
   "meta": {
     "maxPerRun": 300,
     "maxAttempts": 3,

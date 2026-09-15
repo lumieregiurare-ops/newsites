@@ -37,7 +37,7 @@
       <nav class="nav" aria-label="グローバル">
         <a href="#radar">Radar</a>
         <a href="#mobile">Mobile</a>
-        <a href="#trends">Trends</a>
+        <a href="#ranking">Ranking</a>
         <a href="#schedule">Schedule</a>
         <a href="#prereg">事前登録</a>
         <a href="#notes">note</a>
@@ -81,17 +81,18 @@
       </div>
     </section>
 
-    <section class="section" id="trends" hidden>
+    <section class="section" id="ranking" hidden>
       <div class="wrap">
         <div class="section-head">
           <div>
-            <p class="section-eyebrow">03 / Trends</p>
-            <h2 class="section-title">今日の急上昇</h2>
+            <p class="section-eyebrow">03 / Ranking</p>
+            <h2 class="section-title">いま遊ばれているゲーム</h2>
           </div>
-          <p class="section-desc">Google トレンド（日本）で、いま検索が伸びているキーワードです。<span id="trendsUpdated"></span></p>
+          <p class="section-desc">Steam と App Store の人気ランキングです。前回からの順位の動きを添えているので、急に伸びたタイトルが分かります。<span id="rankingUpdated"></span></p>
         </div>
-        <ol class="trends-list" id="trendsList"></ol>
-        <p class="trends-note">出典: <a id="trendsSource" href="https://trends.google.co.jp/trending?geo=JP" target="_blank" rel="noopener noreferrer">Google トレンド</a>。分類は当サイトで自動判定したものです。</p>
+        <div class="rank-tabs" id="rankTabs" role="tablist"></div>
+        <ol class="rank-list" id="rankList"></ol>
+        <p class="rank-note" id="rankNote"></p>
       </div>
     </section>
 

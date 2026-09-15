@@ -21,9 +21,18 @@
 
 `/schedule/` は 600 件を超えるため、最初に 120 行だけ描画し「さらに表示」で追加します。
 
-## 今日の急上昇（Google トレンド）
+## いま遊ばれているゲーム（ランキング）
 
-Google トレンド（日本）の公開フィードからキーワード・検索ボリューム・関連ニュースを取り、`docs/data/trends.json` に書き出してトップページに 10 件表示します。ゲーム / スポーツ / エンタメ / ニュース / 新商品への分類と、前回の取得に無かったキーワードへの「NEW」表示は当サイト側で付けています。前回分のキーワードは `data/trends-state.json` に 3 日分保持します。`config.json` の `trends.enabled` を `false` にすると停止します。
+トップページに 2 つのランキングをタブで表示します（`docs/data/rankings.json`）。
+
+| タブ | 取得元 | 内容 |
+| --- | --- | --- |
+| Steam | 公式 API `ISteamChartsService/GetMostPlayedGames` | 同時接続数の上位 10 件。順位の変動は API が返す先週の順位との比較。タイトル名と画像は `appdetails` から取得し `data/rankings-state.json` に記録（一度引いたら再取得しない） |
+| App Store | 日本のゲーム無料ランキング RSS | 上位 10 件。順位の変動は前回取得した 100 位までの順位と比較（`data/rankings-state.json` に保持） |
+
+順位が上がったものは緑、下がったものは赤、前回 100 位圏外から入ったものは「NEW」で表示します。比較対象が無い初回は変動を出しません。設定は `config.json` の `rankings`。
+
+**Google トレンドは既定で無効**です（`trends.enabled: false`）。日本全体の急上昇を返す仕組みでカテゴリ指定ができず、ゲーム以外のキーワードが大半を占めたためです。コードは `scripts/lib/trends.mjs` に残してあるので、`true` にすれば `docs/data/trends.json` の生成だけは再開できます（表示側は撤去済み）。
 
 ## リリーススケジュール・事前登録のデータ源
 

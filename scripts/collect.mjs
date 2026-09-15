@@ -11,6 +11,7 @@ import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 import { fetchPreregTitles } from "./lib/preregLists.mjs";
 import { fetchNoteArticles } from "./lib/note.mjs";
 import { fetchTrends } from "./lib/trends.mjs";
+import { buildRankings } from "./lib/rankings.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -360,8 +361,21 @@ try {
   log("note failed:", e.message);
 }
 
-// ---------- 5.5 Google トレンドの急上昇 ----------
-if (config.trends?.enabled !== false) {
+// ---------- 5.5 ゲームの人気ランキング（Steam / App Store） ----------
+if (config.rankings?.enabled !== false) {
+  try {
+    const rankCache = await readJson(join(ROOT, "data", "rankings-state.json"), {});
+    const rankings = await buildRankings(config, { cache: rankCache });
+    await writeJson(join(ROOT, "docs", "data", "rankings.json"), rankings);
+    await writeJson(join(ROOT, "data", "rankings-state.json"), rankCache);
+    log(`rankings: ${rankings.boards.map((b) => `${b.label}=${b.items.length}`).join(" ")}`);
+  } catch (e) {
+    log("rankings failed:", e.message);
+  }
+}
+
+// Google トレンドは日本全体の急上昇でゲーム以外が多く混ざるため既定では取得しない
+if (config.trends?.enabled === true) {
   try {
     const trendsCache = await readJson(join(ROOT, "data", "trends-state.json"), {});
     const trends = await fetchTrends({ limit: config.trends?.limit ?? 20, cache: trendsCache });

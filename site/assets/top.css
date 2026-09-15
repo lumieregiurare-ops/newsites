@@ -1204,152 +1204,6 @@ dd {
   display: none !important;
 }
 
-/* ---------- trends ---------- */
-.trends-list {
-  list-style: none;
-  margin: 0;
-  padding: 8px;
-  border: 1px solid var(--border);
-  border-radius: 16px;
-  background: var(--surface);
-  box-shadow: var(--shadow-soft);
-}
-
-.trend-item {
-  display: grid;
-  grid-template-columns: 40px 1fr;
-  align-items: start;
-  gap: 14px;
-  padding: 12px 12px;
-  border-top: 1px solid var(--border);
-}
-
-.trend-item:first-child {
-  border-top: 0;
-}
-
-.trend-rank {
-  font-family: var(--font-display);
-  font-size: 20px;
-  font-weight: 700;
-  text-align: center;
-  color: var(--text-muted);
-  font-variant-numeric: tabular-nums;
-}
-
-.trend-item:nth-child(-n+3) .trend-rank {
-  background: var(--grad);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
-
-.trend-body {
-  min-width: 0;
-}
-
-.trend-head {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px;
-}
-
-.trend-keyword {
-  font-size: 16px;
-  font-weight: 700;
-}
-
-.trend-keyword:hover {
-  color: var(--violet);
-}
-
-.trend-new {
-  font-size: 10px;
-  font-weight: 800;
-  letter-spacing: .06em;
-  padding: 2px 7px;
-  border-radius: 999px;
-  background: var(--grad-fill);
-  background-origin: border-box;
-  color: var(--on-grad);
-}
-
-.trend-cat {
-  font-size: 11px;
-  font-weight: 700;
-  padding: 2px 9px;
-  border-radius: 999px;
-  background: var(--surface-2);
-  color: var(--text-muted);
-}
-
-.trend-cat-game {
-  background: #f0ecfd;
-  color: var(--violet);
-}
-
-.trend-cat-sports {
-  background: #e6f6ee;
-  color: #12855a;
-}
-
-.trend-cat-entame {
-  background: #fdecf5;
-  color: var(--pink);
-}
-
-.trend-cat-news {
-  background: #eaf3fb;
-  color: #1b6fa8;
-}
-
-.trend-cat-product {
-  background: #fdf3e5;
-  color: #a86a17;
-}
-
-.trend-traffic {
-  font-size: 11.5px;
-  color: var(--text-muted);
-  font-variant-numeric: tabular-nums;
-}
-
-.trend-news {
-  display: block;
-  margin-top: 4px;
-  font-size: 13px;
-  color: var(--text-muted);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.trend-news:hover {
-  color: var(--violet);
-}
-
-.trends-note {
-  margin-top: 14px;
-  font-size: 11.5px;
-  color: var(--text-muted);
-}
-
-.trends-note a {
-  color: var(--violet);
-}
-
-@media (max-width: 640px) {
-  .trend-item {
-    grid-template-columns: 30px 1fr;
-    gap: 10px;
-  }
-
-  .trend-news {
-    white-space: normal;
-  }
-}
-
 /* ---------- ヘッダーのサイト名を h1 にした分の調整 ---------- */
 h1.logo {
   margin: 0;
@@ -1367,4 +1221,189 @@ h1.logo > a {
 /* ヒーローを置かないページでは、最初のセクションがヘッダーに寄りすぎないようにする */
 main > .section:first-child {
   padding-top: 48px;
+}
+
+/* ---------- ranking ---------- */
+.rank-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.rank-tab {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 10px 18px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--text-muted);
+  transition: background .15s, border-color .15s, color .15s;
+}
+
+.rank-tab small {
+  font-size: 11px;
+  font-weight: 500;
+  opacity: .8;
+}
+
+.rank-tab:hover {
+  background: var(--surface-2);
+}
+
+.rank-tab.active {
+  background: var(--grad-fill);
+  background-origin: border-box;
+  border-color: transparent;
+  color: var(--on-grad);
+}
+
+.rank-list {
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: var(--shadow-soft);
+}
+
+.rank-item {
+  display: grid;
+  grid-template-columns: 40px 88px 1fr auto;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 12px;
+  border-top: 1px solid var(--border);
+}
+
+.rank-item:first-child {
+  border-top: 0;
+}
+
+.rank-no {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-item:nth-child(-n+3) .rank-no {
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.rank-thumb {
+  display: block;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--surface-2);
+}
+
+.rank-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.rank-thumb.no-image {
+  background-image: url("/assets/noimage.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.rank-thumb.no-image img {
+  display: none;
+}
+
+.rank-body {
+  min-width: 0;
+}
+
+.rank-title {
+  display: block;
+  font-size: 15px;
+  font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rank-title:hover {
+  color: var(--violet);
+}
+
+.rank-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rank-delta {
+  min-width: 52px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-variant-numeric: tabular-nums;
+}
+
+.rank-delta.is-up {
+  background: #e6f6ee;
+  color: #12855a;
+}
+
+.rank-delta.is-down {
+  background: #fdecef;
+  color: #c0304a;
+}
+
+.rank-delta.is-same {
+  background: var(--surface-2);
+  color: var(--text-muted);
+}
+
+.rank-delta.is-new {
+  background: var(--grad-fill);
+  background-origin: border-box;
+  color: var(--on-grad);
+}
+
+.rank-note {
+  margin-top: 14px;
+  font-size: 11.5px;
+  color: var(--text-muted);
+}
+
+.rank-note a {
+  color: var(--violet);
+}
+
+@media (max-width: 640px) {
+  .rank-item {
+    grid-template-columns: 30px 1fr auto;
+    gap: 10px;
+  }
+
+  .rank-thumb {
+    display: none;
+  }
+
+  .rank-title {
+    white-space: normal;
+  }
 }
