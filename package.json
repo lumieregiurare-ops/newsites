@@ -13,6 +13,7 @@
     "start": "npm run build && node server.mjs"
   },
   "devDependencies": {
-    "esbuild": "^0.24.2"
+    "esbuild": "^0.24.2",
+    "sharp": "^0.33.5"
   }
 }

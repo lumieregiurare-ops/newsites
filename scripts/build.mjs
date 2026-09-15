@@ -5,6 +5,11 @@ import { readdir, readFile, writeFile, mkdir, stat } from "node:fs/promises";
 import { join, dirname, extname, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 import { transform } from "esbuild";
+import sharp from "sharp";
+
+// カードのサムネイル枠は 382x200 程度なので、その 2 倍を上限に縮小する
+const IMAGE_MAX_WIDTH = 800;
+const IMAGE_QUALITY = 82;
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = join(ROOT, "site");
@@ -35,6 +40,20 @@ for (const file of await walk(SRC)) {
   const dest = join(OUT, rel);
   await mkdir(dirname(dest), { recursive: true });
   const ext = extname(file).toLowerCase();
+
+  // 画像は表示サイズに合わせて縮小・再圧縮する（元ファイルは site/ にそのまま残す）
+  if (ext === ".jpg" || ext === ".jpeg" || ext === ".png") {
+    const buf = await readFile(file);
+    const meta = await sharp(buf).metadata();
+    let img = sharp(buf).rotate();
+    if ((meta.width || 0) > IMAGE_MAX_WIDTH) img = img.resize({ width: IMAGE_MAX_WIDTH });
+    const data = ext === ".png" ? await img.png({ compressionLevel: 9 }).toBuffer() : await img.jpeg({ quality: IMAGE_QUALITY, mozjpeg: true }).toBuffer();
+    await writeFile(dest, data);
+    count++;
+    console.log(`${rel.padEnd(28)} ${String(buf.length).padStart(7)} → ${String(data.length).padStart(7)} B (${Math.round((data.length / buf.length) * 100)}%)`);
+    continue;
+  }
+
   const src = await readFile(file, "utf8");
   let out = src;
   if (ext === ".js") {

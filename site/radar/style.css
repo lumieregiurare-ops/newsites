@@ -779,7 +779,7 @@ main {
 
 /* ---------- 画像が取得できなかったときの共通サムネイル ---------- */
 .thumb.no-image {
-  background-image: url("../assets/noimage.svg");
+  background-image: url("../assets/noimage.jpg");
   background-size: cover;
   background-position: center;
 }

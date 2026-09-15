@@ -62,7 +62,7 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 
 ## ソースとビルド
 
-編集するのは `site/`（HTML / CSS / JS のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`site.json`）で管理します。
+編集するのは `site/`（HTML / CSS / JS / 画像のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。画像（jpg / png）は sharp で横幅 800px 上限に縮小・再圧縮します（`site/assets/noimage.jpg` は 1.5MB → 13KB）。元の画像は `site/` にそのまま残るので、差し替えるときは `site/assets/` のファイルを置き換えてください。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`site.json`）で管理します。
 
 ```bash
 npm install      # 初回のみ（esbuild を入れる）

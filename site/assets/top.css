@@ -1191,7 +1191,7 @@ dd {
 .game-cover.no-image,
 .sched-thumb.no-image,
 .note-thumb.no-image {
-  background-image: url("/assets/noimage.svg");
+  background-image: url("/assets/noimage.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
