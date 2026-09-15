@@ -27,7 +27,7 @@
     .filters { display: flex; flex-wrap: wrap; gap: 8px; margin: 24px 0 8px; }
     .filter { height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); font-size: 13px; font-weight: 700; cursor: pointer; color: var(--text-muted); }
     .filter:hover { background: var(--surface-2); }
-    .filter.active { background: var(--grad-fill); background-origin: border-box; color: #0b0d12; border-color: transparent; }
+    .filter.active { background: var(--grad-fill); background-origin: border-box; color: #fff; border-color: transparent; }
     .count-line { font-size: 12px; color: var(--text-muted); margin-bottom: 18px; }
     .section-tabs { display: flex; gap: 24px; border-bottom: 1px solid var(--border); margin-bottom: 28px; }
     .section-tabs a { padding: 12px 2px; font-weight: 700; color: var(--text-muted); border-bottom: 2px solid transparent; }
@@ -74,6 +74,9 @@
         <div class="filters" id="platformFilters" role="group" aria-label="機種で絞り込み" style="margin-top: 0;"></div>
         <p class="count-line" id="countLine"></p>
         <div class="schedule-list" id="scheduleList"></div>
+        <div class="section-more">
+          <button class="btn btn-ghost btn-lg" id="scheduleMore" hidden></button>
+        </div>
       </div>
     </section>
 

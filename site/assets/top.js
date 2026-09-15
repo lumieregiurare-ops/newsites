@@ -317,7 +317,8 @@
 
   async function loadSchedule() {
     try {
-      const r = await fetch(`data/schedule.json?t=${Math.floor(Date.now() / 600000)}`);
+      // トップ用の抜粋だけを読む（全件版は 450KB 超あり表示が遅くなる）
+      const r = await fetch(`data/schedule-top.json?t=${Math.floor(Date.now() / 600000)}`);
       if (!r.ok) throw new Error("no schedule");
       const sched = await r.json();
       renderSchedule(sched);
@@ -348,6 +349,67 @@
     });
 
   loadSchedule();
+
+  // Google トレンド（日本）の急上昇キーワード
+  getJson("data/trends.json")
+    .then((t) => {
+      const items = t?.items || [];
+      if (!items.length) return;
+      $("#trends").hidden = false;
+      if (t.sourceUrl) $("#trendsSource").href = t.sourceUrl;
+      const u = new Date(t.updatedAt);
+      $("#trendsUpdated").textContent = ` 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
+      const list = $("#trendsList");
+      for (const it of items.slice(0, 10)) {
+        const li = document.createElement("li");
+        li.className = "trend-item";
+        const rank = document.createElement("span");
+        rank.className = "trend-rank";
+        rank.textContent = it.rank;
+        const body = document.createElement("div");
+        body.className = "trend-body";
+        const head = document.createElement("div");
+        head.className = "trend-head";
+        const kw = document.createElement("a");
+        kw.className = "trend-keyword";
+        kw.href = it.url;
+        kw.target = "_blank";
+        kw.rel = "noopener noreferrer";
+        kw.textContent = it.keyword;
+        head.appendChild(kw);
+        if (it.isNew) {
+          const n = document.createElement("span");
+          n.className = "trend-new";
+          n.textContent = "NEW";
+          n.title = "前回の取得には無かったキーワードです";
+          head.appendChild(n);
+        }
+        const cat = document.createElement("span");
+        cat.className = `trend-cat trend-cat-${it.category}`;
+        cat.textContent = it.categoryLabel;
+        head.appendChild(cat);
+        if (it.traffic) {
+          const tr = document.createElement("span");
+          tr.className = "trend-traffic";
+          tr.textContent = `検索 ${it.traffic}`;
+          head.appendChild(tr);
+        }
+        body.appendChild(head);
+        if (it.news?.length) {
+          const n = it.news[0];
+          const a = document.createElement("a");
+          a.className = "trend-news";
+          a.href = n.url;
+          a.target = "_blank";
+          a.rel = "noopener noreferrer";
+          a.textContent = n.title;
+          body.appendChild(a);
+        }
+        li.append(rank, body);
+        list.appendChild(li);
+      }
+    })
+    .catch(() => {});
 
   // note の記事一覧（自分の記事。RSS から取ったタイトル・サムネイル・冒頭だけを表示）
   getJson("data/notes.json")

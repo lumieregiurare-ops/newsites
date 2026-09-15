@@ -1,0 +1,560 @@
+{
+  "updatedAt": "2026-09-15T00:25:32.259Z",
+  "platforms": [
+    {
+      "id": "switch",
+      "label": "Switch"
+    },
+    {
+      "id": "switch2",
+      "label": "Switch 2"
+    },
+    {
+      "id": "ps",
+      "label": "PlayStation"
+    },
+    {
+      "id": "xbox",
+      "label": "Xbox"
+    },
+    {
+      "id": "pc",
+      "label": "PC / Steam"
+    },
+    {
+      "id": "mobile",
+      "label": "スマホ"
+    },
+    {
+      "id": "browser",
+      "label": "ブラウザ"
+    },
+    {
+      "id": "arcade",
+      "label": "アーケード"
+    },
+    {
+      "id": "vr",
+      "label": "VR"
+    }
+  ],
+  "releases": [
+    {
+      "id": "32c1a2f12fea",
+      "title": "デイヴ・ザ・ダイバー",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://www.mintrock.et/jp/game/game.php/",
+      "image": "https://www.mintrock.et/img/logo_img.jpg",
+      "maker": "",
+      "headline": "「デイヴ・ザ・ダイバー」の累計販売本数が1000万本を突破。9月17日にはスマホ版もリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/635/G063598/20260909031/"
+    },
+    {
+      "id": "33bfb88bc92b",
+      "title": "デイヴ・ザ・ダイバー",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "スマホ版「デイヴ・ザ・ダイバー」，8月中にリリース。App StoreとGoogle Playで事前登録を受付中",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/439/G043999/20260629013/",
+      "announcedText": "2027年8月",
+      "dateSource": "appstore"
+    },
+    {
+      "id": "a354ad5ffe3b",
+      "title": "16変化の学園サバイバル！",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000134631",
+      "image": "https://img-eshop.cdn.nintendo.net/i/dfc92b44053ca487f9e90be589b0b64177e8db0eda86933a127e691401ede9ab.jpg",
+      "maker": "MASK",
+      "genre": [
+        "コミュニケーション",
+        "実用",
+        "学習"
+      ],
+      "price": 980,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "4f02130f5c06",
+      "title": "Absolum（アブソラム）Nintendo Switch 2 Edition アップグレードパス",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077725",
+      "image": "https://img-eshop.cdn.nintendo.net/i/cbe81698b3e05cceb78e14295202df6a32ea6fa7e1907b8a70eefcb25aabc0ac.jpg",
+      "maker": "アークシステムワークス",
+      "genre": [],
+      "price": 110,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "90e4f020a8f8",
+      "title": "Aetherfall (エーテルフォール)",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000132017",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f2d6aeb286cb9f6f4fa6afd69f0de140af83e7cc11ba1911e18531f56dab2a4a.jpg",
+      "maker": "Revulo Games",
+      "genre": [
+        "アドベンチャー",
+        "アクション",
+        "パズル"
+      ],
+      "price": 999,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "e5e977d49ef9",
+      "title": "AKIBA LOST",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000114924",
+      "image": "https://img-eshop.cdn.nintendo.net/i/2df8ddc218db28be3cbf4ab9427f0fb66a643ac537cb12e4285d07a779f90e2c.jpg",
+      "maker": "イザナギゲームズ",
+      "genre": [
+        "アドベンチャー"
+      ],
+      "price": 5500,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "24b1934e8a47",
+      "title": "AKIBA LOST：オリジナルサウンドトラック＆ドット絵キャラクター衣装セット",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039861",
+      "image": "https://img-eshop.cdn.nintendo.net/i/be3ff01f5844e6f48f1c4c0b895254b36961704d1677bedf2193af588fc8e207.jpg",
+      "maker": "イザナギゲームズ",
+      "genre": [],
+      "price": 990,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "f8363d3d0bf1",
+      "title": "AKIBA LOST：デジタルデラックスエディション",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039859",
+      "image": "https://img-eshop.cdn.nintendo.net/i/20990f0e22bce7f58a68d7cd8f0bfe0fe45edfc48406f8c359f0d9723def674e.jpg",
+      "maker": "イザナギゲームズ",
+      "genre": [],
+      "price": 8250,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "3d22d2cbe53d",
+      "title": "AKIBA LOST：ドラマムービー＆ドット絵キャラクター衣装セット",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039862",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c37c134f7ecb60aca626fcfdbd061aa1a6a4f7ff00620c011e7ff07a763bbff7.jpg",
+      "maker": "イザナギゲームズ",
+      "genre": [],
+      "price": 1980,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "03cc94451d1b",
+      "title": "バンドリ！アワーノーツ",
+      "date": "2026-09-22",
+      "dateText": "2026年9月22日",
+      "sortKey": "2026-09-22",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p",
+      "announcedText": "2026年9月24日",
+      "dateSource": "appstore"
+    },
+    {
+      "id": "a2149361191b",
+      "title": "くにおくんのサバイバーズ・オブ・ザ・デッド",
+      "date": "2026-10-01",
+      "dateText": "2026年10月1日",
+      "sortKey": "2026-10-01",
+      "priority": 0,
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6749604300",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/05/4f/1f054fea-df82-7bbf-2739-8b02d4b2cc20/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "「くにおくんのサバイバーズ・オブ・ザ・デッド」，Apple Arcade専用タイトルとして10月1日にリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/040/G104079/20260909033/"
+    },
+    {
+      "id": "969280732f1c",
+      "title": "Colorbound",
+      "date": "2026-10-12",
+      "dateText": "2026年10月12日",
+      "sortKey": "2026-10-12",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://whitethorngames.com/colorbound/",
+      "image": "https://static1.squarespace.com/static/58bc9fcf17bffc35906b2c61/t/691cc2b294d5f73a9018e20e/1765309372360/Colorbound-keyart-clean.png?format=1500w",
+      "maker": "",
+      "headline": "色を塗り替え，世界の“重さ”を変えるパズルプラットフォーマー「Colorbound」，発売日を10月12日に決定。最新トレイラーが公開",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104231/20260911064/"
+    },
+    {
+      "id": "871c2b29e785",
+      "title": "World of Warcraft: Forever",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://worldofwarcraft.blizzard.com/en-gb/forever/",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt766f7698aedb7b7f/6a9bc5882437ed5612d4878f/Open_Graph_-_Camelot.jpg",
+      "maker": "",
+      "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
+    },
+    {
+      "id": "aefe8531cc92",
+      "title": "エッジ オブ メモリーズ",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "priority": 0,
+      "platforms": [
+        "ps"
+      ],
+      "url": "https://3goo.co.jp/product/edge-of-memories/",
+      "image": "",
+      "maker": "",
+      "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
+    }
+  ],
+  "prereg": [
+    {
+      "id": "c3e1f9fc823b",
+      "title": "雨のちハレ女",
+      "url": "https://apps.apple.com/app/id6760698900",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T10:44:53.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
+      "description": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609142y",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E9%9B%A8%E3%81%AE%E3%81%A1%E3%83%8F%E3%83%AC%E5%A5%B3/id6760698900",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
+    {
+      "id": "27616a24d3fa",
+      "title": "無限大Ananta",
+      "url": "https://game8.jp/preregistration/601590",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T08:07:27.954Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/601590",
+      "verified": false,
+      "officialKnown": false
+    },
+    {
+      "id": "02cbb632e74f",
+      "title": "ハイキュー!! ALL Challengers",
+      "url": "https://game8.jp/preregistration/774051",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T08:07:27.954Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/774051",
+      "verified": false,
+      "officialKnown": false
+    },
+    {
+      "id": "8972bda02820",
+      "title": "薬屋のひとりごと 後宮異聞録",
+      "url": "https://game8.jp/preregistration/720625",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T08:07:27.954Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/720625",
+      "verified": false,
+      "officialKnown": false
+    },
+    {
+      "id": "565336394d1e",
+      "title": "オハヒロ",
+      "url": "https://game8.jp/preregistration/776487",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T08:07:27.954Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/776487",
+      "verified": false,
+      "officialKnown": false
+    },
+    {
+      "id": "a1a719f8b2de",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年12月15日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "Level Infinite / アクション・エンターテインメント・ロールプレイング",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/808921",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+        "preorder": true,
+        "releaseDate": "2026-12-15T08:00:00Z"
+      }
+    },
+    {
+      "id": "ddc3066f6b2c",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年11月2日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "Eve-sense Inc. / エンターテインメント・カード・ボード",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/813851",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/galast-%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%AF%BE%E6%88%A6%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id6744635653",
+        "preorder": true,
+        "releaseDate": "2026-11-02T08:00:00Z"
+      }
+    },
+    {
+      "id": "a03273d74023",
+      "title": "Lumi Master（るぅみマスター）",
+      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/69/fa/d769fa0c-52ce-97f4-2e62-a7a0286d2e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T07:37:27.850Z",
+      "releaseText": "2026年9月17日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "BILIBILI HK LIMITED / ロールプレイング",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/781704",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+        "preorder": true,
+        "releaseDate": "2026-09-17T07:00:00Z"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "at": "2026-09-14T16:06:22.178Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Ratatan - 武器・アクセサリーセット",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076454",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d7750a9088c7ab15af614a47c0432c5a0b10f99292f704c90e81e38a38475d9a.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-09-14T16:06:22.178Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Ratatan - 育成素材セット",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077578",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7c6b3d5375aed7b54afc1e58fec833b004aad0732f275e579ab1d7f148676a3a.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-09-14T16:06:22.178Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Ratatan - デラックス版",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039504",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7aac91c644efbb24da168fae319be1b273b5e0e495e0a217fd0ef9cf08470e24.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-09-14T16:06:22.178Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Ratatan - コブンセット",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077336",
+      "image": "https://img-eshop.cdn.nintendo.net/i/97ad15ab90d369c72b9525cc9e2687ca8087f10ba54ec522aa3f148f8d5d8514.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-09-14T12:56:30.728Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "雨のちハレ女",
+      "url": "https://apps.apple.com/app/id6760698900",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-14T08:07:27.954Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "くにおくんのサバイバーズ・オブ・ザ・デッド",
+      "url": "https://apps.apple.com/jp/app/id6749604300",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/05/4f/1f054fea-df82-7bbf-2739-8b02d4b2cc20/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "to": "App Store 2026年10月1日"
+    }
+  ]
+}

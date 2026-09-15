@@ -1,20 +1,24 @@
 :root {
-  --bg: #0b0d12;
-  --bg-2: #10131b;
-  --surface: rgba(255, 255, 255, .04);
-  --surface-2: rgba(255, 255, 255, .07);
-  --border: rgba(255, 255, 255, .1);
-  --text: #eef0f6;
-  --text-muted: #9097a8;
-  --cyan: #22d3ee;
-  --violet: #a855f7;
-  --pink: #f472b6;
+  --bg: #f7f8fd;
+  --bg-2: #eef1f9;
+  --surface: #ffffff;
+  --surface-2: #f2f4fb;
+  --border: #e4e8f2;
+  --text: #1c2130;
+  --text-muted: #6d748a;
+  /* 文字や塗りに使う色は、白地でも読めるところまで濃くする */
+  --cyan: #0e9fc0;
+  --violet: #7c4dee;
+  --pink: #e0479a;
   --grad: linear-gradient(120deg, var(--cyan), var(--violet) 55%, var(--pink));
   --grad-fill: var(--grad);
+  --on-grad: #ffffff;
+  --shadow-soft: 0 1px 2px rgba(28, 33, 48, .04), 0 6px 20px rgba(28, 33, 48, .06);
+  --shadow-lift: 0 10px 30px rgba(28, 33, 48, .1);
   --font-display: "Unbounded", "Noto Sans JP", system-ui, sans-serif;
   --font-body: "Noto Sans JP", system-ui, -apple-system, "Segoe UI", "Hiragino Sans", sans-serif;
   --radius: 18px;
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 * {
@@ -97,8 +101,8 @@ dd {
   position: absolute;
   inset: 0;
   background-image:
-    linear-gradient(rgba(255, 255, 255, .04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255, 255, 255, .04) 1px, transparent 1px);
+    linear-gradient(rgba(124, 77, 238, .05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(124, 77, 238, .05) 1px, transparent 1px);
   background-size: 64px 64px;
   mask-image: radial-gradient(ellipse at 50% 0%, #000 30%, transparent 75%);
 }
@@ -125,7 +129,7 @@ dd {
   top: 0;
   z-index: 20;
   backdrop-filter: blur(14px);
-  background: rgba(11, 13, 18, .6);
+  background: rgba(255, 255, 255, .78);
   border-bottom: 1px solid var(--border);
 }
 
@@ -153,7 +157,7 @@ dd {
   height: 30px;
   border-radius: 9px;
   background: var(--grad);
-  color: #0b0d12;
+  color: var(--on-grad);
   font-weight: 900;
   font-size: 15px;
 }
@@ -202,7 +206,7 @@ dd {
 
 .social:hover {
   background: var(--surface-2);
-  border-color: rgba(255, 255, 255, .25);
+  border-color: #cfd6e6;
 }
 
 .social svg {
@@ -217,7 +221,7 @@ dd {
   height: 18px;
   border-radius: 4px;
   background: #41c9b4;
-  color: #0b0d12;
+  color: var(--on-grad);
   font-size: 11px;
   font-weight: 900;
   font-family: var(--font-display);
@@ -249,13 +253,13 @@ dd {
   background-origin: border-box;
   background-clip: border-box;
   border-color: transparent;
-  color: #0b0d12;
-  box-shadow: 0 10px 30px rgba(168, 85, 247, .25);
+  color: var(--on-grad);
+  box-shadow: 0 8px 22px rgba(124, 77, 238, .22);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 14px 36px rgba(34, 211, 238, .3);
+  box-shadow: 0 12px 30px rgba(124, 77, 238, .3);
 }
 
 .btn-ghost {
@@ -287,13 +291,13 @@ dd {
   height: 8px;
   border-radius: 50%;
   background: var(--cyan);
-  box-shadow: 0 0 0 6px rgba(34, 211, 238, .15);
+  box-shadow: 0 0 0 6px rgba(14, 159, 192, .14);
   animation: pulse 2s ease-in-out infinite;
 }
 
 @keyframes pulse {
   50% {
-    box-shadow: 0 0 0 10px rgba(34, 211, 238, .05);
+    box-shadow: 0 0 0 10px rgba(14, 159, 192, .05);
   }
 }
 
@@ -355,7 +359,7 @@ dd {
 }
 
 .section-radar {
-  background: linear-gradient(180deg, transparent, rgba(255, 255, 255, .025) 20%, rgba(255, 255, 255, .025) 80%, transparent);
+  background: linear-gradient(180deg, transparent, var(--bg-2) 14%, var(--bg-2) 86%, transparent);
 }
 
 .section-head {
@@ -422,7 +426,7 @@ dd {
 
 .radar-card:hover {
   transform: translateY(-3px);
-  border-color: rgba(255, 255, 255, .22);
+  border-color: #cfd6e6;
 }
 
 .radar-thumb {
@@ -466,7 +470,7 @@ dd {
   border-radius: 999px;
   font-size: 11px;
   font-weight: 700;
-  background: rgba(11, 13, 18, .8);
+  background: rgba(255, 255, 255, .9);
   border: 1px solid var(--border);
   backdrop-filter: blur(6px);
 }
@@ -597,7 +601,7 @@ dd {
 }
 
 .sched-thumb.no-image {
-  background: linear-gradient(135deg, rgba(34, 211, 238, .25), rgba(168, 85, 247, .25));
+  background: linear-gradient(135deg, #e8f4fb, #eee9fb);
 }
 
 .sched-thumb.no-image img {
@@ -698,7 +702,7 @@ dd {
 
 .prereg-card:hover {
   transform: translateY(-3px);
-  border-color: rgba(255, 255, 255, .22);
+  border-color: #cfd6e6;
 }
 
 .prereg-thumb {
@@ -744,12 +748,12 @@ dd {
   font-weight: 700;
   background: var(--grad-fill);
   background-origin: border-box;
-  color: #0b0d12;
+  color: var(--on-grad);
 }
 
 /* 一覧ページで見つけたが App Store 等で裏取りできていないもの */
 .prereg-badge.is-unverified {
-  background: rgba(11, 13, 18, .8);
+  background: rgba(255, 255, 255, .9);
   color: var(--text-muted);
   border: 1px dashed var(--border);
 }
@@ -834,7 +838,7 @@ dd {
 
 .prereg-store:hover {
   color: var(--text);
-  border-color: rgba(255, 255, 255, .3);
+  border-color: #cfd6e6;
 }
 
 .prereg-count {
@@ -913,7 +917,7 @@ dd {
 
 .change-new {
   color: var(--cyan);
-  border-color: rgba(34, 211, 238, .35);
+  border-color: rgba(14, 159, 192, .4);
 }
 
 .change-date_fixed,
@@ -983,12 +987,12 @@ dd {
 
 .note-card:hover {
   transform: translateY(-3px);
-  border-color: rgba(255, 255, 255, .22);
+  border-color: #cfd6e6;
 }
 
 .note-thumb {
   aspect-ratio: 1.91 / 1;
-  background: linear-gradient(135deg, rgba(65, 201, 180, .35), rgba(34, 211, 238, .2));
+  background: linear-gradient(135deg, #e3f6f2, #e8f4fb);
   overflow: hidden;
 }
 
@@ -1059,7 +1063,7 @@ dd {
 /* ---------- footer ---------- */
 .footer {
   border-top: 1px solid var(--border);
-  background: rgba(0, 0, 0, .25);
+  background: var(--surface);
 }
 
 .footer-inner {
@@ -1177,5 +1181,171 @@ dd {
 
   .header-social .social {
     padding: 0 10px;
+  }
+}
+
+/* ---------- 画像が取得できなかったときの共通サムネイル ---------- */
+.thumb.no-image,
+.radar-thumb.no-image,
+.prereg-thumb.no-image,
+.game-cover.no-image,
+.sched-thumb.no-image,
+.note-thumb.no-image {
+  background-image: url("/assets/noimage.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.thumb-fallback,
+.radar-thumb-fallback,
+.prereg-thumb-fallback,
+.game-cover-fallback {
+  display: none !important;
+}
+
+/* ---------- trends ---------- */
+.trends-list {
+  list-style: none;
+  margin: 0;
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  box-shadow: var(--shadow-soft);
+}
+
+.trend-item {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  align-items: start;
+  gap: 14px;
+  padding: 12px 12px;
+  border-top: 1px solid var(--border);
+}
+
+.trend-item:first-child {
+  border-top: 0;
+}
+
+.trend-rank {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.trend-item:nth-child(-n+3) .trend-rank {
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.trend-body {
+  min-width: 0;
+}
+
+.trend-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.trend-keyword {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.trend-keyword:hover {
+  color: var(--violet);
+}
+
+.trend-new {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--grad-fill);
+  background-origin: border-box;
+  color: var(--on-grad);
+}
+
+.trend-cat {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--text-muted);
+}
+
+.trend-cat-game {
+  background: #f0ecfd;
+  color: var(--violet);
+}
+
+.trend-cat-sports {
+  background: #e6f6ee;
+  color: #12855a;
+}
+
+.trend-cat-entame {
+  background: #fdecf5;
+  color: var(--pink);
+}
+
+.trend-cat-news {
+  background: #eaf3fb;
+  color: #1b6fa8;
+}
+
+.trend-cat-product {
+  background: #fdf3e5;
+  color: #a86a17;
+}
+
+.trend-traffic {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.trend-news {
+  display: block;
+  margin-top: 4px;
+  font-size: 13px;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.trend-news:hover {
+  color: var(--violet);
+}
+
+.trends-note {
+  margin-top: 14px;
+  font-size: 11.5px;
+  color: var(--text-muted);
+}
+
+.trends-note a {
+  color: var(--violet);
+}
+
+@media (max-width: 640px) {
+  .trend-item {
+    grid-template-columns: 30px 1fr;
+    gap: 10px;
+  }
+
+  .trend-news {
+    white-space: normal;
   }
 }

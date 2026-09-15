@@ -10,6 +10,7 @@ import { buildSchedule } from "./lib/schedule.mjs";
 import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 import { fetchPreregTitles } from "./lib/preregLists.mjs";
 import { fetchNoteArticles } from "./lib/note.mjs";
+import { fetchTrends } from "./lib/trends.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DATA_FILE = join(ROOT, "docs", "radar", "data", "sites.json"); // 公開用（docs/ がサイトルート、radar/ が下層）
@@ -359,6 +360,18 @@ try {
   log("note failed:", e.message);
 }
 
+// ---------- 5.5 Google トレンドの急上昇 ----------
+if (config.trends?.enabled !== false) {
+  try {
+    const trendsCache = await readJson(join(ROOT, "data", "trends-state.json"), {});
+    const trends = await fetchTrends({ limit: config.trends?.limit ?? 20, cache: trendsCache });
+    await writeJson(join(ROOT, "docs", "data", "trends.json"), trends);
+    await writeJson(join(ROOT, "data", "trends-state.json"), trendsCache);
+  } catch (e) {
+    log("trends failed:", e.message);
+  }
+}
+
 // ---------- 6. リリーススケジュール / 事前登録 ----------
 let scheduleStats = null;
 if (config.releases?.enabled !== false) {
@@ -376,6 +389,28 @@ if (config.releases?.enabled !== false) {
     });
     schedule.platforms = categorizer.platforms;
     await writeJson(join(ROOT, "docs", "data", "schedule.json"), schedule);
+
+    // トップページは 14 行 + 事前登録 8 件しか使わないので、軽い抜粋を別に書き出す
+    // （全件の schedule.json は 450KB 超あり、トップの表示を待たせる原因になる）
+    const topReleases = schedule.releases
+      .filter((r) => r.date)
+      .slice()
+      .sort((a, b) => (a.priority ?? 9) - (b.priority ?? 9) || a.sortKey.localeCompare(b.sortKey))
+      .slice(0, 14)
+      .sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+    // 事前登録ページも全件のスケジュールは要らない
+    await writeJson(join(ROOT, "docs", "data", "prereg.json"), {
+      updatedAt: schedule.updatedAt,
+      platforms: schedule.platforms,
+      prereg: schedule.prereg,
+    });
+    await writeJson(join(ROOT, "docs", "data", "schedule-top.json"), {
+      updatedAt: schedule.updatedAt,
+      platforms: schedule.platforms,
+      releases: topReleases,
+      prereg: schedule.prereg.slice(0, 8),
+      changes: schedule.changes.slice(0, 6),
+    });
     await writeJson(stateFile, scheduleCache);
     scheduleStats = { ...schedule.stats, releases: schedule.releases.length, changes: schedule.changes.length };
     log(

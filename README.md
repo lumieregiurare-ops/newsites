@@ -7,6 +7,24 @@
 - `docs/schedule/` — **リリーススケジュール**: 向こう 120 日の新作発売予定と、発売日の決定・延期などの更新履歴
 - `docs/prereg/` — **事前登録受付中**: 事前登録・予約注文中のスマホゲーム。配信日決定 / 未定 / App Store で予約可 で絞り込み（データはどちらも `docs/data/schedule.json`）
 
+## 公開するデータファイル
+
+ページごとに必要な分だけを読むよう分けています（全件の `schedule.json` は 450KB 前後あり、トップページで読むと表示が遅くなるため）。
+
+| ファイル | 読む場所 | 目安 |
+| --- | --- | --- |
+| `docs/radar/data/sites.json` | トップ / `/radar/` | 約 160KB |
+| `docs/data/schedule-top.json` | トップ（発売 14 件・事前登録 8 件・更新履歴 6 件） | 約 20KB |
+| `docs/data/prereg.json` | `/prereg/` | 約 28KB |
+| `docs/data/schedule.json` | `/schedule/` のみ | 約 450KB |
+| `docs/data/trends.json` / `notes.json` | トップ | 各 10KB 以下 |
+
+`/schedule/` は 600 件を超えるため、最初に 120 行だけ描画し「さらに表示」で追加します。
+
+## 今日の急上昇（Google トレンド）
+
+Google トレンド（日本）の公開フィードからキーワード・検索ボリューム・関連ニュースを取り、`docs/data/trends.json` に書き出してトップページに 10 件表示します。ゲーム / スポーツ / エンタメ / ニュース / 新商品への分類と、前回の取得に無かったキーワードへの「NEW」表示は当サイト側で付けています。前回分のキーワードは `data/trends-state.json` に 3 日分保持します。`config.json` の `trends.enabled` を `false` にすると停止します。
+
 ## リリーススケジュール・事前登録のデータ源
 
 | 情報 | 取得元 | 備考 |

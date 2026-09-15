@@ -4,6 +4,8 @@
   let sched = { releases: [], prereg: [], platforms: [] };
   let platform = "all";
   let source = "all";
+  const PAGE = 120;
+  let shown = PAGE;
   const SOURCE_GROUPS = [
     { id: "all", label: "すべての情報源" },
     { id: "news", label: "ニュースで発表", test: (r) => !/^(Nintendo|Steam)$/.test(r.source) },
@@ -52,6 +54,7 @@
       b.textContent = o.label;
       b.addEventListener("click", () => {
         platform = o.id;
+        shown = PAGE;
         renderFilters();
         renderReleases();
       });
@@ -65,6 +68,7 @@
       b.textContent = g.label;
       b.addEventListener("click", () => {
         source = g.id;
+        shown = PAGE;
         renderFilters();
         renderReleases();
       });
@@ -75,13 +79,25 @@
   function renderReleases() {
     const list = $("#scheduleList");
     list.innerHTML = "";
+    const more = $("#scheduleMore");
+    more.hidden = true;
     const labels = new Map((sched.platforms || []).map((p) => [p.id, p.label]));
     const group = SOURCE_GROUPS.find((g) => g.id === source);
-    const rows = sched.releases.filter((r) => (platform === "all" || r.platforms.includes(platform)) && (!group?.test || group.test(r)));
-    $("#countLine").textContent = `${rows.length} タイトル（向こう ${sched.daysAhead || 120} 日 + 時期のみ発表分）`;
-    if (!rows.length) {
+    const all = sched.releases.filter((r) => (platform === "all" || r.platforms.includes(platform)) && (!group?.test || group.test(r)));
+    $("#countLine").textContent = `${all.length} タイトル（向こう ${sched.daysAhead || 120} 日 + 時期のみ発表分）`;
+    if (!all.length) {
       list.innerHTML = `<div class="sched-empty">該当するタイトルがありません。</div>`;
       return;
+    }
+    // 一度に数百行を描くと表示が重くなるので、まず先頭だけ出して「もっと見る」で足す
+    const rows = all.slice(0, shown);
+    if (all.length > rows.length) {
+      more.hidden = false;
+      more.textContent = `さらに表示（残り ${all.length - rows.length} 件）`;
+      more.onclick = () => {
+        shown += PAGE;
+        renderReleases();
+      };
     }
     const groups = new Map();
     for (const r of rows) {

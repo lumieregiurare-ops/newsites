@@ -1,37 +1,22 @@
+/* トップページ（assets/top.css）と同じ明るい配色にそろえる */
 :root {
-  --bg: #f7f7fb;
+  --bg: #f7f8fd;
   --surface: #ffffff;
-  --surface-2: #eef0f6;
-  --text: #17181d;
-  --text-muted: #6b7080;
-  --border: #e3e5ee;
-  --accent: #4f46e5;
-  --accent-soft: #eceafe;
+  --surface-2: #f2f4fb;
+  --text: #1c2130;
+  --text-muted: #6d748a;
+  --border: #e4e8f2;
+  --accent: #7c4dee;
+  --accent-soft: #f0ecfd;
   --accent-ink: #ffffff;
-  --star: #f5a524;
+  --star: #f0a020;
   --new: #16a34a;
-  --jp: #e11d48;
-  --hero-from: #eef0ff;
-  --hero-to: #f7f7fb;
-  --shadow: 0 1px 2px rgba(20, 20, 40, .04), 0 6px 20px rgba(20, 20, 40, .06);
+  --jp: #e0479a;
+  --hero-from: #eef1f9;
+  --hero-to: #f7f8fd;
+  --shadow: 0 1px 2px rgba(28, 33, 48, .04), 0 6px 20px rgba(28, 33, 48, .06);
   --radius: 14px;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0f1116;
-    --surface: #171a22;
-    --surface-2: #20242f;
-    --text: #e8e9ef;
-    --text-muted: #9a9fb0;
-    --border: #2a2f3c;
-    --accent: #818cf8;
-    --accent-soft: #232a4d;
-    --accent-ink: #0f1116;
-    --hero-from: #181b2c;
-    --hero-to: #0f1116;
-    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 6px 20px rgba(0, 0, 0, .35);
-  }
+  color-scheme: light;
 }
 
 * {
@@ -790,4 +775,15 @@ main {
     right: 16px;
     bottom: 16px;
   }
+}
+
+/* ---------- 画像が取得できなかったときの共通サムネイル ---------- */
+.thumb.no-image {
+  background-image: url("../assets/noimage.svg");
+  background-size: cover;
+  background-position: center;
+}
+
+.thumb-fallback {
+  display: none !important;
 }
