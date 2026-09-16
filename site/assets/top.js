@@ -253,7 +253,7 @@
     // トップでは裏取りできているものを優先して出す
     const items = [...(sched.prereg || [])].sort((a, b) => (a.verified === false ? 1 : 0) - (b.verified === false ? 1 : 0)).slice(0, PREREG_MAX);
     if (!items.length) {
-      grid.innerHTML = `<div class="prereg-empty">現在、事前登録の開始が報じられたタイトルはありません。毎朝 7 時に更新されます。</div>`;
+      grid.innerHTML = `<div class="prereg-empty">現在、事前登録の開始が報じられたタイトルはありません。</div>`;
       return;
     }
     const tpl = $("#preregCardTpl");

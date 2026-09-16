@@ -177,7 +177,7 @@
     grid.innerHTML = "";
     const labels = new Map((sched.platforms || []).map((p) => [p.id, p.label]));
     if (!sched.prereg.length) {
-      grid.innerHTML = `<div class="prereg-empty">現在、事前登録の開始が報じられたタイトルはありません。毎朝 7 時に更新されます。</div>`;
+      grid.innerHTML = `<div class="prereg-empty">現在、事前登録の開始が報じられたタイトルはありません。</div>`;
       return;
     }
     const tpl = $("#preregCardTpl");
