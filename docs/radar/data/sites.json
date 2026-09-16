@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T01:09:05.754Z",
+  "updatedAt": "2026-09-16T02:16:30.371Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 167,
+  "total": 171,
   "regions": {
-    "jp": 149,
+    "jp": 153,
     "global": 18
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 18
+      "count": 19
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 41
+      "count": 45
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 19
+      "count": 20
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 44
+      "count": 45
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 23
+      "count": 26
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 73
+      "count": 74
     },
     {
       "id": "browser",
@@ -122,11 +122,11 @@
   ],
   "sources": [
     "App Store",
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
-    "電ファミニコゲーマー",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
@@ -165,6 +165,126 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+    },
+    {
+      "id": "1c0abaa737ab",
+      "url": "https://www.falcom.co.jp/",
+      "host": "falcom.co.jp",
+      "region": "jp",
+      "title": "英雄伝説III 白き魔女",
+      "headline": "「英雄伝説III 白き魔女」，PC＆家庭用ゲーム機向けの開発と，グローバル市場でのリリースに向けてNEOWIZと商品化ライセンス契約を締結",
+      "description": "ソフト開発、販売などを行う日本ファルコム株式会社の公式ウェブサイトです。開発タイトルの情報サイトや通販、メールマガジンなどさまざまなサービスを紹介しています。",
+      "publishedAt": "2026-09-16T02:06:26.000Z",
+      "addedAt": "2026-09-16T02:16:30.371Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104314/20260916003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.falcom.co.jp/page/wp-content/themes/falcom2022/assets/og.jpg"
+    },
+    {
+      "id": "be6790ee6ef1",
+      "url": "https://www.falcom.co.jp/games-data/ed3/",
+      "host": "falcom.co.jp",
+      "region": "jp",
+      "title": "軌跡",
+      "headline": "ファルコム『軌跡』の原点、1994年RPG『英雄伝説III 白き魔女』復活なるか。PC/コンシューマ開発・全世界リリースに向け韓国NEOWIZと商品化ライセンス締結",
+      "description": "ファルコム『軌跡』の原点、1994年RPG『英雄伝説III 白き魔女』復活なるか。PC/コンシューマ開発・全世界リリースに向け韓国NEOWIZと商品化ライセンス締結",
+      "publishedAt": "2026-09-16T02:05:02.000Z",
+      "addedAt": "2026-09-16T02:16:30.371Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172338.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.falcom.co.jphttps//www.falcom.co.jp/page/wp-content/uploads/1999/04/ed3.jpg"
+    },
+    {
+      "id": "ba49d21ee257",
+      "url": "https://www.aniimo.com/ja/main/",
+      "host": "aniimo.com",
+      "region": "jp",
+      "title": "アニモ",
+      "headline": "【基本プレイ無料】オープンワールドのモンスター収集RPG『アニモ』が本日9月16日より正式サービス開始！",
+      "description": "次世代アクションRPG『アニモ』の世界へ飛び込もう！カワイくて少し奇妙な生き物たちと絆を結び、広大なファンタジーオープンワールドを冒険！気の合う仲間とチームを作り、一緒に多彩なアクションクエストに挑みましょう！",
+      "publishedAt": "2026-09-16T02:00:10.000Z",
+      "addedAt": "2026-09-16T02:16:30.371Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609162h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png"
+    },
+    {
+      "id": "06d143d12b1b",
+      "url": "https://www.aniimo.com/ja/",
+      "host": "aniimo.com",
+      "region": "jp",
+      "title": "アニモ",
+      "headline": "基本無料オープンワールド・モンスター収集RPG『アニモ』PC＆コンソール正式サービス開始！個性豊かなアニモの能力を借りて“ひとつ”になり広大な世界を旅しよう",
+      "description": "次世代アクションRPG『アニモ』の世界へ飛び込もう！カワイくて少し奇妙な生き物たちと絆を結び、広大なファンタジーオープンワールドを冒険！気の合う仲間とチームを作り、一緒に多彩なアクションクエストに挑みましょう！",
+      "publishedAt": "2026-09-16T02:00:03.000Z",
+      "addedAt": "2026-09-16T02:16:30.371Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172336.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png"
     },
     {
       "id": "dca3cfb20f36",
@@ -483,12 +603,18 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/991/G999110/20260915054/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172335.html"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "event",
         "indie"
       ],

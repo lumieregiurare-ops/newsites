@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:09:10.249Z",
+  "updatedAt": "2026-09-16T02:16:46.170Z",
   "platforms": [
     {
       "id": "switch",
@@ -163,26 +163,6 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "24b1934e8a47",
-      "title": "AKIBA LOST：オリジナルサウンドトラック＆ドット絵キャラクター衣装セット",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70070000039861",
-      "image": "https://img-eshop.cdn.nintendo.net/i/be3ff01f5844e6f48f1c4c0b895254b36961704d1677bedf2193af588fc8e207.jpg",
-      "maker": "イザナギゲームズ",
-      "genre": [],
-      "price": 990,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "1812ca9c3c70",
       "title": "Graveyard Keeper 2",
       "date": "2026-09-22",
@@ -215,6 +195,23 @@
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p",
       "announcedText": "2026年9月24日",
+      "dateSource": "appstore"
+    },
+    {
+      "id": "8f46736112c8",
+      "title": "アニモ",
+      "date": "2026-09-23",
+      "dateText": "2026年9月23日",
+      "sortKey": "2026-09-23",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.aniimo.com/ja/main/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "maker": "",
+      "headline": "【基本プレイ無料】オープンワールドのモンスター収集RPG『アニモ』が本日9月16日より正式サービス開始！",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609162h",
+      "announcedText": "2026年9月16日",
       "dateSource": "appstore"
     },
     {
@@ -299,6 +296,30 @@
     }
   ],
   "prereg": [
+    {
+      "id": "06d143d12b1b",
+      "title": "アニモ",
+      "url": "https://www.aniimo.com/ja/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-09-16T02:00:03.000Z",
+      "releaseText": "2026年9月23日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "基本無料オープンワールド・モンスター収集RPG『アニモ』PC＆コンソール正式サービス開始！個性豊かなアニモの能力を借りて“ひとつ”になり広大な世界を旅しよう",
+      "description": "次世代アクションRPG『アニモ』の世界へ飛び込もう！カワイくて少し奇妙な生き物たちと絆を結び、広大なファンタジーオープンワールドを冒険！気の合う仲間とチームを作り、一緒に多彩なアクションクエストに挑みましょう！",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/16/172336.html",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+        "preorder": true,
+        "releaseDate": "2026-09-23T07:00:00Z"
+      }
+    },
     {
       "id": "40d20f49aa9a",
       "title": "サイマジック 魔法世界のバグ、科学で直します！",
@@ -441,32 +462,33 @@
       "sourceUrl": "https://game8.jp/preregistration/776487",
       "verified": false,
       "officialKnown": false
-    },
-    {
-      "id": "a1a719f8b2de",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-14T07:37:27.850Z",
-      "releaseText": "2026年12月15日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "Level Infinite / アクション・エンターテインメント・ロールプレイング",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/808921",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
-        "preorder": true,
-        "releaseDate": "2026-12-15T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-16T02:16:46.170Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アニモ",
+      "url": "https://www.aniimo.com/ja/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "App Store 2026年9月23日"
+    },
+    {
+      "at": "2026-09-16T02:16:46.170Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "アニモ",
+      "url": "https://www.aniimo.com/ja/main/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "platforms": [],
+      "from": "2026年9月15日",
+      "to": "2026年9月23日"
+    },
     {
       "at": "2026-09-16T00:54:55.472Z",
       "type": "new",
@@ -514,28 +536,6 @@
         "switch"
       ],
       "to": "2026年9月29日"
-    },
-    {
-      "at": "2026-09-15T09:00:18.974Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ポケットモンスター",
-      "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
-      "image": "https://www.pokemon.co.jp/ex/legends_z-a/assets/og/ja/og.jpg",
-      "platforms": [],
-      "to": "2026年12月18日"
-    },
-    {
-      "at": "2026-09-14T16:06:22.178Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Ratatan - 武器・アクセサリーセット",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000076454",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d7750a9088c7ab15af614a47c0432c5a0b10f99292f704c90e81e38a38475d9a.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月15日"
     }
   ]
 }

@@ -774,6 +774,24 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/83/90/ee839087-7ec2-1d37-b876-d7fc9c48289b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "アニモ": {
+      "at": "2026-09-16T02:16:46.512Z",
+      "entry": {
+        "trackId": "6759098797",
+        "title": "アニモ",
+        "artist": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
+        "genres": [
+          "ロールプレイング",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-09-23T07:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+        "sellerUrl": "https://www.aniimo.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/84/36/69843695-6c91-5db7-0f69-befd8cd3187a/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -1011,10 +1029,10 @@
     },
     "アニモ": {
       "title": "アニモ",
-      "dateText": "2026年9月15日",
-      "date": "2026-09-15",
-      "sortKey": "2026-09-15",
-      "prereg": false,
+      "dateText": "2026年9月23日",
+      "date": "2026-09-23",
+      "sortKey": "2026-09-23",
+      "prereg": true,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
     "ディアブロiv:憎悪の時代": {
@@ -6800,9 +6818,9 @@
     },
     "japaneseramensimulator": {
       "title": "Japanese Ramen Simulator",
-      "dateText": "2026年9月",
-      "date": null,
-      "sortKey": "2026-09-32",
+      "dateText": "2026年9月27日",
+      "date": "2026-09-27",
+      "sortKey": "2026-09-27",
       "prereg": false,
       "firstSeen": "2026-09-15T00:25:32.259Z"
     },
@@ -7730,6 +7748,38 @@
       "sortKey": "2026-09-16",
       "prereg": false,
       "firstSeen": "2026-09-16T01:09:10.249Z"
+    },
+    "alex&artysoundtrack": {
+      "title": "Alex & Arty Soundtrack",
+      "dateText": "2026年9月16日",
+      "date": "2026-09-16",
+      "sortKey": "2026-09-16",
+      "prereg": false,
+      "firstSeen": "2026-09-16T02:16:46.170Z"
+    },
+    "chesstan": {
+      "title": "ChessTan",
+      "dateText": "2026年9月18日",
+      "date": "2026-09-18",
+      "sortKey": "2026-09-18",
+      "prereg": false,
+      "firstSeen": "2026-09-16T02:16:46.170Z"
+    },
+    "lefishe": {
+      "title": "Le Fishe",
+      "dateText": "2026年9月18日",
+      "date": "2026-09-18",
+      "sortKey": "2026-09-18",
+      "prereg": false,
+      "firstSeen": "2026-09-16T02:16:46.170Z"
+    },
+    "奇跡工場": {
+      "title": "奇跡工場",
+      "dateText": "2026年9月20日",
+      "date": "2026-09-20",
+      "sortKey": "2026-09-20",
+      "prereg": false,
+      "firstSeen": "2026-09-16T02:16:46.170Z"
     }
   },
   "changeLog": [
@@ -8934,6 +8984,30 @@
         "switch"
       ],
       "to": "2027年1月14日"
+    },
+    {
+      "at": "2026-09-16T02:16:46.170Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "アニモ",
+      "url": "https://www.aniimo.com/ja/main/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "platforms": [],
+      "from": "2026年9月15日",
+      "to": "2026年9月23日"
+    },
+    {
+      "at": "2026-09-16T02:16:46.170Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アニモ",
+      "url": "https://www.aniimo.com/ja/",
+      "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2026年9月23日"
     }
   ],
   "initialized": true,
