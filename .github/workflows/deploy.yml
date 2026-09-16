@@ -36,5 +36,5 @@ jobs:
           password: ${{ secrets.LOLIPOP_FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./docs/
-          server-dir: ./public_html/
+          server-dir: ./pubhtml/
           dangerous-clean-slate: false
