@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T12:57:30.156Z",
+  "updatedAt": "2026-09-16T15:08:46.941Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 196,
+  "total": 200,
   "regions": {
-    "jp": 176,
+    "jp": 180,
     "global": 20
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 55
+      "count": 57
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 32
+      "count": 34
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 5
+      "count": 6
     },
     {
       "id": "ps",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 1
+      "count": 2
     },
     {
       "id": "vr",
@@ -122,11 +122,11 @@
   ],
   "sources": [
     "App Store",
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "Inside",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
@@ -165,6 +165,131 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+    },
+    {
+      "id": "528e7c6fa99d",
+      "url": "https://www.streetfighter.com/6/ja-jp/",
+      "host": "streetfighter.com",
+      "region": "jp",
+      "title": "スト6",
+      "headline": "キャミィにも負けないハイレグ！『スト6』C.ヴァイパーに水着コスチュームが追加決定―引き締まったヒップも眩しい",
+      "description": "シリーズ最新作「ストリートファイター6」についての情報をお届けします。",
+      "publishedAt": "2026-09-16T15:05:03.000Z",
+      "addedAt": "2026-09-16T15:08:46.941Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/17/187851.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609164a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.streetfighter.com/6/assets/images/sns_6.jpg"
+    },
+    {
+      "id": "f159bdb15d81",
+      "url": "https://jaleco-ac.com/v1/",
+      "host": "jaleco-ac.com",
+      "region": "jp",
+      "title": "ラグナロク",
+      "headline": "ジャレコの名作セットから「ラグナロク」シリーズ最新作まで，グラビティゲームアライズの出展タイトルを紹介［TGS2026］",
+      "description": "名作？ 珍作？ 思い出のタイトルがきっと見つかる ジャレコアーケードコレクション登場！ 80年から90年代にかけて発売された ジャレコのアーケード作品がバラエティパックで登場！ プレイヤーをサポートする充実のオプション機能も搭載。 個性的…",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "addedAt": "2026-09-16T15:08:46.941Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G102339/20260907016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://jaleco-ac.com/wp-content/uploads/2026/06/KV.png"
+    },
+    {
+      "id": "63ede8a1bc06",
+      "url": "https://www.dragonsdogma.com/2da/ja-jp/",
+      "host": "dragonsdogma.com",
+      "region": "jp",
+      "title": "ドラゴンズドグマ 2：ダークアリズン",
+      "headline": "「ドラゴンズドグマ 2：ダークアリズン」の最新トレイラーが公開に。発売に先駆けてSwitch2版のキャラクリアプリも配信開始",
+      "description": "『ドラゴンズドグマ２：ダークアリズン』は王道ファンタジーの世界で自由な冒険を楽しめる『ドラゴンズドグマ２』に、新たな物語や体験を追加したタイトルです。",
+      "publishedAt": "2026-09-16T14:54:04.000Z",
+      "addedAt": "2026-09-16T15:08:46.941Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/015/G101558/20260916054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.dragonsdogma.com/2da/assets/images/share.png"
+    },
+    {
+      "id": "c5351139af92",
+      "url": "https://www.monsterhunter.com/wilds-ascendance/",
+      "host": "monsterhunter.com",
+      "region": "jp",
+      "title": "モンスターハンターワイルズ：アセンダンス",
+      "headline": "「モンスターハンターワイルズ：アセンダンス」，古龍“テオ・テスカトル”が登場する最新映像を公開",
+      "description": "Continuing on from the story set up in Monster Hunter Wilds, Ascendance expands on the world and gameplay with new area…",
+      "publishedAt": "2026-09-16T14:40:15.000Z",
+      "addedAt": "2026-09-16T15:08:46.941Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/013/G101399/20260916052/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/17/172379.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/16/187849.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.monsterhunter.com/wilds-ascendance/assets/images/share.png"
     },
     {
       "id": "8357ee614c87",
