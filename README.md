@@ -124,8 +124,8 @@ GitHub Actions では収集・デプロイのどちらのワークフローで�
 
 1. ロリポップの FTP 情報（サーバー・アカウント・パスワード）を GitHub の Settings → Secrets and variables → Actions に `LOLIPOP_FTP_SERVER` / `LOLIPOP_FTP_USER` / `LOLIPOP_FTP_PASSWORD` として登録
 2. 同じ画面の Variables に `DEPLOY_TARGET` = `lolipop` を登録（これがないとアップロードはスキップされます）
-3. `docs/` に変更を push すると `deploy.yml` が、毎日の収集後は `collect.yml` が、`docs/` の中身をサーバーのルート（公開フォルダ）へ FTPS でアップロードします
-4. 手元から手動で上げる場合は、FTP クライアントで `docs/` の中身を公開フォルダ直下にコピーするだけです（Node は不要）
+3. `docs/` に変更を push すると `deploy.yml` が、毎日の収集後は `collect.yml` が、`docs/` の中身をサーバーの `public_html/`（公開フォルダ）へ FTPS でアップロードします
+4. 手元から手動で上げる場合は、FTP クライアントで `docs/` の中身を `public_html/` 直下にコピーするだけです（Node は不要）
 
 ## Radar の機能
 
