@@ -50,24 +50,36 @@ export function toEntry(r) {
   };
 }
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 // タイトル一覧を検索して、見つかったものを返す（cache は呼び出し側が保存する）
-export async function searchTitles(titles, { cache = {}, delayMs = 3000, max = 40, ttlHours = 72 } = {}) {
+// 待ち時間は「実際に問い合わせた直後」だけ入れる。キャッシュに当たった語や最後の 1 件の後で待つと、
+// 1 回の収集で数十秒を無駄にするため。429（レート制限）が返ったときだけ待ち時間を倍にして再試行する。
+export async function searchTitles(
+  titles,
+  { cache = {}, delayMs = 1200, max = 40, ttlHours = 72, missTtlHours = 336 } = {}
+) {
   const out = new Map();
   const now = Date.now();
   let searched = 0;
   let blocked = 0;
+  let wait = delayMs;
+  let pending = false; // 直前に問い合わせたか（待つべきか）
 
   for (const title of titles) {
     const term = searchTerm(title);
     if (!term || term.length < 2) continue;
 
+    // 見つからなかった語は次もまず見つからないので、当たりより長く覚えておく
     const hit = cache[term];
-    if (hit && now - new Date(hit.at).getTime() < ttlHours * 3600000) {
+    const ttl = hit && !hit.entry ? missTtlHours : ttlHours;
+    if (hit && now - new Date(hit.at).getTime() < ttl * 3600000) {
       if (hit.entry) out.set(title, hit.entry);
       continue;
     }
     if (searched >= max || blocked >= 3) continue;
 
+    if (pending) await sleep(wait);
     searched++;
     try {
       const j = await fetchJson(
@@ -78,11 +90,13 @@ export async function searchTitles(titles, { cache = {}, delayMs = 3000, max = 4
       cache[term] = { at: new Date().toISOString(), entry: match || null };
       if (match) out.set(title, match);
       blocked = 0;
+      wait = delayMs;
     } catch (e) {
       blocked++;
+      if (/HTTP 429/.test(e.message)) wait = Math.min(wait * 2, 10000);
       log(`App Store search failed (${term}): ${e.message}`);
     }
-    await new Promise((r) => setTimeout(r, delayMs));
+    pending = true;
   }
   log(`App Store search: ${searched} queries, ${out.size} matched`);
   return out;

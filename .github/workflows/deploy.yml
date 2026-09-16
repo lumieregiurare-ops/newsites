@@ -25,6 +25,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
       - name: Build site (minify into docs/)
         run: npm ci && npm run build
       - name: Upload docs/ via FTP

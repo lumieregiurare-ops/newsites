@@ -26,15 +26,17 @@ export async function fetchSteamRanking({ limit = 10, cache = {} } = {}) {
   const names = (cache.steamNames = cache.steamNames || {});
   const out = [];
 
+  let fetched = false; // 待つのは「続けて問い合わせるとき」だけ。最後の 1 件の後に待つ必要はない
   for (const r of ranks) {
     const id = String(r.appid);
     // タイトル名と画像は変わらないので一度引いたら覚えておく
     if (!names[id]) {
       try {
+        if (fetched) await new Promise((res) => setTimeout(res, 400));
+        fetched = true;
         const d = await fetchJson(`${STEAM_APPDETAILS}?appids=${id}&cc=jp&l=japanese&filters=basic`, { timeoutMs: 15000 });
         const v = d?.[id];
         if (v?.success) names[id] = { name: v.data.name, image: v.data.header_image || "" };
-        await new Promise((res) => setTimeout(res, 400));
       } catch (e) {
         log(`Steam appdetails failed (${id}): ${e.message}`);
       }

@@ -1,6 +1,35 @@
 (() => {
   const $ = (s) => document.querySelector(s);
   const RADAR_LIMIT = 8;
+  const RADAR_NEWEST = 5; // 先頭は必ず新着順。残りは直近数日からランダムに入れ替えて、来るたび顔ぶれが変わるようにする
+  const ROTATE_DAYS = 7;
+  const VISIT_KEY = "gamelab:visit";
+  const VISIT_GAP_MS = 30 * 60 * 1000; // これ以上あいたら「別の訪問」とみなす
+
+  // 前回この端末で見たときの時刻。localStorage にだけ置き、サーバーには送らない。
+  // 連続リロードで基準が動くと NEW が消えてしまうので、30 分以上あいたときだけ繰り上げる。
+  const lastVisit = (() => {
+    const now = Date.now();
+    try {
+      const raw = JSON.parse(localStorage.getItem(VISIT_KEY) || "null");
+      const touched = raw && typeof raw.touched === "number" ? raw.touched : null;
+      const base = touched == null ? null : now - touched > VISIT_GAP_MS ? touched : raw.base ?? touched;
+      localStorage.setItem(VISIT_KEY, JSON.stringify({ base, touched: now }));
+      return base;
+    } catch {
+      return null; // プライベートモードなどで保存できない場合は何も出さない
+    }
+  })();
+  const isNewSince = (it) => lastVisit != null && new Date(it.addedAt).getTime() > lastVisit;
+
+  function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
 
   const ICON_X =
     '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.9 2H22l-7.6 8.7L23.3 22h-7l-5.5-7.2L4.5 22H1.4l8.1-9.3L.7 2h7.2l5 6.6L18.9 2zm-1.2 18h1.9L7.4 3.9H5.3L17.7 20z"/></svg>';
@@ -38,10 +67,40 @@
   }
 
   // ---------- Radar ----------
+  // 先頭 5 件は新着順、残り 3 件は直近 7 日からランダムに選ぶ。
+  // 全件を新着順で切ると収集が走るまで顔ぶれが変わらず、埋もれたサイトも表に出てこないため。
+  function pickRadarItems(all) {
+    const sorted = [...all].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    const head = sorted.slice(0, RADAR_NEWEST);
+    const want = RADAR_LIMIT - head.length;
+    const rest = sorted.slice(RADAR_NEWEST);
+    const cutoff = Date.now() - ROTATE_DAYS * 86400000;
+    const picked = shuffle(rest.filter((it) => new Date(it.publishedAt).getTime() >= cutoff)).slice(0, want);
+    // 直近 7 日の在庫が足りないときは新しい順で埋める
+    for (const it of rest) {
+      if (picked.length >= want) break;
+      if (!picked.includes(it)) picked.push(it);
+    }
+    picked.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    return [...head, ...picked];
+  }
+
+  // 前回この端末で見たとき以降に載った件数を Radar セクションの先頭に出す
+  function renderVisitDiff(data) {
+    if (lastVisit == null) return;
+    const count = data.items.filter((it) => new Date(it.addedAt).getTime() > lastVisit).length;
+    if (!count) return;
+    const grid = $("#radarGrid");
+    const bar = document.createElement("p");
+    bar.className = "visit-diff";
+    bar.innerHTML = `新着 <strong>${count}</strong> 件`;
+    grid.parentNode.insertBefore(bar, grid);
+  }
+
   function renderRadar(data) {
     const grid = $("#radarGrid");
     const labelOf = (id) => data.categories?.find((c) => c.id === id)?.label || "";
-    const items = [...data.items].sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)).slice(0, RADAR_LIMIT);
+    const items = pickRadarItems(data.items);
 
     // 掲載数の表示はページに無いこともある（ヒーローを置かない構成）
     const today = new Date();
@@ -75,6 +134,12 @@
       thumb.classList.add("no-image");
     }
     node.querySelector(".radar-cat").textContent = labelOf(it.categories?.[0]);
+    if (isNewSince(it)) {
+      const badge = document.createElement("span");
+      badge.className = "radar-new";
+      badge.textContent = "NEW";
+      thumb.appendChild(badge);
+    }
     node.querySelector(".radar-title").textContent = it.title;
     node.querySelector(".radar-host").textContent = (it.region === "jp" ? "JP · " : "") + it.host;
     const time = node.querySelector(".radar-date");
@@ -347,6 +412,7 @@
     .then((d) => {
       renderRadar(d);
       renderMobile(d);
+      renderVisitDiff(d);
     })
     .catch(() => {
       $("#radarGrid").innerHTML = `<div class="games-empty">Radar のデータを読み込めませんでした。</div>`;

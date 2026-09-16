@@ -14,7 +14,9 @@ const IMAGE_QUALITY = 82;
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const SRC = join(ROOT, "site");
 const OUT = join(ROOT, "docs");
-const banner = `/* GameLab Radar — built ${new Date().toISOString().slice(0, 10)} */`;
+// 日付は入れない。中身が変わっていなくても毎日 docs/ に差分が出て、収集のたびに
+// 無意味なコミットと FTP アップロードが発生するため
+const banner = `/* GameLab Radar */`;
 
 async function walk(dir) {
   const out = [];
@@ -43,6 +45,12 @@ for (const file of await walk(SRC)) {
 
   // 画像は表示サイズに合わせて縮小・再圧縮する（元ファイルは site/ にそのまま残す）
   if (ext === ".jpg" || ext === ".jpeg" || ext === ".png") {
+    // 出力が元画像より新しければ作り直さない（1.5MB の再圧縮を毎回の収集で走らせないため）
+    const [srcStat, destStat] = await Promise.all([stat(file), stat(dest).catch(() => null)]);
+    if (destStat && destStat.mtimeMs >= srcStat.mtimeMs) {
+      console.log(`${rel.padEnd(28)} (変更なしのためスキップ)`);
+      continue;
+    }
     const buf = await readFile(file);
     const meta = await sharp(buf).metadata();
     let img = sharp(buf).rotate();

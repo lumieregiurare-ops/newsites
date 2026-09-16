@@ -3,10 +3,10 @@ name: collect
 
 on:
   schedule:
-    # ニュースサイトの RSS は直近 100 件しか持たないため、1 日 3 回に分けて取りこぼしを減らす（JST 07:00 / 13:00 / 19:00）
-    - cron: "0 22 * * *"
-    - cron: "0 4 * * *"
-    - cron: "0 10 * * *"
+    # ニュースサイトの RSS は直近 100 件しか持たないので、日中は 2 時間おきに集める
+    # （JST 07/09/11/13/15/17/19/21 時 = UTC 22/00/02/04/06/08/10/12 時）。
+    # 収集自体は 10 秒前後で終わるため、回数を増やしても Actions の時間はほとんど使わない
+    - cron: "0 22,0,2,4,6,8,10,12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
       - name: Install build tools
         run: npm ci
       - name: Build site (minify JS/CSS/HTML into docs/)
@@ -37,7 +38,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs data/state.json data/schedule-state.json
           git diff --cached --quiet && echo "no changes" && exit 0
-          git commit -m "chore: daily collect $(date -u +%Y-%m-%d)"
+          git commit -m "chore: collect $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
           git push
       # GITHUB_TOKEN による push は deploy ワークフローを起動しないので、ここでもアップロードする
       - name: Upload docs/ to Lolipop (FTP)

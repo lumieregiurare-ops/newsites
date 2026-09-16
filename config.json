@@ -26,7 +26,8 @@
     "appstoreMatch": {
       "enabled": true,
       "maxPerRun": 60,
-      "delayMs": 3000
+      "delayMs": 1200,
+      "missTtlHours": 336
     },
     "preregLists": {
       "enabled": true,
@@ -46,8 +47,8 @@
   "meta": {
     "maxPerRun": 300,
     "maxAttempts": 3,
-    "concurrency": 6,
-    "timeoutMs": 15000,
+    "concurrency": 12,
+    "timeoutMs": 8000,
     "descriptionLength": 120
   },
   "focus": {

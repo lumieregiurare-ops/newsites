@@ -6,7 +6,7 @@ import { SOURCES } from "./lib/sources.mjs";
 import { createBlockChecker } from "./lib/filter.mjs";
 import { createCategorizer } from "./lib/categorize.mjs";
 import { fetchMeta } from "./lib/meta.mjs";
-import { buildSchedule } from "./lib/schedule.mjs";
+import { buildSchedule, fetchScheduleFeeds } from "./lib/schedule.mjs";
 import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 import { fetchPreregTitles } from "./lib/preregLists.mjs";
 import { fetchNoteArticles } from "./lib/note.mjs";
@@ -27,6 +27,18 @@ setTimeout(() => {
   console.error(`[watchdog] ${WATCHDOG_MIN} 分を超えたため中断します`);
   process.exit(2);
 }, WATCHDOG_MIN * 60 * 1000).unref();
+
+// フェーズごとの所要時間を測って last-run.json に残す（どこで時間を使っているかを見るため）
+const timings = {};
+async function phase(name, fn) {
+  const t = Date.now();
+  try {
+    return await fn();
+  } finally {
+    timings[name] = Math.round((Date.now() - t) / 100) / 10;
+    log(`[time] ${name}: ${timings[name]}s`);
+  }
+}
 // 内部状態（state.json）を優先し、無ければ公開 JSON / 旧配置から読み込む
 const existing =
   (await readJson(join(ROOT, "data", "state.json"), null)) ||
@@ -86,12 +98,46 @@ function inFocus(it) {
   return focusRes.some((re) => re.test(text));
 }
 
+// ---------- 0. 収集結果に依存しない取得を先に走らせる ----------
+// note の記事・ランキング・事前登録一覧はフィードの収集結果と関係がないので、
+// 待たせずにここで始めておき、必要になった場所で受け取る（直列に並べると 1 回の収集で 10 秒近く損をする）
+const settle = (p) => Promise.resolve(p).then((value) => ({ ok: true, value }), (error) => ({ ok: false, error }));
+const siteMeta = await readJson(join(ROOT, "docs", "data", "site.json"), {});
+const rankCache = await readJson(join(ROOT, "data", "rankings-state.json"), {});
+const notePromise = settle(
+  siteMeta.note ? phase("note", () => fetchNoteArticles(siteMeta.note, { limit: config.note?.limit ?? 12 })) : null
+);
+const rankingsPromise = settle(
+  config.rankings?.enabled === false ? null : phase("rankings", () => buildRankings(config, { cache: rankCache }))
+);
+const preregListsPromise = settle(
+  config.releases?.enabled === false || config.releases?.preregLists?.enabled === false
+    ? []
+    : phase("preregLists", () => fetchPreregTitles(config.releases?.preregLists || {}))
+);
+const scheduleFeedsPromise =
+  config.releases?.enabled === false ? null : phase("scheduleFeeds", () => fetchScheduleFeeds(config.releases || {}));
+
 // ---------- 1. 収集 ----------
 const enabled = Object.entries(config.sources).filter(([, on]) => on).map(([k]) => k);
 log("sources:", enabled.join(", "));
 const caches = await readJson(CACHE_FILE, {});
 caches.producthunt = caches.producthunt || {};
-const results = await Promise.allSettled(enabled.map((k) => SOURCES[k](config, caches)));
+const sourceSec = {};
+const results = await phase(
+  "sources",
+  () =>
+    Promise.allSettled(
+      enabled.map(async (k) => {
+        const t = Date.now();
+        try {
+          return await SOURCES[k](config, caches);
+        } finally {
+          sourceSec[k] = Math.round((Date.now() - t) / 100) / 10;
+        }
+      })
+    )
+);
 await writeJson(CACHE_FILE, caches);
 
 const raw = [];
@@ -100,10 +146,10 @@ results.forEach((r, i) => {
   const key = enabled[i];
   if (r.status === "fulfilled") {
     raw.push(...r.value);
-    sourceStats[key] = { fetched: r.value.length };
-    log(`${key}: ${r.value.length} items`);
+    sourceStats[key] = { fetched: r.value.length, sec: sourceSec[key] };
+    log(`${key}: ${r.value.length} items (${sourceSec[key]}s)`);
   } else {
-    sourceStats[key] = { error: r.reason?.message || String(r.reason) };
+    sourceStats[key] = { error: r.reason?.message || String(r.reason), sec: sourceSec[key] };
     log(`${key}: FAILED ${r.reason?.message || r.reason}`);
   }
 });
@@ -259,7 +305,7 @@ const needMeta = items
 log(`meta targets: ${needMeta.length}`);
 let metaOk = 0;
 let metaFail = 0;
-await pool(needMeta, metaCfg.concurrency ?? 6, async (it) => {
+await phase("meta", () => pool(needMeta, metaCfg.concurrency ?? 6, async (it) => {
   it.metaAttempts = (it.metaAttempts || 0) + 1;
   const m = await fetchMeta(it.url, { timeoutMs: metaCfg.timeoutMs ?? 15000 });
   if (!m.ok) {
@@ -282,7 +328,7 @@ await pool(needMeta, metaCfg.concurrency ?? 6, async (it) => {
     it.region = "global";
     it.regionDetected = true;
   }
-});
+}));
 log(`meta: ${metaOk} ok, ${metaFail} failed`);
 
 // .jp ドメインは英語ページでも国内扱いに固定
@@ -350,27 +396,21 @@ await writeJson(DATA_FILE, {
 // 内部状態（メタ取得の試行回数など）は別ファイルに保持
 await writeJson(join(ROOT, "data", "state.json"), { items });
 
-// ---------- 5.5 note の記事一覧（自分の記事） ----------
-try {
-  const site = await readJson(join(ROOT, "docs", "data", "site.json"), {});
-  if (site.note) {
-    const notes = await fetchNoteArticles(site.note, { limit: config.note?.limit ?? 12 });
-    if (notes) await writeJson(join(ROOT, "docs", "data", "notes.json"), notes);
-  }
-} catch (e) {
-  log("note failed:", e.message);
+// ---------- 5.5 note の記事一覧（自分の記事）: 冒頭で始めた取得を受け取る ----------
+{
+  const r = await notePromise;
+  if (!r.ok) log("note failed:", r.error?.message || r.error);
+  else if (r.value) await writeJson(join(ROOT, "docs", "data", "notes.json"), r.value);
 }
 
 // ---------- 5.5 ゲームの人気ランキング（Steam / App Store） ----------
-if (config.rankings?.enabled !== false) {
-  try {
-    const rankCache = await readJson(join(ROOT, "data", "rankings-state.json"), {});
-    const rankings = await buildRankings(config, { cache: rankCache });
-    await writeJson(join(ROOT, "docs", "data", "rankings.json"), rankings);
+{
+  const r = await rankingsPromise;
+  if (!r.ok) log("rankings failed:", r.error?.message || r.error);
+  else if (r.value) {
+    await writeJson(join(ROOT, "docs", "data", "rankings.json"), r.value);
     await writeJson(join(ROOT, "data", "rankings-state.json"), rankCache);
-    log(`rankings: ${rankings.boards.map((b) => `${b.label}=${b.items.length}`).join(" ")}`);
-  } catch (e) {
-    log("rankings failed:", e.message);
+    log(`rankings: ${r.value.boards.map((b) => `${b.label}=${b.items.length}`).join(" ")}`);
   }
 }
 
@@ -395,12 +435,17 @@ if (config.releases?.enabled !== false) {
     const stateFile = join(ROOT, "data", "schedule-state.json");
     const scheduleCache = await readJson(stateFile, {});
     // 事前登録の一覧ページからタイトル名を拾い、App Store で予約状況を裏取りする材料にする
-    const extraTitles = config.releases?.preregLists?.enabled === false ? [] : await fetchPreregTitles(config.releases?.preregLists || {});
-    const schedule = await buildSchedule(config, items, {
-      platformDetector: (it) => categorizer.detectPlatforms(it),
-      cache: scheduleCache,
-      extraTitles,
-    });
+    const preregRes = await preregListsPromise;
+    if (!preregRes.ok) log("prereg lists failed:", preregRes.error?.message || preregRes.error);
+    const extraTitles = preregRes.ok ? preregRes.value : [];
+    const schedule = await phase("schedule", () =>
+      buildSchedule(config, items, {
+        platformDetector: (it) => categorizer.detectPlatforms(it),
+        cache: scheduleCache,
+        extraTitles,
+        feeds: scheduleFeedsPromise,
+      })
+    );
     schedule.platforms = categorizer.platforms;
     await writeJson(join(ROOT, "docs", "data", "schedule.json"), schedule);
 
@@ -439,6 +484,7 @@ if (config.releases?.enabled !== false) {
 const summary = {
   ranAt: nowIso,
   durationSec: Math.round((Date.now() - started) / 1000),
+  timings,
   fetched: raw.length,
   added,
   updated,

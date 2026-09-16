@@ -63,13 +63,17 @@ function parseNintendoDate(sdate) {
 
 // ---------- Steam ----------
 export async function fetchSteam({ count = 100 } = {}) {
-  // 1 ページ 100 件までなので、count に応じてページを重ねて取る（人気順は保たれる）
-  let html = "";
-  for (let start = 0; start < count; start += 100) {
-    const url = `https://store.steampowered.com/search/results/?query&start=${start}&count=${Math.min(100, count - start)}&filter=popularcomingsoon&infinite=1&cc=jp&l=japanese`;
-    const j = await fetchJson(url);
-    html += j.results_html || "";
-  }
+  // 1 ページ 100 件までなので、count に応じてページを重ねて取る（同時に取り、人気順に並べ直す）
+  const starts = [];
+  for (let start = 0; start < count; start += 100) starts.push(start);
+  const pages = await Promise.all(
+    starts.map(async (start) => {
+      const url = `https://store.steampowered.com/search/results/?query&start=${start}&count=${Math.min(100, count - start)}&filter=popularcomingsoon&infinite=1&cc=jp&l=japanese`;
+      const j = await fetchJson(url);
+      return j.results_html || "";
+    })
+  );
+  const html = pages.join("");
   const blocks = html.split(/<a href="https:\/\/store\.steampowered\.com\/app\//).slice(1);
   const out = [];
   for (const b of blocks) {
@@ -217,7 +221,15 @@ export function extractPrereg(item) {
 }
 
 // ---------- 統合 ----------
-export async function buildSchedule(config, items, { platformDetector, cache = {}, extraTitles = [] } = {}) {
+// 任天堂・Steam の発売予定を同時に取る（どちらも収集結果に依存しないので先に始められる）
+export function fetchScheduleFeeds(cfg = {}) {
+  return Promise.allSettled([
+    cfg.nintendo !== false ? fetchNintendo({ limit: cfg.nintendoLimit ?? 300 }) : [],
+    cfg.steam !== false ? fetchSteam({ count: cfg.steamCount ?? 100 }) : [],
+  ]);
+}
+
+export async function buildSchedule(config, items, { platformDetector, cache = {}, extraTitles = [], feeds = null } = {}) {
   const cfg = config.releases || {};
   const now = new Date();
   const todayIso = isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
@@ -226,25 +238,29 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
 
   const releases = [];
   const stats = {};
-
-  if (cfg.nintendo !== false) {
+  // どの取得に時間がかかっているかを stats に残す
+  const sec = (stats.sec = {});
+  const timed = async (name, fn) => {
+    const t = Date.now();
     try {
-      const list = await fetchNintendo({ limit: cfg.nintendoLimit ?? 300 });
-      releases.push(...list);
-      stats.nintendo = list.length;
-    } catch (e) {
-      stats.nintendo = `error: ${e.message}`;
-      log("schedule nintendo failed:", e.message);
+      return await fn();
+    } finally {
+      sec[name] = Math.round((Date.now() - t) / 100) / 10;
     }
-  }
-  if (cfg.steam !== false) {
-    try {
-      const list = await fetchSteam({ count: cfg.steamCount ?? 100 });
-      releases.push(...list);
-      stats.steam = list.length;
-    } catch (e) {
-      stats.steam = `error: ${e.message}`;
-      log("schedule steam failed:", e.message);
+  };
+
+  // 任天堂と Steam は収集結果に依存しないので、呼び出し側が先に始めた結果を受け取る（無ければここで取る）
+  const [nintendoRes, steamRes] = await timed("feeds", () => feeds || fetchScheduleFeeds(cfg));
+  for (const [name, res] of [
+    ["nintendo", nintendoRes],
+    ["steam", steamRes],
+  ]) {
+    if (res.status === "fulfilled") {
+      releases.push(...res.value);
+      stats[name] = res.value.length;
+    } else {
+      stats[name] = `error: ${res.reason?.message || res.reason}`;
+      log(`schedule ${name} failed:`, res.reason?.message || res.reason);
     }
   }
 
@@ -355,9 +371,13 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
       seenTitle.add(key);
       extras.push(x);
     }
-    const found = await searchTitles(
-      [...candidates.map((c) => c.title), ...extras.map((x) => x.title)],
-      { cache: appCache, delayMs: appCfg.delayMs ?? 3000, max: appCfg.maxPerRun ?? 30 }
+    const found = await timed("appstoreSearch", () =>
+      searchTitles([...candidates.map((c) => c.title), ...extras.map((x) => x.title)], {
+        cache: appCache,
+        delayMs: appCfg.delayMs ?? 1200,
+        max: appCfg.maxPerRun ?? 30,
+        missTtlHours: appCfg.missTtlHours ?? 336,
+      })
     );
     appStats.searched = candidates.length + extras.length;
     appStats.matched = found.size;

@@ -475,6 +475,43 @@ dd {
   backdrop-filter: blur(6px);
 }
 
+/* 前回の訪問より後に載ったサイト */
+.radar-new {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-family: var(--font-display);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  color: var(--on-grad);
+  background: var(--grad-fill);
+  box-shadow: 0 2px 10px rgba(124, 77, 238, .35);
+}
+
+.visit-diff {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: -18px 0 22px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-soft);
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.visit-diff strong {
+  font-family: var(--font-display);
+  font-size: 16px;
+  color: var(--violet);
+}
+
 .radar-body {
   padding: 12px 14px 14px;
 }

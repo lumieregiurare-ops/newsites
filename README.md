@@ -30,7 +30,7 @@
 | Steam | 公式 API `ISteamChartsService/GetMostPlayedGames` | 同時接続数の上位 10 件。順位の変動は API が返す先週の順位との比較。タイトル名と画像は `appdetails` から取得し `data/rankings-state.json` に記録（一度引いたら再取得しない） |
 | App Store | 日本のゲーム無料ランキング RSS | 上位 10 件。アプリページの URL は `entry.id.label` から取り（`entry.link` は配列なので注意）、アイコンは 100px 版の URL を 246px 版に置き換えて使います |
 
-**App Store の順位変動は本当の前日比です。** 収集は 1 日 3 回走るため、単純に前回と比べると朝と昼の差しか出ません。`data/rankings-state.json` に「今日の順位」と「比較の基準（前日の順位）」を分けて持ち、日付（日本時間）が変わったときだけ基準を繰り上げます。基準が無い初日は変動を出しません。
+**App Store の順位変動は本当の前日比です。** 収集は日中 2 時間おきに走るため、単純に前回と比べると数時間の差しか出ません。`data/rankings-state.json` に「今日の順位」と「比較の基準（前日の順位）」を分けて持ち、日付（日本時間）が変わったときだけ基準を繰り上げます。基準が無い初日は変動を出しません。
 
 順位が上がったものは緑、下がったものは赤、前日 100 位圏外から入ったものは「NEW」で表示します。設定は `config.json` の `rankings`。
 
@@ -69,7 +69,9 @@
 
 トップページでは、ニュースで報じられた作品 → 任天堂の予約受付中 → Steam 人気順の優先度で 14 件を選び、日付順に表示します。`/schedule/` では全件を月ごとに一覧し、情報源・機種で絞り込めます。設定は `config.json` の `releases`（`daysAhead` / `nintendoLimit` / `steamCount` / `maxUndated` / `historyDays` / `appstoreMatch`）。
 
-App Store の検索 API はレート制限が厳しいため、1 回の収集で最大 30 タイトル（`appstoreMatch.maxPerRun`）を 3 秒間隔で照会し、結果を `data/source-cache.json` に 72 時間キャッシュします。タイトルの状態（発売日・事前登録）も同ファイルに保存され、次回の収集で差分を取って更新履歴になります。**このキャッシュを消すと履歴がリセットされます。**
+App Store の検索 API はレート制限が厳しいため、1 回の収集で最大 60 タイトル（`appstoreMatch.maxPerRun`）を `appstoreMatch.delayMs`（既定 1.2 秒）間隔で照会します。待つのは**実際に問い合わせた直後だけ**で、キャッシュに当たった語や最後の 1 件の後では待ちません（以前は一律 3 秒待っていて、1 回の収集で数十秒を無駄にしていました）。429 が返ったときだけ待ち時間を倍にして次に進みます。
+
+検索結果は `data/schedule-state.json` の `appstoreSearch` に 72 時間キャッシュします。**見つからなかった語は `appstoreMatch.missTtlHours`（既定 336 時間 = 14 日）** と長めに覚えておきます。「App Store に無いタイトル」は次も無いことがほとんどで、72 時間ごとに引き直すと無駄な待ち時間になるためです。タイトルの状態（発売日・事前登録）も同じファイルに保存され、次回の収集で差分を取って更新履歴になります。**このファイルを消すと履歴がリセットされます。**
 
 ## ソースとビルド
 
@@ -83,17 +85,40 @@ npm start        # build してからローカルサーバー起動
 
 GitHub Actions では収集・デプロイのどちらのワークフローでも build を実行するので、`site/` を push すれば圧縮済みのファイルが公開されます。圧縮は「読みにくくする」効果しかなく、ブラウザで読める JS を完全に隠すことはできません。ソースそのものを見せたくない場合は、GitHub のリポジトリを Private にしてください（ロリポップへの FTP デプロイは Private でもそのまま動きます。GitHub Pages を使う場合は Private だと有料プランが必要です）。
 
+## 収集にかかる時間
+
+収集は 1 回あたり **10 秒前後**です。`data/last-run.json` の `timings` に各フェーズの秒数、`sources.*.sec` に収集元ごとの秒数が残るので、遅くなったときはそこを見てください。
+
+速くするために次のようにしています。
+
+- **収集結果に依存しない取得は先に始める**: note の記事・ランキング・事前登録一覧・任天堂／Steam の発売予定は、フィードの収集結果と関係がありません。`collect.mjs` の冒頭でまとめて開始し、必要になった場所で受け取ります。順番に待つと 10 秒近く損をします
+- **App Store 検索の待ち時間**: 実際に問い合わせた直後だけ待ちます（前述）
+- **Steam の発売予定**: 100 件ずつ 3 ページを同時に取ります
+- **画像の再圧縮を省く**: `docs/` 側の画像が `site/` 側より新しければビルドで作り直しません。ビルドの banner にも日付を入れません。どちらも「中身が変わっていないのに差分が出て、収集のたびに無駄なコミットと FTP アップロードが走る」のを防ぐためです
+
+`meta.concurrency`（OGP の同時取得数）と `meta.timeoutMs` は `config.json` で調整できます。応答の遅いサイトを長く待つより、短めに切って次回の収集で取り直すほうが全体は速く終わります。
+
 ## トップページの編集
 
 | ファイル | 内容 |
 | --- | --- |
 | `docs/data/site.json` | サイト名と X / note のリンク先（ヘッダーとフッターに出ます）。`note` にアカウント URL を入れると、収集時に note の公式 RSS（`note.com/<user>/rss`）から記事一覧を取り、トップの「note の記事」セクションに新しい順で 6 件表示します（タイトル・サムネイル・冒頭のみ。本文は転載しない）。データは `docs/data/notes.json` |
+| `site/index.html` | ヒーローの文言・About の本文（編集後に `npm run build`） |
+| `site/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
+
+### 新着ゲームサイトの並び（`site/assets/top.js`）
+
+トップの 8 枚は「**新着 5 件 + 直近 7 日からランダム 3 件**」です（`RADAR_NEWEST` / `ROTATE_DAYS`）。全件を新着順で切ると、次の収集が走るまで顔ぶれが変わらず、少し前に載ったサイトが誰の目にも触れないまま流れていくためです。先頭 5 件は新着順のままなので、最新のものを見に来た人の邪魔はしません。
+
+### NEW バッジと「新着 n 件」
+
+前回この端末で見た時刻を `localStorage`（キー `gamelab:visit`）に持ち、それ以降に載ったサイトへ NEW バッジを、Radar セクションの先頭に「新着 n 件」のバーを出します。**サーバーには何も送りません**し、保存できないブラウザ（プライベートモードなど）では単に何も出ません。
+
+基準の時刻は**30 分以上あいたときだけ繰り上げます**（`VISIT_GAP_MS`）。ページを開くたびに基準を「今」にすると、少し前に戻ってきただけで NEW が全部消えてしまうためです。
 
 ## サイト名について
 
 「GameLab Radar」を正式名称にしています。「GameLab」単独だと、ゲーム情報誌『ゲームラボ』（三才ブックス、現在も刊行中）やドコモ向けゲーム配信サービス「GAME LAB」と分野が重なり、混同のおそれがあるためです。表示名を変える場合は `docs/data/site.json` の `name` と、各 HTML の `<title>` / ロゴ / フッターを直してください（ドメインは変更不要です）。
-| `site/index.html` | ヒーローの文言・About の本文（編集後に `npm run build`） |
-| `site/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
 
 ## ロリポップへの公開
 
@@ -106,11 +131,11 @@ GitHub Actions では収集・デプロイのどちらのワークフローで�
 
 ## 機能
 
-- **自動収集（1日1回）**
+- **自動収集（日中は 2 時間おき）**
   - ゲームニュース: 4Gamer（総合 + PC）/ Game*Spark / Inside / GameBusiness.jp / 電ファミニコゲーマー（総合 + スマートフォンタグ）/ AppBank（ゲーム）/ Appliv Games の記事（発表・ティザー・周年・事前登録・配信開始など）にリンクされた公式サイト・特設サイト。公式サイトが無いスマホゲームは App Store / Google Play のページで代替。東京ゲームショウや CEDEC などイベントポータルへのリンクは、記事がそのイベント自体を扱っている場合を除き作品の公式サイトとして採用しません
   - AppBank / Appliv Games は 1 日あたり数件しか増えません。両媒体の記事の多くはランキング・攻略・まとめで、告知記事でも公式サイトへのリンクが無いものが大半のためです（2026-09 時点の実測: AppBank 40 件中 4 件、Appliv 10 件中 1 件が採用対象。しかもその多くは 4Gamer・電ファミと重複）
   - App Store（日本）: ゲームカテゴリのランキング（無料 / 有料 / セールス）のうち直近 45 日以内にリリースされたタイトル。公式サイト（開発元 URL）があればそちら、無ければ App Store ページ。`config.json` の `appstore.days` で期間を変更
-  - ニュース系フィードは直近 100 件程度しか持たないため、GitHub Actions は 1 日 3 回（JST 07:00 / 13:00 / 19:00）収集します
+  - ニュース系フィードは直近 100 件程度しか持たないため、GitHub Actions は JST 07/09/11/13/15/17/19/21 時の 2 時間おきに収集します（1 回あたり 10 秒前後）
   - 国内デザインギャラリー: MUUUUU.ORG / SANKOU! / I/O 3000 / Web Design Clip / 1guu / Responsive Web Design JP のうちゲーム関連のもの（エンタメ・ゲーム・特設サイト系カテゴリフィードも取得）
   - 4Gamer は RSS（100 件）に加えて HTML の一覧ページ（ニュース・スマホ・Switch・PC・事前登録情報）も読み、RSS に載らない記事を拾います。電ファミは総合に加え「スマートフォン」「事前登録」「新作」タグのフィードを読みます
   - 海外（Product Hunt / Hacker News / Launching Next / PitchWall / One Page Love / minimal.gallery）と国内デザインギャラリー 6 サイトは、ゲーム特化後は掲載への寄与がほぼ無かったため **既定で OFF** にしています（`sources.*` で再有効化可）。itch.io も OFF
@@ -162,7 +187,7 @@ npm start
 
 1. リポジトリを作成して push（`docs/` と `data/state.json` を含める）
 2. Settings → Pages → Source を **Deploy from a branch**、Branch を `main` / `/docs` に設定
-3. `.github/workflows/collect.yml` が毎日 JST 07:00 に収集して `docs/radar/data/sites.json` をコミットします（Actions の書き込み権限が必要: Settings → Actions → General → Workflow permissions → Read and write）
+3. `.github/workflows/collect.yml` が JST 07 時〜21 時の 2 時間おきに収集して `docs/radar/data/sites.json` をコミットします（Actions の書き込み権限が必要: Settings → Actions → General → Workflow permissions → Read and write）
 4. `config.json` の `site.contactUrl` に問い合わせ先（GitHub Issues の URL など）を入れると、フッターにリンクが出ます
 
 GitHub Actions の IP からは Product Hunt のリダイレクト解決（Cloudflare）が通らない可能性が高く、その場合 Product Hunt の項目は増えません。他の収集元は問題なく動きます。
