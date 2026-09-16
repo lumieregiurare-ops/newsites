@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T07:00:56.803Z",
+  "updatedAt": "2026-09-16T12:57:43.539Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "043f1f46a2f6",
+      "title": "クレイジー・クライマー",
+      "date": "2026-09-17",
+      "dateText": "2026年9月17日",
+      "sortKey": "2026-09-17",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.consolearchives.com/",
+      "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png",
+      "maker": "",
+      "headline": "落下物やゴリラを避けて超高層ビルを登れ。8ビット家庭用版「クレイジー・クライマー」がコンソールアーカイブスで9月17日に配信開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/043/G104339/20260916029/"
+    },
     {
       "id": "32c1a2f12fea",
       "title": "デイヴ・ザ・ダイバー",
@@ -118,51 +133,6 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "90e4f020a8f8",
-      "title": "Aetherfall (エーテルフォール)",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132017",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f2d6aeb286cb9f6f4fa6afd69f0de140af83e7cc11ba1911e18531f56dab2a4a.jpg",
-      "maker": "Revulo Games",
-      "genre": [
-        "アドベンチャー",
-        "アクション",
-        "パズル"
-      ],
-      "price": 999,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "e5e977d49ef9",
-      "title": "AKIBA LOST",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000114924",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2df8ddc218db28be3cbf4ab9427f0fb66a643ac537cb12e4285d07a779f90e2c.jpg",
-      "maker": "イザナギゲームズ",
-      "genre": [
-        "アドベンチャー"
-      ],
-      "price": 5500,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "1812ca9c3c70",
       "title": "Graveyard Keeper 2",
       "date": "2026-09-22",
@@ -231,6 +201,21 @@
       "headline": "「くにおくんのサバイバーズ・オブ・ザ・デッド」，Apple Arcade専用タイトルとして10月1日にリリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/040/G104079/20260909033/"
+    },
+    {
+      "id": "a0f94f58538d",
+      "title": "ツーポイントミュージアム",
+      "date": "2026-10-08",
+      "dateText": "2026年10月8日",
+      "sortKey": "2026-10-08",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://two-point-museum.sega.jp/index.html/",
+      "image": "",
+      "maker": "",
+      "headline": "「ツーポイントミュージアム」，DLC第4弾「ユーエンチアム」を10月8日にリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/828/G082821/20260916037/"
     },
     {
       "id": "969280732f1c",
@@ -466,6 +451,39 @@
   ],
   "changes": [
     {
+      "at": "2026-09-16T12:57:43.539Z",
+      "type": "new",
+      "label": "新規",
+      "title": "歴史の終わり",
+      "url": "https://end-of-history.worldmap-game.com/",
+      "image": "https://end-of-history.worldmap-game.com/images/ogp_ja.jpg",
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "to": "2027年第1四半期"
+    },
+    {
+      "at": "2026-09-16T12:57:43.539Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ツーポイントミュージアム",
+      "url": "https://two-point-museum.sega.jp/index.html/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年10月8日"
+    },
+    {
+      "at": "2026-09-16T12:57:43.539Z",
+      "type": "new",
+      "label": "新規",
+      "title": "クレイジー・クライマー",
+      "url": "https://www.consolearchives.com/",
+      "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png",
+      "platforms": [],
+      "to": "2026年9月17日"
+    },
+    {
       "at": "2026-09-16T02:16:46.170Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -501,41 +519,6 @@
         "switch"
       ],
       "to": "2027年1月14日"
-    },
-    {
-      "at": "2026-09-15T14:35:50.041Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "サイマジック 魔法世界のバグ、科学で直します！",
-      "url": "https://g123.jp/game/scimagic/?lang=ja",
-      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/861ca52f6c58063932316cad66aa4fd1cd638e65d4d4537ca4f98892.png",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-09-15T14:35:50.041Z",
-      "type": "new",
-      "label": "新規",
-      "title": "PowerWash Simulator 2",
-      "url": "https://www.futurlab.co.uk/games/powerwash-simulator-2/",
-      "image": "https://www.futurlab.co.uk/media/hs5grick/pws2-main-keyart-1920x1080.png",
-      "platforms": [],
-      "to": "2026年内"
-    },
-    {
-      "at": "2026-09-15T14:35:50.041Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Minecraft Dungeons II ソウル パック",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000073240",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9e334edcd40a875a9f40b2fe0e68402e63e339b36665c1562e36d3d13c84bca6.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年9月29日"
     }
   ]
 }

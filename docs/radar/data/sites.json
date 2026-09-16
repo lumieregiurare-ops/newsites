@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T07:00:43.649Z",
+  "updatedAt": "2026-09-16T12:57:30.156Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 185,
+  "total": 196,
   "regions": {
-    "jp": 165,
+    "jp": 176,
     "global": 20
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 20
+      "count": 21
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 50
+      "count": 55
     },
     {
       "id": "indie",
@@ -60,17 +60,17 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 45
+      "count": 48
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 31
+      "count": 32
     }
   ],
   "platforms": [
@@ -87,12 +87,12 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 5
+      "count": 7
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 1
+      "count": 3
     },
     {
       "id": "pc",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 75
+      "count": 80
     },
     {
       "id": "browser",
@@ -124,9 +124,9 @@
     "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
+    "AppBank",
     "Game*Spark",
     "Inside",
-    "AppBank",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
@@ -165,6 +165,271 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+    },
+    {
+      "id": "8357ee614c87",
+      "url": "https://puyopuyoquest.sega-net.com/",
+      "host": "puyopuyoquest.sega-net.com",
+      "region": "jp",
+      "title": "ぷよぷよ!!クエスト",
+      "headline": "「ぷよぷよ!!クエスト」，どっさり！秋のだいまんぞくキャンペーンが開始",
+      "description": "【ぷよクエ】ひとりでも、友達とでも、いつでも楽しく遊べる！連鎖の爽快感のトリコになるはず♪",
+      "publishedAt": "2026-09-16T12:50:29.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/202/G020261/20260916049/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://puyopuyoquest.sega-net.com/assets/images/common/facebook.png"
+    },
+    {
+      "id": "6d3add28d975",
+      "url": "https://stranger-than-heaven.com/",
+      "host": "stranger-than-heaven.com",
+      "region": "jp",
+      "title": "ストレンジャー ザン ヘヴン",
+      "headline": "『ストレンジャー ザン ヘヴン』福岡・小倉で楽しめる遊びが公開。路面電車に乗ったり、腕相撲や“物騒な度胸試し”に挑んだりできる",
+      "description": "5つの時代、5つの街で生きた男たちの壮絶な闘いの記録 RGGスタジオが贈る完全新作『STRANGER THAN HEAVEN』",
+      "publishedAt": "2026-09-16T12:31:16.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609163m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://stranger-than-heaven.com/ogp.jpg"
+    },
+    {
+      "id": "6507207c046c",
+      "url": "http://sakatsuku-rtw.sega.com/",
+      "host": "sakatsuku-rtw.sega.com",
+      "region": "jp",
+      "title": "サカつくRTW",
+      "headline": "「サカつくRTW」，モドリッチやレオンらイタリア強豪クラブのスーパースターが登場する“FEVER STAR FES”を開催",
+      "description": "『サカつく』シリーズ スマートフォン版 完全新作 『プロサッカークラブをつくろう！ロード・トゥ・ワールド』好評配信中！",
+      "publishedAt": "2026-09-16T12:24:51.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/402/G040221/20260916048/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sakatsuku-rtw.sega.com/assets/images/twcard.png"
+    },
+    {
+      "id": "ba71ae8ff7c8",
+      "url": "https://two-point-museum.sega.jp/index.html/",
+      "host": "two-point-museum.sega.jp",
+      "region": "jp",
+      "title": "ツーポイントミュージアム",
+      "headline": "「ツーポイントミュージアム」，DLC第4弾「ユーエンチアム」を10月8日にリリース",
+      "description": "「ツーポイントミュージアム」，DLC第4弾「ユーエンチアム」を10月8日にリリース",
+      "publishedAt": "2026-09-16T10:37:38.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/828/G082821/20260916037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "076f3c9b0f1a",
+      "url": "https://end-of-history.worldmap-game.com/",
+      "host": "end-of-history.worldmap-game.com",
+      "region": "jp",
+      "title": "歴史の終わり",
+      "headline": "サンドボックス型ストラテジーRPG「歴史の終わり」，2027年第1四半期にPlayStation 5，XBOX Series X|Sでリリース",
+      "description": "『歴史の終わり』は、中世風の世界を舞台にしたサンドボックス型ストラテジーRPGです。主人公であるあなたは、ある日育ての親の元を離れ、無名の浪人として世界を旅することとなります。多数のNPCの思惑が絡み合い、協力や裏切りが交錯する世界で、あ…",
+      "publishedAt": "2026-09-16T10:08:42.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104353/20260916033/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://end-of-history.worldmap-game.com/images/ogp_ja.jpg"
+    },
+    {
+      "id": "9d576ebe30b7",
+      "url": "https://projectmotorracing.sega.jp/",
+      "host": "projectmotorracing.sega.jp",
+      "region": "jp",
+      "title": "Project Motor Racing",
+      "headline": "「Project Motor Racing」，DLC「V8 Power Pack」配信開始。V8マシンがRoad Atlantaを駆けるローンチトレイラーも公開",
+      "description": "好評発売中『Project Motor Racing（プロジェクトモーターレーシング）』https://projectmotorracing.sega.jp最高を追求する本格派レーシングシミュレーターPlayStation®5/Xbox …",
+      "publishedAt": "2026-09-16T10:01:04.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/831/G083189/20260916031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://projectmotorracing.sega.jp/assets/images/common/ogp/ogp.jpg"
+    },
+    {
+      "id": "4a66144fb31e",
+      "url": "https://www.consolearchives.com/",
+      "host": "consolearchives.com",
+      "region": "jp",
+      "title": "クレイジー・クライマー",
+      "headline": "落下物やゴリラを避けて超高層ビルを登れ。8ビット家庭用版「クレイジー・クライマー」がコンソールアーカイブスで9月17日に配信開始",
+      "description": "About コンソールアーカイブスとは？ 「コンソールアーカイブス（コンアカ）」シリーズは、様々な家庭用ゲーム",
+      "publishedAt": "2026-09-16T10:00:00.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104339/20260916029/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png"
+    },
+    {
+      "id": "e11d46845a5f",
+      "url": "https://trainsimworld.com/jp/",
+      "host": "trainsimworld.com",
+      "region": "jp",
+      "title": "Train Sim World 7",
+      "headline": "シリーズ史上最大規模！ 鉄道シミュレーション最新作『Train Sim World 7』が発売",
+      "description": "シリーズ史上最大規模！ 鉄道シミュレーション最新作『Train Sim World 7』が発売",
+      "publishedAt": "2026-09-16T09:50:00.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/16/game/3106616.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "870d978d05ef",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "エバーナイト：リバース",
+      "headline": "LONGSIN GAME / ロールプレイング · App Store 新着",
+      "description": "LONGSIN GAMEの「エバーナイト：リバース」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「エバーナイト：リバース」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/5e/7b/4e5e7b99-c4c7-e08c-4843-01ab0d3363d4/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3cc038c5890f",
@@ -461,6 +726,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/16/187807.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172364.html"
         }
       ],
       "tags": [
@@ -664,6 +933,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/16/172336.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/918/G091819/20260916042/"
         }
       ],
       "tags": [
@@ -790,6 +1063,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/16/172327.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104352/20260916027/"
         }
       ],
       "tags": [
@@ -1441,6 +1718,39 @@
       "platforms": [],
       "points": null,
       "image": "https://www.pokemonsleep.net/pokeball-hotel/assets/img/ogp.jpg"
+    },
+    {
+      "id": "aa47cd43f766",
+      "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%B3%E3%83%96%E3%83%B3%E4%BC%9D%E8%AA%AC/id6811043476",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ブンブン伝説",
+      "headline": "KOU NAKAGOMI / シミュレーション・ミュージック · App Store 新着",
+      "description": "KOU NAKAGOMIの「ブンブン伝説」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブンブン伝説」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%B3%E3%83%96%E3%83%B3%E4%BC%9D%E8%AA%AC/id6811043476"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "ミュージック"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/5e/7e/725e7eb6-6e5f-10a8-28be-918f478f5528/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "f2c4c7cb70f1",
@@ -5483,6 +5793,39 @@
       ],
       "points": null,
       "image": "https://app.commseed.net/asset/img/ogp.jpg"
+    },
+    {
+      "id": "86f7dfe7a544",
+      "url": "https://appoolfactory.github.io/pocketrumble-support/",
+      "host": "appoolfactory.github.io",
+      "region": "jp",
+      "title": "Pocket Rumble 〜 軍勢リアルタイムバトル",
+      "headline": "HIROYUKI KANNARI / ロールプレイング・シミュレーション · App Store 新着",
+      "description": "HIROYUKI KANNARI / ロールプレイング・シミュレーション · App Store 新着",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "addedAt": "2026-09-16T12:57:30.156Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/pocket-rumble-%E8%BB%8D%E5%8B%A2%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%90%E3%83%88%E3%83%AB/id6780263761"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "ccbcbb12104b",
