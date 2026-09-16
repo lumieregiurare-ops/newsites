@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-16T02:16:30.371Z",
+  "updatedAt": "2026-09-16T07:00:43.649Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 171,
+  "total": 185,
   "regions": {
-    "jp": 153,
-    "global": 18
+    "jp": 165,
+    "global": 20
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 3
+      "count": 5
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 33
+      "count": 34
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 19
+      "count": 21
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 19
+      "count": 20
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 37
+      "count": 44
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 45
+      "count": 50
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 27
+      "count": 31
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 26
+      "count": 28
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 74
+      "count": 75
     },
     {
       "id": "browser",
@@ -123,10 +123,10 @@
   "sources": [
     "App Store",
     "4Gamer",
-    "Game*Spark",
     "電ファミニコゲーマー",
-    "AppBank",
+    "Game*Spark",
     "Inside",
+    "AppBank",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
@@ -165,6 +165,402 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+    },
+    {
+      "id": "3cc038c5890f",
+      "url": "https://www.snk-corp.co.jp/official/metalslug_ultimate_collection/",
+      "host": "snk-corp.co.jp",
+      "region": "jp",
+      "title": "METAL SLUG",
+      "headline": "「METAL SLUG」30周年を振り返る。「METAL SLUG ULTIMATE COLLECTION」の実機プレイも披露する記念ステージをTGS 2026で開催",
+      "description": "METAL SLUG ULTIMATE COLLECTION 公式サイト",
+      "publishedAt": "2026-09-16T06:00:00.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104111/20260915026/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.snk-corp.co.jp/official/metalslug_ultimate_collection/img/common/ogp.jpg"
+    },
+    {
+      "id": "f97778f116d1",
+      "url": "https://one-or-eight.co.jp/WRT/",
+      "host": "one-or-eight.co.jp",
+      "region": "jp",
+      "title": "ワロタ、俺の家のとなり魔王城www",
+      "headline": "「魔王城の隣」で村づくりするアクションRPG『ワロタ、俺の家のとなり魔王城www』早期アクセス版が11月13日に配信決定。TGS2026では実機試遊も",
+      "description": "2026年11月13日にアーリーアクセスを開始する「ワロタ、俺の家のとなり魔王城www」のオフィシャルサイト。ゲーム情報などを紹介しています。",
+      "publishedAt": "2026-09-16T04:40:06.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609162m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://one-or-eight.co.jp/img/logo.svg"
+    },
+    {
+      "id": "69321704808a",
+      "url": "https://aion2.ncsoft.jp/",
+      "host": "aion2.ncsoft.jp",
+      "region": "jp",
+      "title": "AION2",
+      "headline": "「AION2」のグローバル版をプレイできる「Launch Scale Test」，9月17日より開催。東京ゲームショウ2026で試遊も可能",
+      "description": "AION2グローバル公式特設サイトで事前登録受付中。2026年9月サービス開始予定の新作PCゲーム・クロスワールドMMORPG。Steam版もリリース決定。自由な飛行探索とキャラクターカスタマイズで、広大な世界を冒険しよう。",
+      "publishedAt": "2026-09-16T04:35:23.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/440/G044032/20260916013/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://st.ncjapan.co.jp/ncjapan/ncsoft/aion2/official/ogp.jpg"
+    },
+    {
+      "id": "90a0d099f168",
+      "url": "https://www.kemuriworld.com/",
+      "host": "kemuriworld.com",
+      "region": "global",
+      "title": "KEMURI",
+      "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
+      "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
+      "publishedAt": "2026-09-16T04:13:48.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609162l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/653f29fedc9e247d28b6b090/t/6572777bcb35404b1f450a51/1750037604924/KEMURI_BANNER.jpg?format=1500w"
+    },
+    {
+      "id": "422536554534",
+      "url": "https://www.dospara.co.jp/gamepc/cts-tgs2026.html/",
+      "host": "dospara.co.jp",
+      "region": "jp",
+      "title": "【TGS2026】5年連続出展の重鎮・GALLERIA",
+      "headline": "【TGS2026】5年連続出展の重鎮・GALLERIA。ハイパフォーマンスPCを体験できるアクティビティ＆豪華出展情報が発表！",
+      "description": "東京ゲームショウ2026 GALLERIAブース出展特設ページ。ブース詳細、ステージイベント、豪華ゲスト、限定キャンペーン、来場者特典などを総まとめ。",
+      "publishedAt": "2026-09-16T04:00:04.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172347.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "2202d6b8e422",
+      "url": "https://www.404shibuya.tokyo/",
+      "host": "404shibuya.tokyo",
+      "region": "jp",
+      "title": "Berlin meets Tokyo at 404 Not Found",
+      "headline": "ベルリン / ブランデンブルクのゲーム業界と日本のクリエイターをつなぐ交流イベント「Berlin meets Tokyo at 404 Not Found」が渋谷で開催",
+      "description": "「404 Not Found」は、渋谷のど真ん中にある「空き地」から、新たなあそびを巻き起こすための「運動体」。シブヤの空き地でなにして、あそぶ？",
+      "publishedAt": "2026-09-16T03:42:40.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999104/20260916005/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.404shibuya.tokyo/wp-content/themes/404shibuya/ogp.png?timestamp=20240906"
+    },
+    {
+      "id": "51b4d6887a9a",
+      "url": "https://t.co/qEaENCtWIX/",
+      "host": "t.co",
+      "region": "jp",
+      "title": "アイドルマスター シンデレラガールズ",
+      "headline": "『アイドルマスター シンデレラガールズ』単独オーケストラコンサートが開催決定！2027年1月11日・12日にパシフィコ横浜 国立大ホールにて",
+      "description": "『アイドルマスター シンデレラガールズ』単独オーケストラコンサートが開催決定！2027年1月11日・12日にパシフィコ横浜 国立大ホールにて",
+      "publishedAt": "2026-09-16T03:04:44.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609162f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fd90953a6323",
+      "url": "https://wl-kz.com/superfroppings/",
+      "host": "wl-kz.com",
+      "region": "jp",
+      "title": "スーパーフロッピンズ",
+      "headline": "カエルとなってジャンプで上を目指し続けるレトロ風ゲーム『スーパーフロッピンズ』デモ版が9月16日公開。体験版ではソロ・2人・最大8人の3つのゲームモードが遊べる",
+      "description": "仁義なきサバイバル ジャンプカエルアクション",
+      "publishedAt": "2026-09-16T03:00:58.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260916d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wl-kz.com/superfroppings/img/logo_jp.png"
+    },
+    {
+      "id": "60c3e156dcdd",
+      "url": "https://mtg-jp.com/reading/publicity/0039610/",
+      "host": "mtg-jp.com",
+      "region": "jp",
+      "title": "マジック：ザ・ギャザリング｜リアリティ・フラクチャー",
+      "headline": "『マジック：ザ・ギャザリング｜リアリティ・フラクチャー』より《導きのハイドラ》ほか2枚を電ファミより世界最速公開！《ウロボロイド》を彷彿とさせる全体強化能力を持ち、Xコストに応じ…",
+      "description": "世界中で５千万人を超えるプレイヤーとファンを持つ世界最高の戦略トレーディングカードゲーム、マジック：ザ・ギャザリングの日本公式ウェブサイト。",
+      "publishedAt": "2026-09-16T03:00:21.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/260916m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mtg-jp.com/assets/images/common/og-image-20260908.png"
+    },
+    {
+      "id": "509374da7b69",
+      "url": "https://www.blastbladegame.com/",
+      "host": "blastbladegame.com",
+      "region": "global",
+      "title": "Blast Blade",
+      "headline": "【最大4人】相手をステージの外に吹き飛ばす3D格闘ゲーム『Blast Blade』がTGS2026に出展。最新のデモ版が初公開へ",
+      "description": "At Silent Bark Games, we embrace the unknown to create experiences that are both original and engaging. Our games might…",
+      "publishedAt": "2026-09-16T03:00:09.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260916j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://framerusercontent.com/images/snOFOiK80HPB3C3pEXNuvobxCs.jpg"
+    },
+    {
+      "id": "414bfa6a8fc2",
+      "url": "https://ninjalathegame.com/jp/",
+      "host": "ninjalathegame.com",
+      "region": "jp",
+      "title": "ニンジャラ２ 未知なる惑星",
+      "headline": "『ニンジャラ２ 未知なる惑星』はなぜPvEオープンワールドへ舵を切ったのか？ 前編・後編に分けた理由や協力プレイの魅力に迫る、金田元貴ディレクターにインタビュー",
+      "description": "ニンジャ×ガム！オンライン対戦のアクションゲーム！シノビの力を引き出す「ニンジャガム」を使い、様々なアクションでニンジャバトルをくり広げよう！",
+      "publishedAt": "2026-09-16T03:00:03.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/16/187807.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ninjalathegame.com/_materials/img/og-jp.jpg"
+    },
+    {
+      "id": "a32b80823eb9",
+      "url": "https://puppetsunsun.com/blogs/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E3%83%91%E3%83%9A%E3%83%83%E3%83%88%E3%82%B9%E3%83%B3%E3%82%B9%E3%83%B3-%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E3%81%8C%E7%99%BA%E5%A3%B2%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99/",
+      "host": "puppetsunsun.com",
+      "region": "jp",
+      "title": "パペットスンスン",
+      "headline": "『パペットスンスン』初のガイドブックが発売決定！初公開の情報やスンスンたちの撮り下ろしグラビアページも収録、ふわあっ",
+      "description": "初となるガイドブック『パペットスンスン ガイドブック』が11月11日に発売されます。 スンスンをはじめとするキャラクターたちの紹介、〈トゥーホック〉に伝わる神話や地図など、本書初公開となる情報を多数収録。 さらに、本書オリジナルの撮り…",
+      "publishedAt": "2026-09-16T02:35:59.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260916p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://puppetsunsun.com/cdn/shop/articles/V4_260915_PS_release_7726abbe-94e4-4501-9160-096533e2a240.png?v=1789514805"
+    },
+    {
+      "id": "c2b2167bcbf9",
+      "url": "https://nikke-jp.com/events/nikkeinkyoto2nd/",
+      "host": "nikke-jp.com",
+      "region": "jp",
+      "title": "勝利の女神：NIKKE",
+      "headline": "世界に一着、京友禅で再現した「アニス：スター」の着物を伊織もえさんが披露。『勝利の女神：NIKKE』の「NIKKE in 京都 第2弾」発表会をレポート。村上奈津実さん演じるアル…",
+      "description": "再び京都へ！ニケたちとともに、謎を解きながら秋の京都を巡り、街に隠された物語を見つけよう！ #NIKKEin京都",
+      "publishedAt": "2026-09-16T02:30:36.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/260916a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nikke-jp.com/events/nikkeinkyoto2nd/img/share1.jpg?v=2.0"
+    },
+    {
+      "id": "a62f40d45fb3",
+      "url": "https://apps.apple.com/jp/app/ares-the-iron-vanguard/id6755576582",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ARES: THE IRON VANGUARD",
+      "headline": "Com2uS Holdings新作『ARES: THE IRON VANGUARD』が配信開始！ リリース記念イベントも開催",
+      "description": "Com2uS Holdingsの「ARES: THE IRON VANGUARD」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ARES: THE IRON VANGUARD」に似た…",
+      "publishedAt": "2026-09-16T02:30:00.000Z",
+      "addedAt": "2026-09-16T07:00:43.649Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/16/game/3105749.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "anniversary"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/50/3a/47503a66-4406-449b-8692-8f466073050a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "1c0abaa737ab",
@@ -328,6 +724,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/014/G101429/20260915035/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609163l"
         }
       ],
       "tags": [
@@ -417,6 +817,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/16/187790.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/09/16/28067.html"
         }
       ],
       "tags": [
