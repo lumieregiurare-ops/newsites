@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-15T23:58:33.508Z",
+  "updatedAt": "2026-09-16T01:09:05.754Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 165,
+  "total": 167,
   "regions": {
-    "jp": 147,
+    "jp": 149,
     "global": 18
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 40
+      "count": 41
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 18
+      "count": 19
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 26
+      "count": 27
     }
   ],
   "platforms": [
@@ -122,11 +122,11 @@
   ],
   "sources": [
     "App Store",
-    "AppBank",
     "Game*Spark",
+    "4Gamer",
+    "AppBank",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
@@ -165,6 +165,60 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+    },
+    {
+      "id": "dca3cfb20f36",
+      "url": "https://ghelix.ggame.jp/",
+      "host": "ghelix.ggame.jp",
+      "region": "jp",
+      "title": "GUNDAM ROGUE ORBIT",
+      "headline": "世界中の誰もがガンダムを知るきっかけになれればー新作ACT『GUNDAM ROGUE ORBIT』インタビュー",
+      "description": "「GUNDAM ROGUE ORBIT」の公式サイトです。",
+      "publishedAt": "2026-09-16T01:00:03.000Z",
+      "addedAt": "2026-09-16T01:01:40.112Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/16/172331.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ghelix.ggame.jp/ogp.png"
+    },
+    {
+      "id": "d4a39a150162",
+      "url": "https://teamninja-studio.com/wolong2/jp/",
+      "host": "teamninja-studio.com",
+      "region": "jp",
+      "title": "Wo Long 2: Wings of Ember",
+      "headline": "［プレイレポ］「Wo Long 2: Wings of Ember」α体験版インプレッション。広大な戦場を駆けるオープンワールド的探索と，武将配置の戦略性が融合した新たなダーク三…",
+      "description": "尽きぬ戦火に、鳳凰が舞う。「三国志」を舞台にした死闘、再び。鳳凰の力を宿した主人公が切り拓く、新たな物語。",
+      "publishedAt": "2026-09-16T01:00:00.000Z",
+      "addedAt": "2026-09-16T01:01:40.112Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/014/G101429/20260915035/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://teamninja-studio.com/wolong2/assets/img/og_teaser_0608.jpg"
     },
     {
       "id": "ba866b6d4eb4",
@@ -384,7 +438,7 @@
       "region": "jp",
       "title": "ポケカ",
       "headline": "メルカリが『ポケカ』30周年記念商品を出品禁止へ―違反者には削除対応や、アカウントの利用制限など厳格に対処",
-      "description": "メルカリが『ポケカ』30周年記念商品を出品禁止へ―違反者には削除対応や、アカウントの利用制限など厳格に対処",
+      "description": "株式会社メルカリは「あらゆる価値を循環させ、あらゆる人の可能性を広げる」のグループミッションのもと、テクノロジーの力で世界中の人々をつなぎ、あらゆる人の可能性が発揮される世界を実現していきます。",
       "publishedAt": "2026-09-15T12:15:03.000Z",
       "addedAt": "2026-09-15T14:35:34.694Z",
       "source": "Game*Spark",
@@ -407,11 +461,12 @@
         "周年"
       ],
       "categories": [
-        "anniversary"
+        "anniversary",
+        "company"
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://about.mercari.com/ogimage.png"
     },
     {
       "id": "88dccaf65646",
@@ -1773,11 +1828,12 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
-        "event",
-        "campaign"
+        "campaign",
+        "event"
       ],
       "platforms": [],
       "points": null,
