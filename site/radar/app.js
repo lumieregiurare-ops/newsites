@@ -152,8 +152,6 @@
     set("total", data.total ?? data.items.length);
     set("jp", data.regions?.jp ?? data.items.filter((i) => i.region === "jp").length);
     set("week", data.items.filter((i) => new Date(i.addedAt).getTime() > week).length);
-    const u = new Date(data.updatedAt);
-    set("updated", `${u.getMonth() + 1}/${u.getDate()}<small> ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}</small>`);
   }
 
   function renderCategories() {

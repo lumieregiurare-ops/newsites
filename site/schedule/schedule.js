@@ -281,8 +281,6 @@
     try {
       const r = await fetch(`../data/schedule.json?t=${Math.floor(Date.now() / 600000)}`);
       sched = await r.json();
-      const u = new Date(sched.updatedAt);
-      $("#scheduleUpdated").textContent = ` 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
       renderFilters();
       renderReleases();
       renderPrereg();

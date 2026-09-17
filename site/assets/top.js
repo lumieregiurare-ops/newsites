@@ -110,9 +110,6 @@
       const el = $(`#${id}`);
       if (el) el.textContent = v;
     }
-    const u = new Date(data.updatedAt);
-    $("#radarUpdated").textContent = `最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
-
     grid.innerHTML = "";
     for (const it of items) grid.appendChild(makeRadarCard(it, labelOf));
   }
@@ -393,8 +390,6 @@
       renderSchedule(sched);
       renderPrereg(sched);
       renderChanges(sched);
-      const u = new Date(sched.updatedAt);
-      $("#scheduleUpdated").textContent = `最終更新 ${u.getMonth() + 1}/${u.getDate()}`;
     } catch {
       $("#scheduleList").innerHTML = `<div class="sched-empty">スケジュールを読み込めませんでした。</div>`;
       $("#preregGrid").innerHTML = "";
@@ -426,8 +421,6 @@
       const boards = data?.boards || [];
       if (!boards.length) return;
       $("#ranking").hidden = false;
-      const u = new Date(data.updatedAt);
-      $("#rankingUpdated").textContent = ` 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
 
       const tabs = $("#rankTabs");
       const list = $("#rankList");
