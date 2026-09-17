@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T14:33:21.785Z",
+  "updatedAt": "2026-09-17T23:48:49.615Z",
   "platforms": [
     {
       "id": "switch",
@@ -105,6 +105,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p",
       "announcedText": "2026年9月24日",
       "dateSource": "appstore"
+    },
+    {
+      "id": "3db719ab1dad",
+      "title": "CONTROL Resonant",
+      "date": "2026-09-24",
+      "dateText": "2026年9月24日",
+      "sortKey": "2026-09-24",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.remedygames.com/games/control-2/",
+      "image": "",
+      "maker": "",
+      "headline": "明解な結末は作らない。9月24日のリリースが迫る「CONTROL Resonant」インタビュー［TGS2026］",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/668/G066881/20260917087/"
     },
     {
       "id": "ff997bd30a22",
@@ -250,23 +265,6 @@
       "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
-    },
-    {
-      "id": "ce2a827c6bbc",
-      "title": "大穢",
-      "date": "2026-12-24",
-      "dateText": "2026年12月24日",
-      "sortKey": "2026-12-24",
-      "priority": 0,
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://dramaticcreate.com/owen/",
-      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
-      "maker": "",
-      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
     }
   ],
   "prereg": [
@@ -447,6 +445,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-17T23:48:49.615Z",
+      "type": "new",
+      "label": "新規",
+      "title": "CONTROL Resonant",
+      "url": "https://www.remedygames.com/games/control-2/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年9月24日"
+    },
+    {
       "at": "2026-09-17T14:33:21.785Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -504,18 +512,6 @@
       "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7910b85c2a73e192/backgroundarea/i4ea96b0d59297375/version/1783838184/image.png",
       "platforms": [],
       "to": "2026年10月14日"
-    },
-    {
-      "at": "2026-09-17T09:02:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "イケアがXBOXとコラボした家具を10月1日より順次発売",
-      "url": "https://ikea.jp/",
-      "image": "",
-      "platforms": [
-        "xbox"
-      ],
-      "to": "2026年10月1日"
     }
   ]
 }

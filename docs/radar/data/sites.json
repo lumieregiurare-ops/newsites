@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-17T14:33:05.442Z",
+  "updatedAt": "2026-09-17T23:48:36.427Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 248,
+  "total": 253,
   "regions": {
-    "jp": 228,
-    "global": 20
+    "jp": 231,
+    "global": 22
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 40
+      "count": 41
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 30
+      "count": 31
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 74
+      "count": 76
     },
     {
       "id": "indie",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 57
+      "count": 59
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 44
+      "count": 45
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 93
+      "count": 94
     },
     {
       "id": "browser",
@@ -121,11 +121,11 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
-    "AppBank",
-    "Game*Spark",
     "App Store",
+    "電ファミニコゲーマー",
+    "Game*Spark",
+    "4Gamer",
+    "AppBank",
     "Inside",
     "Appliv Games",
     "Hacker News",
@@ -133,6 +133,149 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2330a26eadfb",
+      "url": "https://handy-games.com/games/disney-epic-mikey-rebrushed/",
+      "host": "handy-games.com",
+      "region": "global",
+      "title": "Disney Epic Mickey: Rebrushed",
+      "headline": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
+      "description": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
+      "publishedAt": "2026-09-17T23:48:45.409Z",
+      "addedAt": "2026-09-17T23:48:36.427Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/disney-epic-mickey-rebrushed/id6780501808"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "6e56ea9c0668",
+      "url": "https://starblazers-yamato.net/",
+      "host": "starblazers-yamato.net",
+      "region": "jp",
+      "title": "ヤマトよ永遠に REBEL3199 第七章 虹色の輪廻",
+      "headline": "映画『ヤマトよ永遠に REBEL3199 第七章 虹色の輪廻』メインビジュアルと本予告が公開。キャラクターデザイン・結城信輝氏による描き下ろし",
+      "description": "“たとえ、すべてが偽りでも─ 想いは、永遠に。”シリーズ最新作『ヤマトよ永遠に REBEL3199』第七章 虹色の輪廻 2026年10月30日（金）上映開始！",
+      "publishedAt": "2026-09-17T22:00:44.000Z",
+      "addedAt": "2026-09-17T23:48:36.427Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://starblazers-yamato.net/img/3199_ch7_v2.png"
+    },
+    {
+      "id": "8f9cd8328195",
+      "url": "https://www.rockstargames.com/VI/music/",
+      "host": "rockstargames.com",
+      "region": "jp",
+      "title": "GTA6",
+      "headline": "『GTA6』サウンドトラックがゲームと同日リリース決定！うち6曲の先行配信も開始",
+      "description": "今後登場する34トラックの公式サウンドトラックアルバムから、6曲のシングルを聴こう。只今プリセーブとプレオーダー受付中。",
+      "publishedAt": "2026-09-17T15:57:50.000Z",
+      "addedAt": "2026-09-17T23:48:36.427Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172441.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg"
+    },
+    {
+      "id": "afe1aeb5d224",
+      "url": "http://www.topre.co.jp/products/elec/keyboards/",
+      "host": "topre.co.jp",
+      "region": "jp",
+      "title": "REALFORCE",
+      "headline": "東プレのキーボード「REALFORCE」にピカチュウを描いたコラボモデルが登場。2026年12月下旬予約開始［TGS2026］",
+      "description": "東プレのキーボード「REALFORCE」にピカチュウを描いたコラボモデルが登場。2026年12月下旬予約開始［TGS2026］",
+      "publishedAt": "2026-09-17T15:38:51.000Z",
+      "addedAt": "2026-09-17T23:48:36.427Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/317/G031703/20260918006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fabd6a1df6f3",
+      "url": "https://www.remedygames.com/games/control-2/",
+      "host": "remedygames.com",
+      "region": "global",
+      "title": "CONTROL Resonant",
+      "headline": "明解な結末は作らない。9月24日のリリースが迫る「CONTROL Resonant」インタビュー［TGS2026］",
+      "description": "CONTROL Resonant is the highly-anticipated sequel to critically acclaimed, multi-award-winning CONTROL.",
+      "publishedAt": "2026-09-17T15:08:28.000Z",
+      "addedAt": "2026-09-17T23:48:36.427Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/668/G066881/20260917087/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "04ccab5cdbe0",
       "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
@@ -1236,6 +1379,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/17/172398.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/09/18/28088.html"
         }
       ],
       "tags": [
@@ -1546,6 +1693,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260917q"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/09/18/28090.html"
         }
       ],
       "tags": [
@@ -2733,6 +2884,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/043/G104352/20260916027/"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/18/game/3107123.php"
         }
       ],
       "tags": [
