@@ -1105,7 +1105,7 @@ dd {
 
 .footer-inner {
   display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
+  grid-template-columns: 1.3fr 1fr 1fr 1fr;
   gap: 32px;
   align-items: start;
   padding: 48px 24px 32px;
@@ -1129,6 +1129,15 @@ dd {
 
 .footer-nav a:hover {
   color: var(--text);
+}
+
+.footer-nav-label {
+  font-size: 11px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  opacity: .7;
+  margin-bottom: 2px;
 }
 
 .footer-social {
