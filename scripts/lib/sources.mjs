@@ -595,7 +595,9 @@ export async function fetchAppStore({ limit = 100, days = 45 } = {}) {
         url: seller || storeUrl,
         title: r.trackName,
         description: truncate(`${r.artistName || ""} / ${(r.genres || []).filter((g) => g !== "ゲーム").slice(0, 2).join("・") || "ゲーム"} · App Store 新着`, 120),
-        publishedAt: new Date(r.releaseDate).toISOString(),
+        // releaseDate は稀に未来日を返す（配信済みでも起きる Apple 側のデータ不整合）。
+        // 未来日のままだと「新着」の先頭に居座り続け、相対時刻も負の差分になるため現在時刻に丸める
+        publishedAt: new Date(Math.min(new Date(r.releaseDate).getTime(), Date.now())).toISOString(),
         tags: ["ゲーム", "スマホ", "iOS", ...(r.genres || []).filter((g) => g !== "ゲーム").slice(0, 2)],
         phCategories: [],
         image: r.artworkUrl512 || r.artworkUrl100 || "",
