@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:51:48.890Z",
+  "updatedAt": "2026-09-17T09:02:20.387Z",
   "boards": [
     {
       "id": "steam",
@@ -150,27 +150,27 @@
       "items": [
         {
           "rank": 1,
-          "title": "Meowdoku!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/1d/70/a51d7087-c794-6a87-a38e-ea6c1cc48d05/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
-          "metric": "Oakever Games",
-          "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 2,
           "title": "トップロード",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/54/c8/9454c850-fd97-7290-c482-044e1f8dd0ed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 2,
+          "title": "Meowdoku!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/1d/70/a51d7087-c794-6a87-a38e-ea6c1cc48d05/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
+          "metric": "Oakever Games",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -202,14 +202,14 @@
         },
         {
           "rank": 5,
-          "title": "エバーナイト：リバース",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/f2/9d/62f29dd1-7ca4-69c1-09c0-0c947c12aa99/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128",
-          "metric": "LONGSIN GAME",
+          "title": "波乱水世界",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e2/fd/63e2fdc9-0048-f0e0-d618-68eee2808944/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
+          "metric": "Hong Kong Just Game Technology Limited",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
-            "value": 0
+            "kind": "down",
+            "label": "-2",
+            "value": -2
           },
           "deltaNote": "前日比"
         },
@@ -228,40 +228,40 @@
         },
         {
           "rank": 7,
-          "title": "波乱水世界",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/e2/fd/63e2fdc9-0048-f0e0-d618-68eee2808944/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
-          "metric": "Hong Kong Just Game Technology Limited",
+          "title": "エバーナイト：リバース",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/fd/a2/dafda221-81f0-4af6-ec9f-68f55204b37e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128",
+          "metric": "LONGSIN GAME",
           "delta": {
-            "kind": "down",
-            "label": "-4",
-            "value": -4
+            "kind": "new",
+            "label": "NEW",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 8,
+          "title": "Colony Flow!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f3/b2/f5f3b2df-fe85-cd62-53da-9ca8546b56d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
+          "metric": "ABI GLOBAL LTD.",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
           "title": "Smash Fest!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/bc/71/07bc71c3-4cea-196c-6dbb-6decedb08930/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
           "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
           "delta": {
             "kind": "down",
-            "label": "-4",
-            "value": -4
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 9,
-          "title": "Colony Flow!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/f3/b2/f5f3b2df-fe85-cd62-53da-9ca8546b56d6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
-          "metric": "ABI GLOBAL LTD.",
-          "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "label": "-5",
+            "value": -5
           },
           "deltaNote": "前日比"
         },

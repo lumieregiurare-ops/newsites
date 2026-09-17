@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-17T03:51:46.413Z",
+  "updatedAt": "2026-09-17T09:02:18.646Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 222,
+  "total": 235,
   "regions": {
-    "jp": 202,
+    "jp": 215,
     "global": 20
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 7
+      "count": 9
     },
     {
       "id": "prereg",
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 22
+      "count": 23
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 23
+      "count": 27
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 55
+      "count": 59
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 65
+      "count": 70
     },
     {
       "id": "indie",
@@ -65,24 +65,24 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 51
+      "count": 54
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 38
+      "count": 39
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 14
+      "count": 16
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ps",
@@ -92,7 +92,7 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 4
+      "count": 5
     },
     {
       "id": "pc",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 86
+      "count": 87
     },
     {
       "id": "browser",
@@ -122,10 +122,10 @@
   ],
   "sources": [
     "App Store",
-    "AppBank",
     "4Gamer",
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
+    "AppBank",
     "Inside",
     "Appliv Games",
     "Hacker News",
@@ -167,6 +167,145 @@
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
     },
     {
+      "id": "93a2c0dac1f3",
+      "url": "https://cmn-jp.nexon.com/event/tgs2026/fareidolia/",
+      "host": "cmn-jp.nexon.com",
+      "region": "jp",
+      "title": "ファレイドリア",
+      "headline": "IO DIVISIONが手掛ける新作「ファレイドリア」，公式YouTubeチャンネルを開設。TGS 2026会場で放映中のPV「ようこそ，アニマ市へ」を公開",
+      "description": "新作２タイトル『マビノギモバイル』と『ファレイドリア』の出展情報をチェック！オリジナルグッズがもらえるキャンペーンも開催！ネクソンの東京ゲームショウ2026特設サイトはこちら！",
+      "publishedAt": "2026-09-17T08:28:12.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/851/G085169/20260917036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.nexon.co.jp/cmn-jp/event/tgs2026/fareidolia/ogpcard.png"
+    },
+    {
+      "id": "da08b60159e9",
+      "url": "https://www.gamecity.ne.jp/hishou/jp/",
+      "host": "gamecity.ne.jp",
+      "region": "jp",
+      "title": "信長の野望･飛翔",
+      "headline": "『信長の野望･飛翔』実機プレイ映像が初公開。「大義名分」により、これまでプレイヤーが頭の中で描いたロールプレイの内容がシステム化",
+      "description": "生きろ、「大義」のために。武将一人ひとりの“大義名分”が戦国の世を動かす新たな「信長の野望」。城下町を自由に発展させる町づくり内政が約20年ぶりに復活し、シリーズ初のストーリーモードも搭載。",
+      "publishedAt": "2026-09-17T08:16:27.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gamecity.ne.jp/hishou/assets/img/og.jpg"
+    },
+    {
+      "id": "26344828d882",
+      "url": "https://magicstory2.jimdofree.com/",
+      "host": "magicstory2.jimdofree.com",
+      "region": "jp",
+      "title": "魔導物語",
+      "headline": "『魔導物語』オマージュのパーティ切替式3DダンジョンRPG『まじっくすと～り～2』10月14日発売。体験版も配信中",
+      "description": "これは、想いをつなぐ物語（すと～り～） 前作を知らなくてもダイジョーブ！",
+      "publishedAt": "2026-09-17T07:30:03.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/17/172412.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7910b85c2a73e192/backgroundarea/i4ea96b0d59297375/version/1783838184/image.png"
+    },
+    {
+      "id": "4621f12725ee",
+      "url": "https://www.shinchosha.co.jp/12kokuki/",
+      "host": "shinchosha.co.jp",
+      "region": "jp",
+      "title": "十二国記",
+      "headline": "名作ファンタジー小説『十二国記』の電子書籍版が9月17日より配信開始。第1弾は『魔性の子』『月の影 影の海』など7点で、10月15日と12月11日にも順次配信",
+      "description": "小野不由美「十二国記」新潮社公式サイトです。小野不由美の壮大なファンタジー「十二国記」が動き出す！",
+      "publishedAt": "2026-09-17T07:17:34.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609173b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.shinchosha.co.jp/12kokuki/img/common/ogp.jpg"
+    },
+    {
+      "id": "c30c148d8f6e",
+      "url": "https://rs34.co.jp/game/KarousBORN/index.html/",
+      "host": "rs34.co.jp",
+      "region": "jp",
+      "title": "カラスBORN",
+      "headline": "RPG＋STG「カラスBORN」の最新情報が公開されたステージイベントをレポート。数々の新要素を加えたリメイク版カラスBORが2027年1月に登場",
+      "description": "RPG＋STG「カラスBORN」の最新情報が公開されたステージイベントをレポート。数々の新要素を加えたリメイク版カラスBORが2027年1月に登場",
+      "publishedAt": "2026-09-17T07:14:25.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104367/20260917031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "d83d829446a0",
       "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A4%E3%83%B4-%E3%82%B6-%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC/id6759962259",
       "host": "apps.apple.com",
@@ -196,6 +335,233 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/98/ef/8398ef26-3bc7-8ec4-c000-f4a8bdca8608/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "aac8d16dde5d",
+      "url": "https://maimai.sega.jp/",
+      "host": "maimai.sega.jp",
+      "region": "jp",
+      "title": "maimai でらっくす",
+      "headline": "「maimai でらっくす」，新バージョン「MAGiCAL」本日稼働開始。人気楽曲を新たに収録，コラボも多数実施",
+      "description": "洗濯機みたいなセガの音楽ゲーム「maimai でらっくす MAGiCAL」の公式サイト。maimai (マイマイ) シリーズの最新作！画面やボタンをタッチするだけの簡単プレイ！「まじかるパス」モードが新登場！",
+      "publishedAt": "2026-09-17T06:09:25.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104364/20260917028/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://maimai.sega.jp/ogimage.jpg?20260916"
+    },
+    {
+      "id": "d719fb8bc412",
+      "url": "https://dramaticcreate.com/owen/",
+      "host": "dramaticcreate.com",
+      "region": "jp",
+      "title": "大穢",
+      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
+      "description": "昭和×絶海×廃漁村を舞台に9人の犯罪者と1人の探偵が織りなすミステリーホラー『大穢』が、Nintendo Switchへ移植決定！",
+      "publishedAt": "2026-09-17T05:17:55.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg"
+    },
+    {
+      "id": "0149c4bfb1ee",
+      "url": "https://www.konami.com/games/tgs/ja/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "魔法捜査官",
+      "headline": "新作ホラーサスペンスリミテッドRPG『魔法捜査官』プロジェクト発表。コンセプトは「もしも現代社会に魔法が存在したら、どうなるか…？」",
+      "description": "株式会社コナミデジタルエンタテインメントの東京ゲームショウ2026特設サイトです。",
+      "publishedAt": "2026-09-17T05:17:31.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "teaser",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/tgs/s/img/share_img_ja.jpg"
+    },
+    {
+      "id": "19a8ebe5fbae",
+      "url": "https://unme.shueisha-games.com/",
+      "host": "unme.shueisha-games.com",
+      "region": "jp",
+      "title": "UN:Me",
+      "headline": "ソウル・トリアージADV「UN:Me」，2027年に発売延期。主人公役は花守ゆみりさんに決定，残り2つの魂の詳細も公開",
+      "description": "美しくも不気味な世界を舞台に、少女の中に宿る４つの魂との「対話」を通して、襲い掛かるトラウマから逃げながら「本当の身体の持ち主」を探すソウル・トリアージ アドベンチャー。",
+      "publishedAt": "2026-09-17T05:03:56.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/967/G096772/20260917021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://unme.shueisha-games.com/assets/img/ogp.jpg"
+    },
+    {
+      "id": "a1a8170a17b1",
+      "url": "https://fragariamemories.sanrio.co.jp/",
+      "host": "fragariamemories.sanrio.co.jp",
+      "region": "jp",
+      "title": "フラガリアメモリーズ Color of Wishes",
+      "headline": "サンリオキャラに仕える騎士たちを描くゲーム『フラガリアメモリーズ Color of Wishes』公式Xが開設。ゲーム描き下ろしビジュアルも公開",
+      "description": "サンリオが人型キャラクターで贈る、新世代の本格ファンタジー「フラガリアメモリーズ」の公式サイトです。",
+      "publishedAt": "2026-09-17T04:45:37.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fragariamemories.sanrio.co.jp/wp-content/themes/fragariamemories_v3.1/assets/images/common/ogp_2026_ja.png"
+    },
+    {
+      "id": "d51a6e8d8c2f",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index/?redirect=false",
+      "host": "astraeoratio.plaync.com",
+      "region": "jp",
+      "title": "アストラエ・オラティオ",
+      "headline": "『アストラエ・オラティオ』プロローグの主要シーンを収録したダイジェスト映像が公開。メインストーリーが日本語ボイスに対応することも明らかに",
+      "description": "『アストラエ・オラティオ』プロローグの主要シーンを収録したダイジェスト映像が公開。メインストーリーが日本語ボイスに対応することも明らかに",
+      "publishedAt": "2026-09-17T04:45:11.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "8bbc503df663",
+      "url": "https://ikea.jp/",
+      "host": "ikea.jp",
+      "region": "jp",
+      "title": "イケアがXBOXとコラボした家具を10月1日より順次発売",
+      "headline": "イケアがXBOXとコラボした家具を10月1日より順次発売！ゲームライフをデザインに取り入れた全9商品が全国のイケア店舗・オンラインストア・アプリで登場",
+      "description": "イケアがXBOXとコラボした家具を10月1日より順次発売！ゲームライフをデザインに取り入れた全9商品が全国のイケア店舗・オンラインストア・アプリで登場",
+      "publishedAt": "2026-09-17T04:00:34.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260917p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "5222615b4449",
+      "url": "https://www.residentevil.com/switch2/ja-jp/",
+      "host": "residentevil.com",
+      "region": "jp",
+      "title": "バイオハザード",
+      "headline": "「バイオハザード」RE:2/RE:3/RE:4がNintendo Switch 2に登場！ 東京ゲームショウ2026で試遊出展決定",
+      "description": "Nintendo Switch™ 2 に「バイオハザード」シリーズが登場！",
+      "publishedAt": "2026-09-17T04:00:00.000Z",
+      "addedAt": "2026-09-17T09:02:18.646Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/17/game/3107898.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "switch",
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.residentevil.com/switch2/assets/images/common/share_bh.png"
     },
     {
       "id": "d165f149c358",
@@ -323,7 +689,7 @@
       "region": "jp",
       "title": "Delta Force",
       "headline": "『Delta Force』2周年感謝祭が10月4日開催、豪華ゲストとJapan Qualifier決勝ウォッチパーティーも",
-      "description": "『Delta Force』2周年感謝祭が10月4日開催、豪華ゲストとJapan Qualifier決勝ウォッチパーティーも",
+      "description": "Level Infiniteの「Delta Force: 2nd Anniversary」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Delta Force: 2nd Annive…",
       "publishedAt": "2026-09-17T03:05:00.000Z",
       "addedAt": "2026-09-17T03:51:46.413Z",
       "source": "AppBank",
@@ -342,13 +708,14 @@
       ],
       "categories": [
         "anniversary",
-        "event"
+        "event",
+        "goods"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": ""
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/50/79/d8507917-3c07-cc56-106a-cf2e7b9dcabf/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "56da25edf260",
@@ -401,10 +768,15 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/17/187878.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/927/G092709/20260917018/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
         "prereg"
@@ -512,6 +884,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260917r"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101057/20260917015/"
         }
       ],
       "tags": [
@@ -659,6 +1035,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609173a"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/17/172407.html"
         }
       ],
       "tags": [
@@ -4871,14 +5251,19 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/029/G002975/20260911019/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/17/187894.html"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
-        "event",
-        "anniversary"
+        "anniversary",
+        "event"
       ],
       "platforms": [
         "pc"
@@ -5771,10 +6156,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "周年"
       ],
       "categories": [
-        "official"
+        "anniversary"
       ],
       "platforms": [
         "mobile"
