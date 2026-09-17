@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T09:02:18.646Z",
+  "updatedAt": "2026-09-17T14:33:05.442Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 235,
+  "total": 248,
   "regions": {
-    "jp": 215,
+    "jp": 228,
     "global": 20
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 37
+      "count": 40
     },
     {
       "id": "anniversary",
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 27
+      "count": 30
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 59
+      "count": 61
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 70
+      "count": 74
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 22
+      "count": 23
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 54
+      "count": 57
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 39
+      "count": 44
     }
   ],
   "platforms": [
@@ -92,17 +92,17 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 5
+      "count": 6
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 32
+      "count": 33
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 87
+      "count": 93
     },
     {
       "id": "browser",
@@ -121,11 +121,11 @@
     }
   ],
   "sources": [
-    "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
+    "Game*Spark",
+    "App Store",
     "Inside",
     "Appliv Games",
     "Hacker News",
@@ -134,29 +134,400 @@
   ],
   "items": [
     {
-      "id": "35b0b942f570",
-      "url": "https://www.geass-survivor.com/",
-      "host": "geass-survivor.com",
+      "id": "04ccab5cdbe0",
+      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
+      "host": "apps.apple.com",
       "region": "jp",
-      "title": "コードギアス ナイトメア・サバイバー",
-      "headline": "JORO,Inc. / アクション · App Store 新着",
-      "description": "スマートフォン向けサバイバーアクションゲーム「コードギアス ナイトメア・サバイバー」（ギアサバ）の公式サイトです。お得なウェブストア（ギアサバストア）もこちらから！",
-      "publishedAt": "2026-09-15T23:58:33.508Z",
-      "addedAt": "2026-09-15T23:58:33.508Z",
-      "source": "App Store",
+      "title": "Lumi Master",
+      "headline": "モンスター収集×育成RPG「Lumi Master」，本日リリース。100種類以上の「るぅみ」を集めて育成。片手操作にも対応",
+      "description": "BILIBILI HK LIMITEDの「Lumi Master（るぅみマスター）」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Lumi Master（るぅみマスター）」に似たゲー…",
+      "publishedAt": "2026-09-17T13:21:49.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
       "sources": [
         {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104382/20260917071/"
+        },
+        {
           "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9-%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2-%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC/id6762118255"
+          "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232"
         }
       ],
       "tags": [
         "ゲーム",
         "スマホ",
         "iOS",
-        "アクション"
+        "事前登録",
+        "Android",
+        "ロールプレイング"
       ],
       "categories": [
+        "prereg",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/f6/82/f8f68294-4c20-0695-f0a7-0163a9b58556/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "845df855f487",
+      "url": "https://www.sanrio-games.jp/games/fragariamemories-color-of-wishes/",
+      "host": "sanrio-games.jp",
+      "region": "jp",
+      "title": "フラガリアメモリーズ Color of Wishes",
+      "headline": "「フラガリアメモリーズ Color of Wishes」，2027年内リリース予定。ゲームの描き下ろしビジュアルを公開",
+      "description": "サンリオが贈る、ハローキティたちを守る騎士の物語。2027年リリース予定のスマホ向けタイトル『フラガリアメモリーズ Color of Wishes（カラー オブ ウィッシィズ）』公式サイトです。",
+      "publishedAt": "2026-09-17T13:07:34.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/959/G095956/20260917072/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.sanrio-games.jp/games/fragariamemories-color-of-wishes/drop_ogp.png"
+    },
+    {
+      "id": "dc712f56ef31",
+      "url": "https://mabinogimobile.nexon.co.jp/preregistration/",
+      "host": "mabinogimobile.nexon.co.jp",
+      "region": "jp",
+      "title": "マビノギモバイル",
+      "headline": "「マビノギモバイル」，10月7日に配信決定。エリンでの冒険を描いたオンラインRPG",
+      "description": "「マビノギモバイル」事前登録受付中！ほのぼの巡る、暮らしと冒険。スマートフォンとPCでもうすぐ登場！",
+      "publishedAt": "2026-09-17T12:00:48.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/387/G038732/20260917069/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609173x"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.nexon.co.jp/mabinogimobile/preregistration_FzS9jWx9G0umDpkk/ogpcard.png"
+    },
+    {
+      "id": "c803eedfd723",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index/",
+      "host": "astraeoratio.plaync.com",
+      "region": "jp",
+      "title": "アストラエ・オラティオ",
+      "headline": "「アストラエ・オラティオ」発表会レポート。開発陣が語るゲームの全体像と「連載」ゲームとしてのビジョン［TGS2026］",
+      "description": "「アストラエ・オラティオ」発表会レポート。開発陣が語るゲームの全体像と「連載」ゲームとしてのビジョン［TGS2026］",
+      "publishedAt": "2026-09-17T11:58:02.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/975/G097529/20260917064/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "4ba40895b3fb",
+      "url": "https://www.callofduty.com/ja/modernwarfare4/",
+      "host": "callofduty.com",
+      "region": "jp",
+      "title": "Call of Duty: Modern Warfare 4",
+      "headline": "「Call of Duty: Modern Warfare 4」のキャンペーントレイラーが公開に。映像には，マッツ・ミケルセンさんらしき姿も［TGS2026］",
+      "description": "War erupts on the Korean Peninsula as North Korea launches a full-scale invasion that threatens to destabilize the worl…",
+      "publishedAt": "2026-09-17T11:53:44.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101087/20260917063/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw4/meta/MW4_LP_Meta.webp"
+    },
+    {
+      "id": "2f3b6d20e069",
+      "url": "https://atelier.games/karia/jp/",
+      "host": "atelier.games",
+      "region": "jp",
+      "title": "カリアのアトリエ",
+      "headline": "「カリアのアトリエ」，ルトガーとレイニャの登場をアナウンスする最新トレイラーが公開に［TGS2026］",
+      "description": "「空っぽの私を満たす、はじまりの物語」調合し、使い、そして食べる。錬金術がすべてを拡張する、新たな「アトリエ」の到達点。",
+      "publishedAt": "2026-09-17T11:05:21.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/015/G101585/20260917057/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://atelier.games/karia/assets/img/og_jp.jpg"
+    },
+    {
+      "id": "450aff7c300c",
+      "url": "https://www.kojimaproductions.jp/ja/",
+      "host": "kojimaproductions.jp",
+      "region": "jp",
+      "title": "PHYSINT",
+      "headline": "Xboxとコジマプロダクションの新作アクションゲーム『PHYSINT』の主演俳優がビル・スカルスガルドさんに決定。2017年には『IT』にて“ペニーワイズ”を演じる",
+      "description": "Xboxとコジマプロダクションの新作アクションゲーム『PHYSINT』の主演俳優がビル・スカルスガルドさんに決定。2017年には『IT』にて“ペニーワイズ”を演じる",
+      "publishedAt": "2026-09-17T10:45:06.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609173y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "e38717e08e7d",
+      "url": "https://p4re.jp/",
+      "host": "p4re.jp",
+      "region": "jp",
+      "title": "ペルソナ4 リバイバル",
+      "headline": "「ペルソナ4 リバイバル」，探偵王子こと「白鐘直斗」の紹介トレイラーが公開に［TGS2026］",
+      "description": "青春×オカルト×怪事件。その出会いが、日常のすべてを変える。『ペルソナ４ リバイバル』ただいま予約受付中！",
+      "publishedAt": "2026-09-17T10:42:21.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/918/G091826/20260917052/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609173o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://p4re.jp/ogp_20260731.jpg"
+    },
+    {
+      "id": "ee4814727642",
+      "url": "https://fire-emblem-heroes.com/ja/",
+      "host": "fire-emblem-heroes.com",
+      "region": "jp",
+      "title": "ファイアーエムブレム ヒーローズ",
+      "headline": "「ファイアーエムブレム ヒーローズ」，超英雄召喚イベント「風が繋ぐ絆」を9月18日16：00より開催。双界英雄のリンなど4名が参戦",
+      "description": "立ち上がれ、英雄と共に。",
+      "publishedAt": "2026-09-17T10:28:27.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/369/G036904/20260917048/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://fire-emblem-heroes.com/ja/ogp.jpg?date=202412"
+    },
+    {
+      "id": "5ed10b0d0a4d",
+      "url": "https://www.snack-world.jp/reloaded/",
+      "host": "snack-world.jp",
+      "region": "jp",
+      "title": "スナックワールド リローデッド",
+      "headline": "ジオラマ風の世界を冒険するレベルファイブの新作ゲーム『スナックワールド リローデッド』をプレイして、“初めてゲームを遊んだとき”の喜びに再会した。動かすだけで楽しくて思わず笑顔に…",
+      "description": "『スナックワールド トレジャラーズ』のリメイクが決定！",
+      "publishedAt": "2026-09-17T10:26:54.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609174c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.snack-world.jp/reloaded/assets/img/shared/ogp.jpg"
+    },
+    {
+      "id": "67715958ae2f",
+      "url": "https://www.gamecity.ne.jp/kusuriyanohitorigoto/jp/",
+      "host": "gamecity.ne.jp",
+      "region": "jp",
+      "title": "薬屋のひとりごと 〜偽りの皇弟〜",
+      "headline": "“猫猫（マオマオ）のアトリエ”って超おもしろくね？ から生まれた新作「薬屋のひとりごと 〜偽りの皇弟〜」［TGS2026］",
+      "description": "テレビアニメ『薬屋のひとりごと』が初のコンシューマーゲーム化！ 毒と薬に異常な執着を持つ、花街育ちの薬師・猫猫と謎多き美形の後宮管理者・壬氏が宮中で巻き起こる難事件へと挑んでいく。原作者：日向夏氏が原案を手掛ける完全新作ストーリーのミステ…",
+      "publishedAt": "2026-09-17T10:17:27.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104128/20260917033/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gamecity.ne.jp/kusuriyanohitorigoto/assets/img/jp/og.jpg"
+    },
+    {
+      "id": "fc3d9dd00299",
+      "url": "https://apps.apple.com/jp/app/id880047117",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "アングリーバード2",
+      "headline": "「アングリーバード2」と「スーパーモンキーボール バナナランブル」のコラボが9月28日まで開催中",
+      "description": "Rovio Entertainment Oyjの「アングリーバード 2 (Angry Birds 2)」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アングリーバード 2 (Angr…",
+      "publishedAt": "2026-09-17T09:24:34.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/311/G031182/20260917041/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/f5/2a/cdf52a29-c6f9-062a-30b4-366a34502ba2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "368fbd8cf6aa",
+      "url": "https://apps.apple.com/jp/app/palworld-%E3%83%91%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89/id6503918400?mt=12",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "パルワールド",
+      "headline": "TGS2026ポケットペアブースにノベルティ多数！『パルワールド』限定ステッカーやレッドブルコラボも 9月17日から",
+      "description": "Pocketpair, Inc.の「Palworld / パルワールド」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Palworld / パルワールド」に似たゲームを見ることなどが…",
+      "publishedAt": "2026-09-17T09:15:00.000Z",
+      "addedAt": "2026-09-17T14:33:05.442Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/17/game/3107542.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "campaign",
         "company",
         "goods"
       ],
@@ -164,7 +535,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/67/bf/c967bfa9-eea9-d51e-50fb-1c24f375976f/Palworld.png/1200x630wa.jpg"
     },
     {
       "id": "93a2c0dac1f3",
@@ -212,6 +583,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609172z"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/015/G101576/20260917045/"
         }
       ],
       "tags": [
@@ -772,6 +1147,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/927/G092709/20260917018/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609172b"
         }
       ],
       "tags": [
@@ -2266,6 +2645,39 @@
       "platforms": [],
       "points": null,
       "image": "https://teamninja-studio.com/wolong2/assets/img/og_teaser_0608.jpg"
+    },
+    {
+      "id": "35b0b942f570",
+      "url": "https://www.geass-survivor.com/",
+      "host": "geass-survivor.com",
+      "region": "jp",
+      "title": "コードギアス ナイトメア・サバイバー",
+      "headline": "JORO,Inc. / アクション · App Store 新着",
+      "description": "スマートフォン向けサバイバーアクションゲーム「コードギアス ナイトメア・サバイバー」（ギアサバ）の公式サイトです。お得なウェブストア（ギアサバストア）もこちらから！",
+      "publishedAt": "2026-09-15T23:58:33.508Z",
+      "addedAt": "2026-09-15T23:58:33.508Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9-%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2-%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC/id6762118255"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
     },
     {
       "id": "ba866b6d4eb4",
@@ -5255,6 +5667,14 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/17/187894.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/09/17/28087.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609173l"
         }
       ],
       "tags": [
