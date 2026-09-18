@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T23:48:36.427Z",
+  "updatedAt": "2026-09-18T02:19:29.182Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 253,
+  "total": 257,
   "regions": {
-    "jp": 231,
+    "jp": 235,
     "global": 22
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 31
+      "count": 33
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 61
+      "count": 63
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 76
+      "count": 79
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 2
+      "count": 3
     },
     {
       "id": "company",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 59
+      "count": 60
     },
     {
       "id": "official",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 9
+      "count": 10
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 8
+      "count": 9
     },
     {
       "id": "xbox",
@@ -121,18 +121,135 @@
     }
   ],
   "sources": [
-    "App Store",
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
+    "Inside",
+    "App Store",
     "4Gamer",
     "AppBank",
-    "Inside",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "91a612d04a94",
+      "url": "https://beast-of-reincarnation.happinet-games.com/",
+      "host": "beast-of-reincarnation.happinet-games.com",
+      "region": "jp",
+      "title": "Beast of Reincarnation",
+      "headline": "ゲーフリ新作ARPG『Beast of Reincarnation』やファンタジーSLG『ブリガンダイン アビス』イベント限定版も、ハピネットブースで遊べる！試遊だけでなく企画も…",
+      "description": "GAME FREAKの完全新作『Beast of Reincarnation』が、PlayStation 5パッケージ版で発売決定！リアルタイムアクションと、コマンド型RPGの融合——美しくも過酷なBeast of Reincarnati…",
+      "publishedAt": "2026-09-18T02:15:03.000Z",
+      "addedAt": "2026-09-18T02:19:29.182Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172456.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://beast-of-reincarnation.happinet-games.com/wp-content/themes/beast-of-reincarnation/img/shareimg.jpg"
+    },
+    {
+      "id": "8f0656acd5ef",
+      "url": "https://shueisha-games.com/games/goldenkamuy/",
+      "host": "shueisha-games.com",
+      "region": "jp",
+      "title": "ゴールデンカムイ",
+      "headline": "『ゴールデンカムイ』と『ウミガメのスープ』がコラボ。『ゴールデンカムイ ヒグマのスープ』12月25日に発売",
+      "description": "予測不可能な謎を誰よりも早く解き明かせ!!正解争奪ナゾトキカードゲーム『ゴールデンカムイ ヒグマのスープ』は、『ウミガメのスープ』とのコラボレーションで生まれた、水平思考クイズゲーム。個性溢れるキャラクターたちの原作エピソードを基にした、…",
+      "publishedAt": "2026-09-18T01:56:49.000Z",
+      "addedAt": "2026-09-18T02:19:29.182Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260918n"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png"
+    },
+    {
+      "id": "e88546b468d5",
+      "url": "https://www.realforce.co.jp/",
+      "host": "realforce.co.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "「ポケモン」ピカチュウ/「ホロライブ」博衣こより＆音乃瀬奏の新コラボキーボードを見た！「東プレ REALFORCE」ブースレポ【TGS2026】",
+      "description": "「ポケモン」ピカチュウ/「ホロライブ」博衣こより＆音乃瀬奏の新コラボキーボードを見た！「東プレ REALFORCE」ブースレポ【TGS2026】",
+      "publishedAt": "2026-09-18T01:25:02.000Z",
+      "addedAt": "2026-09-18T02:19:29.182Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/18/187933.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "589b0516de1f",
+      "url": "https://kalypsomedia.co.jp/",
+      "host": "kalypsomedia.co.jp",
+      "region": "jp",
+      "title": "トロピコ 7",
+      "headline": "『トロピコ 7』Nintendo Switch 2版の発売が決定。Joy-Con 2のマウス操作や、GameChatによるボイスチャット・画面共有に対応",
+      "description": "ドイツ発！カリプソメディアのジャパンサイトへようこそ。ここではゲームをはじめ弊社関する様々な情報を展開しています。",
+      "publishedAt": "2026-09-18T01:00:07.000Z",
+      "addedAt": "2026-09-18T02:19:29.182Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260918g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "2330a26eadfb",
       "url": "https://handy-games.com/games/disney-epic-mikey-rebrushed/",

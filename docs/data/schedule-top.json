@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T23:48:49.615Z",
+  "updatedAt": "2026-09-18T02:19:45.750Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,38 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "043f1f46a2f6",
-      "title": "クレイジー・クライマー",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.consolearchives.com/",
-      "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png",
-      "maker": "",
-      "headline": "落下物やゴリラを避けて超高層ビルを登れ。8ビット家庭用版「クレイジー・クライマー」がコンソールアーカイブスで9月17日に配信開始",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/043/G104339/20260916029/"
-    },
-    {
-      "id": "32c1a2f12fea",
-      "title": "デイヴ・ザ・ダイバー",
-      "date": "2026-09-17",
-      "dateText": "2026年9月17日",
-      "sortKey": "2026-09-17",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://www.mintrock.et/jp/game/game.php/",
-      "image": "https://www.mintrock.et/img/logo_img.jpg",
-      "maker": "",
-      "headline": "「デイヴ・ザ・ダイバー」の累計販売本数が1000万本を突破。9月17日にはスマホ版もリリース",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/635/G063598/20260909031/"
-    },
     {
       "id": "1812ca9c3c70",
       "title": "Graveyard Keeper 2",
@@ -265,6 +233,38 @@
       "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
+    },
+    {
+      "id": "ce2a827c6bbc",
+      "title": "大穢",
+      "date": "2026-12-24",
+      "dateText": "2026年12月24日",
+      "sortKey": "2026-12-24",
+      "priority": 0,
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://dramaticcreate.com/owen/",
+      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
+      "maker": "",
+      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
+    },
+    {
+      "id": "0c0a1032d68d",
+      "title": "ゴールデンカムイ",
+      "date": "2026-12-25",
+      "dateText": "2026年12月25日",
+      "sortKey": "2026-12-25",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://shueisha-games.com/games/goldenkamuy/",
+      "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png",
+      "maker": "",
+      "headline": "『ゴールデンカムイ』と『ウミガメのスープ』がコラボ。『ゴールデンカムイ ヒグマのスープ』12月25日に発売",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260918n"
     }
   ],
   "prereg": [
@@ -445,6 +445,41 @@
   ],
   "changes": [
     {
+      "at": "2026-09-18T02:19:45.750Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "デイヴ・ザ・ダイバー",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年9月17日",
+      "to": "2027年8月"
+    },
+    {
+      "at": "2026-09-18T02:19:45.750Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『ウイングスパン』バードパック「米国の鳥類」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000074801",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ae313b7d03d4cdf25a6f9927fd2f9d8a2fe41443f402a6c49393d69ededcdc10.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月16日"
+    },
+    {
+      "at": "2026-09-18T02:19:45.750Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ゴールデンカムイ",
+      "url": "https://shueisha-games.com/games/goldenkamuy/",
+      "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png",
+      "platforms": [],
+      "to": "2026年12月25日"
+    },
+    {
       "at": "2026-09-17T23:48:49.615Z",
       "type": "new",
       "label": "新規",
@@ -477,41 +512,6 @@
         "mobile"
       ],
       "to": "2027年内"
-    },
-    {
-      "at": "2026-09-17T14:33:21.785Z",
-      "type": "date_fixed",
-      "label": "発売日決定",
-      "title": "マビノギモバイル",
-      "url": "https://mabinogimobile.nexon.co.jp/preregistration/",
-      "image": "https://static.nexon.co.jp/mabinogimobile/preregistration_FzS9jWx9G0umDpkk/ogpcard.png",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": "2026年10月7日"
-    },
-    {
-      "at": "2026-09-17T09:02:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "大穢",
-      "url": "https://dramaticcreate.com/owen/",
-      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月24日"
-    },
-    {
-      "at": "2026-09-17T09:02:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "魔導物語",
-      "url": "https://magicstory2.jimdofree.com/",
-      "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7910b85c2a73e192/backgroundarea/i4ea96b0d59297375/version/1783838184/image.png",
-      "platforms": [],
-      "to": "2026年10月14日"
     }
   ]
 }
