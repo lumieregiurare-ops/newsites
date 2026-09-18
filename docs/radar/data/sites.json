@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-18T02:19:29.182Z",
+  "updatedAt": "2026-09-18T08:37:00.623Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 257,
+  "total": 267,
   "regions": {
-    "jp": 235,
-    "global": 22
+    "jp": 244,
+    "global": 23
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 9
+      "count": 10
     },
     {
       "id": "prereg",
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 23
+      "count": 24
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 33
+      "count": 35
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 63
+      "count": 65
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 79
+      "count": 80
     },
     {
       "id": "indie",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 60
+      "count": 63
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 45
+      "count": 50
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 33
+      "count": 35
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 94
+      "count": 98
     },
     {
       "id": "browser",
@@ -121,18 +121,316 @@
     }
   ],
   "sources": [
-    "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
+    "Game*Spark",
+    "AppBank",
     "Inside",
     "App Store",
-    "4Gamer",
-    "AppBank",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "26358b0079b5",
+      "url": "http://www.g-tune.jp/",
+      "host": "g-tune.jp",
+      "region": "jp",
+      "title": "ノ",
+      "headline": "ノートPC向けCPU搭載デスクトップPCや液冷仕様のGeForce RTX 5070搭載カードなど，マウスコンピューターが新製品を発表［TGS2026］",
+      "description": "ゲーミングPCはG TUNEにお任せください。初心者の方からeスポーツのプロゲーマーまで、多くの方に愛用されているゲーミングPCをラインアップ。万全のサポート＆長期保証で購入前後も安心してご利用頂けます。 BTOゲーミングPCならG TU…",
+      "publishedAt": "2026-09-18T08:33:04.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/026/G002654/20260918039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "d2b77415891d",
+      "url": "https://sugarlies.kogado.com/",
+      "host": "sugarlies.kogado.com",
+      "region": "jp",
+      "title": "Sugar Lies",
+      "headline": "新作ビジュアルノベル「Sugar Lies」ヒロインが歌う主題歌とOPムービーが公開［TGS2026］",
+      "description": "工画堂スタジオ新作ADV「Sugar Lies」公式サイトです。",
+      "publishedAt": "2026-09-18T08:32:02.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/036/G103607/20260918050/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172464.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260918a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sugarlies.kogado.com/img/ogp.jpg"
+    },
+    {
+      "id": "41738ddbfdbc",
+      "url": "https://www.kemuriworld.com/home-jp/",
+      "host": "kemuriworld.com",
+      "region": "jp",
+      "title": "KEMURI",
+      "headline": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
+      "description": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
+      "publishedAt": "2026-09-18T08:23:46.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104321/20260918044/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/653f29fedc9e247d28b6b090/t/6572777bcb35404b1f450a51/1750037604924/KEMURI_BANNER.jpg?format=1500w"
+    },
+    {
+      "id": "54cf2f404fa4",
+      "url": "https://www.gamecity.ne.jp/shingeki3/jp/",
+      "host": "gamecity.ne.jp",
+      "region": "jp",
+      "title": "進撃の巨人３",
+      "headline": "『進撃の巨人３』セーブデータ連携特典で“前作主人公と同じ名前”の班員が登場。キャラクターたちを自室に招き入れたり、巨人と戦ったりと、実機映像も公開",
+      "description": "「進撃の巨人」の物語を冒頭からクライマックスまで網羅した、シリーズ集大成となるアクションゲーム。進化した立体機動で、シリーズ最高峰の爽快かつスタイリッシュなアクションを体験せよ。",
+      "publishedAt": "2026-09-18T07:43:53.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gamecity.ne.jp/shingeki3/assets/img/og.jpg"
+    },
+    {
+      "id": "86f5d8fa6a9f",
+      "url": "https://www.actionxtreme.co.uk/bad-day-at-the-office/",
+      "host": "actionxtreme.co.uk",
+      "region": "global",
+      "title": "Bad Day At The Office",
+      "headline": "全編一人称視点で撮影された新作アクション映画「Bad Day At The Office」の最新予告編が公開！",
+      "description": "Karl Davis wakes in a wrecked hotel room with no memory of what has happened, where he is, or even who he is. When he d…",
+      "publishedAt": "2026-09-18T07:30:04.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172477.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.actionxtreme.co.uk/bad-day-poster.jpg"
+    },
+    {
+      "id": "93bb4072070c",
+      "url": "https://apps.apple.com/jp/app/disney-epic-mickey-rebrushed/id6780501808",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ディズニー エピックミッキー：Rebrushed",
+      "headline": "ゲームマニアにも人気『ディズニー エピックミッキー：Rebrushed』のモバイル版が配信開始―2011年リリース作のリマスター、最適化でコンソール版のビジュアルを再現",
+      "description": "THQ Nordic Mobile GmbHの「Disney Epic Mickey: Rebrushed」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Disney Epic Mi…",
+      "publishedAt": "2026-09-18T06:45:03.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172474.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/95/57/f695570e-21b2-992d-ac7f-59172eb63b5d/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "710e19c1b7ec",
+      "url": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "逆転裁判",
+      "headline": "『逆転裁判』シリーズ25周年を記念したコラボカフェのグッズとメニューが公開！10月9日からカプコンカフェ池袋店・梅田店で開催",
+      "description": "カプコンカフェは、ゲームや漫画をテーマに限定メニューやグッズを展開する、ユーザーが作品の世界を追体験することを目的にしたキャラクターカフェです。",
+      "publishedAt": "2026-09-18T05:06:32.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260918u"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "goods",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/wp-content/themes/capcom-cafe_ikebukuro/assets/img/capcomcafe_ogp.jpg"
+    },
+    {
+      "id": "4455a4ab6159",
+      "url": "https://www.holy-horror.jp/",
+      "host": "holy-horror.jp",
+      "region": "jp",
+      "title": "ホーリーホラーマンション",
+      "headline": "ゴーストショットで街中を遊び尽くす！ノリノリのバトルは「属性」を与えて大ダメージを狙おうーレベルファイブ新作『ホーリーホラーマンション』プレイレポ【TGS2026】",
+      "description": "レベルファイブ史上最大級のクロスメディアプロジェクト始動",
+      "publishedAt": "2026-09-18T04:30:04.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172467.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.holy-horror.jp/assets/img/shared/ogp.jpg"
+    },
+    {
+      "id": "3d52896dae56",
+      "url": "https://creatorslab.kodansha.co.jp/game/",
+      "host": "creatorslab.kodansha.co.jp",
+      "region": "jp",
+      "title": "Twospeak（仮）",
+      "headline": "ところにょり氏の新作「Twospeak（仮）」も発見！ 24タイトルが並ぶ講談社ゲームラボブースをのぞいてきた［TGS2026］",
+      "description": "クリエイターズラボは講談社がより幅広いジャンルのクリエイターと出逢い、 支援するために2021年6月に生まれたR＆D部署です。",
+      "publishedAt": "2026-09-18T03:22:12.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104391/20260918021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.creatorslab.kodansha.co.jp/bundles/images/creatorslab-ogp-600-315.png"
+    },
+    {
+      "id": "92280622e582",
+      "url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3x-dive-%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3/id6446021269",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "PRAGMATA",
+      "headline": "『PRAGMATA』が初セール！ カプコン人気タイトルが集結する「CAPCOM TGS SALE」開催中",
+      "description": "CAPCOMの「ロックマンX DiVE オフライン」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ロックマンX DiVE オフライン」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-18T02:30:00.000Z",
+      "addedAt": "2026-09-18T08:37:00.623Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/18/game/3109084.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg"
+    },
     {
       "id": "91a612d04a94",
       "url": "https://beast-of-reincarnation.happinet-games.com/",
@@ -148,6 +446,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/18/172456.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/18/187940.html"
         }
       ],
       "tags": [
@@ -208,6 +510,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/18/187933.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172475.html"
         }
       ],
       "tags": [
@@ -1272,6 +1578,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/035/G103549/20260917010/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182i"
         }
       ],
       "tags": [
@@ -3492,18 +3802,27 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609153g"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/913/G091374/20260918042/"
         }
       ],
       "tags": [
         "ゲーム",
-        "周年"
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "anniversary",
         "campaign",
         "event"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": "https://creator-static.biligames.com/dcc2b424ddbb6de105cba85aed721b439550eaeb050eb60c4c7d4baad65f1d46.png"
     },
@@ -4196,13 +4515,18 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "prereg",
         "campaign"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
@@ -7837,11 +8161,18 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/029/G102959/20260804017/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182d"
         }
       ],
       "tags": [
         "ゲーム",
-        "事前登録"
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "prereg"
