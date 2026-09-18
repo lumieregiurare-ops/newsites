@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T08:37:00.623Z",
+  "updatedAt": "2026-09-18T13:59:10.166Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 267,
+  "total": 286,
   "regions": {
-    "jp": 244,
-    "global": 23
+    "jp": 259,
+    "global": 27
   },
   "categories": [
     {
@@ -20,27 +20,27 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 41
+      "count": 46
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 24
+      "count": 25
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 35
+      "count": 40
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 65
+      "count": 71
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 80
+      "count": 83
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 3
+      "count": 4
     },
     {
       "id": "company",
@@ -60,17 +60,17 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 6
+      "count": 7
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 63
+      "count": 67
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 50
+      "count": 51
     }
   ],
   "platforms": [
@@ -97,17 +97,17 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 35
+      "count": 37
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 98
+      "count": 105
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "arcade",
@@ -121,18 +121,479 @@
     }
   ],
   "sources": [
-    "4Gamer",
+    "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
+    "4Gamer",
     "AppBank",
     "Inside",
-    "App Store",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "12f1c320564d",
+      "url": "https://global-gear.jp/",
+      "host": "global-gear.jp",
+      "region": "jp",
+      "title": "お嬢さま回避2 -脱出ゲーム",
+      "headline": "GlobalGear Co. Ltd. / ファミリー・カジュアル · App Store 新着",
+      "description": "福岡のiphone/androidアプリ開発のグローバルギアではスマホアプリのゲーム開発を行っています。プログラマー・デザイナーを募集しております",
+      "publishedAt": "2026-09-18T13:59:15.066Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E3%81%8A%E5%AC%A2%E3%81%95%E3%81%BE%E5%9B%9E%E9%81%BF2-%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0/id6760749968"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "カジュアル"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "41a2f0c5e6ef",
+      "url": "https://jojo-portal.com/anime/sbr/",
+      "host": "jojo-portal.com",
+      "region": "jp",
+      "title": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+      "headline": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』のブラウザミニゲームが無料公開。ボタン連打で馬を走らせ、全世界の走行距離4000マイル到達を目指す",
+      "description": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』3月19日Netflixにて世界独占先行配信",
+      "publishedAt": "2026-09-18T13:45:42.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609183h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://jojo-portal.com/wp-content/themes/jojo-portal/sbr/assets/images/common/ogp4.png?20261700"
+    },
+    {
+      "id": "99c6a68f4db7",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797&itscg=30200&app=arcade&itsct=gamespark_arcade&ct=gamesaprk_article_auto",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "“圧倒的に好評”な迷路構築×ロ",
+      "headline": "“圧倒的に好評”な迷路構築×ローグライトTDゲームが正式リリース。ブロックを自由に配置して侵略を防げ―採れたて！本日のSteam注目ゲーム22選【2026年9月18日】",
+      "description": "“圧倒的に好評”な迷路構築×ローグライトTDゲームが正式リリース。ブロックを自由に配置して侵略を防げ―採れたて！本日のSteam注目ゲーム22選【2026年9月18日】",
+      "publishedAt": "2026-09-18T13:00:03.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172497.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0c226415e8ec",
+      "url": "https://streetlampgame.com/",
+      "host": "streetlampgame.com",
+      "region": "global",
+      "title": "SlashZero",
+      "headline": "アニメ調の3Dグラフィックス，爽快な横スクロールアクション，ビルド構築が楽しいローグライク要素など，魅力たっぷりの新作「SlashZero」を4Gamerブースで遊ぼう［TGS2…",
+      "description": "SlashZero is an anime-style roguelike action platformer. Wishlist now! Fight, power up, collect items and uncover the h…",
+      "publishedAt": "2026-09-18T12:21:43.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/990/G099014/20260918082/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lf16-pra-seacdn.bytedgame.com/obj/lf-game-alisg/gdl_app_844463/web/public/favicon-2@256.png"
+    },
+    {
+      "id": "681209343b42",
+      "url": "https://playbloodstained.com/",
+      "host": "playbloodstained.com",
+      "region": "global",
+      "title": "Bloodstained: The Scarlet Engagement",
+      "headline": "「Bloodstained: The Scarlet Engagement」，2人の主人公による戦闘や探索を収めた「TGS2026 ゲームプレイトレーラー」を公開",
+      "description": "「Bloodstained: The Scarlet Engagement」，2人の主人公による戦闘や探索を収めた「TGS2026 ゲームプレイトレーラー」を公開",
+      "publishedAt": "2026-09-18T11:38:48.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/916/G091619/20260918076/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "cd699f5587b7",
+      "url": "https://sneakerbunko.jp/haruhi/",
+      "host": "sneakerbunko.jp",
+      "region": "jp",
+      "title": "初音ミク",
+      "headline": "ミクとハルヒが互いの衣装を交換。『初音ミク』×『涼宮ハルヒ』コラボ、いとうのいぢ氏による描き下ろしビジュアルがお披露目",
+      "description": "待望のシリーズ最新刊「涼宮ハルヒの劇場」2024年11月29日ついに発売！涼宮ハルヒシリーズ特設サイトでは刊行情報の他にも、エピソード年表、ギャラリーなどスペシャル情報を盛りだくさんで発信中！",
+      "publishedAt": "2026-09-18T11:33:59.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609183d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sneakerbunko.jp/haruhi/img/ogp.jpg"
+    },
+    {
+      "id": "85647b79efc5",
+      "url": "https://www.tirol-choco.com/",
+      "host": "tirol-choco.com",
+      "region": "jp",
+      "title": "星のカービィ",
+      "headline": "「星のカービィ」とチロルチョコがコラボ！ チロルチョコBOXやいちごショートケーキ味のチョコを順次発売",
+      "description": "「星のカービィ」とチロルチョコがコラボ！ チロルチョコBOXやいちごショートケーキ味のチョコを順次発売",
+      "publishedAt": "2026-09-18T11:03:23.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/897/G089781/20260918072/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "35ef945c2d23",
+      "url": "https://cmn-jp.nexon.com/event/tgs2026/",
+      "host": "cmn-jp.nexon.com",
+      "region": "jp",
+      "title": "マビノギモバイル",
+      "headline": "「東京ゲームショウ2026」開幕！ ネクソンブースで新作『マビノギモバイル』と『ファレイドリア』を出展",
+      "description": "新作２タイトル『マビノギモバイル』と『ファレイドリア』の出展情報をチェック！オリジナルグッズがもらえるキャンペーンも開催！ネクソンの東京ゲームショウ2026特設サイトはこちら！",
+      "publishedAt": "2026-09-18T10:50:00.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/18/game/3108593.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.nexon.co.jp/cmn-jp/event/tgs2026/index/ogpcard.png"
+    },
+    {
+      "id": "0323e7e87f6a",
+      "url": "https://www.fortnite.com/",
+      "host": "fortnite.com",
+      "region": "jp",
+      "title": "フォートナイト",
+      "headline": "「フォートナイト」と「キングダム ハーツ」がコラボ。ソラたちのコスチュームやキングダムチェーンなどのアイテムが登場",
+      "description": "「フォートナイト」と「キングダム ハーツ」がコラボ。ソラたちのコスチュームやキングダムチェーンなどのアイテムが登場",
+      "publishedAt": "2026-09-18T10:30:48.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/144/G014484/20260918066/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "c17e542a238e",
+      "url": "https://recommend.jr-central.co.jp/oshi-tabi/gundamw/",
+      "host": "recommend.jr-central.co.jp",
+      "region": "jp",
+      "title": "ガンダムW",
+      "headline": "『ガンダムW』がJR東海「推し旅」とコラボ。ヒイロ・リリーナ・デュオ・トロワ・カトル・五飛の“制服姿”が嬉しい",
+      "description": "ターゲット OPERATION TOKAIDO 任務 了解 東海道新幹線に搭乗。目的地へ向かう。｜ＪＲ東海",
+      "publishedAt": "2026-09-18T10:13:23.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609183a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://recommend.jr-central.co.jp/oshi-tabi/gundamw/img/ogp_image.jpg"
+    },
+    {
+      "id": "e7f741171e1f",
+      "url": "https://saber.games/hellraiserrevival/",
+      "host": "saber.games",
+      "region": "global",
+      "title": "Clive Barker's Hellraiser: Revival",
+      "headline": "「Clive Barker's Hellraiser: Revival」のデモ版がSteamで公開。カルト教団「スカーレット・チャーチ」を紹介するトレイラーも",
+      "description": "Get the latest Hellraiser: Revival news WATCH THE REDBAND TRAILER COMING OCTOBER 8, 2026 PRE-ORDER NOW Experience a new…",
+      "publishedAt": "2026-09-18T10:05:54.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103786/20260918064/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://saber.games/hellraiserrevival/wp-content/uploads/sites/11/2025/09/logo_final.png"
+    },
+    {
+      "id": "264641ad4950",
+      "url": "https://hololivepro.com/",
+      "host": "hololivepro.com",
+      "region": "jp",
+      "title": "アソビ★まわり隊！",
+      "headline": "ホロライブの新ユニット「アソビ★まわり隊！」のメンバーが公開。「FLOW GLOW」以来およそ2年ぶりの新ユニットで、百灯キョーコ・熱千めら・鈴鳴つづり・宙科そぴあが9月24日と…",
+      "description": "女性VTuberグループ「ホロライブ」、男性VTuberグループ「ホロスターズ」が所属するVTuber事務所「ホロライブプロダクション（hololive production）」の公式サイトです。",
+      "publishedAt": "2026-09-18T09:48:30.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hololivepro.com/wp-content/themes/hololive_production/images/rnew/ogp_rnew.jpg"
+    },
+    {
+      "id": "e2dd501f7102",
+      "url": "https://kitaou.efun.com/event/pre/",
+      "host": "kitaou.efun.com",
+      "region": "jp",
+      "title": "キタキタ王様",
+      "headline": "運と判断で戦況が変化する合成RPG「キタキタ王様」，日本向け事前登録を開始。CBT参加者の募集も9月23日まで実施",
+      "description": "幸運キタキタ、運命ガチャガチャ！今すぐ事前登録しで、ガチャ100連分を無料でGET！3分間の激アツバトルで、強運が導く神合成が止まらない！王様になって、ダルマたちをゆるっと指揮、勝利をラクラクつかみ取ろう！",
+      "publishedAt": "2026-09-18T09:09:36.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104419/20260918054/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://resjp-download.vsplay.com/res_jp/jpwlxq/jpwlxqPre/pc/up_/images/share.jpg"
+    },
+    {
+      "id": "64f74e278b1e",
+      "url": "https://girls-und-panzer-finale.jp/",
+      "host": "girls-und-panzer-finale.jp",
+      "region": "jp",
+      "title": "ガールズ＆パンツァー 最終章",
+      "headline": "映画『ガールズ＆パンツァー 最終章』第5話公開を目前に控え“前夜祭”が開催決定。1～4話を一挙上映し、そのまま第5話を最速上映",
+      "description": "映画『ガールズ＆パンツァー 最終章』第5話公開を目前に控え“前夜祭”が開催決定。1～4話を一挙上映し、そのまま第5話を最速上映",
+      "publishedAt": "2026-09-18T09:00:38.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609182k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://girls-und-panzer-finale.jp/iaY7mRf2zJ/wp-content/themes/gulpan-finale2020/img/ogp.png"
+    },
+    {
+      "id": "83175292bb17",
+      "url": "https://shikoujikkenten.com/",
+      "host": "shikoujikkenten.com",
+      "region": "jp",
+      "title": "カタシロ",
+      "headline": "「最大6人」で“すべてがうまくいく未来”を体験するイベント「思考実験展#002」が本日より開催。脚本はTRPG『カタシロ』のディズム氏が担当",
+      "description": "2026年9月18日より、東京・飯田橋にて開催。迷うことも、後悔することもない\"すべてがうまくいく未来の世界\"を歩く、約70分の\"じぶん没入体験\"。脚本はディズム。",
+      "publishedAt": "2026-09-18T09:00:07.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260918x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shikoujikkenten.com/002-tokyo/assets/og/ogp.png"
+    },
+    {
+      "id": "717bbcc956c8",
+      "url": "https://www.gamemarket.jp/",
+      "host": "gamemarket.jp",
+      "region": "jp",
+      "title": "ゲームマーケット2026秋",
+      "headline": "「ゲームマーケット2026秋」，10月17日と18日に開催決定。進化した体験型企画やWeb連動企画なども楽しめる",
+      "description": "国内最大規模のアナログゲームイベント『ゲームマーケット』公式サイトです。",
+      "publishedAt": "2026-09-18T08:57:44.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20260918053/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://img.gamemarket.jp/ogp.png"
+    },
     {
       "id": "26358b0079b5",
       "url": "http://www.g-tune.jp/",
@@ -196,6 +657,41 @@
       "platforms": [],
       "points": null,
       "image": "https://sugarlies.kogado.com/img/ogp.jpg"
+    },
+    {
+      "id": "ad04bb2d7d2f",
+      "url": "https://apps.apple.com/jp/app/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-karma/id6744352329",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "俺だけレベルアップな件：KARMA",
+      "headline": "本郷奏多さん登場！『俺だけレベルアップな件：KARMA』TGS2026でメディア発表会開催、事前登録受付も実施中",
+      "description": "Netmarble Corporationの「俺だけレベルアップな件：KARMA」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「俺だけレベルアップな件：KARMA」に似たゲームを見る…",
+      "publishedAt": "2026-09-18T08:30:00.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/18/game/3109157.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/94/4c/aa944c80-7ce9-9c94-7d69-437335073a73/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "41738ddbfdbc",
@@ -312,6 +808,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/95/57/f695570e-21b2-992d-ac7f-59172eb63b5d/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "0c23af7b7495",
+      "url": "https://sophiechat-ai.go-spiral.ai/",
+      "host": "sophiechat-ai.go-spiral.ai",
+      "region": "jp",
+      "title": "SophieChat:AI",
+      "headline": "「SophieChat:AI」の開発が発表に。「ソフィーのアトリエ2」の世界を舞台に，話すだけで旅，調合，戦闘を楽しめるフリーシナリオ型のAIチャット形式RPG［TGS2026］",
+      "description": "『ソフィーのアトリエ』公式ライセンスのAIチャットアプリ「SophieChat:AI」。話しかけるだけで、採取・調合・冒険……物語が進む。近日配信予定。事前登録受付中。",
+      "publishedAt": "2026-09-18T06:06:13.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104406/20260918036/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sophiechat-ai.go-spiral.ai/assets/ogp/ogp_1200x630.jpg"
     },
     {
       "id": "710e19c1b7ec",
@@ -1261,12 +1790,17 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A4%E3%83%B4-%E3%82%B6-%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC/id6759962259"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/18/game/3108546.php"
         }
       ],
       "tags": [
         "ゲーム",
         "スマホ",
-        "iOS"
+        "iOS",
+        "Android"
       ],
       "categories": [
         "goods"
@@ -1377,6 +1911,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/967/G096772/20260917021/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/18/172489.html"
         }
       ],
       "tags": [
@@ -1925,12 +2463,18 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609172n"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/975/G097539/20260918070/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "release"
       ],
       "platforms": [
@@ -1992,6 +2536,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/17/172407.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104428/20260918065/"
         }
       ],
       "tags": [
@@ -4012,6 +4560,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/5e/7e/725e7eb6-6e5f-10a8-28be-918f478f5528/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "6dc9cb05026a",
+      "url": "https://countlessnights.com/",
+      "host": "countlessnights.com",
+      "region": "global",
+      "title": "Dice A Million",
+      "headline": "countlessnights / ストラテジー・ボード · App Store 新着",
+      "description": "countlessnights / ストラテジー・ボード · App Store 新着",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "addedAt": "2026-09-18T13:59:10.166Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/dice-a-million/id6795586467"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "ボード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "f2c4c7cb70f1",
