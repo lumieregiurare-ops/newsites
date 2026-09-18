@@ -1,6 +1,91 @@
 {
   "items": [
     {
+      "id": "a32e2f9fc870",
+      "url": "https://products.voltage.co.jp/recordnoah/",
+      "host": "products.voltage.co.jp",
+      "region": "jp",
+      "title": "Re:cord NOAH 忘却のフラクタル",
+      "headline": "少女とアンドロイドの運命的な出会いがすべての始まり。アドベンチャーゲーム「Re:cord NOAH 忘却のフラクタル」，公式サイトをリニューアル",
+      "description": "少女とアンドロイドの運命的な出会いがすべての始まり。アドベンチャーゲーム「Re:cord NOAH 忘却のフラクタル」，公式サイトをリニューアル",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-18T15:25:38.000Z",
+      "addedAt": "2026-09-18T23:45:37.439Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/925/G092573/20260918101/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "metaError": "fetch failed",
+      "platforms": []
+    },
+    {
+      "id": "87e7334de73d",
+      "url": "https://jp.finalfantasyxiv.com/",
+      "host": "jp.finalfantasyxiv.com",
+      "region": "jp",
+      "title": "FFXIV",
+      "headline": "「FFXIV」×「FFXV」コラボイベント「英雄への夜想曲」，9月24日から再演。ノクティスがエオルゼアに来訪",
+      "description": "冒険者3000万突破のオンラインRPG「ファイナルファンタジーXIV(FF14)」公式サイト。全ての冒険者よ、集え 仲間たちの待つエオルゼアの地へ。(PS5™, PS4®, XBOX Series X|S, Nintendo Switch…",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-18T14:40:32.000Z",
+      "addedAt": "2026-09-18T23:45:37.439Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/199/G019924/20260918095/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "points": null,
+      "image": "https://lds-img.finalfantasyxiv.com/promo/h/N/JiNzz_kczK6vAoPKToQYklLOWw.jpg",
+      "metaAttempts": 1,
+      "ogFetchedAt": "2026-09-18T23:45:37.439Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "switch",
+        "ps",
+        "xbox"
+      ]
+    },
+    {
       "id": "12f1c320564d",
       "url": "https://global-gear.jp/",
       "host": "global-gear.jp",
@@ -122,7 +207,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 404",
       "platforms": [
         "pc",
@@ -373,7 +458,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 403",
       "platforms": []
     },

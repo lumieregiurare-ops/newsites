@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-18T13:59:10.166Z",
+  "updatedAt": "2026-09-18T23:45:37.439Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 286,
+  "total": 288,
   "regions": {
-    "jp": 259,
+    "jp": 261,
     "global": 27
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 40
+      "count": 41
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 71
+      "count": 72
     },
     {
       "id": "release",
@@ -70,14 +70,14 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 51
+      "count": 52
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 16
+      "count": 17
     },
     {
       "id": "switch2",
@@ -87,12 +87,12 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 9
+      "count": 10
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 6
+      "count": 7
     },
     {
       "id": "pc",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
     "Inside",
     "Appliv Games",
@@ -133,6 +133,65 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a32e2f9fc870",
+      "url": "https://products.voltage.co.jp/recordnoah/",
+      "host": "products.voltage.co.jp",
+      "region": "jp",
+      "title": "Re:cord NOAH 忘却のフラクタル",
+      "headline": "少女とアンドロイドの運命的な出会いがすべての始まり。アドベンチャーゲーム「Re:cord NOAH 忘却のフラクタル」，公式サイトをリニューアル",
+      "description": "少女とアンドロイドの運命的な出会いがすべての始まり。アドベンチャーゲーム「Re:cord NOAH 忘却のフラクタル」，公式サイトをリニューアル",
+      "publishedAt": "2026-09-18T15:25:38.000Z",
+      "addedAt": "2026-09-18T23:45:37.439Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/925/G092573/20260918101/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "87e7334de73d",
+      "url": "https://jp.finalfantasyxiv.com/",
+      "host": "jp.finalfantasyxiv.com",
+      "region": "jp",
+      "title": "FFXIV",
+      "headline": "「FFXIV」×「FFXV」コラボイベント「英雄への夜想曲」，9月24日から再演。ノクティスがエオルゼアに来訪",
+      "description": "冒険者3000万突破のオンラインRPG「ファイナルファンタジーXIV(FF14)」公式サイト。全ての冒険者よ、集え 仲間たちの待つエオルゼアの地へ。(PS5™, PS4®, XBOX Series X|S, Nintendo Switch…",
+      "publishedAt": "2026-09-18T14:40:32.000Z",
+      "addedAt": "2026-09-18T23:45:37.439Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/199/G019924/20260918095/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "switch",
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://lds-img.finalfantasyxiv.com/promo/h/N/JiNzz_kczK6vAoPKToQYklLOWw.jpg"
+    },
     {
       "id": "12f1c320564d",
       "url": "https://global-gear.jp/",
