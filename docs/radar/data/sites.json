@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-19T08:24:44.680Z",
+  "updatedAt": "2026-09-19T13:35:40.911Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 299,
+  "total": 310,
   "regions": {
-    "jp": 270,
-    "global": 29
+    "jp": 280,
+    "global": 30
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 11
+      "count": 12
     },
     {
       "id": "prereg",
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 25
+      "count": 26
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 44
+      "count": 48
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 78
+      "count": 80
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 87
+      "count": 91
     },
     {
       "id": "indie",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 68
+      "count": 70
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 53
+      "count": 56
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 108
+      "count": 109
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 2
+      "count": 3
     },
     {
       "id": "vr",
@@ -123,9 +123,9 @@
   "sources": [
     "電ファミニコゲーマー",
     "4Gamer",
+    "AppBank",
     "Game*Spark",
     "App Store",
-    "AppBank",
     "Inside",
     "Appliv Games",
     "Hacker News",
@@ -133,6 +133,316 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e144c22566d6",
+      "url": "https://puchipoyon.com/",
+      "host": "puchipoyon.com",
+      "region": "jp",
+      "title": "幻想世界のぷちぽよん",
+      "headline": "“手をかざして、握って、開く”ことで操作する非接触型プレイがおもしろい！ レベルファイブ×NHN PlayArtの新作パズル『幻想世界のぷちぽよん』をレポート【TGS2026】",
+      "description": "NHN PlayArtとレベルファイブが贈る完全新作クロスメディア企画！その世界観を、まずは連鎖が癖になるパズルゲームで体験しよう！",
+      "publishedAt": "2026-09-19T13:33:08.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609194f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://s.nhn-playart.com/smartgame/spn/games/emma/assets/images/OGP.png"
+    },
+    {
+      "id": "cda30755b2ab",
+      "url": "https://torchtorch.jp/",
+      "host": "torchtorch.jp",
+      "region": "jp",
+      "title": "ブラッドボーン",
+      "headline": "『ブラッドボーン』のカレル文字“右回りの変態”がブレスレットに。「TORCH TORCH」がTGS2026で初公開",
+      "description": "映画やゲーム、コミックに音楽。さまざまなカルチャーが取り巻く世界で、好きなコンテンツをファッションの一部として自然に身に着けられる。そんな、日常と“大好き”が融合するデザインを目指し、愛を込め、ファン（製作者）がファン（ユーザー）へとアイ…",
+      "publishedAt": "2026-09-19T13:10:59.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609194e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.torchtorch.jp/wp-content/uploads//2019/12/torchtorch_logo_ogp.jpg"
+    },
+    {
+      "id": "fac201897671",
+      "url": "https://www.warlockthegame.com/ja-JP/",
+      "host": "warlockthegame.com",
+      "region": "jp",
+      "title": "D&D",
+      "headline": "『D&D』のアクションゲー？ やるしかないじゃん。新作『ウォーロック』は、ファンタジーRPG好きの血が騒ぐ作品になりそう。火や水、雷を操る魔法でモンスターとバトルし、“密度の濃い…",
+      "description": "Dungeons & Dragonsから生まれたダークファンタジーなオープンワールドを舞台に、百戦錬磨の戦士Kaatriとなって、三人称視点で新たなアクションアドベンチャーを繰りひろげる「WARLOCK」。契約の力によって禁術を使いこなし…",
+      "publishedAt": "2026-09-19T12:59:03.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2609194d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://images.ctfassets.net/q2c9ge3cpsn9/1mabVyqo00PB9fiIKrTxUp/de7c37cbcb88111225b11a1a9892e7c4/warlock-share-1200x630px.jpg"
+    },
+    {
+      "id": "a6b240ea5bcd",
+      "url": "https://stardive.netmarble.com/ja/",
+      "host": "stardive.netmarble.com",
+      "region": "jp",
+      "title": "モンギル：STAR DIVE",
+      "headline": "「モンギル：STAR DIVE」，DMM GAMES版を11月中にリリース予定。開発PDのイ・ドンジョ氏が登壇したステージをレポート［TGS2026］",
+      "description": "輝く未知の世界へDIVE！ 今すぐダウンロードしよう！",
+      "publishedAt": "2026-09-19T12:26:49.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/857/G085718/20260919070/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/ppu01772674640611.jpg"
+    },
+    {
+      "id": "263e3835c70d",
+      "url": "https://tgs2026.bn-ent.net/jp/",
+      "host": "tgs2026.bn-ent.net",
+      "region": "jp",
+      "title": "ACE COMBAT8",
+      "headline": "バンダイナムコ、「東京ゲームショウ2026」公式ブースレポート公開！ 『ACE COMBAT8』新作試遊など見どころ満載",
+      "description": "バンダイナムコエンターテインメントの東京ゲームショウ2026特設WEBサイトです。",
+      "publishedAt": "2026-09-19T12:00:00.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/19/game/3110422.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tgs2026.bn-ent.net/ogp.png"
+    },
+    {
+      "id": "dfcc5238661c",
+      "url": "https://www.enskyshop.com/products/list/?character_id=1094",
+      "host": "enskyshop.com",
+      "region": "jp",
+      "title": "語彙の王様",
+      "headline": "「語彙の王様」シリーズ最新作「語彙の記憶王」，10月上旬に発売。記憶力と語彙力が試されるアナログゲーム",
+      "description": "「語彙の王様」シリーズ最新作「語彙の記憶王」，10月上旬に発売。記憶力と語彙力が試されるアナログゲーム",
+      "publishedAt": "2026-09-19T10:59:05.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104435/20260919064/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "6c76365ad81a",
+      "url": "https://delanivogames.com/",
+      "host": "delanivogames.com",
+      "region": "global",
+      "title": "PROCEDURE ZERO",
+      "headline": "記録上存在しない囚人として，施設が隠す秘密を探れ。ステルスホラー「PROCEDURE ZERO」，デモ版を配信開始",
+      "description": "In this prison, cigarettes buy information. Someone who officially does not exist is still knocking. First-person steal…",
+      "publishedAt": "2026-09-19T10:58:25.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/038/G103815/20260919066/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://delanivogames.com/game/procedure-zero-og.png"
+    },
+    {
+      "id": "f56a22d94bd0",
+      "url": "https://gundam-vs.jp/extreme/ac2ib/",
+      "host": "gundam-vs.jp",
+      "region": "jp",
+      "title": "機動戦士ガンダム EXVS.2 IB",
+      "headline": "「機動戦士ガンダム EXVS.2 IB」4Gamerステージ。ストライクや百式など，既存9機体のバランス調整が発表［TGS2026］",
+      "description": "2on2対戦アクションゲーム最新作「機動戦士ガンダム エクストリームバーサス2 インフィニットブースト」。2025年夏、全国のゲームセンターにて稼働開始！",
+      "publishedAt": "2026-09-19T09:50:48.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/880/G088098/20260919047/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://gundam-vs.jp/extreme/ac2ib/og.jpg"
+    },
+    {
+      "id": "975673754531",
+      "url": "https://apps.apple.com/jp/app/id6474289326",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "FILE444 あわいの侵霊カメラ",
+      "headline": "「パラノマサイト」×「第四境界」がコラボ！ ARGコンテンツ『FILE444 あわいの侵霊カメラ』展開決定、シリーズ最新作は30％オフセールも",
+      "description": "SQUARE ENIXの「パラノマサイト FILE38 伊勢人魚物語」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「パラノマサイト FILE38 伊勢人魚物語」に似たゲームを見ること…",
+      "publishedAt": "2026-09-19T09:05:00.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/19/game/3108309.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/c3/bb/f3c3bb5b-590b-a763-cdfe-4c65b2f6429b/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "974025b9d915",
+      "url": "https://www.capcom.co.jp/amusement/capcomcafe/ikebukuro/",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "逆転裁判",
+      "headline": "「逆転裁判」シリーズ25周年を記念したコラボカフェ，10月9日から池袋＆梅田で開催。歴代キャラ7人のグッズやコラボメニューを公開",
+      "description": "カプコンカフェは、ゲームや漫画をテーマに限定メニューやグッズを展開する、ユーザーが作品の世界を追体験することを目的にしたキャラクターカフェです。",
+      "publishedAt": "2026-09-19T08:43:11.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/805/G080590/20260919051/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "goods",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom.co.jp/amusement/brands/capcomcafe-ikebukuro/wp-content/themes/capcom-cafe_ikebukuro/assets/img/capcomcafe_ogp.jpg"
+    },
+    {
+      "id": "c8a0dc0d1575",
+      "url": "https://city-connection.co.jp/league-man/",
+      "host": "city-connection.co.jp",
+      "region": "jp",
+      "title": "じゃじゃ丸の百鬼夜行伝",
+      "headline": "新作ハクスラアクション「じゃじゃ丸の百鬼夜行伝」や，名作復活の「野球格闘リーグマン Bases Loaded」など，シティコネクションブースは今年も賑やか［TGS2026］",
+      "description": "『野球格闘リーグマン Bases Loaded』2026年12月10日（木）発売",
+      "publishedAt": "2026-09-19T08:42:45.000Z",
+      "addedAt": "2026-09-19T13:35:40.911Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/969/G096932/20260919049/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://city-connection.co.jp/leagueman/dist/img/ogp.jpg?20260820"
+    },
     {
       "id": "6978ea9f5f07",
       "url": "https://www.paramount.com/",
@@ -238,6 +548,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609192i"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/014/G101402/20260919056/"
         }
       ],
       "tags": [
@@ -9101,10 +9415,12 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "特設サイト"
       ],
       "categories": [
         "prereg",
+        "campaign",
         "goods"
       ],
       "platforms": [
