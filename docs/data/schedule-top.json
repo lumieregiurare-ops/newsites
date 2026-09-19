@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:35:55.838Z",
+  "updatedAt": "2026-09-19T23:47:53.609Z",
   "platforms": [
     {
       "id": "switch",
@@ -54,6 +54,21 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "579785b2a256",
+      "title": "エネミー・ゼロ",
+      "date": "2026-09-22",
+      "dateText": "2026年9月22日",
+      "sortKey": "2026-09-22",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://thetenthmosaic.jp/",
+      "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg",
+      "maker": "",
+      "headline": "「エネミー・ゼロ」の発売30周年記念展示，9月22日，23日に開催される「The Tenth Mosaic」内で実施決定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/999/G999903/20260919079/"
     },
     {
       "id": "03cc94451d1b",
@@ -250,21 +265,6 @@
       "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
-    },
-    {
-      "id": "0c0a1032d68d",
-      "title": "ゴールデンカムイ",
-      "date": "2026-12-25",
-      "dateText": "2026年12月25日",
-      "sortKey": "2026-12-25",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://shueisha-games.com/games/goldenkamuy/",
-      "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png",
-      "maker": "",
-      "headline": "『ゴールデンカムイ』と『ウミガメのスープ』がコラボ。『ゴールデンカムイ ヒグマのスープ』12月25日に発売",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260918n"
     }
   ],
   "prereg": [
@@ -444,6 +444,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-19T23:47:53.609Z",
+      "type": "new",
+      "label": "新規",
+      "title": "エネミー・ゼロ",
+      "url": "https://thetenthmosaic.jp/",
+      "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg",
+      "platforms": [],
+      "to": "2026年9月22日"
+    },
+    {
       "at": "2026-09-19T13:35:55.838Z",
       "type": "new",
       "label": "新規",
@@ -498,19 +508,6 @@
         "mobile"
       ],
       "to": "App Store 2026年10月25日"
-    },
-    {
-      "at": "2026-09-18T02:19:45.750Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "デイヴ・ザ・ダイバー",
-      "url": "https://apps.apple.com/jp/app/id6759962259",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/1b/e3/761be318-21d2-0315-7282-dfba36b6200b/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年9月17日",
-      "to": "2027年8月"
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T13:35:40.911Z",
+  "updatedAt": "2026-09-19T23:47:42.537Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 310,
+  "total": 313,
   "regions": {
-    "jp": 280,
-    "global": 30
+    "jp": 282,
+    "global": 31
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 26
+      "count": 27
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 48
+      "count": 50
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 80
+      "count": 82
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 24
+      "count": 25
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 70
+      "count": 71
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 109
+      "count": 110
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
+    "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "Inside",
@@ -133,6 +133,97 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3ea9b996c4cf",
+      "url": "https://apps.apple.com/jp/app/id6698853161",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "東京リベンジャーズ UNLIMITED",
+      "headline": "『東京リベンジャーズ UNLIMITED』でDragon Ashタイアップ楽曲「夕凪UNION」のMV公開！ メインシナリオ3章も追加",
+      "description": "GOOD SMILE COMPANY, INC.の「東京リベンジャーズ UNLIMITED」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「東京リベンジャーズ UNLIMITED」に似…",
+      "publishedAt": "2026-09-19T22:30:00.000Z",
+      "addedAt": "2026-09-19T23:47:42.537Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/20/game/3109225.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/f5/ae/9cf5ae75-bb96-3171-e77c-0b62933bb042/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "627de1358f07",
+      "url": "https://shops.flydigi.com/",
+      "host": "shops.flydigi.com",
+      "region": "global",
+      "title": "APEX 6",
+      "headline": "Flydigiが最新ゲームパッド「APEX 6」シリーズを展示。綾波レイやゼンゼロなどとのコラボモデルも展開［TGS2026］",
+      "description": "Enjoy precise and reliable gaming with Flydigi gaming controllers, designed for multi-platform use.",
+      "publishedAt": "2026-09-19T16:57:34.000Z",
+      "addedAt": "2026-09-19T23:47:42.537Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999902/20260920003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shops.flydigi.com/cdn/shop/files/social.jpg?v=1742441913"
+    },
+    {
+      "id": "65086df5dc8a",
+      "url": "https://thetenthmosaic.jp/",
+      "host": "thetenthmosaic.jp",
+      "region": "jp",
+      "title": "エネミー・ゼロ",
+      "headline": "「エネミー・ゼロ」の発売30周年記念展示，9月22日，23日に開催される「The Tenth Mosaic」内で実施決定",
+      "description": "ゲームカルチャーを祀る祭典「The Tenth Mosaic」では、9月22日・23日にクリエイター対談、音楽ライブ、特設展示など、ゲームカルチャーをあらゆる角度から体感できる2日間。| The Tenth Mosaic is a cel…",
+      "publishedAt": "2026-09-19T14:48:32.000Z",
+      "addedAt": "2026-09-19T23:47:42.537Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999903/20260919079/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg"
+    },
     {
       "id": "e144c22566d6",
       "url": "https://puchipoyon.com/",
