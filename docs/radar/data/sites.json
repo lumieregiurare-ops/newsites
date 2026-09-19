@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T23:45:37.439Z",
+  "updatedAt": "2026-09-19T02:21:52.741Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 288,
+  "total": 291,
   "regions": {
-    "jp": 261,
-    "global": 27
+    "jp": 263,
+    "global": 28
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 41
+      "count": 42
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 72
+      "count": 74
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 52
+      "count": 53
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ps",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
+    "4Gamer",
+    "App Store",
     "AppBank",
     "Inside",
     "Appliv Games",
@@ -133,6 +133,90 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2a59e9298e38",
+      "url": "https://rakuen-tsuiho-r.com/",
+      "host": "rakuen-tsuiho-r.com",
+      "region": "jp",
+      "title": "楽園追放 心のレゾナンス",
+      "headline": "劇場アニメ『楽園追放 心のレゾナンス』が「防衛省サイバーコンテスト」とコラボ決定。佐倉綾⾳さんや早⾒沙織さん、⻘⼭吉能さん、天城サリーさん、諸星すみれさんなどが出演する完成披露上…",
+      "description": "水島精二×虚淵玄 再び－ 『楽園追放』のその先の物語を描く 新たなる続編。『楽園追放 心のレゾナンス』2026年11月13日公開。",
+      "publishedAt": "2026-09-19T02:00:37.000Z",
+      "addedAt": "2026-09-19T02:21:52.741Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260919c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://rakuen-tsuiho-r.com/ogp.jpg"
+    },
+    {
+      "id": "5cfe7b4d0780",
+      "url": "https://gravityga.jp/",
+      "host": "gravityga.jp",
+      "region": "jp",
+      "title": "ラグナロクオンライン",
+      "headline": "『ラグナロクオンライン』新作も！？韓国文化を“空気読み”、冒険者の書類をさばいて、パン屋を経営！TGSで遊べる個性派ゲームを一足先に体験 【試遊会レポ】",
+      "description": "『ラグナロクオンライン』新作も！？韓国文化を“空気読み”、冒険者の書類をさばいて、パン屋を経営！TGSで遊べる個性派ゲームを一足先に体験 【試遊会レポ】",
+      "publishedAt": "2026-09-19T01:10:03.000Z",
+      "addedAt": "2026-09-19T02:21:52.741Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/19/172526.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "b8ae01495d72",
+      "url": "https://system3.com/",
+      "host": "system3.com",
+      "region": "global",
+      "title": "Putty",
+      "headline": "1990年代のカオスすぎるアクションゲーム『Putty』シリーズがNintendo Switch 2向けに復活した新作『Putty World』試遊レポート。「なぜ今、復活させる…",
+      "description": "Welcome to System3. Synonymous with the history of video games, our contribution to modern day gaming could be taken fo…",
+      "publishedAt": "2026-09-19T01:00:22.000Z",
+      "addedAt": "2026-09-19T02:21:52.741Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/260919z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://system3.com/wp-content/uploads/2024/05/OG.jpg"
+    },
     {
       "id": "a32e2f9fc870",
       "url": "https://products.voltage.co.jp/recordnoah/",
