@@ -794,7 +794,7 @@
       }
     },
     "ARES THE IRON VANGUARD": {
-      "at": "2026-09-16T07:00:56.974Z",
+      "at": "2026-09-19T08:24:59.452Z",
       "entry": {
         "trackId": "6755576582",
         "title": "ARES: THE IRON VANGUARD",
@@ -1034,6 +1034,43 @@
     "SophieChat AI": {
       "at": "2026-09-18T13:59:26.485Z",
       "entry": null
+    },
+    "アイドルマスター": {
+      "at": "2026-09-19T08:24:56.798Z",
+      "entry": {
+        "trackId": "6446659989",
+        "title": "学園アイドルマスター",
+        "artist": "Bandai Namco Entertainment Inc.",
+        "genres": [
+          "エンターテインメント",
+          "カード",
+          "シミュレーション"
+        ],
+        "releaseDate": "2024-05-15T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/%E5%AD%A6%E5%9C%92%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6446659989",
+        "sellerUrl": "https://www.bandainamcoent.co.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/fc/ca/59fcca1a-c342-772e-6c38-a6c1b951c9d7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "てくてく日和": {
+      "at": "2026-09-19T08:24:58.147Z",
+      "entry": {
+        "trackId": "6771680812",
+        "title": "てくてく日和",
+        "artist": "MUGIO CO., LTD.",
+        "genres": [
+          "ロールプレイング",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2027-02-13T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E6%97%A5%E5%92%8C/id6771680812",
+        "sellerUrl": "https://www.mugio.studio/ja#studio",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/88/c2/6b88c283-1a1e-ddac-8913-0cf2439d4cb2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -11290,6 +11327,59 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-19T02:22:05.283Z"
+    },
+    "soul'sremnantsoundtrack": {
+      "title": "Soul's Remnant Soundtrack",
+      "dateText": "2026年9月21日",
+      "date": "2026-09-21",
+      "sortKey": "2026-09-21",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "aeonfall": {
+      "title": "Aeonfall",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "discipledemo": {
+      "title": "Disciple Demo",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "hoveridle:gridmaster": {
+      "title": "Hover Idle: Grid Master",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "thegrottoindex": {
+      "title": "The Grotto Index",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "zodiactaledemo": {
+      "title": "Zodiac Tale Demo",
+      "dateText": "2026年9月22日",
+      "date": "2026-09-22",
+      "sortKey": "2026-09-22",
+      "prereg": false,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
+    },
+    "てくてく日和": {
+      "title": "てくてく日和",
+      "prereg": true,
+      "firstSeen": "2026-09-19T08:24:56.581Z"
     }
   },
   "changeLog": [
@@ -13355,6 +13445,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-09-19T08:24:56.581Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "てくてく日和",
+      "url": "https://apps.apple.com/tw/app/%E8%B5%B0%E8%B5%B0%E5%B0%8F%E6%97%A5/id6771680812",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/33/21/68332158-a860-aaca-1c3c-a8499ae94ec3/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年2月13日"
     }
   ],
   "initialized": true,

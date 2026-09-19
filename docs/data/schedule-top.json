@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T02:22:05.283Z",
+  "updatedAt": "2026-09-19T08:24:56.581Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,29 @@
   ],
   "prereg": [
     {
+      "id": "cc906e5ded91",
+      "title": "てくてく日和",
+      "url": "https://apps.apple.com/tw/app/%E8%B5%B0%E8%B5%B0%E5%B0%8F%E6%97%A5/id6771680812",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/33/21/68332158-a860-aaca-1c3c-a8499ae94ec3/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-19T04:25:25.000Z",
+      "releaseText": "2027年2月13日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "日記の中から生まれた不思議な生き物「ヒビモン」を探すかわいい癒し系ゲーム『てくてく日和』が開発中。東京ゲームショウ2026で体験版を試遊できる",
+      "description": "在 App Store 下載MUGIO CO., LTD.的《走走小日》。查看截圖、評分與評論、使用者提示以及更多與《走走小日》類似的遊戲。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260919l",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E6%97%A5%E5%92%8C/id6771680812",
+        "preorder": true,
+        "releaseDate": "2027-02-13T08:00:00Z"
+      }
+    },
+    {
       "id": "e2dd501f7102",
       "title": "キタキタ王様",
       "url": "https://kitaou.efun.com/event/pre/",
@@ -417,32 +440,21 @@
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
       }
-    },
-    {
-      "id": "91e14fb88f71",
-      "title": "9 Kings（9 キングス）",
-      "url": "https://apps.apple.com/jp/app/9-kings/id6757860952",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/c3/15/55c31591-28da-42d6-fdbc-3c01d0c249a8/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-16T22:00:03.000Z",
-      "releaseText": "2026年10月8日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "「非常に好評」王国建設デッキ構築ストラテジー『9 Kings（9 キングス）』新コンテンツ追加と共に11月12日正式化決定",
-      "description": "Playdigiousの「9 Kings」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「9 Kings」に似たゲームを見ることなどができます。",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/17/172387.html",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/9-kings/id6757860952",
-        "preorder": true,
-        "releaseDate": "2026-10-08T07:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-19T08:24:56.581Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "てくてく日和",
+      "url": "https://apps.apple.com/tw/app/%E8%B5%B0%E8%B5%B0%E5%B0%8F%E6%97%A5/id6771680812",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/33/21/68332158-a860-aaca-1c3c-a8499ae94ec3/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年2月13日"
+    },
     {
       "at": "2026-09-18T13:59:23.603Z",
       "type": "prereg_start",
@@ -501,16 +513,6 @@
       "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png",
       "platforms": [],
       "to": "2026年12月25日"
-    },
-    {
-      "at": "2026-09-17T23:48:49.615Z",
-      "type": "new",
-      "label": "新規",
-      "title": "CONTROL Resonant",
-      "url": "https://www.remedygames.com/games/control-2/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年9月24日"
     }
   ]
 }
