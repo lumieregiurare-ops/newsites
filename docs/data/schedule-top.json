@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T02:31:15.746Z",
+  "updatedAt": "2026-09-20T08:55:57.611Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,36 @@
     }
   ],
   "releases": [
+    {
+      "id": "784a3d0e0442",
+      "title": "ガーディアンテイルズ",
+      "date": "2026-09-20",
+      "dateText": "2026年9月20日",
+      "sortKey": "2026-09-20",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://space.bilibili.com/687325178/dynamic/",
+      "image": "",
+      "maker": "",
+      "headline": "『ガーディアンテイルズ』が“農業ゲー”に？『ガデテル』の公式ライセンスを受けた新作『代号：坎農』が登場―日本未上陸の注目ゲーム3選【2026年9月20日】",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/09/20/188066.html"
+    },
+    {
+      "id": "b5de340302d0",
+      "title": "ドットアビス",
+      "date": "2026-09-21",
+      "dateText": "2026年9月21日",
+      "sortKey": "2026-09-21",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://dotabyss.dmmgames-official.com/",
+      "image": "https://dotabyss.dmmgames-official.com/assets/images/ogp.png",
+      "maker": "",
+      "headline": "「ドットアビス」にSSR“【覚醒】ベリサ”やメインストーリー8章が9月21日に登場。迎撃戦の上限開放や新厄災の実装も発表［TGS2026］",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/998/G099816/20260920030/"
+    },
     {
       "id": "1812ca9c3c70",
       "title": "Graveyard Keeper 2",
@@ -233,41 +263,33 @@
       "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
-    },
-    {
-      "id": "64b5a2a0affb",
-      "title": "ポケットモンスター",
-      "date": "2026-12-18",
-      "dateText": "2026年12月18日",
-      "sortKey": "2026-12-18",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
-      "image": "https://www.pokemon.co.jp/ex/legends_z-a/assets/og/ja/og.jpg",
-      "maker": "",
-      "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
-    },
-    {
-      "id": "ce2a827c6bbc",
-      "title": "大穢",
-      "date": "2026-12-24",
-      "dateText": "2026年12月24日",
-      "sortKey": "2026-12-24",
-      "priority": 0,
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://dramaticcreate.com/owen/",
-      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
-      "maker": "",
-      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
     }
   ],
   "prereg": [
+    {
+      "id": "66d77cdcb0bf",
+      "title": "プチプラネット",
+      "url": "https://planet.hoyoverse.com/ja-jp/home/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b6/a2/96b6a2f9-5965-4d03-75fa-b531c258b4da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-20T03:22:21.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "HoYoverseのスローライフゲーム「プチプラネット」，ファイナルβテストを開始。公式まったり番組「ぷらっとぷらねっと」第3回を9月25日20：00に配信",
+      "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/948/G094822/20260920015/",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/id6776621908",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      }
+    },
     {
       "id": "cc906e5ded91",
       "title": "てくてく日和",
@@ -393,31 +415,6 @@
       "appleId": "6775403879"
     },
     {
-      "id": "56da25edf260",
-      "title": "Lumi Master",
-      "url": "https://lumi.biligames.com/jp/",
-      "image": "https://creator-static2.biligames.com/93496ab22be5503da720f6e8db7e5e3eeb59abad2b234ba1d98c1757d4a05cee.png",
-      "platforms": [
-        "switch2",
-        "mobile"
-      ],
-      "startedAt": "2026-09-17T03:00:52.000Z",
-      "releaseText": "2026年9月18日",
-      "releaseSource": "appstore",
-      "count": "事前登録者数が300万人",
-      "reward": "",
-      "headline": "【基本プレイ無料】かわいいモンスターを集めて育てるRPG『Lumi Master』（るぅみマスター）モバイル向けに正式サービス開始。100種類以上の「るぅみ」を集めながら冒険",
-      "description": "事前登録開始！Switch 2が当たるキャンペーン同時開催中！",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260917l",
-      "appleId": "6754979232",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-        "preorder": true,
-        "releaseDate": "2026-09-18T07:00:00Z"
-      }
-    },
-    {
       "id": "f0c7d00a8864",
       "title": "俺だけレベルアップな件：KARMA",
       "url": "https://sololeveling-karma.netmarble.com/ja/",
@@ -444,6 +441,50 @@
   ],
   "changes": [
     {
+      "at": "2026-09-20T08:55:57.611Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "プチプラネット",
+      "url": "https://planet.hoyoverse.com/ja-jp/home/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b6/a2/96b6a2f9-5965-4d03-75fa-b531c258b4da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-20T08:55:57.611Z",
+      "type": "new",
+      "label": "新規",
+      "title": "幻想水滸伝",
+      "url": "https://www.konami.com/games/suikoden/ja/",
+      "image": "https://www.konami.com/games/suikoden/s/images/sns_genso_202209_ja.jpg?v=82",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年春"
+    },
+    {
+      "at": "2026-09-20T08:55:57.611Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ドットアビス",
+      "url": "https://dotabyss.dmmgames-official.com/",
+      "image": "https://dotabyss.dmmgames-official.com/assets/images/ogp.png",
+      "platforms": [],
+      "to": "2026年9月21日"
+    },
+    {
+      "at": "2026-09-20T08:55:57.611Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ガーディアンテイルズ",
+      "url": "https://space.bilibili.com/687325178/dynamic/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年9月20日"
+    },
+    {
       "at": "2026-09-19T23:47:53.609Z",
       "type": "new",
       "label": "新規",
@@ -462,52 +503,6 @@
       "image": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/ppu01772674640611.jpg",
       "platforms": [],
       "to": "2026年11月"
-    },
-    {
-      "at": "2026-09-19T13:35:55.838Z",
-      "type": "new",
-      "label": "新規",
-      "title": "語彙の王様",
-      "url": "https://www.enskyshop.com/products/list/?character_id=1094",
-      "image": "",
-      "platforms": [],
-      "to": "2026年10月"
-    },
-    {
-      "at": "2026-09-19T08:24:56.581Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "てくてく日和",
-      "url": "https://apps.apple.com/tw/app/%E8%B5%B0%E8%B5%B0%E5%B0%8F%E6%97%A5/id6771680812",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/33/21/68332158-a860-aaca-1c3c-a8499ae94ec3/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2027年2月13日"
-    },
-    {
-      "at": "2026-09-18T13:59:23.603Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "SophieChat:AI",
-      "url": "https://sophiechat-ai.go-spiral.ai/",
-      "image": "https://sophiechat-ai.go-spiral.ai/assets/ogp/ogp_1200x630.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-09-18T13:59:23.603Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "キタキタ王様",
-      "url": "https://kitaou.efun.com/event/pre/",
-      "image": "https://resjp-download.vsplay.com/res_jp/jpwlxq/jpwlxqPre/pc/up_/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年10月25日"
     }
   ]
 }
