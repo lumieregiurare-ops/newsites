@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:50:08.845Z",
+  "updatedAt": "2026-09-20T23:43:46.533Z",
   "platforms": [
     {
       "id": "switch",
@@ -233,6 +233,21 @@
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/17/172412.html"
     },
     {
+      "id": "5b1067591613",
+      "title": "Loftia",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://loftia.gg/",
+      "image": "",
+      "maker": "",
+      "headline": "戦闘も競争もないライフシムMMO「Loftia」の早期アクセス版が11月3日に配信開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/973/G097300/20260918057/"
+    },
+    {
       "id": "871c2b29e785",
       "title": "World of Warcraft: Forever",
       "date": "2026-11-04",
@@ -246,23 +261,6 @@
       "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
-    },
-    {
-      "id": "aefe8531cc92",
-      "title": "エッジ オブ メモリーズ",
-      "date": "2026-12-10",
-      "dateText": "2026年12月10日",
-      "sortKey": "2026-12-10",
-      "priority": 0,
-      "platforms": [
-        "ps"
-      ],
-      "url": "https://3goo.co.jp/product/edge-of-memories/",
-      "image": "",
-      "maker": "",
-      "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
     }
   ],
   "prereg": [
@@ -283,7 +281,7 @@
       "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/948/G094822/20260920015/",
-      "appleId": "",
+      "appleId": "6776621908",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/id6776621908",
         "preorder": true,
@@ -441,6 +439,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-20T23:43:46.533Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Loftia",
+      "url": "https://loftia.gg/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月3日"
+    },
+    {
       "at": "2026-09-20T08:55:57.611Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -493,16 +501,6 @@
       "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg",
       "platforms": [],
       "to": "2026年9月22日"
-    },
-    {
-      "at": "2026-09-19T13:35:55.838Z",
-      "type": "new",
-      "label": "新規",
-      "title": "モンギル：STAR DIVE",
-      "url": "https://stardive.netmarble.com/ja/",
-      "image": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/ppu01772674640611.jpg",
-      "platforms": [],
-      "to": "2026年11月"
     }
   ]
 }
