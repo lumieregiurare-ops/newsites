@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-20T23:43:33.700Z",
+  "updatedAt": "2026-09-21T02:28:54.491Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 336,
+  "total": 339,
   "regions": {
-    "jp": 300,
+    "jp": 303,
     "global": 36
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 102
+      "count": 104
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 25
+      "count": 26
     },
     {
       "id": "media",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -133,6 +133,87 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "922ea17c37b9",
+      "url": "https://www.capcom-games.com/megaman/do/ja-jp/",
+      "host": "capcom-games.com",
+      "region": "jp",
+      "title": "ロックマン: デュアル オーバーライド",
+      "headline": "『ロックマン: デュアル オーバーライド』新ボス「ジェットマン」が公開！",
+      "description": "シリーズ最新作！2027年発売予定『ロックマン: デュアル オーバーライド』公式サイト",
+      "publishedAt": "2026-09-21T02:10:46.000Z",
+      "addedAt": "2026-09-21T02:28:54.491Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260921z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom-games.com/megaman/do/assets/images/share_ja-jp.jpg"
+    },
+    {
+      "id": "9eb108e0532a",
+      "url": "https://www.e-xtreme.co.jp/",
+      "host": "e-xtreme.co.jp",
+      "region": "jp",
+      "title": "ヨ",
+      "headline": "ヨーロッパの小さな国で，NEOGEOの新作が作られていた？ アンドラのゲームスタジオ・Nalua Studioのブースを訪ねて［TGS2026］",
+      "description": "株式会社エクストリームの公式サイトです。多種多様な人材を活用し、DXパートナーとしてあらゆるお客様のご要望にお応えします。「デジタルクリエイタープロダクション」として、上流工程から保守までの領域でシステム開発やリソースの提供を行います。",
+      "publishedAt": "2026-09-21T01:30:00.000Z",
+      "addedAt": "2026-09-21T02:28:54.491Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20260921002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.e-xtreme.co.jp/wp-content/uploads/2026/06/img_ogp.jpg"
+    },
+    {
+      "id": "f629ae7f7872",
+      "url": "https://www.taito.co.jp/estpolis/",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "エストポリス伝記 I＆II",
+      "headline": "名作RPGの現行機向け移植版『エストポリス伝記 I＆II』の発売が決定。1993年、1995年にタイトーから発売された作品",
+      "description": "心を揺さぶる2つのRPGが復活「エストポリス伝記 I&II」2027年発売！",
+      "publishedAt": "2026-09-21T01:00:27.000Z",
+      "addedAt": "2026-09-21T02:28:54.491Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260921u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/estpolis/banner_1200675_estpolis202609.jpg"
+    },
     {
       "id": "68c9e43c4752",
       "url": "https://loftia.gg/",
