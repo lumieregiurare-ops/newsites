@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-21T02:28:54.491Z",
+  "updatedAt": "2026-09-21T09:26:34.296Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 339,
+  "total": 351,
   "regions": {
-    "jp": 303,
-    "global": 36
+    "jp": 313,
+    "global": 38
   },
   "categories": [
     {
@@ -20,27 +20,27 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 49
+      "count": 50
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 29
+      "count": 33
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 54
+      "count": 56
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 84
+      "count": 88
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 104
+      "count": 108
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 26
+      "count": 27
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 77
+      "count": 80
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 60
+      "count": 61
     }
   ],
   "platforms": [
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 13
+      "count": 14
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 10
+      "count": 11
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 38
+      "count": 39
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 115
+      "count": 118
     },
     {
       "id": "browser",
@@ -117,14 +117,14 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 0
+      "count": 1
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "AppBank",
-    "Game*Spark",
+    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "Appliv Games",
@@ -133,6 +133,366 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "463824f6c08e",
+      "url": "https://stellar-blade.com/ns2/jp/",
+      "host": "stellar-blade.com",
+      "region": "jp",
+      "title": "Stellar Blade",
+      "headline": "スイッチ2版『Stellar Blade』PS5とのグラフィック比較を海外YouTubeチャンネルが公開。スイッチ2も基本60fpsで健闘",
+      "description": "『STELLAR BLADE COMPLETE EDITION』が2026年11月6日、Nintendo Switch 2で発売。今すぐ予約！",
+      "publishedAt": "2026-09-21T08:46:03.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/21/172606.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "points": null,
+      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg"
+    },
+    {
+      "id": "1a2515f582f3",
+      "url": "https://hello.vrchat.com/",
+      "host": "hello.vrchat.com",
+      "region": "global",
+      "title": "ぶいすいーと",
+      "headline": "VR睡眠用枕「ぶいすいーと」の新作は抱き枕スタイル。添い寝派にいいかもです［TGS2026］",
+      "description": "VR睡眠用枕「ぶいすいーと」の新作は抱き枕スタイル。添い寝派にいいかもです［TGS2026］",
+      "publishedAt": "2026-09-21T08:39:20.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/794/G079439/20260921054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "vr"
+      ],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/5f0770791aaf57311515b23d/t/6508c787b8ced41ca3404f36/1718212268632/VRC_Logo.png?format=1500w"
+    },
+    {
+      "id": "a6c4a134c924",
+      "url": "https://picoparkgame.com/spp/",
+      "host": "picoparkgame.com",
+      "region": "jp",
+      "title": "ソニック・ザ・ヘッジホッグ",
+      "headline": "「ソニック・ザ・ヘッジホッグ」35周年記念インタビュー。総合プロデューサー飯塚 隆氏に聞く，これまでの道のりと未来の可能性。そしてまだ見ぬ新作に向けて［TGS2026］",
+      "description": "「PICO PARK」シリーズを代表するキャラクターであるPICO CATが、史上最速のハリネズミ・ソニックの姿に変身し、テイルスやナックルズ、エミーといったソニックの仲間たちと『PICO PARK』の世界を駆け抜けます。",
+      "publishedAt": "2026-09-21T07:56:02.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/013/G101380/20260921041/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://picoparkgame.com/assets/img/spp.png"
+    },
+    {
+      "id": "eceaac482b84",
+      "url": "https://kumamoto-oshiroexpo.com/",
+      "host": "kumamoto-oshiroexpo.com",
+      "region": "jp",
+      "title": "特別版 お城EXPO in 熊本 2026",
+      "headline": "刀剣乱舞ONLINEが「特別版 お城EXPO in 熊本 2026」とコラボ、熊本ゆかりの刀剣男士6振りが集結 10月3日から",
+      "description": "熊本発の歴史イベント『お城EXPO in 熊本2026』公式サイト。10周年を迎えるお城EXPOの熊本特別版イベント情報が満載。",
+      "publishedAt": "2026-09-21T07:45:00.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/21/game/3111021.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kumamoto-oshiroexpo.com/wp/wp-content/themes/oshiroEXPO-theme/assets/img/link.jpg"
+    },
+    {
+      "id": "bbd1f1e25ac3",
+      "url": "https://dc.sega.jp/game_sonic2.html/",
+      "host": "dc.sega.jp",
+      "region": "jp",
+      "title": "これまで",
+      "headline": "【ソニック35周年】総合プロデューサーが語る、ソニックの「これまで」と「これから」【TGS2026】",
+      "description": "【ソニック35周年】総合プロデューサーが語る、ソニックの「これまで」と「これから」【TGS2026】",
+      "publishedAt": "2026-09-21T07:00:24.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/interview/2609212b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "d843e9a099c6",
+      "url": "https://apps.apple.com/jp/app/id6761804867",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "FORTBLOX：荒野を駆ける移動要塞",
+      "headline": "ブロックや武器，キャラクターを自由に組み合わせて自分だけの移動要塞を作る「FORTBLOX：荒野を駆ける移動要塞」，スマホ向けに配信開始",
+      "description": "HYPERRISEの「FORTBLOX：荒野を駆ける移動要塞」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「FORTBLOX：荒野を駆ける移動要塞」に似たゲームを見ることなどができま…",
+      "publishedAt": "2026-09-21T06:35:39.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104463/20260921033/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/60/a5/7260a5c7-0d7b-9bcb-a98c-bede35ba5679/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "334cbc29db18",
+      "url": "https://www.pocketpair.jp/palworld/",
+      "host": "pocketpair.jp",
+      "region": "jp",
+      "title": "パルワールド",
+      "headline": "「パルワールド」の世界をリアルに楽しめる「PALWORLD POP UP SHOP 2026 in 渋谷モディ」，9月26日から開催",
+      "description": "「パルワールド」の世界をリアルに楽しめる「PALWORLD POP UP SHOP 2026 in 渋谷モディ」，9月26日から開催",
+      "publishedAt": "2026-09-21T06:25:07.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/574/G057444/20260921036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "820bb4a19029",
+      "url": "https://apps.apple.com/jp/app/id1477455989",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ツイステ",
+      "headline": "『ツイステ』ナイトレイブンカレッジが突如ドット化！ 新展開を予感させるPVを公開",
+      "description": "Aniplex Inc.の「ディズニー ツイステッドワンダーランド」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ディズニー ツイステッドワンダーランド」に似たゲームを見ることなどが…",
+      "publishedAt": "2026-09-21T06:00:00.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/21/game/3109182.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/15/66/4b156693-310f-1a4d-b327-d1071251c673/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "2bd5e428738c",
+      "url": "https://earlasparagus385.wixsite.com/project-solaris/",
+      "host": "earlasparagus385.wixsite.com",
+      "region": "jp",
+      "title": "プロジェクト・ソラリス",
+      "headline": "落ちこぼれ魔女を一人前に育てよう。ローグライトRPG「プロジェクト・ソラリス」，本日正式リリース",
+      "description": "プロジェクト・ソラリス公式サイト/StudioGreenhorn ローグライト×QTEをベースとするデッキ構築型RPG",
+      "publishedAt": "2026-09-21T05:38:50.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104462/20260921031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "402d9e99629d",
+      "url": "https://www.veewo.com/neonabyss2/",
+      "host": "veewo.com",
+      "region": "global",
+      "title": "Neon Abyss 2",
+      "headline": "サイバーパンクな地下世界を舞台にした「Neon Abyss 2」のPC版，10月8日に正式リリース。コンシューマ版も同日に発売決定",
+      "description": "Plunge into the chaotic cybermyth roguelike world of Neon Abyss 2! With diverse combat styles and unlimited item synerg…",
+      "publishedAt": "2026-09-21T04:02:50.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/903/G090320/20260921013/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/3d55e4_c366f1120fad4e798cce8adfe4d53acd~mv2.png/v1/fill/w_1280,h_720,al_c/3d55e4_c366f1120fad4e798cce8adfe4d53acd~mv2.png"
+    },
+    {
+      "id": "0435326247fc",
+      "url": "https://shueisha-games.com/games/umdc/",
+      "host": "shueisha-games.com",
+      "region": "jp",
+      "title": "都市伝説解体センター",
+      "headline": "今年のTGSにも警察の広報ブースを出展。千葉県警は「都市伝説解体センター」とのコラボ企画を実施［TGS2026］",
+      "description": "呪いの箱、事故物件、異界…都市伝説の正体と真実とは怪異、呪物、異界などの調査・解体を行う『都市伝説解体センター』。主人公の福来（ふくらい）あざみは、『都市伝説解体センター』のセンター長であり国内屈指の能力者である廻屋渉（めぐりやあゆむ）と…",
+      "publishedAt": "2026-09-21T04:01:24.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/649/G064901/20260921019/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shueisha-games.com/wp-content/uploads/2023/07/588d6bbae2cb1d5f5cce4ba2025a5b00-1200x675.jpg"
+    },
+    {
+      "id": "746f82ff8dbb",
+      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
+      "host": "sanrio-games.jp",
+      "region": "jp",
+      "title": "Sanrio Kawaii Me Live!",
+      "headline": "Sanrio Games初のスマホ向けダンス＆リズムゲーム「Sanrio Kawaii Me Live!」，2027年1月にリリース。本日より事前登録の受付を開始",
+      "description": "\"超KAWAII\"新作リズム＆ダンスゲーム『サンリオカワイイミライブ！（カワミラ）』リリース記念ライブ特設サイト。2027年1月14日(木)に横浜関内ホールにて開催！チケット情報や、会場へのアクセス方法などをまとめてご紹介。",
+      "publishedAt": "2026-09-21T03:00:00.000Z",
+      "addedAt": "2026-09-21T09:26:34.296Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104418/20260918051/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609212o"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "anniversary"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png"
+    },
     {
       "id": "922ea17c37b9",
       "url": "https://www.capcom-games.com/megaman/do/ja-jp/",
@@ -148,6 +508,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260921z"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/968/G096894/20260921016/"
         }
       ],
       "tags": [
@@ -202,6 +566,14 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260921u"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104457/20260921029/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/21/172592.html"
         }
       ],
       "tags": [
@@ -670,6 +1042,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260920v"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/21/game/3111095.php"
         }
       ],
       "tags": [
@@ -10282,6 +10658,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/008/G100854/20260805029/"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/21/game/3111045.php"
         }
       ],
       "tags": [

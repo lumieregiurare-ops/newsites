@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T02:29:07.184Z",
+  "updatedAt": "2026-09-21T09:26:46.347Z",
   "platforms": [
     {
       "id": "switch",
@@ -267,6 +267,31 @@
   ],
   "prereg": [
     {
+      "id": "746f82ff8dbb",
+      "title": "Sanrio Kawaii Me Live!",
+      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
+      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-21T03:00:00.000Z",
+      "releaseText": "2027年1月14日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "Sanrio Games初のスマホ向けダンス＆リズムゲーム「Sanrio Kawaii Me Live!」，2027年1月にリリース。本日より事前登録の受付を開始",
+      "description": "\"超KAWAII\"新作リズム＆ダンスゲーム『サンリオカワイイミライブ！（カワミラ）』リリース記念ライブ特設サイト。2027年1月14日(木)に横浜関内ホールにて開催！チケット情報や、会場へのアクセス方法などをまとめてご紹介。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/044/G104418/20260918051/",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/sanrio-kawaii-me-live/id6749342133",
+        "preorder": true,
+        "releaseDate": "2027-01-14T08:00:00Z"
+      },
+      "announcedText": "2027年1月にリリース"
+    },
+    {
       "id": "66d77cdcb0bf",
       "title": "プチプラネット",
       "url": "https://planet.hoyoverse.com/ja-jp/home/",
@@ -283,7 +308,7 @@
       "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/948/G094822/20260920015/",
-      "appleId": "6776621908",
+      "appleId": "",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/id6776621908",
         "preorder": true,
@@ -406,40 +431,40 @@
       "startedAt": "2026-09-17T12:00:48.000Z",
       "releaseText": "10月7日に配信",
       "releaseSource": "news",
-      "count": "",
+      "count": "事前登録者数が10万人",
       "reward": "",
       "headline": "「マビノギモバイル」，10月7日に配信決定。エリンでの冒険を描いたオンラインRPG",
       "description": "「マビノギモバイル」事前登録受付中！ほのぼの巡る、暮らしと冒険。スマートフォンとPCでもうすぐ登場！",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/387/G038732/20260917069/",
       "appleId": "6775403879"
-    },
-    {
-      "id": "f0c7d00a8864",
-      "title": "俺だけレベルアップな件：KARMA",
-      "url": "https://sololeveling-karma.netmarble.com/ja/",
-      "image": "https://sgimage.netmarble.com/images/netmarble/karma/20260724/wzz11784883307615.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-17T03:00:04.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "“誰も知らない27年”をオリジナルストーリーで描く！ 新作『俺だけレベルアップな件：KARMA』で味わう『俺レベ』らしい無双感【TGS2026：先行プレイレポ】",
-      "description": "事前登録受付中！今すぐ登録してスペシャル報酬をGET！",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/09/17/187878.html",
-      "appleId": "",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-karma/id6744352329",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-21T09:26:46.347Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Sanrio Kawaii Me Live!",
+      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
+      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年1月14日"
+    },
+    {
+      "at": "2026-09-21T09:26:46.347Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Sanrio Kawaii Me Live!",
+      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
+      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年1月14日"
+    },
     {
       "at": "2026-09-20T23:43:46.533Z",
       "type": "new",
@@ -483,26 +508,6 @@
       "image": "https://dotabyss.dmmgames-official.com/assets/images/ogp.png",
       "platforms": [],
       "to": "2026年9月21日"
-    },
-    {
-      "at": "2026-09-19T23:47:53.609Z",
-      "type": "new",
-      "label": "新規",
-      "title": "エネミー・ゼロ",
-      "url": "https://thetenthmosaic.jp/",
-      "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg",
-      "platforms": [],
-      "to": "2026年9月22日"
-    },
-    {
-      "at": "2026-09-19T13:35:55.838Z",
-      "type": "new",
-      "label": "新規",
-      "title": "モンギル：STAR DIVE",
-      "url": "https://stardive.netmarble.com/ja/",
-      "image": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/ppu01772674640611.jpg",
-      "platforms": [],
-      "to": "2026年11月"
     }
   ]
 }
