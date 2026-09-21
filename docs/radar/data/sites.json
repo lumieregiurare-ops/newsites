@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-21T09:26:34.296Z",
+  "updatedAt": "2026-09-21T16:06:22.031Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 351,
+  "total": 352,
   "regions": {
-    "jp": 313,
+    "jp": 314,
     "global": 38
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 61
+      "count": 62
     }
   ],
   "platforms": [
@@ -92,12 +92,12 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 7
+      "count": 8
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 39
+      "count": 40
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
@@ -133,6 +133,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f6ff391db5df",
+      "url": "https://www.thewitcher.com/pl/ja/witcher3/",
+      "host": "thewitcher.com",
+      "region": "jp",
+      "title": "ウィッチャー3 ワイルドハント",
+      "headline": "XBOX版「ウィッチャー3 ワイルドハント」，XBOX Play Anywhereに対応決定。XBOX版を所持していれば，PC版が追加費用なしで受け取れるように",
+      "description": "『ウィッチャー３ ワイルドハント』は、ダークファンタジーのオープンワールドを舞台とした傑作RPG。自身の養女であるシリを探すべく、大陸を旅する「リヴィアのゲラルト」の物語が描かれる。",
+      "publishedAt": "2026-09-21T10:45:48.000Z",
+      "addedAt": "2026-09-21T16:06:22.031Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/036/G103620/20260921061/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/witcher3/og-image/og-image-remastered-diww7fkwnzl.jpg"
+    },
     {
       "id": "463824f6c08e",
       "url": "https://stellar-blade.com/ns2/jp/",
