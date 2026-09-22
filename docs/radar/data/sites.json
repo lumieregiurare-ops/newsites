@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-22T07:04:24.904Z",
+  "updatedAt": "2026-09-22T12:58:09.882Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 355,
+  "total": 358,
   "regions": {
-    "jp": 316,
-    "global": 39
+    "jp": 318,
+    "global": 40
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 34
+      "count": 35
     },
     {
       "id": "campaign",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 80
+      "count": 82
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 118
+      "count": 120
     },
     {
       "id": "browser",
@@ -121,18 +121,77 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
     "Inside",
-    "App Store",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d09215183ed4",
+      "url": "https://plaionreplai.jp/ja/products/neogeo-aes/",
+      "host": "plaionreplai.jp",
+      "region": "jp",
+      "title": "ゼロウイング",
+      "headline": "「NEOGEO AES+」追加タイトル発表。まさかの存在しないNEOGEO版『ゼロウイング』から『ファイターズヒストリーダイナマイト』まで全5本",
+      "description": "生誕35周年を記念して生まれ変わったNEOGEO AES+は、真のハードウェアゲームプレイ、HDMI出力、そして新規および既存のAESカートリッジとの完全な互換性を提供します。",
+      "publishedAt": "2026-09-22T11:51:47.000Z",
+      "addedAt": "2026-09-22T12:58:09.882Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/22/172652.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://plaionreplai.jp/cdn/shop/files/INT_OriginalSKU_01.webp?v=1775199579"
+    },
+    {
+      "id": "20571d4bf317",
+      "url": "https://fortresstale-jp.hookylin.com/",
+      "host": "fortresstale-jp.hookylin.com",
+      "region": "global",
+      "title": "スチームパンク：クロノ要塞",
+      "headline": "Flame Games / カード · App Store 新着",
+      "description": "世界累計300万人が認めた、新時代の移動要塞RPG",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "addedAt": "2026-09-22T12:58:09.882Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3%E3%82%AF-%E3%82%AF%E3%83%AD%E3%83%8E%E8%A6%81%E5%A1%9E/id6787008950"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "8bcde317ba69",
       "url": "https://www.dayofthedevs.org/",
@@ -1784,6 +1843,39 @@
         "teaser"
       ],
       "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "30fe5590f1fd",
+      "url": "https://artdigic.com/",
+      "host": "artdigic.com",
+      "region": "jp",
+      "title": "脱出ゲーム Villa Riviera",
+      "headline": "ArtDigic / ライフスタイル・トリビア · App Store 新着",
+      "description": "ArtDigic / ライフスタイル・トリビア · App Store 新着",
+      "publishedAt": "2026-09-19T07:00:00.000Z",
+      "addedAt": "2026-09-22T12:58:09.882Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0-villa-riviera/id6767723449"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ライフスタイル",
+        "トリビア"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
