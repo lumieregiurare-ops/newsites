@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:58:12.081Z",
+  "updatedAt": "2026-09-22T23:55:52.830Z",
   "boards": [
     {
       "id": "steam",
@@ -65,7 +65,7 @@
           "title": "WARDOGS",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636",
           "url": "https://store.steampowered.com/app/1867240/",
-          "metric": "同時接続 318,255人",
+          "metric": "同時接続 320,372人",
           "delta": {
             "kind": "same",
             "label": "–",
@@ -91,7 +91,7 @@
           "title": "Valheim",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789121975",
           "url": "https://store.steampowered.com/app/892970/",
-          "metric": "同時接続 222,742人",
+          "metric": "同時接続 223,013人",
           "delta": {
             "kind": "same",
             "label": "–",
@@ -150,10 +150,10 @@
       "items": [
         {
           "rank": 1,
-          "title": "バンドリ！アワーノーツ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/d9/0a/ead90a2d-8e3c-3356-edb5-c0d66e21afae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
-          "metric": "Bushiroad Inc.",
+          "title": "アニモ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
           "delta": {
             "kind": "new",
             "label": "NEW",
@@ -163,10 +163,10 @@
         },
         {
           "rank": 2,
-          "title": "アニモ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
-          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
+          "title": "バンドリ！アワーノーツ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/59/40/6a5940eb-57ea-4561-ef9e-17cf4e98e1aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+          "metric": "Bushiroad Inc.",
           "delta": {
             "kind": "new",
             "label": "NEW",
@@ -189,6 +189,45 @@
         },
         {
           "rank": 4,
+          "title": "Colony Flow!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/4a/c0/944ac051-8f03-ef8b-8ec5-7eebf5b49f8b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
+          "metric": "ABI GLOBAL LTD.",
+          "delta": {
+            "kind": "up",
+            "label": "+4",
+            "value": 4
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "Bus Fever Party!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d2/4c/ecd24cc7-8886-76a5-4546-364177fa3aef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
+          "metric": "Lumi Games",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 6,
+          "title": "ブロックブラスト (Block Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/4f/d2/204fd22f-12bf-c671-2f08-d6c2b67ec6bc/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
+          "metric": "Hungry Studio",
+          "delta": {
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 7,
           "title": "ぼくのプロ野球（ぼくプロ）-GM経営シミュレーションゲーム",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/9c/76/b89c7697-ebdf-c3d4-a0dd-0cb90d50cd9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%81%BC%E3%81%8F%E3%81%AE%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83-%E3%81%BC%E3%81%8F%E3%83%97%E3%83%AD-gm%E7%B5%8C%E5%96%B6%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0/id6802769622",
@@ -196,45 +235,6 @@
           "delta": {
             "kind": "new",
             "label": "NEW",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
-          "title": "Colony Flow!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/4a/c0/944ac051-8f03-ef8b-8ec5-7eebf5b49f8b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
-          "metric": "ABI GLOBAL LTD.",
-          "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 6,
-          "title": "Bus Fever Party!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d2/4c/ecd24cc7-8886-76a5-4546-364177fa3aef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
-          "metric": "Lumi Games",
-          "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 7,
-          "title": "ブロックブラスト (Block Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/4f/d2/204fd22f-12bf-c671-2f08-d6c2b67ec6bc/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
-          "metric": "Hungry Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"

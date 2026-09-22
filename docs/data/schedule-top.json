@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:58:23.546Z",
+  "updatedAt": "2026-09-22T23:56:02.334Z",
   "platforms": [
     {
       "id": "switch",
@@ -40,20 +40,19 @@
   ],
   "releases": [
     {
-      "id": "1812ca9c3c70",
+      "id": "c46d4a278f6e",
       "title": "Graveyard Keeper 2",
       "date": "2026-09-22",
       "dateText": "2026年9月22日",
       "sortKey": "2026-09-22",
       "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4358690/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/header.jpg",
+      "platforms": [],
+      "url": "https://www.graveyardkeeper2.com/",
+      "image": "https://static.wixstatic.com/media/4ab755_e6261dafbce54b2bbc951ffcfc527295%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4ab755_e6261dafbce54b2bbc951ffcfc527295%7Emv2.png",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "「墓場」を管理運営をするゲーム『Graveyard Keeper 2』体験版が配信開始！セーブデータは9月22日発売の製品版に引き継ぎできる",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260915j"
     },
     {
       "id": "579785b2a256",
@@ -442,6 +441,19 @@
   ],
   "changes": [
     {
+      "at": "2026-09-22T23:56:02.334Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Dicevaders",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000134443",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d6afd7a8e7eedd6a9275a88795b99ffd28069b435497a970317d5ac2e5325983.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2026年9月30日"
+    },
+    {
       "at": "2026-09-21T09:26:46.347Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -498,16 +510,6 @@
         "mobile"
       ],
       "to": "2027年春"
-    },
-    {
-      "at": "2026-09-19T23:47:53.609Z",
-      "type": "new",
-      "label": "新規",
-      "title": "エネミー・ゼロ",
-      "url": "https://thetenthmosaic.jp/",
-      "image": "https://framerusercontent.com/images/UB9IP3dR6XYgjDfHT70jdiugQ6Y.jpg",
-      "platforms": [],
-      "to": "2026年9月22日"
     }
   ]
 }
