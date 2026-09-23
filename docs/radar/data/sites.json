@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T15:00:18.629Z",
+  "updatedAt": "2026-09-23T15:30:19.106Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 370,
+  "total": 372,
   "regions": {
-    "jp": 325,
+    "jp": 327,
     "global": 45
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 36
+      "count": 37
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 90
+      "count": 91
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 114
+      "count": 115
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 14
+      "count": 15
     },
     {
       "id": "ps",
@@ -122,10 +122,10 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "4Gamer",
     "Inside",
     "Game*Spark",
     "AppBank",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "Hacker News",
@@ -133,6 +133,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b049e9343ca8",
+      "url": "https://youjo-senki.jp/10th-concert.html/",
+      "host": "youjo-senki.jp",
+      "region": "jp",
+      "title": "幼女戦記",
+      "headline": "『幼女戦記』初となるフィルムコンサートの開催が決定！ターニャ役・悠木碧さんをはじめ、豪華キャスト陣による生アフレコを実施",
+      "description": "『幼女戦記』初となるフィルムコンサートの開催が決定！ターニャ役・悠木碧さんをはじめ、豪華キャスト陣による生アフレコを実施",
+      "publishedAt": "2026-09-23T15:00:36.000Z",
+      "addedAt": "2026-09-23T15:30:19.106Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609242j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0efac8c9e009",
+      "url": "https://regista.co.jp/produtcs/yakinsw2/",
+      "host": "regista.co.jp",
+      "region": "jp",
+      "title": "夜勤事件",
+      "headline": "Switch 2版「夜勤事件」が本日配信開始。発売を記念して30％オフの690円で販売中",
+      "description": "Switch 2版「夜勤事件」が本日配信開始。発売を記念して30％オフの690円で販売中",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "addedAt": "2026-09-23T15:30:19.106Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104430/20260918077/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "anniversary"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "3ca767cb384c",
       "url": "https://wildaria.net/",
