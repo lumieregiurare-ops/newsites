@@ -1937,3 +1937,19 @@ body {
     display: inline-grid;
   }
 }
+
+/* フッターのお問い合わせリンク */
+.footer-bottom .contact a {
+  color: #e9e9e4;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.footer-bottom .contact a:hover {
+  color: var(--radar);
+}
+
+.footer-bottom {
+  color: #9a9ca5;
+  border-top-color: #2c3039;
+}
