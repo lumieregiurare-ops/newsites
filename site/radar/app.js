@@ -222,7 +222,7 @@
 
     const hue = hashHue(item.host || item.title);
     fb.style.background = `linear-gradient(135deg, hsl(${hue} 60% 55%), hsl(${(hue + 40) % 360} 65% 40%))`;
-    fb.querySelector("span").textContent = (item.host || item.title || "?").replace(/^www\./, "")[0].toUpperCase();
+    fb.querySelector("span").textContent = (item.host || item.title || "?").replace(/^www\./, "");
 
     if (item.image && /^https:\/\//.test(item.image)) {
       img.src = item.image;

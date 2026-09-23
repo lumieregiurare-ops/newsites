@@ -123,7 +123,8 @@
     const img = thumb.querySelector("img");
     const fb = thumb.querySelector(".radar-thumb-fallback");
     fb.style.background = gradientFor(it.host || it.title);
-    fb.querySelector("span").textContent = (it.host || it.title || "?").replace(/^www\./, "")[0].toUpperCase();
+    // 画像がないときは、頭文字ではなくドメイン名をそのまま出す（どこのサイトかが分かるように）
+    fb.querySelector("span").textContent = (it.host || it.title || "?").replace(/^www\./, "");
     if (it.image && /^https:\/\//.test(it.image)) {
       img.src = it.image;
       img.addEventListener("error", () => thumb.classList.add("no-image"), { once: true });
@@ -173,6 +174,11 @@
       s.textContent = labels.get(id) || id;
       return s;
     });
+  }
+
+  function daysUntil(date) {
+    const jstDay = (t) => Math.floor((t + 9 * 3600000) / 86400000);
+    return jstDay(new Date(`${date.slice(0, 10)}T12:00:00+09:00`).getTime()) - jstDay(Date.now());
   }
 
   function renderSchedule(sched) {
@@ -232,6 +238,18 @@
         }
         node.querySelector(".sched-title").textContent = r.title;
         node.querySelector(".sched-maker").textContent = r.maker || r.headline || "";
+        // 発売までの日数（日本時間の日付で数える）
+        if (r.date) {
+          const days = daysUntil(r.date);
+          if (days >= 0 && days <= 60) {
+            const u = document.createElement("span");
+            u.className = "sched-until";
+            u.textContent = days === 0 ? "今日発売" : days === 1 ? "明日発売" : `あと${days}日`;
+            node.querySelector(".sched-sub").prepend(u);
+            if (days === 0) node.classList.add("is-today");
+            else if (days <= 7) node.classList.add("is-soon");
+          }
+        }
         if (r.dateSource === "appstore") node.title = `App Store の配信予定日です${r.announcedText ? `（発表時は ${r.announcedText}）` : ""}`;
         node.querySelector(".sched-source").textContent = r.source ? `via ${r.source}` : "";
         const plats = node.querySelector(".sched-platforms");

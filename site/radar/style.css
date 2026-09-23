@@ -796,3 +796,144 @@ main {
 .thumb-fallback {
   display: none !important;
 }
+
+/* ==========================================================
+   トップページと同じ、レーダー画面ふうの見た目にそろえる
+   ========================================================== */
+:root {
+  --bg: #f3f2ee;
+  --surface: #ffffff;
+  --surface-2: #f5f4f0;
+  --text: #16171c;
+  --text-muted: #666872;
+  --border: #dddbd3;
+  --accent: #16171c;
+  --accent-soft: #eae8e2;
+  --new: #e23d28;
+  --jp: #b0305f;
+  --hero-from: #f3f2ee;
+  --hero-to: #f3f2ee;
+  --shadow: none;
+  --radius: 4px;
+  --radar: #2fe39b;
+  --panel: #0f1116;
+  --panel-2: #1a1d24;
+  --font-display: "Chakra Petch", "Noto Sans JP", system-ui, sans-serif;
+}
+
+.site-header {
+  background: var(--panel);
+  backdrop-filter: none;
+  border-bottom: 0;
+  color: #e9e9e4;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+
+.brand-mark {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  background:
+    radial-gradient(circle, transparent 0 34%, rgba(47, 227, 155, .35) 35% 37%, transparent 38% 64%, rgba(47, 227, 155, .35) 65% 67%, transparent 68%),
+    #0b2a1f;
+  box-shadow: inset 0 0 0 1.5px var(--radar);
+}
+
+.brand-mark::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, rgba(47, 227, 155, .9), rgba(47, 227, 155, 0) 70deg, transparent 360deg);
+  animation: sweep 3.2s linear infinite;
+}
+
+@keyframes sweep {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-mark::after {
+    animation: none;
+  }
+}
+
+.header-nav {
+  color: #9a9ca5;
+}
+
+.header-nav a:hover {
+  color: #fff;
+}
+
+.site-header .btn {
+  background: var(--panel-2);
+  border-color: #2c3039;
+  color: #e9e9e4;
+}
+
+.site-header .btn-fav .count {
+  background: #2c3039;
+}
+
+.hero {
+  background: none;
+}
+
+.hero-eyebrow {
+  color: var(--text-muted);
+}
+
+.hero-title {
+  font-weight: 900;
+}
+
+.chip {
+  border-radius: 3px;
+}
+
+.card {
+  border-radius: 3px;
+  box-shadow: none;
+}
+
+.card:hover {
+  border-color: var(--text);
+  transform: none;
+}
+
+.badge-new {
+  border-radius: 2px;
+}
+
+/* 画像がないサイトは NO IMAGE ではなくドメイン名を出す */
+.thumb.no-image {
+  background-image: none !important;
+  background-color: var(--panel-2) !important;
+}
+
+.thumb.no-image .thumb-fallback {
+  display: flex !important;
+  background: transparent !important;
+  padding: 0 16px;
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--radar);
+  text-align: center;
+  word-break: break-all;
+  line-height: 1.3;
+}
+
+.site-footer {
+  background: var(--panel);
+  color: #9a9ca5;
+}

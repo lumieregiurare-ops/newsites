@@ -1469,3 +1469,471 @@ main > .section:first-child {
     grid-template-columns: 30px 1fr auto;
   }
 }
+
+/* ==========================================================
+   レーダー画面ふうの見た目（ここより上の指定を上書きする）
+   ぼかしの背景・グラデーション・大きな角丸をやめ、
+   暗い計器盤のヘッダーと、罫線で区切る紙面にする
+   ========================================================== */
+:root {
+  --bg: #f3f2ee;
+  --bg-2: #eae8e2;
+  --surface: #ffffff;
+  --surface-2: #f5f4f0;
+  --border: #dddbd3;
+  --text: #16171c;
+  --text-muted: #666872;
+  --cyan: #0b8a5f;
+  --violet: #16171c;
+  --pink: #e23d28;
+  --radar: #2fe39b;
+  --panel: #0f1116;
+  --panel-2: #1a1d24;
+  --grad: none;
+  --grad-fill: var(--text);
+  --shadow-soft: none;
+  --shadow-lift: none;
+  --font-display: "Chakra Petch", "Noto Sans JP", system-ui, sans-serif;
+  --radius: 4px;
+}
+
+.bg {
+  display: none;
+}
+
+body {
+  font-size: 14.5px;
+}
+
+/* ---------- header（計器盤） ---------- */
+.header {
+  background: var(--panel);
+  backdrop-filter: none;
+  border-bottom: 0;
+  color: #e9e9e4;
+}
+
+.header-inner {
+  height: 58px;
+}
+
+.logo {
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+
+/* ロゴの印は、回り続けるレーダーの走査線 */
+.logo-mark {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: transparent;
+  font-size: 0;
+  background:
+    radial-gradient(circle, transparent 0 34%, rgba(47, 227, 155, .35) 35% 37%, transparent 38% 64%, rgba(47, 227, 155, .35) 65% 67%, transparent 68%),
+    #0b2a1f;
+  box-shadow: inset 0 0 0 1.5px var(--radar);
+  overflow: hidden;
+}
+
+.logo-mark::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, rgba(47, 227, 155, .9), rgba(47, 227, 155, 0) 70deg, transparent 360deg);
+  animation: sweep 3.2s linear infinite;
+}
+
+@keyframes sweep {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo-mark::after {
+    animation: none;
+  }
+}
+
+.logo-sub {
+  background: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  color: var(--radar);
+}
+
+.nav {
+  color: #9a9ca5;
+  letter-spacing: .06em;
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+
+.nav a:hover {
+  color: #fff;
+}
+
+.social {
+  background: var(--panel-2);
+  border-color: #2c3039;
+  border-radius: 4px;
+  color: #e9e9e4;
+}
+
+.social:hover {
+  background: var(--panel-2);
+  border-color: var(--radar);
+}
+
+/* ---------- buttons ---------- */
+.btn {
+  border-radius: 4px;
+  height: 42px;
+}
+
+.btn-lg {
+  height: 46px;
+  padding: 0 26px;
+  font-size: 14px;
+}
+
+.btn-primary {
+  background: var(--text);
+  color: #fff;
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  transform: none;
+  box-shadow: none;
+  background: var(--cyan);
+}
+
+.btn-ghost {
+  border: 1.5px solid var(--text);
+}
+
+.btn-ghost:hover {
+  background: var(--text);
+  color: #fff;
+}
+
+/* ---------- sections ---------- */
+.section {
+  padding: 48px 0;
+}
+
+.section + .section {
+  border-top: 1px solid var(--border);
+}
+
+.section-radar {
+  background: none;
+}
+
+.section-head {
+  align-items: baseline;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid var(--text);
+}
+
+.section-eyebrow {
+  display: none;
+}
+
+.section-title {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 900;
+  font-size: clamp(22px, 3vw, 28px);
+}
+
+.section-desc {
+  font-size: 12.5px;
+  max-width: 460px;
+  text-align: right;
+}
+
+.section-more {
+  margin-top: 24px;
+}
+
+/* ---------- 新着サイト ---------- */
+.radar-grid {
+  gap: 22px 18px;
+}
+
+.radar-card {
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.radar-card:hover {
+  transform: none;
+}
+
+.radar-card:hover .radar-title {
+  color: var(--cyan);
+  text-decoration: underline;
+}
+
+.radar-thumb {
+  border-radius: 3px;
+  background: var(--bg-2);
+}
+
+.radar-body {
+  padding: 8px 0 0;
+}
+
+.radar-cat {
+  left: 0;
+  bottom: 0;
+  border: 0;
+  border-radius: 0 3px 0 0;
+  background: var(--text);
+  color: #fff;
+  backdrop-filter: none;
+  font-size: 10.5px;
+  padding: 2px 8px;
+}
+
+.radar-new {
+  right: 6px;
+  top: 6px;
+  border-radius: 2px;
+  background: var(--pink);
+  box-shadow: none;
+  font-family: var(--font-display);
+}
+
+/* 画像が取れなかったサイトは NO IMAGE ではなく、ドメイン名をそのまま出す */
+.radar-thumb.no-image,
+.prereg-thumb.no-image,
+.sched-thumb.no-image,
+.note-thumb.no-image,
+.rank-thumb.no-image {
+  background-image: none !important;
+  background-color: var(--panel-2) !important;
+}
+
+.radar-thumb.no-image .radar-thumb-fallback,
+.prereg-thumb.no-image .prereg-thumb-fallback {
+  display: grid !important;
+  background: transparent !important;
+  padding: 0 14px;
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: .02em;
+  color: var(--radar);
+  text-align: center;
+  word-break: break-all;
+  line-height: 1.3;
+}
+
+.radar-thumb.no-image .radar-thumb-fallback::before,
+.prereg-thumb.no-image .prereg-thumb-fallback::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, rgba(255, 255, 255, .03) 0 1px, transparent 1px 3px);
+}
+
+.visit-diff {
+  margin: -8px 0 16px;
+  border-radius: 3px;
+  border: 0;
+  border-left: 3px solid var(--pink);
+  box-shadow: none;
+}
+
+.visit-diff strong {
+  color: var(--pink);
+}
+
+/* ---------- スケジュール ---------- */
+.sched-rows,
+.rank-list {
+  border-radius: 0;
+  border: 0;
+  border-top: 2px solid var(--text);
+}
+
+.sched-row {
+  border-top: 1px solid var(--border);
+}
+
+.sched-row:first-child {
+  border-top: 0;
+}
+
+.sched-thumb {
+  border-radius: 2px;
+}
+
+.sched-day {
+  font-size: 24px;
+}
+
+.sched-row:hover .sched-title {
+  color: var(--cyan);
+}
+
+/* 発売までの日数 */
+.sched-until {
+  display: inline-block;
+  margin-right: 8px;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.sched-row.is-soon .sched-until {
+  color: var(--cyan);
+}
+
+.sched-row.is-today {
+  background: #fff6de;
+}
+
+.sched-row.is-today .sched-until {
+  color: #fff;
+  background: var(--pink);
+  border-radius: 2px;
+  padding: 0 6px;
+}
+
+.plat {
+  border-radius: 2px;
+  background: var(--surface);
+}
+
+.plat-switch,
+.plat-switch2 {
+  color: #d62b2b;
+}
+
+.plat-pc {
+  color: #3563b5;
+}
+
+.plat-ps {
+  color: #2346a6;
+}
+
+.plat-xbox {
+  color: #1f7a35;
+}
+
+.plat-mobile {
+  color: #9a6b00;
+}
+
+/* ---------- 事前登録 ---------- */
+.prereg-card {
+  border-radius: 3px;
+}
+
+.prereg-card:hover {
+  transform: none;
+  border-color: var(--text);
+}
+
+.prereg-badge {
+  border-radius: 2px;
+  background: var(--text);
+  color: #fff;
+}
+
+.prereg-store {
+  border-radius: 3px;
+}
+
+.prereg-reward {
+  border-radius: 2px;
+}
+
+.changes-title {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 900;
+}
+
+/* ---------- footer ---------- */
+.footer {
+  background: var(--panel);
+  color: #9a9ca5;
+  border-top: 0;
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+@media (max-width: 860px) {
+  .section-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .section-desc {
+    text-align: left;
+  }
+}
+
+/* 上位 3 位の順位はグラデーションの文字をやめ、濃い色で太く */
+.rank-item:nth-child(-n+3) .rank-no {
+  background: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  color: var(--pink);
+}
+
+.rank-no {
+  font-family: var(--font-display);
+  font-size: 22px;
+}
+
+/* スケジュール・事前登録ページの見出し */
+.hero {
+  padding: 44px 0 20px;
+}
+
+.hero-title {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: 900;
+  font-size: clamp(30px, 5vw, 44px);
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+.grad {
+  background: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  color: var(--cyan);
+}
+
+.hero-lead {
+  margin-top: 12px;
+  font-size: 14px;
+  max-width: 44em;
+}
+
+.eyebrow .dot {
+  box-shadow: none;
+  animation: none;
+}
+
+/* スマホでは SNS ボタンの文字を隠すが、note のマークまで消えないようにする */
+@media (max-width: 640px) {
+  .header-social .social .note-mark {
+    display: inline-grid;
+  }
+}
