@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T23:00:19.867Z",
+  "updatedAt": "2026-09-23T23:30:15.722Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 374,
+  "total": 375,
   "regions": {
-    "jp": 328,
+    "jp": 329,
     "global": 46
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 116
+      "count": 117
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 84
+      "count": 85
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 43
+      "count": 44
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 126
+      "count": 127
     },
     {
       "id": "browser",
@@ -121,18 +121,52 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "4Gamer",
     "Inside",
     "Game*Spark",
-    "AppBank",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b0bb1e7e67d7",
+      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "アニモ",
+      "headline": "『アニモ』モバイル版が9月23日に配信開始！ PC・コンソール版とクロスプレイに対応",
+      "description": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTDの「アニモ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アニモ」に似たゲームを見ることなどがで…",
+      "publishedAt": "2026-09-23T23:15:00.000Z",
+      "addedAt": "2026-09-23T23:30:15.722Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3112825.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/11/29/d71129f0-31d8-675d-49d6-685dccaac724/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "6b8fb7da879f",
       "url": "https://www.gamecity.ne.jp/smusou2-re/jp/",
