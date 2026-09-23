@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-23T19:00:18.224Z",
+  "updatedAt": "2026-09-23T19:30:56.565Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 372,
+  "total": 373,
   "regions": {
     "jp": 327,
-    "global": 45
+    "global": 46
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 83
+      "count": 84
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 125
+      "count": 126
     },
     {
       "id": "browser",
@@ -121,18 +121,51 @@
     }
   ],
   "sources": [
+    "App Store",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "Game*Spark",
     "AppBank",
-    "App Store",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c24f4e4b5a2c",
+      "url": "https://www.kingdomrushgenesis.com/",
+      "host": "kingdomrushgenesis.com",
+      "region": "global",
+      "title": "Kingdom Rush 6: Genesis TD",
+      "headline": "Ironhide S.A. / ストラテジー・エンターテインメント · App Store 新着",
+      "description": "Defend the past to change the future.",
+      "publishedAt": "2026-09-23T19:31:06.129Z",
+      "addedAt": "2026-09-23T19:30:56.565Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/kingdom-rush-6-genesis-td/id6759664029"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://kingdomrushgenesis.com/img/OG_tag/Kingdom_Rush_6_Genesis.jpg"
+    },
     {
       "id": "b049e9343ca8",
       "url": "https://youjo-senki.jp/10th-concert.html/",
