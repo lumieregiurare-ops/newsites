@@ -937,3 +937,16 @@ main {
   background: var(--panel);
   color: #9a9ca5;
 }
+
+.site-footer .footer-grid h2 {
+  color: #e9e9e4;
+}
+
+.site-footer .footer-grid a,
+.site-footer .source-list li a:hover {
+  color: var(--radar);
+}
+
+.site-footer .footer-bottom {
+  border-top-color: #2c3039;
+}
