@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-23T02:42:23.681Z",
+  "updatedAt": "2026-09-23T08:56:56.194Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 362,
+  "total": 365,
   "regions": {
-    "jp": 321,
-    "global": 41
+    "jp": 323,
+    "global": 42
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 51
+      "count": 53
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 111
+      "count": 113
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 28
+      "count": 29
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 123
+      "count": 124
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 3
+      "count": 4
     },
     {
       "id": "vr",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "AppBank",
-    "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
+    "電ファミニコゲーマー",
+    "AppBank",
+    "4Gamer",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -133,6 +133,98 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e02adc31df20",
+      "url": "https://nodusfall.hoyoverse.com/",
+      "host": "nodusfall.hoyoverse.com",
+      "region": "jp",
+      "title": "ノーダスフォール",
+      "headline": "【キャラガチャ無し】HoYoverse新作『ノーダスフォール』は「協力マルチプレイ」をメインとした神話アクションゲーム。対応機種や難易度などにも触れるFAQ公開",
+      "description": "【キャラガチャ無し】HoYoverse新作『ノーダスフォール』は「協力マルチプレイ」をメインとした神話アクションゲーム。対応機種や難易度などにも触れるFAQ公開",
+      "publishedAt": "2026-09-23T08:45:52.000Z",
+      "addedAt": "2026-09-23T08:56:56.194Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/23/172673.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0325657a56ba",
+      "url": "https://www.arcadearchives.com/",
+      "host": "arcadearchives.com",
+      "region": "jp",
+      "title": "ゼビウス3D/G",
+      "headline": "1996年発売のシューティングゲーム『ゼビウス3D/G』が「アーケードアーカイブス2」で明日9月24日に配信決定",
+      "description": "1980年～90年代のアーケードゲームを忠実に再現することをコンセプトに開発をしているダウンロード配信タイトル「アーケードアーカイブス」シリーズの最新トピックスやタイトルラインナップをご紹介する公式サイトです。一時代を築いた名作を「アケア…",
+      "publishedAt": "2026-09-23T08:00:58.000Z",
+      "addedAt": "2026-09-23T08:56:56.194Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260923h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://www.arcadearchives.com/wp/wp-content/themes/hamster-arcadearchives/common/img/ogp/arcade-archives-ogp-jp.png"
+    },
+    {
+      "id": "961aae91b490",
+      "url": "https://apps.apple.com/us/app/sanrio-kawaii-me-live/id6749342133",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "Sanrio Kawaii Me Live!",
+      "headline": "新作スマホゲーム「Sanrio Kawaii Me Live!」発表！ 2027年1月グローバルリリース、9月21日から事前登録スタート",
+      "description": "Download Sanrio Kawaii Me Live! by SANRIO CO., LTD. on the App Store. See screenshots, ratings and reviews, user tips, …",
+      "publishedAt": "2026-09-23T06:00:00.000Z",
+      "addedAt": "2026-09-23T08:56:56.194Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/23/game/3111947.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/81/27/bf8127fd-d7e0-e927-c710-3550f71467f3/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "b314e59e7a95",
       "url": "https://apps.apple.com/app/id6749342133",
@@ -216,6 +308,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260923f"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/23/172665.html"
         }
       ],
       "tags": [
