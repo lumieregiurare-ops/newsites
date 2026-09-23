@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T08:57:11.632Z",
+  "updatedAt": "2026-09-23T14:30:29.984Z",
   "platforms": [
     {
       "id": "switch",
@@ -40,25 +40,6 @@
   ],
   "releases": [
     {
-      "id": "03cc94451d1b",
-      "title": "バンドリ！アワーノーツ",
-      "date": "2026-09-22",
-      "dateText": "2026年9月22日",
-      "sortKey": "2026-09-22",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p",
-      "announcedText": "2026年9月24日",
-      "dateSource": "appstore"
-    },
-    {
       "id": "3db719ab1dad",
       "title": "CONTROL Resonant",
       "date": "2026-09-24",
@@ -89,6 +70,23 @@
       "headline": "1996年発売のシューティングゲーム『ゼビウス3D/G』が「アーケードアーカイブス2」で明日9月24日に配信決定",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260923h"
+    },
+    {
+      "id": "03cc94451d1b",
+      "title": "バンドリ！アワーノーツ",
+      "date": "2026-09-24",
+      "dateText": "2026年9月24日",
+      "sortKey": "2026-09-24",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p"
     },
     {
       "id": "ff997bd30a22",
@@ -449,6 +447,19 @@
   ],
   "changes": [
     {
+      "at": "2026-09-23T14:30:29.984Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "バンドリ！アワーノーツ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年9月22日",
+      "to": "2026年9月24日"
+    },
+    {
       "at": "2026-09-23T08:57:11.632Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -508,16 +519,6 @@
         "mobile"
       ],
       "to": "2027年1月14日"
-    },
-    {
-      "at": "2026-09-20T23:43:46.533Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Loftia",
-      "url": "https://loftia.gg/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月3日"
     }
   ]
 }

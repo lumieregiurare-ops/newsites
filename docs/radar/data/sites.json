@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-23T08:56:56.194Z",
+  "updatedAt": "2026-09-23T14:30:16.197Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 365,
+  "total": 370,
   "regions": {
-    "jp": 323,
-    "global": 42
+    "jp": 325,
+    "global": 45
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 35
+      "count": 36
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 113
+      "count": 114
     },
     {
       "id": "indie",
@@ -60,17 +60,17 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 7
+      "count": 8
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 82
+      "count": 83
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 64
+      "count": 65
     }
   ],
   "platforms": [
@@ -92,17 +92,17 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 8
+      "count": 9
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 41
+      "count": 42
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 124
+      "count": 125
     },
     {
       "id": "browser",
@@ -121,18 +121,161 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Inside",
+    "Game*Spark",
     "AppBank",
     "4Gamer",
     "App Store",
-    "Inside",
     "Appliv Games",
     "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3ca767cb384c",
+      "url": "https://wildaria.net/",
+      "host": "wildaria.net",
+      "region": "global",
+      "title": "Wildaria",
+      "headline": "投げ縄で動物をテイムして背中に乗るオープンワールド・アクションRPG『Wildaria』10月9日に早期アクセス開始。GBAの名作に影響を受けたピクセル調グラフィックが特徴",
+      "description": "投げ縄で動物をテイムして背中に乗るオープンワールド・アクションRPG『Wildaria』10月9日に早期アクセス開始。GBAの名作に影響を受けたピクセル調グラフィックが特徴",
+      "publishedAt": "2026-09-23T12:53:52.000Z",
+      "addedAt": "2026-09-23T14:30:16.197Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609232e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0eea6aeda288",
+      "url": "https://gget.ggame.jp/",
+      "host": "gget.ggame.jp",
+      "region": "jp",
+      "title": "Gジェネ エターナル",
+      "headline": "『Gジェネ エターナル』1.5周年記念ピックアップガシャで「V2アサルトバスターガンダム（EX）/ウッソ・エヴィン」「ザンスパイン（EX）/ファラ・グリフォン」UR「ゴトラタン（…",
+      "description": "「SDガンダム ジージェネレーション エターナル」公式サイトです。",
+      "publishedAt": "2026-09-23T11:23:52.000Z",
+      "addedAt": "2026-09-23T14:30:16.197Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609232f"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gget.ggame.jp/jp/ogp.png"
+    },
+    {
+      "id": "235805eeb0c6",
+      "url": "https://www.cs.furyu.jp/anomalith/",
+      "host": "cs.furyu.jp",
+      "region": "jp",
+      "title": "アノマリス／ANOMALITH",
+      "headline": "進化を続けた『アノマリス／ANOMALITH』は、いよいよ最終形態なのか？ 発売日迫る中、来場者に向けた試遊版に臨んだプレイレポ【TGS2026】",
+      "description": "昭和██年。日本。突如発生する異常空間を探索し、異形と戦い生き延びろ。少女が運命に立ち向かう、異常現象×サバイバルTPS（アノマリス ／ ANOMALITH）。2026年10月29日発売",
+      "publishedAt": "2026-09-23T10:30:03.000Z",
+      "addedAt": "2026-09-23T14:30:16.197Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/23/188162.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.cs.furyu.jp/anomalith/wp/wp-content/themes/anomalith_v1/assets/images/common/ogp.png?2026"
+    },
+    {
+      "id": "e2a229a20d6a",
+      "url": "https://www.undeadlabs.com/",
+      "host": "undeadlabs.com",
+      "region": "global",
+      "title": "State of Decay 3",
+      "headline": "XBOX傘下から独立したUndead Labsでレイオフ発表。『State of Decay 3』の開発は継続",
+      "description": "Undead Labs LLC is an American video game developer based in Seattle, Washington.",
+      "publishedAt": "2026-09-23T09:46:03.000Z",
+      "addedAt": "2026-09-23T14:30:16.197Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/23/172677.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f7ba4e6d039b",
+      "url": "https://apps.apple.com/",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "ZENONIA 2: The Lost Memories",
+      "headline": "『ZENONIA 2: The Lost Memories』のSteamストアページが公開！ 『ZENONIA 1』に続くシリーズ続編が登場",
+      "description": "Find apps and games for iPhone, iPad, Mac, and more on the App Store.",
+      "publishedAt": "2026-09-23T09:40:00.000Z",
+      "addedAt": "2026-09-23T14:30:16.197Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/23/game/3112583.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://apps.apple.com//assets/images/share/app-store.png"
+    },
     {
       "id": "e02adc31df20",
       "url": "https://nodusfall.hoyoverse.com/",
