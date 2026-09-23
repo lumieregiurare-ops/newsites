@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:00:30.627Z",
+  "updatedAt": "2026-09-23T22:30:30.836Z",
   "platforms": [
     {
       "id": "switch",
@@ -87,6 +87,26 @@
       "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p"
+    },
+    {
+      "id": "8b27af5f8088",
+      "title": "真・三國無双２ with 猛将伝 Remastered",
+      "date": "2026-09-24",
+      "dateText": "2026年9月24日",
+      "sortKey": "2026-09-24",
+      "priority": 0,
+      "platforms": [
+        "switch2",
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "url": "https://www.gamecity.ne.jp/smusou2-re/jp/",
+      "image": "https://www.gamecity.ne.jp/smusou2-re/assets/img/og-JP.jpg",
+      "maker": "",
+      "headline": "『真・三國無双２ with 猛将伝 Remastered』本日9月24日から体験版がPS5、Nintendo Switch 2、XBOX Series X|Sで配信開始。Stea…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260924d"
     },
     {
       "id": "ff997bd30a22",
@@ -247,23 +267,6 @@
       "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
-    },
-    {
-      "id": "ce2a827c6bbc",
-      "title": "大穢",
-      "date": "2026-12-24",
-      "dateText": "2026年12月24日",
-      "sortKey": "2026-12-24",
-      "priority": 0,
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://dramaticcreate.com/owen/",
-      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
-      "maker": "",
-      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
     }
   ],
   "prereg": [
@@ -447,6 +450,22 @@
   ],
   "changes": [
     {
+      "at": "2026-09-23T22:30:30.836Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "真・三國無双２ with 猛将伝 Remastered",
+      "url": "https://www.gamecity.ne.jp/smusou2-re/jp/",
+      "image": "https://www.gamecity.ne.jp/smusou2-re/assets/img/og-JP.jpg",
+      "platforms": [
+        "switch2",
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "from": "2026年10月1日",
+      "to": "2026年9月24日"
+    },
+    {
       "at": "2026-09-23T17:00:30.098Z",
       "type": "new",
       "label": "新規",
@@ -505,18 +524,6 @@
         "switch"
       ],
       "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-09-23T16:00:34.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "クーロンズゲート Suzaku",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000103089",
-      "image": "https://img-eshop.cdn.nintendo.net/i/04d02f4657fe80d9f6e195e7408f8d85893a5f852423e2ce1299d60eea9de826.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
     }
   ]
 }

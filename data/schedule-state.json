@@ -3207,9 +3207,9 @@
     },
     "真・三國無双２with猛将伝remastered": {
       "title": "真・三國無双２ with 猛将伝 Remastered",
-      "dateText": "2026年10月1日",
-      "date": "2026-10-01",
-      "sortKey": "2026-10-01",
+      "dateText": "2026年9月24日",
+      "date": "2026-09-24",
+      "sortKey": "2026-09-24",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -14401,6 +14401,22 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-23T22:00:30.627Z"
+    },
+    "darkalley-demo": {
+      "title": "Dark Alley - Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-23T22:30:30.836Z"
+    },
+    "olympusrangersdemo": {
+      "title": "Olympus Rangers Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-23T22:30:30.836Z"
     }
   },
   "changeLog": [
@@ -16924,6 +16940,22 @@
         "switch"
       ],
       "to": "2026年10月1日"
+    },
+    {
+      "at": "2026-09-23T22:30:30.836Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "真・三國無双２ with 猛将伝 Remastered",
+      "url": "https://www.gamecity.ne.jp/smusou2-re/jp/",
+      "image": "https://www.gamecity.ne.jp/smusou2-re/assets/img/og-JP.jpg",
+      "platforms": [
+        "switch2",
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "from": "2026年10月1日",
+      "to": "2026年9月24日"
     }
   ],
   "initialized": true,

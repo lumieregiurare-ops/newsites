@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T22:00:18.908Z",
+  "updatedAt": "2026-09-23T22:30:18.773Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 373,
+  "total": 374,
   "regions": {
-    "jp": 327,
+    "jp": 328,
     "global": 46
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 115
+      "count": 116
     },
     {
       "id": "indie",
@@ -82,22 +82,22 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 15
+      "count": 16
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 11
+      "count": 12
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 9
+      "count": 10
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 42
+      "count": 43
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "App Store",
     "電ファミニコゲーマー",
+    "App Store",
     "4Gamer",
     "Inside",
     "Game*Spark",
@@ -133,6 +133,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6b8fb7da879f",
+      "url": "https://www.gamecity.ne.jp/smusou2-re/jp/",
+      "host": "gamecity.ne.jp",
+      "region": "jp",
+      "title": "真・三國無双２ with 猛将伝 Remastered",
+      "headline": "『真・三國無双２ with 猛将伝 Remastered』本日9月24日から体験版がPS5、Nintendo Switch 2、XBOX Series X|Sで配信開始。Stea…",
+      "description": "鮮烈に甦る、一騎当千の極み。『真・三國無双２』『真・三國無双２ 猛将伝』が鮮烈に現代に甦る。より爽快になったアクションで一騎当千の高みを目指せ！",
+      "publishedAt": "2026-09-23T22:16:39.000Z",
+      "addedAt": "2026-09-23T22:30:18.773Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.gamecity.ne.jp/smusou2-re/assets/img/og-JP.jpg"
+    },
     {
       "id": "c24f4e4b5a2c",
       "url": "https://www.kingdomrushgenesis.com/",
