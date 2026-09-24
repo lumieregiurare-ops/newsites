@@ -1,13 +1,53 @@
 {
   "items": [
     {
+      "id": "71bd3d7e8f54",
+      "url": "https://www.yangming.store/",
+      "host": "yangming.store",
+      "region": "jp",
+      "title": "Makuake",
+      "headline": "“透明”なCDプレーヤーが応援購入サービス「Makuake」にて公開。回転するディスクや内部機構まで眺められる透明フレーム型のCDプレーヤー",
+      "description": "“透明”なCDプレーヤーが応援購入サービス「Makuake」にて公開。回転するディスクや内部機構まで眺められる透明フレーム型のCDプレーヤー",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-24T04:24:24.000Z",
+      "addedAt": "2026-09-24T04:30:20.171Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609242c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "ogFetchedAt": "2026-09-24T04:30:20.171Z",
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "8eb6ba589e42",
       "url": "https://tenipuri.jp/u17/semi-final/",
       "host": "tenipuri.jp",
       "region": "jp",
       "title": "新テニプリ",
       "headline": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
-      "description": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
+      "description": "アニメ「新テニスの王子様 U-17 WORLD CUP」テレ東他にて毎週水曜放送。U-17 WORLD CUPは日本vsドイツのセミファイナルに突入！",
       "article": {
         "prereg": false,
         "preregEnded": false,
@@ -34,10 +74,12 @@
         "official"
       ],
       "points": null,
-      "image": "",
-      "metaAttempts": 1,
-      "metaError": "This operation was aborted",
-      "platforms": []
+      "image": "https://tenipuri.jp/u17/assets/img/ogp.jpg",
+      "metaAttempts": 2,
+      "platforms": [],
+      "ogFetchedAt": "2026-09-24T04:30:20.171Z",
+      "ogDescription": true,
+      "regionDetected": true
     },
     {
       "id": "858bf1e8a13e",
@@ -117,7 +159,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "metaError": "HTTP 403",
       "platforms": []
     },

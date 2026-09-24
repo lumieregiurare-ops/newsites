@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T04:00:17.082Z",
+  "updatedAt": "2026-09-24T04:30:20.171Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 387,
+  "total": 388,
   "regions": {
-    "jp": 339,
+    "jp": 340,
     "global": 48
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 68
+      "count": 69
     }
   ],
   "platforms": [
@@ -134,13 +134,40 @@
   ],
   "items": [
     {
+      "id": "71bd3d7e8f54",
+      "url": "https://www.yangming.store/",
+      "host": "yangming.store",
+      "region": "jp",
+      "title": "Makuake",
+      "headline": "“透明”なCDプレーヤーが応援購入サービス「Makuake」にて公開。回転するディスクや内部機構まで眺められる透明フレーム型のCDプレーヤー",
+      "description": "“透明”なCDプレーヤーが応援購入サービス「Makuake」にて公開。回転するディスクや内部機構まで眺められる透明フレーム型のCDプレーヤー",
+      "publishedAt": "2026-09-24T04:24:24.000Z",
+      "addedAt": "2026-09-24T04:30:20.171Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609242c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "8eb6ba589e42",
       "url": "https://tenipuri.jp/u17/semi-final/",
       "host": "tenipuri.jp",
       "region": "jp",
       "title": "新テニプリ",
       "headline": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
-      "description": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
+      "description": "アニメ「新テニスの王子様 U-17 WORLD CUP」テレ東他にて毎週水曜放送。U-17 WORLD CUPは日本vsドイツのセミファイナルに突入！",
       "publishedAt": "2026-09-24T03:56:28.000Z",
       "addedAt": "2026-09-24T04:00:17.082Z",
       "source": "電ファミニコゲーマー",
@@ -158,7 +185,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://tenipuri.jp/u17/assets/img/ogp.jpg"
     },
     {
       "id": "858bf1e8a13e",
