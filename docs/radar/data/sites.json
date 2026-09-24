@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T12:30:23.996Z",
+  "updatedAt": "2026-09-24T13:00:21.775Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 361,
+  "total": 362,
   "regions": {
-    "jp": 316,
+    "jp": 317,
     "global": 45
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 69
+      "count": 70
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a70fd5ac2a85",
+      "url": "http://gaming.logicool.co.jp/ja-jp",
+      "host": "gaming.logicool.co.jp",
+      "region": "jp",
+      "title": "PRO X3 SUPERSTRIKE",
+      "headline": "ラピッドトリガー対応マウスに早くも改良版登場！ 「PRO X3 SUPERSTRIKE」などPROシリーズのゲーミングデバイスが発表に",
+      "description": "ロジクール G は、プロレベルのゲーミングギアを提供します。高性能なヘッドセット、キーボード、マウスで、ゲームをさらに盛り上げます。ベストの状態でプレイ。今すぐ購入！",
+      "publishedAt": "2026-09-24T12:39:52.000Z",
+      "addedAt": "2026-09-24T13:00:21.775Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G002336/20260924066/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://resource.logitechg.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/og-fallback.jpg"
+    },
     {
       "id": "5fdcb203bc33",
       "url": "https://www.taito.co.jp/sale",
@@ -771,6 +798,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/24/188191.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/983/G098335/20260924065/"
         }
       ],
       "tags": [
@@ -7752,6 +7783,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/969/G096901/20260915005/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609243c"
         }
       ],
       "tags": [
