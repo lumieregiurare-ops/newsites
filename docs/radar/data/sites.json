@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T12:00:19.258Z",
+  "updatedAt": "2026-09-24T12:30:23.996Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 359,
+  "total": 361,
   "regions": {
-    "jp": 314,
+    "jp": 316,
     "global": 45
   },
   "categories": [
@@ -20,22 +20,22 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 50
+      "count": 51
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 37
+      "count": 38
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 61
+      "count": 64
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 85
+      "count": 86
     },
     {
       "id": "release",
@@ -121,17 +121,75 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "AppBank",
     "App Store",
     "Inside",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5fdcb203bc33",
+      "url": "https://www.taito.co.jp/sale",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "ダライアスオータムセール2026",
+      "headline": "過去最大85％オフも！ タイトー「ダライアスオータムセール2026」開催中",
+      "description": "タイトーサマーセール2026開催！",
+      "publishedAt": "2026-09-24T12:30:00.000Z",
+      "addedAt": "2026-09-24T12:30:23.996Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113805.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/apps/sale20260924_title01_01.webp"
+    },
+    {
+      "id": "9096a365f36c",
+      "url": "https://ava.pmang.jp/thanks/comment",
+      "host": "ava.pmang.jp",
+      "region": "jp",
+      "title": "AVA",
+      "headline": "10月サ終予定の『AVA』特設サイトにSHAKAさんなど4名からのコメント追加公開―新作『AVA RE:BIRTH』はクローズドβテストの応募受付開始",
+      "description": "基本プレイ無料オンラインFPSゲーム「Alliance of Valiant Arms」（アライアンス・オブ・ヴァリアント・アームズ）の公式メンバーサイト。通称\"AVA\"。",
+      "publishedAt": "2026-09-24T12:15:03.000Z",
+      "addedAt": "2026-09-24T12:30:23.996Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/24/172719.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "事前登録"
+      ],
+      "categories": [
+        "campaign",
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg"
+    },
     {
       "id": "76675f01296c",
       "url": "https://lp.openrec.jp/hyper-game-event-final/",
@@ -178,9 +236,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "campaign",
         "event"
       ],
@@ -8488,10 +8548,12 @@
         "Android",
         "スマホ",
         "アドベンチャー",
-        "ミュージック"
+        "ミュージック",
+        "特設サイト"
       ],
       "categories": [
         "prereg",
+        "campaign",
         "release"
       ],
       "platforms": [

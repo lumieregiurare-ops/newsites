@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:00:41.038Z",
+  "updatedAt": "2026-09-24T12:30:42.278Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,6 +275,26 @@
   ],
   "prereg": [
     {
+      "id": "9096a365f36c",
+      "title": "AVA",
+      "url": "https://ava.pmang.jp/thanks/comment",
+      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-24T12:15:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "の情報や、ゲーム内容として3つの兵種を切り替えて戦況に対応することや、強化や合成で自分仕様の銃器を創",
+      "headline": "10月サ終予定の『AVA』特設サイトにSHAKAさんなど4名からのコメント追加公開―新作『AVA RE:BIRTH』はクローズドβテストの応募受付開始",
+      "description": "基本プレイ無料オンラインFPSゲーム「Alliance of Valiant Arms」（アライアンス・オブ・ヴァリアント・アームズ）の公式メンバーサイト。通称\"AVA\"。",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/24/172719.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "52490de2ca50",
       "title": "ONE PIECE 海のごちそうレストラン",
       "url": "https://op-restaurant.bn-ent.net/",
@@ -442,34 +462,21 @@
       "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2c4c7cb70f1",
-      "title": "雨のちハレ女",
-      "url": "https://www.hare-onna.jp/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-15T05:58:04.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
-      "appleId": "6760698900",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6760698900",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6760698900"
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-24T12:30:42.278Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://ava.pmang.jp/thanks/comment",
+      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-09-24T10:00:34.922Z",
       "type": "new",
@@ -523,18 +530,6 @@
       "label": "事前登録開始",
       "title": "薬屋のひとりごと 後宮異聞録",
       "url": "https://game8.jp/preregistration/720625",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-09-24T07:00:30.628Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ハイキュー!! ALL Challengers",
-      "url": "https://game8.jp/preregistration/774051",
       "image": "",
       "platforms": [
         "mobile"

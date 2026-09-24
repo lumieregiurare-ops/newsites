@@ -1226,6 +1226,10 @@
     "ONE PIECE 海のごちそうレストラン": {
       "at": "2026-09-24T05:00:26.866Z",
       "entry": null
+    },
+    "AVA": {
+      "at": "2026-09-24T12:30:42.607Z",
+      "entry": null
     }
   },
   "titles": {
@@ -14945,6 +14949,35 @@
       "sortKey": "2026-09-28",
       "prereg": false,
       "firstSeen": "2026-09-24T12:00:41.038Z"
+    },
+    "decommissionprotocoldemo": {
+      "title": "Decommission Protocol Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T12:30:42.278Z"
+    },
+    "towercraft": {
+      "title": "Tower Craft",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T12:30:42.278Z"
+    },
+    "女装百合嵐主題歌": {
+      "title": "女装百合嵐 主題歌",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T12:30:42.278Z"
+    },
+    "ava": {
+      "title": "AVA",
+      "prereg": true,
+      "firstSeen": "2026-09-24T12:30:42.278Z"
     }
   },
   "changeLog": [
@@ -17617,6 +17650,18 @@
       "image": "https://www.pokemon.jp/special/nhkso-pokemon2026/assets/img/og.jpg",
       "platforms": [],
       "to": "2026年10月5日"
+    },
+    {
+      "at": "2026-09-24T12:30:42.278Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://ava.pmang.jp/thanks/comment",
+      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
