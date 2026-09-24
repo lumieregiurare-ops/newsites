@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:00:19.447Z",
+  "updatedAt": "2026-09-24T16:30:22.559Z",
   "boards": [
     {
       "id": "steam",
@@ -228,40 +228,40 @@
         },
         {
           "rank": 7,
-          "title": "トップロード",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
-          "metric": "GAME SPARK PTE. LTD.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
-          "title": "ブロックブラスト (Block Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/07/2b/14072b5c-84de-4d70-0d37-1771cb3edac5/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
-          "metric": "Hungry Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 9,
           "title": "Bus Fever Party!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d2/4c/ecd24cc7-8886-76a5-4546-364177fa3aef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+2",
+            "value": 2
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
+          "title": "トップロード",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
+          "metric": "GAME SPARK PTE. LTD.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "ブロックブラスト (Block Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/07/2b/14072b5c-84de-4d70-0d37-1771cb3edac5/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
+          "metric": "Hungry Studio",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
