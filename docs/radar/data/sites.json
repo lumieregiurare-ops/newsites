@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T11:30:17.396Z",
+  "updatedAt": "2026-09-24T12:00:19.258Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 358,
+  "total": 359,
   "regions": {
-    "jp": 313,
+    "jp": 314,
     "global": 45
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 84
+      "count": 85
     },
     {
       "id": "release",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 9
+      "count": 10
     },
     {
       "id": "goods",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "App Store",
-    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "76675f01296c",
+      "url": "https://lp.openrec.jp/hyper-game-event-final/",
+      "host": "lp.openrec.jp",
+      "region": "jp",
+      "title": "配信者ハイパーゲーム大会 FINAL",
+      "headline": "「配信者ハイパーゲーム大会 FINAL」に蛇足さん・こーすけさん・キズナアイさんら10名が追加出演決定。影ナレを安元洋貴さんが担当することも明かされる",
+      "description": "【公式】2026年11月28日(土)・29日(日)、東京ドームで開催。加藤純一、k4sen、SHAKA、もこう、関優太ら豪華ストリーマーが集結する「配信者ハイパーゲーム大会 FINAL」チケット・出演者情報。",
+      "publishedAt": "2026-09-24T11:54:53.000Z",
+      "addedAt": "2026-09-24T12:00:19.258Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609243b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lp.openrec.jp/hyper-game-event-final/assets/ogp.jpg?v=20260718"
+    },
     {
       "id": "ac4a1fa764ea",
       "url": "https://ryu-ga-gotoku.com/kiwami3/",
@@ -613,6 +641,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260924x"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113762.php"
         }
       ],
       "tags": [
