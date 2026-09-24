@@ -3199,9 +3199,9 @@
     },
     "レイマンレジェンドリトールド": {
       "title": "レイマン レジェンド リトールド",
-      "dateText": "2026年10月1日",
-      "date": "2026-10-01",
-      "sortKey": "2026-10-01",
+      "dateText": "2026年12月3日",
+      "date": "2026-12-03",
+      "sortKey": "2026-12-03",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -11533,7 +11533,7 @@
     },
     "てくてく日和": {
       "title": "てくてく日和",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-19T08:24:56.581Z"
     },
     "serandorthelastknight": {
@@ -14753,6 +14753,30 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-24T08:30:30.373Z"
+    },
+    "dyna-brixdemo": {
+      "title": "Dyna-Brix Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T09:00:35.686Z"
+    },
+    "enarian:orbitalcommanddemo": {
+      "title": "Enarian: Orbital Command Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T09:00:35.686Z"
+    },
+    "mogged:looksmaxxordie": {
+      "title": "MOGGED: Looksmaxx or Die",
+      "dateText": "2026年10月1日",
+      "date": "2026-10-01",
+      "sortKey": "2026-10-01",
+      "prereg": false,
+      "firstSeen": "2026-09-24T09:00:35.686Z"
     }
   },
   "changeLog": [
@@ -17402,6 +17426,19 @@
         "mobile"
       ],
       "to": "2026年11月2日"
+    },
+    {
+      "at": "2026-09-24T09:00:35.686Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "レイマン レジェンド リトールド",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000111544",
+      "image": "https://img-eshop.cdn.nintendo.net/i/09587ce210bb05e909edd439de0584e2f7d89f4829d1da37c515101fa7807ee2.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年10月1日",
+      "to": "2026年12月3日"
     }
   ],
   "initialized": true,

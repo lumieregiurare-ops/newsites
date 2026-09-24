@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T08:30:17.428Z",
+  "updatedAt": "2026-09-24T09:00:17.008Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 391,
+  "total": 351,
   "regions": {
-    "jp": 343,
-    "global": 48
+    "jp": 305,
+    "global": 46
   },
   "categories": [
     {
@@ -20,32 +20,32 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 55
+      "count": 49
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 39
+      "count": 36
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 59
+      "count": 57
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 91
+      "count": 82
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 125
+      "count": 112
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 6
+      "count": 5
     },
     {
       "id": "browser",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 30
+      "count": 19
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 85
+      "count": 58
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 70
+      "count": 69
     }
   ],
   "platforms": [
@@ -87,22 +87,22 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 12
+      "count": 13
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 10
+      "count": 11
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 46
+      "count": 44
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 129
+      "count": 95
     },
     {
       "id": "browser",
@@ -128,16 +128,15 @@
     "App Store",
     "Game*Spark",
     "Appliv Games",
-    "Hacker News",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
     {
       "id": "1e9ee23d4fc8",
-      "url": "http://toplitz-productions.com/medieval-dynasty.html/",
+      "url": "http://toplitz-productions.com/medieval-dynasty.html",
       "host": "toplitz-productions.com",
-      "region": "jp",
+      "region": "global",
       "title": "Medieval Dynasty",
       "headline": "「Medieval Dynasty」，早期アクセス開始6周年を祝う最新アップデートが配信。伝説の獲物や新たな狩猟用DLCも登場",
       "description": "「Medieval Dynasty」，早期アクセス開始6周年を祝う最新アップデートが配信。伝説の獲物や新たな狩猟用DLCも登場",
@@ -282,7 +281,7 @@
     },
     {
       "id": "858bf1e8a13e",
-      "url": "https://www.gameaddict.co.jp/derbystallion2/guideline.php/",
+      "url": "https://www.gameaddict.co.jp/derbystallion2/guideline.php",
       "host": "gameaddict.co.jp",
       "region": "jp",
       "title": "ダービースタリオン２",
@@ -604,15 +603,15 @@
       "image": "https://www.gameaddict.co.jp/derbystallion2/assets/images/section01/img_section01_youtube.webp"
     },
     {
-      "id": "b0bb1e7e67d7",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+      "id": "4e22a1470b08",
+      "url": "https://apps.apple.com/jp/app/id6759098797",
       "host": "apps.apple.com",
       "region": "jp",
       "title": "アニモ",
       "headline": "『アニモ』モバイル版が9月23日に配信開始！ PC・コンソール版とクロスプレイに対応",
       "description": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTDの「アニモ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アニモ」に似たゲームを見ることなどがで…",
       "publishedAt": "2026-09-23T23:15:00.000Z",
-      "addedAt": "2026-09-23T23:30:15.722Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
       "source": "AppBank",
       "sources": [
         {
@@ -705,33 +704,6 @@
       ],
       "points": null,
       "image": "https://kingdomrushgenesis.com/img/OG_tag/Kingdom_Rush_6_Genesis.jpg"
-    },
-    {
-      "id": "b049e9343ca8",
-      "url": "https://youjo-senki.jp/10th-concert.html/",
-      "host": "youjo-senki.jp",
-      "region": "jp",
-      "title": "幼女戦記",
-      "headline": "『幼女戦記』初となるフィルムコンサートの開催が決定！ターニャ役・悠木碧さんをはじめ、豪華キャスト陣による生アフレコを実施",
-      "description": "『幼女戦記』初となるフィルムコンサートの開催が決定！ターニャ役・悠木碧さんをはじめ、豪華キャスト陣による生アフレコを実施",
-      "publishedAt": "2026-09-23T15:00:36.000Z",
-      "addedAt": "2026-09-23T15:30:19.106Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609242j"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
     },
     {
       "id": "0efac8c9e009",
@@ -968,15 +940,15 @@
       "image": "https://www.arcadearchives.com/wp/wp-content/themes/hamster-arcadearchives/common/img/ogp/arcade-archives-ogp-jp.png"
     },
     {
-      "id": "961aae91b490",
-      "url": "https://apps.apple.com/us/app/sanrio-kawaii-me-live/id6749342133",
+      "id": "3ff8012993b4",
+      "url": "https://apps.apple.com/us/app/id6749342133",
       "host": "apps.apple.com",
       "region": "global",
       "title": "Sanrio Kawaii Me Live!",
       "headline": "新作スマホゲーム「Sanrio Kawaii Me Live!」発表！ 2027年1月グローバルリリース、9月21日から事前登録スタート",
       "description": "Download Sanrio Kawaii Me Live! by SANRIO CO., LTD. on the App Store. See screenshots, ratings and reviews, user tips, …",
       "publishedAt": "2026-09-23T06:00:00.000Z",
-      "addedAt": "2026-09-23T08:56:56.194Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
       "source": "AppBank",
       "sources": [
         {
@@ -1001,74 +973,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/81/27/bf8127fd-d7e0-e927-c710-3550f71467f3/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "b314e59e7a95",
-      "url": "https://apps.apple.com/app/id6749342133",
-      "host": "apps.apple.com",
-      "region": "global",
-      "title": "Sanrio Kawaii Me Live!",
-      "headline": "「Sanrio Games」初のスマホゲーム『Sanrio Kawaii Me Live!』が2027年1月配信決定！ 9月21日より事前登録開始",
-      "description": "Download Sanrio Kawaii Me Live! by SANRIO CO., LTD. on the App Store. See screenshots, ratings and reviews, user tips, …",
-      "publishedAt": "2026-09-23T02:30:00.000Z",
-      "addedAt": "2026-09-23T02:42:23.681Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/23/game/3112135.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "release",
-        "company"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/81/27/bf8127fd-d7e0-e927-c710-3550f71467f3/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "e4d51b3a92d6",
-      "url": "https://www.google.com/url/?q=https%3A%2F%2Fapps.apple.com%2Fjp%2Fapp%2F%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25A2%2Fid6759098797&sa=D&ust=1790356185898320&usg=AOvVaw14ibauxtBLQZ1hPaiqOtwZ",
-      "host": "google.com",
-      "region": "jp",
-      "title": "アニモ",
-      "headline": "基本プレイ無料のオープンワールドモンスター収集RPG『アニモ』Steam最大同接「16万人」を突破。モバイル版も正式サービス開始",
-      "description": "基本プレイ無料のオープンワールドモンスター収集RPG『アニモ』Steam最大同接「16万人」を突破。モバイル版も正式サービス開始",
-      "publishedAt": "2026-09-23T02:00:28.000Z",
-      "addedAt": "2026-09-23T02:42:23.681Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260923t"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "eba238c2b723",
@@ -1424,7 +1328,7 @@
     },
     {
       "id": "bbd1f1e25ac3",
-      "url": "https://dc.sega.jp/game_sonic2.html/",
+      "url": "https://dc.sega.jp/game_sonic2.html",
       "host": "dc.sega.jp",
       "region": "jp",
       "title": "これまで",
@@ -1787,39 +1691,6 @@
       "image": ""
     },
     {
-      "id": "fd2eb51bfc6f",
-      "url": "https://apps.apple.com/us/app/dave-the-diver/id6759962259",
-      "host": "apps.apple.com",
-      "region": "global",
-      "title": "デイヴ・ザ・ダイバー",
-      "headline": "『デイヴ・ザ・ダイバー』がスマホに登場！ iOS・Android版が9月17日より配信開始",
-      "description": "Download DAVE THE DIVER by Mintrocket on the App Store. See screenshots, ratings and reviews, user tips, and more apps …",
-      "publishedAt": "2026-09-20T23:00:00.000Z",
-      "addedAt": "2026-09-20T23:43:33.700Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/21/game/3108710.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/05/fd/6e05fd2c-de99-c56c-3f1f-e67ba40ccb9c/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "9cdd9a9e5458",
       "url": "https://www.macncheesegames.com/",
       "host": "macncheesegames.com",
@@ -2081,9 +1952,9 @@
     },
     {
       "id": "700813e361b3",
-      "url": "https://www.stellar-blade.com/index_pc.html/",
+      "url": "https://www.stellar-blade.com/index_pc.html",
       "host": "stellar-blade.com",
-      "region": "jp",
+      "region": "global",
       "title": "Stellar Blade コンプリートエディション",
       "headline": "Switch2「Stellar Blade コンプリートエディション」の体験版が，本日配信開始［TGS2026］",
       "description": "Switch2「Stellar Blade コンプリートエディション」の体験版が，本日配信開始［TGS2026］",
@@ -2240,39 +2111,6 @@
       ],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "e8b0706e33cf",
-      "url": "https://apps.apple.com/jp/app/%E3%81%8A%E5%AC%A2%E3%81%95%E3%81%BE%E5%9B%9E%E9%81%BF2-%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0/id6760749968",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "お嬢さま回避2",
-      "headline": "お嬢さまの日常に迫るピンチを回避！ ゆる脱出ゲーム『お嬢さま回避2』が配信開始",
-      "description": "GlobalGear Co. Ltd.の「お嬢さま回避2 -脱出ゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「お嬢さま回避2 -脱出ゲーム」に似たゲームを見ることなどができま…",
-      "publishedAt": "2026-09-20T03:20:00.000Z",
-      "addedAt": "2026-09-20T08:55:45.462Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/20/game/3109581.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/2a/54/342a54db-d2c8-a2d6-affd-26c195ac0062/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "cdf59b47a91e",
@@ -2647,33 +2485,6 @@
       "image": "https://tgs2026.bn-ent.net/ogp.png"
     },
     {
-      "id": "dfcc5238661c",
-      "url": "https://www.enskyshop.com/products/list/?character_id=1094",
-      "host": "enskyshop.com",
-      "region": "jp",
-      "title": "語彙の王様",
-      "headline": "「語彙の王様」シリーズ最新作「語彙の記憶王」，10月上旬に発売。記憶力と語彙力が試されるアナログゲーム",
-      "description": "「語彙の王様」シリーズ最新作「語彙の記憶王」，10月上旬に発売。記憶力と語彙力が試されるアナログゲーム",
-      "publishedAt": "2026-09-19T10:59:05.000Z",
-      "addedAt": "2026-09-19T13:35:40.911Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/044/G104435/20260919064/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "6c76365ad81a",
       "url": "https://delanivogames.com/",
       "host": "delanivogames.com",
@@ -2909,39 +2720,6 @@
       ],
       "points": null,
       "image": "https://millionlive-theaterdays.idolmaster-official.jp/assets/img/ogp.png?20260526"
-    },
-    {
-      "id": "cc906e5ded91",
-      "url": "https://apps.apple.com/tw/app/%E8%B5%B0%E8%B5%B0%E5%B0%8F%E6%97%A5/id6771680812",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "てくてく日和",
-      "headline": "日記の中から生まれた不思議な生き物「ヒビモン」を探すかわいい癒し系ゲーム『てくてく日和』が開発中。東京ゲームショウ2026で体験版を試遊できる",
-      "description": "在 App Store 下載MUGIO CO., LTD.的《走走小日》。查看截圖、評分與評論、使用者提示以及更多與《走走小日》類似的遊戲。",
-      "publishedAt": "2026-09-19T04:25:25.000Z",
-      "addedAt": "2026-09-19T08:24:44.680Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260919l"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "event",
-        "release",
-        "company"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/33/21/68332158-a860-aaca-1c3c-a8499ae94ec3/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "15bcd360d15a",
@@ -3266,39 +3044,6 @@
       ],
       "points": null,
       "image": "https://jojo-portal.com/wp-content/themes/jojo-portal/sbr/assets/images/common/ogp4.png?20261700"
-    },
-    {
-      "id": "99c6a68f4db7",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797&itscg=30200&app=arcade&itsct=gamespark_arcade&ct=gamesaprk_article_auto",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "“圧倒的に好評”な迷路構築×ロ",
-      "headline": "“圧倒的に好評”な迷路構築×ローグライトTDゲームが正式リリース。ブロックを自由に配置して侵略を防げ―採れたて！本日のSteam注目ゲーム22選【2026年9月18日】",
-      "description": "“圧倒的に好評”な迷路構築×ローグライトTDゲームが正式リリース。ブロックを自由に配置して侵略を防げ―採れたて！本日のSteam注目ゲーム22選【2026年9月18日】",
-      "publishedAt": "2026-09-18T13:00:03.000Z",
-      "addedAt": "2026-09-18T13:59:10.166Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/18/172497.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "0c226415e8ec",
@@ -3730,41 +3475,6 @@
       "image": "https://sugarlies.kogado.com/img/ogp.jpg"
     },
     {
-      "id": "ad04bb2d7d2f",
-      "url": "https://apps.apple.com/jp/app/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-karma/id6744352329",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "俺だけレベルアップな件：KARMA",
-      "headline": "本郷奏多さん登場！『俺だけレベルアップな件：KARMA』TGS2026でメディア発表会開催、事前登録受付も実施中",
-      "description": "Netmarble Corporationの「俺だけレベルアップな件：KARMA」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「俺だけレベルアップな件：KARMA」に似たゲームを見る…",
-      "publishedAt": "2026-09-18T08:30:00.000Z",
-      "addedAt": "2026-09-18T13:59:10.166Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/18/game/3109157.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "event",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/94/4c/aa944c80-7ce9-9c94-7d69-437335073a73/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "41738ddbfdbc",
       "url": "https://www.kemuriworld.com/home-jp/",
       "host": "kemuriworld.com",
@@ -3846,39 +3556,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.actionxtreme.co.uk/bad-day-poster.jpg"
-    },
-    {
-      "id": "93bb4072070c",
-      "url": "https://apps.apple.com/jp/app/disney-epic-mickey-rebrushed/id6780501808",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ディズニー エピックミッキー：Rebrushed",
-      "headline": "ゲームマニアにも人気『ディズニー エピックミッキー：Rebrushed』のモバイル版が配信開始―2011年リリース作のリマスター、最適化でコンソール版のビジュアルを再現",
-      "description": "THQ Nordic Mobile GmbHの「Disney Epic Mickey: Rebrushed」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Disney Epic Mi…",
-      "publishedAt": "2026-09-18T06:45:03.000Z",
-      "addedAt": "2026-09-18T08:37:00.623Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/18/172474.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/95/57/f695570e-21b2-992d-ac7f-59172eb63b5d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0c23af7b7495",
@@ -3996,40 +3673,6 @@
       "platforms": [],
       "points": null,
       "image": "https://assets.creatorslab.kodansha.co.jp/bundles/images/creatorslab-ogp-600-315.png"
-    },
-    {
-      "id": "92280622e582",
-      "url": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3x-dive-%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3/id6446021269",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "PRAGMATA",
-      "headline": "『PRAGMATA』が初セール！ カプコン人気タイトルが集結する「CAPCOM TGS SALE」開催中",
-      "description": "CAPCOMの「ロックマンX DiVE オフライン」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ロックマンX DiVE オフライン」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-18T02:30:00.000Z",
-      "addedAt": "2026-09-18T08:37:00.623Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/18/game/3109084.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "campaign",
-        "event",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/a8/cb/d1a8cb78-8bdd-04dc-4f2b-6573d1e52d33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg"
     },
     {
       "id": "91a612d04a94",
@@ -4157,39 +3800,6 @@
       "image": ""
     },
     {
-      "id": "2330a26eadfb",
-      "url": "https://handy-games.com/games/disney-epic-mikey-rebrushed/",
-      "host": "handy-games.com",
-      "region": "global",
-      "title": "Disney Epic Mickey: Rebrushed",
-      "headline": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
-      "description": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
-      "publishedAt": "2026-09-17T23:48:45.409Z",
-      "addedAt": "2026-09-17T23:48:36.427Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/disney-epic-mickey-rebrushed/id6780501808"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "アドベンチャー",
-        "アクション"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "6e56ea9c0668",
       "url": "https://starblazers-yamato.net/",
       "host": "starblazers-yamato.net",
@@ -4245,34 +3855,6 @@
       "image": "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg"
     },
     {
-      "id": "afe1aeb5d224",
-      "url": "http://www.topre.co.jp/products/elec/keyboards/",
-      "host": "topre.co.jp",
-      "region": "jp",
-      "title": "REALFORCE",
-      "headline": "東プレのキーボード「REALFORCE」にピカチュウを描いたコラボモデルが登場。2026年12月下旬予約開始［TGS2026］",
-      "description": "東プレのキーボード「REALFORCE」にピカチュウを描いたコラボモデルが登場。2026年12月下旬予約開始［TGS2026］",
-      "publishedAt": "2026-09-17T15:38:51.000Z",
-      "addedAt": "2026-09-17T23:48:36.427Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/317/G031703/20260918006/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "prereg",
-        "campaign"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "fabd6a1df6f3",
       "url": "https://www.remedygames.com/games/control-2/",
       "host": "remedygames.com",
@@ -4298,46 +3880,6 @@
       "platforms": [],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "04ccab5cdbe0",
-      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Lumi Master",
-      "headline": "モンスター収集×育成RPG「Lumi Master」，本日リリース。100種類以上の「るぅみ」を集めて育成。片手操作にも対応",
-      "description": "BILIBILI HK LIMITEDの「Lumi Master（るぅみマスター）」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Lumi Master（るぅみマスター）」に似たゲー…",
-      "publishedAt": "2026-09-17T13:21:49.000Z",
-      "addedAt": "2026-09-17T14:33:05.442Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/043/G104382/20260917071/"
-        },
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android",
-        "ロールプレイング"
-      ],
-      "categories": [
-        "prereg",
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/f6/82/f8f68294-4c20-0695-f0a7-0163a9b58556/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "845df855f487",
@@ -4675,39 +4217,6 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/f5/2a/cdf52a29-c6f9-062a-30b4-366a34502ba2/Placeholder.mill/1200x630wa.jpg"
     },
     {
-      "id": "368fbd8cf6aa",
-      "url": "https://apps.apple.com/jp/app/palworld-%E3%83%91%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89/id6503918400?mt=12",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "パルワールド",
-      "headline": "TGS2026ポケットペアブースにノベルティ多数！『パルワールド』限定ステッカーやレッドブルコラボも 9月17日から",
-      "description": "Pocketpair, Inc.の「Palworld / パルワールド」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Palworld / パルワールド」に似たゲームを見ることなどが…",
-      "publishedAt": "2026-09-17T09:15:00.000Z",
-      "addedAt": "2026-09-17T14:33:05.442Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/17/game/3107542.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "campaign",
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/67/bf/c967bfa9-eea9-d51e-50fb-1c24f375976f/Palworld.png/1200x630wa.jpg"
-    },
-    {
       "id": "93a2c0dac1f3",
       "url": "https://cmn-jp.nexon.com/event/tgs2026/fareidolia/",
       "host": "cmn-jp.nexon.com",
@@ -4825,7 +4334,7 @@
     },
     {
       "id": "c30c148d8f6e",
-      "url": "https://rs34.co.jp/game/KarousBORN/index.html/",
+      "url": "https://rs34.co.jp/game/KarousBORN/index.html",
       "host": "rs34.co.jp",
       "region": "jp",
       "title": "カラスBORN",
@@ -4849,42 +4358,6 @@
       "platforms": [],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "d83d829446a0",
-      "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A4%E3%83%B4-%E3%82%B6-%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC/id6759962259",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "デイヴ・ザ・ダイバー",
-      "headline": "Mintrocket / ゲーム · App Store 新着",
-      "description": "Mintrocketの「デイヴ・ザ・ダイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「デイヴ・ザ・ダイバー」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-17T07:00:00.000Z",
-      "addedAt": "2026-09-16T23:58:54.926Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A4%E3%83%B4-%E3%82%B6-%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC/id6759962259"
-        },
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/18/game/3108546.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/98/ef/8398ef26-3bc7-8ec4-c000-f4a8bdca8608/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "5d6c602695ca",
@@ -4919,6 +4392,38 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "436cbd9a9af9",
+      "url": "https://apps.apple.com/jp/app/id6754979232",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Lumi Master（るぅみマスター）",
+      "headline": "BILIBILI HK LIMITED / ロールプレイング · App Store 新着",
+      "description": "BILIBILI HK LIMITEDの「Lumi Master（るぅみマスター）」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Lumi Master（るぅみマスター）」に似たゲー…",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6754979232"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f3/9f/01f39fed-8d71-8731-c00f-e90d2cff9e97/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "aac8d16dde5d",
@@ -5275,41 +4780,6 @@
       "image": "https://www.entergram.co.jp/virtualencore/ogp.webp"
     },
     {
-      "id": "a6cfd49efdf2",
-      "url": "https://apps.apple.com/jp/app/delta-force-2nd-anniversary/id6451399876",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Delta Force",
-      "headline": "『Delta Force』2周年感謝祭が10月4日開催、豪華ゲストとJapan Qualifier決勝ウォッチパーティーも",
-      "description": "Level Infiniteの「Delta Force: 2nd Anniversary」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Delta Force: 2nd Annive…",
-      "publishedAt": "2026-09-17T03:05:00.000Z",
-      "addedAt": "2026-09-17T03:51:46.413Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/17/game/3106657.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "周年",
-        "Android"
-      ],
-      "categories": [
-        "anniversary",
-        "event",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/50/79/d8507917-3c07-cc56-106a-cf2e7b9dcabf/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "56da25edf260",
       "url": "https://lumi.biligames.com/jp/",
       "host": "lumi.biligames.com",
@@ -5413,12 +4883,12 @@
     },
     {
       "id": "2f77300c2942",
-      "url": "https://www.d3p.co.jp/tgs2026/giveaway.html/",
+      "url": "https://www.d3p.co.jp/tgs2026/giveaway.html",
       "host": "d3p.co.jp",
       "region": "jp",
       "title": "地球防衛軍6.2",
       "headline": "『地球防衛軍6.2』が2027年3月18日に発売決定！9月18日よりPSストアにて予約の受付を開始",
-      "description": "『地球防衛軍6.2』が2027年3月18日に発売決定！9月18日よりPSストアにて予約の受付を開始",
+      "description": "ディースリー・パブリッシャー『東京ゲームショウ（TGS）』特設サイト",
       "publishedAt": "2026-09-17T02:49:06.000Z",
       "addedAt": "2026-09-17T03:51:46.413Z",
       "source": "電ファミニコゲーマー",
@@ -5432,11 +4902,13 @@
         "ゲーム"
       ],
       "categories": [
-        "release"
+        "event",
+        "release",
+        "campaign"
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://www.d3p.co.jp/tgs2026/images/ogp.jpg"
     },
     {
       "id": "76af559a61bb",
@@ -5731,38 +5203,6 @@
       "image": "https://the-first-zombie.com/ogp.png"
     },
     {
-      "id": "91e14fb88f71",
-      "url": "https://apps.apple.com/jp/app/9-kings/id6757860952",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "9 Kings（9 キングス）",
-      "headline": "「非常に好評」王国建設デッキ構築ストラテジー『9 Kings（9 キングス）』新コンテンツ追加と共に11月12日正式化決定",
-      "description": "Playdigiousの「9 Kings」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「9 Kings」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-16T22:00:03.000Z",
-      "addedAt": "2026-09-16T23:58:54.926Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/17/172387.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/c3/15/55c31591-28da-42d6-fdbc-3c01d0c249a8/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "d4e8e2447322",
       "url": "https://www.level5.co.jp/",
       "host": "level5.co.jp",
@@ -5829,39 +5269,6 @@
       "platforms": [],
       "points": null,
       "image": "https://geekshop.infolens.com/cdn/shop/files/logo-2000x1000_ee701e17-c218-4889-9853-ed927b293685.png?crop=center&height=1200&v=1780988511&width=1200"
-    },
-    {
-      "id": "1518029a7971",
-      "url": "https://apps.apple.com/jp/app/zeta-division-event/id6670420799",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ZETA GEAR",
-      "headline": "ZETA DIVISIONの新ギアブランド「ZETA GEAR」始動！自動車技術やミズノの知見を注いだ本気のゲーミングギア4製品を発売",
-      "description": "TwoGate inc.の「ZETA DIVISION EVENT」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ZETA DIVISION EVENT」に似たゲームを見ることなどが…",
-      "publishedAt": "2026-09-16T15:30:03.000Z",
-      "addedAt": "2026-09-16T23:58:54.926Z",
-      "source": "Inside",
-      "sources": [
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/17/187853.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "teaser",
-        "event",
-        "release"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/41/1c/b7411cf5-5ebd-ab12-90b6-80c11c585a0a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ab25ac469ec1",
@@ -6123,12 +5530,12 @@
     },
     {
       "id": "ba71ae8ff7c8",
-      "url": "https://two-point-museum.sega.jp/index.html/",
+      "url": "https://two-point-museum.sega.jp/index.html",
       "host": "two-point-museum.sega.jp",
       "region": "jp",
       "title": "ツーポイントミュージアム",
       "headline": "「ツーポイントミュージアム」，DLC第4弾「ユーエンチアム」を10月8日にリリース",
-      "description": "「ツーポイントミュージアム」，DLC第4弾「ユーエンチアム」を10月8日にリリース",
+      "description": "ツーポイントスタジオが贈る、ヘンテコ博物館経営シミュレーション『ツーポイントミュージアム』発売決定！ 対応機種：PlayStation5/Xbox Series X/S/PC",
       "publishedAt": "2026-09-16T10:37:38.000Z",
       "addedAt": "2026-09-16T12:57:30.156Z",
       "source": "4Gamer",
@@ -6144,9 +5551,13 @@
       "categories": [
         "release"
       ],
-      "platforms": [],
+      "platforms": [
+        "ps",
+        "xbox",
+        "pc"
+      ],
       "points": null,
-      "image": ""
+      "image": "https://two-point-museum.sega.jp/assets/images/jp/facebook.jpg"
     },
     {
       "id": "076f3c9b0f1a",
@@ -6262,38 +5673,6 @@
       "platforms": [],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "870d978d05ef",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "エバーナイト：リバース",
-      "headline": "LONGSIN GAME / ロールプレイング · App Store 新着",
-      "description": "LONGSIN GAMEの「エバーナイト：リバース」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「エバーナイト：リバース」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "addedAt": "2026-09-16T12:57:30.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A8%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88-%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9/id6780761128"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "ロールプレイング"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/5e/7b/4e5e7b99-c4c7-e08c-4843-01ab0d3363d4/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3cc038c5890f",
@@ -6415,7 +5794,7 @@
     },
     {
       "id": "422536554534",
-      "url": "https://www.dospara.co.jp/gamepc/cts-tgs2026.html/",
+      "url": "https://www.dospara.co.jp/gamepc/cts-tgs2026.html",
       "host": "dospara.co.jp",
       "region": "jp",
       "title": "【TGS2026】5年連続出展の重鎮・GALLERIA",
@@ -6473,33 +5852,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.404shibuya.tokyo/wp-content/themes/404shibuya/ogp.png?timestamp=20240906"
-    },
-    {
-      "id": "51b4d6887a9a",
-      "url": "https://t.co/qEaENCtWIX/",
-      "host": "t.co",
-      "region": "jp",
-      "title": "アイドルマスター シンデレラガールズ",
-      "headline": "『アイドルマスター シンデレラガールズ』単独オーケストラコンサートが開催決定！2027年1月11日・12日にパシフィコ横浜 国立大ホールにて",
-      "description": "『アイドルマスター シンデレラガールズ』単独オーケストラコンサートが開催決定！2027年1月11日・12日にパシフィコ横浜 国立大ホールにて",
-      "publishedAt": "2026-09-16T03:04:44.000Z",
-      "addedAt": "2026-09-16T07:00:43.649Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609162f"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
     },
     {
       "id": "fd90953a6323",
@@ -6668,40 +6020,6 @@
       "platforms": [],
       "points": null,
       "image": "https://nikke-jp.com/events/nikkeinkyoto2nd/img/share1.jpg?v=2.0"
-    },
-    {
-      "id": "a62f40d45fb3",
-      "url": "https://apps.apple.com/jp/app/ares-the-iron-vanguard/id6755576582",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ARES: THE IRON VANGUARD",
-      "headline": "Com2uS Holdings新作『ARES: THE IRON VANGUARD』が配信開始！ リリース記念イベントも開催",
-      "description": "Com2uS Holdingsの「ARES: THE IRON VANGUARD」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ARES: THE IRON VANGUARD」に似た…",
-      "publishedAt": "2026-09-16T02:30:00.000Z",
-      "addedAt": "2026-09-16T07:00:43.649Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/16/game/3105749.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "event",
-        "release",
-        "anniversary"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/50/3a/47503a66-4406-449b-8692-8f466073050a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "1c0abaa737ab",
@@ -6931,41 +6249,6 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/9ca652_c5535a698e964cbaac186aae870a65a2%7Emv2.jpg"
-    },
-    {
-      "id": "ba866b6d4eb4",
-      "url": "https://apps.apple.com/jp/app/wizardry-variants-daphne/id1663423521",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "WizardryⅥ",
-      "headline": "祝ウィザードリィの日！ SFC版『WizardryⅥ』移植決定など45周年記念情報が一挙公開",
-      "description": "Drecom Co., Ltd.の「Wizardry Variants Daphne」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Wizardry Variants Daphne」…",
-      "publishedAt": "2026-09-15T22:45:00.000Z",
-      "addedAt": "2026-09-15T23:58:33.508Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/16/game/3105539.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "周年",
-        "Android"
-      ],
-      "categories": [
-        "anniversary",
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/1b/b7/4c1bb76b-e865-c72d-abcf-12d47403e6f5/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8ebda0f92f21",
@@ -7436,33 +6719,6 @@
       "image": "https://sonic.sega.jp/SonicRacingCrossWorlds/assets/images/jp/facebook260319.jpg"
     },
     {
-      "id": "571e7322968e",
-      "url": "https://www.nhk.jp/g/",
-      "host": "nhk.jp",
-      "region": "jp",
-      "title": "仮面ライダージオウ",
-      "headline": "『仮面ライダージオウ』常磐ソウゴ役の奥野壮さん、大河ドラマ『逆賊の幕臣』に明治天皇役で出演決定！数え年16歳で天皇となった孝明天皇の第二皇子を演じる",
-      "description": "『仮面ライダージオウ』常磐ソウゴ役の奥野壮さん、大河ドラマ『逆賊の幕臣』に明治天皇役で出演決定！数え年16歳で天皇となった孝明天皇の第二皇子を演じる",
-      "publishedAt": "2026-09-15T10:33:07.000Z",
-      "addedAt": "2026-09-15T14:35:34.694Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609153a"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "b1fe0dc1b96a",
       "url": "https://trickcal.biligames.com/jp/",
       "host": "trickcal.biligames.com",
@@ -7654,39 +6910,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.pokemonsleep.net/pokeball-hotel/assets/img/ogp.jpg"
-    },
-    {
-      "id": "aa47cd43f766",
-      "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%B3%E3%83%96%E3%83%B3%E4%BC%9D%E8%AA%AC/id6811043476",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ブンブン伝説",
-      "headline": "KOU NAKAGOMI / シミュレーション・ミュージック · App Store 新着",
-      "description": "KOU NAKAGOMIの「ブンブン伝説」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブンブン伝説」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "addedAt": "2026-09-16T12:57:30.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%B3%E3%83%96%E3%83%B3%E4%BC%9D%E8%AA%AC/id6811043476"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "シミュレーション",
-        "ミュージック"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/5e/7e/725e7eb6-6e5f-10a8-28be-918f478f5528/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "6dc9cb05026a",
@@ -8327,40 +7550,6 @@
       "image": ""
     },
     {
-      "id": "c3e1f9fc823b",
-      "url": "https://apps.apple.com/app/id6760698900",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "雨のちハレ女",
-      "headline": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
-      "description": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
-      "publishedAt": "2026-09-14T10:44:53.000Z",
-      "addedAt": "2026-09-14T12:56:12.526Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609142y"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "event"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "bace02931b6a",
       "url": "https://playdarkmachine.com/",
       "host": "playdarkmachine.com",
@@ -8419,40 +7608,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.event-td.com/horror-tokk/images/ogp.webp"
-    },
-    {
-      "id": "a78ec1a197e9",
-      "url": "https://apps.apple.com/jp/app/ryzachat-ai/id6763540981",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "RyzaChat:AI",
-      "headline": "東京ゲームショウ2026で『RyzaChat:AI』スペシャルステージ開催！ コスプレイヤー・すずらさんがゲスト出演",
-      "description": "SpiralAI Inc.の「RyzaChat:AI」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「RyzaChat:AI」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-14T09:45:00.000Z",
-      "addedAt": "2026-09-14T12:56:12.526Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/14/game/3104275.php"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "Android"
-      ],
-      "categories": [
-        "event",
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/85/4f/4d854fad-8091-0c63-b04b-71a31006cf2b/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "694adeb54655",
@@ -8538,12 +7693,12 @@
     },
     {
       "id": "025060811184",
-      "url": "https://www.darksouls.jp/detail_ds3.html/",
+      "url": "https://www.darksouls.jp/detail_ds3.html",
       "host": "darksouls.jp",
       "region": "jp",
       "title": "ダークソウル",
       "headline": "【50％オフ】PSストアにて『ダークソウル』3部作が50％オフとなるセールが開催中。『デモンズソウル』リメイク版も50％オフ",
-      "description": "【50％オフ】PSストアにて『ダークソウル』3部作が50％オフとなるセールが開催中。『デモンズソウル』リメイク版も50％オフ",
+      "description": "DARK SOULS (ダークソウル) シリーズオフィシャルウェブサイトです。各シリーズの情報をお届けします。",
       "publishedAt": "2026-09-14T07:48:31.000Z",
       "addedAt": "2026-09-14T08:07:21.557Z",
       "source": "電ファミニコゲーマー",
@@ -8685,43 +7840,6 @@
       "image": "https://japan-kakurenbo.com/wp/wp-content/uploads/2019/04/logo.jpg"
     },
     {
-      "id": "e97e5767d909",
-      "url": "https://apps.apple.com/jp/app/valheim/id1554294918?mt=12",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Valheim",
-      "headline": "北欧神話風オープンワールドサバクラ『Valheim』正式版リリースで再び盛況―Steam版の最大同時接続者数が30万人突破！",
-      "description": "Coffee Stain Publishingの「Valheim」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Valheim」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-14T07:00:04.000Z",
-      "addedAt": "2026-09-14T07:06:30.587Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/14/172228.html"
-        },
-        {
-          "name": "GameBusiness.jp",
-          "url": "https://www.gamebusiness.jp/article/2026/09/14/28039.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/7f/39/267f39a7-32cf-bae9-7ded-a18b29f601eb/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "3bca2b9d4d65",
       "url": "https://yu-gi-oh.jp/",
       "host": "yu-gi-oh.jp",
@@ -8809,7 +7927,7 @@
       "region": "jp",
       "title": "シャングリラ・フロンティア〜七つの最強種〜",
       "headline": "「シャングリラ・フロンティア〜七つの最強種〜」，事前登録をApp StoreやGoogle Playなどで受付中。TGS 2026のステージイベント情報も公開に",
-      "description": "クソゲーハンター、ついに「神ゲー」と出会う！ 『シャングリラ・フロンティア』初の公式ゲーム化！",
+      "description": "シャングリラ・フロンティア～七つの最強種～ 公式ティザーサイト",
       "publishedAt": "2026-09-14T04:35:35.000Z",
       "addedAt": "2026-09-14T06:11:38.156Z",
       "source": "4Gamer",
@@ -8829,13 +7947,13 @@
       "categories": [
         "prereg",
         "event",
-        "goods"
+        "teaser"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260903/kdiz1788413190678.jpg"
+      "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg"
     },
     {
       "id": "0c264c90964b",
@@ -9063,40 +8181,13 @@
       "image": "https://lh3.googleusercontent.com/RyQzi0GT1DQpUc6X62nhd1R7pSRXfU4X4J3rA8qTakzh5yeYW9OPKIWEyyHo0wOmy3yHS5lVzYj0snN8ZRWYKX_oRgGXRqGW4Z8W"
     },
     {
-      "id": "94824891f3b6",
-      "url": "https://below-the-root.saul.pw/",
-      "host": "below-the-root.saul.pw",
-      "region": "global",
-      "title": "Below the Root (1984 game) ported to JavaScript",
-      "headline": "As a kid, I loved this relatively unknown game, Below the Root. The world-building of the…",
-      "description": "As a kid, I loved this relatively unknown game, Below the Root. The world-building of the original trilogy of novels from the 1970s, is lovingly carried through into this side-scrolling \"platform-adv…",
-      "publishedAt": "2026-09-13T17:57:12Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "Hacker News",
-      "sources": [
-        {
-          "name": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49686686"
-        }
-      ],
-      "tags": [
-        "Show HN"
-      ],
-      "categories": [
-        "indie"
-      ],
-      "platforms": [],
-      "points": 3,
-      "image": ""
-    },
-    {
       "id": "14fc1dc947cd",
       "url": "https://bang-dream-on.bushimo.jp/",
       "host": "bang-dream-on.bushimo.jp",
       "region": "jp",
       "title": "バンドリ！",
       "headline": "『バンドリ！』新作リズムゲーム『BanG Dream! Our Notes』を先行プレイしたら、コンテンツ量がすごすぎた。リリース時点で全5バンド計100話・約24時間相当のバン…",
-      "description": "奏でよう、私たちの音 MyGO!!!!! Ave Mujicaからはじまる ５つのバンドの物語 バンドリ！プロジェクト 新作モバイルゲーム「BanG Dream! Our Notes（アワーノーツ）」公式サイト",
+      "description": "奏でよう、私たちの音 MyGO!!!!! Ave Mujicaからはじまる ５つのバンドの物語 バンドリ！プロジェクト 新作モバイルゲーム「バンドリ！アワーノーツ」公式サイト",
       "publishedAt": "2026-09-13T15:00:31.000Z",
       "addedAt": "2026-09-14T06:11:38.156Z",
       "source": "電ファミニコゲーマー",
@@ -9227,41 +8318,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg"
-    },
-    {
-      "id": "d742711ca0a8",
-      "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "バンドリ！アワーノーツ",
-      "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
-      "description": "Bushiroad Inc.の「バンドリ！アワーノーツ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「バンドリ！アワーノーツ」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-13T12:33:22.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260913p"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "release",
-        "company"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/4f/5e/004f5e0d-7f93-1720-b262-15c50d7f32f0/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b1bf6bd36f98",
@@ -10272,107 +9328,6 @@
       "image": "https://www.inazuma.jp/victory-road/assets/img/shared/ogp.jpg"
     },
     {
-      "id": "338e8991a3c0",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B5%E3%82%AB%E3%83%A2%E3%83%88%E3%83%87%E3%82%A4%E3%82%BA-%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%AD%E3%83%BC%E3%82%B0-%E3%83%89%E3%83%BC%E3%83%B3/id6756270200",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "サカモトデイズ　ミッション：ローグ ドーン",
-      "headline": "Rudel inc. / エンターテインメント・アクション · App Store 新着",
-      "description": "Rudel inc.の「サカモトデイズ ミッション：ローグ ドーン」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「サカモトデイズ ミッション：ローグ ドーン」に似たゲームを見ることな…",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B5%E3%82%AB%E3%83%A2%E3%83%88%E3%83%87%E3%82%A4%E3%82%BA-%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%AD%E3%83%BC%E3%82%B0-%E3%83%89%E3%83%BC%E3%83%B3/id6756270200"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "エンターテインメント",
-        "アクション"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/df/35/18df351b-4fb3-58be-f324-c0a9b7d1e865/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "a3dde61625d4",
-      "url": "https://apps.apple.com/jp/app/%E5%AF%BE%E7%A9%BA%E6%88%A6%E9%97%98/id6808126446",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "対空戦闘！",
-      "headline": "tomoki ishihara / シミュレーション・アクション · App Store 新着",
-      "description": "tomoki ishiharaの「対空戦闘！」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「対空戦闘！」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-10T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E5%AF%BE%E7%A9%BA%E6%88%A6%E9%97%98/id6808126446"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "シミュレーション",
-        "アクション"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/35/45/ab3545d4-0e15-332e-b955-4c3f393c63a0/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "8d360c1f9847",
-      "url": "https://apps.apple.com/jp/app/777real-%E7%B7%91%E3%83%89%E3%83%B3-viva-%E6%83%85%E7%86%B1%E5%8D%97%E7%B1%B3%E7%B7%A8/id6804965220",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "[777Real]緑ドン VIVA！情熱南米編",
-      "headline": "Sammy Networks Co., Ltd. / シミュレーション・カジノ · App Store 新着",
-      "description": "Sammy Networks Co., Ltd.の「[777Real]緑ドン VIVA！情熱南米編」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[777Real]緑ドン VIVA！…",
-      "publishedAt": "2026-09-10T00:59:01.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/777real-%E7%B7%91%E3%83%89%E3%83%B3-viva-%E6%83%85%E7%86%B1%E5%8D%97%E7%B1%B3%E7%B7%A8/id6804965220"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "シミュレーション",
-        "カジノ"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/90/e8/d090e838-566d-9312-b544-e6dd2d1eb17b/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "c954aba865f9",
       "url": "https://uta.macross.site/",
       "host": "uta.macross.site",
@@ -10524,39 +9479,6 @@
       "platforms": [],
       "points": null,
       "image": "https://milestone.it/wp-content/uploads/2026/06/logo-image.webp"
-    },
-    {
-      "id": "4adcf60ed54c",
-      "url": "https://apps.apple.com/jp/app/%E3%81%B7%E3%82%93%E3%81%B7%E3%82%93%E9%97%98%E7%A5%9E/id6767176253",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ぷんぷん闘神",
-      "headline": "Chase Online Company / ロールプレイング・カード · App Store 新着",
-      "description": "Chase Online Companyの「ぷんぷん闘神」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ぷんぷん闘神」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%81%B7%E3%82%93%E3%81%B7%E3%82%93%E9%97%98%E7%A5%9E/id6767176253"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "ロールプレイング",
-        "カード"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/6e/6b/8c6e6b11-6b44-4a2f-10a6-917a93cd3bf8/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "058f32463712",
@@ -10717,7 +9639,7 @@
     },
     {
       "id": "7ce0f28da9f3",
-      "url": "https://www.mintrock.et/jp/game/game.php/",
+      "url": "https://www.mintrock.et/jp/game/game.php",
       "host": "mintrock.et",
       "region": "jp",
       "title": "デイヴ・ザ・ダイバー",
@@ -10809,40 +9731,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.konami.com/games/silenthill/f/s/img/share_img_en.jpg?=v2"
-    },
-    {
-      "id": "cbfc46280288",
-      "url": "https://apps.apple.com/jp/app/knightica/id6758999138",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Knightica",
-      "headline": "Goblinz Studio SAS / ロールプレイング・ストラテジー · App Store 新着",
-      "description": "Goblinz Studio SASの「Knightica」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Knightica」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/knightica/id6758999138"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "ロールプレイング",
-        "ストラテジー"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/4f/0a/744f0a67-1ffe-f525-a894-bce05b77b295/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ad75bad92792",
@@ -10938,40 +9826,6 @@
       "image": "https://playism.com/wp-content/uploads/2026/04/IdolManagerVV_keyart_1920x1080.png"
     },
     {
-      "id": "3002038e0b6c",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E7%94%B2%E9%89%84%E5%9F%8E%E3%81%AE%E3%82%AB%E3%83%90%E3%83%8D%E3%83%AA-%E6%B5%B7%E9%96%80-%E3%81%86%E3%81%AA%E3%81%A8-%E6%B1%BA%E6%88%A6/id6802539506",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
-      "headline": "Sammy Networks Co., Ltd. / カジノ・シミュレーション · App Store 新着",
-      "description": "Sammy Networks Co., Ltd.の「スマスロ 甲鉄城のカバネリ 海門（うなと）決戦」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「スマスロ 甲鉄城のカバネリ 海門（う…",
-      "publishedAt": "2026-09-07T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E7%94%B2%E9%89%84%E5%9F%8E%E3%81%AE%E3%82%AB%E3%83%90%E3%83%8D%E3%83%AA-%E6%B5%B7%E9%96%80-%E3%81%86%E3%81%AA%E3%81%A8-%E6%B1%BA%E6%88%A6/id6802539506"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジノ",
-        "シミュレーション"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/23/e4/0823e442-0d3d-ba7c-133e-217018d3d253/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "c65216d0f230",
       "url": "https://horihori.hachiware.app/",
       "host": "horihori.hachiware.app",
@@ -11003,6 +9857,40 @@
       ],
       "points": null,
       "image": "https://horihori.hachiware.app/_astro/og-default.DMkkIAWo_ZzqXHn.png"
+    },
+    {
+      "id": "45cb05892fa0",
+      "url": "https://apps.apple.com/jp/app/id6802539506",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
+      "headline": "Sammy Networks Co., Ltd. / カジノ・シミュレーション · App Store 新着",
+      "description": "Sammy Networks Co., Ltd.の「スマスロ 甲鉄城のカバネリ 海門（うなと）決戦」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「スマスロ 甲鉄城のカバネリ 海門（う…",
+      "publishedAt": "2026-09-07T07:00:00.000Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6802539506"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "シミュレーション"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/23/e4/0823e442-0d3d-ba7c-133e-217018d3d253/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "6964e1d57769",
@@ -11098,105 +9986,6 @@
       "image": "https://toaru2s.fun2play.net/web/assets/default.CZ816Hke_ZU8sNb.jpg"
     },
     {
-      "id": "2233ff5e0fab",
-      "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "波乱水世界",
-      "headline": "Hong Kong Just Game Technology Limited / シミュレーション・ストラテジー · App Store 新着",
-      "description": "Hong Kong Just Game Technology Limitedの「波乱水世界」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「波乱水世界」に似たゲームを見ることなどができ…",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/a0/8d/12a08daf-deec-e60b-a916-213aca028171/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "89f85ebb1cba",
-      "url": "https://apps.apple.com/jp/app/%E8%B6%85%E5%A2%97%E7%A8%8E%E9%83%BD%E5%B8%82/id6759667009",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "超増税都市",
-      "headline": "Ota Sora / カジュアル・シミュレーション · App Store 新着",
-      "description": "Ota Soraの「超増税都市」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「超増税都市」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E8%B6%85%E5%A2%97%E7%A8%8E%E9%83%BD%E5%B8%82/id6759667009"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/8e/a7/918ea7c3-6fa1-07a5-40f0-1c177bcd62bd/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "df09ac9cec62",
-      "url": "https://apps.apple.com/jp/app/zad-archery-idle-rpg/id6799752217",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Zad Archery: Idle RPG",
-      "headline": "Abdullah Alhijaily / アクション・カジュアル · App Store 新着",
-      "description": "Abdullah Alhijailyの「Zad Archery: Idle RPG」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Zad Archery: Idle RPG」に似たゲ…",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/zad-archery-idle-rpg/id6799752217"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "アクション",
-        "カジュアル"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/1c/74/b61c747d-cee3-287c-fb6d-dc902346a318/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "d10f93a61f26",
       "url": "https://funjoysmith.com/",
       "host": "funjoysmith.com",
@@ -11229,6 +10018,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "249f422e7697",
+      "url": "https://apps.apple.com/jp/app/id6780387121",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "波乱水世界",
+      "headline": "Hong Kong Just Game Technology Limited / シミュレーション・ストラテジー · App Store 新着",
+      "description": "Hong Kong Just Game Technology Limitedの「波乱水世界」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「波乱水世界」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6780387121"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/96/d0/a596d0d5-a09b-799f-5153-551dda977567/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "65b2fbe7e779",
@@ -11264,38 +10086,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "f13b7813729b",
-      "url": "https://apps.apple.com/jp/app/%E7%B5%82%E7%84%89%E3%81%AE%E6%A5%94-%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9-%E3%83%8E%E3%83%B4%E3%82%A1/id6775121055",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "終焉の楔：アポカリプス・ノヴァ",
-      "headline": "Tianjin Lintu Technology Co., Ltd / ゲーム · App Store 新着",
-      "description": "Tianjin Lintu Technology Co., Ltdの「終焉の楔：アポカリプス・ノヴァ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「終焉の楔：アポカリプス・ノヴァ」に…",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E7%B5%82%E7%84%89%E3%81%AE%E6%A5%94-%E3%82%A2%E3%83%9D%E3%82%AB%E3%83%AA%E3%83%97%E3%82%B9-%E3%83%8E%E3%83%B4%E3%82%A1/id6775121055"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/53/73/f35373fe-7988-160d-39bc-33d7a4dfea32/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b6f8b2b689cd",
@@ -11530,20 +10320,20 @@
       "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png"
     },
     {
-      "id": "ab7ac2517a22",
-      "url": "https://apps.apple.com/jp/app/%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E9%9B%BB%E8%BB%8A%E3%83%A9%E3%82%A4%E3%83%95-%E8%A1%97%E3%82%92%E7%99%BA%E5%B1%95-%E8%BB%8A%E6%8E%8C%E3%82%B2%E3%83%BC%E3%83%A0/id6780728551",
+      "id": "e9d00e6142bc",
+      "url": "https://apps.apple.com/jp/app/id6780728551",
       "host": "apps.apple.com",
       "region": "jp",
       "title": "ワクワク電車ライフ - 街を発展！車掌ゲーム",
       "headline": "ONIGIRI GAMES / エンターテインメント・シミュレーション · App Store 新着",
       "description": "ONIGIRI GAMESの「ワクワク電車ライフ - 街を発展！車掌ゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ワクワク電車ライフ - 街を発展！車掌ゲーム」に似たゲームを…",
       "publishedAt": "2026-08-16T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
       "source": "App Store",
       "sources": [
         {
           "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF%E9%9B%BB%E8%BB%8A%E3%83%A9%E3%82%A4%E3%83%95-%E8%A1%97%E3%82%92%E7%99%BA%E5%B1%95-%E8%BB%8A%E6%8E%8C%E3%82%B2%E3%83%BC%E3%83%A0/id6780728551"
+          "url": "https://apps.apple.com/jp/app/id6780728551"
         }
       ],
       "tags": [
@@ -11560,23 +10350,23 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/6c/da/816cdaf7-b4bb-3d72-d0b7-2f75d22bb9ae/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/e4/80/15e480a6-a3ce-8a66-abd1-0c7cfaf9902c/Placeholder.mill/1200x630wa.jpg"
     },
     {
-      "id": "18e71fed07ee",
-      "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/id6761354266",
+      "id": "76ae1cc4db31",
+      "url": "https://apps.apple.com/jp/app/id6761354266",
       "host": "apps.apple.com",
       "region": "jp",
       "title": "スマスロ 攻殻機動隊",
       "headline": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
       "description": "Sammy Networks Co., Ltd.の「スマスロ 攻殻機動隊」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「スマスロ 攻殻機動隊」に似たゲームを見ることなどができます。",
       "publishedAt": "2026-08-14T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
+      "addedAt": "2026-09-24T09:00:17.008Z",
       "source": "App Store",
       "sources": [
         {
           "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A/id6761354266"
+          "url": "https://apps.apple.com/jp/app/id6761354266"
         }
       ],
       "tags": [
@@ -11630,70 +10420,6 @@
       "image": ""
     },
     {
-      "id": "ba919308f6f1",
-      "url": "https://apps.apple.com/jp/app/last-shelter-war-z/id6760406772",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "Last Shelter: War Z",
-      "headline": "LAST ORIGIN STUDIO LIMITED / ストラテジー · App Store 新着",
-      "description": "LAST ORIGIN STUDIO LIMITEDの「Last Shelter: War Z」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Last Shelter: War Z」…",
-      "publishedAt": "2026-08-12T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/last-shelter-war-z/id6760406772"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "ストラテジー"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/fc/db/b1fcdb3c-6a6a-170a-ba8d-aff9ec7ccd1f/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "e1097e617859",
-      "url": "https://apps.apple.com/jp/app/%E6%BB%85%E4%BA%A1%E3%81%AE%E6%9C%AA%E6%9D%A5-%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/id6799583064",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "滅亡の未来：ラスト・スタンド",
-      "headline": "Lolly Technology Limited / ゲーム · App Store 新着",
-      "description": "Lolly Technology Limitedの「滅亡の未来：ラスト・スタンド」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「滅亡の未来：ラスト・スタンド」に似たゲームを見ることな…",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "addedAt": "2026-09-19T08:24:44.680Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E6%BB%85%E4%BA%A1%E3%81%AE%E6%9C%AA%E6%9D%A5-%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/id6799583064"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/98/80/57988021-e9a7-0cc3-af20-9a62130623b5/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "efb3fade8756",
       "url": "https://jp-stigmatized-property.com/",
       "host": "jp-stigmatized-property.com",
@@ -11728,39 +10454,6 @@
       ],
       "points": null,
       "image": "https://jp-stigmatized-property.com/wp-content/uploads/2026/02/%E7%90%86%E4%BA%8B%E9%95%B7.jpg"
-    },
-    {
-      "id": "5e72f875e970",
-      "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "トップロード",
-      "headline": "GAME SPARK PTE. LTD. / カジュアル・ストラテジー · App Store 新着",
-      "description": "GAME SPARK PTE. LTD.の「トップロード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「トップロード」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジュアル",
-        "ストラテジー"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/41/1a/2f411ade-b867-a4a2-f041-3545435be591/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "28813110157c",
