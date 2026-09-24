@@ -42,6 +42,34 @@ export async function resolveRedirect(url, { maxHops = 5, timeoutMs = 15000 } = 
   return current;
 }
 
+const SHORTENER_RE = /^(t\.co|bit\.ly|goo\.gl|ow\.ly|tinyurl\.com|buff\.ly|lnkd\.in|x\.gd|is\.gd)$/i;
+
+// 短縮 URL をリンク先に展開する。t.co はブラウザ以外には meta refresh のページを返すので本文も見る
+export async function resolveShortLink(url, { timeoutMs = 10000 } = {}) {
+  let host;
+  try {
+    host = new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return url;
+  }
+  if (!SHORTENER_RE.test(host)) return url;
+  const ac = new AbortController();
+  const t = setTimeout(() => ac.abort(), timeoutMs);
+  try {
+    const r = await fetch(url, { headers: { "user-agent": UA }, signal: ac.signal, redirect: "follow" });
+    if (!SHORTENER_RE.test(new URL(r.url).hostname.replace(/^www\./, ""))) return r.url;
+    const html = (await r.text()).slice(0, 20000);
+    const m =
+      html.match(/http-equiv=["']?refresh["']?[^>]*content=["'][^"']*url=([^"'>\s]+)/i) ||
+      html.match(/<title>\s*(https?:\/\/[^<\s]+)\s*<\/title>/i);
+    return m ? m[1].replace(/&amp;/g, "&") : null;
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 const TRACKING_PARAMS = /^(utm_|ref$|ref_|source$|fbclid|gclid|mc_)/i;
 
 // 比較用に URL を正規化（トラッキングパラメータ・末尾スラッシュ・www を除去）
@@ -61,10 +89,38 @@ export function normalizeUrl(input) {
   }
 }
 
+// Google 検索結果・SNS のクッション URL から実際のリンク先を取り出す
+function unwrapUrl(u) {
+  const wrapped =
+    (/(^|\.)google\.[a-z.]+$/.test(u.hostname) && /^\/url\/?$/.test(u.pathname) && (u.searchParams.get("q") || u.searchParams.get("url"))) ||
+    (/^l\.(facebook|instagram)\.com$/.test(u.hostname) && u.searchParams.get("u")) ||
+    "";
+  if (!/^https?:\/\//.test(wrapped)) return u;
+  try {
+    return new URL(wrapped);
+  } catch {
+    return u;
+  }
+}
+
+// ストアページはアプリを特定する部分だけ残す（アフィリエイト等のパラメータが壊れていると 404 になる）
+function normalizeStoreUrl(u) {
+  if (u.hostname === "apps.apple.com") {
+    const id = u.pathname.match(/\/id(\d+)/)?.[1];
+    // 国指定なしの URL は米国ストア扱いになり、日本限定アプリは 404 になる
+    const cc = u.pathname.match(/^\/([a-z]{2})\//)?.[1] || "jp";
+    if (id) return new URL(`https://apps.apple.com/${cc}/app/id${id}`);
+  }
+  if (u.hostname === "play.google.com" && u.searchParams.get("id")) {
+    return new URL(`https://play.google.com/store/apps/details?id=${u.searchParams.get("id")}`);
+  }
+  return u;
+}
+
 // 表示用 URL（ref=... などトラッキングだけ落とす）
 export function cleanUrl(input) {
   try {
-    const u = new URL(input);
+    const u = normalizeStoreUrl(unwrapUrl(new URL(input)));
     for (const k of [...u.searchParams.keys()]) {
       if (TRACKING_PARAMS.test(k)) u.searchParams.delete(k);
     }

@@ -2,6 +2,9 @@
 import { UA } from "./util.mjs";
 import { decodeEntities, stripTags } from "./xml.mjs";
 
+const SOFT_404_RE = /^\s*(404\b|404 not found|not found|page not found|ページが見つかりません|お探しのページ(は|が)見つかりません|ページは存在しません)/i;
+const DEAD_CODES = new Set(["ENOTFOUND", "ECONNREFUSED", "ERR_TLS_CERT_ALTNAME_INVALID", "CERT_HAS_EXPIRED"]);
+
 function metaContent(html, names) {
   for (const name of names) {
     const re1 = new RegExp(`<meta\\s+[^>]*(?:property|name)=["']${name}["'][^>]*content=["']([^"']+)["']`, "i");
@@ -32,7 +35,7 @@ export async function fetchMeta(url, { timeoutMs = 15000 } = {}) {
       signal: ac.signal,
       redirect: "follow",
     });
-    if (!r.ok) return { ok: false, status: r.status };
+    if (!r.ok) return { ok: false, status: r.status, gone: r.status === 404 || r.status === 410 };
     const type = r.headers.get("content-type") || "";
     if (!/html/i.test(type)) return { ok: false, status: r.status, reason: "not html" };
 
@@ -48,6 +51,10 @@ export async function fetchMeta(url, { timeoutMs = 15000 } = {}) {
     }
     reader.cancel().catch(() => {});
     const html = new TextDecoder("utf-8").decode(Buffer.concat(chunks));
+
+    // 200 を返しつつ中身は「ページが見つかりません」のサイト（ソフト 404）
+    const title = stripTags((html.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [])[1] || "");
+    if (SOFT_404_RE.test(title)) return { ok: false, status: r.status, reason: "soft 404", gone: true };
 
     const finalUrl = r.url || url;
     const lang = (html.match(/<html[^>]*\blang=["']([^"']+)["']/i) || [])[1] || "";
@@ -66,7 +73,9 @@ export async function fetchMeta(url, { timeoutMs = 15000 } = {}) {
       textLen: bodyText.length,
     };
   } catch (e) {
-    return { ok: false, reason: String(e.message || e).slice(0, 80) };
+    // ドメイン消滅・接続拒否は一時的な障害の可能性もあるので、呼び出し側で複数回続いたときだけ外す
+    const code = e.cause?.code || "";
+    return { ok: false, reason: (code ? `${code} ` : "") + String(e.message || e).slice(0, 80), gone: DEAD_CODES.has(code) };
   } finally {
     clearTimeout(t);
   }

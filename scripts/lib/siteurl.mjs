@@ -25,15 +25,14 @@ export function toSiteRoot(input, { articleSegments = DEFAULT_ARTICLE_SEGMENTS }
   const segs = u.pathname.split("/").filter(Boolean);
   const set = new Set(articleSegments.map((s) => s.toLowerCase()));
   const cut = segs.findIndex((s) => set.has(s.toLowerCase().replace(/\.(php|html?|aspx)$/, "")));
-  let kept = cut >= 0 ? segs.slice(0, cut) : segs;
-
-  // 末尾の言語・index 指定は残す（トップページそのものなので）
-  while (kept.length && LOCALE_SEGMENT.test(kept[kept.length - 1]) && cut >= 0) break;
-
-  u.pathname = kept.length ? "/" + kept.join("/") + "/" : "/";
-  u.search = cut >= 0 ? "" : u.search;
   u.hash = "";
-  return u.toString().replace(/\/+$/, "/");
+  // 記事セグメントが無ければパスはそのまま（index.html などのファイル名に "/" を足すと 404 になる）
+  if (cut < 0) return u.toString();
+
+  const kept = segs.slice(0, cut);
+  u.pathname = kept.length ? "/" + kept.join("/") + "/" : "/";
+  u.search = "";
+  return u.toString();
 }
 
 // 重複判定用のキー。https/http・www・末尾の言語セグメントの違いを同じサイトとして扱う

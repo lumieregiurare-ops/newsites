@@ -1,4 +1,4 @@
-import { UA, fetchText, fetchJson, cleanUrl, hostOf, pool, log, truncate } from "./util.mjs";
+import { UA, fetchText, fetchJson, cleanUrl, resolveShortLink, hostOf, pool, log, truncate } from "./util.mjs";
 import { parseFeed, stripTags, firstImage, decodeEntities } from "./xml.mjs";
 
 // 各収集元は共通形式の配列を返す:
@@ -499,7 +499,7 @@ export async function fetchGameNews(key) {
       const href = (m[1].match(/href="(https?:\/\/[^"]+)"/) || [])[1];
       if (!href || href.includes(g.host)) continue;
       if (/apps\.apple\.com\/|play\.google\.com\/store\/apps/.test(href)) {
-        if (!storeLink) storeLink = href.replace(/[?&]at=[^&]*/, "").replace(/\?$/, "");
+        if (!storeLink) storeLink = href; // パラメータは cleanUrl で落とす
         continue;
       }
       if (GAME_STORE_RE.test(href)) continue;
@@ -512,6 +512,7 @@ export async function fetchGameNews(key) {
         break;
       }
     }
+    if (official) official = await resolveShortLink(decodeEntities(official));
     if (!official && !storeLink) return null;
     const tags = ["ゲーム"];
     if (!official) tags.push("スマホ", /apps\.apple/.test(storeLink) ? "iOS" : "Android");

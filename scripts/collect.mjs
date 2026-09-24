@@ -1,7 +1,7 @@
 // 新着サイト収集スクリプト: フィード取得 → 除外フィルタ → カテゴリ分類 → OGP 取得 → docs/data/sites.json
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { readJson, writeJson, idOf, hostOf, log, pool, truncate } from "./lib/util.mjs";
+import { readJson, writeJson, idOf, hostOf, cleanUrl, log, pool, truncate } from "./lib/util.mjs";
 import { SOURCES } from "./lib/sources.mjs";
 import { createBlockChecker } from "./lib/filter.mjs";
 import { createCategorizer } from "./lib/categorize.mjs";
@@ -187,7 +187,8 @@ for (const r of raw) {
     continue;
   }
   if (siteFilterOn) {
-    // 記事・お知らせの個別ページはサイト（作品）のトップに寄せる
+    // 記事・お知らせの個別ページはサイト（作品）のトップに寄せる。トップが 404 のサイト用に元の URL も残す
+    r.linkUrl = r.url;
     r.url = toSiteRoot(r.url, siteCfg);
     const off = isOffTopic(r);
     if (off) {
@@ -222,6 +223,7 @@ for (const r of raw) {
       points: r.points ?? null,
       image: "",
       metaAttempts: 0,
+      ...(r.linkUrl && r.linkUrl !== r.url ? { linkUrl: r.linkUrl } : {}),
       ...(r.resolved === false ? { unresolved: true } : {}),
     });
     added++;
@@ -233,6 +235,7 @@ for (const r of raw) {
       prev.metaAttempts = 0;
       prev.image = "";
     }
+    if (!prev.linkUrl && r.linkUrl && r.linkUrl !== r.url) prev.linkUrl = r.linkUrl;
     if (!prev.sources.some((s) => s.name === r.source)) prev.sources.push(sourceRef);
     if (!prev.region) prev.region = region;
     if (region === "jp" && !prev.regionDetected) prev.region = "jp";
@@ -285,6 +288,15 @@ for (const [id, it] of byId) {
 // 既存項目に残っている記事 URL・重複 URL を掃除する（新しい URL で取り直される）
 if (siteFilterOn) {
   for (const [id, it] of byId) {
+    // 以前の版が付けていた「index.html/」の末尾スラッシュや、壊れたストア URL を直す
+    const repaired = cleanUrl(it.url).replace(/(\.(?:html?|php|aspx?))\/$/i, "$1");
+    if (repaired !== it.url) {
+      it.url = repaired;
+      it.host = hostOf(repaired);
+      delete it.dead;
+      delete it.checkedAt;
+    }
+    if (it.rootFallback) continue; // トップが 404 だったので元の URL を採用済み
     const root = toSiteRoot(it.url, siteCfg);
     if (root !== it.url || idOf(canonicalKey(it.url)) !== id) {
       byId.delete(id);
@@ -297,24 +309,49 @@ const items = [...byId.values()];
 
 // ---------- 4. OGP（画像・説明・言語）の取得 ----------
 // 画像はサイトが共有用に公開している og:image をそのまま参照する（複製・再配布はしない）
+// OGP の取得はリンク先が生きているかの確認も兼ねる。掲載済みのものも定期的に見直し、
+// 404 やドメイン消滅になったものは公開 JSON から外す（ボット拒否の 403/429 やタイムアウトは生きている扱い）
 const metaCfg = config.meta || {};
+const recheckMs = (metaCfg.recheckHours ?? 24) * 3600000;
 const needMeta = items
   .filter((it) => !it.ogFetchedAt && (it.metaAttempts || 0) < (metaCfg.maxAttempts ?? 3))
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
   .slice(0, metaCfg.maxPerRun ?? 300);
-log(`meta targets: ${needMeta.length}`);
+const recheck = items
+  .filter((it) => !needMeta.includes(it) && now.getTime() - new Date(it.checkedAt || it.ogFetchedAt || 0).getTime() > recheckMs)
+  .sort((a, b) => new Date(a.checkedAt || a.ogFetchedAt || 0) - new Date(b.checkedAt || b.ogFetchedAt || 0))
+  .slice(0, metaCfg.recheckPerRun ?? 40);
+log(`meta targets: ${needMeta.length} new, ${recheck.length} recheck`);
 let metaOk = 0;
 let metaFail = 0;
-await phase("meta", () => pool(needMeta, metaCfg.concurrency ?? 6, async (it) => {
-  it.metaAttempts = (it.metaAttempts || 0) + 1;
-  const m = await fetchMeta(it.url, { timeoutMs: metaCfg.timeoutMs ?? 15000 });
+await phase("meta", () => pool([...needMeta, ...recheck], metaCfg.concurrency ?? 6, async (it) => {
+  if (!it.ogFetchedAt) it.metaAttempts = (it.metaAttempts || 0) + 1;
+  it.checkedAt = nowIso;
+  const timeoutMs = metaCfg.timeoutMs ?? 15000;
+  let m = await fetchMeta(it.url, { timeoutMs });
+  // 記事セグメントの手前で切ったトップが存在しないサイトは、記事に載っていた URL をそのまま使う
+  if (m.gone && it.linkUrl && !it.rootFallback) {
+    const alt = await fetchMeta(it.linkUrl, { timeoutMs });
+    if (alt.ok) {
+      m = alt;
+      it.url = it.linkUrl;
+      it.host = hostOf(it.url);
+      it.rootFallback = true;
+    }
+  }
   if (!m.ok) {
     metaFail++;
     it.metaError = m.reason || `HTTP ${m.status}`;
+    if (m.gone) {
+      it.dead = { reason: it.metaError, since: it.dead?.since || nowIso, count: (it.dead?.count || 0) + 1 };
+    } else {
+      delete it.dead;
+    }
     return;
   }
   metaOk++;
   delete it.metaError;
+  delete it.dead;
   it.ogFetchedAt = nowIso;
   if (m.image) it.image = m.image;
   if (m.description) {
@@ -355,13 +392,18 @@ for (const it of items) {
 
 // ---------- 5. 保存 ----------
 items.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+// リンク切れは公開しない。404/410/ソフト 404 は即、ドメイン消滅・接続拒否は 2 回続いたら外す（復活したら戻る）
+const isDead = (it) => it.dead && (/^HTTP 4(04|10)|soft 404/.test(it.dead.reason) || it.dead.count >= 2);
+const shown = items.filter((it) => !isDead(it));
+const deadItems = items.filter(isDead).map((it) => ({ title: it.title, url: it.url, reason: it.dead.reason, since: it.dead.since }));
+if (deadItems.length) log(`dead links hidden: ${deadItems.length}`);
 const categoryCounts = {};
-for (const it of items) for (const c of it.categories) categoryCounts[c] = (categoryCounts[c] || 0) + 1;
+for (const it of shown) for (const c of it.categories) categoryCounts[c] = (categoryCounts[c] || 0) + 1;
 const regionCounts = { jp: 0, global: 0 };
-for (const it of items) regionCounts[it.region || "global"]++;
+for (const it of shown) regionCounts[it.region || "global"]++;
 
 // 公開 JSON には表示に必要な項目だけを出す
-const publicItems = items.map((it) => ({
+const publicItems = shown.map((it) => ({
   id: it.id,
   url: it.url,
   host: it.host,
@@ -380,16 +422,16 @@ const publicItems = items.map((it) => ({
   image: it.image || "",
 }));
 const platformCounts = {};
-for (const it of items) for (const p of it.platforms || []) platformCounts[p] = (platformCounts[p] || 0) + 1;
+for (const it of shown) for (const p of it.platforms || []) platformCounts[p] = (platformCounts[p] || 0) + 1;
 
 await writeJson(DATA_FILE, {
   updatedAt: nowIso,
   site: config.site || {},
-  total: items.length,
+  total: shown.length,
   regions: regionCounts,
   categories: categorizer.all.map((c) => ({ ...c, count: categoryCounts[c.id] || 0 })),
   platforms: categorizer.platforms.map((p) => ({ ...p, count: platformCounts[p.id] || 0 })),
-  sources: [...new Set(items.map((it) => it.source))],
+  sources: [...new Set(shown.map((it) => it.source))],
   items: publicItems,
 });
 
@@ -439,7 +481,7 @@ if (config.releases?.enabled !== false) {
     if (!preregRes.ok) log("prereg lists failed:", preregRes.error?.message || preregRes.error);
     const extraTitles = preregRes.ok ? preregRes.value : [];
     const schedule = await phase("schedule", () =>
-      buildSchedule(config, items, {
+      buildSchedule(config, shown, {
         platformDetector: (it) => categorizer.detectPlatforms(it),
         cache: scheduleCache,
         extraTitles,
@@ -496,6 +538,8 @@ const summary = {
   blocked: blocked.length,
   blockedItems: blocked.slice(0, 50),
   meta: { ok: metaOk, failed: metaFail, noImage: items.filter((it) => !it.image).length },
+  deadLinks: deadItems.length,
+  deadLinkItems: deadItems.slice(0, 60),
   schedule: scheduleStats,
   sources: sourceStats,
   total: items.length,
