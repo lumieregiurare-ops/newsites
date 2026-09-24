@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T10:00:16.778Z",
+  "updatedAt": "2026-09-24T10:30:15.062Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 353,
+  "total": 355,
   "regions": {
-    "jp": 307,
+    "jp": 309,
     "global": 46
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 57
+      "count": 58
     },
     {
       "id": "event",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 18
+      "count": 19
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 57
+      "count": 59
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 94
+      "count": 96
     },
     {
       "id": "browser",
@@ -121,17 +121,51 @@
     }
   ],
   "sources": [
+    "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Inside",
-    "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e6ef56a4557d",
+      "url": "https://apps.apple.com/jp/app/id6806924020",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "[7R]ビッグドリーム THE GOLDEN PUSHER",
+      "headline": "Sammy Networks Co., Ltd. / カジノ・エンターテインメント · App Store 新着",
+      "description": "Sammy Networks Co., Ltd.の「[7R]ビッグドリーム THE GOLDEN PUSHER」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[7R]ビッグドリーム …",
+      "publishedAt": "2026-09-24T10:30:19.623Z",
+      "addedAt": "2026-09-24T10:30:15.062Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6806924020"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/e3/03/51e30385-f3d2-a761-0384-83d2dc03aa27/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "a49ac19ca91b",
       "url": "http://www.gpd.hk/",
@@ -2006,6 +2040,39 @@
       "platforms": [],
       "points": null,
       "image": "https://dotabyss.dmmgames-official.com/assets/images/ogp.png"
+    },
+    {
+      "id": "d99dead056d4",
+      "url": "https://kurohune538.github.io/pokebuddy/",
+      "host": "kurohune538.github.io",
+      "region": "jp",
+      "title": "PokeBuddy | ポケバディ",
+      "headline": "Shinnosuke Komiya / カード・エンターテインメント · App Store 新着",
+      "description": "PokeBuddy（ポケバディ）の公式サポート、プライバシーポリシー、アカウント削除案内。",
+      "publishedAt": "2026-09-20T07:00:00.000Z",
+      "addedAt": "2026-09-24T10:30:15.062Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6468970638"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "404d60d43e6f",
@@ -6813,7 +6880,7 @@
       "region": "jp",
       "title": "トリッカル",
       "headline": "『トリッカル』1周年記念の「流行語決定大会」が開催中。参加者にはプレゼント抽選も実施",
-      "description": "タッチセラピー系カードRPG正式リリース！130連ガチャをゲットしよう！気軽に楽しんでストレス解消！ 今すぐもちほっぺ仲間になりましょう！",
+      "description": "トリッカル1周年おめでとうございます～ 教主様、私たちはずっとここにいるよ。",
       "publishedAt": "2026-09-15T08:52:03.000Z",
       "addedAt": "2026-09-15T08:59:53.531Z",
       "source": "電ファミニコゲーマー",
@@ -6843,7 +6910,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://creator-static.biligames.com/dcc2b424ddbb6de105cba85aed721b439550eaeb050eb60c4c7d4baad65f1d46.png"
+      "image": "https://creator-static.biligames.com/03eb5531e1ab670e551bd26255922ddf8d047a458927188a6dae167aa6ac2c6e.png"
     },
     {
       "id": "757b426a7c53",
@@ -7394,7 +7461,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQVrOqbmBrz1ZZtW90ws70Lo6RfA6NbfaUK3cIQunOYql6GHnaun5IEN_Rd4yZS_ssxCAHPEzn8GNo6xZib76ObbdSwAEMazS3A2Dqq4t1wID1LjBCIiByjT_3ln_ZLKy8V8KQrc7les1RrKN31C84kb3o2gs7psUDsmzXfbUlg2rwQbjIbDxthgKHVj=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sBt735uvHZlrcceNRREDJ_pYWyx1xwIz9XM9FIyWoLUsN5wYu9q8MpLQ0ixJby4zne7Ti6QKUhexhLa5ok4_f1UaMNzX90xWj0g3NFjXm8F7qpAlNHnkmBS8DGa_ZJmS9a7ZdvvEjnAhMlfoAVNWuhLypUfX7derRJEVZSf5LNvUKxpdstKV19Hytq=w16383"
     },
     {
       "id": "7f727450ced7",
@@ -7430,7 +7497,7 @@
       "region": "jp",
       "title": "Warcraft III Reforged: Forsaken Kingdom",
       "headline": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
-      "description": "Experience the epic origin stories of Warcraft, now more stunning and evocative than ever before.",
+      "description": "Warcraft® III Reforged: Forsaken Kingdom premieres a brand-new playable campaign set in The Last Days of Lordaeron, whe…",
       "publishedAt": "2026-09-14T23:00:00.000Z",
       "addedAt": "2026-09-15T00:25:24.771Z",
       "source": "4Gamer",
@@ -7444,11 +7511,12 @@
         "ゲーム"
       ],
       "categories": [
+        "campaign",
         "release"
       ],
       "platforms": [],
       "points": null,
-      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blta1b0ee178b5fb2c3/69656799872f3d6bc4c611fd/og_image.webp"
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt806d59ff0b4e0508/6aa88158ad9209ba7f5629ef/rebirth_og.png"
     },
     {
       "id": "a125fbf2128b",
