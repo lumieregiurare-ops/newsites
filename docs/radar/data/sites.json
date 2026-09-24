@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T11:00:20.382Z",
+  "updatedAt": "2026-09-24T11:30:17.396Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 356,
+  "total": 358,
   "regions": {
-    "jp": 311,
+    "jp": 313,
     "global": 45
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 59
+      "count": 61
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 83
+      "count": 84
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "App Store",
-    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ac4a1fa764ea",
+      "url": "https://ryu-ga-gotoku.com/kiwami3/",
+      "host": "ryu-ga-gotoku.com",
+      "region": "jp",
+      "title": "龍が如く 極３ / 龍が如く３外伝 Dark Ties",
+      "headline": "「龍が如く 極３ / 龍が如く３外伝 Dark Ties」などが特別価格に。セガ，「9月スペシャルセール」を開催中",
+      "description": "桐生一馬と峯義孝。2人の男の熱いドラマを「極クオリティ」で描く『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が登場！",
+      "publishedAt": "2026-09-24T11:29:41.000Z",
+      "addedAt": "2026-09-24T11:30:17.396Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/947/G094765/20260924053/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ryu-ga-gotoku.com/kiwami3/ogp.jpg"
+    },
+    {
+      "id": "4448b5153218",
+      "url": "https://p-ch.jp/remaster/portal/",
+      "host": "p-ch.jp",
+      "region": "jp",
+      "title": "ペルソナ５ ザ・ロイヤル",
+      "headline": "「ペルソナ５ ザ・ロイヤル」，ファッションブランド“beautiful people”とコラボ",
+      "description": "『ペルソナ』シリーズが最新機種に続々登場！ 『ペルソナ5 ザ・ロイヤル』、『ペルソナ4 ザ・ゴールデン』、『ペルソナ3 ポータブル』が、あの時遊んだ方もこれから遊ぶ方も様々な最新機種でお買い得に楽しめます！",
+      "publishedAt": "2026-09-24T11:06:51.000Z",
+      "addedAt": "2026-09-24T11:30:17.396Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/637/G063753/20260924046/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://p-ch.jp/remaster/portal/resources/img/ogp.jpg"
+    },
     {
       "id": "a089ecdd610f",
       "url": "https://www.sega.jp/special/sale/",
@@ -4102,7 +4157,7 @@
       "region": "jp",
       "title": "フラガリアメモリーズ Color of Wishes",
       "headline": "「フラガリアメモリーズ Color of Wishes」，2027年内リリース予定。ゲームの描き下ろしビジュアルを公開",
-      "description": "サンリオが贈る、ハローキティたちを守る騎士の物語。2027年リリース予定のスマホ向けタイトル『フラガリアメモリーズ Color of Wishes（カラー オブ ウィッシィズ）』公式サイトです。",
+      "description": "サンリオが贈る、ハローキティたちを守る騎士の物語。2027年秋 グローバルリリース予定のスマホ向けタイトル『フラガリアメモリーズ Color of Wishes（カラー オブ ウィッシィズ）』公式サイトです。",
       "publishedAt": "2026-09-17T13:07:34.000Z",
       "addedAt": "2026-09-17T14:33:05.442Z",
       "source": "4Gamer",
