@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T23:30:15.722Z",
+  "updatedAt": "2026-09-24T00:00:19.699Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 375,
+  "total": 376,
   "regions": {
-    "jp": 329,
+    "jp": 330,
     "global": 46
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 117
+      "count": 118
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 16
+      "count": 17
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "App Store",
     "4Gamer",
     "Inside",
@@ -133,6 +133,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "411b1f32241a",
+      "url": "https://www.gameaddict.co.jp/derbystallion2/",
+      "host": "gameaddict.co.jp",
+      "region": "jp",
+      "title": "ダービースタリオン２",
+      "headline": "競走馬育成シミュレーションゲーム 『ダービースタリオン２』がNintendo Switch 2で本日9月24日に発売。配合と育成を繰り返して、自分だけの競走馬と血統を築いていくシ…",
+      "description": "『その血統が、歴史を変える』 「ダービースタリオン２」は、牧場オーナーとなって競走馬を生産・育成し、レースに挑みながら、最高のサラブレッドを作り出すことを目指す競走馬育成シミュレーションです。 配合・生産、育成、調教、出走、そして繁殖入り…",
+      "publishedAt": "2026-09-23T23:59:04.000Z",
+      "addedAt": "2026-09-24T00:00:19.699Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.gameaddict.co.jp/derbystallion2/assets/images/section01/img_section01_youtube.webp"
+    },
     {
       "id": "b0bb1e7e67d7",
       "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
