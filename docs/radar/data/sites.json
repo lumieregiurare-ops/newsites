@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T23:00:17.065Z",
+  "updatedAt": "2026-09-24T23:30:17.189Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 368,
+  "total": 392,
   "regions": {
-    "jp": 322,
-    "global": 46
+    "jp": 335,
+    "global": 57
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 51
+      "count": 52
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 88
+      "count": 89
     },
     {
       "id": "release",
@@ -55,17 +55,17 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 20
+      "count": 22
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 10
+      "count": 11
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 61
+      "count": 85
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 97
+      "count": 121
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 4
+      "count": 6
     },
     {
       "id": "vr",
@@ -121,17 +121,183 @@
     }
   ],
   "sources": [
+    "App Store",
     "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "Game*Spark",
-    "App Store",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3e48a83f7b90",
+      "url": "https://apps.apple.com/jp/app/id6803503672",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Tap Arrows Escape Puzzle Game",
+      "headline": "Apex Bound Studio (Private) Limited / エンターテインメント・ストラテジー · App Store 新着",
+      "description": "Apex Bound Studio (Private) Limitedの「Tap Arrows Escape Puzzle Game」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「T…",
+      "publishedAt": "2026-09-24T23:30:27.433Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6803503672"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ストラテジー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/8f/3d/0d8f3df2-d5a0-95e0-042e-7e5b159beefc/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "51c2d3d9a129",
+      "url": "https://tideward.app/",
+      "host": "tideward.app",
+      "region": "global",
+      "title": "Tideward",
+      "headline": "Manu Games LLC / シミュレーション・ロールプレイング · App Store 新着",
+      "description": "Tideward is an idle RPG native on every Apple device. Pre-order on the App Store now, or join the free TestFlight beta.…",
+      "publishedAt": "2026-09-24T23:30:27.433Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6765781814"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://tideward.app/og-image.png"
+    },
+    {
+      "id": "513822737813",
+      "url": "https://tahiramehmooda.blogspot.com/",
+      "host": "tahiramehmooda.blogspot.com",
+      "region": "global",
+      "title": "Carnival Smash Shot",
+      "headline": "Tahira Mehmooda / カジュアル・パズル · App Store 新着",
+      "description": "Tahira Mehmooda / カジュアル・パズル · App Store 新着",
+      "publishedAt": "2026-09-24T23:30:27.433Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6799534058"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "04a84021a18e",
+      "url": "https://ubisoftpvtltd.com/",
+      "host": "ubisoftpvtltd.com",
+      "region": "global",
+      "title": "Tap Tap Arrow Defense Escape",
+      "headline": "UBI Soft Pvt Ltd / シミュレーション・スポーツ · App Store 新着",
+      "description": "UBI Soft Pvt Ltd - Web site created using create-react-app",
+      "publishedAt": "2026-09-24T23:30:27.433Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6793505556"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f57f2985f1c5",
+      "url": "https://simzonegames.com/category/app-store/",
+      "host": "simzonegames.com",
+      "region": "global",
+      "title": "Mendazzle",
+      "headline": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
+      "description": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
+      "publishedAt": "2026-09-24T23:30:27.433Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6805037328"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "e80392ac2a95",
       "url": "https://hytale.com/",
@@ -655,6 +821,140 @@
       "image": ""
     },
     {
+      "id": "79b957bae17a",
+      "url": "https://apps.apple.com/jp/app/id6783261806",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Deckbane: Deckbuilder & Poker",
+      "headline": "圆圆 陈 / ストラテジー・カード · App Store 新着",
+      "description": "圆圆 陈の「Deckbane: Deckbuilder & Poker」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Deckbane: Deckbuilder & Poker」に似…",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6783261806"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "カード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/8f/c2/048fc25e-9b69-6afc-4b9a-d9df06ab9bf8/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "9423ac293356",
+      "url": "https://apps.apple.com/jp/app/id6753057109",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Kибер-Охотник",
+      "headline": "德志 王 / ロールプレイング・カード · App Store 新着",
+      "description": "德志 王の「Kибер-Охотник」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Kибер-Охотник」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6753057109"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "カード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/56/e5cb5659-5c41-78ad-1953-b211a6a03794/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1200x630wa.jpg"
+    },
+    {
+      "id": "7f85a9adb302",
+      "url": "https://www.donuts.ne.jp/",
+      "host": "donuts.ne.jp",
+      "region": "jp",
+      "title": "LITTLE PANTRY",
+      "headline": "Ciagram / シミュレーション・カジュアル · App Store 新着",
+      "description": "株式会社DONUTSは、クラウドサービス事業・ジョブカン、ゲーム事業・単車の虎、D4DJなどの人気スマホゲーム、動画・ライブ配信事業・ミクチャ、医療事業・CLIUSの4領域を主軸としたWebサービスを展開しつつ、新たな事業領域にも挑戦を続…",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6805045227"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "event",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.donuts.ne.jp/wp-content/uploads/2021/04/ogp.jpg"
+    },
+    {
+      "id": "23c5107048ac",
+      "url": "https://apps.apple.com/jp/app/id6808857081",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "脱出ゲーム 雨夜のクラシックホテル",
+      "headline": "Nishiura Ryohei / エンターテインメント・トリビア · App Store 新着",
+      "description": "Nishiura Ryoheiの「脱出ゲーム 雨夜のクラシックホテル」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「脱出ゲーム 雨夜のクラシックホテル」に似たゲームを見ることなどがで…",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6808857081"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "トリビア"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/f5/49/78f549cb-2474-4cfb-c822-a30f296d3aac/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
       "id": "cd26a7e33b18",
       "url": "https://www.escapefromtarkov.com/",
       "host": "escapefromtarkov.com",
@@ -1174,6 +1474,434 @@
       "image": "https://www.gamecity.ne.jp/smusou2-re/assets/img/og-JP.jpg"
     },
     {
+      "id": "ea3885c8fadd",
+      "url": "https://apps.apple.com/jp/app/id6809738218",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Overripe",
+      "headline": "Sven Balnojan / アクション・カジュアル · App Store 新着",
+      "description": "Sven Balnojanの「Overripe」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Overripe」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-23T21:06:01.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6809738218"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/f0/3a/3ef03ade-16c3-8596-ff9b-ebc76402c197/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "e03059ef3f89",
+      "url": "https://apps.apple.com/jp/app/id6801537278",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Orbithop",
+      "headline": "Gabriel Dubois / カジュアル · App Store 新着",
+      "description": "Gabriel Duboisの「Orbithop」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Orbithop」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-23T21:01:59.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6801537278"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/1d/7a/991d7aae-b217-23fd-98c8-11ec36a63ed2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "aec6b30460b4",
+      "url": "https://fundrivegames.com/",
+      "host": "fundrivegames.com",
+      "region": "global",
+      "title": "Monkey Speed Jungle Escape",
+      "headline": "Ahmad Ashfaq / アドベンチャー・エンターテインメント · App Store 新着",
+      "description": "Best Racing and Fighting Games",
+      "publishedAt": "2026-09-23T21:00:03.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6802302898"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://fundrivegames.com/images/FHS_logo.png"
+    },
+    {
+      "id": "1ea2a8c6a0c6",
+      "url": "https://bavagir.com/snake8/",
+      "host": "bavagir.com",
+      "region": "global",
+      "title": "Snake 8 - Neon Cyber Arcade",
+      "headline": "Ozcan Bavagir / アクション・レーシング · App Store 新着",
+      "description": "Unlock legendary skins, compete on global leaderboards, and enjoy 60 FPS ultra-smooth neon snake gameplay.",
+      "publishedAt": "2026-09-23T20:56:57.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6761990546"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "レーシング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "d40bb54ed36f",
+      "url": "https://dowellhz.github.io/emulator/",
+      "host": "dowellhz.github.io",
+      "region": "jp",
+      "title": "红白机街机模拟器",
+      "headline": "路 林 / エンターテインメント · App Store 新着",
+      "description": "一台电视，一只手柄，下一局现在开始。",
+      "publishedAt": "2026-09-23T20:34:58.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6806745032"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://dowellhz.github.io/emulator/assets/android-library.png"
+    },
+    {
+      "id": "f44c8a3cfd81",
+      "url": "https://anubisstudio.net/",
+      "host": "anubisstudio.net",
+      "region": "global",
+      "title": "عالمي الصغير",
+      "headline": "Hossam Gamal / 教育・ファミリー · App Store 新着",
+      "description": "استوديو مصري لتطوير الألعاب والتطبيقات، أسسه حسام جمال، مصمم الجرافيك ومطوّر الألعاب وخريج الحاسبات والمعلومات. بدأت ال…",
+      "publishedAt": "2026-09-23T20:33:53.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6813842142"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "教育",
+        "ファミリー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://anubisstudio.net/img/og/studio-ar.png?v=60c622ccd0"
+    },
+    {
+      "id": "c0636f662918",
+      "url": "https://apps.apple.com/jp/app/id6813505985",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Kombolela",
+      "headline": "Noel Emmanuel Lema / アクション・カジュアル · App Store 新着",
+      "description": "Noel Emmanuel Lemaの「Kombolela」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Kombolela」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-23T20:32:32.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6813505985"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/88/33/39883376-a86b-2f2c-8cd3-fb6719815c32/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "3470407027c4",
+      "url": "https://bee2.io/",
+      "host": "bee2.io",
+      "region": "global",
+      "title": "Nightknot",
+      "headline": "BEE2.IO LLC / アドベンチャー・ブック · App Store 新着",
+      "description": "Private, focused apps for Mac, iPhone, iPad, and Android from bee2.io LLC.",
+      "publishedAt": "2026-09-23T20:27:22.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6813861390"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ブック"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "5b2d68649309",
+      "url": "https://apps.apple.com/jp/app/id6811921763",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Муррр Drop - Корзинка котиков",
+      "headline": "Sergey Maybrodsky / カジュアル・エンターテインメント · App Store 新着",
+      "description": "Sergey Maybrodskyの「Муррр Drop - Корзинка котиков」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Муррр Drop - Корзин…",
+      "publishedAt": "2026-09-23T20:24:15.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6811921763"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/f9/35/54f93501-6212-fa86-92a4-cfe481e0e200/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "491e67789088",
+      "url": "https://apps.apple.com/jp/app/id6800116933",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Tongue-Tied",
+      "headline": "Jordan Sherman / アクション · App Store 新着",
+      "description": "Jordan Shermanの「Tongue-Tied」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Tongue-Tied」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-23T20:22:43.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6800116933"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/2e/a8/672ea8f4-0fd9-f986-707a-4581be089b9f/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "5ee771117fe7",
+      "url": "https://www.ysocorp.com/",
+      "host": "ysocorp.com",
+      "region": "global",
+      "title": "Ammo Assembly",
+      "headline": "Yso Corp / アクション · App Store 新着",
+      "description": "Publish your game, quickly create ads for it and gain best users for maximum profit with our tools",
+      "publishedAt": "2026-09-23T19:52:16.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6810268675"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "1e4451005d96",
+      "url": "https://smyazilim.com/",
+      "host": "smyazilim.com",
+      "region": "global",
+      "title": "H2O ZAR",
+      "headline": "serkan kasap / ボード・ユーティリティ · App Store 新着",
+      "description": "SM Yazılım olarak sadece yazılım geliştirme ve entegrasyon hizmetleriyle değil, aynı zamanda altyapıdan donanıma kadar …",
+      "publishedAt": "2026-09-23T19:49:16.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6812151768"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ボード",
+        "ユーティリティ"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "58514de97fd2",
+      "url": "https://devleedy48.github.io/pocket-carts.html",
+      "host": "devleedy48.github.io",
+      "region": "global",
+      "title": "Pocket Carts",
+      "headline": "Devon Leedy / カジュアル・エンターテインメント · App Store 新着",
+      "description": "Pocket Carts is an iPhone arcade with five classic games: 2048, Snake, Block Drop, Grid Fill and Minesweeper. Shared co…",
+      "publishedAt": "2026-09-23T19:38:15.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6814605442"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "c24f4e4b5a2c",
       "url": "https://www.kingdomrushgenesis.com/",
       "host": "kingdomrushgenesis.com",
@@ -1205,6 +1933,39 @@
       ],
       "points": null,
       "image": "https://kingdomrushgenesis.com/img/OG_tag/Kingdom_Rush_6_Genesis.jpg"
+    },
+    {
+      "id": "78e4d4111192",
+      "url": "https://apps.apple.com/jp/app/id6814564782",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Ronda 3D : cartes marocaines",
+      "headline": "Amine ZAMANI / カード・ボード · App Store 新着",
+      "description": "Amine ZAMANIの「Ronda 3D : cartes marocaines」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Ronda 3D : cartes marocai…",
+      "publishedAt": "2026-09-23T19:23:27.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6814564782"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "ボード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/96/52/ef965265-7961-abed-ac66-afa5b7821fa0/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0efac8c9e009",
@@ -1588,6 +2349,39 @@
         "スマホ",
         "iOS",
         "カード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "afbc0030c322",
+      "url": "http://metapolitangames.com/",
+      "host": "metapolitangames.com",
+      "region": "jp",
+      "title": "Blooming Town",
+      "headline": "METAPOLITAN GAMES / シミュレーション・ライフスタイル · App Store 新着",
+      "description": "METAPOLITAN GAMES LIMITED",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "addedAt": "2026-09-24T23:30:17.189Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6793852814"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "ライフスタイル"
       ],
       "categories": [
         "goods"
