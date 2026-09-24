@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T09:00:17.008Z",
+  "updatedAt": "2026-09-24T09:30:17.523Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 351,
+  "total": 352,
   "regions": {
-    "jp": 305,
+    "jp": 306,
     "global": 46
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 49
+      "count": 50
     },
     {
       "id": "anniversary",
@@ -87,12 +87,12 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 13
+      "count": 14
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 11
+      "count": 12
     },
     {
       "id": "pc",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1a9b9bd6af6e",
+      "url": "https://www.bokumono.com/grabaza/",
+      "host": "bokumono.com",
+      "region": "jp",
+      "title": "牧場物語 歴代ウシさん めじるしアクセサリー",
+      "headline": "「牧場物語 歴代ウシさん めじるしアクセサリー」，ガシャポンオンラインで9月25日17：00から予約受付開始。ラインナップはウシさん6種",
+      "description": "牧場物語シリーズ最新作がPlayStation®5/Xbox Series X|Sに登場！",
+      "publishedAt": "2026-09-24T09:15:42.000Z",
+      "addedAt": "2026-09-24T09:30:17.523Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/896/G089619/20260924036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://www.bokumono.com/grabaza/assets/img/ogp.png"
+    },
     {
       "id": "1e9ee23d4fc8",
       "url": "http://toplitz-productions.com/medieval-dynasty.html",
@@ -8649,7 +8679,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://anothereden.games/assets/images/shared/sns.webp"
+      "image": "https://anothereden.games/assets/images/shared/ogp.webp"
     },
     {
       "id": "d4a20d87ec5a",
