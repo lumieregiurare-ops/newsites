@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:30:18.301Z",
+  "updatedAt": "2026-09-24T20:00:57.597Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "アニモ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
-          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "[7R]ビッグドリーム THE GOLDEN PUSHER",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/a8/a3/bda8a3e3-1a9c-04b9-413b-211cb0c324ac/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/7r-%E3%83%93%E3%83%83%E3%82%B0%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0-the-golden-pusher/id6806924020",
           "metric": "Sammy Networks Co., Ltd.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "アニモ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
