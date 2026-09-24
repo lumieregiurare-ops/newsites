@@ -6365,7 +6365,7 @@
     },
     "メイドインアビス～度し難い不思議な旅～": {
       "title": "メイドインアビス～度し難い不思議な旅～",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
     "btrringfall": {
@@ -14801,6 +14801,38 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-24T09:30:32.438Z"
+    },
+    "cardsaftermidnightdemo": {
+      "title": "Cards after Midnight Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T10:00:34.922Z"
+    },
+    "retrobotsdemo": {
+      "title": "RETROBOTS Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T10:00:34.922Z"
+    },
+    "squarelingsdemo": {
+      "title": "Squarelings Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T10:00:34.922Z"
+    },
+    "ポケモン": {
+      "title": "ポケモン",
+      "dateText": "2026年10月5日",
+      "date": "2026-10-05",
+      "sortKey": "2026-10-05",
+      "prereg": false,
+      "firstSeen": "2026-09-24T10:00:34.922Z"
     }
   },
   "changeLog": [
@@ -17463,6 +17495,16 @@
       ],
       "from": "2026年10月1日",
       "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-09-24T10:00:34.922Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケモン",
+      "url": "https://www.pokemon.jp/special/nhkso-pokemon2026/",
+      "image": "https://www.pokemon.jp/special/nhkso-pokemon2026/assets/img/og.jpg",
+      "platforms": [],
+      "to": "2026年10月5日"
     }
   ],
   "initialized": true,

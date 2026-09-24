@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T09:30:17.523Z",
+  "updatedAt": "2026-09-24T10:00:16.778Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 352,
+  "total": 353,
   "regions": {
-    "jp": 306,
+    "jp": 307,
     "global": 46
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 36
+      "count": 37
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 82
+      "count": 83
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 19
+      "count": 18
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 58
+      "count": 57
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 44
+      "count": 45
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 95
+      "count": 94
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "Inside",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a49ac19ca91b",
+      "url": "http://www.gpd.hk/",
+      "host": "gpd.hk",
+      "region": "jp",
+      "title": "GPD WIN Max 3",
+      "headline": "モジュール構造で冷却ファンの追加も可能な小型ゲームノートPC「GPD WIN Max 3」の予約受付がスタート",
+      "description": "モジュール構造で冷却ファンの追加も可能な小型ゲームノートPC「GPD WIN Max 3」の予約受付がスタート",
+      "publishedAt": "2026-09-24T09:43:59.000Z",
+      "addedAt": "2026-09-24T10:00:16.778Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/409/G040961/20260924039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "24635b9d40be",
+      "url": "https://www.pokemon.jp/special/nhkso-pokemon2026/",
+      "host": "pokemon.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "【無料】『ポケモン』×「NHK交響楽団」クラシックコンサートツアーがYouTubeで配信決定。10月5日19時よりプレミア公開",
+      "description": "N響100周年とポケモン30周年を記念したフルオーケストラでの特別なコンサートを開催！",
+      "publishedAt": "2026-09-24T09:40:59.000Z",
+      "addedAt": "2026-09-24T10:00:16.778Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609242x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pokemon.jp/special/nhkso-pokemon2026/assets/img/og.jpg"
+    },
     {
       "id": "1a9b9bd6af6e",
       "url": "https://www.bokumono.com/grabaza/",
@@ -9388,41 +9446,6 @@
       "image": "https://uta.macross.site/ogp.jpg"
     },
     {
-      "id": "392f7d4c6a21",
-      "url": "https://apps.apple.com/jp/app/id6444006236",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "メイドインアビス～度し難い不思議な旅～",
-      "headline": "スマートフォンアプリ「メイドインアビス～度し難い不思議な旅～」，配信延期を発表",
-      "description": "avex pictures Inc.の「メイドインアビス〜度し難い不思議な旅〜」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「メイドインアビス〜度し難い不思議な旅〜」に似たゲームを見…",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/907/G090720/20260910043/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/ea/be/9deabe61-449c-bf67-f40c-77e4cfcb9a00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg"
-    },
-    {
       "id": "266a49f753b5",
       "url": "https://pubgmobile.jp/",
       "host": "pubgmobile.jp",
@@ -10508,6 +10531,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260920z"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/24/172712.html"
         }
       ],
       "tags": [
@@ -10719,7 +10746,7 @@
       "region": "jp",
       "title": "刀剣乱舞ぱずぎり",
       "headline": "「刀剣乱舞ぱずぎり」，事前登録受付を開始。絵巻守として，さまざまな刀剣男士たちとともに物語の世界を守る新作パズルRPG",
-      "description": "刀剣乱舞の新作パズルRPGが、2026年にリリース決定！",
+      "description": "刀剣乱舞の新作パズルRPGが、2026年9月24日から好評配信中！",
       "publishedAt": "2026-07-13T00:00:00.000Z",
       "addedAt": "2026-09-14T07:37:16.033Z",
       "source": "4Gamer",
@@ -10743,14 +10770,13 @@
         "カジュアル"
       ],
       "categories": [
-        "prereg",
-        "release"
+        "prereg"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1788401536992"
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790216462770"
     },
     {
       "id": "b363021a4a45",
