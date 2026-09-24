@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-24T03:30:19.195Z",
+  "updatedAt": "2026-09-24T04:00:17.082Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 383,
+  "total": 387,
   "regions": {
-    "jp": 335,
+    "jp": 339,
     "global": 48
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 13
+      "count": 14
     },
     {
       "id": "prereg",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 57
+      "count": 58
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 122
+      "count": 124
     },
     {
       "id": "indie",
@@ -70,19 +70,19 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 67
+      "count": 68
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 18
+      "count": 19
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 18
+      "count": 19
     },
     {
       "id": "ps",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 44
+      "count": 45
     },
     {
       "id": "mobile",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "AppBank",
     "Inside",
     "4Gamer",
-    "AppBank",
     "App Store",
     "Game*Spark",
     "Appliv Games",
@@ -133,6 +133,89 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8eb6ba589e42",
+      "url": "https://tenipuri.jp/u17/semi-final/",
+      "host": "tenipuri.jp",
+      "region": "jp",
+      "title": "新テニプリ",
+      "headline": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
+      "description": "【無料】松岡修造さんらが『新テニプリ』の超人技などを語る特番が公開スタート！あの「デカ過ぎんだろ…」に唖然、元プロテニスプレイヤーとしての経験からも冷静に分析する",
+      "publishedAt": "2026-09-24T03:56:28.000Z",
+      "addedAt": "2026-09-24T04:00:17.082Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "858bf1e8a13e",
+      "url": "https://www.gameaddict.co.jp/derbystallion2/guideline.php/",
+      "host": "gameaddict.co.jp",
+      "region": "jp",
+      "title": "ダービースタリオン２",
+      "headline": "『ダービースタリオン２』発売！ Switch 2向け競走馬育成シミュレーションの最新作",
+      "description": "『その血統が、歴史を変える』 「ダービースタリオン２」は、牧場オーナーとなって競走馬を生産・育成し、レースに挑みながら、最高のサラブレッドを作り出すことを目指す競走馬育成シミュレーションです。 配合・生産、育成、調教、出走、そして繁殖入り…",
+      "publishedAt": "2026-09-24T03:35:00.000Z",
+      "addedAt": "2026-09-24T04:00:17.082Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113059.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.gameaddict.co.jp/derbystallion2/assets/images/section01/img_section01_youtube.webp"
+    },
+    {
+      "id": "22348fff60c3",
+      "url": "https://www.shimamura.gr.jp/shimamura/featured/dragonquest/",
+      "host": "shimamura.gr.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』×「しまむら」のコラボが決定！シリーズのファッション＆ライフアイテムなど100種を超える新商品を展開",
+      "description": "『ドラクエ』×「しまむら」のコラボが決定！シリーズのファッション＆ライフアイテムなど100種を超える新商品を展開",
+      "publishedAt": "2026-09-24T03:31:08.000Z",
+      "addedAt": "2026-09-24T04:00:17.082Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609242a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "78b08e3dc018",
       "url": "https://www.ace-attorney.com/ja/",
@@ -159,6 +242,37 @@
       "platforms": [],
       "points": null,
       "image": "https://www.ace-attorney.com/assets/images/share_ja.png"
+    },
+    {
+      "id": "f020ca1d0afe",
+      "url": "https://game.rakuen-tsuiho.com/",
+      "host": "game.rakuen-tsuiho.com",
+      "region": "jp",
+      "title": "楽園追放",
+      "headline": "『楽園追放』シリーズ初のSFビジュアルノベル『楽園追放 -The Stellar Angel-』新キャラ「アラディア（CV:櫻井浩美）」「ナアマ（CV:榊原ゆい）」が初公開",
+      "description": "『楽園追放 The Stellar Angel』公式サイト。Nintendo Switch、Steamで2026年冬発売予定。",
+      "publishedAt": "2026-09-24T03:00:27.000Z",
+      "addedAt": "2026-09-24T04:00:17.082Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://game.rakuen-tsuiho.com/share/images/og.jpg"
     },
     {
       "id": "374fc0c3061a",
@@ -414,6 +528,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260924d"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/978/G097828/20260924011/"
         }
       ],
       "tags": [
