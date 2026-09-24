@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T01:00:18.830Z",
+  "updatedAt": "2026-09-24T01:30:17.513Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 378,
+  "total": 380,
   "regions": {
-    "jp": 332,
+    "jp": 334,
     "global": 46
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 37
+      "count": 38
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 56
+      "count": 57
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 119
+      "count": 121
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 17
+      "count": 18
     },
     {
       "id": "ps",
@@ -117,13 +117,13 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 2
+      "count": 3
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Game*Spark",
@@ -133,6 +133,66 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "33c0ff2f4868",
+      "url": "https://www.marv.jp/bokumono-runefactory-anniversary/",
+      "host": "marv.jp",
+      "region": "jp",
+      "title": "牧場物語",
+      "headline": "『牧場物語』シリーズ最新作『牧場物語 Your ワンダフルライフ』発売が決定！Meta社のVR機器向けのソフトとして2027年春発売予定",
+      "description": "「牧場物語」シリーズ30周年・「ルーンファクトリー」シリーズ20周年ダブルアニバーサリー特設サイト～キミと歩んだ、いくつもの季節。これからも、ずっと。",
+      "publishedAt": "2026-09-24T01:29:12.000Z",
+      "addedAt": "2026-09-24T01:30:17.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "release"
+      ],
+      "platforms": [
+        "vr"
+      ],
+      "points": null,
+      "image": "https://www.marv.jp/bokumono-runefactory-anniversary/assets/img/ogp.png"
+    },
+    {
+      "id": "553726f9c7cb",
+      "url": "https://miracle-match.com/",
+      "host": "miracle-match.com",
+      "region": "jp",
+      "title": "サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ",
+      "headline": "「サンリオ版DbD」として話題となった非対称鬼ごっこ『サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ』Nintendo Switch 2版の発売が決定。新マップやおす…",
+      "description": "サンリオの仲間たちと魔法の世界でおにごっこ！？好きなキャラクターで対戦！いろんな衣装に着せ替えていっしょにあそぼう♪",
+      "publishedAt": "2026-09-24T01:00:49.000Z",
+      "addedAt": "2026-09-24T01:30:17.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://miracle-match.com/image/new_ogp.png"
+    },
     {
       "id": "0e395f5b806b",
       "url": "https://www.pokemontcgpocket.com/ja/",

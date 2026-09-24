@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "id": "33c0ff2f4868",
+      "url": "https://www.marv.jp/bokumono-runefactory-anniversary/",
+      "host": "marv.jp",
+      "region": "jp",
+      "title": "牧場物語",
+      "headline": "『牧場物語』シリーズ最新作『牧場物語 Your ワンダフルライフ』発売が決定！Meta社のVR機器向けのソフトとして2027年春発売予定",
+      "description": "「牧場物語」シリーズ30周年・「ルーンファクトリー」シリーズ20周年ダブルアニバーサリー特設サイト～キミと歩んだ、いくつもの季節。これからも、ずっと。",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-24T01:29:12.000Z",
+      "addedAt": "2026-09-24T01:30:17.513Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "release"
+      ],
+      "points": null,
+      "image": "https://www.marv.jp/bokumono-runefactory-anniversary/assets/img/ogp.png",
+      "metaAttempts": 1,
+      "ogFetchedAt": "2026-09-24T01:30:17.513Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "vr"
+      ]
+    },
+    {
+      "id": "553726f9c7cb",
+      "url": "https://miracle-match.com/",
+      "host": "miracle-match.com",
+      "region": "jp",
+      "title": "サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ",
+      "headline": "「サンリオ版DbD」として話題となった非対称鬼ごっこ『サンリオキャラクターズ ミラクルマッチ マジカルおにごっこ』Nintendo Switch 2版の発売が決定。新マップやおすそわけ通信に対応",
+      "description": "サンリオの仲間たちと魔法の世界でおにごっこ！？好きなキャラクターで対戦！いろんな衣装に着せ替えていっしょにあそぼう♪",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-24T01:00:49.000Z",
+      "addedAt": "2026-09-24T01:30:17.513Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release"
+      ],
+      "points": null,
+      "image": "https://miracle-match.com/image/new_ogp.png",
+      "metaAttempts": 1,
+      "ogFetchedAt": "2026-09-24T01:30:17.513Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "switch2"
+      ]
+    },
+    {
       "id": "0e395f5b806b",
       "url": "https://www.pokemontcgpocket.com/ja/",
       "host": "pokemontcgpocket.com",
@@ -78,7 +166,7 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 2,
+      "metaAttempts": 3,
       "metaError": "HTTP 400",
       "platforms": [
         "vr"
