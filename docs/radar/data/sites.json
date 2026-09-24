@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T15:00:21.448Z",
+  "updatedAt": "2026-09-24T15:30:20.200Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 365,
+  "total": 366,
   "regions": {
-    "jp": 320,
+    "jp": 321,
     "global": 45
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 71
+      "count": 72
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2b295f695c25",
+      "url": "https://gamefound.com/en/projects/mindclash-games/against-the-storm--the-board-game",
+      "host": "gamefound.com",
+      "region": "jp",
+      "title": "Against the Storm",
+      "headline": "「Against the Storm」がボードゲーム化決定。7種族が力を合わせて嵐に立ち向かう協力型重量級ゲームに。クラファンは2027年5月開始",
+      "description": "「Against the Storm」がボードゲーム化決定。7種族が力を合わせて嵐に立ち向かう協力型重量級ゲームに。クラファンは2027年5月開始",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "addedAt": "2026-09-24T15:30:20.200Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/045/G104528/20260924070/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "b79fc26fefa9",
       "url": "https://funky802.com/osaka-indiegames-summit/",
