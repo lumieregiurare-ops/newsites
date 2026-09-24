@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T10:30:15.062Z",
+  "updatedAt": "2026-09-24T11:00:20.382Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 355,
+  "total": 356,
   "regions": {
-    "jp": 309,
-    "global": 46
+    "jp": 311,
+    "global": 45
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 58
+      "count": 59
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 112
+      "count": 113
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 8
+      "count": 9
     },
     {
       "id": "goods",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 20
+      "count": 21
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 14
+      "count": 15
     },
     {
       "id": "xbox",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 45
+      "count": 46
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
-    "AppBank",
     "Inside",
     "Game*Spark",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a089ecdd610f",
+      "url": "https://www.sega.jp/special/sale/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "9月スペシャルセール",
+      "headline": "セガの人気タイトルが最大60％オフに！ 「9月スペシャルセール」開催中",
+      "description": "セガの人気タイトルが最大60％オフに！ 「9月スペシャルセール」開催中",
+      "publishedAt": "2026-09-24T10:40:00.000Z",
+      "addedAt": "2026-09-24T11:00:20.382Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113726.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "e6ef56a4557d",
       "url": "https://apps.apple.com/jp/app/id6806924020",
@@ -165,6 +193,37 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/e3/03/51e30385-f3d2-a761-0384-83d2dc03aa27/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "e81bc3eb6c90",
+      "url": "https://shinobi-art-of-vengeance.sega.jp/",
+      "host": "shinobi-art-of-vengeance.sega.jp",
+      "region": "jp",
+      "title": "SHINOBI 復讐の斬撃",
+      "headline": "忍者アクション最新作！『SHINOBI 復讐の斬撃』Nintendo Switch 2版が発売",
+      "description": "『SHINOBI 復讐の斬撃』公式サイト｜美麗な手描きグラフィックで描きだされるノンストップ連撃アクション！ジョー・ムサシの復讐劇が始まる。2025年8月29日発売。PS5/Switch/Steam対応。",
+      "publishedAt": "2026-09-24T10:30:00.000Z",
+      "addedAt": "2026-09-24T11:00:20.382Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113720.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://shinobi-art-of-vengeance.sega.jp/ogp_02.jpg"
     },
     {
       "id": "a49ac19ca91b",
@@ -5920,7 +5979,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
@@ -5980,33 +6039,6 @@
       ],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "2202d6b8e422",
-      "url": "https://www.404shibuya.tokyo/",
-      "host": "404shibuya.tokyo",
-      "region": "jp",
-      "title": "Berlin meets Tokyo at 404 Not Found",
-      "headline": "ベルリン / ブランデンブルクのゲーム業界と日本のクリエイターをつなぐ交流イベント「Berlin meets Tokyo at 404 Not Found」が渋谷で開催",
-      "description": "「404 Not Found」は、渋谷のど真ん中にある「空き地」から、新たなあそびを巻き起こすための「運動体」。シブヤの空き地でなにして、あそぶ？",
-      "publishedAt": "2026-09-16T03:42:40.000Z",
-      "addedAt": "2026-09-16T07:00:43.649Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/991/G999104/20260916005/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.404shibuya.tokyo/wp-content/themes/404shibuya/ogp.png?timestamp=20240906"
     },
     {
       "id": "fd90953a6323",
@@ -6069,7 +6101,7 @@
       "region": "global",
       "title": "Blast Blade",
       "headline": "【最大4人】相手をステージの外に吹き飛ばす3D格闘ゲーム『Blast Blade』がTGS2026に出展。最新のデモ版が初公開へ",
-      "description": "At Silent Bark Games, we embrace the unknown to create experiences that are both original and engaging. Our games might…",
+      "description": "Blast your opponents out of the arena. Built in Unreal Engine 5 with hand-painted characters.",
       "publishedAt": "2026-09-16T03:00:09.000Z",
       "addedAt": "2026-09-16T07:00:43.649Z",
       "source": "電ファミニコゲーマー",
@@ -6084,11 +6116,12 @@
       ],
       "categories": [
         "teaser",
-        "event"
+        "event",
+        "media"
       ],
       "platforms": [],
       "points": null,
-      "image": "https://framerusercontent.com/images/snOFOiK80HPB3C3pEXNuvobxCs.jpg"
+      "image": "https://blast-blade.vercel.app/og-share.jpg"
     },
     {
       "id": "414bfa6a8fc2",
@@ -6147,7 +6180,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://puppetsunsun.com/cdn/shop/articles/V4_260915_PS_release_7726abbe-94e4-4501-9160-096533e2a240.png?v=1789514805"
+      "image": "https://puppetsunsun.com/cdn/shop/articles/V4_260915_PS_release_d55a8453-03bb-4d82-8b70-a99b651db7c3.png?v=1789639466"
     },
     {
       "id": "c2b2167bcbf9",
@@ -6370,7 +6403,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://teamninja-studio.com/wolong2/assets/img/og_teaser_0608.jpg"
+      "image": "https://teamninja-studio.com/wolong2/assets/img/og.jpg"
     },
     {
       "id": "35b0b942f570",

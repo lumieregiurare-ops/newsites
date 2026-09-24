@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "a089ecdd610f",
+      "url": "https://www.sega.jp/special/sale/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "9月スペシャルセール",
+      "headline": "セガの人気タイトルが最大60％オフに！ 「9月スペシャルセール」開催中",
+      "description": "セガの人気タイトルが最大60％オフに！ 「9月スペシャルセール」開催中",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-24T10:40:00.000Z",
+      "addedAt": "2026-09-24T11:00:20.382Z",
+      "source": "AppBank",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113726.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "HTTP 403",
+      "platforms": []
+    },
+    {
       "id": "e6ef56a4557d",
       "url": "https://apps.apple.com/jp/app/id6806924020",
       "host": "apps.apple.com",
@@ -40,6 +81,52 @@
       "regionDetected": true,
       "platforms": [
         "mobile"
+      ]
+    },
+    {
+      "id": "e81bc3eb6c90",
+      "url": "https://shinobi-art-of-vengeance.sega.jp/",
+      "host": "shinobi-art-of-vengeance.sega.jp",
+      "region": "jp",
+      "title": "SHINOBI 復讐の斬撃",
+      "headline": "忍者アクション最新作！『SHINOBI 復讐の斬撃』Nintendo Switch 2版が発売",
+      "description": "『SHINOBI 復讐の斬撃』公式サイト｜美麗な手描きグラフィックで描きだされるノンストップ連撃アクション！ジョー・ムサシの復讐劇が始まる。2025年8月29日発売。PS5/Switch/Steam対応。",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-24T10:30:00.000Z",
+      "addedAt": "2026-09-24T11:00:20.382Z",
+      "source": "AppBank",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113720.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release"
+      ],
+      "points": null,
+      "image": "https://shinobi-art-of-vengeance.sega.jp/ogp_02.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "switch2",
+        "ps",
+        "pc"
       ]
     },
     {
@@ -6979,10 +7066,11 @@
       "points": null,
       "image": "https://www.nagakutsu.com/img/mainVisual.webp",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-17T03:51:46.413Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "9a156c66d307",
@@ -7023,12 +7111,13 @@
       "points": null,
       "image": "https://ensemble-stars.jp/assets/ogps/ogp.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-17T03:51:46.413Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "c137eeb0c6ca",
@@ -7776,7 +7865,9 @@
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [],
-      "linkUrl": "https://www.level5.co.jp/news/20260917/"
+      "linkUrl": "https://www.level5.co.jp/news/20260917/",
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "This operation was aborted"
     },
     {
       "id": "3a3bfd337b00",
@@ -7819,10 +7910,11 @@
       "points": null,
       "image": "https://geekshop.infolens.com/cdn/shop/files/logo-2000x1000_ee701e17-c218-4889-9853-ed927b293685.png?crop=center&height=1200&v=1780988511&width=1200",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T23:58:54.926Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "ab25ac469ec1",
@@ -7860,13 +7952,14 @@
       "points": null,
       "image": "https://mahoumura.com/wp-content/themes/original/images/top.webp",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T23:58:54.926Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "switch",
         "pc"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "528e7c6fa99d",
@@ -7919,7 +8012,9 @@
       "ogFetchedAt": "2026-09-16T15:08:46.941Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "This operation was aborted"
     },
     {
       "id": "f159bdb15d81",
@@ -7958,12 +8053,13 @@
       "points": null,
       "image": "https://jaleco-ac.com/wp-content/uploads/2026/06/KV.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T15:08:46.941Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "arcade"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "63ede8a1bc06",
@@ -8001,12 +8097,13 @@
       "points": null,
       "image": "https://www.dragonsdogma.com/2da/assets/images/share.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T15:08:46.941Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "switch2"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "c5351139af92",
@@ -8052,9 +8149,10 @@
       "points": null,
       "image": "https://www.monsterhunter.com/wilds-ascendance/assets/images/share.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T15:08:46.941Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "8357ee614c87",
@@ -8096,12 +8194,13 @@
       "points": null,
       "image": "https://puyopuyoquest.sega-net.com/assets/images/common/facebook.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "6d3add28d975",
@@ -8143,10 +8242,11 @@
       "points": null,
       "image": "https://stranger-than-heaven.com/ogp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "6507207c046c",
@@ -8186,12 +8286,13 @@
       "points": null,
       "image": "https://sakatsuku-rtw.sega.com/assets/images/twcard.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "ba71ae8ff7c8",
@@ -8275,13 +8376,14 @@
       "points": null,
       "image": "https://end-of-history.worldmap-game.com/images/ogp_ja.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "ps",
         "xbox"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "9d576ebe30b7",
@@ -8320,13 +8422,14 @@
       "points": null,
       "image": "https://projectmotorracing.sega.jp/assets/images/common/ogp/ogp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "ps",
         "xbox"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "4a66144fb31e",
@@ -8364,10 +8467,11 @@
       "points": null,
       "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "e11d46845a5f",
@@ -8407,7 +8511,9 @@
       "metaAttempts": 1,
       "ogFetchedAt": "2026-09-16T12:57:30.156Z",
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "This operation was aborted"
     },
     {
       "id": "3cc038c5890f",
@@ -8447,10 +8553,11 @@
       "points": null,
       "image": "https://www.snk-corp.co.jp/official/metalslug_ultimate_collection/img/common/ogp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "f97778f116d1",
@@ -8488,10 +8595,11 @@
       "points": null,
       "image": "https://one-or-eight.co.jp/img/logo.svg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "69321704808a",
@@ -8531,18 +8639,19 @@
       "points": null,
       "image": "https://st.ncjapan.co.jp/ncjapan/ncsoft/aion2/official/ogp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "pc"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
@@ -8578,10 +8687,11 @@
       "points": null,
       "image": "https://static1.squarespace.com/static/653f29fedc9e247d28b6b090/t/6572777bcb35404b1f450a51/1750037604924/KEMURI_BANNER.jpg?format=1500w",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "422536554534",
@@ -8624,12 +8734,13 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "pc"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "2202d6b8e422",
@@ -8670,7 +8781,14 @@
       "ogFetchedAt": "2026-09-16T07:00:43.649Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "soft 404",
+      "dead": {
+        "reason": "soft 404",
+        "since": "2026-09-24T11:00:20.382Z",
+        "count": 1
+      }
     },
     {
       "id": "51b4d6887a9a",
@@ -8753,10 +8871,11 @@
       "points": null,
       "image": "https://wl-kz.com/superfroppings/img/logo_jp.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "60c3e156dcdd",
@@ -8794,10 +8913,11 @@
       "points": null,
       "image": "https://mtg-jp.com/assets/images/common/og-image-20260908.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "509374da7b69",
@@ -8806,7 +8926,7 @@
       "region": "global",
       "title": "Blast Blade",
       "headline": "【最大4人】相手をステージの外に吹き飛ばす3D格闘ゲーム『Blast Blade』がTGS2026に出展。最新のデモ版が初公開へ",
-      "description": "At Silent Bark Games, we embrace the unknown to create experiences that are both original and engaging. Our games might…",
+      "description": "Blast your opponents out of the arena. Built in Unreal Engine 5 with hand-painted characters.",
       "article": {
         "prereg": false,
         "preregEnded": false,
@@ -8831,15 +8951,17 @@
       "phCategories": [],
       "categories": [
         "teaser",
-        "event"
+        "event",
+        "media"
       ],
       "points": null,
-      "image": "https://framerusercontent.com/images/snOFOiK80HPB3C3pEXNuvobxCs.jpg",
+      "image": "https://blast-blade.vercel.app/og-share.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "414bfa6a8fc2",
@@ -8881,10 +9003,11 @@
       "points": null,
       "image": "https://ninjalathegame.com/_materials/img/og-jp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "a32b80823eb9",
@@ -8921,12 +9044,13 @@
         "teaser"
       ],
       "points": null,
-      "image": "https://puppetsunsun.com/cdn/shop/articles/V4_260915_PS_release_7726abbe-94e4-4501-9160-096533e2a240.png?v=1789514805",
+      "image": "https://puppetsunsun.com/cdn/shop/articles/V4_260915_PS_release_d55a8453-03bb-4d82-8b70-a99b651db7c3.png?v=1789639466",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "c2b2167bcbf9",
@@ -8964,10 +9088,11 @@
       "points": null,
       "image": "https://nikke-jp.com/events/nikkeinkyoto2nd/img/share1.jpg?v=2.0",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T07:00:43.649Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "1c0abaa737ab",
@@ -9007,12 +9132,13 @@
       "points": null,
       "image": "https://www.falcom.co.jp/page/wp-content/themes/falcom2022/assets/og.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T02:16:30.371Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "pc"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "be6790ee6ef1",
@@ -9054,11 +9180,12 @@
       "points": null,
       "image": "https://www.falcom.co.jphttps//www.falcom.co.jp/page/wp-content/uploads/1999/04/ed3.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T02:16:30.371Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "regionDetected": true,
       "platforms": [
         "pc"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "ba49d21ee257",
@@ -9096,10 +9223,11 @@
       "points": null,
       "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T02:16:30.371Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "06d143d12b1b",
@@ -9150,13 +9278,14 @@
       "points": null,
       "image": "https://kg-web-cdn.akamaized.net/master/official-website/worldx_office_frontend/images/ogImage.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T02:16:30.371Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "pc",
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "dca3cfb20f36",
@@ -9198,10 +9327,11 @@
       "points": null,
       "image": "https://ghelix.ggame.jp/ogp.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T01:01:40.112Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "d4a39a150162",
@@ -9241,12 +9371,13 @@
         "release"
       ],
       "points": null,
-      "image": "https://teamninja-studio.com/wolong2/assets/img/og_teaser_0608.jpg",
+      "image": "https://teamninja-studio.com/wolong2/assets/img/og.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T01:01:40.112Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "35b0b942f570",
@@ -9380,10 +9511,11 @@
       "points": null,
       "image": "https://nikke-jp.com/events/nikkeinkyoto2nd/img/share1.jpg?v=2.0",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-15T23:58:33.508Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "e039ee801e76",
@@ -9422,10 +9554,11 @@
       "points": null,
       "image": "https://skyblivion.com/wp-content/uploads/2019/08/video_thumbnail-1.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-15T23:58:33.508Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "9b8702746b89",
@@ -9463,10 +9596,11 @@
       "points": null,
       "image": "https://drop-assets.ea.com/images/5uCFWOM7mt8GaS4vOAqmzA/831ed306c62a47adb5d3694f22c10c95/Apex_S30-Season-Page-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.565625,yPosition=0.9388888888888889",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-15T23:58:33.508Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "2ba93cad3889",
@@ -9509,12 +9643,13 @@
       "points": null,
       "image": "https://www.gamecity.ne.jp/sangokushi_hadou/image/ogp01.jpg?20220512",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-15T23:58:33.508Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "2030cb3ef982",
@@ -9612,7 +9747,9 @@
       "platforms": [],
       "ogFetchedAt": "2026-09-16T00:54:49.713Z",
       "ogDescription": true,
-      "regionDetected": true
+      "regionDetected": true,
+      "checkedAt": "2026-09-24T11:00:20.382Z",
+      "metaError": "HTTP 403"
     },
     {
       "id": "88dccaf65646",
@@ -15566,11 +15703,12 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-09-16T12:57:30.156Z",
+      "ogFetchedAt": "2026-09-24T11:00:20.382Z",
       "regionDetected": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "checkedAt": "2026-09-24T11:00:20.382Z"
     },
     {
       "id": "ccbcbb12104b",
