@@ -91,7 +91,7 @@
     const list = sched.prereg.filter((p) => !f?.test || f.test(p)).sort((a, b) => sortKey(a).localeCompare(sortKey(b)));
     $("#countLine").textContent = `${list.length} タイトル`;
     if (!list.length) {
-      grid.innerHTML = `<div class="prereg-empty">該当するタイトルはありません。毎日 3 回（7 時・13 時・19 時）更新されます。</div>`;
+      grid.innerHTML = `<div class="prereg-empty">該当するタイトルはありません。</div>`;
       return;
     }
     const tpl = $("#preregCardTpl");

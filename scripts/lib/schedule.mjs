@@ -4,7 +4,7 @@
 //  - ニュース: 収集済み記事の見出しから「M月D日発売」「事前登録開始」などを抽出
 import { fetchText, fetchJson, log, truncate, idOf } from "./util.mjs";
 import { decodeEntities } from "./xml.mjs";
-import { searchTitles, lookupIds, searchTerm } from "./appstore.mjs";
+import { searchTitles, lookupIds, searchTerm, trackIdOf } from "./appstore.mjs";
 
 const pad = (n) => String(n).padStart(2, "0");
 const isoDate = (y, m, d) => `${y}-${pad(m)}-${pad(d)}`;
@@ -220,6 +220,85 @@ export function extractPrereg(item) {
   return { releaseText: headlineRelease, releaseSource: headlineRelease ? "news" : "", count: "", reward: "" };
 }
 
+// 見出しが「配信を始めた」ことを知らせているか。
+// 「10月7日に配信開始決定」「配信開始日が決定」のような予告や、未来の日付つきのものは除く
+const RELEASED_HEADLINE =
+  /本日(?:より)?(?:配信|リリース|サービス開始|発売|正式オープン)|(?:配信|リリース|サービス)(?:を)?(?:開始|スタート)|サービスイン|正式リリース|(?:配信|リリース)(?:され|した)|ついに(?:配信|リリース|登場)|好評配信中|配信中/;
+const NOT_YET = /予定|決定|予告|向け|先駆け|まで|直前|前に|開始日|日程|延期|カウントダウン|事前登録(?:を|の)?(?:開始|受付|スタート)|ベータ|テスト/;
+
+export function headlineSaysReleased(headline, now = new Date(), todayIso = jstToday(now)) {
+  if (!headline || !RELEASED_HEADLINE.test(headline) || NOT_YET.test(headline)) return false;
+  const rel = extractReleaseFromHeadline(headline, now);
+  if (rel?.date && rel.date > todayIso) return false;
+  return true;
+}
+
+function jstToday(now = new Date()) {
+  const j = new Date(now.getTime() + 9 * 3600000);
+  return isoDate(j.getUTCFullYear(), j.getUTCMonth() + 1, j.getUTCDate());
+}
+
+// 表記ゆれ（空白・記号・ひらがな/カタカナ）を無視したタイトルの比較用キー
+function titleKey(title) {
+  return (title || "")
+    .toLowerCase()
+    .replace(/[\s　]/g, "")
+    .replace(/[！!？?。、,.・:：〜～\-－ー—–_'"'「」『』【】（）()]/g, "")
+    .replace(/[ぁ-ん]/g, (c) => String.fromCharCode(c.charCodeAt(0) + 0x60));
+}
+
+// タイトルか App Store の ID が同じものを 1 つのグループにする
+function mergePreregGroups(list) {
+  const parent = list.map((_, i) => i);
+  const find = (i) => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+  const byKey = new Map();
+  list.forEach((p, i) => {
+    for (const k of [`t:${titleKey(p.title)}`, p.trackId ? `id:${p.trackId}` : ""]) {
+      if (!k) continue;
+      if (byKey.has(k)) parent[find(i)] = find(byKey.get(k));
+      else byKey.set(k, i);
+    }
+  });
+  const groups = new Map();
+  list.forEach((p, i) => {
+    const r = find(i);
+    if (!groups.has(r)) groups.set(r, []);
+    groups.get(r).push(p);
+  });
+  return [...groups.values()];
+}
+
+const isStoreUrl = (u) => /apps\.apple\.com|play\.google\.com|store\.steampowered\.com|game8\.jp/.test(u || "");
+
+// グループを 1 件にまとめる。予約が確かめられていて公式サイトが分かっている記事を土台にし、足りない項目を他から補う
+function combinePrereg(group) {
+  if (group.length === 1) return group[0];
+  const score = (p) => (p.appStore?.preorder ? 4 : 0) + (p.url && !isStoreUrl(p.url) ? 2 : 0) + (p.releaseText ? 1 : 0) + (p.verified === false ? -8 : 0);
+  const sorted = [...group].sort((a, b) => score(b) - score(a) || new Date(b.startedAt) - new Date(a.startedAt));
+  const out = { ...sorted[0] };
+  const first = (f) => sorted.map(f).find(Boolean);
+  out.url = first((p) => (p.url && !isStoreUrl(p.url) ? p.url : "")) || out.url;
+  out.image = out.image || first((p) => p.image) || "";
+  out.appStore = out.appStore || first((p) => p.appStore);
+  const fromStore = sorted.find((p) => p.releaseSource === "appstore" && p.releaseText);
+  if (fromStore) {
+    out.releaseText = fromStore.releaseText;
+    out.releaseSource = "appstore";
+    out.announcedText = fromStore.announcedText || first((p) => (p.releaseSource === "news" && p.releaseText !== fromStore.releaseText ? p.releaseText : ""));
+  } else if (!out.releaseText) {
+    out.releaseText = first((p) => p.releaseText) || "";
+    out.releaseSource = first((p) => (p.releaseText ? p.releaseSource : "")) || "";
+  }
+  out.count = out.count || first((p) => p.count) || "";
+  out.reward = out.reward || first((p) => p.reward) || "";
+  out.headline = out.headline || first((p) => p.headline) || "";
+  // 受付を始めた時期はいちばん古い記事のもの
+  out.startedAt = group.map((p) => p.startedAt).filter(Boolean).sort()[0] || out.startedAt;
+  if (group.some((p) => p.verified !== false)) delete out.verified;
+  if (group.some((p) => p.officialKnown)) out.officialKnown = true;
+  return out;
+}
+
 // ---------- 統合 ----------
 // 任天堂・Steam の発売予定を同時に取る（どちらも収集結果に依存しないので先に始められる）
 export function fetchScheduleFeeds(cfg = {}) {
@@ -232,9 +311,9 @@ export function fetchScheduleFeeds(cfg = {}) {
 export async function buildSchedule(config, items, { platformDetector, cache = {}, extraTitles = [], feeds = null } = {}) {
   const cfg = config.releases || {};
   const now = new Date();
-  const todayIso = isoDate(now.getFullYear(), now.getMonth() + 1, now.getDate());
-  const horizon = new Date(now.getTime() + (cfg.daysAhead ?? 120) * 86400000);
-  const horizonIso = isoDate(horizon.getFullYear(), horizon.getMonth() + 1, horizon.getDate());
+  // 収集は UTC の GitHub Actions でも走るので、「今日」は日本時間で決める（UTC だと朝 9 時まで前日扱いになる）
+  const todayIso = jstToday(now);
+  const horizonIso = jstToday(new Date(now.getTime() + (cfg.daysAhead ?? 120) * 86400000));
 
   const releases = [];
   const stats = {};
@@ -487,27 +566,65 @@ export async function buildSchedule(config, items, { platformDetector, cache = {
   stats.appstore = appStats;
   stats.prereg = prereg.length;
 
+  // ---------- App Store の最新の状態を取り直す ----------
+  // 検索結果はキャッシュなので、予約 → 配信済みの切り替わりを見逃す。ID が分かっているものは毎回 lookup で確かめる
+  // （lookup は 50 件で 1 回の問い合わせなので、検索のようなレート制限の心配はほぼ無い）
+  const ids = new Set();
+  for (const p of prereg) {
+    p.trackId = trackIdOf(p.appStore?.url) || trackIdOf(p.url) || (/^\d{6,}$/.test(p.appleId || "") ? p.appleId : "");
+    if (p.trackId) ids.add(p.trackId);
+  }
+  const fresh = ids.size ? await timed("appstoreLookup", () => lookupIds([...ids])) : new Map();
+  stats.appstore.lookedUp = fresh.size;
+  for (const p of prereg) {
+    const app = fresh.get(p.trackId);
+    if (!app) continue;
+    p.appStore = { url: app.storeUrl, preorder: app.isPreorder, releaseDate: app.releaseDate };
+    if (!p.image && app.image) p.image = app.image;
+    const t = app.isPreorder ? appStoreReleaseText(app.releaseDate) : "";
+    if (t && t !== p.releaseText) {
+      if (p.releaseText && p.releaseSource !== "appstore") p.announcedText = p.releaseText;
+      p.releaseText = t;
+      p.releaseSource = "appstore";
+    }
+  }
+
+  // ---------- 同じタイトルを 1 件にまとめる ----------
+  // 同じ作品の記事が複数あると別々に載ってしまい、1 件だけ配信済みで外れて残りが残ることもあった
+  const groups = mergePreregGroups(prereg);
+
   // ---------- 配信済みになったものを事前登録から外す ----------
   // 事前登録の根拠が古い記事 1 本だけだと、配信開始後も載り続けてしまう。
-  //  1) 公式サイトの説明文（OGP）に「配信中」などがあれば配信済み
-  //  2) App Store で該当アプリが見つかり、予約ではなく配信済みなら配信済み
-  //  3) App Store で確認できず記事だけが根拠のものは、記事から一定日数で外す（延々と載せない）
+  //  1) App Store で予約注文中と確かめられたものは残す（ストアの状態をいちばん信用する）
+  //  2) App Store で配信済みなら外す
+  //  3) 公式サイトの説明文（OGP）に「配信中」などがあれば外す
+  //  4) 記事の見出しが「配信開始」「本日リリース」など、配信を知らせるものなら外す
+  //  5) App Store で確認できず記事だけが根拠のものは、記事から一定日数で外す（延々と載せない）
+  // 判定はまとめた単位で行う。どれか 1 本の記事が配信済みを示していれば、その作品ごと外す。
   const RELEASED_RE = /配信中|好評配信中|サービス中|絶賛配信|ダウンロード(は)?こちら|今すぐ(プレイ|ダウンロード)|now available|available now|out now|download now/i;
   const preregMaxAge = (cfg.preregMaxAgeDays ?? 45) * 86400000;
   const before = prereg.length;
-  for (let i = prereg.length - 1; i >= 0; i--) {
-    const p = prereg[i];
+  const kept = [];
+  for (const g of groups) {
+    const storeFuture = g.some((p) => p.appStore?.preorder);
+    const verifiedAny = g.some((p) => p.verified !== false);
+    const newest = Math.max(...g.map((p) => new Date(p.startedAt || 0).getTime()));
     let reason = null;
-    if (p.appStore && !p.appStore.preorder) reason = "released on App Store";
-    else if (RELEASED_RE.test(p.description || "")) reason = "official site says released";
-    else if (!p.appStore?.preorder && p.verified !== false && p.startedAt && now.getTime() - new Date(p.startedAt).getTime() > preregMaxAge) reason = "article too old";
+    if (storeFuture) reason = null;
+    else if (g.some((p) => p.appStore && !p.appStore.preorder)) reason = "released on App Store";
+    else if (g.some((p) => RELEASED_RE.test(p.description || ""))) reason = "official site says released";
+    else if (g.some((p) => headlineSaysReleased(p.headline, now, todayIso))) reason = "headline says released";
+    else if (verifiedAny && newest && now.getTime() - newest > preregMaxAge) reason = "article too old";
     if (reason) {
       stats.preregDropped = stats.preregDropped || [];
-      stats.preregDropped.push({ title: p.title, reason });
-      prereg.splice(i, 1);
+      stats.preregDropped.push({ title: g[0].title, reason });
+      continue;
     }
+    kept.push(combinePrereg(g));
   }
-  if (before !== prereg.length) log(`prereg: dropped ${before - prereg.length} as released/stale`);
+  prereg.length = 0;
+  prereg.push(...kept);
+  if (before !== prereg.length) log(`prereg: ${before} → ${prereg.length}（重複の統合と配信済みの除外）`);
   stats.prereg = prereg.length;
 
   prereg.sort((a, b) => new Date(b.startedAt) - new Date(a.startedAt));

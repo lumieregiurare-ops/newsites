@@ -50,6 +50,16 @@ export function toEntry(r) {
   };
 }
 
+export function withPreorder(entry) {
+  const release = entry.releaseDate ? new Date(entry.releaseDate) : null;
+  return { ...entry, isPreorder: !!release && release.getTime() > Date.now() };
+}
+
+// App Store の URL から trackId を取り出す（apps.apple.com/jp/app/名前/id123456）
+export function trackIdOf(url) {
+  return (url || "").match(/apps\.apple\.com\/.*?\bid(\d{6,})/)?.[1] || "";
+}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // タイトル一覧を検索して、見つかったものを返す（cache は呼び出し側が保存する）
@@ -74,7 +84,8 @@ export async function searchTitles(
     const hit = cache[term];
     const ttl = hit && !hit.entry ? missTtlHours : ttlHours;
     if (hit && now - new Date(hit.at).getTime() < ttl * 3600000) {
-      if (hit.entry) out.set(title, hit.entry);
+      // isPreorder は検索した時点の判定なので、配信日を過ぎていたら配信済みに直して返す
+      if (hit.entry) out.set(title, withPreorder(hit.entry));
       continue;
     }
     if (searched >= max || blocked >= 3) continue;
