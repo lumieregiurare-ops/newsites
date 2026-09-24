@@ -4217,12 +4217,12 @@
     },
     "モンスターハンターアウトランダーズ": {
       "title": "モンスターハンターアウトランダーズ",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "lumimaster（るぅみマスター）": {
@@ -6345,17 +6345,17 @@
     },
     "無限大ananta": {
       "title": "無限大Ananta",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
     "ハイキュー!!allchallengers": {
       "title": "ハイキュー!! ALL Challengers",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
     "薬屋のひとりごと後宮異聞録": {
       "title": "薬屋のひとりごと 後宮異聞録",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
     "オハヒロ": {
@@ -14657,6 +14657,46 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-24T06:30:35.932Z"
+    },
+    "gobutikodemo": {
+      "title": "Gobutiko Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T07:00:30.628Z"
+    },
+    "soft17demo": {
+      "title": "Soft 17 Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T07:00:30.628Z"
+    },
+    "washmate": {
+      "title": "WashMate",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T07:00:30.628Z"
+    },
+    "wrennylee:witch-for-hire!-supporterpack": {
+      "title": "Wrenny Lee: Witch-for-Hire! - Supporter Pack",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T07:00:30.628Z"
+    },
+    "あのボールはどうしても落ちてしまう": {
+      "title": "あのボールはどうしても落ちてしまう",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T07:00:30.628Z"
     }
   },
   "changeLog": [
@@ -17246,6 +17286,66 @@
         "mobile"
       ],
       "to": "2026年10月24日"
+    },
+    {
+      "at": "2026-09-24T07:00:30.628Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "無限大Ananta",
+      "url": "https://game8.jp/preregistration/601590",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-24T07:00:30.628Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ハイキュー!! ALL Challengers",
+      "url": "https://game8.jp/preregistration/774051",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-24T07:00:30.628Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "薬屋のひとりごと 後宮異聞録",
+      "url": "https://game8.jp/preregistration/720625",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-24T07:00:30.628Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-09-24T07:00:30.628Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月2日"
     }
   ],
   "initialized": true,
