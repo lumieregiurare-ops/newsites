@@ -1222,6 +1222,10 @@
     "ポケポケ": {
       "at": "2026-09-24T00:30:27.639Z",
       "entry": null
+    },
+    "ONE PIECE 海のごちそうレストラン": {
+      "at": "2026-09-24T05:00:26.866Z",
+      "entry": null
     }
   },
   "titles": {
@@ -3806,7 +3810,7 @@
       "dateText": "2026年10月22日",
       "date": "2026-10-22",
       "sortKey": "2026-10-22",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
     "デモンズナイトフィーバー": {
@@ -17212,6 +17216,20 @@
         "vr"
       ],
       "to": "2027年春"
+    },
+    {
+      "at": "2026-09-24T05:00:26.649Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ONE PIECE 海のごちそうレストラン",
+      "url": "https://op-restaurant.bn-ent.net/",
+      "image": "https://op-restaurant.bn-ent.net/ogp.png",
+      "platforms": [
+        "switch2",
+        "pc",
+        "mobile"
+      ],
+      "to": "2026年10月24日"
     }
   ],
   "initialized": true,

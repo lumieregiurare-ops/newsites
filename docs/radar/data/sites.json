@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T04:30:20.171Z",
+  "updatedAt": "2026-09-24T05:00:17.723Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 388,
+  "total": 389,
   "regions": {
-    "jp": 340,
+    "jp": 341,
     "global": 48
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 54
+      "count": 55
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 58
+      "count": 59
     },
     {
       "id": "event",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 29
+      "count": 30
     },
     {
       "id": "media",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 19
+      "count": 20
     },
     {
       "id": "ps",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 45
+      "count": 46
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 128
+      "count": 129
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "App Store",
@@ -133,6 +133,43 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "52490de2ca50",
+      "url": "https://op-restaurant.bn-ent.net/",
+      "host": "op-restaurant.bn-ent.net",
+      "region": "jp",
+      "title": "ONE PIECE 海のごちそうレストラン",
+      "headline": "『ONE PIECE 海のごちそうレストラン』モバイル版の事前登録開始！ Switch2/Switch/STEAM版も予約受付中",
+      "description": "「ONE PIECE」家庭用ゲーム最新作！あの大人気アニメ「ONE PIECE」が、株式会社カイロソフトとのコラボレーションによりドット絵の経営シミュレーションゲームとして登場！ 『ONE PIECE』の世界で海上レストランを経営！バラテ…",
+      "publishedAt": "2026-09-24T04:30:00.000Z",
+      "addedAt": "2026-09-24T05:00:17.723Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/24/game/3113478.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "campaign",
+        "company"
+      ],
+      "platforms": [
+        "switch2",
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://op-restaurant.bn-ent.net/ogp.png"
+    },
     {
       "id": "71bd3d7e8f54",
       "url": "https://www.yangming.store/",

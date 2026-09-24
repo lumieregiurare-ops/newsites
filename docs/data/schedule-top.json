@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:30:31.471Z",
+  "updatedAt": "2026-09-24T05:00:26.649Z",
   "platforms": [
     {
       "id": "switch",
@@ -273,6 +273,33 @@
   ],
   "prereg": [
     {
+      "id": "52490de2ca50",
+      "title": "ONE PIECE 海のごちそうレストラン",
+      "url": "https://op-restaurant.bn-ent.net/",
+      "image": "https://op-restaurant.bn-ent.net/ogp.png",
+      "platforms": [
+        "switch2",
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-09-24T04:30:00.000Z",
+      "releaseText": "2026年10月24日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "『ONE PIECE 海のごちそうレストラン』モバイル版の事前登録開始！ Switch2/Switch/STEAM版も予約受付中",
+      "description": "「ONE PIECE」家庭用ゲーム最新作！あの大人気アニメ「ONE PIECE」が、株式会社カイロソフトとのコラボレーションによりドット絵の経営シミュレーションゲームとして登場！ 『ONE PIECE』の世界で海上レストランを経営！バラテ…",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/09/24/game/3113478.php",
+      "appleId": "6771652722",
+      "trackId": "6771652722",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/one-piece-%E6%B5%B7%E3%81%AE%E3%81%94%E3%81%A1%E3%81%9D%E3%81%86%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3/id6771652722",
+        "preorder": true,
+        "releaseDate": "2026-10-24T07:00:00Z"
+      }
+    },
+    {
       "id": "e02adc31df20",
       "title": "ノーダスフォール",
       "url": "https://nodusfall.hoyoverse.com/",
@@ -437,34 +464,23 @@
       "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2c4c7cb70f1",
-      "title": "雨のちハレ女",
-      "url": "https://www.hare-onna.jp/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-14T10:44:53.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
-      "appleId": "6760698900",
-      "trackId": "6760698900",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/%E9%9B%A8%E3%81%AE%E3%81%A1%E3%83%8F%E3%83%AC%E5%A5%B3/id6760698900",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-24T05:00:26.649Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ONE PIECE 海のごちそうレストラン",
+      "url": "https://op-restaurant.bn-ent.net/",
+      "image": "https://op-restaurant.bn-ent.net/ogp.png",
+      "platforms": [
+        "switch2",
+        "pc",
+        "mobile"
+      ],
+      "to": "App Store 2026年10月24日"
+    },
     {
       "at": "2026-09-24T01:30:27.111Z",
       "type": "new",
@@ -524,18 +540,6 @@
       "title": "限界突破！超記憶力クイズ",
       "url": "https://store-jp.nintendo.com/item/software/D70010000137178",
       "image": "https://img-eshop.cdn.nintendo.net/i/f1cc1eb10c6bea133509a24a0ac5308abbc8e431e43518810de6130f2fb56343.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月1日"
-    },
-    {
-      "at": "2026-09-23T17:00:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ワードバズ5",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134357",
-      "image": "https://img-eshop.cdn.nintendo.net/i/0e50263d96aadb765dd8c1df76f883bb11b4236e7ec598f9afb633b69b3a779f.jpg",
       "platforms": [
         "switch"
       ],
