@@ -1218,6 +1218,10 @@
     "ZENONIA 2 The Lost Memories": {
       "at": "2026-09-23T14:30:30.098Z",
       "entry": null
+    },
+    "ポケポケ": {
+      "at": "2026-09-24T00:30:27.639Z",
+      "entry": null
     }
   },
   "titles": {
@@ -14441,6 +14445,46 @@
       "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-24T00:00:29.520Z"
+    },
+    "ポケポケ": {
+      "title": "ポケポケ",
+      "dateText": "2026年9月24日",
+      "date": "2026-09-24",
+      "sortKey": "2026-09-24",
+      "prereg": false,
+      "firstSeen": "2026-09-24T00:30:27.068Z"
+    },
+    "elqori": {
+      "title": "Elqori",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T00:30:27.068Z"
+    },
+    "midnightqueue": {
+      "title": "Midnight Queue",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T00:30:27.068Z"
+    },
+    "wooloop-flowerspack": {
+      "title": "WooLoop - Flowers Pack",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T00:30:27.068Z"
+    },
+    "metavrglasses": {
+      "title": "Meta VR Glasses",
+      "dateText": "2027年春",
+      "date": null,
+      "sortKey": "2027-04-33",
+      "prereg": false,
+      "firstSeen": "2026-09-24T00:30:27.068Z"
     }
   },
   "changeLog": [
@@ -16980,6 +17024,30 @@
       ],
       "from": "2026年10月1日",
       "to": "2026年9月24日"
+    },
+    {
+      "at": "2026-09-24T00:30:27.068Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケポケ",
+      "url": "https://www.pokemontcgpocket.com/ja/",
+      "image": "https://www.pokemontcgpocket.com/assets/img/ja/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月24日"
+    },
+    {
+      "at": "2026-09-24T00:30:27.068Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Meta VR Glasses",
+      "url": "https://www.oculus.com/quest/",
+      "image": "",
+      "platforms": [
+        "vr"
+      ],
+      "to": "2027年春"
     }
   ],
   "initialized": true,

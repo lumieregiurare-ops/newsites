@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T00:00:19.699Z",
+  "updatedAt": "2026-09-24T00:30:17.522Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 376,
+  "total": 378,
   "regions": {
-    "jp": 330,
+    "jp": 332,
     "global": 46
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 118
+      "count": 119
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 65
+      "count": 66
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 127
+      "count": 128
     },
     {
       "id": "browser",
@@ -117,15 +117,15 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 1
+      "count": 2
     }
   ],
   "sources": [
+    "Inside",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "4Gamer",
-    "Inside",
     "Game*Spark",
     "Appliv Games",
     "Hacker News",
@@ -133,6 +133,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0e395f5b806b",
+      "url": "https://www.pokemontcgpocket.com/ja/",
+      "host": "pokemontcgpocket.com",
+      "region": "jp",
+      "title": "ポケポケ",
+      "headline": "『ポケポケ』最新情報が9月24日22時に公開！予告映像では歴代パックを振り返り…新たな「ハイクラスパックex」登場か",
+      "description": "『Pokémon Trading Card Game Pocket（ポケポケ）』は、「ポケモンカード」を手軽にコレクションできるアプリ。拡張パックを毎日2パック無料で開封して、スマートフォンでポケモンカードを楽しもう！",
+      "publishedAt": "2026-09-24T00:20:42.000Z",
+      "addedAt": "2026-09-24T00:30:17.522Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/24/188168.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.pokemontcgpocket.com/assets/img/ja/ogp.png"
+    },
+    {
+      "id": "1babe8bb6a1c",
+      "url": "https://www.oculus.com/quest/",
+      "host": "oculus.com",
+      "region": "jp",
+      "title": "Meta VR Glasses",
+      "headline": "大幅に軽くなり，メガネのようにかけられるVR HMD「Meta VR Glasses」発表。発売時期は2027年春の予定",
+      "description": "大幅に軽くなり，メガネのようにかけられるVR HMD「Meta VR Glasses」発表。発売時期は2027年春の予定",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "addedAt": "2026-09-24T00:30:17.522Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/436/G043602/20260923003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "vr"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "411b1f32241a",
       "url": "https://www.gameaddict.co.jp/derbystallion2/",

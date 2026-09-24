@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:00:29.520Z",
+  "updatedAt": "2026-09-24T00:30:27.068Z",
   "platforms": [
     {
       "id": "switch",
@@ -104,6 +104,23 @@
       "headline": "『バンドリ！アワーノーツ』iOS、Android向けに9月24日リリース決定！リリース時には「迷星叫」「KiLLKiSS」などオリジナル楽曲にくわえ、カバー曲として「シャルル」「…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260913p"
+    },
+    {
+      "id": "513e3e99265f",
+      "title": "ポケポケ",
+      "date": "2026-09-24",
+      "dateText": "2026年9月24日",
+      "sortKey": "2026-09-24",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://www.pokemontcgpocket.com/ja/",
+      "image": "https://www.pokemontcgpocket.com/assets/img/ja/ogp.png",
+      "maker": "",
+      "headline": "『ポケポケ』最新情報が9月24日22時に公開！予告映像では歴代パックを振り返り…新たな「ハイクラスパックex」登場か",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/09/24/188168.html"
     },
     {
       "id": "8b27af5f8088",
@@ -252,23 +269,6 @@
       "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
-    },
-    {
-      "id": "aefe8531cc92",
-      "title": "エッジ オブ メモリーズ",
-      "date": "2026-12-10",
-      "dateText": "2026年12月10日",
-      "sortKey": "2026-12-10",
-      "priority": 0,
-      "platforms": [
-        "ps"
-      ],
-      "url": "https://3goo.co.jp/product/edge-of-memories/",
-      "image": "",
-      "maker": "",
-      "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
     }
   ],
   "prereg": [
@@ -452,6 +452,30 @@
   ],
   "changes": [
     {
+      "at": "2026-09-24T00:30:27.068Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Meta VR Glasses",
+      "url": "https://www.oculus.com/quest/",
+      "image": "",
+      "platforms": [
+        "vr"
+      ],
+      "to": "2027年春"
+    },
+    {
+      "at": "2026-09-24T00:30:27.068Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケポケ",
+      "url": "https://www.pokemontcgpocket.com/ja/",
+      "image": "https://www.pokemontcgpocket.com/assets/img/ja/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月24日"
+    },
+    {
       "at": "2026-09-23T22:30:30.836Z",
       "type": "moved_up",
       "label": "発売日前倒し",
@@ -502,30 +526,6 @@
         "switch"
       ],
       "to": "2026年10月1日"
-    },
-    {
-      "at": "2026-09-23T17:00:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "エアリーカームホライゾントゥー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000109793",
-      "image": "https://img-eshop.cdn.nintendo.net/i/bd7c3be4fa63922301639302698f38732b1e8e9fc6c3804008ded8bec7c30b58.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月1日"
-    },
-    {
-      "at": "2026-09-23T16:00:34.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "パンツァープラネット",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132192",
-      "image": "https://img-eshop.cdn.nintendo.net/i/94872cf6862f1cb2a2100f446eba2d64a81b6c38bb40c4e79a7b2c43af82236a.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
     }
   ]
 }
