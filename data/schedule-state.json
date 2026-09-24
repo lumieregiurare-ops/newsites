@@ -15586,6 +15586,38 @@
       "sortKey": "2026-09-28",
       "prereg": false,
       "firstSeen": "2026-09-24T22:00:29.969Z"
+    },
+    "numbersgoupdemo": {
+      "title": "Numbers Go Up Demo",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
+      "prereg": false,
+      "firstSeen": "2026-09-24T22:30:29.833Z"
+    },
+    "techchaos": {
+      "title": "Tech Chaos",
+      "dateText": "2026年9月28日",
+      "date": "2026-09-28",
+      "sortKey": "2026-09-28",
+      "prereg": false,
+      "firstSeen": "2026-09-24T22:30:29.833Z"
+    },
+    "fsh": {
+      "title": "Fsh",
+      "dateText": "2026年9月30日",
+      "date": "2026-09-30",
+      "sortKey": "2026-09-30",
+      "prereg": false,
+      "firstSeen": "2026-09-24T22:30:29.833Z"
+    },
+    "マイクラ": {
+      "title": "マイクラ",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-09-24T22:30:29.833Z"
     }
   },
   "changeLog": [
@@ -18283,6 +18315,16 @@
       ],
       "from": "2026年9月24日",
       "to": "2026年10月1日"
+    },
+    {
+      "at": "2026-09-24T22:30:29.833Z",
+      "type": "new",
+      "label": "新規",
+      "title": "マイクラ",
+      "url": "https://hytale.com/",
+      "image": "https://hytale.com/images/logo.webp",
+      "platforms": [],
+      "to": "2026年10月12日"
     }
   ],
   "initialized": true,
