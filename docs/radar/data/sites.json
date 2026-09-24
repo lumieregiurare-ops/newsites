@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T02:30:16.363Z",
+  "updatedAt": "2026-09-24T03:00:17.398Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 380,
+  "total": 382,
   "regions": {
     "jp": 334,
-    "global": 46
+    "global": 48
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 121
+      "count": 122
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 66
+      "count": 67
     }
   ],
   "platforms": [
@@ -133,6 +133,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "374fc0c3061a",
+      "url": "https://www.elosgames.net/",
+      "host": "elosgames.net",
+      "region": "global",
+      "title": "Sagas of Lumin",
+      "headline": "ドラゴンと人間の操作をシームレスに切り替えるアクションRPG『Sagas of Lumin』新映像が公開。空中戦では火炎ブレスを放ち、地上戦ではスキルベースの戦いが展開",
+      "description": "Sagas of Lumin: Ride dragons in a thrilling action RPG adventure. Explore a steampunk-medieval world, battle in the ski…",
+      "publishedAt": "2026-09-24T03:00:00.000Z",
+      "addedAt": "2026-09-24T03:00:17.398Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/65509d18544df93addf7c341/t/680a89de4bbb2150bb9ced1c/1745521118647/Sagas+Of+Lumin+-+Logo+Landscape-min.png?format=1500w"
+    },
+    {
+      "id": "f6158e9bee2e",
+      "url": "https://www.konami.com/games/silenthill/townfall/",
+      "host": "konami.com",
+      "region": "global",
+      "title": "サイレントヒル",
+      "headline": "『サイレントヒル』シリーズ最新作『サイレントヒル：タウンフォール』が本日発売！",
+      "description": "『サイレントヒル』シリーズ最新作『サイレントヒル：タウンフォール』が本日発売！",
+      "publishedAt": "2026-09-24T02:55:31.000Z",
+      "addedAt": "2026-09-24T03:00:17.398Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260924n"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09242026"
+    },
     {
       "id": "33c0ff2f4868",
       "url": "https://www.marv.jp/bokumono-runefactory-anniversary/",

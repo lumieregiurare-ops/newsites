@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T02:30:29.156Z",
+  "updatedAt": "2026-09-24T03:00:30.102Z",
   "platforms": [
     {
       "id": "switch",
@@ -40,30 +40,6 @@
   ],
   "prereg": [
     {
-      "id": "b0bb1e7e67d7",
-      "title": "アニモ",
-      "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/11/29/d71129f0-31d8-675d-49d6-685dccaac724/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "startedAt": "2026-09-23T23:15:00.000Z",
-      "releaseText": "2026年9月23日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『アニモ』モバイル版が9月23日に配信開始！ PC・コンソール版とクロスプレイに対応",
-      "description": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTDの「アニモ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アニモ」に似たゲームを見ることなどがで…",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/24/game/3112825.php",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
-        "preorder": true,
-        "releaseDate": "2026-09-23T07:00:00Z"
-      }
-    },
-    {
       "id": "e02adc31df20",
       "title": "ノーダスフォール",
       "url": "https://nodusfall.hoyoverse.com/",
@@ -80,45 +56,8 @@
       "description": "【キャラガチャ無し】HoYoverse新作『ノーダスフォール』は「協力マルチプレイ」をメインとした神話アクションゲーム。対応機種や難易度などにも触れるFAQ公開",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/23/172673.html",
-      "appleId": ""
-    },
-    {
-      "id": "961aae91b490",
-      "title": "Sanrio Kawaii Me Live!",
-      "url": "https://apps.apple.com/us/app/sanrio-kawaii-me-live/id6749342133",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/81/27/bf8127fd-d7e0-e927-c710-3550f71467f3/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-23T06:00:00.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "新作スマホゲーム「Sanrio Kawaii Me Live!」発表！ 2027年1月グローバルリリース、9月21日から事前登録スタート",
-      "description": "Download Sanrio Kawaii Me Live! by SANRIO CO., LTD. on the App Store. See screenshots, ratings and reviews, user tips, …",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/23/game/3111947.php",
-      "appleId": "6749342133"
-    },
-    {
-      "id": "b314e59e7a95",
-      "title": "Sanrio Kawaii Me Live!",
-      "url": "https://apps.apple.com/app/id6749342133",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/81/27/bf8127fd-d7e0-e927-c710-3550f71467f3/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-23T02:30:00.000Z",
-      "releaseText": "2027年1月配信",
-      "releaseSource": "news",
-      "count": "",
-      "reward": "",
-      "headline": "「Sanrio Games」初のスマホゲーム『Sanrio Kawaii Me Live!』が2027年1月配信決定！ 9月21日より事前登録開始",
-      "description": "Download Sanrio Kawaii Me Live! by SANRIO CO., LTD. on the App Store. See screenshots, ratings and reviews, user tips, …",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/23/game/3112135.php",
-      "appleId": ""
+      "appleId": "",
+      "trackId": ""
     },
     {
       "id": "746f82ff8dbb",
@@ -143,7 +82,8 @@
         "preorder": true,
         "releaseDate": "2027-01-14T08:00:00Z"
       },
-      "announcedText": "2027年1月にリリース"
+      "announcedText": "2027年1月にリリース",
+      "trackId": "6749342133"
     },
     {
       "id": "66d77cdcb0bf",
@@ -167,7 +107,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%97%E3%83%81%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88/id6776621908",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6776621908"
     },
     {
       "id": "cc906e5ded91",
@@ -190,7 +131,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%81%A6%E3%81%8F%E3%81%A6%E3%81%8F%E6%97%A5%E5%92%8C/id6771680812",
         "preorder": true,
         "releaseDate": "2027-02-13T08:00:00Z"
-      }
+      },
+      "trackId": "6771680812"
     },
     {
       "id": "e2dd501f7102",
@@ -214,84 +156,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%82%AD%E3%82%BF%E3%82%AD%E3%82%BF%E7%8E%8B%E6%A7%98/id6768868898",
         "preorder": true,
         "releaseDate": "2026-10-25T07:00:00Z"
-      }
-    },
-    {
-      "id": "ad04bb2d7d2f",
-      "title": "俺だけレベルアップな件：KARMA",
-      "url": "https://apps.apple.com/jp/app/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-karma/id6744352329",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/94/4c/aa944c80-7ce9-9c94-7d69-437335073a73/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-18T08:30:00.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "Apple App StoreまたはGoogle Playで事前登録すると、主人公「水篠旬",
-      "headline": "本郷奏多さん登場！『俺だけレベルアップな件：KARMA』TGS2026でメディア発表会開催、事前登録受付も実施中",
-      "description": "Netmarble Corporationの「俺だけレベルアップな件：KARMA」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「俺だけレベルアップな件：KARMA」に似たゲームを見る…",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/18/game/3109157.php",
-      "appleId": "6744352329"
-    },
-    {
-      "id": "0c23af7b7495",
-      "title": "SophieChat:AI",
-      "url": "https://sophiechat-ai.go-spiral.ai/",
-      "image": "https://sophiechat-ai.go-spiral.ai/assets/ogp/ogp_1200x630.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-18T06:06:13.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「SophieChat:AI」の開発が発表に。「ソフィーのアトリエ2」の世界を舞台に，話すだけで旅，調合，戦闘を楽しめるフリーシナリオ型のAIチャット形式RPG［TGS2026］",
-      "description": "『ソフィーのアトリエ』公式ライセンスのAIチャットアプリ「SophieChat:AI」。話しかけるだけで、採取・調合・冒険……物語が進む。近日配信予定。事前登録受付中。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/044/G104406/20260918036/",
-      "appleId": "6763540981"
-    },
-    {
-      "id": "04ccab5cdbe0",
-      "title": "Lumi Master",
-      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/f6/82/f8f68294-4c20-0695-f0a7-0163a9b58556/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-17T13:21:49.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "事前登録者数300万人",
-      "reward": "",
-      "headline": "モンスター収集×育成RPG「Lumi Master」，本日リリース。100種類以上の「るぅみ」を集めて育成。片手操作にも対応",
-      "description": "BILIBILI HK LIMITEDの「Lumi Master（るぅみマスター）」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Lumi Master（るぅみマスター）」に似たゲー…",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/043/G104382/20260917071/",
-      "appleId": "6754979232"
-    },
-    {
-      "id": "dc712f56ef31",
-      "title": "マビノギモバイル",
-      "url": "https://mabinogimobile.nexon.co.jp/preregistration/",
-      "image": "https://static.nexon.co.jp/mabinogimobile/preregistration_FzS9jWx9G0umDpkk/ogpcard.png",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "startedAt": "2026-09-17T12:00:48.000Z",
-      "releaseText": "10月7日に配信",
-      "releaseSource": "news",
-      "count": "事前登録者数が10万人",
-      "reward": "",
-      "headline": "「マビノギモバイル」，10月7日に配信決定。エリンでの冒険を描いたオンラインRPG",
-      "description": "「マビノギモバイル」事前登録受付中！ほのぼの巡る、暮らしと冒険。スマートフォンとPCでもうすぐ登場！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/387/G038732/20260917069/",
-      "appleId": "6775403879"
+      },
+      "trackId": "6768868898"
     },
     {
       "id": "f0c7d00a8864",
@@ -305,7 +171,7 @@
       "releaseText": "",
       "releaseSource": "",
       "count": "",
-      "reward": "",
+      "reward": "Apple App StoreまたはGoogle Playで事前登録すると、主人公「水篠旬",
       "headline": "“誰も知らない27年”をオリジナルストーリーで描く！ 新作『俺だけレベルアップな件：KARMA』で味わう『俺レベ』らしい無双感【TGS2026：先行プレイレポ】",
       "description": "事前登録受付中！今すぐ登録してスペシャル報酬をGET！",
       "source": "Inside",
@@ -315,7 +181,8 @@
         "url": "https://apps.apple.com/jp/app/%E4%BF%BA%E3%81%A0%E3%81%91%E3%83%AC%E3%83%99%E3%83%AB%E3%82%A2%E3%83%83%E3%83%97%E3%81%AA%E4%BB%B6-karma/id6744352329",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6744352329"
     },
     {
       "id": "40d20f49aa9a",
@@ -335,31 +202,13 @@
       "description": "「サイマジック 魔法世界のバグ、科学で直します！」は、科学の原理で魔法を強化して戦うG123発の完全オリジナルローグライクRPG。魔法使いが異端視される世界で、仲間とともに窮地を突破しよう。会員登録・ダウンロードなしでスマホ・PCから無料…",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
-      "appleId": ""
+      "appleId": "",
+      "trackId": ""
     },
     {
       "id": "f2c4c7cb70f1",
       "title": "雨のちハレ女",
       "url": "https://www.hare-onna.jp/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-15T05:58:04.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
-      "appleId": "6760698900"
-    },
-    {
-      "id": "c3e1f9fc823b",
-      "title": "雨のちハレ女",
-      "url": "https://apps.apple.com/app/id6760698900",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
@@ -369,11 +218,12 @@
       "releaseSource": "",
       "count": "",
       "reward": "",
-      "headline": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
-      "description": "ゲームフリーク新作『雨のちハレ女』公式生放送、なんと大森滋氏が自ら描いた紹介イラスト登場。そのほか本作の情報が多数公開",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609142y",
-      "appleId": "",
+      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
+      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
+      "appleId": "6760698900",
+      "trackId": "6760698900",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/%E9%9B%A8%E3%81%AE%E3%81%A1%E3%83%8F%E3%83%AC%E5%A5%B3/id6760698900",
         "preorder": true,
@@ -398,7 +248,8 @@
       "source": "Game8",
       "sourceUrl": "https://game8.jp/preregistration/601590",
       "verified": false,
-      "officialKnown": false
+      "officialKnown": false,
+      "trackId": ""
     },
     {
       "id": "02cbb632e74f",
@@ -418,7 +269,8 @@
       "source": "Game8",
       "sourceUrl": "https://game8.jp/preregistration/774051",
       "verified": false,
-      "officialKnown": false
+      "officialKnown": false,
+      "trackId": ""
     },
     {
       "id": "8972bda02820",
@@ -438,7 +290,8 @@
       "source": "Game8",
       "sourceUrl": "https://game8.jp/preregistration/720625",
       "verified": false,
-      "officialKnown": false
+      "officialKnown": false,
+      "trackId": ""
     },
     {
       "id": "a1a719f8b2de",
@@ -461,7 +314,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
         "preorder": true,
         "releaseDate": "2026-12-15T08:00:00Z"
-      }
+      },
+      "trackId": "6444520814"
     },
     {
       "id": "ddc3066f6b2c",
@@ -484,7 +338,8 @@
         "url": "https://apps.apple.com/jp/app/galast-%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%B9%E3%83%88-%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E5%AF%BE%E6%88%A6%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0/id6744635653",
         "preorder": true,
         "releaseDate": "2026-11-02T08:00:00Z"
-      }
+      },
+      "trackId": "6744635653"
     },
     {
       "id": "4878d7b86722",
@@ -507,7 +362,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9-%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2-%E4%B8%83%E3%81%A4%E3%81%AE%E6%9C%80%E5%BC%B7%E7%A8%AE-%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%8A%E3%83%8A/id6757176525",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6757176525"
     },
     {
       "id": "2fb65f26bde8",
@@ -530,14 +386,16 @@
         "url": "https://apps.apple.com/jp/app/%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3rpg-%E3%82%A6%E3%82%A3%E3%82%BA%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/id6761871323",
         "preorder": true,
         "releaseDate": "2027-02-14T08:00:00Z"
-      }
+      },
+      "trackId": "6761871323"
     },
     {
-      "id": "ee9c96b956fe",
+      "id": "dc712f56ef31",
       "title": "マビノギモバイル",
-      "url": "https://mabinogimobile.nexon.com/Main/",
-      "image": "https://lwi.nexon.com/m_mabinogim/global/en/main/meta.jpg",
+      "url": "https://mabinogimobile.nexon.co.jp/preregistration/",
+      "image": "https://static.nexon.co.jp/mabinogimobile/preregistration_FzS9jWx9G0umDpkk/ogpcard.png",
       "platforms": [
+        "pc",
         "mobile"
       ],
       "startedAt": "2026-09-11T09:32:14.000Z",
@@ -545,16 +403,18 @@
       "releaseSource": "appstore",
       "count": "事前登録者数が10万人",
       "reward": "",
-      "headline": "「リリース直前！『マビノギモバイル』TGS特別番組」，9月17日20：00より配信決定",
-      "description": "A World of Encounters & Adventures",
+      "headline": "「マビノギモバイル」，10月7日に配信決定。エリンでの冒険を描いたオンラインRPG",
+      "description": "「マビノギモバイル」事前登録受付中！ほのぼの巡る、暮らしと冒険。スマートフォンとPCでもうすぐ登場！",
       "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/387/G038732/20260911038/",
+      "sourceUrl": "https://www.4gamer.net/games/387/G038732/20260917069/",
       "appleId": "6775403879",
+      "trackId": "6775403879",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
         "preorder": true,
         "releaseDate": "2026-10-07T07:00:00Z"
-      }
+      },
+      "announcedText": "10月7日に配信"
     },
     {
       "id": "392f7d4c6a21",
@@ -573,7 +433,8 @@
       "description": "avex pictures Inc.の「メイドインアビス〜度し難い不思議な旅〜」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「メイドインアビス〜度し難い不思議な旅〜」に似たゲームを見…",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/907/G090720/20260910043/",
-      "appleId": "6444006236"
+      "appleId": "6444006236",
+      "trackId": "6444006236"
     },
     {
       "id": "31657f85ed93",
@@ -597,26 +458,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%A9%E3%82%B0%E3%83%8A%E3%83%AD%E3%82%AF-%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA/id6765637031",
         "preorder": true,
         "releaseDate": "2026-10-30T07:00:00Z"
-      }
-    },
-    {
-      "id": "7ce0f28da9f3",
-      "title": "デイヴ・ザ・ダイバー",
-      "url": "https://www.mintrock.et/jp/game/game.php/",
-      "image": "https://www.mintrock.et/img/logo_img.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-09T00:00:00.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「デイヴ・ザ・ダイバー」の累計販売本数が1000万本を突破。9月17日にはスマホ版もリリース",
-      "description": "WE CRAFT BRAND-NEW FUN FOR THE GALAXY | MINTROCKETは宇宙一愉快で斬新なゲームを作るスタジオです",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/635/G063598/20260909031/",
-      "appleId": "6759962259"
+      },
+      "trackId": "6765637031"
     },
     {
       "id": "ceed964bd919",
@@ -640,7 +483,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%81%8F%E3%81%AB%E3%81%8A%E3%81%8F%E3%82%93%E3%81%AE%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA-%E3%82%AA%E3%83%96-%E3%82%B6-%E3%83%87%E3%83%83%E3%83%89/id6749604300",
         "preorder": true,
         "releaseDate": "2026-10-01T07:00:00Z"
-      }
+      },
+      "trackId": "6749604300"
     },
     {
       "id": "6964e1d57769",
@@ -664,7 +508,8 @@
         "url": "https://apps.apple.com/jp/app/%E7%99%BD%E9%8A%80%E3%81%AE%E5%9F%8E/id6758292278",
         "preorder": true,
         "releaseDate": "2027-01-31T08:00:00Z"
-      }
+      },
+      "trackId": "6758292278"
     },
     {
       "id": "b6f8b2b689cd",
@@ -688,7 +533,8 @@
         "url": "https://apps.apple.com/jp/app/bleach-mirrors-high-%E3%83%9F%E3%83%A9%E3%83%8F%E3%82%A4/id6747328897",
         "preorder": true,
         "releaseDate": "2026-11-28T08:00:00Z"
-      }
+      },
+      "trackId": "6747328897"
     },
     {
       "id": "08fade7d2b1f",
@@ -712,7 +558,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%9F%E3%83%AA%E3%82%A2/id6787982572",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6787982572"
     },
     {
       "id": "49957b1853a1",
@@ -736,7 +583,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%8E%E3%83%93nexus-%E9%96%83%E4%B9%B1%E3%82%AB%E3%82%B0%E3%83%A9-%E3%82%B7%E3%83%8E%E3%83%8D%E3%82%AF/id6569243522",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6569243522"
     },
     {
       "id": "ccbcbb12104b",
@@ -760,7 +608,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6760274605"
     },
     {
       "id": "44606bbc605d",
@@ -784,7 +633,8 @@
         "url": "https://apps.apple.com/jp/app/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92-%E3%81%93%E3%81%AE%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E8%A1%97%E3%81%AB%E7%B9%81%E6%A0%84%E3%82%92/id6783591351",
         "preorder": true,
         "releaseDate": "2026-12-31T08:00:00Z"
-      }
+      },
+      "trackId": "6783591351"
     },
     {
       "id": "2117b6e08e65",
@@ -808,7 +658,8 @@
         "url": "https://apps.apple.com/jp/app/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%81%B1%E3%81%9A%E3%81%8E%E3%82%8A/id6747331078",
         "preorder": true,
         "releaseDate": "2026-09-30T07:00:00Z"
-      }
+      },
+      "trackId": "6747331078"
     }
   ]
 }
