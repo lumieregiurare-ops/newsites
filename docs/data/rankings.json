@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:30:18.741Z",
+  "updatedAt": "2026-09-25T17:00:19.429Z",
   "boards": [
     {
       "id": "steam",
@@ -202,53 +202,53 @@
         },
         {
           "rank": 5,
-          "title": "バンドリ！アワーノーツ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/59/40/6a5940eb-57ea-4561-ef9e-17cf4e98e1aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
-          "metric": "Bushiroad Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 6,
           "title": "Colony Flow!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/4a/c0/944ac051-8f03-ef8b-8ec5-7eebf5b49f8b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
           "metric": "ABI GLOBAL LTD.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 6,
+          "title": "バンドリ！アワーノーツ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/59/40/6a5940eb-57ea-4561-ef9e-17cf4e98e1aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA-%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%84/id6771716739",
+          "metric": "Bushiroad Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 7,
-          "title": "アニモ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
-          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
           "title": "トップロード",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
+          "title": "アニモ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a8/2e/aba82e5b-5492-1e01-d677-634abedfa5e8/FPX_AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%83%8B%E3%83%A2/id6759098797",
+          "metric": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
