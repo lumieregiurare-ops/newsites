@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T08:00:17.811Z",
+  "updatedAt": "2026-09-25T08:30:22.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 405,
+  "total": 406,
   "regions": {
-    "jp": 346,
+    "jp": 347,
     "global": 59
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 70
+      "count": 71
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 91
+      "count": 92
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 86
+      "count": 87
     },
     {
       "id": "official",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 46
+      "count": 47
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0a34b3bade6e",
+      "url": "https://rpg.jp/",
+      "host": "rpg.jp",
+      "region": "jp",
+      "title": "オータムセール",
+      "headline": "アトラス,「オータムセール」をSteam，ニンテンドーeショップ，PS Storeで開催",
+      "description": "アトラス完全新作ファンタジーRPG『メタファー：リファンタジオ』公式サイト",
+      "publishedAt": "2026-09-25T08:12:46.000Z",
+      "addedAt": "2026-09-25T08:30:22.040Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/367/G036702/20260925026/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods",
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://rpg.jp/resources/img/ogp.jpg"
+    },
     {
       "id": "a7d25edb03ae",
       "url": "https://indietechgames.neoscorp.jp/sulfur/index.html",
