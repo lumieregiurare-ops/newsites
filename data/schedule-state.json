@@ -1266,6 +1266,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "WonderPaws": {
+      "at": "2026-09-25T04:30:30.652Z",
+      "entry": null
     }
   },
   "titles": {
@@ -16014,6 +16018,27 @@
       "sortKey": "2026-12-10",
       "prereg": false,
       "firstSeen": "2026-09-25T04:00:29.558Z"
+    },
+    "ae:archeologicalexpedition": {
+      "title": "AE: Archeological Expedition",
+      "dateText": "2026年9月28日",
+      "date": "2026-09-28",
+      "sortKey": "2026-09-28",
+      "prereg": false,
+      "firstSeen": "2026-09-25T04:30:30.476Z"
+    },
+    "launchcompanion": {
+      "title": "Launch Companion",
+      "dateText": "2026年9月28日",
+      "date": "2026-09-28",
+      "sortKey": "2026-09-28",
+      "prereg": false,
+      "firstSeen": "2026-09-25T04:30:30.476Z"
+    },
+    "wonderpaws": {
+      "title": "WonderPaws",
+      "prereg": true,
+      "firstSeen": "2026-09-25T04:30:30.476Z"
     }
   },
   "changeLog": [
@@ -18743,6 +18768,18 @@
       "image": "https://www.atrain.jp/title/a9pl/ogp.jpg",
       "platforms": [],
       "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-09-25T04:30:30.476Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "WonderPaws",
+      "url": "https://www.wonderpawsgame.com/",
+      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

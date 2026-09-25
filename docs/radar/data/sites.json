@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T04:00:16.521Z",
+  "updatedAt": "2026-09-25T04:30:18.212Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 397,
+  "total": 399,
   "regions": {
-    "jp": 340,
-    "global": 57
+    "jp": 341,
+    "global": 58
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 52
+      "count": 53
     },
     {
       "id": "anniversary",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 85
+      "count": 86
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 123
+      "count": 124
     },
     {
       "id": "browser",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "Game*Spark",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8fd209060525",
+      "url": "https://www.wonderpawsgame.com/",
+      "host": "wonderpawsgame.com",
+      "region": "jp",
+      "title": "WonderPaws",
+      "headline": "人間も動物たちもハッピーな世界が魅力の大都市ライフシム『WonderPaws』発表！アイドルになってもいいし市長でもいい、小さな動物に変身してお世話してもらうことも",
+      "description": "Welcome to Paw City, Where Wonder Begins! Pre-register now for WonderPaws, a Cozy Paw City Life Sim where every day bri…",
+      "publishedAt": "2026-09-25T04:15:03.000Z",
+      "addedAt": "2026-09-25T04:30:18.212Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/25/172749.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png"
+    },
     {
       "id": "1a4f5a7a2724",
       "url": "https://www.atrain.jp/title/a9pl/",
@@ -1327,7 +1355,7 @@
       "region": "jp",
       "title": "楽園追放",
       "headline": "『楽園追放』シリーズ初のSFビジュアルノベル『楽園追放 -The Stellar Angel-』新キャラ「アラディア（CV:櫻井浩美）」「ナアマ（CV:榊原ゆい）」が初公開",
-      "description": "『楽園追放 The Stellar Angel』公式サイト。Nintendo Switch、Steamで2026年冬発売予定。",
+      "description": "『楽園追放 The Stellar Angel』公式サイト。Nintendo Switch、Steamで2026年11月26日冬発売予定。",
       "publishedAt": "2026-09-24T03:00:27.000Z",
       "addedAt": "2026-09-24T04:00:17.082Z",
       "source": "電ファミニコゲーマー",
@@ -1353,7 +1381,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.rakuen-tsuiho.com/share/images/og.jpg"
+      "image": "https://game.rakuen-tsuiho.com/share/images/og_2.jpg"
     },
     {
       "id": "374fc0c3061a",
@@ -1621,6 +1649,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/978/G097828/20260924011/"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/25/game/3114192.php"
         }
       ],
       "tags": [
@@ -11882,6 +11914,37 @@
         "iOS",
         "アドベンチャー",
         "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "3adad743fb23",
+      "url": "https://ladaneta.com/",
+      "host": "ladaneta.com",
+      "region": "global",
+      "title": "Cutie Sort - かわいい色分けゲーム",
+      "headline": "Ladaneta Games / ゲーム · App Store 新着",
+      "description": "Ladaneta Games / ゲーム · App Store 新着",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "addedAt": "2026-09-25T04:30:18.212Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6796547048"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
       ],
       "categories": [
         "goods"

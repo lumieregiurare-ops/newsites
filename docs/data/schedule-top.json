@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:00:29.558Z",
+  "updatedAt": "2026-09-25T04:30:30.476Z",
   "platforms": [
     {
       "id": "switch",
@@ -268,6 +268,26 @@
   ],
   "prereg": [
     {
+      "id": "8fd209060525",
+      "title": "WonderPaws",
+      "url": "https://www.wonderpawsgame.com/",
+      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-25T04:15:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "人間も動物たちもハッピーな世界が魅力の大都市ライフシム『WonderPaws』発表！アイドルになってもいいし市長でもいい、小さな動物に変身してお世話してもらうことも",
+      "description": "Welcome to Paw City, Where Wonder Begins! Pre-register now for WonderPaws, a Cozy Paw City Life Sim where every day bri…",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/25/172749.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "9096a365f36c",
       "title": "AVA",
       "url": "https://ava.pmang.jp/thanks/comment",
@@ -435,34 +455,21 @@
       "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2c4c7cb70f1",
-      "title": "雨のちハレ女",
-      "url": "https://www.hare-onna.jp/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-15T05:58:04.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "description": "ゲームフリークの新作モバイルゲーム「雨のちハレ女」，事前登録受付を開始。公式サイトをオープンし「ハレ女」たちを紹介",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20260915016/",
-      "appleId": "6760698900",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6760698900",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6760698900"
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-25T04:30:30.476Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "WonderPaws",
+      "url": "https://www.wonderpawsgame.com/",
+      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-09-25T04:00:29.558Z",
       "type": "new",
@@ -519,16 +526,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-09-24T10:00:34.922Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ポケモン",
-      "url": "https://www.pokemon.jp/special/nhkso-pokemon2026/",
-      "image": "https://www.pokemon.jp/special/nhkso-pokemon2026/assets/img/og.jpg",
-      "platforms": [],
-      "to": "2026年10月5日"
     }
   ]
 }
