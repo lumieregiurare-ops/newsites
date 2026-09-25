@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T02:30:18.821Z",
+  "updatedAt": "2026-09-25T03:00:15.602Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 395,
+  "total": 396,
   "regions": {
-    "jp": 338,
+    "jp": 339,
     "global": 57
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 115
+      "count": 116
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8b1f00afc6e3",
+      "url": "https://www.shochiku.co.jp/dvd/returntosilenthillmovie/",
+      "host": "shochiku.co.jp",
+      "region": "jp",
+      "title": "リターン・トゥ・サイレントヒル",
+      "headline": "映画『リターン・トゥ・サイレントヒル』のBlu-rayが12月23日に発売決定。『SILENT HILL 2』を原作とするサイコロジカルホラー映画",
+      "description": "伝説のホラーゲーム『SILENT HILL 2』完全実写映画化。クリストフ・ガンズ監督が放つ戦慄のサイコロジカルホラー『リターン・トゥ・サイレントヒル（RETURN TO SILENT HILL）』公式サイト。2026年5月15日(金)よ…",
+      "publishedAt": "2026-09-25T02:46:00.000Z",
+      "addedAt": "2026-09-25T03:00:15.602Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260925t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.shochiku.co.jp/dvd/returntosilenthillmovie/ogp.jpg"
+    },
     {
       "id": "dac31834d5cb",
       "url": "https://apps.apple.com/jp/app/id6789032656",
