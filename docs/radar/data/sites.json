@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T04:30:18.212Z",
+  "updatedAt": "2026-09-25T05:00:51.586Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 399,
+  "total": 401,
   "regions": {
-    "jp": 341,
-    "global": 58
+    "jp": 342,
+    "global": 59
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 53
+      "count": 54
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 90
+      "count": 91
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 117
+      "count": 118
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "AppBank",
     "App Store",
     "Inside",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c6c8f627a746",
+      "url": "http://www.nvidia.com/",
+      "host": "nvidia.com",
+      "region": "global",
+      "title": "CONTROL Resonant",
+      "headline": "「CONTROL Resonant」や「ウィッチャー3」リマスター版などに対応する「GeForce 617.14 Driver」リリース",
+      "description": "We create the world’s fastest supercomputer and largest gaming platform.",
+      "publishedAt": "2026-09-25T04:47:24.000Z",
+      "addedAt": "2026-09-25T05:00:51.586Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/022/G002210/20260925009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/sfg/nvidia-corporate-og-image-1200x630.jpg"
+    },
+    {
+      "id": "501f5d92a8d0",
+      "url": "https://rocokingdom.com/web/ja/",
+      "host": "rocokingdom.com",
+      "region": "jp",
+      "title": "Roco Kingdom",
+      "headline": "オープンワールドモンスター育成RPG『Roco Kingdom』鬼頭明里さんや日笠陽子さんら出演決定！KENNさん、相羽あいなさん登壇イベントにて発表",
+      "description": "『Roco Kingdom』は、オープンワールド・モンスター収集RPGの新たな進化形です。プレイヤーはロコとなって旅に出て、カロシア大陸に生息するジニたちと出会います。 生命力あふれるこの世界を探索し、400種以上の個性豊かなジニと出会う…",
+      "publishedAt": "2026-09-25T04:33:33.000Z",
+      "addedAt": "2026-09-25T05:00:51.586Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260925r"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://rocokingdom.com/share/img/ja.png"
+    },
     {
       "id": "8fd209060525",
       "url": "https://www.wonderpawsgame.com/",

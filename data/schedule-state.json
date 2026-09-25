@@ -1270,6 +1270,10 @@
     "WonderPaws": {
       "at": "2026-09-25T04:30:30.652Z",
       "entry": null
+    },
+    "Roco Kingdom": {
+      "at": "2026-09-25T05:01:06.735Z",
+      "entry": null
     }
   },
   "titles": {
@@ -2619,9 +2623,9 @@
     },
     "dinobones:tidyupthemuseum": {
       "title": "DinoBones: Tidy Up the Museum",
-      "dateText": "2026年9月22日",
-      "date": "2026-09-22",
-      "sortKey": "2026-09-22",
+      "dateText": "2026年9月25日",
+      "date": "2026-09-25",
+      "sortKey": "2026-09-25",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -16039,6 +16043,11 @@
       "title": "WonderPaws",
       "prereg": true,
       "firstSeen": "2026-09-25T04:30:30.476Z"
+    },
+    "rocokingdom": {
+      "title": "Roco Kingdom",
+      "prereg": true,
+      "firstSeen": "2026-09-25T05:01:06.598Z"
     }
   },
   "changeLog": [
@@ -18776,6 +18785,18 @@
       "title": "WonderPaws",
       "url": "https://www.wonderpawsgame.com/",
       "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-25T05:01:06.598Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Roco Kingdom",
+      "url": "https://rocokingdom.com/web/ja/",
+      "image": "https://rocokingdom.com/share/img/ja.png",
       "platforms": [
         "mobile"
       ],
