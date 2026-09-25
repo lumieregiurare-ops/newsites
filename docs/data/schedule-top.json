@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T03:30:26.922Z",
+  "updatedAt": "2026-09-25T04:00:29.558Z",
   "platforms": [
     {
       "id": "switch",
@@ -219,6 +219,21 @@
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
     },
     {
+      "id": "9619d7b9b5f7",
+      "title": "A列車で行こう9 PRIME LINE",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.atrain.jp/title/a9pl/",
+      "image": "https://www.atrain.jp/title/a9pl/ogp.jpg",
+      "maker": "",
+      "headline": "「A列車で行こう9 PRIME LINE」，12月10日発売。自由な曲率の線路や最大16両編成，カーブ駅など大幅進化を遂げたA9最新作",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/045/G104504/20260925006/"
+    },
+    {
       "id": "aefe8531cc92",
       "title": "エッジ オブ メモリーズ",
       "date": "2026-12-10",
@@ -249,23 +264,6 @@
       "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
-    },
-    {
-      "id": "ce2a827c6bbc",
-      "title": "大穢",
-      "date": "2026-12-24",
-      "dateText": "2026年12月24日",
-      "sortKey": "2026-12-24",
-      "priority": 0,
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://dramaticcreate.com/owen/",
-      "image": "https://dramaticcreate.com/owen/ooe_ja.jpg",
-      "maker": "",
-      "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
     }
   ],
   "prereg": [
@@ -466,6 +464,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-25T04:00:29.558Z",
+      "type": "new",
+      "label": "新規",
+      "title": "A列車で行こう9 PRIME LINE",
+      "url": "https://www.atrain.jp/title/a9pl/",
+      "image": "https://www.atrain.jp/title/a9pl/ogp.jpg",
+      "platforms": [],
+      "to": "2026年12月10日"
+    },
+    {
       "at": "2026-09-25T02:00:28.702Z",
       "type": "new",
       "label": "新規",
@@ -521,19 +529,6 @@
       "image": "https://www.pokemon.jp/special/nhkso-pokemon2026/assets/img/og.jpg",
       "platforms": [],
       "to": "2026年10月5日"
-    },
-    {
-      "at": "2026-09-24T09:00:35.686Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "レイマン レジェンド リトールド",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000111544",
-      "image": "https://img-eshop.cdn.nintendo.net/i/09587ce210bb05e909edd439de0584e2f7d89f4829d1da37c515101fa7807ee2.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026年10月1日",
-      "to": "2026年12月3日"
     }
   ]
 }

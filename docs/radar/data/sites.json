@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T03:30:16.819Z",
+  "updatedAt": "2026-09-25T04:00:16.521Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 396,
+  "total": 397,
   "regions": {
-    "jp": 339,
+    "jp": 340,
     "global": 57
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 116
+      "count": 117
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "App Store",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1a4f5a7a2724",
+      "url": "https://www.atrain.jp/title/a9pl/",
+      "host": "atrain.jp",
+      "region": "jp",
+      "title": "A列車で行こう9 PRIME LINE",
+      "headline": "「A列車で行こう9 PRIME LINE」，12月10日発売。自由な曲率の線路や最大16両編成，カーブ駅など大幅進化を遂げたA9最新作",
+      "description": "日本全国の列車を走らせ、リアルな都市開発を描くリアルタイムシミュレーションの定番「A列車で行こう9」が進化の先へ！300を超える実在車両と充実の機能はそのままに、景観表現が進化し、線路の自由度は増し、街を眺める歓びはさらに深まります。",
+      "publishedAt": "2026-09-25T03:58:52.000Z",
+      "addedAt": "2026-09-25T04:00:16.521Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/045/G104504/20260925006/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/25/172748.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.atrain.jp/title/a9pl/ogp.jpg"
+    },
     {
       "id": "8b1f00afc6e3",
       "url": "https://www.shochiku.co.jp/dvd/returntosilenthillmovie/",
