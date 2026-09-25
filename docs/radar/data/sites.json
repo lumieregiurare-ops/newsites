@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T07:00:24.559Z",
+  "updatedAt": "2026-09-25T07:30:19.130Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 403,
+  "total": 405,
   "regions": {
-    "jp": 344,
+    "jp": 346,
     "global": 59
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 54
+      "count": 56
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 69
+      "count": 70
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 119
+      "count": 120
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 19
+      "count": 20
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 16
+      "count": 17
     },
     {
       "id": "xbox",
@@ -132,6 +132,67 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a7d25edb03ae",
+      "url": "https://indietechgames.neoscorp.jp/sulfur/index.html",
+      "host": "indietechgames.neoscorp.jp",
+      "region": "jp",
+      "title": "SULFUR",
+      "headline": "死んだら“全ロス”するアクションゲーム『SULFUR』Nintendo Switch、PS5向けパッケージ版が2027年3月11日に発売。全国の販売店にて本日9月25日より予約開始",
+      "description": "敵を出し抜き、宝を手に入れ、武器を強くしながら進むアクションアドベンチャーのインディゲーム『サルファー（SULFUR）』。世界をくまなく探索し、物語の結末へとたどり着こう。",
+      "publishedAt": "2026-09-25T07:17:06.000Z",
+      "addedAt": "2026-09-25T07:30:19.130Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609252l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "ps"
+      ],
+      "points": null,
+      "image": "https://indietechgames.neoscorp.jp/sulfur/images/ogp.jpg"
+    },
+    {
+      "id": "2e5b52d8b4cb",
+      "url": "https://avarebirth.pmang.jp/",
+      "host": "avarebirth.pmang.jp",
+      "region": "jp",
+      "title": "AVA",
+      "headline": "無料オンラインFPS『AVA』の続編『AVA RE:BIRTH』の事前登録とCBT募集が開始。新トレーラーや「キャラクター名先行取得キャンペーン」も解禁",
+      "description": "基本プレイ無料オンラインFPSゲーム「AVA RE:BIRTH」",
+      "publishedAt": "2026-09-25T07:05:44.000Z",
+      "addedAt": "2026-09-25T07:30:19.130Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609252k"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "事前登録"
+      ],
+      "categories": [
+        "campaign",
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg"
+    },
     {
       "id": "a1190e19c51b",
       "url": "https://heroaca.com/",
