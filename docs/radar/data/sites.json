@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T11:00:19.199Z",
+  "updatedAt": "2026-09-25T11:30:19.104Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 413,
+  "total": 415,
   "regions": {
     "jp": 353,
-    "global": 60
+    "global": 62
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 121
+      "count": 122
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 90
+      "count": 91
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 126
+      "count": 127
     },
     {
       "id": "browser",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e18ba1e475f3",
+      "url": "https://nightdivestudios.com/",
+      "host": "nightdivestudios.com",
+      "region": "global",
+      "title": "SiN Reloaded",
+      "headline": "名作レトロFPSのフルリマスター版「SiN Reloaded」配信開始。FPSジャンルの黎明期にあたる1998年に登場したゲームが最新グラフィックスで蘇る",
+      "description": "名作レトロFPSのフルリマスター版「SiN Reloaded」配信開始。FPSジャンルの黎明期にあたる1998年に登場したゲームが最新グラフィックスで蘇る",
+      "publishedAt": "2026-09-25T11:24:28.000Z",
+      "addedAt": "2026-09-25T11:30:19.104Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/045/G104542/20260925045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "451e5e7ea86d",
       "url": "https://nolawthegame.com/",
@@ -7660,6 +7687,39 @@
         "release"
       ],
       "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "1fef999b6d04",
+      "url": "https://www.thqnordicmobile.com/games/disney-epic-mickey-rebrushed/",
+      "host": "thqnordicmobile.com",
+      "region": "global",
+      "title": "Disney Epic Mickey: Rebrushed",
+      "headline": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
+      "description": "Disney Epic Mickey: Rebrushed brings Disney magic to life in a vibrant 3D platformer. Use paint and thinner to shape Mi…",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "addedAt": "2026-09-25T11:30:19.104Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6780501808"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
