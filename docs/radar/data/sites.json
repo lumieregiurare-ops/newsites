@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T02:00:18.493Z",
+  "updatedAt": "2026-09-25T02:30:18.821Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 122
+      "count": 123
     },
     {
       "id": "browser",
@@ -181,16 +181,24 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260925p"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/25/172737.html"
         }
       ],
       "tags": [
         "ゲーム",
-        "周年"
+        "周年",
+        "iOS",
+        "スマホ"
       ],
       "categories": [
         "anniversary"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": "https://www.konami.com/games/castlevania/s/img/sns_castlevania.jpg"
     },
