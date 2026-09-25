@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T06:00:16.806Z",
+  "updatedAt": "2026-09-25T06:30:15.007Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 402,
+  "total": 403,
   "regions": {
-    "jp": 343,
+    "jp": 344,
     "global": 59
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 68
+      "count": 69
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 118
+      "count": 119
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a1190e19c51b",
+      "url": "https://heroaca.com/",
+      "host": "heroaca.com",
+      "region": "jp",
+      "title": "ヒロアカ",
+      "headline": "アニメ『ヒロアカ』と日清「どん兵衛」「焼そばU.F.O.」とのコラボが決定。総勢50人のキャラでデザインした、全33種の限定パッケージが発売",
+      "description": "アニメ『ヒロアカ』と日清「どん兵衛」「焼そばU.F.O.」とのコラボが決定。総勢50人のキャラでデザインした、全33種の限定パッケージが発売",
+      "publishedAt": "2026-09-25T06:02:27.000Z",
+      "addedAt": "2026-09-25T06:30:15.007Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609252i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "aeea0a586370",
       "url": "https://www.marathonthegame.com/ja/",
