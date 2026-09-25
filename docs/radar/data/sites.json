@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-25T09:30:21.511Z",
+  "updatedAt": "2026-09-25T10:00:19.307Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 406,
+  "total": 411,
   "regions": {
-    "jp": 347,
+    "jp": 352,
     "global": 59
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 16
+      "count": 18
     },
     {
       "id": "prereg",
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 40
+      "count": 41
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 71
+      "count": 73
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 92
+      "count": 93
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 120
+      "count": 121
     },
     {
       "id": "indie",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 87
+      "count": 90
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 73
+      "count": 74
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 47
+      "count": 48
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 124
+      "count": 125
     },
     {
       "id": "browser",
@@ -123,8 +123,8 @@
   "sources": [
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
+    "Game*Spark",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,155 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d40e65464e85",
+      "url": "https://www.minecraft.net/ja-jp",
+      "host": "minecraft.net",
+      "region": "jp",
+      "title": "マインクラフトライブ",
+      "headline": "「マインクラフトライブ」，9月27日2：00に配信。新作ゲームの発表や開発者による裏話などを予定",
+      "description": "Minecraft 公式サイトでは、新しいゲーム、アクセサリー、グッズをご紹介しています。ゲームの購入とダウンロードはこちらです。最新情報はサイトをご覧ください。",
+      "publishedAt": "2026-09-25T09:49:10.000Z",
+      "addedAt": "2026-09-25T10:00:19.307Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/126/G012627/20260925037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg"
+    },
+    {
+      "id": "e86fe3c5350f",
+      "url": "https://www.konami.com/games/girls_side/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "ときめきメモリアル Girl’s Side",
+      "headline": "『ときめきメモリアル Girl’s Side』が「サンシャイン60展望台 てんぼうパーク」とコラボ。限定グッズやコラボメニューなど展開",
+      "description": "女の子向け恋愛シミュレーションゲーム「ときめきメモリアルGirl",
+      "publishedAt": "2026-09-25T09:45:29.000Z",
+      "addedAt": "2026-09-25T10:00:19.307Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609253b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/girls_side/common/img/common/ogp_top.png"
+    },
+    {
+      "id": "57815c6179d9",
+      "url": "https://pokapoka0802.wixsite.com/tunousaginoie82",
+      "host": "pokapoka0802.wixsite.com",
+      "region": "jp",
+      "title": "無慈悲な笑顔Re",
+      "headline": "高評価フリーゲームのリメイク『無慈悲な笑顔Re』Steamストアページが公開。神様と少女達の悲劇が描かれたシリアスなストーリー",
+      "description": "高評価フリーゲームのリメイク『無慈悲な笑顔Re』Steamストアページが公開。神様と少女達の悲劇が描かれたシリアスなストーリー",
+      "publishedAt": "2026-09-25T09:36:56.000Z",
+      "addedAt": "2026-09-25T10:00:19.307Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609252x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "5bc934cca813",
+      "url": "https://gundam-official.com/gundam-x/campaign/",
+      "host": "gundam-official.com",
+      "region": "jp",
+      "title": "機動新世紀ガンダムX",
+      "headline": "『機動新世紀ガンダムX』30周年記念キービジュアルが公開。最終話のタイトル「月はいつもそこにある」にちなみ、中秋の名月にあわせたお披露目に。西村誠芳氏と石垣純哉氏による描き下ろし",
+      "description": "『機動新世紀ガンダムX』30周年を記念して、「ガンダムXはいつもそこにある」2大企画が始動！39話分の名シーンが全国各地に登場＆SNSキャンペーンを開催！",
+      "publishedAt": "2026-09-25T09:07:48.000Z",
+      "addedAt": "2026-09-25T10:00:19.307Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609253a"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "teaser",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gundam-official.com/gundam-x/assets/img/campaign/ogp.jpg"
+    },
+    {
+      "id": "ba13da910af4",
+      "url": "https://apps.apple.com/jp/app/id6805045227",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "LITTLE PANTRY",
+      "headline": "きつねと暮らす放置型ゲーム『LITTLE PANTRY』配信開始！ 食材集めはあなた、料理はきつね任せの新生活",
+      "description": "Ciagramの「LITTLE PANTRY」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「LITTLE PANTRY」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-25T09:05:00.000Z",
+      "addedAt": "2026-09-25T10:00:19.307Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/25/game/3114415.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/b3/aa/49b3aa5b-d79a-40df-f4b9-328c650b04ab/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "0a34b3bade6e",
       "url": "https://rpg.jp/",
@@ -325,6 +474,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/25/188249.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/25/172765.html"
         }
       ],
       "tags": [
@@ -11347,7 +11500,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/05/4f/1f054fea-df82-7bbf-2739-8b02d4b2cc20/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/70/37/fa703767-4701-c8df-2d5d-7460733ff31e/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "7ce0f28da9f3",
@@ -11797,7 +11950,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/0c/ed/900ced68-79cc-c451-0a6a-2d7186a87b8a/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/de/82/81de82a1-a2cc-d4f8-04e9-2a60b38fb276/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b6f8b2b689cd",
