@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T10:30:19.933Z",
+  "updatedAt": "2026-09-25T11:00:19.199Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 411,
+  "total": 413,
   "regions": {
-    "jp": 352,
-    "global": 59
+    "jp": 353,
+    "global": 60
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 73
+      "count": 74
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 93
+      "count": 94
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 74
+      "count": 75
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 125
+      "count": 126
     },
     {
       "id": "browser",
@@ -132,6 +132,66 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "451e5e7ea86d",
+      "url": "https://nolawthegame.com/",
+      "host": "nolawthegame.com",
+      "region": "global",
+      "title": "NO LAW",
+      "headline": "サイバーノワールシューター「NO LAW」，ゲームの自由度の高さにフォーカスした開発者動画を公開",
+      "description": "NO LAW is an immersive first-person shooter sets you on a personal vendetta where your choices impact both gameplay and…",
+      "publishedAt": "2026-09-25T10:52:16.000Z",
+      "addedAt": "2026-09-25T11:00:19.199Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/968/G096874/20260925042/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wstatic-prod.nolawthegame.com/web/live/static/og/og.png"
+    },
+    {
+      "id": "325395719b22",
+      "url": "https://granbluefantasy.jp/",
+      "host": "granbluefantasy.jp",
+      "region": "jp",
+      "title": "グラブルフェス2026",
+      "headline": "グラブルの大型オフラインイベント「グラブルフェス2026」の公式サイトが公開に。各種チケットの先行抽選受付は9月26日12：00にスタート",
+      "description": "空の彼方、約束の地へ− 想像を超えるクオリティではじまる本格RPG『グランブルーファンタジー』の公式サイトです。",
+      "publishedAt": "2026-09-25T10:32:51.000Z",
+      "addedAt": "2026-09-25T11:00:19.199Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/238/G023885/20260925039/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://granbluefantasy.com/og/img/path/ogp.png"
+    },
     {
       "id": "d40e65464e85",
       "url": "https://www.minecraft.net/ja-jp",
@@ -478,6 +538,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/25/172765.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/640/G064053/20260925041/"
         }
       ],
       "tags": [
