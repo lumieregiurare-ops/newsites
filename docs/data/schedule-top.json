@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T15:00:28.459Z",
+  "updatedAt": "2026-09-25T15:30:29.448Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "2b5bfde34742",
+      "title": "ウィッチャー3 ワイルドハント リマスター",
+      "date": "2026-09-29",
+      "dateText": "2026年9月29日",
+      "sortKey": "2026-09-29",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.thewitcher.com/jp/ja/buy",
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg",
+      "maker": "",
+      "headline": "外見変更機能が追加！9月29日リリース『ウィッチャー3 ワイルドハント リマスター』装備の性能はそのまま、お気に入りの衣装で冒険に出られる",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/26/172777.html"
+    },
     {
       "id": "ff997bd30a22",
       "title": "イケアがXBOXとコラボした家具を10月1日より順次発売",
@@ -249,21 +264,6 @@
       "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
-    },
-    {
-      "id": "64b5a2a0affb",
-      "title": "ポケットモンスター",
-      "date": "2026-12-18",
-      "dateText": "2026年12月18日",
-      "sortKey": "2026-12-18",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.pokemon.co.jp/ex/legends_z-a/ja/",
-      "image": "https://www.pokemon.co.jp/ex/legends_z-a/assets/og/ja/og.jpg",
-      "maker": "",
-      "headline": "「ポケットモンスター」シリーズ30周年を記念した画集が12月18日に発売。カバーデザインを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/897/G089789/20260915025/"
     }
   ],
   "prereg": [
@@ -458,6 +458,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-25T15:30:29.448Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ウィッチャー3 ワイルドハント リマスター",
+      "url": "https://www.thewitcher.com/jp/ja/buy",
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg",
+      "platforms": [],
+      "to": "2026年9月29日"
+    },
+    {
       "at": "2026-09-25T05:01:06.598Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -512,19 +522,6 @@
       "image": "https://hytale.com/images/logo.webp",
       "platforms": [],
       "to": "2026年10月12日"
-    },
-    {
-      "at": "2026-09-24T15:00:33.258Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "真・三國無双２ with 猛将伝 Remastered",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000105790",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fbde2172f19eb9f063524c6a4082a608ff1d135bf8cb9a2d5cf585162a6bfa16.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026年9月24日",
-      "to": "2026年10月1日"
     }
   ]
 }

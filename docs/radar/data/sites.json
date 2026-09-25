@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T15:00:16.268Z",
+  "updatedAt": "2026-09-25T15:30:16.520Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 419,
+  "total": 420,
   "regions": {
-    "jp": 356,
+    "jp": 357,
     "global": 63
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 124
+      "count": 125
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a182fd02c834",
+      "url": "https://www.thewitcher.com/jp/ja/buy",
+      "host": "thewitcher.com",
+      "region": "jp",
+      "title": "ウィッチャー3 ワイルドハント リマスター",
+      "headline": "外見変更機能が追加！9月29日リリース『ウィッチャー3 ワイルドハント リマスター』装備の性能はそのまま、お気に入りの衣装で冒険に出られる",
+      "description": "ウィッチャーの世界 | アクションアドベンチャーRPG",
+      "publishedAt": "2026-09-25T15:25:48.000Z",
+      "addedAt": "2026-09-25T15:30:16.520Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/26/172777.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg"
+    },
     {
       "id": "723d6f87565c",
       "url": "https://shutoko-battle-jp.genki.co.jp/",
