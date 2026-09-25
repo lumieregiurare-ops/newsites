@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-25T21:30:16.851Z",
+  "updatedAt": "2026-09-25T22:00:15.405Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 433,
+  "total": 434,
   "regions": {
-    "jp": 362,
+    "jp": 363,
     "global": 71
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 18
+      "count": 19
     },
     {
       "id": "prereg",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ef6968922ec0",
+      "url": "https://geass.jp/aspal/",
+      "host": "geass.jp",
+      "region": "jp",
+      "title": "コードギアス 星追いのアスパル",
+      "headline": "新作アニメ『コードギアス 星追いのアスパル』弓矢飛び交う戦場や、巨大ロボらしき存在が戦うティザー映像が公開。2027年に放送へ",
+      "description": "コードギアスシリーズアニメーション最新作「コードギアス 星追いのアスパル」のアニメ公式サイト。",
+      "publishedAt": "2026-09-25T21:30:37.000Z",
+      "addedAt": "2026-09-25T22:00:15.405Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260926b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://geass.jp/aspal/assets/images/ogp.jpg?v=2"
+    },
     {
       "id": "12929de02a90",
       "url": "https://minigame-26c39.web.app/info.html",
