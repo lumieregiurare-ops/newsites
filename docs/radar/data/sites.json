@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T01:00:17.388Z",
+  "updatedAt": "2026-09-25T01:30:21.604Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 392,
+  "total": 393,
   "regions": {
-    "jp": 335,
+    "jp": 336,
     "global": 57
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 38
+      "count": 39
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 65
+      "count": 66
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 89
+      "count": 90
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "94b473107409",
+      "url": "https://www.promax.co.jp/zelda40thconcert/",
+      "host": "promax.co.jp",
+      "region": "jp",
+      "title": "ゼルダの伝説 40周年コンサート",
+      "headline": "「ゼルダの伝説 40周年コンサート」，チケットのオフィシャル最速先行（抽選）の受付が開始に。出演者情報も解禁",
+      "description": "「ゼルダの伝説40周年コンサート」THE LEGEND OF ZELDA 40TH ANNIVERSARY CONCERT オフィシャルサイト。全国5都市で開催いたします。",
+      "publishedAt": "2026-09-25T01:00:00.000Z",
+      "addedAt": "2026-09-25T01:30:21.604Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/015/G101542/20260924063/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.promax.co.jp/zelda40thconcert/assets/img/ogp.jpg"
+    },
     {
       "id": "3e48a83f7b90",
       "url": "https://apps.apple.com/jp/app/id6803503672",
