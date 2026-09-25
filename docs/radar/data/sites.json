@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T01:30:21.604Z",
+  "updatedAt": "2026-09-25T02:00:18.493Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 393,
+  "total": 395,
   "regions": {
-    "jp": 336,
+    "jp": 338,
     "global": 57
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 39
+      "count": 40
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 66
+      "count": 67
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 114
+      "count": 115
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 22
+      "count": 23
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 121
+      "count": 122
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
-    "電ファミニコゲーマー",
-    "AppBank",
     "Game*Spark",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,68 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "dac31834d5cb",
+      "url": "https://apps.apple.com/jp/app/id6789032656",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "NAMCO LEGENDARY Mountains",
+      "headline": "「NAMCO LEGENDARY Mountains」スマホ版配信開始！ 10月7日まで10％OFFセールも",
+      "description": "BeXide Inc.の「NAMCO LEGENDARY Mountains」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「NAMCO LEGENDARY Mountains」に似た…",
+      "publishedAt": "2026-09-25T01:45:00.000Z",
+      "addedAt": "2026-09-25T02:00:18.493Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/25/game/3114023.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/96/c9/1596c977-2eeb-1d4f-c912-1aaaafd026e6/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "5b3aa3bdd2e8",
+      "url": "https://www.konami.com/games/castlevania/jp/ja/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "悪魔城ドラキュラ",
+      "headline": "【無料】初代『悪魔城ドラキュラ』アプリ版が期間限定で無料配信！シリーズ40周年を記念した施策が続々発表",
+      "description": "KONAMIのアクションゲーム「Castlevania」シリーズの情報をお届けするポータルサイトです。",
+      "publishedAt": "2026-09-25T01:16:26.000Z",
+      "addedAt": "2026-09-25T02:00:18.493Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260925p"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/castlevania/s/img/sns_castlevania.jpg"
+    },
     {
       "id": "94b473107409",
       "url": "https://www.promax.co.jp/zelda40thconcert/",
@@ -11820,6 +11882,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/24/172712.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/25/188223.html"
         }
       ],
       "tags": [

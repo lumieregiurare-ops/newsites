@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T01:30:32.430Z",
+  "updatedAt": "2026-09-25T02:00:28.702Z",
   "platforms": [
     {
       "id": "switch",
@@ -88,6 +88,23 @@
       "headline": "【無料】『ポケモン』×「NHK交響楽団」クラシックコンサートツアーがYouTubeで配信決定。10月5日19時よりプレミア公開",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/2609242x"
+    },
+    {
+      "id": "a7846970cbe2",
+      "title": "NAMCO LEGENDARY Mountains",
+      "date": "2026-10-07",
+      "dateText": "2026年10月7日",
+      "sortKey": "2026-10-07",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6789032656",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/96/c9/1596c977-2eeb-1d4f-c912-1aaaafd026e6/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "「NAMCO LEGENDARY Mountains」スマホ版配信開始！ 10月7日まで10％OFFセールも",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/09/25/game/3114023.php"
     },
     {
       "id": "5d91a8ff9171",
@@ -249,21 +266,6 @@
       "headline": "Nintendo Switch版『大穢』の発売日が12月24日に決定。「日出」のキャラクターボイスは村瀬歩さんに",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/2609172m"
-    },
-    {
-      "id": "0c0a1032d68d",
-      "title": "ゴールデンカムイ",
-      "date": "2026-12-25",
-      "dateText": "2026年12月25日",
-      "sortKey": "2026-12-25",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://shueisha-games.com/games/goldenkamuy/",
-      "image": "https://shueisha-games.com/wp-content/uploads/2026/08/96958e5649384934530ecfec1480bb82-1200x675.png",
-      "maker": "",
-      "headline": "『ゴールデンカムイ』と『ウミガメのスープ』がコラボ。『ゴールデンカムイ ヒグマのスープ』12月25日に発売",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260918n"
     }
   ],
   "prereg": [
@@ -464,6 +466,18 @@
   ],
   "changes": [
     {
+      "at": "2026-09-25T02:00:28.702Z",
+      "type": "new",
+      "label": "新規",
+      "title": "NAMCO LEGENDARY Mountains",
+      "url": "https://apps.apple.com/jp/app/id6789032656",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/96/c9/1596c977-2eeb-1d4f-c912-1aaaafd026e6/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月7日"
+    },
+    {
       "at": "2026-09-24T22:30:29.833Z",
       "type": "new",
       "label": "新規",
@@ -520,18 +534,6 @@
       ],
       "from": "2026年10月1日",
       "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-09-24T07:00:30.628Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "url": "https://galast.net/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年11月2日"
     }
   ]
 }
