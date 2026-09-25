@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-25T05:30:25.916Z",
+  "updatedAt": "2026-09-25T06:00:16.806Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 401,
+  "total": 402,
   "regions": {
-    "jp": 342,
+    "jp": 343,
     "global": 59
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 72
+      "count": 73
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "aeea0a586370",
+      "url": "https://www.marathonthegame.com/ja/",
+      "host": "marathonthegame.com",
+      "region": "jp",
+      "title": "Marathon",
+      "headline": "「Marathon」が開発方針を大幅変更。シーズン制を見直し，常設PvEや新シェル「Bishop」など2027年前半までのロードマップを公開",
+      "description": "『Halo』と『Destiny』を開発したBungieが手がける、新しいチーム制の脱出シューター『Marathon』。",
+      "publishedAt": "2026-09-25T05:54:50.000Z",
+      "addedAt": "2026-09-25T06:00:16.806Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/709/G070952/20260925020/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://images.contentstack.io/v3/assets/blt15f7b5c0d43ed112/blt8a17f36418f01d7c/698f05439546730008163284/1200x630_SEO.png?width=1200&quality=80&auto=webp&height=630&format=jpg&fit=crop"
+    },
     {
       "id": "c6c8f627a746",
       "url": "http://www.nvidia.com/",
