@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-26T07:00:17.499Z",
+  "updatedAt": "2026-09-26T07:30:16.388Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 435,
+  "total": 437,
   "regions": {
-    "jp": 364,
+    "jp": 366,
     "global": 71
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 95
+      "count": 96
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 105
+      "count": 106
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 141
+      "count": 142
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
-    "Game*Spark",
     "4Gamer",
     "AppBank",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b8bbec5dacd2",
+      "url": "https://www.level5.co.jp/tgs2026/",
+      "host": "level5.co.jp",
+      "region": "jp",
+      "title": "レイトン教授と蒸気の新世界",
+      "headline": "『レイトン教授と蒸気の新世界』『ホーリーホラーマンション』『スナックワールド RELOADED』『デカポリス』のTGS試遊版プレイ動画が一挙に公開！",
+      "description": "東京ゲームショウ2026 レベルファイブタイトル出展決定!",
+      "publishedAt": "2026-09-26T07:30:02.000Z",
+      "addedAt": "2026-09-26T07:30:16.388Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/26/172795.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.level5.co.jp/tgs2026/assets/img/shared/ogp.jpg"
+    },
     {
       "id": "3a215eec9ac9",
       "url": "https://www.sunrise-inc.co.jp/50th/",
@@ -12689,6 +12716,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/96/d0/a596d0d5-a09b-799f-5153-551dda977567/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "810450323c89",
+      "url": "https://apps.apple.com/jp/app/id6759667009",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "超増税都市",
+      "headline": "Ota Sora / カジュアル・シミュレーション · App Store 新着",
+      "description": "Ota Soraの「超増税都市」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「超増税都市」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "addedAt": "2026-09-26T07:30:16.388Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6759667009"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/8e/a7/918ea7c3-6fa1-07a5-40f0-1c177bcd62bd/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "65b2fbe7e779",
