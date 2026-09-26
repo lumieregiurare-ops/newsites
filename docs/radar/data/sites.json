@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-26T05:00:17.758Z",
+  "updatedAt": "2026-09-26T05:30:53.097Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 434,
+  "total": 435,
   "regions": {
-    "jp": 363,
+    "jp": 364,
     "global": 71
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 43
+      "count": 44
     },
     {
       "id": "campaign",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3a215eec9ac9",
+      "url": "https://www.sunrise-inc.co.jp/50th/",
+      "host": "sunrise-inc.co.jp",
+      "region": "jp",
+      "title": "新世紀GPXサイバーフォーミュラ",
+      "headline": "『新世紀GPXサイバーフォーミュラ』35周年を記念して、新作ショートアニメ『ASURADA』が2027年2月19日に劇場上映決定。TVシリーズ総集編HDリマスター版も同時に",
+      "description": "『機動戦士ガンダム』シリーズや『装甲騎兵ボトムズ』を生み出したアニメーションブランド「サンライズ」の50周年プロジェクト公式サイトです。プロジェクトの最新情報をお伝えします！",
+      "publishedAt": "2026-09-26T05:00:25.000Z",
+      "addedAt": "2026-09-26T05:30:53.097Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260926d"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.sunrise-inc.co.jp/50th/assets/og/ogp3.jpg"
+    },
     {
       "id": "ef6968922ec0",
       "url": "https://geass.jp/aspal/",
