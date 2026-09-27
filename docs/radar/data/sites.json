@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-27T19:00:17.754Z",
+  "updatedAt": "2026-09-27T19:30:16.149Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 435,
+  "total": 436,
   "regions": {
-    "jp": 363,
+    "jp": 364,
     "global": 72
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 96
+      "count": 97
     },
     {
       "id": "release",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 11
+      "count": 12
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 104
+      "count": 105
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 140
+      "count": 141
     },
     {
       "id": "browser",
@@ -3712,6 +3712,40 @@
         "ライフスタイル"
       ],
       "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f010e3050ff8",
+      "url": "https://makiabe.github.io/dungeon-camp-wiki/",
+      "host": "makiabe.github.io",
+      "region": "jp",
+      "title": "ダンジョンの入口でキャンプでもしようよ。",
+      "headline": "Makio Abe / ロールプレイング · App Store 新着",
+      "description": "ダンジョンの入口でキャンプでもしようよ。攻略Wiki。キャラクター、季節イベント、依頼、装備、共闘をゲームの実データで調べる冒険手帳。",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "addedAt": "2026-09-27T19:30:16.149Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6810914372"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "media",
+        "event",
         "goods"
       ],
       "platforms": [
