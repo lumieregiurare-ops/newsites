@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:00:29.834Z",
+  "updatedAt": "2026-09-27T03:30:28.867Z",
   "platforms": [
     {
       "id": "switch",
@@ -268,26 +268,6 @@
   ],
   "prereg": [
     {
-      "id": "501f5d92a8d0",
-      "title": "Roco Kingdom",
-      "url": "https://rocokingdom.com/web/ja/",
-      "image": "https://rocokingdom.com/share/img/ja.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-25T04:33:33.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "オープンワールドモンスター育成RPG『Roco Kingdom』鬼頭明里さんや日笠陽子さんら出演決定！KENNさん、相羽あいなさん登壇イベントにて発表",
-      "description": "『Roco Kingdom』は、オープンワールド・モンスター収集RPGの新たな進化形です。プレイヤーはロコとなって旅に出て、カロシア大陸に生息するジニたちと出会います。 生命力あふれるこの世界を探索し、400種以上の個性豊かなジニと出会う…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260925r",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "8fd209060525",
       "title": "WonderPaws",
       "url": "https://www.wonderpawsgame.com/",
@@ -454,6 +434,27 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6744352329"
+    },
+    {
+      "id": "40d20f49aa9a",
+      "title": "サイマジック 魔法世界のバグ、科学で直します！",
+      "url": "https://g123.jp/game/scimagic/?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/861ca52f6c58063932316cad66aa4fd1cd638e65d4d4537ca4f98892.png",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-09-15T11:26:19.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「サイマジック 魔法世界のバグ、科学で直します！」，ゲームプラットフォーム「G123」でサービス決定。事前登録の受付もスタート",
+      "description": "「サイマジック 魔法世界のバグ、科学で直します！」は、科学の原理で魔法を強化して戦うG123発の完全オリジナルローグライクRPG。魔法使いが異端視される世界で、仲間とともに窮地を突破しよう。会員登録・ダウンロードなしでスマホ・PCから無料…",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/043/G104312/20260915049/",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
@@ -466,18 +467,6 @@
       "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg",
       "platforms": [],
       "to": "2026年9月29日"
-    },
-    {
-      "at": "2026-09-25T05:01:06.598Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Roco Kingdom",
-      "url": "https://rocokingdom.com/web/ja/",
-      "image": "https://rocokingdom.com/share/img/ja.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     },
     {
       "at": "2026-09-25T04:30:30.476Z",
@@ -522,6 +511,19 @@
       "image": "https://hytale.com/images/logo.webp",
       "platforms": [],
       "to": "2026年10月12日"
+    },
+    {
+      "at": "2026-09-24T15:00:33.258Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "真・三國無双２ with 猛将伝 Remastered",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000105790",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fbde2172f19eb9f063524c6a4082a608ff1d135bf8cb9a2d5cf585162a6bfa16.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年9月24日",
+      "to": "2026年10月1日"
     }
   ]
 }
