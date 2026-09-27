@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-26T23:56:15.466Z",
+  "updatedAt": "2026-09-27T00:30:18.442Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 438,
+  "total": 436,
   "regions": {
-    "jp": 367,
+    "jp": 365,
     "global": 71
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 57
+      "count": 55
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 125
+      "count": 124
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 106
+      "count": 104
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 142
+      "count": 140
     },
     {
       "id": "browser",
@@ -12316,6 +12316,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/040/G104079/20260909033/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/27/172814.html"
         }
       ],
       "tags": [
@@ -13577,75 +13581,6 @@
       "platforms": [],
       "points": null,
       "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/2f2eed45ebfff818d0bf75bc463e35a4a9c7351c6450b37cd5d73bdc.png"
-    },
-    {
-      "id": "f2ee7d306c37",
-      "url": "https://pre.cookieruncrumble.com/ja/",
-      "host": "pre.cookieruncrumble.com",
-      "region": "jp",
-      "title": "クッキーラン：クランブル",
-      "headline": "放置系RPG「クッキーラン：クランブル」の事前登録が開始に。App StoreとGoogle Play，ゲーム公式サイトで受付中",
-      "description": "手も触れずに！？サクッと育成！放置系クッキーRPG",
-      "publishedAt": "2026-06-29T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/021/G102142/20260629040/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://assets.devsisters.com/cc/og/og_main.ja.jpg"
-    },
-    {
-      "id": "023c0770c97e",
-      "url": "https://apps.apple.com/jp/app/id6759962259",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "デイヴ・ザ・ダイバー",
-      "headline": "スマホ版「デイヴ・ザ・ダイバー」，8月中にリリース。App StoreとGoogle Playで事前登録を受付中",
-      "description": "Mintrocketの「デイヴ・ザ・ダイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「デイヴ・ザ・ダイバー」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-06-29T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/439/G043999/20260629013/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/c2/81/f1c28105-5fd3-c898-33f4-dedb8ace05b9/Placeholder.mill/1200x630wa.jpg"
     }
   ]
 }
