@@ -1249,21 +1249,21 @@
       }
     },
     "悪魔城ドラキュラ": {
-      "at": "2026-09-25T02:30:30.301Z",
+      "at": "2026-09-28T03:00:29.042Z",
       "entry": {
-        "trackId": "1435456830",
-        "title": "悪魔城ドラキュラX 月下の夜想曲",
+        "trackId": "1498019884",
+        "title": "悪魔城ドラキュラ",
         "artist": "KONAMI",
         "genres": [
           "エンターテインメント",
-          "アドベンチャー",
-          "アクション"
+          "アクション",
+          "アドベンチャー"
         ],
-        "releaseDate": "2020-03-03T08:00:00Z",
+        "releaseDate": "2026-09-24T07:00:00Z",
         "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id1435456830",
-        "sellerUrl": "https://www.konami.com/games/castlevania/jp/ja/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+        "storeUrl": "https://apps.apple.com/jp/app/id1498019884",
+        "sellerUrl": "https://www.konami.com/games/castlevania/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/27/af/ed27afe5-3d3a-2033-a2f0-2f5b42e15baa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -17434,6 +17434,30 @@
       "sortKey": "2026-11-10",
       "prereg": false,
       "firstSeen": "2026-09-28T01:00:29.821Z"
+    },
+    "cubespeedrunner": {
+      "title": "Cube Speedrunner",
+      "dateText": "2026年9月29日",
+      "date": "2026-09-29",
+      "sortKey": "2026-09-29",
+      "prereg": false,
+      "firstSeen": "2026-09-28T03:00:28.744Z"
+    },
+    "midnightclass": {
+      "title": "Midnight Class",
+      "dateText": "2026年第3四半期",
+      "date": null,
+      "sortKey": "2026-09-31",
+      "prereg": false,
+      "firstSeen": "2026-09-28T03:00:28.744Z"
+    },
+    "hela:ちいさなねずみと魔法の森": {
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
+      "prereg": false,
+      "firstSeen": "2026-09-28T03:00:28.744Z"
     }
   },
   "changeLog": [
@@ -20223,6 +20247,16 @@
         "mobile"
       ],
       "to": "2026年11月10日"
+    },
+    {
+      "at": "2026-09-28T03:00:28.744Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "url": "https://helagame.com/",
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "platforms": [],
+      "to": "2026年12月1日"
     }
   ],
   "initialized": true,

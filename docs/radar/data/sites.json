@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-28T02:30:15.119Z",
+  "updatedAt": "2026-09-28T03:00:15.809Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 442,
+  "total": 444,
   "regions": {
-    "jp": 370,
-    "global": 72
+    "jp": 371,
+    "global": 73
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 126
+      "count": 128
     },
     {
       "id": "indie",
@@ -121,17 +121,71 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "4Gamer",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eba8bd9e758e",
+      "url": "https://helagame.com/",
+      "host": "helagame.com",
+      "region": "global",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
+      "description": "See the world through the eyes of a brave mouse in Hela, an enchanting 1–4 player co-op adventure game coming to Ninten…",
+      "publishedAt": "2026-09-28T03:00:03.000Z",
+      "addedAt": "2026-09-28T03:00:15.809Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg"
+    },
+    {
+      "id": "a3ac252e83a9",
+      "url": "https://www.konami.com/games/tenipuri/gakupuri/jp/ja/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "学プリ",
+      "headline": "「学プリ」「ドキサバ」，第1弾有償DLCの配信日が決定。学プリには越前リョーガ，ドキサバには財前 光が追加王子様として登場",
+      "description": "テニスの王子様 も～っと 学園祭の王子様 ♡-40 and more...",
+      "publishedAt": "2026-09-28T02:45:08.000Z",
+      "addedAt": "2026-09-28T03:00:15.809Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/947/G094704/20260928002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/tenipuri/s/img/gakupuri/gakupuri_share.jpg"
+    },
     {
       "id": "22f47096f41f",
       "url": "https://www.konami.com/games/tenipuri/jp/ja/",
