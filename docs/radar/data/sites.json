@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T01:30:16.654Z",
+  "updatedAt": "2026-09-28T02:00:14.724Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 441,
+  "total": 442,
   "regions": {
-    "jp": 369,
+    "jp": 370,
     "global": 72
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 125
+      "count": 126
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 20
+      "count": 21
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 50
+      "count": 51
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
-    "電ファミニコゲーマー",
     "App Store",
     "4Gamer",
     "Inside",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "22f47096f41f",
+      "url": "https://www.konami.com/games/tenipuri/jp/ja/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "テニスの王子様",
+      "headline": "『テニスの王子様』“学プリ”と“ドキサバ”の追加DLCのPVが公開。配信時期や詳細などを確認できる",
+      "description": "『学園祭の王子様』発売から20年。『学園祭の王子様』『ドキドキサバイバル～山麓のMystic～』『ドキドキサバイバル～海辺のSecret～』が Nintendo Switch™ 2 、Nintendo Switch™、Steam®でリマス…",
+      "publishedAt": "2026-09-28T01:12:07.000Z",
+      "addedAt": "2026-09-28T02:00:14.724Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260928k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.konami.com/games/tenipuri/s/img/share.jpg"
+    },
     {
       "id": "09ea6c6df792",
       "url": "https://www.atlus.co.jp/sale/",
