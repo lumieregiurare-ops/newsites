@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-28T03:30:15.369Z",
+  "updatedAt": "2026-09-28T04:00:18.479Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 445,
+  "total": 450,
   "regions": {
-    "jp": 371,
-    "global": 74
+    "jp": 374,
+    "global": 76
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 19
+      "count": 20
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 129
+      "count": 132
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 75
+      "count": 76
     }
   ],
   "platforms": [
@@ -87,17 +87,17 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 18
+      "count": 19
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 12
+      "count": 13
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 51
+      "count": 53
     },
     {
       "id": "mobile",
@@ -121,17 +121,163 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
+    "Inside",
+    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fe87042c382e",
+      "url": "https://www.mindscape.com/the-legend-of-khiimori",
+      "host": "mindscape.com",
+      "region": "global",
+      "title": "The Legend of Khiimori",
+      "headline": "モンゴル高原の伝説は続く。乗馬アクションRPG「The Legend of Khiimori」，最新ロードマップを公開。釣りが楽しめる「The Wildlife Update」も…",
+      "description": "モンゴル高原の伝説は続く。乗馬アクションRPG「The Legend of Khiimori」，最新ロードマップを公開。釣りが楽しめる「The Wildlife Update」も配信中",
+      "publishedAt": "2026-09-28T03:57:36.000Z",
+      "addedAt": "2026-09-28T04:00:18.479Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/930/G093065/20260928006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "963f26765011",
+      "url": "https://www.seafarergame.com/",
+      "host": "seafarergame.com",
+      "region": "global",
+      "title": "Seafarer: The Ship Sim",
+      "headline": "船舶シム「Seafarer: The Ship Sim」が正式リリース。PS5版とXBOX Series X|S版も登場し，クロスプレイでの協力マルチプレイが可能に",
+      "description": "Welcome on the official website of Seafarer: The Ship Sim",
+      "publishedAt": "2026-09-28T03:54:20.000Z",
+      "addedAt": "2026-09-28T04:00:18.479Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/936/G093622/20260928004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://www.seafarergame.com/img/preview/seafarer.jpg"
+    },
+    {
+      "id": "4c04cfb8876a",
+      "url": "https://galleria.net/product/e-series/",
+      "host": "galleria.net",
+      "region": "jp",
+      "title": "Eシリーズ",
+      "headline": "高性能GPU対応なのに机上に置ける！サードウェーブ新型「Eシリーズ」発表―ゲーム・制作・AIを1台で、静音・冷却も重視",
+      "description": "ハイパフォーマンスPC「GALLERIA（ガレリア）」のE seriesは、コンパクト、だけど先進的。感性に遊べ。",
+      "publishedAt": "2026-09-28T03:50:02.000Z",
+      "addedAt": "2026-09-28T04:00:18.479Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172845.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://galleria.net/assets/img/common/ogp.jpg"
+    },
+    {
+      "id": "d3cf121fa3f4",
+      "url": "https://key.visualarts.gr.jp/summer_ss/",
+      "host": "key.visualarts.gr.jp",
+      "region": "jp",
+      "title": "Summer Pockets Sunnyside Stories",
+      "headline": "「Summer Pockets Sunnyside Stories」，12月18日に発売。2018年に公開されたショートストーリー企画に新たな要素を加え，ノベルゲーム化",
+      "description": "あの夏の小さな輝きたち PC用ゲーム『Summer Pockets Sunnyside Stories -サマーポケッツ サニーサイドストーリーズ-』オフィシャルサイト",
+      "publishedAt": "2026-09-28T03:46:25.000Z",
+      "addedAt": "2026-09-28T04:00:18.479Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/045/G104569/20260928003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://key.visualarts.gr.jp/summer_ss/common/image/og.webp"
+    },
+    {
+      "id": "90b6b4dc2c67",
+      "url": "https://genshin-cafe.jp/",
+      "host": "genshin-cafe.jp",
+      "region": "jp",
+      "title": "原神",
+      "headline": "『原神』日本公式カフェが始動！“常設店舗”として東京で2027年オープン予定",
+      "description": "原神CAFEの公式サイトです。",
+      "publishedAt": "2026-09-28T03:45:03.000Z",
+      "addedAt": "2026-09-28T04:00:18.479Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188367.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260928t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://genshin-cafe.jp/ogp.png"
+    },
     {
       "id": "ea83d6664c6f",
       "url": "https://www.doublefine.com/games/thank-you-bus-driver",
@@ -2858,7 +3004,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09272026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09282026"
     },
     {
       "id": "33c0ff2f4868",
