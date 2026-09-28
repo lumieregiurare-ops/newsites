@@ -4401,7 +4401,7 @@
     },
     "刀剣乱舞ぱずぎり": {
       "title": "刀剣乱舞ぱずぎり",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "nevergrave": {
@@ -20626,6 +20626,18 @@
         "pc"
       ],
       "to": "2026年9月28日"
+    },
+    {
+      "at": "2026-09-28T23:30:37.192Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月30日"
     }
   ],
   "initialized": true,

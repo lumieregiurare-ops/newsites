@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T23:00:28.940Z",
+  "updatedAt": "2026-09-28T23:30:37.192Z",
   "platforms": [
     {
       "id": "switch",
@@ -460,6 +460,18 @@
   ],
   "changes": [
     {
+      "at": "2026-09-28T23:30:37.192Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月30日"
+    },
+    {
       "at": "2026-09-28T04:00:43.445Z",
       "type": "new",
       "label": "新規",
@@ -516,16 +528,6 @@
         "switch"
       ],
       "to": "2026年9月30日"
-    },
-    {
-      "at": "2026-09-25T15:30:29.448Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ウィッチャー3 ワイルドハント リマスター",
-      "url": "https://www.thewitcher.com/jp/ja/buy",
-      "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg",
-      "platforms": [],
-      "to": "2026年9月29日"
     }
   ]
 }
