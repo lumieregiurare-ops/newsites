@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T22:00:18.263Z",
+  "updatedAt": "2026-09-28T22:30:17.820Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 462,
+  "total": 463,
   "regions": {
-    "jp": 386,
+    "jp": 387,
     "global": 76
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 76
+      "count": 77
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0f6fc1a33071",
+      "url": "https://www.liargame-anime.com/",
+      "host": "liargame-anime.com",
+      "region": "jp",
+      "title": "LIAR GAME -ライアーゲーム-",
+      "headline": "TVアニメ『LIAR GAME -ライアーゲーム-』第2期が制作決定！お祝いイラスト＆キャスト陣へのインタビューが公開",
+      "description": "連載開始から20年にわたって世界中の読者を熱狂させる甲斐谷忍の傑作サスペンス漫画『LIAR GAME（ライアーゲーム）』が、ついに初TVアニメ化！",
+      "publishedAt": "2026-09-28T22:15:52.000Z",
+      "addedAt": "2026-09-28T22:30:17.820Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260929b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.liargame-anime.com/wordpress/wp-content/themes/liargame_v1/assets/images/common/ogp_v4.jpg"
+    },
     {
       "id": "190f7dc7de69",
       "url": "https://saikeystudios.com/ja/product/160112/stranded-with-you/",
