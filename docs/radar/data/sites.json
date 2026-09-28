@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T08:30:19.466Z",
+  "updatedAt": "2026-09-28T09:00:17.534Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 456,
+  "total": 457,
   "regions": {
-    "jp": 380,
+    "jp": 381,
     "global": 76
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 82
+      "count": 83
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 100
+      "count": 101
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d9c5e7079144",
+      "url": "https://raden2027.clan-entertainment.com/",
+      "host": "raden2027.clan-entertainment.com",
+      "region": "jp",
+      "title": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定",
+      "headline": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定。特別音声ガイドや謎解き、描き下ろしパネル展示などを実施へ",
+      "description": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定。特別音声ガイドや謎解き、描き下ろしパネル展示などを実施へ",
+      "publishedAt": "2026-09-28T08:39:52.000Z",
+      "addedAt": "2026-09-28T09:00:17.534Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609282i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "2969f8c7ad91",
       "url": "https://genshin.hoyoverse.com/ja/",
@@ -415,6 +443,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/28/188393.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172862.html"
         }
       ],
       "tags": [
