@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T11:30:18.483Z",
+  "updatedAt": "2026-09-28T12:00:18.676Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 460,
+  "total": 461,
   "regions": {
-    "jp": 383,
+    "jp": 384,
     "global": 77
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 48
+      "count": 49
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 84
+      "count": 85
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "839340dfed26",
+      "url": "https://draw.geo-online.co.jp/lottery/129/",
+      "host": "draw.geo-online.co.jp",
+      "region": "jp",
+      "title": "ワンピース カードゲーム",
+      "headline": "『ワンピース カードゲーム』より「世界最強の戦士」がゲオで抽選販売中！「エルバフ」と「四皇」をテーマにした4周年パック",
+      "description": "『ワンピース カードゲーム』より「世界最強の戦士」がゲオで抽選販売中！「エルバフ」と「四皇」をテーマにした4周年パック",
+      "publishedAt": "2026-09-28T11:45:03.000Z",
+      "addedAt": "2026-09-28T12:00:18.676Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188425.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "481c15cce2ec",
       "url": "https://www.ukiyostudios.com/ukiyo-game-bar",
@@ -10773,7 +10802,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tjU_e4n0GueS_aT8JUi2npXBKp6TubA40UllLx4sCbRA_E58dWGjsWE8uhK55A8vJFmapAvET0a2BZFDY8xqp0v5hSB2-nDhXDStCCyHuE9HPiQtj4NR4MN1IDwohZB_SGrLyvvboxuRVn96xllSS5J_9GDsN_O2lPfQMqJye0M8Eh052-b837f3k-=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sAwcx4ZNsugTJVoRdaeL_KJmpdjyOlEX3ahOng0DdCTuh4sMXlUHm_fkvKQuedbzcGZKUi2v9HjigaW8aQFEyEHSmHKEYSDXxXCVjtWs-70vJYIpE3wvwYrC0NKvbMceS735IiEavvsFFeYPTPD4xZZglXAMHb2u7VY0Xp1aYcuYGcXgeW-4Q6jaRG=w16383"
     },
     {
       "id": "7f727450ced7",
