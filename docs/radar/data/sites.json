@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-28T10:00:20.873Z",
+  "updatedAt": "2026-09-28T10:30:18.227Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 458,
+  "total": 460,
   "regions": {
-    "jp": 382,
-    "global": 76
+    "jp": 383,
+    "global": 77
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 101
+      "count": 102
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 10
+      "count": 11
     },
     {
       "id": "browser",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 106
+      "count": 107
     },
     {
       "id": "official",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
-    "Game*Spark",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "481c15cce2ec",
+      "url": "https://www.ukiyostudios.com/ukiyo-game-bar",
+      "host": "ukiyostudios.com",
+      "region": "global",
+      "title": "UKIYO GAME BAR",
+      "headline": "世界中のインディーゲームが集まる「UKIYO GAME BAR」東京でプレオープン中。インディーゲームのイベント出展支える“業界の黒子”が365日遊べる場所を作った理由とは【イン…",
+      "description": "世界中のインディーゲームが集まる「UKIYO GAME BAR」東京でプレオープン中。インディーゲームのイベント出展支える“業界の黒子”が365日遊べる場所を作った理由とは【インタビュー】",
+      "publishedAt": "2026-09-28T10:30:03.000Z",
+      "addedAt": "2026-09-28T10:30:18.227Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172870.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/583bfedc6a4963d2568de5c6/t/6a3588418a10fa02d8b287cd/1781893185068/ukiyogamebarmap.jpg?format=1500w"
+    },
+    {
+      "id": "58d74ced159c",
+      "url": "https://gf2.haoplay.com/jp/",
+      "host": "gf2.haoplay.com",
+      "region": "jp",
+      "title": "ドルフロ",
+      "headline": "「ドルフロ」シリーズ公式通販サイトがリニューアルオープン",
+      "description": "人形と切り開くポストアポカリプス戦略RPG 「ドールズフロントライン2：エクシリウム」の公式サイトです。好評配信中",
+      "publishedAt": "2026-09-28T10:25:44.000Z",
+      "addedAt": "2026-09-28T10:30:18.227Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/631/G063178/20260928031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://res.17996cdn.net/gf2/kr/images/fbshare/jp.jpg"
+    },
     {
       "id": "bd68544345e2",
       "url": "https://draw.geo-online.co.jp/lottery/126/",
