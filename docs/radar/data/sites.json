@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T09:30:16.410Z",
+  "updatedAt": "2026-09-28T10:00:20.873Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 457,
+  "total": 458,
   "regions": {
-    "jp": 381,
+    "jp": 382,
     "global": 76
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 47
+      "count": 48
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 83
+      "count": 84
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bd68544345e2",
+      "url": "https://draw.geo-online.co.jp/lottery/126/",
+      "host": "draw.geo-online.co.jp",
+      "region": "jp",
+      "title": "ポケカ",
+      "headline": "ゲオで、『ポケカ』30周年記念商品「30th CELEBRATION カードセット」9種セットが抽選受付中！ “御三家”の特別カードを地方ごとに収録した胸アツなアイテム",
+      "description": "ゲオで、『ポケカ』30周年記念商品「30th CELEBRATION カードセット」9種セットが抽選受付中！ “御三家”の特別カードを地方ごとに収録した胸アツなアイテム",
+      "publishedAt": "2026-09-28T09:35:02.000Z",
+      "addedAt": "2026-09-28T10:00:20.873Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188412.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d9c5e7079144",
       "url": "https://raden2027.clan-entertainment.com/",
