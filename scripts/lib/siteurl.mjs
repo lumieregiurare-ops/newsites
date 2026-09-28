@@ -9,6 +9,9 @@ const DEFAULT_ARTICLE_SEGMENTS = [
 // 言語・地域のセグメントはトップページの一部として残す
 const LOCALE_SEGMENT = /^(ja|jp|en|ja-jp|en-us|en-gb|zh|zh-cn|zh-tw|ko|kr|ja_jp|en_us|jp-ja|global|world|home|index(\.html?)?|top)$/i;
 
+// ストアの作品ページ（公式サイトが無いゲームの代替として掲載する）
+const STORE_HOST_RE = /apps\.apple\.com|play\.google\.com|store\.steampowered\.com|store-jp\.nintendo\.com|itch\.io/;
+
 // URL をたどってサイト（作品）のトップに寄せる
 export function toSiteRoot(input, { articleSegments = DEFAULT_ARTICLE_SEGMENTS } = {}) {
   let u;
@@ -18,7 +21,7 @@ export function toSiteRoot(input, { articleSegments = DEFAULT_ARTICLE_SEGMENTS }
     return input;
   }
   // ストアページは個別ページのままで意味があるので触らない
-  if (/apps\.apple\.com|play\.google\.com|store\.steampowered\.com|store-jp\.nintendo\.com|itch\.io/.test(u.hostname)) {
+  if (STORE_HOST_RE.test(u.hostname)) {
     return input;
   }
 
@@ -73,7 +76,8 @@ export function createSiteFilter(cfg = {}) {
     // （ゲーム系ドメインに当てはまるものは除外しない）
     if (!(gameHostRe && gameHostRe.test(host))) {
       for (const re of hostPatterns) if (re.test(host)) return `host pattern ${re.source.slice(0, 16)}`;
-      for (const re of urlPatterns) if (re.test(url)) return `url ${re.source.slice(0, 16)}`;
+      // ストアページは「/store/」などのパスを含むが、グッズ販売ではないので URL パターンでは除外しない
+      if (!STORE_HOST_RE.test(host)) for (const re of urlPatterns) if (re.test(url)) return `url ${re.source.slice(0, 16)}`;
     }
     return null;
   }

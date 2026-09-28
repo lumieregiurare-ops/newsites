@@ -39,11 +39,12 @@ export async function fetchMeta(url, { timeoutMs = 15000 } = {}) {
     const type = r.headers.get("content-type") || "";
     if (!/html/i.test(type)) return { ok: false, status: r.status, reason: "not html" };
 
-    // 先頭 300KB だけ読めば <head> は十分に含まれる
+    // 先頭 300KB だけ読めば <head> は十分に含まれる（Google Play は <head> 内のインライン CSS が大きく、OGP が 1MB 付近にある）
+    const limit = (/(^|\.)play\.google\.com$/.test(new URL(url).hostname) ? 1536 : 300) * 1024;
     const reader = r.body.getReader();
     const chunks = [];
     let size = 0;
-    while (size < 300 * 1024) {
+    while (size < limit) {
       const { done, value } = await reader.read();
       if (done) break;
       chunks.push(value);
