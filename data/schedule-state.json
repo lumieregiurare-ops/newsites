@@ -1313,6 +1313,33 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/5c/83/bd5c83e3-1d22-f6e3-df30-a25f342044d9/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "Booster Pack Heroes": {
+      "at": "2026-09-28T01:00:30.015Z",
+      "entry": null
+    },
+    "Paleokin": {
+      "at": "2026-09-28T01:00:31.321Z",
+      "entry": null
+    },
+    "スライドブロックde懸賞": {
+      "at": "2026-09-28T01:00:32.741Z",
+      "entry": {
+        "trackId": "6803351936",
+        "title": "スライドブロックde懸賞 - パズルde懸賞(公式)",
+        "artist": "Ohte, Inc.",
+        "genres": [
+          "ライフスタイル",
+          "パズル",
+          "カジュアル"
+        ],
+        "releaseDate": "2026-09-15T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6803351936",
+        "sellerUrl": "https://ohte.co.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/77/42/047742ef-2156-ce1e-c254-eb2540808920/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -17383,6 +17410,30 @@
       "sortKey": "2026-09-29",
       "prereg": false,
       "firstSeen": "2026-09-28T00:00:27.718Z"
+    },
+    "redhowl": {
+      "title": "Redhowl",
+      "dateText": "2026年9月30日",
+      "date": "2026-09-30",
+      "sortKey": "2026-09-30",
+      "prereg": false,
+      "firstSeen": "2026-09-28T01:00:29.821Z"
+    },
+    "superslots": {
+      "title": "Super Slots",
+      "dateText": "2026年第3四半期",
+      "date": null,
+      "sortKey": "2026-09-31",
+      "prereg": false,
+      "firstSeen": "2026-09-28T01:00:29.821Z"
+    },
+    "boosterpackheroes": {
+      "title": "Booster Pack Heroes",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-09-28T01:00:29.821Z"
     }
   },
   "changeLog": [
@@ -20159,6 +20210,19 @@
         "switch"
       ],
       "to": "2026年9月30日"
+    },
+    {
+      "at": "2026-09-28T01:00:29.821Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Booster Pack Heroes",
+      "url": "https://apps.apple.com/jp/app/id6801113954",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/39/a7/f739a71a-da0e-e2af-c756-ecd2fb73d61a/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2026年11月10日"
     }
   ],
   "initialized": true,

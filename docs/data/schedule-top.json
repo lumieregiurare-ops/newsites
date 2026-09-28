@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T00:30:27.694Z",
+  "updatedAt": "2026-09-28T01:00:29.821Z",
   "platforms": [
     {
       "id": "switch",
@@ -234,6 +234,24 @@
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
     },
     {
+      "id": "ab7727e4a1c8",
+      "title": "Booster Pack Heroes",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 0,
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6801113954",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/39/a7/f739a71a-da0e-e2af-c756-ecd2fb73d61a/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "パック開封×インクリメンタル『Booster Pack Heroes』11月10日発売決定！ Steam・iOS・Androidで同時配信",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/09/28/game/3115905.php"
+    },
+    {
       "id": "9619d7b9b5f7",
       "title": "A列車で行こう9 PRIME LINE",
       "date": "2026-12-10",
@@ -247,23 +265,6 @@
       "headline": "「A列車で行こう9 PRIME LINE」，12月10日発売。自由な曲率の線路や最大16両編成，カーブ駅など大幅進化を遂げたA9最新作",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/045/G104504/20260925006/"
-    },
-    {
-      "id": "aefe8531cc92",
-      "title": "エッジ オブ メモリーズ",
-      "date": "2026-12-10",
-      "dateText": "2026年12月10日",
-      "sortKey": "2026-12-10",
-      "priority": 0,
-      "platforms": [
-        "ps"
-      ],
-      "url": "https://3goo.co.jp/product/edge-of-memories/",
-      "image": "",
-      "maker": "",
-      "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
     }
   ],
   "prereg": [
@@ -459,6 +460,19 @@
   ],
   "changes": [
     {
+      "at": "2026-09-28T01:00:29.821Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Booster Pack Heroes",
+      "url": "https://apps.apple.com/jp/app/id6801113954",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/39/a7/f739a71a-da0e-e2af-c756-ecd2fb73d61a/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2026年11月10日"
+    },
+    {
       "at": "2026-09-27T23:00:28.124Z",
       "type": "new",
       "label": "新規",
@@ -514,16 +528,6 @@
         "mobile"
       ],
       "to": "2026年10月7日"
-    },
-    {
-      "at": "2026-09-24T22:30:29.833Z",
-      "type": "new",
-      "label": "新規",
-      "title": "マイクラ",
-      "url": "https://hytale.com/",
-      "image": "https://hytale.com/images/logo.webp",
-      "platforms": [],
-      "to": "2026年10月12日"
     }
   ]
 }
