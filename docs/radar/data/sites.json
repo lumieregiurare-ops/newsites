@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-28T03:00:15.809Z",
+  "updatedAt": "2026-09-28T03:30:15.369Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 444,
+  "total": 445,
   "regions": {
     "jp": 371,
-    "global": 73
+    "global": 74
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 128
+      "count": 129
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ea83d6664c6f",
+      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
+      "host": "doublefine.com",
+      "region": "global",
+      "title": "Thank You Bus Driver",
+      "headline": "バス運転手として時間と治安を守り運行するゲーム『Thank You Bus Driver』10月15日リリース。飲んだり騒いだりやりたい放題の乗客はビンタでわからせる",
+      "description": "Take on the role of a town’s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, a…",
+      "publishedAt": "2026-09-28T03:02:56.000Z",
+      "addedAt": "2026-09-28T03:30:15.369Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260928l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835"
+    },
     {
       "id": "eba8bd9e758e",
       "url": "https://helagame.com/",
@@ -174,6 +201,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/947/G094704/20260928002/"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/09/28/game/3116546.php"
         }
       ],
       "tags": [
