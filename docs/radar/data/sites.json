@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T12:00:18.676Z",
+  "updatedAt": "2026-09-28T12:30:17.465Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 461,
+  "total": 462,
   "regions": {
-    "jp": 384,
+    "jp": 385,
     "global": 77
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 134
+      "count": 135
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 54
+      "count": 55
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "Game*Spark",
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "190f7dc7de69",
+      "url": "https://saikeystudios.com/ja/product/160112/stranded-with-you/",
+      "host": "saikeystudios.com",
+      "region": "jp",
+      "title": "散らばった約2,000本の骨を拾い集める整理整頓シムがリリ",
+      "headline": "散らばった約2,000本の骨を拾い集める整理整頓シムがリリース。博物館で9体の恐竜標本を復元しよう―採れたて！本日のSteam注目ゲーム15選【2026年9月28日】",
+      "description": "散らばった約2,000本の骨を拾い集める整理整頓シムがリリース。博物館で9体の恐竜標本を復元しよう―採れたて！本日のSteam注目ゲーム15選【2026年9月28日】",
+      "publishedAt": "2026-09-28T12:30:03.000Z",
+      "addedAt": "2026-09-28T12:30:17.465Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172875.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "839340dfed26",
       "url": "https://draw.geo-online.co.jp/lottery/129/",
@@ -651,6 +680,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/845/G084502/20260928037/"
         }
       ],
       "tags": [
@@ -1190,10 +1223,10 @@
       "id": "451e5e7ea86d",
       "url": "https://nolawthegame.com/",
       "host": "nolawthegame.com",
-      "region": "global",
+      "region": "jp",
       "title": "NO LAW",
       "headline": "サイバーノワールシューター「NO LAW」，ゲームの自由度の高さにフォーカスした開発者動画を公開",
-      "description": "NO LAW is an immersive first-person shooter sets you on a personal vendetta where your choices impact both gameplay and…",
+      "description": "NO LAWは、プレイヤーの選択がゲームプレイとノンリニアな物語の両方に影響を与える、没入型一人称視点シューティングゲーム。手がかりを追い、標的を見つけ出し、ポートデザイアで復讐を果たせ。",
       "publishedAt": "2026-09-25T10:52:16.000Z",
       "addedAt": "2026-09-25T11:00:19.199Z",
       "source": "4Gamer",
@@ -1211,7 +1244,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://wstatic-prod.nolawthegame.com/web/live/static/og/og.png"
+      "image": "https://wstatic-prod.nolawthegame.com/web/live/static/og/img-og-nolaw.jpg"
     },
     {
       "id": "325395719b22",
@@ -9287,7 +9320,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
