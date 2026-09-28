@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-28T06:00:20.352Z",
+  "updatedAt": "2026-09-28T06:30:17.951Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 452,
+  "total": 453,
   "regions": {
-    "jp": 376,
+    "jp": 377,
     "global": 76
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 80
+      "count": 81
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 99
+      "count": 100
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cd8955d23d98",
+      "url": "https://umamusume-miho.jp/",
+      "host": "umamusume-miho.jp",
+      "region": "jp",
+      "title": "ウマ娘",
+      "headline": "お野菜をもったライスシャワーが可愛すぎ！トレセンのまち「美浦村」×『ウマ娘』コラボが11月開催",
+      "description": "美浦村は2026年11月12日より、『ウマ娘 プリティーダービー』とのコラボイベントを開催！詰め合わせバッグやアニメイトカフェ出張版など、食の秋をお届けします。",
+      "publishedAt": "2026-09-28T06:10:03.000Z",
+      "addedAt": "2026-09-28T06:30:17.951Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188381.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://umamusume-miho.jp/assets/img/ogp.png"
+    },
     {
       "id": "3bc41dcfbd96",
       "url": "https://floorproject.jimdofree.com/",
@@ -323,6 +351,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260928t"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/28/172853.html"
         }
       ],
       "tags": [
