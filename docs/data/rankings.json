@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T16:00:21.048Z",
+  "updatedAt": "2026-09-28T16:30:21.014Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "Rotate Rings",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d2/28/a0d2287e-3406-6134-6080-0676f7e9608f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/rotate-rings/id6793924927",
-          "metric": "Nebula Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "Colony Flow!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/23/42/2123423c-5f47-6efe-ba43-d07ce3b4b4e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
           "metric": "ABI GLOBAL LTD.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "Rotate Rings",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d2/28/a0d2287e-3406-6134-6080-0676f7e9608f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/rotate-rings/id6793924927",
+          "metric": "Nebula Studio",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
@@ -267,14 +267,14 @@
         },
         {
           "rank": 10,
-          "title": "Block Out! - Color Sort Puzzle",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d0/bc/1dd0bcac-6a6c-52bd-9b5d-e2d6a41b59a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
-          "metric": "Grand Games A.Ş.",
+          "title": "Smash Fest!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
+          "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+3",
+            "value": 3
           },
           "deltaNote": "前日比"
         }
