@@ -17817,6 +17817,22 @@
       "sortKey": "2026-10-02",
       "prereg": false,
       "firstSeen": "2026-09-29T01:00:31.056Z"
+    },
+    "ほの暮しの庭": {
+      "title": "ほの暮しの庭",
+      "dateText": "2026年9月29日",
+      "date": "2026-09-29",
+      "sortKey": "2026-09-29",
+      "prereg": false,
+      "firstSeen": "2026-09-29T01:30:28.471Z"
+    },
+    "雾山古董店demo": {
+      "title": "雾山古董店 Demo",
+      "dateText": "2026年9月29日",
+      "date": "2026-09-29",
+      "sortKey": "2026-09-29",
+      "prereg": false,
+      "firstSeen": "2026-09-29T01:30:28.471Z"
     }
   },
   "changeLog": [
@@ -20662,6 +20678,16 @@
         "mobile"
       ],
       "to": "2026年9月30日"
+    },
+    {
+      "at": "2026-09-29T01:30:28.471Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ほの暮しの庭",
+      "url": "https://nippon1.jp/consumer/honogurashi/goods.html?c=official_store",
+      "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg",
+      "platforms": [],
+      "to": "2026年9月29日"
     }
   ],
   "initialized": true,
