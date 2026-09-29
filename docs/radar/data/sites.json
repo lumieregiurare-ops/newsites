@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T21:00:19.244Z",
+  "updatedAt": "2026-09-29T21:30:15.825Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 483,
+  "total": 484,
   "regions": {
-    "jp": 404,
+    "jp": 405,
     "global": 79
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 143
+      "count": 144
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "Game*Spark",
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "020cc235fd30",
+      "url": "https://wayofthehunter2.thqnordic.com/",
+      "host": "wayofthehunter2.thqnordic.com",
+      "region": "jp",
+      "title": "Way of the Hunter 2",
+      "headline": "UE5で進化した日本語対応狩猟シム続編『Way of the Hunter 2』正式発売―撫でられるようになった犬と一緒に広大な荒野で最先端のバーチャルハンティング体験",
+      "description": "Way of the Hunter 2 is the next evolution of hunting sims, built on brand-new technology and featuring a loyal tracking…",
+      "publishedAt": "2026-09-29T21:30:03.000Z",
+      "addedAt": "2026-09-29T21:30:15.825Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172938.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wayofthehunter2.thqnordic.com/game-sites/wayofthehunter2/editions/standard-edition.jpg"
+    },
     {
       "id": "a4a8c8cb6072",
       "url": "https://thankyoumart.jp/collections/tamagotchi",
