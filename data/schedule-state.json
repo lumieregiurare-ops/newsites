@@ -1355,6 +1355,65 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/77/42/047742ef-2156-ce1e-c254-eb2540808920/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "モンハンアウトランダーズ": {
+      "at": "2026-09-29T02:30:29.436Z",
+      "entry": null
+    },
+    "Spellvoc": {
+      "at": "2026-09-29T02:30:30.744Z",
+      "entry": null
+    },
+    "ほの暮しの庭": {
+      "at": "2026-09-29T02:30:32.114Z",
+      "entry": null
+    },
+    "ペルソナ": {
+      "at": "2026-09-29T02:30:33.552Z",
+      "entry": {
+        "trackId": "6502942931",
+        "title": "P5X ペルソナ５: The Phantom X",
+        "artist": "SEGA CORPORATION",
+        "genres": [
+          "ロールプレイング",
+          "アクション"
+        ],
+        "releaseDate": "2025-06-25T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6502942931",
+        "sellerUrl": "https://p5x.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/3d/44/713d44c2-7c9a-801c-6115-8e819d5e194f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "LIAR GAME": {
+      "at": "2026-09-29T02:30:35.018Z",
+      "entry": {
+        "trackId": "1671806628",
+        "title": "LIAR Game",
+        "artist": "Giacomo Hendel",
+        "genres": [
+          "単語"
+        ],
+        "releaseDate": "2023-02-15T08:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1671806628",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/b3/7c/64b37c00-bae5-b7da-916a-38576a26c039/LIAR_Game_Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "VTuber 儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月": {
+      "at": "2026-09-29T02:30:36.399Z",
+      "entry": null
+    },
+    "Thank You Bus Driver": {
+      "at": "2026-09-29T02:30:37.807Z",
+      "entry": null
+    },
+    "エースコンバット8": {
+      "at": "2026-09-29T02:30:39.144Z",
+      "entry": null
     }
   },
   "titles": {
@@ -4317,7 +4376,7 @@
       "dateText": "2026年9月23日",
       "date": "2026-09-23",
       "sortKey": "2026-09-23",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T06:09:44.363Z"
     },
     "生き残れ！無人島サバイバル生活♡": {
@@ -4346,7 +4405,7 @@
     },
     "モンスターハンターアウトランダーズ": {
       "title": "モンスターハンターアウトランダーズ",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
@@ -4401,7 +4460,7 @@
     },
     "刀剣乱舞ぱずぎり": {
       "title": "刀剣乱舞ぱずぎり",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "nevergrave": {
@@ -17487,7 +17546,7 @@
       "dateText": "2026年10月15日",
       "date": "2026-10-15",
       "sortKey": "2026-10-15",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-28T03:30:26.824Z"
     },
     "endlessvoid:idletowerdefencedemo": {
@@ -17841,6 +17900,29 @@
       "sortKey": "2026-09-29",
       "prereg": false,
       "firstSeen": "2026-09-29T02:00:38.983Z"
+    },
+    "モンハンアウトランダーズ": {
+      "title": "モンハンアウトランダーズ",
+      "dateText": "2026年12月15日",
+      "date": "2026-12-15",
+      "sortKey": "2026-12-15",
+      "prereg": true,
+      "firstSeen": "2026-09-29T02:30:29.185Z"
+    },
+    "spellvoc": {
+      "title": "Spellvoc",
+      "prereg": true,
+      "firstSeen": "2026-09-29T02:30:29.185Z"
+    },
+    "vtuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定": {
+      "title": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定",
+      "prereg": true,
+      "firstSeen": "2026-09-29T02:30:29.185Z"
+    },
+    "エースコンバット8": {
+      "title": "エースコンバット8",
+      "prereg": true,
+      "firstSeen": "2026-09-29T02:30:29.185Z"
     }
   },
   "changeLog": [
@@ -20708,6 +20790,90 @@
         "mobile"
       ],
       "to": "2026年9月30日"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "new",
+      "label": "新規",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Spellvoc",
+      "url": "https://gudarikastudio.com/",
+      "image": "https://gudarikastudio.com/_astro/Spellvoc_KeyArt_16x9_WithLogo.LResRaW9_Z1vIOQ9.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定",
+      "url": "https://raden2027.clan-entertainment.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "原神",
+      "url": "https://genshin-cafe.jp/",
+      "image": "https://genshin-cafe.jp/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年オープン"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Thank You Bus Driver",
+      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
+      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "10月15日リリース"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "エースコンバット8",
+      "url": "https://enso-order.acecombat.jp/",
+      "image": "https://enso-order.acecombat.jp/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
     }
   ],
   "initialized": true,

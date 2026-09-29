@@ -1,25 +1,33 @@
 {
-  "updatedAt": "2026-09-29T02:00:38.983Z",
+  "updatedAt": "2026-09-29T02:30:29.185Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
-      "appstoreSearch": 0,
-      "appstoreLookup": 0.1
+      "appstoreSearch": 9.9,
+      "appstoreLookup": 0.6
     },
     "nintendo": 289,
     "steam": 300,
-    "news": 54,
+    "news": 55,
     "appstore": {
-      "searched": 87,
-      "matched": 55,
+      "searched": 95,
+      "matched": 57,
       "preorder": 2,
       "fromLists": 2,
       "unverified": 3,
-      "lookedUp": 25
+      "lookedUp": 27
     },
-    "prereg": 26,
+    "prereg": 30,
     "preregDropped": [
+      {
+        "title": "ペルソナ",
+        "reason": "released on App Store"
+      },
+      {
+        "title": "LIAR GAME -ライアーゲーム-",
+        "reason": "released on App Store"
+      },
       {
         "title": "ガーディアンテイルズ",
         "reason": "released on App Store"
@@ -43,6 +51,10 @@
       {
         "title": "RyzaChat:AIライザと創るあなただけのひと夏の夢物語",
         "reason": "official site says released"
+      },
+      {
+        "title": "刀剣乱舞ぱずぎり",
+        "reason": "released on App Store"
       },
       {
         "title": "Never Grave",
@@ -173,7 +185,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.164,
+      "priority": 3.166,
       "platforms": [
         "pc"
       ],
@@ -189,7 +201,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.117,
+      "priority": 3.118,
       "platforms": [
         "pc"
       ],
@@ -397,7 +409,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.16,
+      "priority": 3.161,
       "platforms": [
         "pc"
       ],
@@ -445,7 +457,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.154,
+      "priority": 3.153,
       "platforms": [
         "pc"
       ],
@@ -477,7 +489,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.177,
+      "priority": 3.176,
       "platforms": [
         "pc"
       ],
@@ -509,7 +521,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.138,
+      "priority": 3.1390000000000002,
       "platforms": [
         "pc"
       ],
@@ -525,7 +537,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.2359999999999998,
+      "priority": 3.237,
       "platforms": [
         "pc"
       ],
@@ -557,7 +569,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.118,
+      "priority": 3.117,
       "platforms": [
         "pc"
       ],
@@ -573,7 +585,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.297,
+      "priority": 3.298,
       "platforms": [
         "pc"
       ],
@@ -589,7 +601,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.159,
+      "priority": 3.16,
       "platforms": [
         "pc"
       ],
@@ -621,7 +633,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.176,
+      "priority": 3.177,
       "platforms": [
         "pc"
       ],
@@ -637,7 +649,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.189,
+      "priority": 3.19,
       "platforms": [
         "pc"
       ],
@@ -685,7 +697,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.161,
+      "priority": 3.162,
       "platforms": [
         "pc"
       ],
@@ -701,7 +713,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.292,
+      "priority": 3.293,
       "platforms": [
         "pc"
       ],
@@ -942,7 +954,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.19,
+      "priority": 3.189,
       "platforms": [
         "pc"
       ],
@@ -1054,7 +1066,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.11,
+      "priority": 3.111,
       "platforms": [
         "pc"
       ],
@@ -1086,7 +1098,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.135,
+      "priority": 3.136,
       "platforms": [
         "pc"
       ],
@@ -1118,7 +1130,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.152,
+      "priority": 3.154,
       "platforms": [
         "pc"
       ],
@@ -1134,7 +1146,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.1390000000000002,
+      "priority": 3.138,
       "platforms": [
         "pc"
       ],
@@ -1214,7 +1226,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.204,
+      "priority": 3.203,
       "platforms": [
         "pc"
       ],
@@ -1230,7 +1242,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.094,
+      "priority": 3.093,
       "platforms": [
         "pc"
       ],
@@ -1676,7 +1688,7 @@
       "date": "2026-09-29",
       "dateText": "2026年9月29日",
       "sortKey": "2026-09-29",
-      "priority": 3.23,
+      "priority": 3.229,
       "platforms": [
         "pc"
       ],
@@ -1708,7 +1720,7 @@
       "date": "2026-09-30",
       "dateText": "2026年9月30日",
       "sortKey": "2026-09-30",
-      "priority": 3.287,
+      "priority": 3.286,
       "platforms": [
         "pc"
       ],
@@ -1740,7 +1752,7 @@
       "date": "2026-09-30",
       "dateText": "2026年9月30日",
       "sortKey": "2026-09-30",
-      "priority": 3.225,
+      "priority": 3.226,
       "platforms": [
         "pc"
       ],
@@ -1779,7 +1791,7 @@
       "date": "2026-09-30",
       "dateText": "2026年9月30日",
       "sortKey": "2026-09-30",
-      "priority": 3.255,
+      "priority": 3.254,
       "platforms": [
         "pc"
       ],
@@ -1939,7 +1951,7 @@
       "date": "2026-09-30",
       "dateText": "2026年9月30日",
       "sortKey": "2026-09-30",
-      "priority": 3.203,
+      "priority": 3.202,
       "platforms": [
         "pc"
       ],
@@ -2083,7 +2095,7 @@
       "date": "2026-09-30",
       "dateText": "2026年9月30日",
       "sortKey": "2026-09-30",
-      "priority": 3.105,
+      "priority": 3.104,
       "platforms": [
         "pc"
       ],
@@ -2231,7 +2243,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.093,
+      "priority": 3.094,
       "platforms": [
         "pc"
       ],
@@ -2439,7 +2451,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.142,
+      "priority": 3.143,
       "platforms": [
         "pc"
       ],
@@ -2471,7 +2483,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.143,
+      "priority": 3.142,
       "platforms": [
         "pc"
       ],
@@ -2551,7 +2563,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.166,
+      "priority": 3.167,
       "platforms": [
         "pc"
       ],
@@ -2583,7 +2595,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.153,
+      "priority": 3.152,
       "platforms": [
         "pc"
       ],
@@ -2615,7 +2627,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.167,
+      "priority": 3.164,
       "platforms": [
         "pc"
       ],
@@ -2807,7 +2819,7 @@
       "date": null,
       "dateText": "2026年第3四半期",
       "sortKey": "2026-09-31",
-      "priority": 3.147,
+      "priority": 3.148,
       "platforms": [
         "pc"
       ],
@@ -3030,7 +3042,7 @@
       "date": "2026-10-01",
       "dateText": "2026年10月1日",
       "sortKey": "2026-10-01",
-      "priority": 3.262,
+      "priority": 3.263,
       "platforms": [
         "pc"
       ],
@@ -3165,7 +3177,7 @@
       "date": "2026-10-01",
       "dateText": "2026年10月1日",
       "sortKey": "2026-10-01",
-      "priority": 3.162,
+      "priority": 3.159,
       "platforms": [
         "pc"
       ],
@@ -3220,7 +3232,7 @@
       "date": "2026-10-01",
       "dateText": "2026年10月1日",
       "sortKey": "2026-10-01",
-      "priority": 3.136,
+      "priority": 3.135,
       "platforms": [
         "pc"
       ],
@@ -4505,7 +4517,7 @@
       "date": "2026-10-08",
       "dateText": "2026年10月8日",
       "sortKey": "2026-10-08",
-      "priority": 3.202,
+      "priority": 3.204,
       "platforms": [
         "pc"
       ],
@@ -4560,7 +4572,7 @@
       "date": "2026-10-08",
       "dateText": "2026年10月8日",
       "sortKey": "2026-10-08",
-      "priority": 3.04,
+      "priority": 3.039,
       "platforms": [
         "pc"
       ],
@@ -4712,7 +4724,7 @@
       "date": "2026-10-08",
       "dateText": "2026年10月8日",
       "sortKey": "2026-10-08",
-      "priority": 3.259,
+      "priority": 3.261,
       "platforms": [
         "pc"
       ],
@@ -8078,6 +8090,25 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "30697b3132c1",
+      "title": "モンハンアウトランダーズ",
+      "date": "2026-12-15",
+      "dateText": "2026年12月15日",
+      "sortKey": "2026-12-15",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
+      "maker": "",
+      "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k",
+      "announcedText": "2026年10月29日",
+      "dateSource": "appstore"
+    },
+    {
       "id": "9324243906dc",
       "title": "DLC Pack 12 Frightful Night",
       "date": "2026-12-17",
@@ -8573,6 +8604,86 @@
   ],
   "prereg": [
     {
+      "id": "0d1f122fb715",
+      "title": "Spellvoc",
+      "url": "https://gudarikastudio.com/",
+      "image": "https://gudarikastudio.com/_astro/Spellvoc_KeyArt_16x9_WithLogo.LResRaW9_Z1vIOQ9.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "startedAt": "2026-09-29T01:15:40.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "【最大4人協力】動物たちが魔法のアイテムを作って届けるゲーム『Spellvoc』Steamストアページが公開。火の玉で着火したり頑張る姿がかわいい",
+      "description": "Gudarika Studio is an independent game studio developing Spellvoc — a chaotic co-op crafting game for 2–4 apprentice wi…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260929i",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
+      "id": "d9c5e7079144",
+      "title": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定",
+      "url": "https://raden2027.clan-entertainment.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-28T08:39:52.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定。特別音声ガイドや謎解き、描き下ろしパネル展示などを実施へ",
+      "description": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定。特別音声ガイドや謎解き、描き下ろしパネル展示などを実施へ",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2609282i",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
+      "id": "90b6b4dc2c67",
+      "title": "原神",
+      "url": "https://genshin-cafe.jp/",
+      "image": "https://genshin-cafe.jp/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-28T03:45:03.000Z",
+      "releaseText": "2027年オープン",
+      "releaseSource": "news",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "『原神』日本公式カフェが始動！“常設店舗”として東京で2027年オープン予定",
+      "description": "原神CAFEの公式サイトです。",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/09/28/188367.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
+      "id": "ea83d6664c6f",
+      "title": "Thank You Bus Driver",
+      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
+      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-28T03:02:56.000Z",
+      "releaseText": "10月15日リリース",
+      "releaseSource": "news",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "バス運転手として時間と治安を守り運行するゲーム『Thank You Bus Driver』10月15日リリース。飲んだり騒いだりやりたい放題の乗客はビンタでわからせる",
+      "description": "Take on the role of a town’s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, a…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260928l",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "8fd209060525",
       "title": "WonderPaws",
       "url": "https://www.wonderpawsgame.com/",
@@ -8583,7 +8694,7 @@
       "startedAt": "2026-09-25T04:15:03.000Z",
       "releaseText": "",
       "releaseSource": "",
-      "count": "",
+      "count": "事前登録者数2000万人",
       "reward": "",
       "headline": "人間も動物たちもハッピーな世界が魅力の大都市ライフシム『WonderPaws』発表！アイドルになってもいいし市長でもいい、小さな動物に変身してお世話してもらうことも",
       "description": "Welcome to Paw City, Where Wonder Begins! Pre-register now for WonderPaws, a Cozy Paw City Life Sim where every day bri…",
@@ -8787,6 +8898,26 @@
       "trackId": "6760698900"
     },
     {
+      "id": "e11ffbbf2abf",
+      "title": "エースコンバット8",
+      "url": "https://enso-order.acecombat.jp/",
+      "image": "https://enso-order.acecombat.jp/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-14T15:15:02.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "『エースコンバット8』ストーリートレイラー公開―偽りの英雄「シーヴの翼」の名を背負う物語。敵エース部隊キャラや攻撃衛星「トニトルスの槍」など超兵器の新情報も",
+      "description": "ACE COMBAT 8: WINGS OF THEVE 公式サイト",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/15/172259.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "27616a24d3fa",
       "title": "無限大Ananta",
       "url": "https://game8.jp/preregistration/601590",
@@ -8850,28 +8981,30 @@
       "trackId": ""
     },
     {
-      "id": "a1a719f8b2de",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://apps.apple.com/jp/app/id6444520814",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "id": "69fba178c953",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
       "platforms": [
         "mobile"
       ],
       "startedAt": "2026-09-14T07:37:27.850Z",
       "releaseText": "2026年12月15日",
       "releaseSource": "appstore",
-      "count": "",
+      "count": "事前登録者数2000万人",
       "reward": "",
-      "headline": "",
-      "description": "Level Infinite / アクション・エンターテインメント・ロールプレイング",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/808921",
+      "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
+      "description": "冒険者の皆さん 本日より、『モンスターハンターアウトランダーズ』クローズドβテストが開始されました。 ご当選された方は、案内に沿ってプレイをお楽しみください。 クローズドβテストの開催に伴い、本日はさらなるゲーム情報をお届けします。 冒険…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k",
+      "appleId": "6444520814",
+      "trackId": "6444520814",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6444520814",
         "preorder": true,
         "releaseDate": "2026-12-15T08:00:00Z"
       },
-      "trackId": "6444520814"
+      "announcedText": "10月29日に配信"
     },
     {
       "id": "ddc3066f6b2c",
@@ -9173,45 +9306,92 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6783591351"
-    },
-    {
-      "id": "2117b6e08e65",
-      "title": "刀剣乱舞ぱずぎり",
-      "url": "https://touken-puzzle.com/",
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-07-13T00:00:00.000Z",
-      "releaseText": "2026年9月30日",
-      "releaseSource": "appstore",
-      "count": "事前登録者50万人",
-      "reward": "",
-      "headline": "「刀剣乱舞ぱずぎり」，事前登録受付を開始。絵巻守として，さまざまな刀剣男士たちとともに物語の世界を守る新作パズルRPG",
-      "description": "刀剣乱舞の新作パズルRPGが、2026年9月24日から好評配信中！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/873/G087362/20260713003/",
-      "appleId": "6747331078",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6747331078",
-        "preorder": true,
-        "releaseDate": "2026-09-30T07:00:00Z"
-      },
-      "trackId": "6747331078"
     }
   ],
   "changes": [
     {
-      "at": "2026-09-29T02:00:38.983Z",
+      "at": "2026-09-29T02:30:29.185Z",
       "type": "prereg_start",
       "label": "事前登録開始",
-      "title": "刀剣乱舞ぱずぎり",
-      "url": "https://touken-puzzle.com/",
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
       "platforms": [
         "mobile"
       ],
-      "to": "App Store 2026年9月30日"
+      "to": "App Store 2026年12月15日"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "エースコンバット8",
+      "url": "https://enso-order.acecombat.jp/",
+      "image": "https://enso-order.acecombat.jp/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Thank You Bus Driver",
+      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
+      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "10月15日リリース"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "原神",
+      "url": "https://genshin-cafe.jp/",
+      "image": "https://genshin-cafe.jp/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年オープン"
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "VTuber・儒烏風亭らでんさんと東京国立博物館のコラボイベントが2027年1月13日より開催決定",
+      "url": "https://raden2027.clan-entertainment.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Spellvoc",
+      "url": "https://gudarikastudio.com/",
+      "image": "https://gudarikastudio.com/_astro/Spellvoc_KeyArt_16x9_WithLogo.LResRaW9_Z1vIOQ9.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-09-29T02:30:29.185Z",
+      "type": "new",
+      "label": "新規",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
     },
     {
       "at": "2026-09-29T01:30:28.471Z",
@@ -9222,18 +9402,6 @@
       "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg",
       "platforms": [],
       "to": "2026年9月29日"
-    },
-    {
-      "at": "2026-09-28T23:30:37.192Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "刀剣乱舞ぱずぎり",
-      "url": "https://touken-puzzle.com/",
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年9月30日"
     },
     {
       "at": "2026-09-28T04:00:43.445Z",
@@ -9406,18 +9574,6 @@
         "mobile"
       ],
       "to": "App Store 2026年11月2日"
-    },
-    {
-      "at": "2026-09-24T07:00:30.628Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/d3/9c/46d39c9b-696c-de81-1a3d-54e6934b6fbe/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月15日"
     },
     {
       "at": "2026-09-24T07:00:30.628Z",
@@ -9864,55 +10020,6 @@
       "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/s7910b85c2a73e192/backgroundarea/i4ea96b0d59297375/version/1783838184/image.png",
       "platforms": [],
       "to": "2026年10月14日"
-    },
-    {
-      "at": "2026-09-17T09:02:30.098Z",
-      "type": "new",
-      "label": "新規",
-      "title": "イケアがXBOXとコラボした家具を10月1日より順次発売",
-      "url": "https://ikea.jp/",
-      "image": "",
-      "platforms": [
-        "xbox"
-      ],
-      "to": "2026年10月1日"
-    },
-    {
-      "at": "2026-09-17T03:52:01.948Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Fit Boxing 刀剣乱舞 -出陣！えくささいず本丸-",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122040",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1a89e58c9d242ec9e93aa03a97d095a55e324ac50404450ff552f5752a5ad674.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2027年1月15日"
-    },
-    {
-      "at": "2026-09-17T03:52:01.948Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ピクセルヒーロースクランブル プラス",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000107172",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ca333a1c99a0f98c9e83443d3110ab773b335ae008607e88575d197bcf8d0d03.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月1日"
-    },
-    {
-      "at": "2026-09-16T23:59:08.413Z",
-      "type": "new",
-      "label": "新規",
-      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.5「アシュティア＆ヴィクト」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000071345",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2dfc24e99e1c0c16bea04b00592b8fae50295a4b55c702e5d8f2fe6d0f5b56cc.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月31日"
     }
   ],
   "platforms": [
