@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T11:30:25.143Z",
+  "updatedAt": "2026-09-29T12:00:17.608Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 479,
+  "total": 480,
   "regions": {
-    "jp": 401,
+    "jp": 402,
     "global": 78
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 141
+      "count": 142
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 12
+      "count": 13
     },
     {
       "id": "goods",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "53aa82a091f1",
+      "url": "https://www.thewitcher.com/jp/ja/witcher3",
+      "host": "thewitcher.com",
+      "region": "jp",
+      "title": "ウィッチャー3 ワイルドハント リマスター",
+      "headline": "「ウィッチャー3 ワイルドハント リマスター」本日リリース。ビジュアルの強化やスキルツリーの刷新に加え，コンシューマ版もMODに対応",
+      "description": "『ウィッチャー３ ワイルドハント』は、ダークファンタジーのオープンワールドを舞台とした傑作RPG。自身の養女であるシリを探すべく、大陸を旅する「リヴィアのゲラルト」の物語が描かれる。",
+      "publishedAt": "2026-09-29T11:48:45.000Z",
+      "addedAt": "2026-09-29T12:00:17.608Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104637/20260929034/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://public.cdn.cdpr.app/thewitcher/website/witcher3/og-image/og-image-remastered-diww7fkwnzl.jpg"
+    },
     {
       "id": "94d7ca2b765b",
       "url": "https://www.antistaticstudios.net/",
