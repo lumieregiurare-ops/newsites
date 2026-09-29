@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:30:19.272Z",
+  "updatedAt": "2026-09-29T20:00:18.581Z",
   "boards": [
     {
       "id": "steam",
@@ -228,27 +228,27 @@
         },
         {
           "rank": 7,
-          "title": "リング回転 (Rotate Rings)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/53/61/515361e3-0844-74cc-a6fe-8a5c822bf3bd/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%83%B3%E3%82%B0%E5%9B%9E%E8%BB%A2-rotate-rings/id6793924927",
-          "metric": "Nebula Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
           "title": "Food Hunt: Pixel Puzzle",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/ce/55/42ce5527-0dc9-28e7-60d3-d43ebbf8b3aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/food-hunt-pixel-puzzle/id6769314786",
           "metric": "FUNFINITY PTE. LTD",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
+          "title": "リング回転 (Rotate Rings)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/53/61/515361e3-0844-74cc-a6fe-8a5c822bf3bd/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%83%B3%E3%82%B0%E5%9B%9E%E8%BB%A2-rotate-rings/id6793924927",
+          "metric": "Nebula Studio",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
