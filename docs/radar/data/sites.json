@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T11:00:18.726Z",
+  "updatedAt": "2026-09-29T11:30:25.143Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 477,
+  "total": 479,
   "regions": {
-    "jp": 400,
-    "global": 77
+    "jp": 401,
+    "global": 78
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 105
+      "count": 106
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 140
+      "count": 141
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 26
+      "count": 27
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 150
+      "count": 151
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "94d7ca2b765b",
+      "url": "https://www.antistaticstudios.net/",
+      "host": "antistaticstudios.net",
+      "region": "global",
+      "title": "Phantom Line",
+      "headline": "巨大企業の特殊部隊員として，アノマリーに立ち向かえ。「Phantom Line」，プロローグ版を10月26日に無料配信決定",
+      "description": "Phantom Line by Antistatic Studios | Antistatic Studios creates dark, atmospheric co-op FPS games. Discover Phantom Lin…",
+      "publishedAt": "2026-09-29T11:02:27.000Z",
+      "addedAt": "2026-09-29T11:30:25.143Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/807/G080790/20260929035/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/63ebed_b7fb997c3d524b31a1fae5372f2e2e34~mv2.jpg/v1/fill/w_2500,h_1406,al_c/63ebed_b7fb997c3d524b31a1fae5372f2e2e34~mv2.jpg"
+    },
     {
       "id": "c8d63ec4c3fb",
       "url": "https://mhaur.bn-ent.net/",
@@ -195,6 +225,33 @@
       ],
       "points": null,
       "image": "https://rebeast-preview.shimizu-mra.chatgpt.site/ogp.jpg"
+    },
+    {
+      "id": "feefd7794cbd",
+      "url": "https://www.newotani.co.jp/makuhari/special/pompompurin/",
+      "host": "newotani.co.jp",
+      "region": "jp",
+      "title": "ポムポムプリン×ホテルニュ",
+      "headline": "ポムポムプリン×ホテルニューオータニのスイーツビュッフェが開催決定。デカくてかわいいポムポムプリンの極上タルトやサンマルク、マフィンなどが登場",
+      "description": "ポムポムプリンの世界観と、ホテルニューオータニ幕張の伝統技が融合した、最高にキュートで贅沢なプレミアムスイーツ体験。2026年10月9日から11月30日までの期間限定。",
+      "publishedAt": "2026-09-29T07:00:16.000Z",
+      "addedAt": "2026-09-29T11:30:25.143Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609292j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.newotani.co.jp/makuhari/special/pompompurin/ogp.jpg"
     },
     {
       "id": "88fabdbfc608",
@@ -1878,7 +1935,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/b3/aa/49b3aa5b-d79a-40df-f4b9-328c650b04ab/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/53/0a/c4530ad8-87df-4ce5-5367-2837a87e0124/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0a34b3bade6e",
@@ -14118,7 +14175,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/de/82/81de82a1-a2cc-d4f8-04e9-2a60b38fb276/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/7c/8a/117c8a87-65a3-a056-2b83-c46f63336c17/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b6f8b2b689cd",
@@ -14383,7 +14440,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/e4/80/15e480a6-a3ce-8a66-abd1-0c7cfaf9902c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/e2/94/6ee294c3-d30b-7723-fb5d-b685bdbfe84c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "76ae1cc4db31",
