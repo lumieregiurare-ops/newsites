@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T09:00:23.932Z",
+  "updatedAt": "2026-09-29T09:31:24.948Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -15,7 +15,7 @@
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 21
+      "count": 22
     },
     {
       "id": "prereg",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 76
+      "count": 75
     }
   ],
   "platforms": [
@@ -9273,10 +9273,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "ティザーサイト"
       ],
       "categories": [
-        "official"
+        "teaser"
       ],
       "platforms": [],
       "points": null,
