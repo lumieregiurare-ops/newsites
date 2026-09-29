@@ -4401,7 +4401,7 @@
     },
     "刀剣乱舞ぱずぎり": {
       "title": "刀剣乱舞ぱずぎり",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "nevergrave": {
@@ -17833,6 +17833,14 @@
       "sortKey": "2026-09-29",
       "prereg": false,
       "firstSeen": "2026-09-29T01:30:28.471Z"
+    },
+    "fruitfetish": {
+      "title": "Fruit Fetish",
+      "dateText": "2026年9月29日",
+      "date": "2026-09-29",
+      "sortKey": "2026-09-29",
+      "prereg": false,
+      "firstSeen": "2026-09-29T02:00:38.983Z"
     }
   },
   "changeLog": [
@@ -20688,6 +20696,18 @@
       "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg",
       "platforms": [],
       "to": "2026年9月29日"
+    },
+    {
+      "at": "2026-09-29T02:00:38.983Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年9月30日"
     }
   ],
   "initialized": true,

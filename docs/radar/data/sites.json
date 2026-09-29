@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T01:30:16.824Z",
+  "updatedAt": "2026-09-29T02:00:17.725Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 466,
+  "total": 467,
   "regions": {
-    "jp": 389,
+    "jp": 390,
     "global": 77
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 102
+      "count": 103
     },
     {
       "id": "release",
@@ -411,6 +411,33 @@
       "categories": [
         "event",
         "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ea6d10aa0cc2",
+      "url": "https://tgs.jp.net/event/miniature-bakery/",
+      "host": "tgs.jp.net",
+      "region": "jp",
+      "title": "ミニチュアベーカリーの世界展 2026",
+      "headline": "精巧な“小さなパン屋さん”が集結！「ミニチュアベーカリーの世界展 2026」が東京・浅草橋と名古屋で開催決定",
+      "description": "精巧な“小さなパン屋さん”が集結！「ミニチュアベーカリーの世界展 2026」が東京・浅草橋と名古屋で開催決定",
+      "publishedAt": "2026-09-28T07:15:03.000Z",
+      "addedAt": "2026-09-29T02:00:17.725Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/28/188388.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
       ],
       "platforms": [],
       "points": null,

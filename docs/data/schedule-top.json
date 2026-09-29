@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T01:30:28.471Z",
+  "updatedAt": "2026-09-29T02:00:38.983Z",
   "platforms": [
     {
       "id": "switch",
@@ -457,6 +457,18 @@
   ],
   "changes": [
     {
+      "at": "2026-09-29T02:00:38.983Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月30日"
+    },
+    {
       "at": "2026-09-29T01:30:28.471Z",
       "type": "new",
       "label": "新規",
@@ -465,6 +477,18 @@
       "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg",
       "platforms": [],
       "to": "2026年9月29日"
+    },
+    {
+      "at": "2026-09-28T23:30:37.192Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "刀剣乱舞ぱずぎり",
+      "url": "https://touken-puzzle.com/",
+      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年9月30日"
     },
     {
       "at": "2026-09-28T04:00:43.445Z",
@@ -497,32 +521,6 @@
       "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
       "platforms": [],
       "to": "2026年12月1日"
-    },
-    {
-      "at": "2026-09-28T01:00:29.821Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Booster Pack Heroes",
-      "url": "https://apps.apple.com/jp/app/id6801113954",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/39/a7/f739a71a-da0e-e2af-c756-ecd2fb73d61a/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": "2026年11月10日"
-    },
-    {
-      "at": "2026-09-27T23:00:28.124Z",
-      "type": "new",
-      "label": "新規",
-      "title": "リトルナイトメア3 - 海岸",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000061276",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fd9a98d70dc56adf991eeb8f25ce3940191270778ba790a2bb41a24f1ae30899.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2026年9月30日"
     }
   ]
 }
