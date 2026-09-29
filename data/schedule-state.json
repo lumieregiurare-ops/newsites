@@ -1414,6 +1414,10 @@
     "エースコンバット8": {
       "at": "2026-09-29T02:30:39.144Z",
       "entry": null
+    },
+    "マインクラフト": {
+      "at": "2026-09-29T03:00:29.355Z",
+      "entry": null
     }
   },
   "titles": {
@@ -17923,6 +17927,11 @@
       "title": "エースコンバット8",
       "prereg": true,
       "firstSeen": "2026-09-29T02:30:29.185Z"
+    },
+    "マインクラフト": {
+      "title": "マインクラフト",
+      "prereg": true,
+      "firstSeen": "2026-09-29T03:00:29.010Z"
     }
   },
   "changeLog": [
@@ -20874,6 +20883,18 @@
         "mobile"
       ],
       "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-09-29T03:00:29.010Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "マインクラフト",
+      "url": "https://www.minecraft.net/ja-jp/redeem",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Redeem_Featured-Image-0_570x321.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

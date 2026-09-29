@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T02:30:29.185Z",
+  "updatedAt": "2026-09-29T03:00:29.010Z",
   "platforms": [
     {
       "id": "switch",
@@ -266,6 +266,26 @@
   ],
   "prereg": [
     {
+      "id": "f288e2691242",
+      "title": "マインクラフト",
+      "url": "https://www.minecraft.net/ja-jp/redeem",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Redeem_Featured-Image-0_570x321.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-29T02:31:12.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "事前登録者数2000万人",
+      "reward": "",
+      "headline": "『マインクラフト』の新しいマント「オーロラケープ」が入手できるキャンペーンが期間限定で開催。『マインクラフト ダンジョンズ 2』コンテンツのTwitch配信やTikTok配信視聴…",
+      "description": "Minecraft のコード、ギフト カード、プリペイド カードを引き換えて、ゲーム、マインコイン、マーケットプレイスのコンテンツなどをアンロックしましょう。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/260929t",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "0d1f122fb715",
       "title": "Spellvoc",
       "url": "https://gudarikastudio.com/",
@@ -411,35 +431,21 @@
         "preorder": true,
         "releaseDate": "2026-10-24T07:00:00Z"
       }
-    },
-    {
-      "id": "746f82ff8dbb",
-      "title": "Sanrio Kawaii Me Live!",
-      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
-      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-21T03:00:00.000Z",
-      "releaseText": "2027年1月14日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "Sanrio Games初のスマホ向けダンス＆リズムゲーム「Sanrio Kawaii Me Live!」，2027年1月にリリース。本日より事前登録の受付を開始",
-      "description": "\"超KAWAII\"新作リズム＆ダンスゲーム『サンリオカワイイミライブ！（カワミラ）』リリース記念ライブ特設サイト。2027年1月14日(木)に横浜関内ホールにて開催！チケット情報や、会場へのアクセス方法などをまとめてご紹介。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/044/G104418/20260918051/",
-      "appleId": "",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6749342133",
-        "preorder": true,
-        "releaseDate": "2027-01-14T08:00:00Z"
-      },
-      "announcedText": "2027年1月にリリース",
-      "trackId": "6749342133"
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-29T03:00:29.010Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "マインクラフト",
+      "url": "https://www.minecraft.net/ja-jp/redeem",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Redeem_Featured-Image-0_570x321.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-09-29T02:30:29.185Z",
       "type": "prereg_start",
@@ -497,18 +503,6 @@
       "image": "",
       "platforms": [
         "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-09-29T02:30:29.185Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Spellvoc",
-      "url": "https://gudarikastudio.com/",
-      "image": "https://gudarikastudio.com/_astro/Spellvoc_KeyArt_16x9_WithLogo.LResRaW9_Z1vIOQ9.jpg",
-      "platforms": [
-        "pc"
       ],
       "to": ""
     }

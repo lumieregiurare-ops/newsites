@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T02:30:16.002Z",
+  "updatedAt": "2026-09-29T03:00:15.927Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 467,
+  "total": 469,
   "regions": {
-    "jp": 390,
+    "jp": 392,
     "global": 77
   },
   "categories": [
@@ -20,22 +20,22 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 64
+      "count": 65
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 49
+      "count": 50
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 85
+      "count": 86
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 103
+      "count": 104
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,65 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4a5f5896655e",
+      "url": "https://45th.wizardry.info/",
+      "host": "45th.wizardry.info",
+      "region": "jp",
+      "title": "ウィザードリィ",
+      "headline": "『ウィザードリィ』45周年記念インタビュー第2弾が公開！「小説ウィザードリィ 隣り合わせの灰と青春」の著者ベニー松山氏が執筆の裏話や当時の熱気を語る",
+      "description": "ウィザードリィ45周年を記念する公式サイト。1981年の誕生以来、ジャンルを定義し続けてきた伝説的RPGのウィザードリィ。至高のダンジョン探索RPGの「次なる展開」を目撃せよ。",
+      "publishedAt": "2026-09-29T03:00:03.000Z",
+      "addedAt": "2026-09-29T03:00:15.927Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/29/172893.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://45th.wizardry.info/assets/images/ogp.jpg"
+    },
+    {
+      "id": "f288e2691242",
+      "url": "https://www.minecraft.net/ja-jp/redeem",
+      "host": "minecraft.net",
+      "region": "jp",
+      "title": "マインクラフト",
+      "headline": "『マインクラフト』の新しいマント「オーロラケープ」が入手できるキャンペーンが期間限定で開催。『マインクラフト ダンジョンズ 2』コンテンツのTwitch配信やTikTok配信視聴…",
+      "description": "Minecraft のコード、ギフト カード、プリペイド カードを引き換えて、ゲーム、マインコイン、マーケットプレイスのコンテンツなどをアンロックしましょう。",
+      "publishedAt": "2026-09-29T02:31:12.000Z",
+      "addedAt": "2026-09-29T03:00:15.927Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260929t"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "事前登録"
+      ],
+      "categories": [
+        "campaign",
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Redeem_Featured-Image-0_570x321.jpg"
+    },
     {
       "id": "69fba178c953",
       "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
