@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T12:00:17.608Z",
+  "updatedAt": "2026-09-29T12:30:16.665Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 480,
+  "total": 481,
   "regions": {
     "jp": 402,
-    "global": 78
+    "global": 79
   },
   "categories": [
     {
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "company",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "arcade",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a14d3572ac38",
+      "url": "https://destroy.spritefusion.com/",
+      "host": "destroy.spritefusion.com",
+      "region": "global",
+      "title": "Destroy Any Website",
+      "headline": "スパ君大炎上！ウェブサイトを破壊して回れる棒人間ブラウザゲーム『Destroy Any Website』発表",
+      "description": "Type an address, break everything. Any website becomes a destructible pixel-art level, solo or with friends.",
+      "publishedAt": "2026-09-29T12:30:04.000Z",
+      "addedAt": "2026-09-29T12:30:16.665Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/29/172926.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://destroy.spritefusion.com/og.png"
+    },
     {
       "id": "53aa82a091f1",
       "url": "https://www.thewitcher.com/jp/ja/witcher3",
@@ -11406,7 +11435,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sAwcx4ZNsugTJVoRdaeL_KJmpdjyOlEX3ahOng0DdCTuh4sMXlUHm_fkvKQuedbzcGZKUi2v9HjigaW8aQFEyEHSmHKEYSDXxXCVjtWs-70vJYIpE3wvwYrC0NKvbMceS735IiEavvsFFeYPTPD4xZZglXAMHb2u7VY0Xp1aYcuYGcXgeW-4Q6jaRG=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t0BGIQB-DgNW8M5IGpZrd5WPkw74ITsH11uUdnXQDsYlJolx-PZC0PtaaRUatDONHXG6bb2TQ5gqZ0j6ILprkfUosisnroW2DM-KYqqLe1-LKUZ4XVuXilCmMelMah1py-Ui2KJ1uDlyYlf4VENhgpaP1snCdgwhRslLm6zv0A40nmvjZrbccWEZ4j=w16383"
     },
     {
       "id": "7f727450ced7",
