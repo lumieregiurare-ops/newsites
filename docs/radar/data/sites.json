@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T13:00:21.616Z",
+  "updatedAt": "2026-09-29T13:30:18.607Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 482,
+  "total": 483,
   "regions": {
-    "jp": 403,
+    "jp": 404,
     "global": 79
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 51
+      "count": 52
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 90
+      "count": 91
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 108
+      "count": 109
     },
     {
       "id": "official",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a4a8c8cb6072",
+      "url": "https://thankyoumart.jp/collections/tamagotchi",
+      "host": "thankyoumart.jp",
+      "region": "jp",
+      "title": "たまごっち",
+      "headline": "サンキューマート「たまごっち」30周年コラボ雑貨が登場！ランチボックスや歯ブラシセットなど日常で使いやすいアイテム",
+      "description": "こちらの【予約販売】商品は※2026年11月中旬以降より順次発送予定ですが、遅延する場合がございます。※入荷から発送まで2～3週間程度かかる可能性がございます。※ご注文商品の\"全て\"が揃い次第発送となります。※予約販売は、商品をご購入いた…",
+      "publishedAt": "2026-09-29T13:10:02.000Z",
+      "addedAt": "2026-09-29T13:30:18.607Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/29/188484.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://thankyoumart.jp/cdn/shop/collections/a23ec432f3f5138647056429e4be770b_52c871f8-7c8b-49f2-b897-0e1fefb0ba0d.jpg?v=1777597721"
+    },
     {
       "id": "efcf840ba39f",
       "url": "https://www.lego.com/ja-jp",
