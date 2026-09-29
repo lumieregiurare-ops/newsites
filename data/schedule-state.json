@@ -1210,7 +1210,7 @@
       }
     },
     "イナズマイレブン クロス": {
-      "at": "2026-09-26T03:00:30.850Z",
+      "at": "2026-09-29T03:30:30.190Z",
       "entry": {
         "trackId": "6756994116",
         "title": "イナズマイレブン クロス",
@@ -1222,7 +1222,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6756994116",
         "sellerUrl": "https://www.inazuma-cross.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/30/36/9b303663-3e34-5b56-5581-c34be99bb25b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/27/18/0c27181f-3420-bb8c-9aec-9c8882484123/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -1418,6 +1418,23 @@
     "マインクラフト": {
       "at": "2026-09-29T03:00:29.355Z",
       "entry": null
+    },
+    "NARUTO": {
+      "at": "2026-09-29T03:30:28.702Z",
+      "entry": {
+        "trackId": "6745006459",
+        "title": "NARUTO－ナルト－ ナルティメットストーム+",
+        "artist": "Bandai Namco Entertainment Inc.",
+        "genres": [
+          "アクション"
+        ],
+        "releaseDate": "2025-12-04T08:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6745006459",
+        "sellerUrl": "https://www.bandainamcoent.co.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/13/56/051356bc-1538-1773-a503-e98a243b5800/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -4409,8 +4426,11 @@
     },
     "モンスターハンターアウトランダーズ": {
       "title": "モンスターハンターアウトランダーズ",
-      "prereg": false,
-      "firstSeen": "2026-09-14T07:37:27.850Z"
+      "prereg": true,
+      "firstSeen": "2026-09-14T07:37:27.850Z",
+      "dateText": "2026年12月15日",
+      "date": "2026-12-15",
+      "sortKey": "2026-12-15"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -17907,10 +17927,10 @@
     },
     "モンハンアウトランダーズ": {
       "title": "モンハンアウトランダーズ",
-      "dateText": "2026年12月15日",
-      "date": "2026-12-15",
-      "sortKey": "2026-12-15",
-      "prereg": true,
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
       "firstSeen": "2026-09-29T02:30:29.185Z"
     },
     "spellvoc": {
@@ -20895,6 +20915,43 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-09-29T03:30:28.396Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "モンハンアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
+      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年12月15日",
+      "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-09-29T03:30:28.396Z",
+      "type": "date_fixed",
+      "label": "発売日決定",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-09-29T03:30:28.396Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
     }
   ],
   "initialized": true,

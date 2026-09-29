@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-29T03:00:15.927Z",
+  "updatedAt": "2026-09-29T03:30:16.397Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 469,
+  "total": 471,
   "regions": {
-    "jp": 392,
+    "jp": 394,
     "global": 77
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 20
+      "count": 21
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 65
+      "count": 67
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 104
+      "count": 105
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 137
+      "count": 138
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 25
+      "count": 26
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 147
+      "count": 148
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "AppBank",
     "App Store",
@@ -132,6 +132,68 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "76e60b92205f",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "host": "monsterhunteroutlanders.com",
+      "region": "jp",
+      "title": "モンスターハンターアウトランダーズ",
+      "headline": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
+      "description": "『モンスターハンターアウトランダーズ』は、CAPCOM のライセンスを受けたTiMi Studios Groupが開発するモバイル向け新作ゲームです。本作は、おなじみの武器による狩猟体験はそのままに、新たな世界観や冒険者、オトモ、そして本…",
+      "publishedAt": "2026-09-29T03:05:02.000Z",
+      "addedAt": "2026-09-29T03:30:16.397Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/29/188445.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg"
+    },
+    {
+      "id": "9f4a8590ccc0",
+      "url": "https://naruto-official.com/special/soon",
+      "host": "naruto-official.com",
+      "region": "jp",
+      "title": "NARUTO-ナルト-",
+      "headline": "『NARUTO-ナルト-』完全新作アニメ情報が世界初公開へ。日本時間10月11日6時より実施される「ニューヨーク・コミコン2026」開催ステージにて",
+      "description": "New York Comic Conにて新プロジェクト発表！",
+      "publishedAt": "2026-09-29T03:00:10.000Z",
+      "addedAt": "2026-09-29T03:30:16.397Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609292b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "teaser",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://naruto-official.com/special/soon/OGP_jp.png"
+    },
     {
       "id": "4a5f5896655e",
       "url": "https://45th.wizardry.info/",
