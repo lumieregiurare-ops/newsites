@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T12:30:16.665Z",
+  "updatedAt": "2026-09-29T13:00:21.616Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 481,
+  "total": 482,
   "regions": {
-    "jp": 402,
+    "jp": 403,
     "global": 79
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 89
+      "count": 90
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 142
+      "count": 143
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Inside",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "efcf840ba39f",
+      "url": "https://www.lego.com/ja-jp",
+      "host": "lego.com",
+      "region": "jp",
+      "title": "レゴ®",
+      "headline": "「レゴ®」×「ドラゴンボール」コラボ第一弾で、ダイナミックな神龍＆筋斗雲に乗る孫悟空デザインが発売へ",
+      "description": "「レゴ®」×「ドラゴンボール」コラボ第一弾で、ダイナミックな神龍＆筋斗雲に乗る孫悟空デザインが発売へ",
+      "publishedAt": "2026-09-29T13:00:06.000Z",
+      "addedAt": "2026-09-29T13:00:21.616Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/29/188483.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a14d3572ac38",
       "url": "https://destroy.spritefusion.com/",
