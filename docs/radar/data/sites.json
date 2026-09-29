@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-29T06:30:18.948Z",
+  "updatedAt": "2026-09-29T07:00:19.557Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 473,
+  "total": 474,
   "regions": {
-    "jp": 396,
+    "jp": 397,
     "global": 77
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 50
+      "count": 51
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 87
+      "count": 88
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 139
+      "count": 140
     },
     {
       "id": "indie",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "88fabdbfc608",
+      "url": "https://www.30th.pokemon-card.com/product/m6a",
+      "host": "30th.pokemon-card.com",
+      "region": "jp",
+      "title": "ポケカ",
+      "headline": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選！拡張パック「30th CELEBRATION」や「エーフィ・ブラッキーセット」が対象",
+      "description": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」は2026年9月16日（水）発売！",
+      "publishedAt": "2026-09-29T06:35:02.000Z",
+      "addedAt": "2026-09-29T07:00:19.557Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/29/188464.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.30th.pokemon-card.com/m6a_ogp.jpg"
+    },
     {
       "id": "caa2860a247b",
       "url": "https://p-bandai.jp/item/item-1000257857/",
