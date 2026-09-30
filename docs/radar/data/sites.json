@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:00:17.782Z",
+  "updatedAt": "2026-09-30T19:27:30.403Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 7
+      "count": 11
     },
     {
       "id": "vr",
@@ -2984,14 +2984,16 @@
         "アクション",
         "カジュアル",
         "Action",
-        "Casual"
+        "Casual",
+        "MZGenre.Arcade"
       ],
       "categories": [
         "indie",
         "goods"
       ],
       "platforms": [
-        "mobile"
+        "mobile",
+        "arcade"
       ],
       "points": null,
       "image": ""
@@ -3019,14 +3021,16 @@
         "iOS",
         "ファミリー",
         "カジュアル",
-        "Casual"
+        "Casual",
+        "MZGenre.Arcade"
       ],
       "categories": [
         "company",
         "goods"
       ],
       "platforms": [
-        "mobile"
+        "mobile",
+        "arcade"
       ],
       "points": null,
       "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vZ_0-DKFAK0kmjHg-7W6v7_sM3tQCzQ-Ihi1kCll3v2ASTjjy92lF1m7uZoaKl_Yakl8SGCHr5VlP_HjbjalQ0A7XR6EG73TFtTDPKaHSMPBhAFVPALDvvuC07WUFjEOCHZGaptDi-pYqMItW_i26LHspgpTnvOAUhEEt41SAiCdlzfNi5x76rwzVN3FYyed4qveW-vYGAG9vTKSU3e-4XVbxCWj---YfSRhyTM4mxJas=w1200-h630-p-k-no-nu"
@@ -3894,7 +3898,9 @@
         "スマホ",
         "iOS",
         "カジノ",
-        "エンターテインメント"
+        "エンターテインメント",
+        "Casino",
+        "MZGenre.Entertainment"
       ],
       "categories": [
         "company",
@@ -4049,13 +4055,15 @@
         "アクション",
         "カジュアル",
         "Action",
-        "Casual"
+        "Casual",
+        "MZGenre.Arcade"
       ],
       "categories": [
         "goods"
       ],
       "platforms": [
-        "mobile"
+        "mobile",
+        "arcade"
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/83/c5/3183c5f6-3240-4aa1-7415-dd4b6f262182/Placeholder.mill/1200x630wa.jpg"
@@ -4146,7 +4154,8 @@
         "スマホ",
         "iOS",
         "ストラテジー",
-        "カード"
+        "カード",
+        "MZGenre.Strategy"
       ],
       "categories": [
         "goods"
@@ -4280,7 +4289,8 @@
         "スマホ",
         "iOS",
         "ボード",
-        "パズル"
+        "パズル",
+        "MZGenre.Puzzle"
       ],
       "categories": [
         "goods"
@@ -4346,7 +4356,8 @@
         "iOS",
         "アクション",
         "エンターテインメント",
-        "Action"
+        "Action",
+        "Entertainment"
       ],
       "categories": [
         "goods"
@@ -4380,7 +4391,8 @@
         "iOS",
         "エンターテインメント",
         "カジュアル",
-        "Casual"
+        "Casual",
+        "Entertainment"
       ],
       "categories": [
         "goods"
@@ -4414,7 +4426,8 @@
         "iOS",
         "シミュレーション",
         "教育",
-        "Education"
+        "Education",
+        "MZGenre.Simulation"
       ],
       "categories": [
         "goods"
@@ -5496,7 +5509,8 @@
         "iOS",
         "ストラテジー",
         "エンターテインメント",
-        "Strategy"
+        "Strategy",
+        "MZGenre.Entertainment"
       ],
       "categories": [
         "goods"
@@ -11157,7 +11171,8 @@
         "Android",
         "スマホ",
         "ロールプレイング",
-        "アドベンチャー"
+        "アドベンチャー",
+        "MZGenre.RolePlaying"
       ],
       "categories": [
         "release"
@@ -14889,7 +14904,9 @@
         "スマホ",
         "iOS",
         "シミュレーション",
-        "カジュアル"
+        "カジュアル",
+        "Simulation",
+        "Casual"
       ],
       "categories": [
         "goods"
@@ -14922,7 +14939,8 @@
         "スマホ",
         "iOS",
         "カジノ",
-        "シミュレーション"
+        "シミュレーション",
+        "Simulation"
       ],
       "categories": [
         "company",
@@ -15083,7 +15101,8 @@
         "スマホ",
         "iOS",
         "シミュレーション",
-        "ストラテジー"
+        "ストラテジー",
+        "Strategy"
       ],
       "categories": [
         "goods"
@@ -15116,7 +15135,9 @@
         "スマホ",
         "iOS",
         "カジュアル",
-        "シミュレーション"
+        "シミュレーション",
+        "Casual",
+        "Simulation"
       ],
       "categories": [
         "goods"
@@ -15316,7 +15337,9 @@
         "スマホ",
         "iOS",
         "アドベンチャー",
-        "カジュアル"
+        "カジュアル",
+        "MZGenre.Adventure",
+        "Casual"
       ],
       "categories": [
         "company",
@@ -15858,13 +15881,15 @@
         "Android",
         "スマホ",
         "パズル",
-        "カジュアル"
+        "カジュアル",
+        "MZGenre.Puzzle"
       ],
       "categories": [
         "prereg"
       ],
       "platforms": [
-        "mobile"
+        "mobile",
+        "arcade"
       ],
       "points": null,
       "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545"
