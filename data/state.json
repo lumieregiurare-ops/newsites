@@ -1,6 +1,89 @@
 {
   "items": [
     {
+      "id": "ee9753ded30e",
+      "url": "https://www.e-kinokuniya.com/",
+      "host": "e-kinokuniya.com",
+      "region": "jp",
+      "title": "マスコットバッグ",
+      "headline": "Suicaのペンギンが「マスコットバッグ」に！ 紀ノ国屋から発売決定ー背中からエコバッグが取り出せる",
+      "description": "Suicaのペンギンが「マスコットバッグ」に！ 紀ノ国屋から発売決定ー背中からエコバッグが取り出せる",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-30T09:30:04.000Z",
+      "addedAt": "2026-09-30T09:30:18.901Z",
+      "source": "Inside",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/30/188524.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-09-30T09:30:18.901Z",
+      "ogFetchedAt": "2026-09-30T09:30:18.901Z",
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
+      "id": "54c6a40efcdf",
+      "url": "https://www.gstar.or.kr/eng",
+      "host": "gstar.or.kr",
+      "region": "global",
+      "title": "G-STAR 2026",
+      "headline": "韓国最大級のゲームショウ「G-STAR 2026」，会場レイアウトと主要プログラムを発表。コーエーテクモゲームスやセガも出展",
+      "description": "G-STAR, Global Game Exhibition",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-09-30T09:27:50.000Z",
+      "addedAt": "2026-09-30T09:30:18.901Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20260930027/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "event"
+      ],
+      "points": null,
+      "image": "https://www.gstar.or.kr/images/logo.png",
+      "metaAttempts": 1,
+      "checkedAt": "2026-09-30T09:30:18.901Z",
+      "ogFetchedAt": "2026-09-30T09:30:18.901Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "e3c3b3fd4de6",
       "url": "https://tamashiiweb.com/item/16048/",
       "host": "tamashiiweb.com",
@@ -2037,8 +2120,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-29T09:00:23.932Z",
-      "ogFetchedAt": "2026-09-29T09:00:23.932Z",
+      "checkedAt": "2026-09-30T09:30:18.901Z",
+      "ogFetchedAt": "2026-09-30T09:30:18.901Z",
       "regionDetected": true,
       "platforms": []
     },
@@ -3849,8 +3932,8 @@
       "points": null,
       "image": "https://indietechgames.neoscorp.jp/sulfur/images/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-29T09:00:23.932Z",
-      "ogFetchedAt": "2026-09-29T09:00:23.932Z",
+      "checkedAt": "2026-09-30T09:30:18.901Z",
+      "ogFetchedAt": "2026-09-30T09:30:18.901Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -3901,8 +3984,8 @@
       "points": null,
       "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-29T09:00:23.932Z",
-      "ogFetchedAt": "2026-09-29T09:00:23.932Z",
+      "checkedAt": "2026-09-30T09:30:18.901Z",
+      "ogFetchedAt": "2026-09-30T09:30:18.901Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -4025,9 +4108,9 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 7,
+      "metaAttempts": 8,
       "linkUrl": "https://heroaca.com/news/28584/",
-      "checkedAt": "2026-09-29T09:00:23.932Z",
+      "checkedAt": "2026-09-30T09:30:18.901Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -20666,6 +20749,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/041/G104178/20260910066/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609303c"
         }
       ],
       "tags": [
