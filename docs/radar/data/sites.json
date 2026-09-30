@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T06:30:17.046Z",
+  "updatedAt": "2026-09-30T07:00:16.979Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 498,
+  "total": 500,
   "regions": {
-    "jp": 417,
-    "global": 81
+    "jp": 418,
+    "global": 82
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 107
+      "count": 108
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 150
+      "count": 152
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 13
+      "count": 14
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6d6aaf6e4a4a",
+      "url": "https://www.pokemon.co.jp/ex/pocoapokemon/ja/",
+      "host": "pokemon.co.jp",
+      "region": "jp",
+      "title": "ぽこ あ ポケモン",
+      "headline": "「ぽこ あ ポケモン」，「バケッチャのキャンディあつめ」を10月17日から開催。真夜中のお祭りをモチーフにした家具が手に入る",
+      "description": "『ぽこ あ ポケモン』公式サイト。ポケモン初のスローライフ・サンドボックスゲーム！ 2026年3月5日（木）世界同時発売！",
+      "publishedAt": "2026-09-30T06:44:53.000Z",
+      "addedAt": "2026-09-30T07:00:16.979Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/945/G094534/20260930021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pocoapokemon.jp/assets/og/ja/og.jpg"
+    },
+    {
+      "id": "2771172f6f87",
+      "url": "https://jp.wayofthehunter2.thqnordic.com/",
+      "host": "jp.wayofthehunter2.thqnordic.com",
+      "region": "jp",
+      "title": "Way of the Hunter 2",
+      "headline": "オープンワールド狩猟シム「Way of the Hunter 2」正式リリース。北米とアフリカの大自然を探索し，ヘラジカやバイソンなどの野生動物を狙おう",
+      "description": "Way of the Hunter 2 ウェイ オブ ザ ハンター 2",
+      "publishedAt": "2026-09-30T06:32:19.000Z",
+      "addedAt": "2026-09-30T07:00:16.979Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/979/G097942/20260930015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tgKrXhBFxsqcHYwN0IQydf2oVlyUsFvBaD9w8135v4jF3ofLvhw4oF93Rlgoacr3_9yiJDzulJYcsXwUpTHST1GlbAyPao_FCACgu-R7ium4pZRdrfRoenJJQhhSBb-iRUMbi71qeR9ZI8-COOgCGtqhGf7Vt1QCGnvJ8lvARb0ATnnOoa89_MzpSkikA=w16383"
+    },
     {
       "id": "5d8f0da9ef6f",
       "url": "https://www.darksouls.jp/remastered/",
@@ -202,10 +257,10 @@
       "id": "ff10e9c7aab2",
       "url": "https://ionlands.tumblr.com/tagged/ionlands",
       "host": "ionlands.tumblr.com",
-      "region": "jp",
+      "region": "global",
       "title": "Nivalis Nights",
       "headline": "サイバーパンク都市で自由な日常と店舗経営を満喫できる「Nivalis Nights」がPC向けに配信開始。ラーメン屋から夜の街の覇者を目指すシミュレータ",
-      "description": "サイバーパンク都市で自由な日常と店舗経営を満喫できる「Nivalis Nights」がPC向けに配信開始。ラーメン屋から夜の街の覇者を目指すシミュレータ",
+      "description": "ionlands - 「ionlands」タグが付けられている投稿Game Developer. Made Cloudpunk, a cyberpunk game about a courier in the sky. Now worki…",
       "publishedAt": "2026-09-30T05:30:09.000Z",
       "addedAt": "2026-09-30T06:00:19.932Z",
       "source": "4Gamer",
@@ -219,13 +274,14 @@
         "ゲーム"
       ],
       "categories": [
-        "release"
+        "release",
+        "media"
       ],
       "platforms": [
         "pc"
       ],
       "points": null,
-      "image": ""
+      "image": "https://64.media.tumblr.com/39b057ea1601982ce5e96a2c2ad1a0bc/c8e0cd4391a35ac3-f8/s128x128u_c1/abec1297a931d6913e1f5301a2b73f231d64b123.pnj"
     },
     {
       "id": "03df25f7c5cd",
@@ -411,6 +467,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/914/G091464/20260930004/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609302n"
         }
       ],
       "tags": [
@@ -1451,7 +1511,7 @@
       "region": "jp",
       "title": "フロアーXIIIの心象〜S",
       "headline": "マンション13階で起きた死を巡り，亡くなった兄の死因を突き止める。ホラーミステリーADV「フロアーXIIIの心象〜S」本日配信，13日間限定で13％オフになるリリースセールを実施",
-      "description": "「フロアーⅩⅢの心象～S」について 13年前（2013年）に同人ゲームとしてリリースした「フロアーⅩⅢの心象」という作品。 2500枚以上の実写画像や実際の環境音を利用したSE、状況に応じた臨場感あるBGMが特徴のホラーミステリーノベルゲ…",
+      "description": "「フロアーⅩⅢの心象～Ｓ」について 13年前(2013年)に同人ゲームとしてリリースした「フロアーⅩⅢの心象」という作品。 2500枚以上の実写画像や実際の環境音を利用したSE、状況に応じた臨場感あるBGMが特徴のホラーミステリーノベルゲ…",
       "publishedAt": "2026-09-28T05:52:48.000Z",
       "addedAt": "2026-09-28T06:00:20.352Z",
       "source": "4Gamer",
@@ -2714,7 +2774,7 @@
       "region": "jp",
       "title": "Roco Kingdom",
       "headline": "オープンワールドモンスター育成RPG『Roco Kingdom』鬼頭明里さんや日笠陽子さんら出演決定！KENNさん、相羽あいなさん登壇イベントにて発表",
-      "description": "『Roco Kingdom』は、オープンワールド・モンスター収集RPGの新たな進化形です。プレイヤーはロコとなって旅に出て、カロシア大陸に生息するジニたちと出会います。 生命力あふれるこの世界を探索し、400種以上の個性豊かなジニと出会う…",
+      "description": "『Roco Kingdom』次世代オープンワールド・モンスター収集RPG",
       "publishedAt": "2026-09-25T04:33:33.000Z",
       "addedAt": "2026-09-25T05:00:51.586Z",
       "source": "電ファミニコゲーマー",
