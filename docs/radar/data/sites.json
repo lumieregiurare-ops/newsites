@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T07:00:16.979Z",
+  "updatedAt": "2026-09-30T07:29:55.408Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 500,
+  "total": 501,
   "regions": {
-    "jp": 418,
+    "jp": 419,
     "global": 82
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 52
+      "count": 53
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 152
+      "count": 153
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0e672aa14cfd",
+      "url": "https://automaticflowers.ne.jp/",
+      "host": "automaticflowers.ne.jp",
+      "region": "jp",
+      "title": "ファイブスター物語",
+      "headline": "『ファイブスター物語』40周年を記念した書籍『F.S.S. EPISODES of 40th MEMORIAL』が10月1日に発売。全ロボットの最新一覧解説や発表年ごとのエピソー…",
+      "description": "永野護 公式サイト",
+      "publishedAt": "2026-09-30T07:18:45.000Z",
+      "addedAt": "2026-09-30T07:29:55.408Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609302u"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "6d6aaf6e4a4a",
       "url": "https://www.pokemon.co.jp/ex/pocoapokemon/ja/",
