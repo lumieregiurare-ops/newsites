@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T05:30:18.325Z",
+  "updatedAt": "2026-09-30T06:00:19.932Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 495,
+  "total": 497,
   "regions": {
-    "jp": 415,
-    "global": 80
+    "jp": 416,
+    "global": 81
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 148
+      "count": 150
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 111
+      "count": 112
     },
     {
       "id": "official",
@@ -77,17 +77,17 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 23
+      "count": 24
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 21
+      "count": 22
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 21
+      "count": 22
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 59
+      "count": 60
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 153
+      "count": 154
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "App Store",
@@ -132,6 +132,71 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "789f94dba1ce",
+      "url": "https://apps.apple.com/us/app/id6742194903",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "DEEP ROCK GALACTIC: SURVIVOR",
+      "headline": "『DEEP ROCK GALACTIC: SURVIVOR』にPS5版、ニンテンドースイッチ/スイッチ2版が10月登場、新DLC「Knockout」も発表",
+      "description": "Download Deep Rock Galactic: Survivor by Ghost Ship Publishing on the App Store. See screenshots, ratings and reviews, …",
+      "publishedAt": "2026-09-30T06:00:03.000Z",
+      "addedAt": "2026-09-30T06:00:19.932Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172959.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "switch",
+        "switch2",
+        "ps",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/4b/b8/f44bb8aa-9974-113e-98b5-0541a56165e9/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "ff10e9c7aab2",
+      "url": "https://ionlands.tumblr.com/tagged/ionlands",
+      "host": "ionlands.tumblr.com",
+      "region": "jp",
+      "title": "Nivalis Nights",
+      "headline": "サイバーパンク都市で自由な日常と店舗経営を満喫できる「Nivalis Nights」がPC向けに配信開始。ラーメン屋から夜の街の覇者を目指すシミュレータ",
+      "description": "サイバーパンク都市で自由な日常と店舗経営を満喫できる「Nivalis Nights」がPC向けに配信開始。ラーメン屋から夜の街の覇者を目指すシミュレータ",
+      "publishedAt": "2026-09-30T05:30:09.000Z",
+      "addedAt": "2026-09-30T06:00:19.932Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/572/G057261/20260930014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "03df25f7c5cd",
       "url": "https://dinolords.com/",
