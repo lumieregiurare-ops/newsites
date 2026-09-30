@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T09:30:18.901Z",
+  "updatedAt": "2026-09-30T10:00:28.895Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 507,
+  "total": 508,
   "regions": {
-    "jp": 424,
+    "jp": 425,
     "global": 83
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 80
+      "count": 81
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "34ce2a53deb0",
+      "url": "https://shonenjumpplus.com/",
+      "host": "shonenjumpplus.com",
+      "region": "jp",
+      "title": "SPY×FAMILY",
+      "headline": "集英社「少年ジャンプ＋」が編集者・林士平氏との業務委託関係が終了していることを発表。『SPY×FAMILY』『ダンダダン』など担当作品は新体制のもと連載を継続",
+      "description": "アプリなら『ふつうの軽音部』『サンキューピッチ』『ヒトナー』などオリジナル連載が初回全話無料で読める！人気マンガを毎日無料で更新中「少年ジャンプ＋」。",
+      "publishedAt": "2026-09-30T09:41:23.000Z",
+      "addedAt": "2026-09-30T10:00:28.895Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609303f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1790664742"
+    },
     {
       "id": "ee9753ded30e",
       "url": "https://www.e-kinokuniya.com/",
