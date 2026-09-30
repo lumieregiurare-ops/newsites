@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:00:20.234Z",
+  "updatedAt": "2026-09-30T04:30:22.897Z",
   "boards": [
     {
       "id": "steam",
@@ -189,27 +189,27 @@
         },
         {
           "rank": 4,
-          "title": "Bus Fever Party!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/0e/f2/a00ef223-a563-5329-c4ee-ab31e25f5e86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
-          "metric": "Lumi Games",
-          "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
           "title": "トップロード",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "Bus Fever Party!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/0e/f2/a00ef223-a563-5329-c4ee-ab31e25f5e86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
+          "metric": "Lumi Games",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -254,27 +254,27 @@
         },
         {
           "rank": 9,
-          "title": "Smash Fest!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
-          "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "ArrowCube - 3DPuzzle",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/99/d2/7e99d217-5a1c-489d-3af1-a53427fb4cb8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/arrowcube-3dpuzzle/id6760325543",
           "metric": "GOODROID,Inc.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "Smash Fest!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/40/db/1940db5a-3f81-fabc-1fad-48a5df75e5c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
+          "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         }

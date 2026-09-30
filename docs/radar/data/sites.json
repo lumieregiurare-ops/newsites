@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T04:00:18.194Z",
+  "updatedAt": "2026-09-30T04:30:21.098Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 491,
+  "total": 494,
   "regions": {
-    "jp": 412,
+    "jp": 415,
     "global": 79
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 146
+      "count": 147
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 27
+      "count": 28
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 109
+      "count": 111
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 22
+      "count": 23
     },
     {
       "id": "switch2",
@@ -87,22 +87,22 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 20
+      "count": 21
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 14
+      "count": 15
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 58
+      "count": 59
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 151
+      "count": 153
     },
     {
       "id": "browser",
@@ -121,17 +121,49 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "AppBank",
     "App Store",
+    "AppBank",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0423c20ffebe",
+      "url": "https://lo3al.bn-ent.net/",
+      "host": "lo3al.bn-ent.net",
+      "region": "jp",
+      "title": "リトルナイトメア3",
+      "headline": "『リトルナイトメア3』追加チャプター第2弾「海岸」配信開始！追加チャプター第1弾「バックステージ」のその後を描いた物語で、新たな悪夢の冒険が始まる",
+      "description": "PS5／PS4／Nintendo Switch／Xbox Series X|S／Xbox One／PC Digital「リトルナイトメア3」公式サイト",
+      "publishedAt": "2026-09-30T04:15:03.000Z",
+      "addedAt": "2026-09-30T04:30:21.098Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172953.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://lo3al.bn-ent.net/ogp.png"
+    },
     {
       "id": "e50b3370855c",
       "url": "https://www.playcottagecore.com/",
@@ -1127,6 +1159,39 @@
         "campaign"
       ],
       "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "a2df0f861d44",
+      "url": "https://ishiniwa.com/",
+      "host": "ishiniwa.com",
+      "region": "jp",
+      "title": "競争単ゼロハンレーサー",
+      "headline": "ZenRock / レーシング・エンターテインメント · App Store 新着",
+      "description": "オリジナルスマホゲームの情報サイト",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "addedAt": "2026-09-30T04:30:21.098Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6785003672"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
@@ -4214,7 +4279,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09292026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09302026"
     },
     {
       "id": "33c0ff2f4868",
@@ -14121,6 +14186,40 @@
       "platforms": [],
       "points": null,
       "image": "https://www.konami.com/games/silenthill/f/s/img/share_img_en.jpg?=v2"
+    },
+    {
+      "id": "a75ba51741ab",
+      "url": "https://apps.apple.com/jp/app/id6758999138",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Knightica",
+      "headline": "Goblinz Studio SAS / ロールプレイング・ストラテジー · App Store 新着",
+      "description": "Goblinz Studio SASの「Knightica」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Knightica」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "addedAt": "2026-09-30T04:30:21.098Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6758999138"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "ストラテジー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/34/51/76345183-c211-9d01-7ac3-bc748ff24f38/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ad75bad92792",
