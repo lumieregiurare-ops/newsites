@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T14:30:23.022Z",
+  "updatedAt": "2026-09-30T15:00:22.802Z",
   "boards": [
     {
       "id": "steam",
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（09/29 比）",
+      "note": "App Store（日本）の無料ゲームランキング（09/30 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -181,9 +181,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -194,9 +194,9 @@
           "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
           "metric": "ABI GLOBAL LTD.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/food-hunt-pixel-puzzle/id6769314786",
           "metric": "FUNFINITY PTE. LTD",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,8 +246,8 @@
           "url": "https://apps.apple.com/jp/app/superstar-ebidan/id6450412255",
           "metric": "DalcomSoft Japan, Inc.",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
+            "kind": "same",
+            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%83%B3%E3%82%B0%E5%9B%9E%E8%BB%A2-rotate-rings/id6793924927",
           "metric": "Nebula Studio",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
           "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
