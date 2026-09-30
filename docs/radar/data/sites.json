@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T03:00:19.374Z",
+  "updatedAt": "2026-09-30T03:30:19.170Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 486,
+  "total": 491,
   "regions": {
-    "jp": 407,
+    "jp": 412,
     "global": 79
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 67
+      "count": 68
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 145
+      "count": 146
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 77
+      "count": 80
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 57
+      "count": 58
     },
     {
       "id": "mobile",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "Inside",
     "AppBank",
     "App Store",
@@ -132,6 +132,143 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e50b3370855c",
+      "url": "https://www.playcottagecore.com/",
+      "host": "playcottagecore.com",
+      "region": "jp",
+      "title": "CottageCore",
+      "headline": "地形や建物を自由に作れる村づくりゲーム『CottageCore』Steamストアページが公開。素材や色、屋根の形、地形の編集まで幅広く対応し理想の形を生み出せる",
+      "description": "CottageCore — Touch grass. Literally.",
+      "publishedAt": "2026-09-30T03:30:12.000Z",
+      "addedAt": "2026-09-30T03:30:19.170Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260930t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0941b920213a",
+      "url": "https://www.callofduty.com/ja/",
+      "host": "callofduty.com",
+      "region": "jp",
+      "title": "CoD: MW4",
+      "headline": "『CoD: MW4』、『CS』や『VALORANT』ライクな新マルチプレイモード「Collateral」発表。装備とマネーを管理してラウンド勝利を目指す",
+      "description": "Pre-order Call of Duty: Modern Warfare 4 now.",
+      "publishedAt": "2026-09-30T03:30:03.000Z",
+      "addedAt": "2026-09-30T03:30:19.170Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172950.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blackops7/meta/MW4_LP_Meta.webp"
+    },
+    {
+      "id": "7ec26ad3c5cb",
+      "url": "https://www.danganronpa.com/pages/2x2/",
+      "host": "danganronpa.com",
+      "region": "jp",
+      "title": "スーパーダンガンロンパ２×２",
+      "headline": "新シナリオは本編以上の「120％」！『スーパーダンガンロンパ２×２』“キョウキモード”は1章から容赦なし。全ボイスも新録【発表会レポート】",
+      "description": "『スーパーダンガンロンパ２』がパワーアップして登場。南国の修学旅行を舞台に新たなコロシアイがはじまる。『スーパーダンガンロンパ２×２』公式サイト",
+      "publishedAt": "2026-09-30T03:00:08.000Z",
+      "addedAt": "2026-09-30T03:30:19.170Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172948.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.danganronpa.com/2x2/assets/img/ja/ogp.png"
+    },
+    {
+      "id": "c4fb4e40618d",
+      "url": "https://www.danganronpa.com/2x2/",
+      "host": "danganronpa.com",
+      "region": "jp",
+      "title": "スーパーダンガンロンパ２×２",
+      "headline": "キョウキモードは“凶器モード”だった!? 「スーパーダンガンロンパ２×２」メディア向け体験＆発表会で気になる新要素を確かめてきた",
+      "description": "『スーパーダンガンロンパ２』がパワーアップして登場。南国の修学旅行を舞台に新たなコロシアイがはじまる。『スーパーダンガンロンパ２×２』公式サイト",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "addedAt": "2026-09-30T03:30:19.170Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/945/G094561/20260921010/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.danganronpa.com/2x2/assets/img/ja/ogp.png"
+    },
+    {
+      "id": "9fa13242ca7d",
+      "url": "https://game.shochiku.co.jp/ja/games/eternal-palace-sakura/",
+      "host": "game.shochiku.co.jp",
+      "region": "jp",
+      "title": "夢幻桜楼閣",
+      "headline": "猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始",
+      "description": "可愛くてかっこいい！ 猫耳娘・レトラを操って、ド派手なバトルが楽しめるローグライト3Dアクション！",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "addedAt": "2026-09-30T03:30:19.170Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/914/G091464/20260930004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://game.shochiku.co.jp/ja/wp-content/uploads/sites/2/2025/12/j9.jpg"
+    },
     {
       "id": "e43e4f1c70a1",
       "url": "https://ifchronicle.com/",

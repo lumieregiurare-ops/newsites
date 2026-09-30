@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T03:01:04.604Z",
+  "updatedAt": "2026-09-30T03:30:32.882Z",
   "platforms": [
     {
       "id": "switch",
@@ -286,7 +286,7 @@
       "description": "『モンスターハンターアウトランダーズ』は、CAPCOM のライセンスを受けたTiMi Studios Groupが開発するモバイル向け新作ゲームです。本作は、おなじみの武器による狩猟体験はそのままに、新たな世界観や冒険者、オトモ、そして本…",
       "source": "Inside",
       "sourceUrl": "https://www.inside-games.jp/article/2026/09/29/188445.html",
-      "appleId": "",
+      "appleId": "6444520814",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6444520814",
         "preorder": true,
@@ -461,6 +461,16 @@
   ],
   "changes": [
     {
+      "at": "2026-09-30T03:30:32.882Z",
+      "type": "new",
+      "label": "新規",
+      "title": "夢幻桜楼閣",
+      "url": "https://game.shochiku.co.jp/ja/games/eternal-palace-sakura/",
+      "image": "https://game.shochiku.co.jp/ja/wp-content/uploads/sites/2/2025/12/j9.jpg",
+      "platforms": [],
+      "to": "2026年11月5日"
+    },
+    {
       "at": "2026-09-29T15:00:37.363Z",
       "type": "new",
       "label": "新規",
@@ -520,18 +530,6 @@
         "mobile"
       ],
       "to": "2026年10月26日"
-    },
-    {
-      "at": "2026-09-29T03:30:28.396Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://monsterhunteroutlanders.com/ja/index.html",
-      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月15日"
     }
   ]
 }
