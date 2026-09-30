@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T02:30:18.148Z",
+  "updatedAt": "2026-09-30T03:00:19.374Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 484,
+  "total": 486,
   "regions": {
-    "jp": 405,
+    "jp": 407,
     "global": 79
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 144
+      "count": 145
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 76
+      "count": 77
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "Inside",
-    "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e43e4f1c70a1",
+      "url": "https://ifchronicle.com/",
+      "host": "ifchronicle.com",
+      "region": "jp",
+      "title": "オトメイト",
+      "headline": "『オトメイト』『コンパイルハート』のアイディアファクトリーが新作ゲーム『ICONOLOGY』発表。アドベンチャーゲーム専門の新ブランド「IFChronicle」第1弾タイトル",
+      "description": "「IFChronicle」公式サイトです。",
+      "publishedAt": "2026-09-30T02:30:29.000Z",
+      "addedAt": "2026-09-30T03:00:19.374Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/260930o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.ifchronicle.com/img/ogp.jpg"
+    },
+    {
+      "id": "050909140c2f",
+      "url": "https://ifchronicle.com/iconology/",
+      "host": "ifchronicle.com",
+      "region": "jp",
+      "title": "IFChronicle（イフクロニクル）",
+      "headline": "アイディアファクトリーが新ブランド「IFChronicle（イフクロニクル）」を立ち上げ。第1弾タイトル「ICONOLOGY（イコノロジー）」も発表に",
+      "description": "IDEA FACTORYより発売されるゲームソフト「ICONOLOGY」。容疑者の脳を解析する、クライムサスペンスADVが幕を開ける！",
+      "publishedAt": "2026-09-30T02:30:00.000Z",
+      "addedAt": "2026-09-30T03:00:19.374Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104623/20260929018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ifchronicle.com/iconology/img/ogp.jpg"
+    },
     {
       "id": "020cc235fd30",
       "url": "https://wayofthehunter2.thqnordic.com/",
