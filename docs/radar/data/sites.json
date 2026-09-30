@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T04:30:21.098Z",
+  "updatedAt": "2026-09-30T05:00:24.261Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 494,
+  "total": 495,
   "regions": {
     "jp": 415,
-    "global": 79
+    "global": 80
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 147
+      "count": 148
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "03df25f7c5cd",
+      "url": "https://dinolords.com/",
+      "host": "dinolords.com",
+      "region": "global",
+      "title": "Dinolords",
+      "headline": "恐竜にまたがるバイキングや中世の騎士！ “ハック＆ストラテジー”「Dinolords」のマルチプレイモードをアナウンス。10月20日に初の体験版を公開",
+      "description": "Dinolords is a Medieval Strategy Game where you gather resources, build fortifications and command units in defence aga…",
+      "publishedAt": "2026-09-30T04:33:57.000Z",
+      "addedAt": "2026-09-30T05:00:24.261Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/790/G079014/20260930009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://dinolords.com/wp-content/uploads/2023/10/KeyArt-4K.png"
+    },
     {
       "id": "0423c20ffebe",
       "url": "https://lo3al.bn-ent.net/",
