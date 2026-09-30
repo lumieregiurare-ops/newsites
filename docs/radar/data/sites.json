@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T06:00:19.932Z",
+  "updatedAt": "2026-09-30T06:30:17.046Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 497,
+  "total": 498,
   "regions": {
-    "jp": 416,
+    "jp": 417,
     "global": 81
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 91
+      "count": 92
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 106
+      "count": 107
     },
     {
       "id": "release",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 60
+      "count": 61
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5d8f0da9ef6f",
+      "url": "https://www.darksouls.jp/remastered/",
+      "host": "darksouls.jp",
+      "region": "jp",
+      "title": "ダークソウル",
+      "headline": "【50％オフ】『ダークソウル』シリーズ3部作がSteamにて50％オフとなるセールが開催中。どれも3000円未満で遊べる",
+      "description": "DARK SOULS (ダークソウル) シリーズオフィシャルウェブサイトです。各シリーズの情報をお届けします。",
+      "publishedAt": "2026-09-30T06:12:58.000Z",
+      "addedAt": "2026-09-30T06:30:17.046Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609302q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "789f94dba1ce",
       "url": "https://apps.apple.com/us/app/id6742194903",
