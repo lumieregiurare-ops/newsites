@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-30T11:30:16.999Z",
+  "updatedAt": "2026-09-30T12:00:16.952Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 509,
+  "total": 510,
   "regions": {
     "jp": 426,
-    "global": 83
+    "global": 84
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 156
+      "count": 157
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fa6d4170de6c",
+      "url": "https://www.somethingwemade.se/toem2/",
+      "host": "somethingwemade.se",
+      "region": "global",
+      "title": "トーエム2",
+      "headline": "不思議がいっぱいの世界を冒険し，発見や思い出を写真に収めよう「トーエム2」，配信開始",
+      "description": "Step back into the shoes of a curious photographer and set off on a brand-new adventure all about uncovering hidden det…",
+      "publishedAt": "2026-09-30T11:42:09.000Z",
+      "addedAt": "2026-09-30T12:00:16.952Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104641/20260930045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www-static.somethingwemade.se/wp-content/uploads/2021/05/TOEM-Pop-art.png"
+    },
     {
       "id": "f027de57a2cf",
       "url": "https://puyo.sega.jp/puyopuyotetris2/S/",
@@ -1042,7 +1069,7 @@
       "region": "jp",
       "title": "ポムポムプリン×ホテルニュ",
       "headline": "ポムポムプリン×ホテルニューオータニのスイーツビュッフェが開催決定。デカくてかわいいポムポムプリンの極上タルトやサンマルク、マフィンなどが登場",
-      "description": "ポムポムプリンの世界観と、ホテルニューオータニ幕張の伝統技が融合した、最高にキュートで贅沢なプレミアムスイーツ体験。2026年10月9日から11月30日までの期間限定。",
+      "description": "ポムポムプリンの世界観と、ホテルニューオータニ幕張の伝統技が融合した、最高にキュートで贅沢なプレミアムスイーツ体験。2026年11月3日から12月7日までの期間限定。",
       "publishedAt": "2026-09-29T07:00:16.000Z",
       "addedAt": "2026-09-29T11:30:25.143Z",
       "source": "電ファミニコゲーマー",
@@ -14294,7 +14321,7 @@
       "region": "jp",
       "title": "PUBG MOBILE",
       "headline": "「PUBG MOBILE」，高級車ブランド「Lincoln」とのコラボを開始",
-      "description": "PUBG MOBILE 公式サイト基本プレイ無料！100人同時対戦のバトルロイヤルシューター『PUBG MOBILE』公式サイト。最大4人の仲間と協力するマルチプレイのSQUAD、2人の連携が重要なDUO、自分1人の緊張感に溢れるSOLO…",
+      "description": "■【RANKED】 Ancient Secret：Arise：エジプト風のテーマモードを実装しました 当該モードはErangel/Miramar/Livikで開放されますが、マップごとに要素が異なります ＜新要素＞ 待機中 始まりの島 始…",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "addedAt": "2026-09-14T08:07:21.557Z",
       "source": "4Gamer",
@@ -14316,7 +14343,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://pubgmobile.jp/wp-content/uploads/PUBG_Mobile_Simple_White@64.png"
+      "image": "https://pubgmobile.jp/wp-content/uploads/Web_%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%882.1.0_20220712.png"
     },
     {
       "id": "8e253fe35e9d",
@@ -15055,7 +15082,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/7c/8a/117c8a87-65a3-a056-2b83-c46f63336c17/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/91/a6/fa91a631-b8ad-817d-d599-e9619bd91d52/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b6f8b2b689cd",
