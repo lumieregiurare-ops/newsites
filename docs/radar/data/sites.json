@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T10:00:28.895Z",
+  "updatedAt": "2026-09-30T10:30:57.311Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 508,
+  "total": 509,
   "regions": {
-    "jp": 425,
+    "jp": 426,
     "global": 83
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 92
+      "count": 93
     },
     {
       "id": "event",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 24
+      "count": 25
     },
     {
       "id": "switch2",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "Game*Spark",
     "App Store",
     "AppBank",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f027de57a2cf",
+      "url": "https://puyo.sega.jp/puyopuyotetris2/S/",
+      "host": "puyo.sega.jp",
+      "region": "jp",
+      "title": "ぷよぷよ",
+      "headline": "「ぷよぷよ」，広島県企業とのコラボゲームを公開",
+      "description": "Nintendo Switch™ 2専用ソフト『ぷよぷよ™テトリス®２Ｓ』！オフラインでもオンラインでも、最大4人でパワーアップしたパズルゲーム頂上決戦を楽しもう！",
+      "publishedAt": "2026-09-30T10:14:52.000Z",
+      "addedAt": "2026-09-30T10:30:57.311Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/897/G089795/20260930036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://puyo.sega.jp/puyopuyotetris2/S/facebook.jpg"
+    },
     {
       "id": "34ce2a53deb0",
       "url": "https://shonenjumpplus.com/",
