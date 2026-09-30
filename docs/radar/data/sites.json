@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T07:29:55.408Z",
+  "updatedAt": "2026-09-30T08:00:18.981Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 501,
+  "total": 502,
   "regions": {
-    "jp": 419,
+    "jp": 420,
     "global": 82
   },
   "categories": [
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 14
+      "count": 15
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "03792e1e0749",
+      "url": "https://www.goatsimulator3.com/ja/",
+      "host": "goatsimulator3.com",
+      "region": "jp",
+      "title": "Goat Simulator 3",
+      "headline": "ヤギ遊園地開園！『Goat Simulator 3』最新大型拡張「Ticket to Dizzyworld」発表",
+      "description": "Goat Simulator 3 is a brand new third-person action game in which you get to become the literal GOAT. Just like the fir…",
+      "publishedAt": "2026-09-30T08:00:03.000Z",
+      "addedAt": "2026-09-30T08:00:18.981Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/09/30/172963.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://a.storyblok.com/f/158607/1920x1080/9113177005/chaos.jpg"
+    },
     {
       "id": "0e672aa14cfd",
       "url": "https://automaticflowers.ne.jp/",
@@ -442,6 +469,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/30/172948.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/09/30/188514.html"
         }
       ],
       "tags": [
@@ -5958,7 +5989,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/ff/5a/3dff5ac2-1817-f01d-99a3-8b76ba655663/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/9b/3f/ca9b3f96-5256-e413-08bd-a184087ccaad/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "d843e9a099c6",

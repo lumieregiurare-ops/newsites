@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:30:07.686Z",
+  "updatedAt": "2026-09-30T08:00:29.465Z",
   "platforms": [
     {
       "id": "switch",
@@ -270,6 +270,27 @@
   ],
   "prereg": [
     {
+      "id": "00d292b5b226",
+      "title": "ハイコネ",
+      "url": "https://game8.jp/preregistration/785837",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-09-30T08:00:29.465Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/785837",
+      "verified": false,
+      "officialKnown": false,
+      "trackId": ""
+    },
+    {
       "id": "76e60b92205f",
       "title": "モンスターハンターアウトランダーズ",
       "url": "https://monsterhunteroutlanders.com/ja/index.html",
@@ -432,34 +453,21 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6776621908"
-    },
-    {
-      "id": "e2dd501f7102",
-      "title": "キタキタ王様",
-      "url": "https://kitaou.efun.com/event/pre/",
-      "image": "https://resjp-download.vsplay.com/res_jp/jpwlxq/jpwlxqPre/pc/up_/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-18T09:09:36.000Z",
-      "releaseText": "2026年10月25日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "運と判断で戦況が変化する合成RPG「キタキタ王様」，日本向け事前登録を開始。CBT参加者の募集も9月23日まで実施",
-      "description": "幸運キタキタ、運命ガチャガチャ！今すぐ事前登録しで、ガチャ100連分を無料でGET！3分間の激アツバトルで、強運が導く神合成が止まらない！王様になって、ダルマたちをゆるっと指揮、勝利をラクラクつかみ取ろう！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/044/G104419/20260918054/",
-      "appleId": "6768868898",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6768868898",
-        "preorder": true,
-        "releaseDate": "2026-10-25T07:00:00Z"
-      },
-      "trackId": "6768868898"
     }
   ],
   "changes": [
+    {
+      "at": "2026-09-30T08:00:29.465Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ハイコネ",
+      "url": "https://game8.jp/preregistration/785837",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-09-30T03:30:32.882Z",
       "type": "new",
@@ -518,18 +526,6 @@
       ],
       "from": "2026年11月16日",
       "to": "2026年10月1日"
-    },
-    {
-      "at": "2026-09-29T11:30:47.318Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Phantom Line",
-      "url": "https://www.antistaticstudios.net/",
-      "image": "https://static.wixstatic.com/media/63ebed_b7fb997c3d524b31a1fae5372f2e2e34~mv2.jpg/v1/fill/w_2500,h_1406,al_c/63ebed_b7fb997c3d524b31a1fae5372f2e2e34~mv2.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月26日"
     }
   ]
 }
