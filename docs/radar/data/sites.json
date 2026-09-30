@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T08:00:18.981Z",
+  "updatedAt": "2026-09-30T08:30:20.514Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 502,
+  "total": 503,
   "regions": {
-    "jp": 420,
+    "jp": 421,
     "global": 82
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 153
+      "count": 154
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 15
+      "count": 16
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d233b3afa239",
+      "url": "https://domadoz.com/",
+      "host": "domadoz.com",
+      "region": "jp",
+      "title": "Gateholt",
+      "headline": "毎回異なる悪霊が登場する呪われた屋敷で，痕跡を消して浄化していく。1〜4人協力型の祓魔シム「Gateholt」，体験版配信開始",
+      "description": "DOMADOZ — independent game developer. Developer of Gateholt, a 1-4 player co-op horror game.",
+      "publishedAt": "2026-09-30T08:04:36.000Z",
+      "addedAt": "2026-09-30T08:30:20.514Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104670/20260930023/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "03792e1e0749",
       "url": "https://www.goatsimulator3.com/ja/",
