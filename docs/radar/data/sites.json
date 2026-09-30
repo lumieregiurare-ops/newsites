@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T23:00:16.483Z",
+  "updatedAt": "2026-09-30T23:30:16.322Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 513,
+  "total": 514,
   "regions": {
-    "jp": 430,
+    "jp": 431,
     "global": 83
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 93
+      "count": 94
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 155
+      "count": 156
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "17fa17f77ffe",
+      "url": "https://www.browndust2.com/",
+      "host": "browndust2.com",
+      "region": "jp",
+      "title": "ブラウンダスト2",
+      "headline": "“&#9825;胸いっぱいのRPG”を謳う「ブラウンダスト2」が，少年ジャンプ＋の人気漫画を原作としたTVアニメ「魔都精兵のスレイブ2」とコラボ中！【PR】",
+      "description": "Begin your exciting adventure right now",
+      "publishedAt": "2026-09-30T23:10:00.000Z",
+      "addedAt": "2026-09-30T23:30:16.322Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/665/G066579/20260930005/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.browndust2.com/img/seo/OGimg_EN_740x340_v5.jpg"
+    },
     {
       "id": "b7185623465b",
       "url": "https://www.grasshopper.co.jp/",
