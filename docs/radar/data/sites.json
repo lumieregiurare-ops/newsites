@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T12:00:17.965Z",
+  "updatedAt": "2026-10-01T12:30:22.359Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 538,
+  "total": 541,
   "regions": {
-    "jp": 451,
+    "jp": 454,
     "global": 87
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 56
+      "count": 57
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 95
+      "count": 96
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 113
+      "count": 116
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "AppBank",
@@ -132,6 +132,90 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "27620065de0e",
+      "url": "https://hermanmiller.co.jp/",
+      "host": "hermanmiller.co.jp",
+      "region": "jp",
+      "title": "ハーマンミラー",
+      "headline": "「ハーマンミラー」のオフィスチェアが最大で「約5万円」オフとなる期間限定セールがAmazonにて開催中。「アーロンチェア」と「セイルチェア」から4種が20%オフの価格で購入可能に",
+      "description": "ハーマンミラーでは、職場や自宅などどこにいようと、人々が偉業を成し遂げるのに役立つ刺激的なデザインを作り出しています。日々の継続的な使用に耐える製品の必要性を私たちは認識しており、当社製品については、品質に100％の自信を持っています。",
+      "publishedAt": "2026-10-01T12:30:22.359Z",
+      "addedAt": "2026-10-01T12:30:22.359Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1651508"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hermanmiller.co.jp/cdn/shop/t/97/assets/logo.svg?v=138891921313011629171766061416"
+    },
+    {
+      "id": "ed7a0deb2e03",
+      "url": "https://gallery.gaaat.com/pages/tatsuya-yoshikawa",
+      "host": "gallery.gaaat.com",
+      "region": "jp",
+      "title": "ブレス オブ ファイア",
+      "headline": "『ブレス オブ ファイア』『デビル メイ クライ4・5』キャラデザの吉川達哉氏、独立15周年を記念した個展を10月16日より渋谷で開催。重厚感と立体感のある、メタル素材版の作品も…",
+      "description": "2026/10/16(金)〜2026/10/19(月) GAAAT GALLERY",
+      "publishedAt": "2026-10-01T12:09:16.000Z",
+      "addedAt": "2026-10-01T12:30:22.359Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012x"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.shopify.com/s/files/1/0692/3072/3293/files/yoshikawa-OGP.jpg?v=1790843263"
+    },
+    {
+      "id": "62584d8a3afb",
+      "url": "https://jigoku-kourin.com/",
+      "host": "jigoku-kourin.com",
+      "region": "jp",
+      "title": "地獄降輪",
+      "headline": "「地獄降輪」，AGF2026に出展。「アイドル！？」をテーマにした新規描き下ろしイラストなどを公開",
+      "description": "地獄から、降輪ー。別府競輪×Pictoriaが手がける青春地獄譚。別府競輪を舞台に地獄たちの日常をYouTubeを中心にお届けします。",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "addedAt": "2026-10-01T12:30:22.359Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101096/20261001021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://jigoku-kourin.com/ogp.png"
+    },
     {
       "id": "e299dd01ba1d",
       "url": "https://boostedbytesgames.com/",
@@ -13094,7 +13178,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uVPsKfmRj2BaXN2dOCI7QP0_PjlZahQtfinoeDshhybkl7pNZXuMlpKU_-jsWErmEEF7lta2NRg24P4XxY6UG-LXgpCKvisrIR85kxoyxyU07DGM-uAYs3CIk8GGasOfq1gtjrCDDw-GMFLZxoCLYSfU58ZpfwJ-cGqFFewJLLrV34Gy9uZZ0fPD_G=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uiBQ-Hfr6z-ROqLG2gMWCyiM8k3dz997KkxklOWjhWrBOs-ODiXSISHA34c0pTLJUSsyLPck1md1rI1-pFPxEbk7YCRp8CgPXs98UW3MMghUdWubX07VAHESoDpjNmbKLp4OqPZ3mOEUDW-mT4Xk8ytyWPdc0c7V8hm_Qxiu3-kyP52-fPg8KN9G-R=w16383"
     },
     {
       "id": "7f727450ced7",
