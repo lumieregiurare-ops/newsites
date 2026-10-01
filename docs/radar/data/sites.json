@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T07:30:14.920Z",
+  "updatedAt": "2026-10-01T08:00:17.367Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 530,
+  "total": 531,
   "regions": {
-    "jp": 445,
+    "jp": 446,
     "global": 85
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 110
+      "count": 111
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 118
+      "count": 119
     },
     {
       "id": "official",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "20673a556ca4",
+      "url": "https://tokyocomiccon.jp/",
+      "host": "tokyocomiccon.jp",
+      "region": "jp",
+      "title": "東京コミコン2026",
+      "headline": "マッツ・ミケルセンが「東京コミコン2026」で来日決定！なんと“通算7度目”の参加",
+      "description": "2026年12月11日（金）～12月13日（日）までの3日間、幕張メッセ（千葉県千葉市美浜区）にて開催。最新技術を使った様々なゲームや体験、コミックや映画の最新情報、 アメリカや世界の製品やレア物グッズ展示、ハリウッドスターとの撮影会・サ…",
+      "publishedAt": "2026-10-01T07:40:38.000Z",
+      "addedAt": "2026-10-01T08:00:17.367Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tokyocomiccon.jp/tokyocomiccon/wp-content/themes/tokyocomicon2020/images/fb-default.png"
+    },
     {
       "id": "14f6b9d06ec7",
       "url": "https://www.mcdonalds.co.jp/family/hellodonald/",
