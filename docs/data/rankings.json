@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T00:00:18.943Z",
+  "updatedAt": "2026-10-01T00:30:20.852Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（先週比）",
+      "note": "Steam の同時接続数ランキング",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -15,11 +15,11 @@
           "url": "https://store.steampowered.com/app/730/",
           "metric": "同時接続 1,200,212人",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "none",
+            "label": "",
             "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
           "rank": 2,
@@ -28,11 +28,11 @@
           "url": "https://store.steampowered.com/app/570/",
           "metric": "同時接続 804,029人",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "none",
+            "label": "",
             "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
           "rank": 3,
@@ -41,102 +41,102 @@
           "url": "https://store.steampowered.com/app/578080/",
           "metric": "同時接続 673,001人",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "none",
+            "label": "",
             "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
           "rank": 4,
-          "title": "Wallpaper Engine",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
-          "url": "https://store.steampowered.com/app/431960/",
-          "metric": "同時接続 102,647人",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "先週比"
-        },
-        {
-          "rank": 5,
           "title": "WARDOGS",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789059636",
           "url": "https://store.steampowered.com/app/1867240/",
           "metric": "同時接続 237,435人",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "none",
+            "label": "",
             "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "title": "エーペックスレジェンズ",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871",
           "url": "https://store.steampowered.com/app/1172470/",
           "metric": "同時接続 222,622人",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "none",
+            "label": "",
             "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
-          "rank": 7,
-          "title": "ウィッチャー３　ワイルドハント　リマスター",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e624516e647cb6c467c3b2ce9c8c70b058bcebe4/header_alt_assets_1_japanese.jpg?t=1790693338",
-          "url": "https://store.steampowered.com/app/292030/",
-          "metric": "同時接続 120,975人",
-          "delta": {
-            "kind": "up",
-            "label": "+97",
-            "value": 97
-          },
-          "deltaNote": "先週比"
-        },
-        {
-          "rank": 8,
+          "rank": 6,
           "title": "Valheim",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789121975",
           "url": "https://store.steampowered.com/app/892970/",
           "metric": "同時接続 183,376人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "none",
+            "label": "",
+            "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
         },
         {
-          "rank": 9,
-          "title": "Deadlock",
-          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179",
-          "url": "https://store.steampowered.com/app/1422450/",
-          "metric": "同時接続 77,744人",
-          "delta": {
-            "kind": "up",
-            "label": "+11",
-            "value": 11
-          },
-          "deltaNote": "先週比"
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "title": "FiveM",
           "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/9e8a2df18bfdd24267aefa6d3e14778c2ecb1708/header.jpg?t=1778609608",
           "url": "https://store.steampowered.com/app/2676230/",
           "metric": "同時接続 182,663人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "none",
+            "label": "",
+            "value": 0
           },
-          "deltaNote": "先週比"
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
+          "title": "Bongo Cat",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1790066913",
+          "url": "https://store.steampowered.com/app/3419430/",
+          "metric": "同時接続 179,870人",
+          "delta": {
+            "kind": "none",
+            "label": "",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "Delta Force",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ea077ac0ce7f7247fc09996d5e927f7a3b209685/header_alt_assets_14_japanese.jpg?t=1790238079",
+          "url": "https://store.steampowered.com/app/2507950/",
+          "metric": "同時接続 131,080人",
+          "delta": {
+            "kind": "none",
+            "label": "",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "ウィッチャー３　ワイルドハント　リマスター",
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e624516e647cb6c467c3b2ce9c8c70b058bcebe4/header_alt_assets_1_japanese.jpg?t=1790693338",
+          "url": "https://store.steampowered.com/app/292030/",
+          "metric": "同時接続 120,975人",
+          "delta": {
+            "kind": "none",
+            "label": "",
+            "value": 0
+          },
+          "deltaNote": "前日比"
         }
       ]
     },
