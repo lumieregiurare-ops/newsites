@@ -27,10 +27,10 @@
 
 | タブ | 取得元 | 内容 |
 | --- | --- | --- |
-| Steam | 公式 API `ISteamChartsService/GetMostPlayedGames` | 同時接続数の上位 10 件。順位の変動は API が返す先週の順位との比較。タイトル名と画像は `appdetails` から取得し `data/rankings-state.json` に記録（一度引いたら再取得しない） |
+| Steam | 公式 API `ISteamChartsService/GetMostPlayedGames` | 同時接続数の上位 10 件。API の順位は表示する同時接続数の順と一致しないため、同時接続数で並べ直して順位を付ける。順位の変動は App Store と同じく前日比（`data/rankings-state.json` に基準を保持）。タイトル名と画像は `appdetails` から取得し `data/rankings-state.json` に記録（一度引いたら再取得しない） |
 | App Store | 日本のゲーム無料ランキング RSS | 上位 10 件。アプリページの URL は `entry.id.label` から取り（`entry.link` は配列なので注意）、アイコンは 100px 版の URL を 246px 版に置き換えて使います |
 
-**App Store の順位変動は本当の前日比です。** 収集は 30 分おきに走るため、単純に前回と比べると数時間の差しか出ません。`data/rankings-state.json` に「今日の順位」と「比較の基準（前日の順位）」を分けて持ち、日付（日本時間）が変わったときだけ基準を繰り上げます。基準が無い初日は変動を出しません。
+**順位変動は本当の前日比です（Steam・App Store 共通）。** 収集は 30 分おきに走るため、単純に前回と比べると数時間の差しか出ません。`data/rankings-state.json` に「今日の順位」と「比較の基準（前日の順位）」を分けて持ち、日付（日本時間）が変わったときだけ基準を繰り上げます。基準が無い初日は変動を出しません。
 
 順位が上がったものは緑、下がったものは赤、前日 100 位圏外から入ったものは「NEW」で表示します。設定は `config.json` の `rankings`。
 

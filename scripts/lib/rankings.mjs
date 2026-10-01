@@ -19,10 +19,36 @@ function delta(rank, prevRank, hasPrev = true) {
   return { kind: "same", label: "–", value: 0 };
 }
 
+// 日本時間の日付（1 日 3 回走るので、比較の基準は「日」でそろえる）
+function jstDate(d = new Date()) {
+  return new Date(d.getTime() + 9 * 3600000).toISOString().slice(0, 10);
+}
+
+// 比較の基準を「前日の順位」に固定する。日付が変わったときだけ、前日ぶんを基準に繰り上げる
+function dailyBaseline(cache, todayKey, baselineKey) {
+  const day = jstDate();
+  const snap = cache[todayKey] || {};
+  if (snap.day && snap.day !== day) cache[baselineKey] = { day: snap.day, ranks: snap.ranks || {} };
+  return { day, baseline: cache[baselineKey] || {} };
+}
+
 // ---------- Steam ----------
 export async function fetchSteamRanking({ limit = 10, cache = {} } = {}) {
   const j = await fetchJson(STEAM_MOST_PLAYED, { timeoutMs: 20000 });
-  const ranks = (j.response?.ranks || []).slice(0, limit);
+  // API の rank は表示する同時接続数（peak_in_game）の順になっていないので、
+  // 表示する数値で並べ直して順位を付ける
+  const sorted = (j.response?.ranks || [])
+    .filter((r) => r.peak_in_game)
+    .sort((a, b) => b.peak_in_game - a.peak_in_game);
+  const { day, baseline } = dailyBaseline(cache, "steamToday", "steamBaseline");
+  const prev = baseline.ranks || {};
+  const hasPrev = Object.keys(prev).length > 0;
+  const today = {};
+  sorted.forEach((r, i) => {
+    today[r.appid] = i + 1;
+  });
+  cache.steamToday = { day, ranks: today, at: new Date().toISOString() };
+  const ranks = sorted.slice(0, limit).map((r, i) => ({ ...r, rank: i + 1 }));
   const names = (cache.steamNames = cache.steamNames || {});
   const out = [];
 
@@ -49,30 +75,19 @@ export async function fetchSteamRanking({ limit = 10, cache = {} } = {}) {
       image: info.image,
       url: `https://store.steampowered.com/app/${id}/`,
       metric: r.peak_in_game ? `同時接続 ${Number(r.peak_in_game).toLocaleString("ja-JP")}人` : "",
-      delta: delta(r.rank, r.last_week_rank),
-      deltaNote: "先週比",
+      delta: delta(r.rank, prev[r.appid], hasPrev),
+      deltaNote: "前日比",
     });
   }
-  log(`Steam ranking: ${out.length} titles`);
-  return out;
+  log(`Steam ranking: ${out.length} titles (比較元 ${Object.keys(prev).length} 件 / ${baseline.day || "なし"})`);
+  return { items: out, baselineDay: baseline.day || "" };
 }
 
 // ---------- App Store ----------
-// 日本時間の日付（1 日 3 回走るので、比較の基準は「日」でそろえる）
-function jstDate(d = new Date()) {
-  return new Date(d.getTime() + 9 * 3600000).toISOString().slice(0, 10);
-}
-
 export async function fetchAppStoreRanking({ limit = 10, cache = {} } = {}) {
   const j = await fetchJson(APPSTORE_TOPFREE, { timeoutMs: 20000 });
   const entries = j.feed?.entry || [];
-  const day = jstDate();
-
-  // 1 日 3 回走るので、比較の基準は「前日の順位」に固定する。
-  // 日付が変わったときだけ、前日ぶんを基準に繰り上げる
-  const snap = cache.appstoreToday || {};
-  if (snap.day && snap.day !== day) cache.appstoreBaseline = { day: snap.day, ranks: snap.ranks || {} };
-  const baseline = cache.appstoreBaseline || {};
+  const { day, baseline } = dailyBaseline(cache, "appstoreToday", "appstoreBaseline");
   const prev = baseline.ranks || {};
   const hasPrev = Object.keys(prev).length > 0;
   const today = {};
@@ -111,13 +126,13 @@ export async function buildRankings(config, { cache = {} } = {}) {
 
   if (cfg.steam !== false) {
     try {
-      const items = await fetchSteamRanking({ limit, cache });
+      const { items, baselineDay } = await fetchSteamRanking({ limit, cache });
       if (items.length) {
         boards.push({
           id: "steam",
           label: "Steam",
           title: "いま遊ばれている",
-          note: "Steam の同時接続数ランキング（先週比）",
+          note: baselineDay ? `Steam の同時接続数ランキング（${baselineDay.slice(5).replace("-", "/")} 比）` : "Steam の同時接続数ランキング",
           sourceUrl: "https://store.steampowered.com/charts/mostplayed",
           items,
         });
