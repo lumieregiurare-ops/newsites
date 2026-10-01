@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T07:00:21.340Z",
+  "updatedAt": "2026-10-01T07:30:14.920Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 528,
+  "total": 530,
   "regions": {
-    "jp": 444,
-    "global": 84
+    "jp": 445,
+    "global": 85
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 83
+      "count": 85
     }
   ],
   "platforms": [
@@ -122,16 +122,70 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "AppBank",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "14f6b9d06ec7",
+      "url": "https://www.mcdonalds.co.jp/family/hellodonald/",
+      "host": "mcdonalds.co.jp",
+      "region": "jp",
+      "title": "ドナルド",
+      "headline": "日本マクドナルド「ドナルド」の名前が「ロナルド」に変更。公式サイトでも「ロナルド」表記が確認できる",
+      "description": "日本マクドナルドのロナルドに会える「ハローロナルド」をご紹介します。",
+      "publishedAt": "2026-10-01T07:27:18.000Z",
+      "addedAt": "2026-10-01T07:30:14.920Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.mcdonalds.co.jp/media_library/2876/file.png"
+    },
+    {
+      "id": "f845f2850644",
+      "url": "https://turretgirls.dangenentertainment.com/",
+      "host": "turretgirls.dangenentertainment.com",
+      "region": "global",
+      "title": "タレットと少女",
+      "headline": "「タレットと少女」開発チームの新作はダンジョン探索RPG！ 装備の破壊演出など「LitGirls 文学迷宮と少女」のプレイデモで分かったことを紹介",
+      "description": "Grody extraterrestrials are pouring through a space-time rift, and only one girl and her turret stand in their way! Loc…",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "addedAt": "2026-10-01T07:30:14.920Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104668/20260930024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.xsolla.net/merchant-bucket-prod/files/uploaded/sitebuilder/101667/67f25dedd3c3574bdfc38117a3792461.png"
+    },
     {
       "id": "7010c8af8e9a",
       "url": "https://www.aquaworld-oarai.com/",
