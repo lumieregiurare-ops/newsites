@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T05:30:14.992Z",
+  "updatedAt": "2026-10-01T06:00:19.921Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 523,
+  "total": 524,
   "regions": {
-    "jp": 439,
+    "jp": 440,
     "global": 84
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 164
+      "count": 165
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 115
+      "count": 116
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 160
+      "count": 161
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bef08c8ce4db",
+      "url": "https://apps.apple.com/jp/app/id6474999801",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "FingerLaserX",
+      "headline": "『FingerLaserX』10月20日配信決定！ 原作者が14年ぶりにフルリメイクした防衛シューティング",
+      "description": "WeiTing Wengの「FingerLaserX」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「FingerLaserX」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-01T06:00:00.000Z",
+      "addedAt": "2026-10-01T06:00:19.921Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/01/game/3119348.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "d1ec2f731f4b",
       "url": "https://www.ilovebistro.jp/",

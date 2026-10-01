@@ -1522,6 +1522,23 @@
     "I LOVE BISTRO": {
       "at": "2026-10-01T05:30:28.144Z",
       "entry": null
+    },
+    "FingerLaserX": {
+      "at": "2026-10-01T06:00:30.940Z",
+      "entry": {
+        "trackId": "6474999801",
+        "title": "FingerLaserX",
+        "artist": "WeiTing Weng",
+        "genres": [
+          "アクション"
+        ],
+        "releaseDate": "2026-10-20T07:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6474999801",
+        "sellerUrl": "https://fl-x.cc/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/ed/b2/16edb2df-ee24-3f78-0c45-2c3cb9796cdc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -21516,6 +21533,22 @@
       "sortKey": "2026-11-30",
       "prereg": false,
       "firstSeen": "2026-10-01T05:30:27.983Z"
+    },
+    "fingerlaserx": {
+      "title": "FingerLaserX",
+      "dateText": "2026年10月20日",
+      "date": "2026-10-20",
+      "sortKey": "2026-10-20",
+      "prereg": true,
+      "firstSeen": "2026-10-01T06:00:30.775Z"
+    },
+    "wewereheretomorrow": {
+      "title": "We Were Here Tomorrow",
+      "dateText": "2026年10月20日",
+      "date": "2026-10-20",
+      "sortKey": "2026-10-20",
+      "prereg": false,
+      "firstSeen": "2026-10-01T06:00:30.775Z"
     }
   },
   "changeLog": [
@@ -25260,6 +25293,30 @@
         "mobile"
       ],
       "to": "2026年11月30日"
+    },
+    {
+      "at": "2026-10-01T06:00:30.775Z",
+      "type": "new",
+      "label": "新規",
+      "title": "FingerLaserX",
+      "url": "https://apps.apple.com/jp/app/id6474999801",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月20日"
+    },
+    {
+      "at": "2026-10-01T06:00:30.775Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "FingerLaserX",
+      "url": "https://apps.apple.com/jp/app/id6474999801",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月20日"
     }
   ],
   "initialized": true,
