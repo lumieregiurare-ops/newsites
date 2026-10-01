@@ -1518,6 +1518,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/74/6b/d7746b9c-0189-5f56-90dc-d8c4c917a2dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "I LOVE BISTRO": {
+      "at": "2026-10-01T05:30:28.144Z",
+      "entry": null
     }
   },
   "titles": {
@@ -4519,9 +4523,9 @@
       "title": "モンスターハンターアウトランダーズ",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2026年12月15日",
-      "date": "2026-12-15",
-      "sortKey": "2026-12-15"
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -21504,6 +21508,14 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-01T05:00:31.445Z"
+    },
+    "ilovebistro": {
+      "title": "I LOVE BISTRO",
+      "dateText": "2026年11月30日",
+      "date": "2026-11-30",
+      "sortKey": "2026-11-30",
+      "prereg": false,
+      "firstSeen": "2026-10-01T05:30:27.983Z"
     }
   },
   "changeLog": [
@@ -25223,6 +25235,31 @@
       ],
       "from": "2026年10月29日",
       "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-10-01T05:30:27.983Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年12月15日",
+      "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-01T05:30:27.983Z",
+      "type": "new",
+      "label": "新規",
+      "title": "I LOVE BISTRO",
+      "url": "https://www.ilovebistro.jp/",
+      "image": "https://www.ilovebistro.jp/image/ogimage.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月30日"
     }
   ],
   "initialized": true,

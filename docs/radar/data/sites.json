@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T05:00:16.613Z",
+  "updatedAt": "2026-10-01T05:30:14.992Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 522,
+  "total": 523,
   "regions": {
-    "jp": 438,
+    "jp": 439,
     "global": 84
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 163
+      "count": 164
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 159
+      "count": 160
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d1ec2f731f4b",
+      "url": "https://www.ilovebistro.jp/",
+      "host": "ilovebistro.jp",
+      "region": "jp",
+      "title": "I LOVE BISTRO",
+      "headline": "経営シム「I LOVE BISTRO」，2026年11月30日14：00をもってサービス終了。4月のリリースから約8か月",
+      "description": "貴方こそビストロマスター！ 最高のお店を目指して腕をふるおう！！！",
+      "publishedAt": "2026-10-01T05:11:09.000Z",
+      "addedAt": "2026-10-01T05:30:14.992Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/995/G099530/20261001020/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.ilovebistro.jp/image/ogimage.jpg"
+    },
     {
       "id": "2f14f967747e",
       "url": "https://www.konami.com/games/castlevania/belmonts_curse/jp/ja/demo",
