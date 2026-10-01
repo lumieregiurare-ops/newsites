@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T01:30:19.311Z",
+  "updatedAt": "2026-10-01T02:00:16.877Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 515,
+  "total": 516,
   "regions": {
     "jp": 432,
-    "global": 83
+    "global": 84
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 82
+      "count": 83
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 61
+      "count": 62
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e94e941c6930",
+      "url": "https://edcorp.games/greed-darkness/",
+      "host": "edcorp.games",
+      "region": "global",
+      "title": "Greed & Darkness",
+      "headline": "松明片手に財宝集め。一人称視点の3Dダンジョンクロウラー「Greed & Darkness」，デモ版をSteamで公開。日本語を含む13言語に対応",
+      "description": "松明片手に財宝集め。一人称視点の3Dダンジョンクロウラー「Greed & Darkness」，デモ版をSteamで公開。日本語を含む13言語に対応",
+      "publishedAt": "2026-10-01T01:54:01.000Z",
+      "addedAt": "2026-10-01T02:00:16.877Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104422/20261001004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://edcorp.games/wp-content/uploads/2026/07/Key-Art.png"
+    },
     {
       "id": "5937c6fd89e2",
       "url": "https://apps.apple.com/jp/app/id6792692437",
