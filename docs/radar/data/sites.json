@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T10:30:17.216Z",
+  "updatedAt": "2026-10-01T11:00:16.502Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 539,
+  "total": 540,
   "regions": {
-    "jp": 453,
+    "jp": 454,
     "global": 86
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 71
+      "count": 72
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 164
+      "count": 165
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c6ee54cac38e",
+      "url": "https://se-ec.co.jp/appgames/tasokarehotel-2/",
+      "host": "se-ec.co.jp",
+      "region": "jp",
+      "title": "誰ソ彼ホテル -蕾-",
+      "headline": "「誰ソ彼ホテル -蕾-」，11月30日12：00をもってサービス終了。未公開ストーリーなどはnoteとpixivFANBOXで配信継続",
+      "description": "誰ソ彼ホテル -蕾-｜公式サイト",
+      "publishedAt": "2026-10-01T10:31:28.000Z",
+      "addedAt": "2026-10-01T11:00:16.502Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/764/G076432/20261001048/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://se-ec.co.jp/appgames/tasokarehotel-2/img/ogp_image.jpg"
+    },
     {
       "id": "99051cd7a0c6",
       "url": "https://gintama-battle.jp/",
