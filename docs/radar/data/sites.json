@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T06:30:17.456Z",
+  "updatedAt": "2026-10-01T07:00:21.340Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 527,
+  "total": 528,
   "regions": {
-    "jp": 443,
+    "jp": 444,
     "global": 84
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 109
+      "count": 110
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "Inside",
     "AppBank",
     "4Gamer",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7010c8af8e9a",
+      "url": "https://www.aquaworld-oarai.com/",
+      "host": "aquaworld-oarai.com",
+      "region": "jp",
+      "title": "透明標本の特別展示",
+      "headline": "幻想的で美しい「透明標本の特別展示」がアクアワールド・大洗で本日10月1日より開催。“生きている姿”と標本の比較観察を楽しめる",
+      "description": "サメがすごい。けどサメだけじゃない。 約580種68,000点の生き物を飼育する関東有数の大型水族館です。 サメの研究に力を入れており、50種以上の多種多様なサメを飼育しています。",
+      "publishedAt": "2026-10-01T06:40:28.000Z",
+      "addedAt": "2026-10-01T07:00:21.340Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.aquaworld-oarai.com/cms/wp-content/uploads/2022/08/ogp.jpg"
+    },
     {
       "id": "ba08dbba2974",
       "url": "https://apps.apple.com/jp/app/id1554294918",
@@ -953,7 +980,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tgKrXhBFxsqcHYwN0IQydf2oVlyUsFvBaD9w8135v4jF3ofLvhw4oF93Rlgoacr3_9yiJDzulJYcsXwUpTHST1GlbAyPao_FCACgu-R7ium4pZRdrfRoenJJQhhSBb-iRUMbi71qeR9ZI8-COOgCGtqhGf7Vt1QCGnvJ8lvARb0ATnnOoa89_MzpSkikA=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vo52MXZh8nwGU_nRfxzF1rVOLMEN0dQ0dAhLzLoqmkfCGL1En8X4kaU7-Var6uN01UhIcx8iBbgcmr84Mc6lOwOxZlhomCpcya4ZNBEHS-1TL7sfS4WohzWsXhpW92VlD3AsGqigEFTxdTMYZxy3gme9LVMZ_fngkY_vyHK__dLo4tlOL2ub1GWrF1haU=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
