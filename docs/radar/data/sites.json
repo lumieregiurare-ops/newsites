@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T01:00:19.527Z",
+  "updatedAt": "2026-10-01T01:30:19.311Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 514,
+  "total": 515,
   "regions": {
-    "jp": 431,
+    "jp": 432,
     "global": 83
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 157
+      "count": 158
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 113
+      "count": 114
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 156
+      "count": 157
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "App Store",
-    "AppBank",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5937c6fd89e2",
+      "url": "https://apps.apple.com/jp/app/id6792692437",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ソリティア世界旅行",
+      "headline": "『ソリティア世界旅行』Android版が9月28日配信開始！ 日本と韓国の34都市を水彩画で巡る無料ソリティア",
+      "description": "Shunichi Kondoの「ソリティア世界旅行 - 旅するクロンダイク」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ソリティア世界旅行 - 旅するクロンダイク」に似たゲームを見…",
+      "publishedAt": "2026-10-01T01:15:00.000Z",
+      "addedAt": "2026-10-01T01:30:19.311Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/01/game/3119186.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/cb/2d/abcb2d72-ddb4-07cb-d107-a67826dc377b/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "17fa17f77ffe",
       "url": "https://www.browndust2.com/",
