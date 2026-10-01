@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T13:30:17.340Z",
+  "updatedAt": "2026-10-01T14:00:17.892Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 541,
+  "total": 542,
   "regions": {
-    "jp": 454,
+    "jp": 455,
     "global": 87
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 96
+      "count": 97
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 120
+      "count": 121
     },
     {
       "id": "official",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bb8491be9894",
+      "url": "https://bandainamco-nui.co.jp/nuicolle/chibideco/",
+      "host": "bandainamco-nui.co.jp",
+      "region": "jp",
+      "title": "ChibiDeco",
+      "headline": "ぬいぐるみに着せる“ぬい服”の新ブランド「ChibiDeco」の特設サイトが公開。チェーン付ききぐるみやポンチョ、自立する「きぐるみたっち」など、フワフワの全13種をラインナップ",
+      "description": "あなたのぬいぐるみをかわいくデコレーションする『ぬい服』Chibi Deco",
+      "publishedAt": "2026-10-01T13:55:37.000Z",
+      "addedAt": "2026-10-01T14:00:17.892Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610013b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://bandainamco-nui.co.jp/nuicolle/chibideco/ogp.jpg"
+    },
     {
       "id": "27620065de0e",
       "url": "https://hermanmiller.co.jp/",
