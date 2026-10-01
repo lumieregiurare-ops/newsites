@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T18:00:21.849Z",
+  "updatedAt": "2026-10-01T18:30:20.657Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 541,
+  "total": 542,
   "regions": {
     "jp": 454,
-    "global": 87
+    "global": 88
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 57
+      "count": 58
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 168
+      "count": 169
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 64
+      "count": 65
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "Inside",
     "AppBank",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b078fbda1b4c",
+      "url": "https://www.deepsilver.com/ja/games/metro2039/",
+      "host": "deepsilver.com",
+      "region": "global",
+      "title": "メトロ2033 リダックス",
+      "headline": "シリーズ5,000万本突破！『メトロ2033 リダックス』＆『メトロ ラストライト リダックス』最新世代向け無料アップデート発表―PCは10月22日、国内CSは11月予定",
+      "description": "METRO 2039 is the next landmark FPS from acclaimed storytellers, 4A Games. Journey into the dark heart of post-apocalyp…",
+      "publishedAt": "2026-10-01T18:09:03.000Z",
+      "addedAt": "2026-10-01T18:30:20.657Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173042.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.deepsilver.com/media/ovhokrxn/metro2039-keyart.jpg"
+    },
     {
       "id": "bb8491be9894",
       "url": "https://bandainamco-nui.co.jp/nuicolle/chibideco/",
