@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T08:00:31.471Z",
+  "updatedAt": "2026-10-01T08:30:43.344Z",
   "platforms": [
     {
       "id": "switch",
@@ -452,6 +452,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-01T08:30:43.344Z",
+      "type": "new",
+      "label": "新規",
+      "title": "肝試しオンライン",
+      "url": "https://kimodameshi-online.com/",
+      "image": "https://kimodameshi-online.com/og-image-ja.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年10月"
+    },
+    {
       "at": "2026-10-01T06:30:31.386Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -511,19 +523,6 @@
       ],
       "from": "2026年12月15日",
       "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-01T04:30:45.883Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://monsterhunteroutlanders.com/ja/index.html",
-      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年10月29日",
-      "to": "2026年12月15日"
     }
   ]
 }

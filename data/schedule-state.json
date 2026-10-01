@@ -651,23 +651,8 @@
       }
     },
     "プロセカ": {
-      "at": "2026-09-28T08:30:31.329Z",
-      "entry": {
-        "trackId": "1169979118",
-        "title": "ピアノ・タイル：音ゲーム、ツムツム、プロセカ、ぴあのたいる",
-        "artist": "海杉 李",
-        "genres": [
-          "ミュージック",
-          "カジュアル",
-          "ミュージック"
-        ],
-        "releaseDate": "2016-11-15T12:56:18Z",
-        "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id1169979118",
-        "sellerUrl": "https://leshanxiaoqin.github.io/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/2e/8e/ae2e8e65-941a-2c2f-cc51-b4345ebd5f0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-        "isGame": true
-      }
+      "at": "2026-10-01T08:30:44.998Z",
+      "entry": null
     },
     "セガNET麻雀 MJ": {
       "at": "2026-09-30T01:00:35.557Z",
@@ -758,7 +743,7 @@
       "entry": null
     },
     "三國志 覇道": {
-      "at": "2026-09-28T08:00:32.426Z",
+      "at": "2026-10-01T08:30:43.610Z",
       "entry": {
         "trackId": "1481318779",
         "title": "三國志 覇道",
@@ -771,7 +756,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id1481318779",
         "sellerUrl": "https://www.gamecity.ne.jp/sangokushi_hadou/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/0d/23/d50d23c4-e5cf-5009-689f-68d414473778/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/b4/2b/70b42b15-b1e2-f722-81b7-d59385112bb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -15720,9 +15705,9 @@
     },
     "dronengone": {
       "title": "Drone n Gone",
-      "dateText": "2026年9月28日",
-      "date": "2026-09-28",
-      "sortKey": "2026-09-28",
+      "dateText": "2026年10月5日",
+      "date": "2026-10-05",
+      "sortKey": "2026-10-05",
       "prereg": false,
       "firstSeen": "2026-09-24T17:00:26.809Z"
     },
@@ -21733,6 +21718,30 @@
       "sortKey": "2026-10-04",
       "prereg": false,
       "firstSeen": "2026-10-01T08:00:31.471Z"
+    },
+    "sudokugirls:hawaiivacation": {
+      "title": "Sudoku Girls: Hawaii Vacation",
+      "dateText": "2026年10月5日",
+      "date": "2026-10-05",
+      "sortKey": "2026-10-05",
+      "prereg": false,
+      "firstSeen": "2026-10-01T08:30:43.344Z"
+    },
+    "unstrung": {
+      "title": "Unstrung",
+      "dateText": "2026年10月5日",
+      "date": "2026-10-05",
+      "sortKey": "2026-10-05",
+      "prereg": false,
+      "firstSeen": "2026-10-01T08:30:43.344Z"
+    },
+    "肝試しオンライン": {
+      "title": "肝試しオンライン",
+      "dateText": "2026年10月",
+      "date": null,
+      "sortKey": "2026-10-32",
+      "prereg": false,
+      "firstSeen": "2026-10-01T08:30:43.344Z"
     }
   },
   "changeLog": [
@@ -25513,6 +25522,18 @@
         "mobile"
       ],
       "to": "2026年11月30日"
+    },
+    {
+      "at": "2026-10-01T08:30:43.344Z",
+      "type": "new",
+      "label": "新規",
+      "title": "肝試しオンライン",
+      "url": "https://kimodameshi-online.com/",
+      "image": "https://kimodameshi-online.com/og-image-ja.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年10月"
     }
   ],
   "initialized": true,
