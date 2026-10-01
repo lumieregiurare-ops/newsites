@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T03:30:24.186Z",
+  "updatedAt": "2026-10-01T04:00:20.589Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 519,
+  "total": 521,
   "regions": {
-    "jp": 435,
+    "jp": 437,
     "global": 84
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 53
+      "count": 55
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 161
+      "count": 162
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 158
+      "count": 159
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
-    "Inside",
     "Game*Spark",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3ad3cbdc2046",
+      "url": "https://guardiantales.jp/",
+      "host": "guardiantales.jp",
+      "region": "jp",
+      "title": "ガーディアンテイルズ",
+      "headline": "5周年を迎える『ガーディアンテイルズ』…だけど“ガーディアン”ってなんだっけ？ ALSOKと『ガデテル』日本運営担当者に“守る仕事”の話を聞いた",
+      "description": "スマートフォン向けドット絵アクションRPG『ガーディアンテイルズ』の公式サイトです。個性豊かな英雄たちと、遊び心溢れる感動の大冒険に出かけよう！",
+      "publishedAt": "2026-10-01T04:00:03.000Z",
+      "addedAt": "2026-10-01T04:00:20.589Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188570.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.guardiantales.jp/images/thumbnail_release.jpg"
+    },
+    {
+      "id": "9a6dc678a2f2",
+      "url": "https://footballmanager.sega.com/ja/",
+      "host": "footballmanager.sega.com",
+      "region": "jp",
+      "title": "フットボールマネージャー27",
+      "headline": "『フットボールマネージャー27』11月11日に発売決定。地元クラブから世界有数の名門まで、好きなサッカーチームの監督になれる経営シミュレーションゲーム最新作",
+      "description": "『Football Manager 27』では、戦術ボードからタッチラインまでシームレスにつながる体験を実現。進化したシステムで、よりスマートなナビゲーションと高い操作性を実現します。",
+      "publishedAt": "2026-10-01T03:28:34.000Z",
+      "addedAt": "2026-10-01T04:00:20.589Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261001n"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://footballmanager.sega.com/assets/images/ogp.jpg"
+    },
     {
       "id": "d79cc5045914",
       "url": "https://miyazawa.pro/UnearthRelics/",
@@ -13097,9 +13154,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "prereg"
       ],
       "platforms": [],

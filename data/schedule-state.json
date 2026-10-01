@@ -882,7 +882,7 @@
       }
     },
     "パールインブルー": {
-      "at": "2026-09-17T03:52:06.150Z",
+      "at": "2026-10-01T04:00:44.593Z",
       "entry": null
     },
     "ファレイドリア": {
@@ -4519,9 +4519,9 @@
       "title": "モンスターハンターアウトランダーズ",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2026年12月15日",
-      "date": "2026-12-15",
-      "sortKey": "2026-12-15"
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -16301,7 +16301,7 @@
     },
     "rocokingdom": {
       "title": "Roco Kingdom",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-25T05:01:06.598Z"
     },
     "schemademo": {
@@ -21400,6 +21400,30 @@
       "sortKey": "2026-10-02",
       "prereg": false,
       "firstSeen": "2026-10-01T03:30:58.466Z"
+    },
+    "waroftheworldstrilogydemo": {
+      "title": "War Of The Worlds Trilogy Demo",
+      "dateText": "2026年10月2日",
+      "date": "2026-10-02",
+      "sortKey": "2026-10-02",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:00:44.304Z"
+    },
+    "hordearena": {
+      "title": "Horde Arena",
+      "dateText": "2026年10月7日",
+      "date": "2026-10-07",
+      "sortKey": "2026-10-07",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:00:44.304Z"
+    },
+    "フットボールマネージャー27": {
+      "title": "フットボールマネージャー27",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:00:44.304Z"
     }
   },
   "changeLog": [
@@ -25062,6 +25086,41 @@
     },
     {
       "at": "2026-10-01T03:00:29.050Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Roco Kingdom",
+      "url": "https://rocokingdom.com/web/ja/",
+      "image": "https://rocokingdom.com/share/img/ja.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-01T04:00:44.304Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年12月15日",
+      "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-01T04:00:44.304Z",
+      "type": "new",
+      "label": "新規",
+      "title": "フットボールマネージャー27",
+      "url": "https://footballmanager.sega.com/ja/",
+      "image": "https://footballmanager.sega.com/assets/images/ogp.jpg",
+      "platforms": [],
+      "to": "2026年11月11日"
+    },
+    {
+      "at": "2026-10-01T04:00:44.304Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "Roco Kingdom",
