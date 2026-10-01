@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T08:30:21.480Z",
+  "updatedAt": "2026-10-01T09:00:18.406Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 533,
+  "total": 534,
   "regions": {
-    "jp": 448,
+    "jp": 449,
     "global": 85
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 166
+      "count": 167
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4c8006da8b25",
+      "url": "https://sakunagames.com/",
+      "host": "sakunagames.com",
+      "region": "jp",
+      "title": "さくなばーす",
+      "headline": "VTuber「結城さくな」さんが主演&プロデュースの育成シミュレーションゲーム『さくなばーす』の発売日が3月11日に決定。公式サイトもリニューアルされ、OPムービーも公開",
+      "description": "結城さくな主演・プロデュース『さくなばーす』の公式サイトです。『さくなゲームズ』が送る新作育成シミュレーションゲーム。",
+      "publishedAt": "2026-10-01T09:00:08.000Z",
+      "addedAt": "2026-10-01T09:00:18.406Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sakunagames.com/assets/images/ogp.jpg?v=2"
+    },
     {
       "id": "2b25e0cb128b",
       "url": "https://kimodameshi-online.com/",
@@ -13063,6 +13090,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609243c"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188591.html"
         }
       ],
       "tags": [
