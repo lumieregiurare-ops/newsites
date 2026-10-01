@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T09:30:16.465Z",
+  "updatedAt": "2026-10-01T10:00:18.077Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 534,
+  "total": 539,
   "regions": {
-    "jp": 449,
+    "jp": 454,
     "global": 85
   },
   "categories": [
@@ -25,22 +25,22 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 55
+      "count": 56
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 95
+      "count": 96
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 112
+      "count": 113
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 167
+      "count": 168
     },
     {
       "id": "indie",
@@ -60,17 +60,17 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 17
+      "count": 18
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 119
+      "count": 120
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 85
+      "count": 87
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 63
+      "count": 64
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 163
+      "count": 164
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "AppBank",
@@ -132,6 +132,150 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "99051cd7a0c6",
+      "url": "https://gintama-battle.jp/",
+      "host": "gintama-battle.jp",
+      "region": "jp",
+      "title": "銀魂 すまほ ばとるくろにくる",
+      "headline": "「銀魂 すまほ ばとるくろにくる」，遊章録「ハロウィン」を開催",
+      "description": "好評配信中！なんでもありの「銀魂」がスマホゲームで登場！",
+      "publishedAt": "2026-10-01T09:59:39.000Z",
+      "addedAt": "2026-10-01T10:00:18.077Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/960/G096075/20261001041/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://gintama-battle.jp/assets/img/common/img_ogp.png"
+    },
+    {
+      "id": "6451b33e059c",
+      "url": "https://www.nanairo-enterprise.com/",
+      "host": "nanairo-enterprise.com",
+      "region": "jp",
+      "title": "LitGirls 文学迷宮と少女",
+      "headline": "ダンジョン探索RPG『LitGirls 文学迷宮と少女』が発表。アリス、ジュリエット、ダンテ、レイヴンなど名作文学の登場人物をモチーフとした少女が活躍",
+      "description": "ナナイロ・エンタープライズは世界中の多くの方々に感動を与えられるようなソフト作りを目指して開発・制作を行っております。ゲーム開発事業、次世代新規事業、人材紹介事業の3つの事業を軸としています。",
+      "publishedAt": "2026-10-01T09:57:37.000Z",
+      "addedAt": "2026-10-01T10:00:18.077Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610012k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nanairo-enterprise.com/wp-content/uploads/2023/10/ogp.jpg"
+    },
+    {
+      "id": "1d622bb8ac12",
+      "url": "https://www.stalker2.com/ja",
+      "host": "stalker2.com",
+      "region": "jp",
+      "title": "S.T.A.L.K.E.R. 2",
+      "headline": "「S.T.A.L.K.E.R. 2」，大型拡張コンテンツ「Cost of Hope」のアコレードトレイラーを公開",
+      "description": "☢️「S.T.A.L.K.E.R. 2: Heart of Chornobyl」は、GSC Game World が開発した大賞受賞PCゲームシリーズの次世代続編であり、ポストアポカリプス状態のチェルノブイリ立入禁止区域での生存をテーマに…",
+      "publishedAt": "2026-10-01T09:50:08.000Z",
+      "addedAt": "2026-10-01T10:00:18.077Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/127/G012714/20261001039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.stalker2.com/stalker2/seo/new-key-art/snippet-index.jpg"
+    },
+    {
+      "id": "0d203a5c84df",
+      "url": "https://valormortis.game/",
+      "host": "valormortis.game",
+      "region": "jp",
+      "title": "Valor Mortis",
+      "headline": "「Valor Mortis」，最新開発者ビデオダイアリーを公開。豪華キャストやゲームプレイを最適化する新システムを紹介",
+      "description": "「Valor Mortis」，最新開発者ビデオダイアリーを公開。豪華キャストやゲームプレイを最適化する新システムを紹介",
+      "publishedAt": "2026-10-01T09:45:47.000Z",
+      "addedAt": "2026-10-01T10:00:18.077Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/948/G094898/20261001038/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "8cfa1f0ed613",
+      "url": "https://zawascript.dev/sushi-parade/",
+      "host": "zawascript.dev",
+      "region": "jp",
+      "title": "寿司パレード",
+      "headline": "作業中のデスクトップに，自分だけの回転寿司屋を開店！ マグロ赤身からあんきもまで，100種類以上の寿司ネタを収録するデスクトップ常駐型シム「寿司パレード」，体験版配信開始",
+      "description": "デスクトップに、自分だけの回転寿司を開店。",
+      "publishedAt": "2026-10-01T09:44:15.000Z",
+      "addedAt": "2026-10-01T10:00:18.077Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104712/20261001036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://zawascript.dev/sushi-parade/og-image.png"
+    },
     {
       "id": "4c8006da8b25",
       "url": "https://sakunagames.com/",
@@ -11116,10 +11260,12 @@
         "特設サイト",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "周年"
       ],
       "categories": [
-        "campaign"
+        "campaign",
+        "anniversary"
       ],
       "platforms": [
         "mobile"
