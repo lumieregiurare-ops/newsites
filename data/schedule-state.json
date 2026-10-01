@@ -1247,7 +1247,7 @@
       "entry": null
     },
     "NAMCO LEGENDARY Mountains": {
-      "at": "2026-09-28T02:30:28.168Z",
+      "at": "2026-10-01T02:30:28.700Z",
       "entry": {
         "trackId": "6789032656",
         "title": "NAMCO LEGENDARY Mountains",
@@ -21326,6 +21326,30 @@
       "sortKey": "2026-10-02",
       "prereg": false,
       "firstSeen": "2026-10-01T02:00:29.793Z"
+    },
+    "戦鬼キルスティン": {
+      "title": "戦鬼キルスティン",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-01T02:30:28.550Z"
+    },
+    "keyboardchaos": {
+      "title": "Keyboard Chaos",
+      "dateText": "2026年10月9日",
+      "date": "2026-10-09",
+      "sortKey": "2026-10-09",
+      "prereg": false,
+      "firstSeen": "2026-10-01T02:30:28.550Z"
+    },
+    "紅の砂漠": {
+      "title": "紅の砂漠",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-01T02:30:28.550Z"
     }
   },
   "changeLog": [
@@ -24975,6 +24999,16 @@
         "switch"
       ],
       "to": "2026年12月24日"
+    },
+    {
+      "at": "2026-10-01T02:30:28.550Z",
+      "type": "new",
+      "label": "新規",
+      "title": "紅の砂漠",
+      "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",
+      "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
+      "platforms": [],
+      "to": "2026年10月30日"
     }
   ],
   "initialized": true,
