@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T21:00:17.403Z",
+  "updatedAt": "2026-10-01T21:30:19.217Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 542,
+  "total": 543,
   "regions": {
-    "jp": 454,
+    "jp": 455,
     "global": 88
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 169
+      "count": 170
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c2353a16daa1",
+      "url": "https://city-connection.co.jp/muchimuchipork-pinksweets/",
+      "host": "city-connection.co.jp",
+      "region": "jp",
+      "title": "むちむちポーク！＆ピンクスゥイーツ Boosted",
+      "headline": "『むちむちポーク！＆ピンクスゥイーツ Boosted』リリース。ケイブの弾幕STGが2作セットで復活",
+      "description": "ハードでキュートな弾幕シューティングが大復活！『むちむちポーク！＆ピンクスゥイーツ Boosted』10月1日（木）発売",
+      "publishedAt": "2026-10-01T21:30:03.000Z",
+      "addedAt": "2026-10-01T21:30:19.217Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173044.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://city-connection.co.jp/muchimuchipork-pinksweets/dist/img/ogp.jpg"
+    },
     {
       "id": "b078fbda1b4c",
       "url": "https://www.deepsilver.com/ja/games/metro2039/",
@@ -1064,6 +1091,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/30/172981.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/02/28196.html"
         }
       ],
       "tags": [
