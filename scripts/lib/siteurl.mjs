@@ -60,6 +60,7 @@ export function createSiteFilter(cfg = {}) {
   const gameSignals = (cfg.gameSignals || []).map((w) => new RegExp(w, "i"));
   const updateOnly = (cfg.updateOnlyWords || []).map((w) => new RegExp(w, "i"));
   const novelty = (cfg.noveltySignals || []).map((w) => new RegExp(w, "i"));
+  const serviceEnd = (cfg.serviceEndWords || []).map((w) => new RegExp(w, "i"));
   const gameHostRe = cfg.gameHostPattern ? new RegExp(cfg.gameHostPattern, "i") : null;
 
   // 除外するホストか（EC・アニメ・TV 局・ニュース/プレス用サブドメインなど）
@@ -119,7 +120,15 @@ export function createSiteFilter(cfg = {}) {
     return "update only";
   }
 
+  // サービス終了の告知記事から拾った公式サイトは新着ではない。
+  // 見出しに「新作」「事前登録」などが併記されていても（後継作の告知など）落とす
+  function serviceEndArticle(item) {
+    if (item.sourceKind !== "news" || !serviceEnd.length) return null;
+    const text = `${item.title || ""} ${item.headline || ""}`;
+    return serviceEnd.some((re) => re.test(text)) ? "service end" : null;
+  }
+
   return function check(item) {
-    return excludedHost(item.url) || merchOnly(item) || updateOnlyArticle(item) || launchWithoutGameSignal(item);
+    return excludedHost(item.url) || merchOnly(item) || serviceEndArticle(item) || updateOnlyArticle(item) || launchWithoutGameSignal(item);
   };
 }
