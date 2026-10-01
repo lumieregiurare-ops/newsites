@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T06:00:19.921Z",
+  "updatedAt": "2026-10-01T06:30:17.456Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 524,
+  "total": 527,
   "regions": {
-    "jp": 440,
+    "jp": 443,
     "global": 84
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 69
+      "count": 71
     },
     {
       "id": "anniversary",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 116
+      "count": 118
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 161
+      "count": 163
     },
     {
       "id": "browser",
@@ -121,17 +121,109 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "電ファミニコゲーマー",
+    "Inside",
     "AppBank",
     "4Gamer",
-    "Game*Spark",
-    "Inside",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ba08dbba2974",
+      "url": "https://apps.apple.com/jp/app/id1554294918",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Valheim",
+      "headline": "北欧神話風オープンワールドサバクラ『Valheim』今後もコンテンツ拡大を明言。正式版が配信されたばかり―アプデ詳細は時期を見て発表予定",
+      "description": "Coffee Stain Publishingの「Valheim」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Valheim」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-01T06:30:04.000Z",
+      "addedAt": "2026-10-01T06:30:17.456Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/01/173006.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/84/78/22847843-4401-aa8a-6d8f-f6be6e6fcf9a/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "9248f54ffd4e",
+      "url": "https://kin29man-mtm.bn-ent.net/",
+      "host": "kin29man-mtm.bn-ent.net",
+      "region": "jp",
+      "title": "キン肉マン マッスルタッグマッチ",
+      "headline": "『キン肉マン マッスルタッグマッチ』がスマホアプリになって復活。事前登録と追加超人を決める「キン肉マン超人総選挙2026」が開始",
+      "description": "キン肉マン マッスルタッグマッチ 令和復活編 DLはこちら→App Store：https://apps.apple.com/jp/app/id6775757720?mt=8 GooglePlay: https://play.google…",
+      "publishedAt": "2026-10-01T06:10:50.000Z",
+      "addedAt": "2026-10-01T06:30:17.456Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261001z"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://kin29man-mtm.bn-ent.net/images/ogp.jpg"
+    },
+    {
+      "id": "8076b45bb64a",
+      "url": "https://p-bandai.jp/item/item-1000258512/",
+      "host": "p-bandai.jp",
+      "region": "jp",
+      "title": "機動戦士ガンダム",
+      "headline": "シャアもララァも表情がシュールすぎ！「機動戦士ガンダム」の「ひねくれたやつら」が予約開始",
+      "description": "シャアもララァも表情がシュールすぎ！「機動戦士ガンダム」の「ひねくれたやつら」が予約開始",
+      "publishedAt": "2026-10-01T06:05:03.000Z",
+      "addedAt": "2026-10-01T06:30:17.456Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188578.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "bef08c8ce4db",
       "url": "https://apps.apple.com/jp/app/id6474999801",

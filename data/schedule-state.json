@@ -196,7 +196,7 @@
       "entry": null
     },
     "Valheim": {
-      "at": "2026-09-14T07:06:45.272Z",
+      "at": "2026-10-01T06:30:31.752Z",
       "entry": null
     },
     "ラグナロク アドベンチャーズ": {
@@ -1537,6 +1537,25 @@
         "storeUrl": "https://apps.apple.com/jp/app/id6474999801",
         "sellerUrl": "https://fl-x.cc/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/ed/b2/16edb2df-ee24-3f78-0c45-2c3cb9796cdc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "キン肉マン マッスルタッグマッチ": {
+      "at": "2026-10-01T06:30:33.102Z",
+      "entry": {
+        "trackId": "6775757720",
+        "title": "キン肉マン マッスルタッグマッチ令和復活編",
+        "artist": "Bandai Namco Entertainment Inc.",
+        "genres": [
+          "スポーツ",
+          "エンターテインメント",
+          "アクション"
+        ],
+        "releaseDate": "2026-11-30T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6775757720",
+        "sellerUrl": "https://www.bandainamcoent.co.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/f2/db/9ff2db0b-fb24-723c-44dc-9ac54305c770/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -21549,6 +21568,27 @@
       "sortKey": "2026-10-20",
       "prereg": false,
       "firstSeen": "2026-10-01T06:00:30.775Z"
+    },
+    "graveofvoices": {
+      "title": "Grave Of Voices",
+      "dateText": "2026年10月4日",
+      "date": "2026-10-04",
+      "sortKey": "2026-10-04",
+      "prereg": false,
+      "firstSeen": "2026-10-01T06:30:31.386Z"
+    },
+    "キャットベンチャー": {
+      "title": "キャットベンチャー",
+      "dateText": "2026年10月4日",
+      "date": "2026-10-04",
+      "sortKey": "2026-10-04",
+      "prereg": false,
+      "firstSeen": "2026-10-01T06:30:31.386Z"
+    },
+    "キン肉マンマッスルタッグマッチ": {
+      "title": "キン肉マン マッスルタッグマッチ",
+      "prereg": true,
+      "firstSeen": "2026-10-01T06:30:31.386Z"
     }
   },
   "changeLog": [
@@ -25317,6 +25357,18 @@
         "mobile"
       ],
       "to": "2026年10月20日"
+    },
+    {
+      "at": "2026-10-01T06:30:31.386Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "キン肉マン マッスルタッグマッチ",
+      "url": "https://kin29man-mtm.bn-ent.net/",
+      "image": "https://kin29man-mtm.bn-ent.net/images/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月30日"
     }
   ],
   "initialized": true,
