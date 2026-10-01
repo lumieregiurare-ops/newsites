@@ -1264,7 +1264,7 @@
       }
     },
     "悪魔城ドラキュラ": {
-      "at": "2026-09-28T03:00:29.042Z",
+      "at": "2026-10-01T03:00:29.347Z",
       "entry": {
         "trackId": "1498019884",
         "title": "悪魔城ドラキュラ",
@@ -16283,7 +16283,7 @@
     },
     "rocokingdom": {
       "title": "Roco Kingdom",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-25T05:01:06.598Z"
     },
     "schemademo": {
@@ -21350,6 +21350,30 @@
       "sortKey": "2026-10-30",
       "prereg": false,
       "firstSeen": "2026-10-01T02:30:28.550Z"
+    },
+    "longmarch": {
+      "title": "Long March",
+      "dateText": "2026年10月2日",
+      "date": "2026-10-02",
+      "sortKey": "2026-10-02",
+      "prereg": false,
+      "firstSeen": "2026-10-01T03:00:29.050Z"
+    },
+    "zombielabdemo": {
+      "title": "Zombie Lab Demo",
+      "dateText": "2026年10月2日",
+      "date": "2026-10-02",
+      "sortKey": "2026-10-02",
+      "prereg": false,
+      "firstSeen": "2026-10-01T03:00:29.050Z"
+    },
+    "wildaria": {
+      "title": "Wildaria",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-01T03:00:29.050Z"
     }
   },
   "changeLog": [
@@ -25009,6 +25033,18 @@
       "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
       "platforms": [],
       "to": "2026年10月30日"
+    },
+    {
+      "at": "2026-10-01T03:00:29.050Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Roco Kingdom",
+      "url": "https://rocokingdom.com/web/ja/",
+      "image": "https://rocokingdom.com/share/img/ja.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
