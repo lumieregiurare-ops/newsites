@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:30:22.082Z",
+  "updatedAt": "2026-10-01T16:00:19.232Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "トップロード",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
-          "metric": "GAME SPARK PTE. LTD.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "Colony Flow!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/23/42/2123423c-5f47-6efe-ba43-d07ce3b4b4e1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
           "metric": "ABI GLOBAL LTD.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "トップロード",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
+          "metric": "GAME SPARK PTE. LTD.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
@@ -241,40 +241,40 @@
         },
         {
           "rank": 8,
-          "title": "Block Out! - Color Sort Puzzle",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d0/bc/1dd0bcac-6a6c-52bd-9b5d-e2d6a41b59a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
-          "metric": "Grand Games A.Ş.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 9,
-          "title": "波乱水世界",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/38/19/313819f2-862f-780f-363e-1e0d539647a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
-          "metric": "Hong Kong Just Game Technology Limited",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "Smash Fest!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/85/a5/ed85a599-159e-92e2-030a-17fda644aa0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/smash-fest/id6748084174",
           "metric": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+2",
+            "value": 2
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "Block Out! - Color Sort Puzzle",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d0/bc/1dd0bcac-6a6c-52bd-9b5d-e2d6a41b59a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
+          "metric": "Grand Games A.Ş.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "波乱水世界",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/38/19/313819f2-862f-780f-363e-1e0d539647a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
+          "metric": "Hong Kong Just Game Technology Limited",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         }
