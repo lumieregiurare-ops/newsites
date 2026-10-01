@@ -139,10 +139,10 @@
       "id": "0d203a5c84df",
       "url": "https://valormortis.game/",
       "host": "valormortis.game",
-      "region": "jp",
+      "region": "global",
       "title": "Valor Mortis",
       "headline": "「Valor Mortis」，最新開発者ビデオダイアリーを公開。豪華キャストやゲームプレイを最適化する新システムを紹介",
-      "description": "「Valor Mortis」，最新開発者ビデオダイアリーを公開。豪華キャストやゲームプレイを最適化する新システムを紹介",
+      "description": "One More Level presents their take on the Souls-like genre, combining FPP camera with action gameplay and a demanding c…",
       "article": {
         "prereg": false,
         "preregEnded": false,
@@ -170,10 +170,12 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
-      "checkedAt": "2026-10-01T10:00:18.077Z",
-      "metaError": "This operation was aborted",
-      "platforms": []
+      "metaAttempts": 2,
+      "checkedAt": "2026-10-01T10:30:17.216Z",
+      "platforms": [],
+      "ogFetchedAt": "2026-10-01T10:30:17.216Z",
+      "ogDescription": true,
+      "regionDetected": true
     },
     {
       "id": "8cfa1f0ed613",
@@ -329,6 +331,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610012j"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188603.html"
         }
       ],
       "tags": [
@@ -1410,10 +1416,10 @@
         "official"
       ],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1790664742",
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1790824188",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-30T10:00:28.895Z",
-      "ogFetchedAt": "2026-09-30T10:00:28.895Z",
+      "checkedAt": "2026-10-01T10:30:17.216Z",
+      "ogFetchedAt": "2026-10-01T10:30:17.216Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2688,8 +2694,8 @@
       "points": null,
       "image": "https://rebeast-preview.shimizu-mra.chatgpt.site/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-30T10:00:28.895Z",
-      "ogFetchedAt": "2026-09-30T10:00:28.895Z",
+      "checkedAt": "2026-10-01T10:30:17.216Z",
+      "ogFetchedAt": "2026-10-01T10:30:17.216Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -5311,8 +5317,8 @@
       "points": null,
       "image": "https://rpg.jp/resources/img/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-09-30T10:00:28.895Z",
-      "ogFetchedAt": "2026-09-30T10:00:28.895Z",
+      "checkedAt": "2026-10-01T10:30:17.216Z",
+      "ogFetchedAt": "2026-10-01T10:30:17.216Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -21537,8 +21543,8 @@
         "preregEnded": false,
         "count": "",
         "reward": "",
-        "ios": "",
-        "android": ""
+        "ios": "6741469353",
+        "android": "com.sega.FootballClubChampions"
       },
       "publishedAt": "2026-09-11T10:41:19.000Z",
       "addedAt": "2026-09-14T06:11:38.156Z",
