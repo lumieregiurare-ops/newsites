@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T03:00:18.652Z",
+  "updatedAt": "2026-10-01T03:30:24.186Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 517,
+  "total": 519,
   "regions": {
-    "jp": 433,
+    "jp": 435,
     "global": 84
   },
   "categories": [
@@ -40,17 +40,17 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 159
+      "count": 161
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 11
+      "count": 12
     },
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "company",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 114
+      "count": 115
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 157
+      "count": 158
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "arcade",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d79cc5045914",
+      "url": "https://miyazawa.pro/UnearthRelics/",
+      "host": "miyazawa.pro",
+      "region": "jp",
+      "title": "遺跡掘り",
+      "headline": "Switch用のギターコントローラがシャベルに!? 地面に埋まった遺物を発掘するゲーム「遺跡掘り」，Nintendo Storeで配信開始",
+      "description": "ギターコントローラーがシャベルに！？筋肉を使った遺跡発掘ゲーム！",
+      "publishedAt": "2026-10-01T03:12:56.000Z",
+      "addedAt": "2026-10-01T03:30:24.186Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104684/20261001006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://miyazawa.pro/UnearthRelics/img/ogp/ogp600_300.jpg"
+    },
+    {
+      "id": "b7a2f31161be",
+      "url": "https://apps.apple.com/jp/app/id6784138434",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Morifis",
+      "headline": "個人開発の防衛ストラテジー『Morifis』配信開始！ iOS／Android／ブラウザで遊べる、ひらいた道がダンジョンになる新作",
+      "description": "Hakumai Studioの「Morifis - 森を育てる防衛ゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Morifis - 森を育てる防衛ゲーム」に似たゲームを見るこ…",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "addedAt": "2026-10-01T03:30:24.186Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/01/game/3119264.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "indie",
+        "browser"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/97/54/c9975478-47f9-fed7-050e-c4721cb3fb4f/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "2d224d9db0a8",
       "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",

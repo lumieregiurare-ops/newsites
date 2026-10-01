@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T03:00:29.050Z",
+  "updatedAt": "2026-10-01T03:30:58.466Z",
   "platforms": [
     {
       "id": "switch",
@@ -337,26 +337,6 @@
       "trackId": ""
     },
     {
-      "id": "501f5d92a8d0",
-      "title": "Roco Kingdom",
-      "url": "https://rocokingdom.com/web/ja/",
-      "image": "https://rocokingdom.com/share/img/ja.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-25T04:33:33.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "オープンワールドモンスター育成RPG『Roco Kingdom』鬼頭明里さんや日笠陽子さんら出演決定！KENNさん、相羽あいなさん登壇イベントにて発表",
-      "description": "『Roco Kingdom』次世代オープンワールド・モンスター収集RPG",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260925r",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "8fd209060525",
       "title": "WonderPaws",
       "url": "https://www.wonderpawsgame.com/",
@@ -448,21 +428,34 @@
       },
       "announcedText": "2027年1月にリリース",
       "trackId": "6749342133"
-    }
-  ],
-  "changes": [
+    },
     {
-      "at": "2026-10-01T03:00:29.050Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Roco Kingdom",
-      "url": "https://rocokingdom.com/web/ja/",
-      "image": "https://rocokingdom.com/share/img/ja.png",
+      "id": "66d77cdcb0bf",
+      "title": "プチプラネット",
+      "url": "https://planet.hoyoverse.com/ja-jp/home/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b6/a2/96b6a2f9-5965-4d03-75fa-b531c258b4da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
-      "to": ""
-    },
+      "startedAt": "2026-09-20T03:22:21.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "HoYoverseのスローライフゲーム「プチプラネット」，ファイナルβテストを開始。公式まったり番組「ぷらっとぷらねっと」第3回を9月25日20：00に配信",
+      "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/948/G094822/20260920015/",
+      "appleId": "6776621908",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6776621908",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6776621908"
+    }
+  ],
+  "changes": [
     {
       "at": "2026-10-01T02:30:28.550Z",
       "type": "new",
@@ -518,6 +511,18 @@
       "image": "https://img-eshop.cdn.nintendo.net/i/cdf73403465c0db25809d76886c4ba90ab628ed61c76df5ab64d9dad3d0b44ff.jpg",
       "platforms": [
         "switch"
+      ],
+      "to": "2026年10月8日"
+    },
+    {
+      "at": "2026-09-30T17:01:42.131Z",
+      "type": "new",
+      "label": "新規",
+      "title": "The Night of the Unextinguished Flame DLC",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000081435",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e440ab2fc99ae83ed19802fab36f2d8c6b0e422691099a2ab0138ef0d86a5a58.jpg",
+      "platforms": [
+        "switch2"
       ],
       "to": "2026年10月8日"
     }
