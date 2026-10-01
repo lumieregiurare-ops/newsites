@@ -4519,9 +4519,9 @@
       "title": "モンスターハンターアウトランダーズ",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2026年10月29日",
-      "date": "2026-10-29",
-      "sortKey": "2026-10-29"
+      "dateText": "2026年12月15日",
+      "date": "2026-12-15",
+      "sortKey": "2026-12-15"
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -21424,6 +21424,30 @@
       "sortKey": "2026-11-11",
       "prereg": false,
       "firstSeen": "2026-10-01T04:00:44.304Z"
+    },
+    "uppercute": {
+      "title": "Uppercute",
+      "dateText": "2026年10月5日",
+      "date": "2026-10-05",
+      "sortKey": "2026-10-05",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:30:45.883Z"
+    },
+    "カピバラを整理しよう！": {
+      "title": "カピバラを整理しよう！",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:30:45.883Z"
+    },
+    "魔法少女ゆーしゃちゃんと淫獄の迷宮": {
+      "title": "魔法少女ゆーしゃちゃんと淫獄の迷宮",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-01T04:30:45.883Z"
     }
   },
   "changeLog": [
@@ -25130,6 +25154,19 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-01T04:30:45.883Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月29日",
+      "to": "2026年12月15日"
     }
   ],
   "initialized": true,

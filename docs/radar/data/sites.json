@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T04:00:20.589Z",
+  "updatedAt": "2026-10-01T04:30:31.781Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 521,
+  "total": 522,
   "regions": {
-    "jp": 437,
+    "jp": 438,
     "global": 84
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 162
+      "count": 163
     },
     {
       "id": "indie",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2f14f967747e",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/jp/ja/demo",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "悪魔城ドラキュラ",
+      "headline": "『悪魔城ドラキュラ』シリーズ最新作『Castlevania: Belmont’s Curse』序盤を遊べる体験版配信開始！ひと足先に魔物はびこるパリへ",
+      "description": "その赤き呪いは、絶望か希望か。 「悪魔城伝説」の23年後を描くシリーズ最新作がついに登場！ 15世紀パリを舞台に、ベルモンド家の戦いが再び幕を開ける―。",
+      "publishedAt": "2026-10-01T04:30:03.000Z",
+      "addedAt": "2026-10-01T04:30:31.781Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/01/173001.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=31"
+    },
     {
       "id": "3ad3cbdc2046",
       "url": "https://guardiantales.jp/",
@@ -147,6 +174,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/01/188570.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/01/173000.html"
         }
       ],
       "tags": [
@@ -5088,7 +5119,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=09302026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10012026"
     },
     {
       "id": "33c0ff2f4868",
