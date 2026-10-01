@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T11:30:17.491Z",
+  "updatedAt": "2026-10-01T12:00:17.965Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 540,
+  "total": 538,
   "regions": {
-    "jp": 454,
-    "global": 86
+    "jp": 451,
+    "global": 87
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 72
+      "count": 70
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 96
+      "count": 95
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 165
+      "count": 163
     },
     {
       "id": "browser",
@@ -133,37 +133,31 @@
   ],
   "items": [
     {
-      "id": "c6ee54cac38e",
-      "url": "https://se-ec.co.jp/appgames/tasokarehotel-2/",
-      "host": "se-ec.co.jp",
-      "region": "jp",
-      "title": "誰ソ彼ホテル -蕾-",
-      "headline": "「誰ソ彼ホテル -蕾-」，11月30日12：00をもってサービス終了。未公開ストーリーなどはnoteとpixivFANBOXで配信継続",
-      "description": "誰ソ彼ホテル -蕾-｜公式サイト",
-      "publishedAt": "2026-10-01T10:31:28.000Z",
-      "addedAt": "2026-10-01T11:00:16.502Z",
+      "id": "e299dd01ba1d",
+      "url": "https://boostedbytesgames.com/",
+      "host": "boostedbytesgames.com",
+      "region": "global",
+      "title": "Dread of the Deep",
+      "headline": "灯台の光を照準に，四方八方から押し寄せる怪物の大群を迎え撃つ。ローグライクアクション「Dread of the Deep」，体験版配信開始",
+      "description": "Hold the lighthouse. An action roguelite by Boosted Bytes.",
+      "publishedAt": "2026-10-01T11:50:13.000Z",
+      "addedAt": "2026-10-01T12:00:17.965Z",
       "source": "4Gamer",
       "sources": [
         {
           "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/764/G076432/20261001048/"
+          "url": "https://www.4gamer.net/games/047/G104713/20261001050/"
         }
       ],
       "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
+        "ゲーム"
       ],
       "categories": [
-        "prereg"
+        "release"
       ],
-      "platforms": [
-        "mobile"
-      ],
+      "platforms": [],
       "points": null,
-      "image": "https://se-ec.co.jp/appgames/tasokarehotel-2/img/ogp_image.jpg"
+      "image": ""
     },
     {
       "id": "99051cd7a0c6",
@@ -631,38 +625,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "d1ec2f731f4b",
-      "url": "https://www.ilovebistro.jp/",
-      "host": "ilovebistro.jp",
-      "region": "jp",
-      "title": "I LOVE BISTRO",
-      "headline": "経営シム「I LOVE BISTRO」，2026年11月30日14：00をもってサービス終了。4月のリリースから約8か月",
-      "description": "貴方こそビストロマスター！ 最高のお店を目指して腕をふるおう！！！",
-      "publishedAt": "2026-10-01T05:11:09.000Z",
-      "addedAt": "2026-10-01T05:30:14.992Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/995/G099530/20261001020/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://www.ilovebistro.jp/image/ogimage.jpg"
     },
     {
       "id": "2f14f967747e",
@@ -4545,36 +4507,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.taito.co.jp/Content/images/apps/sale20260924_title01_01.webp"
-    },
-    {
-      "id": "9096a365f36c",
-      "url": "https://ava.pmang.jp/thanks/comment",
-      "host": "ava.pmang.jp",
-      "region": "jp",
-      "title": "AVA",
-      "headline": "10月サ終予定の『AVA』特設サイトにSHAKAさんなど4名からのコメント追加公開―新作『AVA RE:BIRTH』はクローズドβテストの応募受付開始",
-      "description": "基本プレイ無料オンラインFPSゲーム「Alliance of Valiant Arms」（アライアンス・オブ・ヴァリアント・アームズ）の公式メンバーサイト。通称\"AVA\"。",
-      "publishedAt": "2026-09-24T12:15:03.000Z",
-      "addedAt": "2026-09-24T12:30:23.996Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/24/172719.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "特設サイト",
-        "事前登録"
-      ],
-      "categories": [
-        "campaign",
-        "prereg"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg"
     },
     {
       "id": "76675f01296c",
@@ -15246,7 +15178,7 @@
       "region": "jp",
       "title": "PUBG MOBILE",
       "headline": "「PUBG MOBILE」，高級車ブランド「Lincoln」とのコラボを開始",
-      "description": "■【RANKED】 Ancient Secret：Arise：エジプト風のテーマモードを実装しました 当該モードはErangel/Miramar/Livikで開放されますが、マップごとに要素が異なります ＜新要素＞ 待機中 始まりの島 始…",
+      "description": "PUBG MOBILE 公式サイト基本プレイ無料！100人同時対戦のバトルロイヤルシューター『PUBG MOBILE』公式サイト。最大4人の仲間と協力するマルチプレイのSQUAD、2人の連携が重要なDUO、自分1人の緊張感に溢れるSOLO…",
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "addedAt": "2026-09-14T08:07:21.557Z",
       "source": "4Gamer",
@@ -15268,7 +15200,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://pubgmobile.jp/wp-content/uploads/Web_%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%882.1.0_20220712.png"
+      "image": "https://pubgmobile.jp/wp-content/uploads/PUBG_Mobile_Simple_White@64.png"
     },
     {
       "id": "8e253fe35e9d",

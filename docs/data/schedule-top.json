@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T11:30:36.386Z",
+  "updatedAt": "2026-10-01T12:00:37.917Z",
   "platforms": [
     {
       "id": "switch",
@@ -430,24 +430,31 @@
       "trackId": ""
     },
     {
-      "id": "9096a365f36c",
-      "title": "AVA",
-      "url": "https://ava.pmang.jp/thanks/comment",
-      "image": "https://ava.pmang.jp/images/thanks/opengraph-image.jpg",
+      "id": "52490de2ca50",
+      "title": "ONE PIECE 海のごちそうレストラン",
+      "url": "https://op-restaurant.bn-ent.net/",
+      "image": "https://op-restaurant.bn-ent.net/ogp.png",
       "platforms": [
+        "switch2",
+        "pc",
         "mobile"
       ],
-      "startedAt": "2026-09-24T12:15:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
+      "startedAt": "2026-09-24T04:30:00.000Z",
+      "releaseText": "2026年10月24日",
+      "releaseSource": "appstore",
       "count": "",
-      "reward": "の情報や、ゲーム内容として3つの兵種を切り替えて戦況に対応することや、強化や合成で自分仕様の銃器を創",
-      "headline": "10月サ終予定の『AVA』特設サイトにSHAKAさんなど4名からのコメント追加公開―新作『AVA RE:BIRTH』はクローズドβテストの応募受付開始",
-      "description": "基本プレイ無料オンラインFPSゲーム「Alliance of Valiant Arms」（アライアンス・オブ・ヴァリアント・アームズ）の公式メンバーサイト。通称\"AVA\"。",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/24/172719.html",
-      "appleId": "",
-      "trackId": ""
+      "reward": "",
+      "headline": "『ONE PIECE 海のごちそうレストラン』モバイル版の事前登録開始！ Switch2/Switch/STEAM版も予約受付中",
+      "description": "「ONE PIECE」家庭用ゲーム最新作！あの大人気アニメ「ONE PIECE」が、株式会社カイロソフトとのコラボレーションによりドット絵の経営シミュレーションゲームとして登場！ 『ONE PIECE』の世界で海上レストランを経営！バラテ…",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/09/24/game/3113478.php",
+      "appleId": "6771652722",
+      "trackId": "6771652722",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6771652722",
+        "preorder": true,
+        "releaseDate": "2026-10-24T07:00:00Z"
+      }
     }
   ],
   "changes": [
@@ -501,18 +508,6 @@
     },
     {
       "at": "2026-10-01T05:30:27.983Z",
-      "type": "new",
-      "label": "新規",
-      "title": "I LOVE BISTRO",
-      "url": "https://www.ilovebistro.jp/",
-      "image": "https://www.ilovebistro.jp/image/ogimage.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年11月30日"
-    },
-    {
-      "at": "2026-10-01T05:30:27.983Z",
       "type": "moved_up",
       "label": "発売日前倒し",
       "title": "モンスターハンターアウトランダーズ",
@@ -523,6 +518,19 @@
       ],
       "from": "2026年12月15日",
       "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-01T04:30:45.883Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "モンスターハンターアウトランダーズ",
+      "url": "https://monsterhunteroutlanders.com/ja/index.html",
+      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月29日",
+      "to": "2026年12月15日"
     }
   ]
 }
