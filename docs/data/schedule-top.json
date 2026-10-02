@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:00:38.306Z",
+  "updatedAt": "2026-10-02T22:30:29.073Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,26 @@
   ],
   "prereg": [
     {
+      "id": "2b29df343b06",
+      "title": "Inter BEE 2026、来場事前登録を開始",
+      "url": "https://www.inter-bee.com/",
+      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-02T22:00:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "Inter BEE 2026、来場事前登録を開始。AI・IP化・サステナビリティを軸に11月18日から幕張メッセで開催",
+      "description": "メディア総合イベントInter BEEの公式ウェブサイト。メディア＆エンターテインメント産業に関わる全ての最新技術、ソリューション、トレンドを発信する情報プラットフォームです。",
+      "source": "GameBusiness.jp",
+      "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/03/28208.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "779467bbfcc4",
       "title": "千年の旅ELF",
       "url": "https://www.sentabijp.com/",
@@ -428,29 +448,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260928l",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "8fd209060525",
-      "title": "WonderPaws",
-      "url": "https://www.wonderpawsgame.com/",
-      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-25T04:15:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "事前登録者数2000万人",
-      "reward": "",
-      "headline": "人間も動物たちもハッピーな世界が魅力の大都市ライフシム『WonderPaws』発表！アイドルになってもいいし市長でもいい、小さな動物に変身してお世話してもらうことも",
-      "description": "Welcome to Paw City, Where Wonder Begins! Pre-register now for WonderPaws, a Cozy Paw City Life Sim where every day bri…",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/25/172749.html",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-02T22:30:29.073Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Inter BEE 2026、来場事前登録を開始",
+      "url": "https://www.inter-bee.com/",
+      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-02T15:00:33.446Z",
       "type": "new",
@@ -508,18 +520,6 @@
         "mobile"
       ],
       "to": "App Store 2026年10月14日"
-    },
-    {
-      "at": "2026-10-01T08:30:43.344Z",
-      "type": "new",
-      "label": "新規",
-      "title": "肝試しオンライン",
-      "url": "https://kimodameshi-online.com/",
-      "image": "https://kimodameshi-online.com/og-image-ja.jpg",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年10月"
     }
   ]
 }

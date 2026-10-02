@@ -1617,6 +1617,10 @@
     "モンソニ！": {
       "at": "2026-10-02T10:30:28.592Z",
       "entry": null
+    },
+    "Inter BEE 2026、来場事前登録を開始": {
+      "at": "2026-10-02T22:30:29.259Z",
+      "entry": null
     }
   },
   "titles": {
@@ -23618,6 +23622,19 @@
       "sortKey": "2026-10-08",
       "prereg": false,
       "firstSeen": "2026-10-02T22:00:38.306Z"
+    },
+    "desecrateddeckdemo": {
+      "title": "Desecrated Deck Demo",
+      "dateText": "2026年10月7日",
+      "date": "2026-10-07",
+      "sortKey": "2026-10-07",
+      "prereg": false,
+      "firstSeen": "2026-10-02T22:30:29.073Z"
+    },
+    "interbee2026、来場事前登録を開始": {
+      "title": "Inter BEE 2026、来場事前登録を開始",
+      "prereg": true,
+      "firstSeen": "2026-10-02T22:30:29.073Z"
     }
   },
   "changeLog": [
@@ -27468,6 +27485,18 @@
         "switch2"
       ],
       "to": "2027年1月31日"
+    },
+    {
+      "at": "2026-10-02T22:30:29.073Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Inter BEE 2026、来場事前登録を開始",
+      "url": "https://www.inter-bee.com/",
+      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

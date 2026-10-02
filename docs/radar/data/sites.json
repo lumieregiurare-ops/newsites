@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T22:00:26.266Z",
+  "updatedAt": "2026-10-02T22:30:16.742Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 569,
+  "total": 571,
   "regions": {
-    "jp": 477,
+    "jp": 479,
     "global": 92
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 71
+      "count": 72
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 124
+      "count": 126
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 123
+      "count": 124
     },
     {
       "id": "official",
@@ -121,17 +121,74 @@
     }
   ],
   "sources": [
+    "Inside",
+    "GameBusiness.jp",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "AppBank",
     "Game*Spark",
     "App Store",
     "Appliv Games",
-    "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ed1717d0f268",
+      "url": "https://hololive.hololivepro.com/events/popup-2610/",
+      "host": "hololive.hololivepro.com",
+      "region": "jp",
+      "title": "ホロライブ・ときのそら、宝鐘マリンら11名がバスガイドに",
+      "headline": "ホロライブ・ときのそら、宝鐘マリンら11名がバスガイドに！全国5都市でポップアップ開催、地域限定商品の販売やスペシャルコンテンツも",
+      "description": "東京・名古屋・福岡・大阪・札幌を巡る「hololive production official pop up shop」が、初回として池袋にてオープンします！ 当ショップでは、描き下ろしのバスガイドイメージビジュアルを使用したオリジナル新…",
+      "publishedAt": "2026-10-02T22:25:02.000Z",
+      "addedAt": "2026-10-02T22:30:16.742Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/03/188696.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hololive.hololivepro.com/wp-content/uploads/2026/09/popup-2610_main.webp"
+    },
+    {
+      "id": "2b29df343b06",
+      "url": "https://www.inter-bee.com/",
+      "host": "inter-bee.com",
+      "region": "jp",
+      "title": "Inter BEE 2026、来場事前登録を開始",
+      "headline": "Inter BEE 2026、来場事前登録を開始。AI・IP化・サステナビリティを軸に11月18日から幕張メッセで開催",
+      "description": "メディア総合イベントInter BEEの公式ウェブサイト。メディア＆エンターテインメント産業に関わる全ての最新技術、ソリューション、トレンドを発信する情報プラットフォームです。",
+      "publishedAt": "2026-10-02T22:00:03.000Z",
+      "addedAt": "2026-10-02T22:30:16.742Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/03/28208.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930"
+    },
     {
       "id": "9accb982a4da",
       "url": "https://deadbydaylight.com/ja/",
