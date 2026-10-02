@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T15:30:19.478Z",
+  "updatedAt": "2026-10-02T16:00:18.083Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 567,
+  "total": 568,
   "regions": {
     "jp": 476,
-    "global": 91
+    "global": 92
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 90
+      "count": 91
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 72
+      "count": 73
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ddb0eaae23b6",
+      "url": "https://www.positive-games.com/",
+      "host": "positive-games.com",
+      "region": "global",
+      "title": "The Regreening",
+      "headline": "荒れ地に植物を根づかせ，生態系を再生する。ソイルパンクなシミュレーションゲーム「The Regreening」，日本語対応デモをSteamで公開",
+      "description": "Positive Impact Games develops wholesome & cozy games that are socially aware and address important contemporary topics.",
+      "publishedAt": "2026-10-02T15:45:03.000Z",
+      "addedAt": "2026-10-02T16:00:18.083Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G099914/20261003002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0b8e7caae39d",
       "url": "https://gundam-official.com/feature/gundam-con/",
@@ -8533,7 +8562,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=32"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=33"
     },
     {
       "id": "700813e361b3",
