@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-02T13:30:19.532Z",
+  "updatedAt": "2026-10-02T14:00:55.722Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 566,
+  "total": 567,
   "regions": {
     "jp": 476,
-    "global": 90
+    "global": 91
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 23
+      "count": 24
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 180
+      "count": 181
     },
     {
       "id": "indie",
@@ -158,6 +158,34 @@
       "platforms": [],
       "points": null,
       "image": "https://gundam-official.com/feature/gundam-con/images/common/ogp.jpg?v3"
+    },
+    {
+      "id": "c9132c41dc6d",
+      "url": "https://bandai-hobby.net/site/gundam-assemble/",
+      "host": "bandai-hobby.net",
+      "region": "jp",
+      "title": "GUNDAM ASSEMBLE",
+      "headline": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
+      "description": "ガンプラを使ったミニチュアゲーム企画が始動。歴代ガンダム作品のモビルスーツが集い、新たな大地に立つ。",
+      "publishedAt": "2026-10-02T13:05:36.000Z",
+      "addedAt": "2026-10-02T14:00:55.722Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/987/G098756/20261002049/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg"
     },
     {
       "id": "a5d38151310a",
@@ -12397,7 +12425,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",

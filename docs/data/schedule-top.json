@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T13:31:23.339Z",
+  "updatedAt": "2026-10-02T14:01:12.144Z",
   "platforms": [
     {
       "id": "switch",
@@ -252,20 +252,19 @@
       "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
     },
     {
-      "id": "99cfee10432d",
-      "title": "Loftia",
-      "date": "2026-11-03",
-      "dateText": "2026年11月3日",
-      "sortKey": "2026-11-03",
+      "id": "65bdf586c863",
+      "title": "GUNDAM ASSEMBLE",
+      "date": "2026-10-31",
+      "dateText": "2026年10月31日",
+      "sortKey": "2026-10-31",
       "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/2320980/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+      "platforms": [],
+      "url": "https://bandai-hobby.net/site/gundam-assemble/",
+      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/987/G098756/20261002049/"
     }
   ],
   "prereg": [
@@ -453,6 +452,16 @@
   ],
   "changes": [
     {
+      "at": "2026-10-02T14:01:12.144Z",
+      "type": "new",
+      "label": "新規",
+      "title": "GUNDAM ASSEMBLE",
+      "url": "https://bandai-hobby.net/site/gundam-assemble/",
+      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg",
+      "platforms": [],
+      "to": "2026年10月31日"
+    },
+    {
       "at": "2026-10-02T12:30:48.206Z",
       "type": "new",
       "label": "新規",
@@ -511,18 +520,6 @@
         "mobile"
       ],
       "to": "App Store 2026年11月30日"
-    },
-    {
-      "at": "2026-10-01T06:00:30.775Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "FingerLaserX",
-      "url": "https://apps.apple.com/jp/app/id6474999801",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年10月20日"
     }
   ]
 }
