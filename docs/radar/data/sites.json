@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T00:30:18.590Z",
+  "updatedAt": "2026-10-02T01:00:17.637Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 543,
+  "total": 544,
   "regions": {
-    "jp": 455,
+    "jp": 456,
     "global": 88
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 97
+      "count": 98
     },
     {
       "id": "event",
@@ -324,6 +324,37 @@
       ],
       "categories": [
         "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ba3f488d35af",
+      "url": "https://rakuspa.com/suikoden_star_leap/",
+      "host": "rakuspa.com",
+      "region": "jp",
+      "title": "幻想水滸伝 STAR LEAP",
+      "headline": "『幻想水滸伝 STAR LEAP』×極楽湯 RAKU SPAコラボを現地レポート！ キャラクターに囲まれながらコラボ風呂&メニューを満喫",
+      "description": "『幻想水滸伝 STAR LEAP』×極楽湯 RAKU SPAコラボを現地レポート！ キャラクターに囲まれながらコラボ風呂&メニューを満喫",
+      "publishedAt": "2026-10-01T10:30:03.000Z",
+      "addedAt": "2026-10-02T01:00:17.637Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/01/173022.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/01/188590.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
       ],
       "platforms": [],
       "points": null,
