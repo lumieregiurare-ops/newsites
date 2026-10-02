@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T12:00:36.977Z",
+  "updatedAt": "2026-10-02T12:30:48.206Z",
   "platforms": [
     {
       "id": "switch",
@@ -453,6 +453,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-02T12:30:48.206Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ぼくは航空管制官 エアポートヒーロー 成田 × ANA",
+      "url": "https://www.sonicpowered.co.jp/bokukan/nsw/rjaa/",
+      "image": "",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
       "at": "2026-10-02T09:30:44.401Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -511,18 +523,6 @@
         "mobile"
       ],
       "to": "App Store 2026年10月20日"
-    },
-    {
-      "at": "2026-10-01T06:00:30.775Z",
-      "type": "new",
-      "label": "新規",
-      "title": "FingerLaserX",
-      "url": "https://apps.apple.com/jp/app/id6474999801",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/7f/e2/eb7fe2e2-d22b-a314-1ced-b40a2ab61712/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月20日"
     }
   ]
 }

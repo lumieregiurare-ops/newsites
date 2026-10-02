@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T12:00:18.516Z",
+  "updatedAt": "2026-10-02T12:30:17.285Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 562,
+  "total": 565,
   "regions": {
-    "jp": 472,
+    "jp": 475,
     "global": 90
   },
   "categories": [
@@ -30,22 +30,22 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 103
+      "count": 104
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 122
+      "count": 123
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 179
+      "count": 180
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 12
+      "count": 13
     },
     {
       "id": "browser",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 31
+      "count": 32
     },
     {
       "id": "media",
@@ -70,14 +70,14 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 89
+      "count": 90
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 25
+      "count": 26
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 71
+      "count": 72
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "Game*Spark",
-    "AppBank",
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
+    "AppBank",
+    "Game*Spark",
     "Inside",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,92 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a5d38151310a",
+      "url": "https://www.sonicpowered.co.jp/bokukan/nsw/rjaa/",
+      "host": "sonicpowered.co.jp",
+      "region": "jp",
+      "title": "ぼくは航空管制官 エアポートヒーロー 成田 × ANA",
+      "headline": "シリーズ最新作「ぼくは航空管制官 エアポートヒーロー 成田 × ANA」，Switch向けに12月10日リリース",
+      "description": "Nintendo Switch『ぼくは航空管制官 エアポートヒーロー 成田×ANA』公式サイト。ゲーム紹介、登場機体、店舗特典、製品情報をご案内します。",
+      "publishedAt": "2026-10-02T12:11:12.000Z",
+      "addedAt": "2026-10-02T12:30:17.285Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104746/20261002045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "770cb911b944",
+      "url": "https://vhs-city.com/aogirihighschool/",
+      "host": "vhs-city.com",
+      "region": "jp",
+      "title": "あおぎり高校",
+      "headline": "VTuberグループ「あおぎり高校」所属の栗駒こまるさんが、10月2日より当面のあいだ活動休止と発表。運営判断による措置で休止期間は未定",
+      "description": "VTuberグループ「あおぎり高校」の公式サイトです。所属メンバー紹介やお問い合わせフォームなどを掲載しています。",
+      "publishedAt": "2026-10-02T12:05:35.000Z",
+      "addedAt": "2026-10-02T12:30:17.285Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610022s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://vhs-city.com/aogirihighschool/ogp_main.png"
+    },
+    {
+      "id": "832ed5d96c13",
+      "url": "https://www.saga-seeker.net/index.html",
+      "host": "saga-seeker.net",
+      "region": "jp",
+      "title": "サーガ＆シーカー",
+      "headline": "文章生成AI搭載のキャラ創作RPG『サーガ＆シーカー』がSteamで50％オフ！ 10月9日までのオータムセール開催",
+      "description": "プレイヤーが紡いだ無数の冒険譚を、ゲーム中と同じBGM・効果音・画面演出のまま再生し、共有する集積所。",
+      "publishedAt": "2026-10-02T12:00:00.000Z",
+      "addedAt": "2026-10-02T12:30:17.285Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/02/game/3120976.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.saga-seeker.net/assets/images/og-card.jpg"
+    },
     {
       "id": "af5fbe008fdc",
       "url": "https://outerworlds2.obsidian.net/",
@@ -854,7 +940,7 @@
       "region": "global",
       "title": "Dread of the Deep",
       "headline": "灯台の光を照準に，四方八方から押し寄せる怪物の大群を迎え撃つ。ローグライクアクション「Dread of the Deep」，体験版配信開始",
-      "description": "Hold the lighthouse. An action roguelite by Boosted Bytes.",
+      "description": "Indie game studio in Northern California. Slime Slayer is out now; Dread of the Deep and Motorsport Park Manager are on…",
       "publishedAt": "2026-10-01T11:50:13.000Z",
       "addedAt": "2026-10-01T12:00:17.965Z",
       "source": "4Gamer",
@@ -868,11 +954,13 @@
         "ゲーム"
       ],
       "categories": [
-        "release"
+        "release",
+        "indie",
+        "company"
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://boostedbytesgames.com/assets/og.jpg"
     },
     {
       "id": "99051cd7a0c6",
@@ -17117,6 +17205,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/%E6%97%A5%E6%9C%AC%E4%BA%8B%E6%95%85%E7%89%A9%E4%BB%B6%E7%9B%A3%E8%A6%96%E5%8D%94%E4%BC%9A3-jsp3/id6768917844"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104747/20261002044/"
         }
       ],
       "tags": [
