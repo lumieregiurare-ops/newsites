@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T21:30:20.842Z",
+  "updatedAt": "2026-10-02T22:00:26.266Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 568,
+  "total": 569,
   "regions": {
-    "jp": 476,
+    "jp": 477,
     "global": 92
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 104
+      "count": 105
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9accb982a4da",
+      "url": "https://deadbydaylight.com/ja/",
+      "host": "deadbydaylight.com",
+      "region": "jp",
+      "title": "デッドバイデイライト",
+      "headline": "『デッドバイデイライト』謎の新映像公開。“天使文字”らしき表記があるとして、SNSでは「ニーアコラボか」と期待の声相次ぐ",
+      "description": "不気味な悪が支配する領域に、永遠に閉じ込められた生存者たち…その死にさえ救済のない世界で、粘り強い生存者4人と血に飢えた殺人鬼1人が知恵と度胸の試される残酷なゲームに挑む。最高の非対称マルチプレイホラーゲームで生存者または殺人鬼となり、ス…",
+      "publishedAt": "2026-10-02T21:43:10.000Z",
+      "addedAt": "2026-10-02T22:00:26.266Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261003a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.deadbydaylight.com/DBD_Website_Keyart_d3b7a9628d.jpg"
+    },
     {
       "id": "ddb0eaae23b6",
       "url": "https://www.positive-games.com/",
@@ -889,6 +916,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/02/173042.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/03/28206.html"
         }
       ],
       "tags": [
