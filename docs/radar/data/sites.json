@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T04:30:18.765Z",
+  "updatedAt": "2026-10-02T05:00:20.132Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 549,
+  "total": 550,
   "regions": {
-    "jp": 461,
+    "jp": 462,
     "global": 88
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 100
+      "count": 101
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 175
+      "count": 176
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 29
+      "count": 30
     },
     {
       "id": "media",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d010352a4494",
+      "url": "https://www.nijisanji.jp/",
+      "host": "nijisanji.jp",
+      "region": "jp",
+      "title": "にじさんじ",
+      "headline": "「にじさんじ」のカードゲーム「NIJISANJI 7 Colors Card Game」，プロモーション映像を公開。情報番組が10月7日に配信決定",
+      "description": "ANYCOLOR株式会社が運営するVTuber/バーチャルライバーグループ「にじさんじ」公式サイトです。にじさんじの最新情報やライバー紹介、お問い合わせフォームなどを掲載しています。",
+      "publishedAt": "2026-10-02T04:33:10.000Z",
+      "addedAt": "2026-10-02T05:00:20.132Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/958/G095872/20261002014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nijisanji.jp/ogp.png"
+    },
     {
       "id": "7c124c5de88a",
       "url": "https://p3re.jp/",
@@ -1005,7 +1034,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=31"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=33"
     },
     {
       "id": "3ad3cbdc2046",
@@ -3836,6 +3865,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/02/188643.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/02/28203.html"
         }
       ],
       "tags": [
@@ -5922,7 +5955,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10012026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10022026"
     },
     {
       "id": "33c0ff2f4868",
