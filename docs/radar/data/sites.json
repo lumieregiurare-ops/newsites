@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T05:30:14.952Z",
+  "updatedAt": "2026-10-02T06:00:18.491Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 551,
+  "total": 552,
   "regions": {
-    "jp": 463,
+    "jp": 464,
     "global": 88
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 119
+      "count": 120
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 164
+      "count": 165
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4534868bf61f",
+      "url": "https://nte.perfectworld.com/jp/index.html",
+      "host": "nte.perfectworld.com",
+      "region": "jp",
+      "title": "NTE",
+      "headline": "魔女クロバネがJR難波駅に出張中。「NTE」POP-UPイベント「クロバネのプチ占い」がポンテ広場で10月4日まで開催",
+      "description": "今すぐダウンロード",
+      "publishedAt": "2026-10-02T05:30:02.000Z",
+      "addedAt": "2026-10-02T06:00:18.491Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/817/G081722/20261002015/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://nte.perfectworld.com/public/images/share.jpg"
+    },
     {
       "id": "717d4a1a52a5",
       "url": "https://puyo-puyo-trainer.jp/",
