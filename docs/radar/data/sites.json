@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T03:30:16.130Z",
+  "updatedAt": "2026-10-02T04:00:53.647Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 548,
+  "total": 549,
   "regions": {
-    "jp": 460,
+    "jp": 461,
     "global": 88
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 99
+      "count": 100
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 117
+      "count": 118
     },
     {
       "id": "release",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 67
+      "count": 68
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7c124c5de88a",
+      "url": "https://p3re.jp/",
+      "host": "p3re.jp",
+      "region": "jp",
+      "title": "ペルソナ3 リロード",
+      "headline": "【70%オフ】『ペルソナ3 リロード』がSteamにて「70%オフ」となるセール開催中！人気作が「7678円→2303円」とお得に購入できる",
+      "description": "オリジナルの王道JRPG感はそのままに、より美しく、より遊びやすく。最新機種でより鮮明に、”あの感動”が蘇る！",
+      "publishedAt": "2026-10-02T03:47:48.000Z",
+      "addedAt": "2026-10-02T04:00:53.647Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261002l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://p3re.jp/resources/img/ogp.png"
+    },
     {
       "id": "2af6372d8232",
       "url": "https://agvhelmets.jp/feature/sf6",
@@ -4357,7 +4387,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/96/c9/1596c977-2eeb-1d4f-c912-1aaaafd026e6/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/3a/4f/1c3a4fa6-2f6f-ad7a-efbc-0ccaa0e86c05/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "5b3aa3bdd2e8",
