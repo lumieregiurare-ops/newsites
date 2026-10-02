@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T10:30:17.215Z",
+  "updatedAt": "2026-10-02T11:00:16.021Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 560,
+  "total": 561,
   "regions": {
-    "jp": 471,
+    "jp": 472,
     "global": 89
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 88
+      "count": 89
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 70
+      "count": 71
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "Game*Spark",
+    "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5a3e4a9bff5e",
+      "url": "https://basiliskgames.com/",
+      "host": "basiliskgames.com",
+      "region": "jp",
+      "title": "ウィザードリィ",
+      "headline": "『ウィザードリィ』や『マイトアンドマジック』の影響を受けた3DダンジョンRPG『The Sundered Anvil』Steamストアページ公開",
+      "description": "『ウィザードリィ』や『マイトアンドマジック』の影響を受けた3DダンジョンRPG『The Sundered Anvil』Steamストアページ公開",
+      "publishedAt": "2026-10-02T10:45:03.000Z",
+      "addedAt": "2026-10-02T11:00:16.021Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173088.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "06d2b1ffd041",
       "url": "https://apps.apple.com/jp/app/id658511662",
@@ -481,6 +510,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/02/188638.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173087.html"
         }
       ],
       "tags": [
