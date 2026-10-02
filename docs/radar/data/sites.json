@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T07:30:17.846Z",
+  "updatedAt": "2026-10-02T08:00:19.546Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 552,
+  "total": 555,
   "regions": {
-    "jp": 464,
-    "global": 88
+    "jp": 466,
+    "global": 89
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 101
+      "count": 102
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 120
+      "count": 121
     },
     {
       "id": "release",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 121
+      "count": 122
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 86
+      "count": 87
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 68
+      "count": 69
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 165
+      "count": 166
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Inside",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d180a2290260",
+      "url": "https://mushokutensei.jp/",
+      "host": "mushokutensei.jp",
+      "region": "jp",
+      "title": "無職転生",
+      "headline": "アニメ『無職転生』第3期第1クールの全話無料一挙放送がABEMAにて実施決定。エリスの成長やルーデウスを待ち受ける新たな出会いと試練が描かれ、衝撃の展開で幕を閉じた第1クールが初…",
+      "description": "アニメ『無職転生』第3期第1クールの全話無料一挙放送がABEMAにて実施決定。エリスの成長やルーデウスを待ち受ける新たな出会いと試練が描かれ、衝撃の展開で幕を閉じた第1クールが初の一挙放送へ",
+      "publishedAt": "2026-10-02T07:49:52.000Z",
+      "addedAt": "2026-10-02T08:00:19.546Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610022e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "80a5c0728819",
+      "url": "https://www.fromsoftware.jp/manual/metalwolfchaosxd/ps4/index.html",
+      "host": "fromsoftware.jp",
+      "region": "jp",
+      "title": "メタルウルフカオスXD",
+      "headline": "【50％オフ】ハイテンションロボットアクションゲーム『メタルウルフカオスXD』Steamにて50％オフとなるセールが開催中。大統領自ら大統領専用パワードスーツに乗り込みクーデター…",
+      "description": "METAL WOLF CHAOS XD WEBマニュアルです。",
+      "publishedAt": "2026-10-02T07:46:52.000Z",
+      "addedAt": "2026-10-02T08:00:19.546Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610022g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://media.fromsoftware.jp/fromsoftware/manual/metalwolfchaosxd/static/img/common/og_image.jpg"
+    },
     {
       "id": "4534868bf61f",
       "url": "https://nte.perfectworld.com/jp/index.html",
@@ -15574,6 +15631,39 @@
       "platforms": [],
       "points": null,
       "image": "https://www.inazuma.jp/victory-road/assets/img/shared/ogp.jpg"
+    },
+    {
+      "id": "67d05942e7a4",
+      "url": "https://redflagsim.com/",
+      "host": "redflagsim.com",
+      "region": "global",
+      "title": "Red Flag Sim",
+      "headline": "畅 刘 / レーシング・エンターテインメント · App Store 新着",
+      "description": "Official Website",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "addedAt": "2026-10-02T08:00:19.546Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6740720825"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "c954aba865f9",
