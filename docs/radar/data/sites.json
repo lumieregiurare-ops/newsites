@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T09:00:18.043Z",
+  "updatedAt": "2026-10-02T09:30:22.100Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 557,
+  "total": 558,
   "regions": {
-    "jp": 468,
+    "jp": 469,
     "global": 89
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 87
+      "count": 88
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d9c672e98aa8",
+      "url": "https://www.sugakico.co.jp/",
+      "host": "sugakico.co.jp",
+      "region": "jp",
+      "title": "ドムドムハンバーガー",
+      "headline": "スガキヤ、「ドムドムハンバーガー」運営会社を買収。約20年ぶりとなる“関東再進出”も決定し、1000店舗チェーンを目指す新体制へ",
+      "description": "スガキコシステムズは、スガキヤ・スーちゃんハウス・たこ寿・らー麺金ことぶき。・寿がきや・博多うどん木村屋・鍋焼うどん一得庵など、愛知を中心に展開するフードブランドを運営しています。",
+      "publishedAt": "2026-10-02T09:27:02.000Z",
+      "addedAt": "2026-10-02T09:30:22.100Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261002y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "89a7d36c51bf",
       "url": "https://rog.asus.com/jp/",

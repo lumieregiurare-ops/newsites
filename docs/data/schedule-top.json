@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:00:31.053Z",
+  "updatedAt": "2026-10-02T09:30:44.401Z",
   "platforms": [
     {
       "id": "switch",
@@ -270,6 +270,51 @@
   ],
   "prereg": [
     {
+      "id": "779467bbfcc4",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/11/ab/0511ab83-66ab-4a32-3b69-8c8c0e8c07df/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-02T09:30:44.401Z",
+      "releaseText": "2026年10月14日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "Kibi Play / シミュレーション・ロールプレイング",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/821770",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6762710814",
+        "preorder": true,
+        "releaseDate": "2026-10-14T07:00:00Z"
+      },
+      "trackId": "6762710814"
+    },
+    {
+      "id": "1f0141077c40",
+      "title": "ドラゴンレイド：アナザーワールド",
+      "url": "https://game8.jp/preregistration/821796",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-02T09:30:44.401Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/821796",
+      "verified": false,
+      "officialKnown": false,
+      "trackId": ""
+    },
+    {
       "id": "9248f54ffd4e",
       "title": "キン肉マン マッスルタッグマッチ",
       "url": "https://kin29man-mtm.bn-ent.net/",
@@ -404,62 +449,33 @@
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/25/172749.html",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "52490de2ca50",
-      "title": "ONE PIECE 海のごちそうレストラン",
-      "url": "https://op-restaurant.bn-ent.net/",
-      "image": "https://op-restaurant.bn-ent.net/ogp.png",
-      "platforms": [
-        "switch2",
-        "pc",
-        "mobile"
-      ],
-      "startedAt": "2026-09-24T04:30:00.000Z",
-      "releaseText": "2026年10月24日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『ONE PIECE 海のごちそうレストラン』モバイル版の事前登録開始！ Switch2/Switch/STEAM版も予約受付中",
-      "description": "「ONE PIECE」家庭用ゲーム最新作！あの大人気アニメ「ONE PIECE」が、株式会社カイロソフトとのコラボレーションによりドット絵の経営シミュレーションゲームとして登場！ 『ONE PIECE』の世界で海上レストランを経営！バラテ…",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/24/game/3113478.php",
-      "appleId": "6771652722",
-      "trackId": "6771652722",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6771652722",
-        "preorder": true,
-        "releaseDate": "2026-10-24T07:00:00Z"
-      }
-    },
-    {
-      "id": "746f82ff8dbb",
-      "title": "Sanrio Kawaii Me Live!",
-      "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
-      "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-21T03:00:00.000Z",
-      "releaseText": "2027年1月14日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "Sanrio Games初のスマホ向けダンス＆リズムゲーム「Sanrio Kawaii Me Live!」，2027年1月にリリース。本日より事前登録の受付を開始",
-      "description": "\"超KAWAII\"新作リズム＆ダンスゲーム『サンリオカワイイミライブ！（カワミラ）』リリース記念ライブ特設サイト。2027年1月14日(木)に横浜関内ホールにて開催！チケット情報や、会場へのアクセス方法などをまとめてご紹介。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/044/G104418/20260918051/",
-      "appleId": "",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6749342133",
-        "preorder": true,
-        "releaseDate": "2027-01-14T08:00:00Z"
-      },
-      "announcedText": "2027年1月にリリース",
-      "trackId": "6749342133"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-02T09:30:44.401Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ドラゴンレイド：アナザーワールド",
+      "url": "https://game8.jp/preregistration/821796",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-02T09:30:44.401Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/11/ab/0511ab83-66ab-4a32-3b69-8c8c0e8c07df/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年10月14日"
+    },
     {
       "at": "2026-10-01T08:30:43.344Z",
       "type": "new",
@@ -507,32 +523,6 @@
         "mobile"
       ],
       "to": "2026年10月20日"
-    },
-    {
-      "at": "2026-10-01T05:30:27.983Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://monsterhunteroutlanders.com/ja/index.html",
-      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年12月15日",
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-01T04:30:45.883Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://monsterhunteroutlanders.com/ja/index.html",
-      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年10月29日",
-      "to": "2026年12月15日"
     }
   ]
 }
