@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T13:00:20.532Z",
+  "updatedAt": "2026-10-02T13:30:19.532Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 565,
+  "total": 566,
   "regions": {
-    "jp": 475,
+    "jp": 476,
     "global": 90
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 123
+      "count": 124
     },
     {
       "id": "release",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0b8e7caae39d",
+      "url": "https://gundam-official.com/feature/gundam-con/",
+      "host": "gundam-official.com",
+      "region": "jp",
+      "title": "GUNDAM ROGUE ORBIT",
+      "headline": "「GUNDAM-Con2027 SIDE MAKUHARI」で、新作アクションゲーム『GUNDAM ROGUE ORBIT』最新情報が公開へ―アニメ「機動戦士ガンダムRG XAR…",
+      "description": "“ファンの皆さまと共に創る”をコンセプトに、ガンダムシリーズを手掛けるクリエイターの参加や、作品をより深く楽しめる展示などの体験コーナー、プラモデル・カード・ゲームなどの分野で個別で実施していた世界大会も開催予定。ガンダムファン必見のイベ…",
+      "publishedAt": "2026-10-02T13:10:03.000Z",
+      "addedAt": "2026-10-02T13:30:19.532Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/02/188687.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gundam-official.com/feature/gundam-con/images/common/ogp.jpg?v3"
+    },
     {
       "id": "a5d38151310a",
       "url": "https://www.sonicpowered.co.jp/bokukan/nsw/rjaa/",
