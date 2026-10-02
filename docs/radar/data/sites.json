@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T09:30:22.100Z",
+  "updatedAt": "2026-10-02T10:00:18.612Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 558,
+  "total": 559,
   "regions": {
-    "jp": 469,
+    "jp": 470,
     "global": 89
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 102
+      "count": 103
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 167
+      "count": 168
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "Inside",
     "AppBank",
     "App Store",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "20e40d29db9f",
+      "url": "https://www.nestopi.co.jp/chillwithyou/",
+      "host": "nestopi.co.jp",
+      "region": "jp",
+      "title": "まじかる☆プリンセス",
+      "headline": "娘育成SLGと作業通話ADV、ジャンル違いなのになぜここまで“本気コラボ”を？『まじかる☆プリンセス』×『Chill with You』開発陣に実現の舞台裏を訊いた",
+      "description": "『Chill with You Lo-Fi Story』は小説を書くのが好きな妄想豊かな少女（サトネ）と一緒にデスクワークする作業用ADVです。 Lofi音楽や環境音、風景をカスタマイズして作業に集中しよう！作業をするほどに信頼関係が深ま…",
+      "publishedAt": "2026-10-02T09:35:03.000Z",
+      "addedAt": "2026-10-02T10:00:18.612Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173082.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.nestopi.co.jp/chillwithyou/assets/img/ogp.png"
+    },
     {
       "id": "d9c672e98aa8",
       "url": "https://www.sugakico.co.jp/",
@@ -16220,6 +16252,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/476/G047609/20260908046/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/interview/2610023p"
         }
       ],
       "tags": [
