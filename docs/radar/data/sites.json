@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T05:00:20.132Z",
+  "updatedAt": "2026-10-02T05:30:14.952Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 550,
+  "total": 551,
   "regions": {
-    "jp": 462,
+    "jp": 463,
     "global": 88
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 118
+      "count": 119
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 176
+      "count": 177
     },
     {
       "id": "indie",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "arcade",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Inside",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "717d4a1a52a5",
+      "url": "https://puyo-puyo-trainer.jp/",
+      "host": "puyo-puyo-trainer.jp",
+      "region": "jp",
+      "title": "ぷよぷよトレーナー",
+      "headline": "介護福祉施設向けの“脳トレeスポーツ”『ぷよぷよトレーナー』正式サービス開始。「1人で遊ぶ」「2人で対戦」「ぷよぷよドリル」の3つのモードが搭載",
+      "description": "介護レクリエーションに、脳トレ × eスポーツを。「ぷよぷよトレーナー」は、介護・福祉施設向けに設計されたブラウザ型ゲームです。専用機器不要、利用者登録100名まで月額3,300円。",
+      "publishedAt": "2026-10-02T05:07:33.000Z",
+      "addedAt": "2026-10-02T05:30:14.952Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261002p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://puyo-puyo-trainer.jp/wp-content/themes/puyotrai/assets/og-image.jpg"
+    },
     {
       "id": "d010352a4494",
       "url": "https://www.nijisanji.jp/",
