@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T08:30:17.935Z",
+  "updatedAt": "2026-10-02T09:00:18.043Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 556,
+  "total": 557,
   "regions": {
-    "jp": 467,
+    "jp": 468,
     "global": 89
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 59
+      "count": 60
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 177
+      "count": 178
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 69
+      "count": 70
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Inside",
     "AppBank",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "89a7d36c51bf",
+      "url": "https://rog.asus.com/jp/",
+      "host": "rog.asus.com",
+      "region": "jp",
+      "title": "ASUS ROG 20周年記念モデルのグラフィックスカ",
+      "headline": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売",
+      "description": "ASUSのゲーミングブランド ROG公式サイト｜ノートPC、ゲーミングノートPC、ハンドヘルド、マザーボード、ビデオカード、液晶ディスプレイ、デスクトップ、周辺機器など、初心者向けやコスパの高い製品から、ハイエンド製品まで、ゲーマーやゲー…",
+      "publishedAt": "2026-10-02T08:34:12.000Z",
+      "addedAt": "2026-10-02T09:00:18.043Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G004755/20261002030/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://dlcdnwebimgs.asus.com/gain/DAFF4753-52A2-43AF-B2D6-648078E54020"
+    },
     {
       "id": "aaf41cd4d679",
       "url": "https://planet.hoyoverse.com/ja-jp/terms/user",
@@ -13797,6 +13828,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/991/G999106/20260914045/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173078.html"
         }
       ],
       "tags": [
