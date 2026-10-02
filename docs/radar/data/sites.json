@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T08:00:19.546Z",
+  "updatedAt": "2026-10-02T08:30:17.935Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 555,
+  "total": 556,
   "regions": {
-    "jp": 466,
+    "jp": 467,
     "global": 89
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 70
+      "count": 71
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 166
+      "count": 167
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "aaf41cd4d679",
+      "url": "https://planet.hoyoverse.com/ja-jp/terms/user",
+      "host": "planet.hoyoverse.com",
+      "region": "jp",
+      "title": "プチプラネット",
+      "headline": "HoYoverse新作スローライフ『プチプラネット』は1年でどう進化した？日本語ボイスやAI NPC強化でより賑やかに【ファイナルβレポ】",
+      "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
+      "publishedAt": "2026-10-02T08:30:03.000Z",
+      "addedAt": "2026-10-02T08:30:17.935Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/02/173076.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d180a2290260",
       "url": "https://mushokutensei.jp/",
