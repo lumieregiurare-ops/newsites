@@ -21,11 +21,28 @@ const banner = `/* GameLab Radar */`;
 async function walk(dir) {
   const out = [];
   for (const e of await readdir(dir, { withFileTypes: true })) {
+    // _partials/ などの「_」始まりは HTML に埋め込む部品なので、そのままは出力しない
+    if (e.name.startsWith("_")) continue;
     const p = join(dir, e.name);
     if (e.isDirectory()) out.push(...(await walk(p)));
     else out.push(p);
   }
   return out;
+}
+
+// 共通のヘッダー・フッターは site/_partials/ に置き、<!--#include header --> の位置に差し込む。
+// 部品の中の {{base}} は、そのページの <body data-base="../"> の値（トップは空）に置き換える。
+const PARTIALS = join(SRC, "_partials");
+const partialCache = new Map();
+async function expandIncludes(html) {
+  const base = (html.match(/<body[^>]*\sdata-base="([^"]*)"/) || [])[1] || "";
+  const names = [...html.matchAll(/<!--#include (\w+) -->/g)].map((m) => m[1]);
+  for (const name of names) {
+    if (!partialCache.has(name)) partialCache.set(name, await readFile(join(PARTIALS, `${name}.html`), "utf8"));
+  }
+  return html.replace(/<!--#include (\w+) -->/g, (_, name) =>
+    partialCache.get(name).replaceAll("{{base}}", base).replaceAll("{{home}}", base || "./")
+  );
 }
 
 function minifyHtml(html) {
@@ -72,7 +89,7 @@ for (const file of await walk(SRC)) {
     const r = await transform(src, { loader: "css", minify: true, legalComments: "none" });
     out = `${banner}\n${r.code}`;
   } else if (ext === ".html") {
-    out = minifyHtml(src);
+    out = minifyHtml(await expandIncludes(src));
   }
   await writeFile(dest, out, "utf8");
   count++;

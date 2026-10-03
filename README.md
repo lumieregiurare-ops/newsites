@@ -2,8 +2,8 @@
 
 新しく公開されたゲーム関連の Web サイトを毎日自動で集めるサイト「GameLab Radar」のソースです。`docs/` がサイトルートで、そのままロリポップ（FTP）や GitHub Pages に置いて公開できます。
 
-- `docs/index.html` — トップページ（新着ゲームサイト 8 件 / 新着スマホゲーム / リリーススケジュール / 事前登録 / AI でつくったゲーム / About / SNS リンク）
-- `docs/radar/` — 新着ゲームサイトの全件一覧。公式サイト・ティザー・特設キャンペーン・周年・イベント・インディーゲームなどを種類別に表示
+- `docs/index.html` — トップページ（注目ニュース / 最新ニュース / 機種別の新着 / 事前登録、サイドバーに発売スケジュール・ランキング・発売日の動き・ジャンル）
+- `docs/radar/` — ニュース一覧。機種・ジャンル・期間・地域・掲載元・キーワードで絞り込み
 - `docs/schedule/` — **リリーススケジュール**: 向こう 120 日の新作発売予定と、発売日の決定・延期などの更新履歴
 - `docs/prereg/` — **事前登録受付中**: 事前登録・予約注文中のスマホゲーム。配信日決定 / 未定 / App Store で予約可 で絞り込み（データはどちらも `docs/data/schedule.json`）
 
@@ -81,7 +81,9 @@ App Store の検索 API はレート制限が厳しいため、1 回の収集で
 
 ## ソースとビルド
 
-編集するのは `site/`（HTML / CSS / JS / 画像のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。画像（jpg / png）は sharp で横幅 800px 上限に縮小・再圧縮します（`site/assets/noimage.jpg` は 1.5MB → 13KB）。元の画像は `site/` にそのまま残るので、差し替えるときは `site/assets/` のファイルを置き換えてください。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`site.json`）で管理します。
+編集するのは `site/`（HTML / CSS / JS / 画像のソース）です。`npm run build` で JS・CSS を esbuild で圧縮し、HTML のコメントと空白を落として `docs/` に出力します。画像（jpg / png）を置いた場合は sharp で横幅 800px 上限に縮小・再圧縮します。
+
+全ページ共通のヘッダー・フッター・`<head>` の中身は `site/_partials/`（`head.html` / `header.html` / `footer.html`）にあり、各ページの `<!--#include header -->` の位置にビルド時に差し込まれます。部品の中の `{{base}}` はページの `<body data-base="../">` の値（トップは空）、`{{home}}` はトップページへのパスに置き換わります。`_` で始まるファイル・フォルダは `docs/` に出力されません。**`docs/` 内の HTML / JS / CSS は直接編集しないでください**（次のビルドで上書きされます）。`docs/data/` と `docs/radar/data/` の JSON はビルドの対象外で、収集スクリプトと手編集（`site.json`）で管理します。
 
 ```bash
 npm install      # 初回のみ（esbuild を入れる）
@@ -104,23 +106,30 @@ GitHub Actions では収集・デプロイのどちらのワークフローで�
 
 `meta.concurrency`（OGP の同時取得数）と `meta.timeoutMs` は `config.json` で調整できます。応答の遅いサイトを長く待つより、短めに切って次回の収集で取り直すほうが全体は速く終わります。
 
-## トップページの編集
+## ページ構成と編集
 
 | ファイル | 内容 |
 | --- | --- |
-| `docs/data/site.json` | サイト名と X のリンク先（ヘッダーとフッターに出ます） |
-| `site/index.html` | ヒーローの文言・About の本文（編集後に `npm run build`） |
-| `site/assets/top.css` | 配色は `:root` の変数（`--cyan` / `--violet` / `--pink`）で変更 |
+| `docs/data/site.json` | X のリンク先（ヘッダーとフッターの「公式X」） |
+| `site/_partials/` | 全ページ共通のヘッダー（日付・検索・メニュー）とフッター |
+| `site/assets/site.css` | 全ページ共通のスタイル。配色は `:root` の変数（`--accent` など）で変更 |
+| `site/assets/common.js` | 全ページ共通の処理（日付の表示、ニュース行・サイドバーの描画、機種・ジャンルの表示名） |
+| `site/index.html` + `assets/top.js` | トップ（注目ニュース・最新ニュース・機種別の新着・事前登録、サイドバー） |
+| `site/radar/` | ニュース一覧（機種・ジャンル・期間・地域・掲載元・キーワードで絞り込み、お気に入り） |
+| `site/schedule/` | 発売スケジュールと、発売日・事前登録の変更履歴 |
+| `site/prereg/` | 事前登録受付中のタイトル |
 
-### 新着ゲームサイトの並び（`site/assets/top.js`）
+ニュースの見出しは各メディアの記事タイトル（`sites.json` の `headline`）を出し、クリックで元記事を開きます。公式サイトは各行の補助リンクとして表示します。App Store の新着アプリはトップの「最新ニュース」には混ぜず、機種別のスマホタブとニュース一覧にだけ出します。
 
-トップの 8 枚は「**新着 5 件 + 直近 7 日からランダム 3 件**」です（`RADAR_NEWEST` / `ROTATE_DAYS`）。全件を新着順で切ると、次の収集が走るまで顔ぶれが変わらず、少し前に載ったサイトが誰の目にも触れないまま流れていくためです。先頭 5 件は新着順のままなので、最新のものを見に来た人の邪魔はしません。
+ニュース一覧の絞り込みは URL のクエリ（`?platform=switch&category=prereg&q=ポケモン` など）に持たせているので、そのまま共有・ブックマークできます。ヘッダーの検索欄は `radar/?q=…` に送ります。
 
-### NEW バッジと「新着 n 件」
+### 注目ニュース（`site/assets/top.js`）
 
-前回この端末で見た時刻を `localStorage`（キー `gamelab:visit`）に持ち、それ以降に載ったサイトへ NEW バッジを、Radar セクションの先頭に「新着 n 件」のバーを出します。**サーバーには何も送りません**し、保存できないブラウザ（プライベートモードなど）では単に何も出ません。
+トップ先頭の大きな枠（1 件 + 4 件）は、直近 72 時間・画像ありの記事から「複数のメディアが報じたもの」「ティザー・発売・事前登録などのジャンル」「新しいもの」を点数化して選びます（`choosePickup`）。
 
-基準の時刻は**30 分以上あいたときだけ繰り上げます**（`VISIT_GAP_MS`）。ページを開くたびに基準を「今」にすると、少し前に戻ってきただけで NEW が全部消えてしまうためです。
+### NEW マーク
+
+前回この端末で見た時刻を `localStorage`（キー `gamelab:visit`）に持ち、それ以降に載った記事に NEW マークを出します。**サーバーには何も送りません**し、保存できないブラウザ（プライベートモードなど）では単に何も出ません。基準の時刻は**30 分以上あいたときだけ繰り上げます**（`VISIT_GAP_MS`）。ページを開くたびに基準を「今」にすると、少し前に戻ってきただけで NEW が全部消えてしまうためです。
 
 ## サイト名について
 
@@ -240,8 +249,9 @@ newsites/
     lib/categorize.mjs   カテゴリ判定
     lib/xml.mjs          RSS/Atom パーサ（依存なし）
   docs/                  公開ディレクトリ（サイトルート）
-    index.html           トップページ、assets/top.css・top.js、data/site.json
-    radar/               Radar（index.html / app.js / style.css / data/sites.json）
+    index.html           トップページ（assets/site.css・common.js・top.js、data/site.json）
+    radar/               ニュース一覧（index.html / app.js / data/sites.json）
+    schedule/ prereg/    発売スケジュール・事前登録
   data/                  state.json（内部状態、コミット対象） / last-run.json / source-cache.json（非公開）
   .github/workflows/     日次収集の GitHub Actions
 ```
