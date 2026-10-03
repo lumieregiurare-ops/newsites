@@ -214,19 +214,6 @@ dd {
   height: 16px;
 }
 
-.social-note .note-mark {
-  display: inline-grid;
-  place-items: center;
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  background: #41c9b4;
-  color: var(--on-grad);
-  font-size: 11px;
-  font-weight: 900;
-  font-family: var(--font-display);
-}
-
 /* ---------- buttons ---------- */
 .btn {
   display: inline-flex;
@@ -1005,79 +992,6 @@ dd {
   padding: 20px 12px;
 }
 
-/* ---------- note ---------- */
-.notes-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 18px;
-}
-
-.note-card {
-  display: flex;
-  flex-direction: column;
-  border: 1px solid var(--border);
-  border-radius: 14px;
-  background: var(--surface);
-  overflow: hidden;
-  transition: transform .2s, border-color .2s;
-}
-
-.note-card:hover {
-  transform: translateY(-3px);
-  border-color: #cfd6e6;
-}
-
-.note-thumb {
-  aspect-ratio: 1.91 / 1;
-  background: linear-gradient(135deg, #e3f6f2, #e8f4fb);
-  overflow: hidden;
-}
-
-.note-thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.note-thumb.no-image img {
-  display: none;
-}
-
-.note-body {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  padding: 14px 16px 16px;
-  flex: 1;
-}
-
-.note-title {
-  font-size: 15px;
-  font-weight: 700;
-  line-height: 1.45;
-}
-
-.note-card:hover .note-title {
-  color: var(--cyan);
-}
-
-.note-summary {
-  color: var(--text-muted);
-  font-size: 13px;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.note-date {
-  margin-top: auto;
-  font-size: 11.5px;
-  color: var(--text-muted);
-  font-variant-numeric: tabular-nums;
-}
-
 /* ---------- about ---------- */
 .about {
   display: grid;
@@ -1235,8 +1149,7 @@ dd {
 .radar-thumb.no-image,
 .prereg-thumb.no-image,
 .game-cover.no-image,
-.sched-thumb.no-image,
-.note-thumb.no-image {
+.sched-thumb.no-image {
   background-image: url("/assets/noimage.jpg");
   background-size: cover;
   background-position: center;
@@ -1715,7 +1628,6 @@ body {
 .radar-thumb.no-image,
 .prereg-thumb.no-image,
 .sched-thumb.no-image,
-.note-thumb.no-image,
 .rank-thumb.no-image {
   background-image: none !important;
   background-color: var(--panel-2) !important;
@@ -1929,13 +1841,6 @@ body {
 .eyebrow .dot {
   box-shadow: none;
   animation: none;
-}
-
-/* スマホでは SNS ボタンの文字を隠すが、note のマークまで消えないようにする */
-@media (max-width: 640px) {
-  .header-social .social .note-mark {
-    display: inline-grid;
-  }
 }
 
 /* フッターのお問い合わせリンク */

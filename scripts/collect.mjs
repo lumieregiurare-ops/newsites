@@ -9,7 +9,6 @@ import { fetchMeta } from "./lib/meta.mjs";
 import { buildSchedule, fetchScheduleFeeds } from "./lib/schedule.mjs";
 import { toSiteRoot, createSiteFilter, canonicalKey } from "./lib/siteurl.mjs";
 import { fetchPreregTitles } from "./lib/preregLists.mjs";
-import { fetchNoteArticles } from "./lib/note.mjs";
 import { fetchTrends } from "./lib/trends.mjs";
 import { buildRankings } from "./lib/rankings.mjs";
 
@@ -99,14 +98,10 @@ function inFocus(it) {
 }
 
 // ---------- 0. 収集結果に依存しない取得を先に走らせる ----------
-// note の記事・ランキング・事前登録一覧はフィードの収集結果と関係がないので、
+// ランキング・事前登録一覧はフィードの収集結果と関係がないので、
 // 待たせずにここで始めておき、必要になった場所で受け取る（直列に並べると 1 回の収集で 10 秒近く損をする）
 const settle = (p) => Promise.resolve(p).then((value) => ({ ok: true, value }), (error) => ({ ok: false, error }));
-const siteMeta = await readJson(join(ROOT, "docs", "data", "site.json"), {});
 const rankCache = await readJson(join(ROOT, "data", "rankings-state.json"), {});
-const notePromise = settle(
-  siteMeta.note ? phase("note", () => fetchNoteArticles(siteMeta.note, { limit: config.note?.limit ?? 12 })) : null
-);
 const rankingsPromise = settle(
   config.rankings?.enabled === false ? null : phase("rankings", () => buildRankings(config, { cache: rankCache }))
 );
@@ -437,13 +432,6 @@ await writeJson(DATA_FILE, {
 
 // 内部状態（メタ取得の試行回数など）は別ファイルに保持
 await writeJson(join(ROOT, "data", "state.json"), { items });
-
-// ---------- 5.5 note の記事一覧（自分の記事）: 冒頭で始めた取得を受け取る ----------
-{
-  const r = await notePromise;
-  if (!r.ok) log("note failed:", r.error?.message || r.error);
-  else if (r.value) await writeJson(join(ROOT, "docs", "data", "notes.json"), r.value);
-}
 
 // ---------- 5.5 ゲームの人気ランキング（Steam / App Store） ----------
 {
