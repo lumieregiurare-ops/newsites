@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T07:30:27.479Z",
+  "updatedAt": "2026-10-03T08:00:34.706Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,31 @@
   ],
   "prereg": [
     {
+      "id": "cd4c1fafecbe",
+      "title": "三國志 戦棋版",
+      "url": "https://apps.apple.com/jp/app/id6757841977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/9c/55/559c5558-85b0-5a04-3cec-05dcc57fbc2c/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-03T07:30:00.000Z",
+      "releaseText": "2026年12月1日",
+      "releaseSource": "appstore",
+      "count": "事前登録者数達成報酬一覧10万人",
+      "reward": "",
+      "headline": "『三國志 戦棋版』事前登録がスタート！ SRPG×SLGの新作が最新PVを公開",
+      "description": "Qookka Entertainment Limitedの「三國志 戦棋版」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「三國志 戦棋版」に似たゲームを見ることなどができます。",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/03/game/3120845.php",
+      "appleId": "6757841977",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6757841977",
+        "preorder": true,
+        "releaseDate": "2026-12-01T08:00:00Z"
+      },
+      "trackId": "6757841977"
+    },
+    {
       "id": "2b29df343b06",
       "title": "Inter BEE 2026、来場事前登録を開始",
       "url": "https://www.inter-bee.com/",
@@ -428,29 +453,21 @@
       },
       "announcedText": "10月29日正式サービス開始",
       "trackId": "6444520814"
-    },
-    {
-      "id": "ea83d6664c6f",
-      "title": "Thank You Bus Driver",
-      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
-      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-28T03:02:56.000Z",
-      "releaseText": "10月15日リリース",
-      "releaseSource": "news",
-      "count": "事前登録者数2000万人",
-      "reward": "",
-      "headline": "バス運転手として時間と治安を守り運行するゲーム『Thank You Bus Driver』10月15日リリース。飲んだり騒いだりやりたい放題の乗客はビンタでわからせる",
-      "description": "Take on the role of a town’s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, a…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260928l",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-03T08:00:34.706Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "三國志 戦棋版",
+      "url": "https://apps.apple.com/jp/app/id6757841977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/9c/55/559c5558-85b0-5a04-3cec-05dcc57fbc2c/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月1日"
+    },
     {
       "at": "2026-10-02T22:30:29.073Z",
       "type": "prereg_start",
@@ -508,18 +525,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-10-02T09:30:44.401Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/11/ab/0511ab83-66ab-4a32-3b69-8c8c0e8c07df/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年10月14日"
     }
   ]
 }

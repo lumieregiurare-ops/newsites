@@ -1621,6 +1621,24 @@
     "Inter BEE 2026、来場事前登録を開始": {
       "at": "2026-10-02T22:30:29.259Z",
       "entry": null
+    },
+    "三國志 戦棋版": {
+      "at": "2026-10-03T08:00:34.990Z",
+      "entry": {
+        "trackId": "6757841977",
+        "title": "三國志 戦棋版",
+        "artist": "Qookka Entertainment Limited",
+        "genres": [
+          "ストラテジー",
+          "ロールプレイング"
+        ],
+        "releaseDate": "2026-12-01T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6757841977",
+        "sellerUrl": "https://sangokushi-senkiban.qookkagames.jp/6a7dcce53b20ff14fe6c5cb6/index",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/00/39/570039eb-0244-4a2d-bbb6-2426d82681b9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -23715,6 +23733,19 @@
       "sortKey": "2026-10-07",
       "prereg": false,
       "firstSeen": "2026-10-03T07:30:27.479Z"
+    },
+    "devilpeachsoda": {
+      "title": "Devil Peach Soda",
+      "dateText": "2026年10月6日",
+      "date": "2026-10-06",
+      "sortKey": "2026-10-06",
+      "prereg": false,
+      "firstSeen": "2026-10-03T08:00:34.706Z"
+    },
+    "三國志戦棋版": {
+      "title": "三國志 戦棋版",
+      "prereg": true,
+      "firstSeen": "2026-10-03T08:00:34.706Z"
     }
   },
   "changeLog": [
@@ -27577,6 +27608,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-03T08:00:34.706Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "三國志 戦棋版",
+      "url": "https://apps.apple.com/jp/app/id6757841977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/9c/55/559c5558-85b0-5a04-3cec-05dcc57fbc2c/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月1日"
     }
   ],
   "initialized": true,
