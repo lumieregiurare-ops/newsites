@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-03T03:30:17.827Z",
+  "updatedAt": "2026-10-03T04:00:19.045Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 571,
+  "total": 572,
   "regions": {
-    "jp": 479,
+    "jp": 480,
     "global": 92
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 72
+      "count": 73
     },
     {
       "id": "anniversary",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 32
+      "count": 33
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 124
+      "count": 125
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 169
+      "count": 170
     },
     {
       "id": "browser",
@@ -121,17 +121,52 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "GameBusiness.jp",
     "電ファミニコゲーマー",
     "4Gamer",
-    "AppBank",
     "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "adaaed740ac6",
+      "url": "https://apps.apple.com/jp/app/id6775403879",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "マビノギモバイル",
+      "headline": "『マビノギモバイル』事前ダウンロードとキャラクター事前作成が10月5日14時から開始！ 事前登録は30万人突破",
+      "description": "NEXON Co., Ltd.の「マビノギモバイル」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「マビノギモバイル」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-03T04:00:00.000Z",
+      "addedAt": "2026-10-03T04:00:19.045Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/03/game/3120052.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/7f/b9/4c7fb99e-6358-704d-c400-712531e6864d/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "ed1717d0f268",
       "url": "https://hololive.hololivepro.com/events/popup-2610/",
