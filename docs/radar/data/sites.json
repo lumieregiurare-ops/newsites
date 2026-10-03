@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-03T09:30:16.906Z",
+  "updatedAt": "2026-10-03T10:00:14.634Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 576,
+  "total": 577,
   "regions": {
-    "jp": 482,
+    "jp": 483,
     "global": 94
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 74
+      "count": 75
     },
     {
       "id": "anniversary",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1b22973a6405",
+      "url": "https://p4re.jp/?noloading",
+      "host": "p4re.jp",
+      "region": "jp",
+      "title": "ペルソナ4 リバイバル",
+      "headline": "『ペルソナ4 リバイバル』“もう一人の自分”に迫る「シャドウトレーラー」が公開。白鐘直斗（CV.朴璐美）シャドウのボイスが良すぎる",
+      "description": "青春×オカルト×怪事件。その出会いが、日常のすべてを変える。『ペルソナ４ リバイバル』ただいま予約受付中！",
+      "publishedAt": "2026-10-03T09:47:31.000Z",
+      "addedAt": "2026-10-03T10:00:14.634Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261003m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://p4re.jp/ogp_20260731.jpg"
+    },
     {
       "id": "c58a990ce22d",
       "url": "https://apps.apple.com/us/app/id6475003963",
