@@ -30,7 +30,6 @@
   function socialLinks(site) {
     const links = [];
     if (site.x) links.push(`<a class="social social-x" href="${site.x}" target="_blank" rel="noopener noreferrer" aria-label="X">${xIcon()}<span>X</span></a>`);
-    if (site.note) links.push(`<a class="social social-note" href="${site.note}" target="_blank" rel="noopener noreferrer" aria-label="note"><span class="note-mark">n</span><span>note</span></a>`);
     return links.join("");
   }
 
