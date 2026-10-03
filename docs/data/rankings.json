@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T14:30:17.132Z",
+  "updatedAt": "2026-10-03T15:00:17.345Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（10/02 比）",
+      "note": "Steam の同時接続数ランキング（10/03 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -67,9 +67,9 @@
           "url": "https://store.steampowered.com/app/1422450/",
           "metric": "同時接続 228,208人",
           "delta": {
-            "kind": "up",
-            "label": "+7",
-            "value": 7
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -80,9 +80,9 @@
           "url": "https://store.steampowered.com/app/1172470/",
           "metric": "同時接続 205,986人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -93,9 +93,9 @@
           "url": "https://store.steampowered.com/app/2676230/",
           "metric": "同時接続 184,521人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -119,9 +119,9 @@
           "url": "https://store.steampowered.com/app/3419430/",
           "metric": "同時接続 177,134人",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（10/02 比）",
+      "note": "App Store（日本）の無料ゲームランキング（10/03 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -168,9 +168,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
           "metric": "Hungry Studio",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -207,9 +207,9 @@
           "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -220,9 +220,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
           "metric": "Applibot Inc.",
           "delta": {
-            "kind": "down",
-            "label": "-4",
-            "value": -4
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%AA%E3%83%B3%E3%82%B0%E5%9B%9E%E8%BB%A2-rotate-rings/id6793924927",
           "metric": "Nebula Studio",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/food-hunt-pixel-puzzle/id6769314786",
           "metric": "FUNFINITY PTE. LTD",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E5%88%86%E8%A7%A3%E3%83%91%E3%82%BA%E3%83%AB/id6771681142",
           "metric": "SUNNY HK",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
