@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-03T04:30:20.064Z",
+  "updatedAt": "2026-10-03T05:00:20.071Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 572,
+  "total": 574,
   "regions": {
-    "jp": 480,
-    "global": 92
+    "jp": 481,
+    "global": 93
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 105
+      "count": 106
     },
     {
       "id": "event",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 91
+      "count": 92
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 73
+      "count": 74
     },
     {
       "id": "mobile",
@@ -121,17 +121,73 @@
     }
   ],
   "sources": [
+    "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "GameBusiness.jp",
-    "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "05fce3fa83eb",
+      "url": "https://ryuhastudio.com/",
+      "host": "ryuhastudio.com",
+      "region": "global",
+      "title": "フリッキー",
+      "headline": "お母さんドラゴンが愛の力で大活躍。「フリッキー」や「ファンタジーゾーン」にインスパイアされたゲームボーイカラー向けの新作「Drakoko」のクラウドファンディング実施中",
+      "description": "お母さんドラゴンが愛の力で大活躍。「フリッキー」や「ファンタジーゾーン」にインスパイアされたゲームボーイカラー向けの新作「Drakoko」のクラウドファンディング実施中",
+      "publishedAt": "2026-10-03T04:51:46.000Z",
+      "addedAt": "2026-10-03T05:00:20.071Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999903/20261003006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0c701bf7987b",
+      "url": "https://www.kojimaproductions.jp/index.php/ja",
+      "host": "kojimaproductions.jp",
+      "region": "jp",
+      "title": "デス・ストランディング",
+      "headline": "『デス・ストランディング』SteamのDC版が「75%オフ」セール中。死んでも蘇る伝説の配達人が“赤ちゃん”とともに北米大陸を繋ぐ。名優マッツ・ミケルセンやノーマン・リーダスが主…",
+      "description": "『デス・ストランディング』SteamのDC版が「75%オフ」セール中。死んでも蘇る伝説の配達人が“赤ちゃん”とともに北米大陸を繋ぐ。名優マッツ・ミケルセンやノーマン・リーダスが主演のオープンワールド移動ゲーム",
+      "publishedAt": "2026-10-03T04:33:36.000Z",
+      "addedAt": "2026-10-03T05:00:20.071Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261003i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "adaaed740ac6",
       "url": "https://apps.apple.com/jp/app/id6775403879",
@@ -295,6 +351,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/02/188687.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/03/173114.html"
         }
       ],
       "tags": [
