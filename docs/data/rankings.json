@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T13:00:18.868Z",
+  "updatedAt": "2026-10-04T13:30:17.073Z",
   "boards": [
     {
       "id": "steam",
@@ -189,27 +189,27 @@
         },
         {
           "rank": 4,
-          "title": "トップロード",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
-          "metric": "GAME SPARK PTE. LTD.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
           "title": "Bus Fever Party!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/38/0d/c0380d6a-4cf2-72cc-339f-2389554a8823/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "トップロード",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
+          "metric": "GAME SPARK PTE. LTD.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
