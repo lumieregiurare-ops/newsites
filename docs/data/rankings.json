@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:00:17.768Z",
+  "updatedAt": "2026-10-04T16:30:19.481Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "Colony Flow!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/95/4e/15954e75-96b2-f65b-3734-d841bf94649b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
-          "metric": "ABI GLOBAL LTD.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "Bus Fever Party!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/38/0d/c0380d6a-4cf2-72cc-339f-2389554a8823/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "Colony Flow!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/95/4e/15954e75-96b2-f65b-3734-d841bf94649b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
+          "metric": "ABI GLOBAL LTD.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
@@ -254,27 +254,27 @@
         },
         {
           "rank": 9,
-          "title": "波乱水世界",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/38/19/313819f2-862f-780f-363e-1e0d539647a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
-          "metric": "Hong Kong Just Game Technology Limited",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "ちいかわぽけっと",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/0e/3abf0e35-0100-ccf5-a179-ece165474567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
           "metric": "Applibot Inc.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "波乱水世界",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/38/19/313819f2-862f-780f-363e-1e0d539647a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E6%B3%A2%E4%B9%B1%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
+          "metric": "Hong Kong Just Game Technology Limited",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         }
