@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-04T13:30:15.528Z",
+  "updatedAt": "2026-10-04T14:00:20.077Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 580,
+  "total": 581,
   "regions": {
-    "jp": 486,
+    "jp": 487,
     "global": 94
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 107
+      "count": 108
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 126
+      "count": 127
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 174
+      "count": 175
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "電ファミニコゲーマー",
-    "AppBank",
     "4Gamer",
     "GameBusiness.jp",
     "Game*Spark",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "64b746b9cc13",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.cave.mahouotome",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ごまおつ",
+      "headline": "『ごまおつ』BLUE LEAF CAFÉとコラボ！ 第4回リアルスコア大会チケット2次抽選は10月5日から",
+      "description": "初心者マスター限定ログインボーナス実施中！ 聖霊石最大1200個をGET！さらに高レア美少女使い魔も「合計6体」もらえる！",
+      "publishedAt": "2026-10-04T14:00:00.000Z",
+      "addedAt": "2026-10-04T14:00:20.077Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/04/game/3121389.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/zZ-mkcUeVe5DXpYfVIEsHOJKtVpaFCa5ue5Sbqr6bIvpFJKjJCfatdnrq_uWXzUvvIqYdPwcZmOqXaRwHFLY=s0-br30"
+    },
     {
       "id": "a00be7a9d0d4",
       "url": "https://space.bilibili.com/3707030810396819?spm_id_from=333.788.upinfo.head.click",
