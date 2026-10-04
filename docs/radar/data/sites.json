@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-04T07:00:21.144Z",
+  "updatedAt": "2026-10-04T07:30:16.211Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 578,
+  "total": 579,
   "regions": {
-    "jp": 484,
+    "jp": 485,
     "global": 94
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 127
+      "count": 128
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 172
+      "count": 173
     },
     {
       "id": "browser",
@@ -899,6 +899,39 @@
       ],
       "points": null,
       "image": "https://media.fromsoftware.jp/fromsoftware/manual/metalwolfchaosxd/static/img/common/og_image.jpg"
+    },
+    {
+      "id": "02d9eb216845",
+      "url": "https://maratan.appful.tokyo/",
+      "host": "maratan.appful.tokyo",
+      "region": "jp",
+      "title": "麻辣湯ものがたり（マーラータン）",
+      "headline": "Ryusei Okamoto / シミュレーション・エンターテインメント · App Store 新着",
+      "description": "小さな麻辣湯（マーラータン）屋さんの店長になって、街いちばんの人気店を目指そう。画面をなぞって店長を動かし、具材の補充やレジ、片付けをこなして、テーブルや厨房、新しいエリアをどんどん開放していく iPhone ゲームです。",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "addedAt": "2026-10-04T07:30:16.211Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6816625266"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://maratan.appful.tokyo/maratan/app-icon.png"
     },
     {
       "id": "4534868bf61f",
