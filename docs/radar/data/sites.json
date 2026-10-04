@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-04T05:30:19.413Z",
+  "updatedAt": "2026-10-04T06:00:17.549Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 577,
+  "total": 578,
   "regions": {
-    "jp": 483,
+    "jp": 484,
     "global": 94
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 93
+      "count": 94
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "Inside",
     "GameBusiness.jp",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a00be7a9d0d4",
+      "url": "https://space.bilibili.com/3707030810396819?spm_id_from=333.788.upinfo.head.click",
+      "host": "space.bilibili.com",
+      "region": "jp",
+      "title": "未眠野",
+      "headline": "物理と科学で織りなすオープンワールド『未眠野』が実機プレイ映像を公開中。中国発の美少女バスケゲーの配信日も決定！―日本未上陸の注目ゲーム3選【2026年10月4日】",
+      "description": "哔哩哔哩未眠野的个人空间，提供未眠野分享的视频、音频、文章、动态、收藏等内容，关注未眠野账号，第一时间了解UP主动态。万物都在回应，世界没有答案",
+      "publishedAt": "2026-10-04T06:00:03.000Z",
+      "addedAt": "2026-10-04T06:00:17.549Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/04/188725.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.bilibili.com/favicon.ico"
+    },
     {
       "id": "b4090537c7d3",
       "url": "https://gbc-firstriff.com/",
