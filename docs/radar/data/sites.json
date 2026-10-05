@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T07:00:16.840Z",
+  "updatedAt": "2026-10-05T07:30:16.982Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 591,
+  "total": 592,
   "regions": {
-    "jp": 493,
+    "jp": 494,
     "global": 98
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 110
+      "count": 111
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 130
+      "count": 131
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "afaf4058dd73",
+      "url": "https://www.redbull.com/jp-ja/energydrink",
+      "host": "redbull.com",
+      "region": "jp",
+      "title": "hololive OFFICIAL CARD GAME",
+      "headline": "獅白ぼたん＆ラプラス・ダークネスのPRカードが貰える！ レッドブル×『hololive OFFICIAL CARD GAME』コラボキャンペーンが10月6日開催",
+      "description": "獅白ぼたん＆ラプラス・ダークネスのPRカードが貰える！ レッドブル×『hololive OFFICIAL CARD GAME』コラボキャンペーンが10月6日開催",
+      "publishedAt": "2026-10-05T07:30:03.000Z",
+      "addedAt": "2026-10-05T07:30:16.982Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/05/188780.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "07377ce73684",
       "url": "https://www.runefest.com/",
