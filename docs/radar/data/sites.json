@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-05T02:30:16.654Z",
+  "updatedAt": "2026-10-05T03:00:16.918Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 586,
+  "total": 587,
   "regions": {
     "jp": 490,
-    "global": 96
+    "global": 97
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 61
+      "count": 62
     },
     {
       "id": "campaign",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 35
+      "count": 36
     },
     {
       "id": "media",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "dfd0fcd78b33",
+      "url": "https://enhance-experience.com/games/rez-infinite",
+      "host": "enhance-experience.com",
+      "region": "global",
+      "title": "Rez",
+      "headline": "「エイフェックス・ツイン」「アンダーワールド」が参加していたかもしれない──音楽とゲームが融合した名作『Rez』の25周年座談会。水口哲也氏ら4人が明かす、幻の参加アーティストと…",
+      "description": "Get the latest news from award-winning content creator and publisher Enhance.",
+      "publishedAt": "2026-10-05T03:00:02.000Z",
+      "addedAt": "2026-10-05T03:00:16.918Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261005d"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://enhance-experience.com/assets/images/ogp.png"
+    },
     {
       "id": "74a6a934d40c",
       "url": "https://play.runescape.com/de/4",
