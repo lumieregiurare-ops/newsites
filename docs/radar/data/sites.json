@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-05T04:30:17.609Z",
+  "updatedAt": "2026-10-05T05:00:15.458Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 590,
+  "total": 591,
   "regions": {
     "jp": 493,
-    "global": 97
+    "global": 98
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 25
+      "count": 26
     },
     {
       "id": "prereg",
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 63
+      "count": 64
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 184
+      "count": 185
     },
     {
       "id": "indie",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "07377ce73684",
+      "url": "https://www.runefest.com/",
+      "host": "runefest.com",
+      "region": "global",
+      "title": "RuneScape",
+      "headline": "25周年を迎えた「RuneScape」の新章が開幕。Unreal Engine採用の完全新作「RS4」発表で沸いた「RuneFest 2026」まとめ",
+      "description": "RuneFest is a real-life celebration of all things RuneScape! It",
+      "publishedAt": "2026-10-05T04:30:18.000Z",
+      "addedAt": "2026-10-05T05:00:15.458Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104766/20261005020/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "teaser",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://framerusercontent.com/assets/hm10rFAiZDb8nDpDxztoPH58.png"
+    },
     {
       "id": "4144e05100cd",
       "url": "https://hololive.hololivepro.com/",
