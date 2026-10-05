@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T03:00:16.918Z",
+  "updatedAt": "2026-10-05T03:30:15.262Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 587,
+  "total": 588,
   "regions": {
-    "jp": 490,
+    "jp": 491,
     "global": 97
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 62
+      "count": 63
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 128
+      "count": 129
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 36
+      "count": 37
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 129
+      "count": 130
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 176
+      "count": 177
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "AppBank",
     "4Gamer",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ce50b03f877b",
+      "url": "https://apps.apple.com/jp/app/id1469186379",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ステラソラ",
+      "headline": "Yostar、『ステラソラ』『雀魂』が「北九州ポップカルチャーフェスティバル2026」に出展！ 11月28日・29日開催",
+      "description": "Yostar, Inc.の「雀魂 -じゃんたま-」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「雀魂 -じゃんたま-」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-05T03:10:00.000Z",
+      "addedAt": "2026-10-05T03:30:15.262Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/05/game/3122297.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/b8/c4/dfb8c41c-10c1-ddb2-1dd5-54b1bed9ffb4/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "dfd0fcd78b33",
       "url": "https://enhance-experience.com/games/rez-infinite",
@@ -17110,9 +17144,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "campaign",
         "release"
       ],
