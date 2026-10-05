@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T13:00:16.231Z",
+  "updatedAt": "2026-10-05T13:30:17.106Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 598,
+  "total": 599,
   "regions": {
-    "jp": 499,
+    "jp": 500,
     "global": 99
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 114
+      "count": 115
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 134
+      "count": 135
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 131
+      "count": 132
     },
     {
       "id": "official",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "21e3004fd37d",
+      "url": "https://events.ncsoft.jp/26/10_aion2_hyperx/",
+      "host": "events.ncsoft.jp",
+      "region": "jp",
+      "title": "AION 2",
+      "headline": "超大型MMORPG『AION 2』が本日10月5日より正式サービスを開始！前作『The Tower of AION』の36倍にも及ぶ広大なファンタジー世界を舞台に、飛行による探索…",
+      "description": "「最高の冒険を、最高のゲーミング環境で」AION2×HyperXコラボキャンペーン開催！Wフォロー＆リポストで、抽選でHyperX製品や素敵なグッズが当たる！",
+      "publishedAt": "2026-10-05T13:00:22.000Z",
+      "addedAt": "2026-10-05T13:30:17.106Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610052v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.ncsoft.jp/events/26/10_aion2_hyperx/ogImg.jpg"
+    },
     {
       "id": "07905cc58977",
       "url": "https://fanfest.finalfantasyxiv.com/2026/jp/",
