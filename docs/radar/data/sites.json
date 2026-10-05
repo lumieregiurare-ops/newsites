@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T23:00:16.108Z",
+  "updatedAt": "2026-10-05T23:30:15.776Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 601,
+  "total": 602,
   "regions": {
-    "jp": 503,
+    "jp": 504,
     "global": 98
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 95
+      "count": 96
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "GameBusiness.jp",
     "電ファミニコゲーマー",
+    "GameBusiness.jp",
     "Game*Spark",
     "4Gamer",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "df6cdfdfbd0c",
+      "url": "https://yamato-r2199.jp/",
+      "host": "yamato-r2199.jp",
+      "region": "jp",
+      "title": "宇宙戦艦ヤマト√2199",
+      "headline": "“庵野秀明×出渕裕”による新作劇場アニメ『宇宙戦艦ヤマト√2199』制作決定！アニメ制作はスタジオカラーとProduction I.Gが共同で担当",
+      "description": "「宇宙戦艦ヤマト √2199」公式サイト。",
+      "publishedAt": "2026-10-05T23:00:36.000Z",
+      "addedAt": "2026-10-05T23:30:15.776Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261006e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://yamato-r2199.jp/media/hero-800.webp"
+    },
     {
       "id": "0681d98e18bb",
       "url": "https://tiffcom.jp/",
