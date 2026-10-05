@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-05T11:00:15.881Z",
+  "updatedAt": "2026-10-05T11:30:16.668Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 596,
+  "total": 597,
   "regions": {
     "jp": 498,
-    "global": 98
+    "global": 99
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 186
+      "count": 187
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
-    "4Gamer",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "27ca2d38bbbb",
+      "url": "https://www.4divinity.com/gunsofeschaton",
+      "host": "4divinity.com",
+      "region": "global",
+      "title": "ガンズ・オブ・エスカトン",
+      "headline": "終末的な西部劇の世界が舞台のソウルライクFPS「ガンズ・オブ・エスカトン」，デモ版を配信開始",
+      "description": "First-of-its-kind, soulslike FPS pulls you into legendary Viktor Antonov",
+      "publishedAt": "2026-10-05T11:23:12.000Z",
+      "addedAt": "2026-10-05T11:30:16.668Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/022/G102216/20261005042/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/87ce2e_ed1fb3a8f9364c229fcb9ae723d00e48~mv2.gif/v1/fill/w_400,h_233,al_c/87ce2e_ed1fb3a8f9364c229fcb9ae723d00e48~mv2.gif"
+    },
     {
       "id": "b269f3fd5d04",
       "url": "https://jojoasbr.bn-ent.net/",
