@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T08:30:19.711Z",
+  "updatedAt": "2026-10-05T09:00:53.921Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 592,
+  "total": 593,
   "regions": {
-    "jp": 494,
+    "jp": 495,
     "global": 98
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 131
+      "count": 132
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 177
+      "count": 178
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7f9ed60c38be",
+      "url": "https://sonicrumble.sega.com/ja/",
+      "host": "sonicrumble.sega.com",
+      "region": "jp",
+      "title": "ソニックランブル パーティ",
+      "headline": "「ソニックランブル パーティ」，スポーツフェスイベントを10月23日まで開催",
+      "description": "Ready, set, rumble!",
+      "publishedAt": "2026-10-05T08:48:28.000Z",
+      "addedAt": "2026-10-05T09:00:53.921Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/797/G079769/20261005034/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sonicrumble.sega.com/ogp.jpg"
+    },
     {
       "id": "afaf4058dd73",
       "url": "https://www.redbull.com/jp-ja/energydrink",
