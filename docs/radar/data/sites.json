@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-05T01:30:17.506Z",
+  "updatedAt": "2026-10-05T02:00:16.817Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 585,
+  "total": 586,
   "regions": {
     "jp": 490,
-    "global": 95
+    "global": 96
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 182
+      "count": 183
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "74a6a934d40c",
+      "url": "https://play.runescape.com/de/4",
+      "host": "play.runescape.com",
+      "region": "global",
+      "title": "ルーンスケープ",
+      "headline": "世界的人気を誇る老舗MMORPG『ルーンスケープ』シリーズ第4作『RS4』発表。リリースは「数年後」を予定",
+      "description": "A new age, a new adventure - a new RuneScape MMO built with our players. Be part of the journey.",
+      "publishedAt": "2026-10-05T01:39:42.000Z",
+      "addedAt": "2026-10-05T02:00:16.817Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261005f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://framerusercontent.com/assets/HCwsaASxTp11fkiKGHtraPRCRas.jpg"
+    },
     {
       "id": "9088bace44b2",
       "url": "https://demvamps.com/",
