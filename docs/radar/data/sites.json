@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T10:00:16.012Z",
+  "updatedAt": "2026-10-05T10:30:17.478Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 594,
+  "total": 595,
   "regions": {
-    "jp": 496,
+    "jp": 497,
     "global": 98
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 111
+      "count": 112
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f4bc408e6c4d",
+      "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/chiikawa",
+      "host": "gu-global.com",
+      "region": "jp",
+      "title": "ちいかわ",
+      "headline": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ",
+      "description": "「ちいかわ」×「GU」コラボのテーマは、「さむ～い雪の日も楽しもう！」おでかけ着やルームウェアなど、むちゃかわなラインナップ",
+      "publishedAt": "2026-10-05T10:15:03.000Z",
+      "addedAt": "2026-10-05T10:30:17.478Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/05/188801.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "7a95f65f815e",
       "url": "https://apps.apple.com/jp/app/id6499562253",
@@ -779,6 +806,10 @@
         {
           "name": "AppBank",
           "url": "https://www.appbank.net/2026/10/03/game/3120052.php"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6775403879"
         }
       ],
       "tags": [
@@ -786,7 +817,8 @@
         "スマホ",
         "iOS",
         "事前登録",
-        "Android"
+        "Android",
+        "ロールプレイング"
       ],
       "categories": [
         "prereg",
