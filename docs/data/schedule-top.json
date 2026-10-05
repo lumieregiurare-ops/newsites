@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T21:30:33.095Z",
+  "updatedAt": "2026-10-05T22:00:29.671Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,26 @@
   ],
   "prereg": [
     {
+      "id": "0681d98e18bb",
+      "title": "カントリー・オブ・オナー",
+      "url": "https://tiffcom.jp/",
+      "image": "https://tiffcom.jp/wp-content/uploads/2026/05/OGP_0512.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-05T21:30:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "10月28日開幕のTIFFCOM 2026、日本IPの海外展開やカンヌ「カントリー・オブ・オナー」の成果を振り返るカンファレンスを発表",
+      "description": "TIFFCOM 2026は、10/28(水)～30(金) 浜松町にて開催。映画,TV,アニメ等 多彩な映像コンテンツホルダーと各国の有力バイヤー、プロデューサーが来場します。",
+      "source": "GameBusiness.jp",
+      "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/06/28222.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "cd4c1fafecbe",
       "title": "三國志 戦棋版",
       "url": "https://apps.apple.com/jp/app/id6757841977",
@@ -427,35 +447,21 @@
       "verified": false,
       "officialKnown": false,
       "trackId": ""
-    },
-    {
-      "id": "76e60b92205f",
-      "title": "モンスターハンターアウトランダーズ",
-      "url": "https://monsterhunteroutlanders.com/ja/index.html",
-      "image": "https://monsterhunteroutlanders.com/images/share.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-09-29T02:01:37.000Z",
-      "releaseText": "2026年10月29日",
-      "releaseSource": "appstore",
-      "count": "事前登録者数が2000万人",
-      "reward": "",
-      "headline": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
-      "description": "『モンスターハンターアウトランダーズ』は、CAPCOM のライセンスを受けたTiMi Studios Groupが開発するモバイル向け新作ゲームです。本作は、おなじみの武器による狩猟体験はそのままに、新たな世界観や冒険者、オトモ、そして本…",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/09/29/188445.html",
-      "appleId": "6444520814",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6444520814",
-        "preorder": true,
-        "releaseDate": "2026-10-29T07:00:00Z"
-      },
-      "announcedText": "10月29日正式サービス開始",
-      "trackId": "6444520814"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-05T22:00:29.671Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "カントリー・オブ・オナー",
+      "url": "https://tiffcom.jp/",
+      "image": "https://tiffcom.jp/wp-content/uploads/2026/05/OGP_0512.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-05T16:00:39.231Z",
       "type": "moved_up",
@@ -514,18 +520,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年10月6日"
-    },
-    {
-      "at": "2026-10-03T08:00:34.706Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "三國志 戦棋版",
-      "url": "https://apps.apple.com/jp/app/id6757841977",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/9c/55/559c5558-85b0-5a04-3cec-05dcc57fbc2c/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月1日"
     }
   ]
 }

@@ -1732,6 +1732,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b3/b9/69b3b9e1-d3d5-4e97-25a3-d3658f3e0941/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "カントリー オブ オナー": {
+      "at": "2026-10-05T22:00:29.796Z",
+      "entry": null
     }
   },
   "titles": {
@@ -24655,6 +24659,11 @@
       "sortKey": "2026-10-07",
       "prereg": false,
       "firstSeen": "2026-10-05T21:30:33.095Z"
+    },
+    "カントリー・オブ・オナー": {
+      "title": "カントリー・オブ・オナー",
+      "prereg": true,
+      "firstSeen": "2026-10-05T22:00:29.671Z"
     }
   },
   "changeLog": [
@@ -28588,6 +28597,18 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年10月8日"
+    },
+    {
+      "at": "2026-10-05T22:00:29.671Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "カントリー・オブ・オナー",
+      "url": "https://tiffcom.jp/",
+      "image": "https://tiffcom.jp/wp-content/uploads/2026/05/OGP_0512.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

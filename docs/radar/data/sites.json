@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T21:30:21.306Z",
+  "updatedAt": "2026-10-05T22:00:18.919Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 600,
+  "total": 601,
   "regions": {
-    "jp": 502,
+    "jp": 503,
     "global": 98
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 75
+      "count": 76
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 136
+      "count": 137
     },
     {
       "id": "release",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
-    "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0681d98e18bb",
+      "url": "https://tiffcom.jp/",
+      "host": "tiffcom.jp",
+      "region": "jp",
+      "title": "カントリー・オブ・オナー",
+      "headline": "10月28日開幕のTIFFCOM 2026、日本IPの海外展開やカンヌ「カントリー・オブ・オナー」の成果を振り返るカンファレンスを発表",
+      "description": "TIFFCOM 2026は、10/28(水)～30(金) 浜松町にて開催。映画,TV,アニメ等 多彩な映像コンテンツホルダーと各国の有力バイヤー、プロデューサーが来場します。",
+      "publishedAt": "2026-10-05T21:30:03.000Z",
+      "addedAt": "2026-10-05T22:00:18.919Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/06/28222.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tiffcom.jp/wp-content/uploads/2026/05/OGP_0512.png"
+    },
     {
       "id": "1af73e1d134a",
       "url": "https://paselabo.pasela.co.jp/collaboration/8427/",
