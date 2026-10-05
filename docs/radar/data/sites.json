@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T04:00:16.870Z",
+  "updatedAt": "2026-10-05T04:30:17.609Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 589,
+  "total": 590,
   "regions": {
-    "jp": 492,
+    "jp": 493,
     "global": 97
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 109
+      "count": 110
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 129
+      "count": 130
     },
     {
       "id": "release",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4144e05100cd",
+      "url": "https://hololive.hololivepro.com/",
+      "host": "hololive.hololivepro.com",
+      "region": "jp",
+      "title": "鷹嶺ルイ",
+      "headline": "ホロライブ「鷹嶺ルイ」の1stソロライブ「REBELLION」が12月16日開催決定。チケットの先行抽選と配信チケットがスタート",
+      "description": "ホロライブプロダクションの女性VTuberタレントグループ「hololive（ホロライブ）」の公式サイトです。",
+      "publishedAt": "2026-10-05T04:13:32.000Z",
+      "addedAt": "2026-10-05T04:30:17.609Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/760/G076029/20261005019/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hololive.hololivepro.com/wp-content/themes/hololive/images/rnew/ogp_rnew.jpg"
+    },
     {
       "id": "005f827c31f0",
       "url": "https://www.bellemaison.jp/cpg/character/conan/conan_index.html",
@@ -445,6 +473,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261003o"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/05/188764.html"
         }
       ],
       "tags": [
@@ -641,7 +673,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/7f/b9/4c7fb99e-6358-704d-c400-712531e6864d/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/30/d3/8630d3a8-ac2e-3f7d-89c6-3af7fea35cf0/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ed1717d0f268",
