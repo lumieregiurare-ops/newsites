@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T10:30:17.478Z",
+  "updatedAt": "2026-10-05T11:00:15.881Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 595,
+  "total": 596,
   "regions": {
-    "jp": 497,
+    "jp": 498,
     "global": 98
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 112
+      "count": 113
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 132
+      "count": 133
     },
     {
       "id": "release",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 74
+      "count": 75
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b269f3fd5d04",
+      "url": "https://jojoasbr.bn-ent.net/",
+      "host": "jojoasbr.bn-ent.net",
+      "region": "jp",
+      "title": "ジョジョ",
+      "headline": "【80%オフ】『ジョジョ』キャラが部を超えて激突する格闘ゲーム『ジョジョASBR』を1535円で買えるセールがSteamで開催中ッ！「DIO VS ジョルノ」や「ホル・ホース V…",
+      "description": "ジョジョの奇妙な冒険 オールスターバトル R 公式サイト",
+      "publishedAt": "2026-10-05T10:31:05.000Z",
+      "addedAt": "2026-10-05T11:00:15.881Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610052s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://jojoasbr.bn-ent.net/ogp.jpg"
+    },
     {
       "id": "f4bc408e6c4d",
       "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/chiikawa",
