@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T12:00:19.332Z",
+  "updatedAt": "2026-10-05T12:30:18.001Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 597,
+  "total": 598,
   "regions": {
-    "jp": 498,
+    "jp": 499,
     "global": 99
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 113
+      "count": 114
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 133
+      "count": 134
     },
     {
       "id": "release",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
-    "Game*Spark",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "07905cc58977",
+      "url": "https://fanfest.finalfantasyxiv.com/2026/jp/",
+      "host": "fanfest.finalfantasyxiv.com",
+      "region": "jp",
+      "title": "FFXIV",
+      "headline": "『FFXIV』「ファンフェスティバル 2026 in 東京」ステージ詳細発表！新拡張『白銀のワンダラー』情報明かす基調講演やSHAKAら出演の「直樹の部屋」実施",
+      "description": "2026年10月31日（土）～11月1日（日）に開催される「ファイナルファンタジーXIV ファンフェスティバル 2026 in TOKYO」の特設サイトです。ファンフェスの最新情報はここでチェック！",
+      "publishedAt": "2026-10-05T12:30:04.000Z",
+      "addedAt": "2026-10-05T12:30:18.001Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/05/173191.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fanfest.finalfantasyxiv.com/2026/jp/opengraph-image.jpg?8d7ea673593b7920"
+    },
     {
       "id": "27ca2d38bbbb",
       "url": "https://www.4divinity.com/gunsofeschaton",
