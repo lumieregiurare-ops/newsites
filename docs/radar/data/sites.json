@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T14:00:19.194Z",
+  "updatedAt": "2026-10-05T14:30:16.325Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 599,
+  "total": 600,
   "regions": {
-    "jp": 500,
+    "jp": 501,
     "global": 99
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 115
+      "count": 116
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 135
+      "count": 136
     },
     {
       "id": "release",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1af73e1d134a",
+      "url": "https://paselabo.pasela.co.jp/collaboration/8427/",
+      "host": "paselabo.pasela.co.jp",
+      "region": "jp",
+      "title": "バイオハザード",
+      "headline": "『バイオハザード』×「パセラリゾーツ」コラボが10月13日より開催。ゾンビ・アイ・キーマカレーや特製バイオ・プチハニトーの見た目がガチすぎる",
+      "description": "バイオ30th",
+      "publishedAt": "2026-10-05T14:12:34.000Z",
+      "addedAt": "2026-10-05T14:30:16.325Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610052x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://paselabo.pasela.co.jp/images/ogp_image.png"
+    },
     {
       "id": "21e3004fd37d",
       "url": "https://events.ncsoft.jp/26/10_aion2_hyperx/",
