@@ -6814,9 +6814,9 @@
     },
     "startrek:voyager-acrosstheunknown-equinoxdlc": {
       "title": "Star Trek: Voyager - Across the Unknown - Equinox DLC",
-      "dateText": "2026年12月31日",
-      "date": "2026-12-31",
-      "sortKey": "2026-12-31",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
       "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
@@ -24503,6 +24503,30 @@
       "sortKey": "2026-10-09",
       "prereg": false,
       "firstSeen": "2026-10-05T15:30:35.278Z"
+    },
+    "drainthegalaxydemo": {
+      "title": "Drain the Galaxy Demo",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-05T16:00:39.231Z"
+    },
+    "haroldrabbit3:thehouseofmysteries": {
+      "title": "Harold Rabbit 3 : The House of Mysteries",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-05T16:00:39.231Z"
+    },
+    "theclown'sforest:shadowsofblood": {
+      "title": "The Clown's Forest: Shadows of Blood",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-05T16:00:39.231Z"
     }
   },
   "changeLog": [
@@ -28423,6 +28447,19 @@
         "switch"
       ],
       "to": "2026年10月19日"
+    },
+    {
+      "at": "2026-10-05T16:00:39.231Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "Star Trek: Voyager - Across the Unknown - Equinox DLC",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076096",
+      "image": "https://img-eshop.cdn.nintendo.net/i/01741b5ebc547b23a6bdab3582f1cbbf4bdd9b3954432f281fc694607ae978d7.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月8日"
     }
   ],
   "initialized": true,

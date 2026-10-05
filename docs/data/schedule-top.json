@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T15:30:35.278Z",
+  "updatedAt": "2026-10-05T16:00:39.231Z",
   "platforms": [
     {
       "id": "switch",
@@ -457,6 +457,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-05T16:00:39.231Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "Star Trek: Voyager - Across the Unknown - Equinox DLC",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076096",
+      "image": "https://img-eshop.cdn.nintendo.net/i/01741b5ebc547b23a6bdab3582f1cbbf4bdd9b3954432f281fc694607ae978d7.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月8日"
+    },
+    {
       "at": "2026-10-05T14:00:37.607Z",
       "type": "new",
       "label": "新規",
@@ -513,18 +526,6 @@
         "mobile"
       ],
       "to": "App Store 2026年12月1日"
-    },
-    {
-      "at": "2026-10-02T22:30:29.073Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Inter BEE 2026、来場事前登録を開始",
-      "url": "https://www.inter-bee.com/",
-      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
