@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T03:30:15.262Z",
+  "updatedAt": "2026-10-05T04:00:16.870Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 588,
+  "total": 589,
   "regions": {
-    "jp": 491,
+    "jp": 492,
     "global": 97
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 183
+      "count": 184
     },
     {
       "id": "indie",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "Inside",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "005f827c31f0",
+      "url": "https://www.bellemaison.jp/cpg/character/conan/conan_index.html",
+      "host": "bellemaison.jp",
+      "region": "jp",
+      "title": "名探偵コナン",
+      "headline": "コナンといっしょに「秋」に出かけよう！ベルメゾンから「名探偵コナン」新作アイテムが10月6日発売",
+      "description": "コナンといっしょに「秋」に出かけよう！ベルメゾンから「名探偵コナン」新作アイテムが10月6日発売",
+      "publishedAt": "2026-10-05T03:50:03.000Z",
+      "addedAt": "2026-10-05T04:00:16.870Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/05/188760.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "ce50b03f877b",
       "url": "https://apps.apple.com/jp/app/id1469186379",
