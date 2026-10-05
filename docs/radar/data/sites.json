@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T01:00:20.287Z",
+  "updatedAt": "2026-10-05T01:30:17.506Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 584,
+  "total": 585,
   "regions": {
-    "jp": 489,
+    "jp": 490,
     "global": 95
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 94
+      "count": 95
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9088bace44b2",
+      "url": "https://demvamps.com/",
+      "host": "demvamps.com",
+      "region": "jp",
+      "title": "人気イラストレ",
+      "headline": "人気イラストレーターLAM氏によるオリジナルアニメ企画が発表。原作・脚本・監督・キャラクター原案・総作画監督を兼任",
+      "description": "LAMが描くショートアニメプロジェクト「DemVAMPS（デヴァンプス）」。謎のヴァンパイア少女・ラヴィニアと少年・陽の物語。",
+      "publishedAt": "2026-10-05T01:18:32.000Z",
+      "addedAt": "2026-10-05T01:30:17.506Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261005m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://demvamps.com/public/img/common/ogp.jpg"
+    },
     {
       "id": "a25a205ec3e5",
       "url": "https://edia-game.com/psikyo",
