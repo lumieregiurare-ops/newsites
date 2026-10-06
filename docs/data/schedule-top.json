@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T14:30:54.102Z",
+  "updatedAt": "2026-10-06T15:00:34.782Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,21 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "d3db1611510a",
-      "title": "名探偵コナン",
-      "date": "2026-10-06",
-      "dateText": "2026年10月6日",
-      "sortKey": "2026-10-06",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.bellemaison.jp/cpg/character/conan/conan_index.html",
-      "image": "",
-      "maker": "",
-      "headline": "コナンといっしょに「秋」に出かけよう！ベルメゾンから「名探偵コナン」新作アイテムが10月6日発売",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/05/188760.html"
-    },
     {
       "id": "a7846970cbe2",
       "title": "NAMCO LEGENDARY Mountains",
@@ -267,6 +252,21 @@
       "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k"
+    },
+    {
+      "id": "e9f10c727077",
+      "title": "紅の砂漠",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",
+      "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
+      "maker": "",
+      "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
     }
   ],
   "prereg": [
@@ -453,6 +453,20 @@
   ],
   "changes": [
     {
+      "at": "2026-10-06T15:00:34.782Z",
+      "type": "new",
+      "label": "新規",
+      "title": "朧村正怪奇譚",
+      "url": "https://oboromuramasakaikitan.marv.jp/",
+      "image": "https://oboromuramasakaikitan.marv.jp/assets/img/ogp.jpg?09",
+      "platforms": [
+        "switch",
+        "ps",
+        "pc"
+      ],
+      "to": "2027年2月4日"
+    },
+    {
       "at": "2026-10-06T06:30:29.489Z",
       "type": "new",
       "label": "新規",
@@ -506,18 +520,6 @@
       "title": "フロストパンク: 強化拡張パック Frostpunk: All Expansions Pack",
       "url": "https://store-jp.nintendo.com/item/software/D70050000071093",
       "image": "https://img-eshop.cdn.nintendo.net/i/5259e0d87e7ededdd45a35e07629c9e2ef46af6730aa4725d10f08dcf6d27522.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月19日"
-    },
-    {
-      "at": "2026-10-05T14:00:37.607Z",
-      "type": "new",
-      "label": "新規",
-      "title": "フロストパンク Frostpunk",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122351",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a4dcecec3f05cab6976b708b766e9482365e1376d1c9c07646273d5be6c45fc7.jpg",
       "platforms": [
         "switch"
       ],
