@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T03:30:15.686Z",
+  "updatedAt": "2026-10-06T04:00:20.403Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 606,
+  "total": 608,
   "regions": {
-    "jp": 506,
+    "jp": 508,
     "global": 100
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 117
+      "count": 118
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 189
+      "count": 191
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 133
+      "count": 134
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 179
+      "count": 180
     },
     {
       "id": "browser",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "GameBusiness.jp",
-    "4Gamer",
     "Inside",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "335cdc4df80c",
+      "url": "https://halloweengame.com/",
+      "host": "halloweengame.com",
+      "region": "jp",
+      "title": "ハロウィン ザ・ゲーム",
+      "headline": "「ハロウィン ザ・ゲーム」，DLC第1弾が10月28日に配信決定。無料マップ「タワー・ファーム」と映画版マイケルの新スキン2種を追加",
+      "description": "Experience the Terror of Halloween. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
+      "publishedAt": "2026-10-06T03:49:46.000Z",
+      "addedAt": "2026-10-06T04:00:20.403Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/938/G093878/20261006007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://a.storyblok.com/f/286129504682394/2560x1440/4fd1a12ae7/hero-static.png"
+    },
     {
       "id": "4b0d468604f4",
       "url": "https://www.jp.playblackdesert.com/ja-JP/Intro/hyperboost",
@@ -160,6 +188,39 @@
       "platforms": [],
       "points": null,
       "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639262738135271803"
+    },
+    {
+      "id": "ec747cc06a3c",
+      "url": "https://apps.apple.com/jp/app/id6807328098",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "それはマナー違反ですよ！",
+      "headline": "架空マナーで叱られるADV『それはマナー違反ですよ！』配信開始！ iOS/Android対応",
+      "description": "SNAPLACEの「それはマナー違反ですよ！」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「それはマナー違反ですよ！」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-06T03:25:00.000Z",
+      "addedAt": "2026-10-06T04:00:20.403Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/06/game/3123470.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/24/8d/b0248da3-e625-5bdf-edcb-b587969bc0e5/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b27f77dff39e",
