@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T08:00:18.026Z",
+  "updatedAt": "2026-10-06T08:30:15.407Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 609,
+  "total": 610,
   "regions": {
-    "jp": 508,
+    "jp": 509,
     "global": 101
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 192
+      "count": 193
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 77
+      "count": 78
     },
     {
       "id": "mobile",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b86e9209f47f",
+      "url": "https://ddd.frontwing.co.jp/",
+      "host": "ddd.frontwing.co.jp",
+      "region": "jp",
+      "title": "ディスディスディスカッション",
+      "headline": "屁理屈と本音がぶつかる学園群像劇ADV「ディスディスディスカッション」，体験版をSteamで本日配信。物語序盤の一部をプレイできる",
+      "description": "『ディスディスディスカッション』公式サイトです。",
+      "publishedAt": "2026-10-06T08:00:00.000Z",
+      "addedAt": "2026-10-06T08:30:15.407Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104774/20261005043/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610062e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://ddd.frontwing.co.jp/img/og/x-card_jp.jpg"
+    },
     {
       "id": "c01d94f65974",
       "url": "https://playmimic.com/",
