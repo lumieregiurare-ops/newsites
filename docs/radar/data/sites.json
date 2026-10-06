@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T23:00:18.000Z",
+  "updatedAt": "2026-10-06T23:30:16.554Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 626,
+  "total": 627,
   "regions": {
-    "jp": 520,
+    "jp": 521,
     "global": 106
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 66
+      "count": 67
     },
     {
       "id": "campaign",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "4Gamer",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8ca71b988cee",
+      "url": "https://works.drosselmeyers.com/drosselmeyers-historia/",
+      "host": "works.drosselmeyers.com",
+      "region": "jp",
+      "title": "ドロッセルマイヤーズ15周年祭",
+      "headline": "ドロマイの“過去と未来”が語られた「ドロッセルマイヤーズ15周年祭」をレポート。新作「ドロッセルマイヤーズ・ヒストリア」の100人同時プレイも",
+      "description": "アナログゲーム【異能力バトル】大戦勃発！？異世界の歴史書から召喚された歴代ドロマイ作品150キャラが総登場！！！ 基本ルールは各プレイヤーが「1〜5」のバトルカードを伏せてから同時公開し、数字が大きい方が勝ち。3ラウンド先取で勝利。 しか…",
+      "publishedAt": "2026-10-06T23:00:00.000Z",
+      "addedAt": "2026-10-06T23:30:16.554Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/048/G104813/20261007002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://works.drosselmeyers.com/wp-content/uploads/drosselmeyers-historia_thumb.jpg"
+    },
     {
       "id": "0e40a5d606de",
       "url": "https://play.google.com/store/apps/details?id=net.karei.game.demo",
