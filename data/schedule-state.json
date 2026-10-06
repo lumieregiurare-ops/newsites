@@ -1430,7 +1430,7 @@
       "entry": null
     },
     "DEEP ROCK GALACTIC SURVIVOR": {
-      "at": "2026-10-03T06:30:28.192Z",
+      "at": "2026-10-06T06:30:29.720Z",
       "entry": {
         "trackId": "6742194903",
         "title": "Deep Rock Galactic: Survivor",
@@ -24775,6 +24775,14 @@
       "sortKey": "2026-10-07",
       "prereg": false,
       "firstSeen": "2026-10-06T05:00:31.493Z"
+    },
+    "mimic": {
+      "title": "Mimic",
+      "dateText": "2026年10月27日",
+      "date": "2026-10-27",
+      "sortKey": "2026-10-27",
+      "prereg": false,
+      "firstSeen": "2026-10-06T06:30:29.489Z"
     }
   },
   "changeLog": [
@@ -28720,6 +28728,16 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-06T06:30:29.489Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Mimic",
+      "url": "https://playmimic.com/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年10月27日"
     }
   ],
   "initialized": true,

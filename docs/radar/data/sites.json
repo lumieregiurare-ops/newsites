@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T06:00:19.062Z",
+  "updatedAt": "2026-10-06T06:30:17.667Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 608,
+  "total": 609,
   "regions": {
     "jp": 508,
-    "global": 100
+    "global": 101
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 191
+      "count": 192
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c01d94f65974",
+      "url": "https://playmimic.com/",
+      "host": "playmimic.com",
+      "region": "global",
+      "title": "Mimic",
+      "headline": "リアルタイムに募る疑心暗鬼。非対称型の人狼系ホラー「Mimic」の早期アクセス版を10月27日に配信決定",
+      "description": "リアルタイムに募る疑心暗鬼。非対称型の人狼系ホラー「Mimic」の早期アクセス版を10月27日に配信決定",
+      "publishedAt": "2026-10-06T06:21:24.000Z",
+      "addedAt": "2026-10-06T06:30:17.667Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/047/G104794/20261006018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "335cdc4df80c",
       "url": "https://halloweengame.com/",
@@ -2498,6 +2525,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/047/G104704/20261001031/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/06/173219.html"
         }
       ],
       "tags": [
