@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-05T23:30:15.776Z",
+  "updatedAt": "2026-10-06T00:00:18.075Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 602,
+  "total": 600,
   "regions": {
-    "jp": 504,
+    "jp": 502,
     "global": 98
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 76
+      "count": 74
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 179
+      "count": 178
     },
     {
       "id": "browser",
@@ -18656,66 +18656,6 @@
       ],
       "points": null,
       "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545"
-    },
-    {
-      "id": "b363021a4a45",
-      "url": "https://gget.ggame.jp/jp/dmg/",
-      "host": "gget.ggame.jp",
-      "region": "jp",
-      "title": "SDガンダム ジージェネレーション エターナル",
-      "headline": "DMM GAMES版「SDガンダム ジージェネレーション エターナル」の配信日が7月22日に決定。事前登録を受付中",
-      "description": "DMM GAMES版「SDガンダム ジージェネレーション エターナル」オフィシャルサイトです。",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/023/G102360/20260708029/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://gget.ggame.jp/jp/ogp.png"
-    },
-    {
-      "id": "5007ebe29959",
-      "url": "https://www.pocketpair.jp/nevergrave/",
-      "host": "pocketpair.jp",
-      "region": "jp",
-      "title": "Never Grave",
-      "headline": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
-      "description": "2Dローグライクアクション「Never Grave」，Android版の事前登録受付をGoogle Playで開始",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/023/G102345/20260708017/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     }
   ]
 }
