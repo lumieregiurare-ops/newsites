@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T13:00:20.642Z",
+  "updatedAt": "2026-10-06T13:30:19.380Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 623,
+  "total": 624,
   "regions": {
-    "jp": 518,
+    "jp": 519,
     "global": 105
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 65
+      "count": 66
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 141
+      "count": 142
     },
     {
       "id": "release",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "68649bc1b304",
+      "url": "https://endfield.gryphline.com/",
+      "host": "endfield.gryphline.com",
+      "region": "jp",
+      "title": "アークナイツ：エンドフィールド",
+      "headline": "『アークナイツ：エンドフィールド』1周年イベントが2027年1月10日・11日に幕張メッセで開催決定！記念の描き下ろしイラストも先行公開",
+      "description": "「アークナイツ：エンドフィールド」はHypergryphが贈る3Dリアルタイム戦略RPG。",
+      "publishedAt": "2026-10-06T12:51:37.000Z",
+      "addedAt": "2026-10-06T13:30:19.380Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610063d"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/share-oversea.6f430b84.jpg"
+    },
     {
       "id": "6dc8ef8f164d",
       "url": "https://www.gearsofwar.com/en-us/",
