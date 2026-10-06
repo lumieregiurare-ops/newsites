@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T09:00:17.982Z",
+  "updatedAt": "2026-10-06T09:30:15.331Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 611,
+  "total": 612,
   "regions": {
-    "jp": 510,
+    "jp": 511,
     "global": 101
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 118
+      "count": 119
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 139
+      "count": 140
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 180
+      "count": 181
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "AppBank",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "Inside",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3390eb7cf8a1",
+      "url": "https://www.teppay.jp/",
+      "host": "teppay.jp",
+      "region": "jp",
+      "title": "teppay（テッペイ）",
+      "headline": "モバイルSuicaのアプリで使える新コード決済サービス「teppay（テッペイ）」10月20日よりスタート。11月4日からは20%還元などキャンペーンも開催",
+      "description": "「teppay（テッペイ）」は、モバイルSuica・モバイルPASMOのアプリ内で使えるコード決済サービスです。モバイルSuica・モバイルPASMOのアプリさえあれば、新たにアプリダウンロードや登録をすることなく、そのままコード決済が利…",
+      "publishedAt": "2026-10-06T09:30:15.331Z",
+      "addedAt": "2026-10-06T09:30:15.331Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1654303"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.teppay.jp/assets_renewal/img/ogp_teppay.webp"
+    },
     {
       "id": "b9caa43e3879",
       "url": "https://theascent.krafton.com/ja",
