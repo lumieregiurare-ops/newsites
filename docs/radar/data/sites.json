@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T15:30:19.514Z",
+  "updatedAt": "2026-10-06T16:00:56.587Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 624,
+  "total": 625,
   "regions": {
-    "jp": 519,
+    "jp": 520,
     "global": 105
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 99
+      "count": 100
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "aaaf8ec2e74c",
+      "url": "https://www.warnerbros.co.jp/",
+      "host": "warnerbros.co.jp",
+      "region": "jp",
+      "title": "スカイダンス",
+      "headline": "パラマウント、ワーナーの買収を完了。新会社「スカイダンス」が発足し、劇場映画を毎年少なくとも30本公開する方針",
+      "description": "ワーナー・ブラザースの公式サイト。最新映画、デジタル配信、ブルーレイ&DVD、キャラクター、アニメ、放送・配信などの最新情報をお届け。会社情報や各種公式SNS情報なども掲載しています。",
+      "publishedAt": "2026-10-06T15:36:24.000Z",
+      "addedAt": "2026-10-06T16:00:56.587Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610063e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.warnerbros.co.jp/og-common.jpg"
+    },
     {
       "id": "68649bc1b304",
       "url": "https://endfield.gryphline.com/",
