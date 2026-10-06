@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T03:00:19.811Z",
+  "updatedAt": "2026-10-06T03:30:15.686Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 604,
+  "total": 606,
   "regions": {
-    "jp": 504,
+    "jp": 506,
     "global": 100
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 64
+      "count": 65
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 138
+      "count": 139
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 188
+      "count": 189
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 178
+      "count": 179
     },
     {
       "id": "browser",
@@ -121,17 +121,77 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "AppBank",
+    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "4Gamer",
     "Inside",
-    "AppBank",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4b0d468604f4",
+      "url": "https://www.jp.playblackdesert.com/ja-JP/Intro/hyperboost",
+      "host": "jp.playblackdesert.com",
+      "region": "jp",
+      "title": "黒い砂漠",
+      "headline": "『黒い砂漠』11周年ありがとう！弓を引いてゲーム飯も楽しむオフラインイベント「冒険者感謝祭 2026 ～オルビア・アカデミー学園祭～」レポート",
+      "description": "超高速成長を徹底サポート！HYPERBOOSTで、ストレスのない成長スピードを今すぐ体感しよう – 大迫力の戦闘と壮大な冒険が繰り広げられるオープンワールドMMORPG黒い砂漠",
+      "publishedAt": "2026-10-06T03:30:03.000Z",
+      "addedAt": "2026-10-06T03:30:15.686Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/06/173211.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639262738135271803"
+    },
+    {
+      "id": "b27f77dff39e",
+      "url": "https://play.google.com/store/apps/details?id=com.mythicowl.truckful",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "Truckful / トラックフル",
+      "headline": "配達謎解きADV『Truckful / トラックフル』の価格が2,200円に決定！ 10月10日発売",
+      "description": "ピックアップトラックを運転して一見平和そうな田舎の谷間を走り抜け、地元の人々に必要な物資を届け、小さな町の謎を解き明かそう。気をつけて、古い森が見ているよ。",
+      "publishedAt": "2026-10-06T03:20:00.000Z",
+      "addedAt": "2026-10-06T03:30:15.686Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/06/game/3123240.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/gUUCuaPTg9qb5D4m4nvoQxKzgtClTAgaJwhEQVGQPhxyXjC0ehpOApQ6uS6lWSB1VRwL0zwQT8wkwyofyZPi9Nc=s0-br30"
+    },
     {
       "id": "ea80444c0204",
       "url": "https://www.breederscup.com/",
@@ -262,6 +322,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261006e"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/06/188832.html"
         }
       ],
       "tags": [
