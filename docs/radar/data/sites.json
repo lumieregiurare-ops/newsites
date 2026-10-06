@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T01:00:18.341Z",
+  "updatedAt": "2026-10-06T01:30:22.090Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 600,
+  "total": 601,
   "regions": {
     "jp": 502,
-    "global": 98
+    "global": 99
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 96
+      "count": 97
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 75
+      "count": 76
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "95200af24978",
+      "url": "https://hazgamesstudio.com/",
+      "host": "hazgamesstudio.com",
+      "region": "global",
+      "title": "BrainWash: Zombie Cleanup",
+      "headline": "ゾンビの血や臓物を“お片付け”するお掃除シミュゲーム『BrainWash: Zombie Cleanup』Steamストアページが公開中。殺した後もやることだらけ",
+      "description": "They rose from the grave. You",
+      "publishedAt": "2026-10-06T01:00:02.000Z",
+      "addedAt": "2026-10-06T01:30:22.090Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261006h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://hazgamesstudio.com/img/social/og-image.png"
+    },
     {
       "id": "df6cdfdfbd0c",
       "url": "https://yamato-r2199.jp/",
