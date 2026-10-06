@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T22:30:18.161Z",
+  "updatedAt": "2026-10-06T23:00:18.000Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 625,
+  "total": 626,
   "regions": {
-    "jp": 519,
+    "jp": 520,
     "global": 106
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 77
+      "count": 78
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 201
+      "count": 202
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 78
+      "count": 79
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 184
+      "count": 185
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "4Gamer",
-    "AppBank",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0e40a5d606de",
+      "url": "https://play.google.com/store/apps/details?id=net.karei.game.demo",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "華麗 無限城の死闘",
+      "headline": "『華麗 無限城の死闘』体験版が10月10日にSteam・iOS・Androidで無料配信！ iOS版『KAREI 序章』は予約受付中",
+      "description": "くノ一となり無限城を登れ。一手の重みで殺しあう、ターン制パズルローグライク。",
+      "publishedAt": "2026-10-06T22:30:00.000Z",
+      "addedAt": "2026-10-06T23:00:18.000Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/07/game/3123994.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/Hua8GMJgEGIRv5md5R0thxJbG_bl3noBu8DYO6evKCroUE4FXLw51wvc-SfQOtKQLfJw18K1niyx8v6C8v3J9A=s0-br30"
+    },
     {
       "id": "aaaf8ec2e74c",
       "url": "https://www.warnerbros.co.jp/",
