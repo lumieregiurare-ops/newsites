@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T11:00:16.619Z",
+  "updatedAt": "2026-10-06T11:30:21.679Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 618,
+  "total": 619,
   "regions": {
-    "jp": 515,
+    "jp": 516,
     "global": 103
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 119
+      "count": 120
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 198
+      "count": 199
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "GameBusiness.jp",
-    "Inside",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "59be032b9a75",
+      "url": "https://www.workman.co.jp/",
+      "host": "workman.co.jp",
+      "region": "jp",
+      "title": "サンリオキャラクターズ",
+      "headline": "「サンリオキャラクターズ」×ワークマンコラボ第二弾！機能性と“大人可愛い”を両立したハローキティ&クロミの限定アイテムが発売中",
+      "description": "【ワークマン】全国1,100店舗を突破し、プロに選ばれる圧倒的シェアはそのままに、アウトドア、スポーツ、デイリーユースまで、過酷な環境を生き抜くテクノロジーを毎日の着こなしへ。トレンドを押さえた最新のデジタルカタログ、お近くの店舗検索をお…",
+      "publishedAt": "2026-10-06T11:10:03.000Z",
+      "addedAt": "2026-10-06T11:30:21.679Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/06/188857.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.workman.co.jp/wp-content/uploads/2018/10/workman_thumb.jpg"
+    },
     {
       "id": "87f30b28d502",
       "url": "https://apps.apple.com/jp/app/id6817174377",
