@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T10:00:17.229Z",
+  "updatedAt": "2026-10-06T10:30:18.240Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 614,
+  "total": 618,
   "regions": {
-    "jp": 511,
+    "jp": 515,
     "global": 103
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 195
+      "count": 198
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 37
+      "count": 41
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 135
+      "count": 138
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 181
+      "count": 184
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
+    "電ファミニコゲーマー",
+    "4Gamer",
+    "Game*Spark",
     "GameBusiness.jp",
     "Inside",
     "App Store",
@@ -132,6 +132,68 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "87f30b28d502",
+      "url": "https://apps.apple.com/jp/app/id6817174377",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "迷宮ストーム",
+      "headline": "ランダム迷宮を大量の敵とバトル！ ダンジョンRPG『迷宮ストーム』がiOS・Androidで配信開始",
+      "description": "AtomBase合同会社の「迷宮ストーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「迷宮ストーム」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-06T10:20:00.000Z",
+      "addedAt": "2026-10-06T10:30:18.240Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/06/game/3123766.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/92/0a/ce920a70-1114-60b6-39a0-c7674061f7bc/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "86f46e1b838c",
+      "url": "https://www.st-trigger.co.jp/",
+      "host": "st-trigger.co.jp",
+      "region": "jp",
+      "title": "SSSS.GRIDMAN",
+      "headline": "【無料】『SSSS.GRIDMAN』全12話がYouTubeで配信決定！毎週火曜日に順次公開、本当に“退屈”から救いに来た",
+      "description": "アニメーション演出家の大塚雅彦とアニメーション監督の今石洋之、制作プロデューサーの舛本和也が2011年8月22日に設立したアニメーション制作会社。社名は「作品が弾丸だとしたら、それを打ち出す引き金でありたい」との想いで名づけられた。",
+      "publishedAt": "2026-10-06T10:00:52.000Z",
+      "addedAt": "2026-10-06T10:30:18.240Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610062u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.st-trigger.co.jp/wp-content/uploads/2026/08/tirgger_main.jpg"
+    },
     {
       "id": "f5b0fbe4897b",
       "url": "https://starwarsgalacticracer.com/",
@@ -187,6 +249,40 @@
       "platforms": [],
       "points": null,
       "image": "https://playhunger.com/wp-content/uploads/2024/09/EGS-Offer-Image-Portrait-H_Portrait_1200x1600_2.0-768x1024.png"
+    },
+    {
+      "id": "7bd6307ec91c",
+      "url": "https://apps.apple.com/jp/app/id6772091082",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ThreadTale : コトノハ",
+      "headline": "AI技術で物語が変わる対話型ノベルゲーム『ThreadTale : コトノハ』がiOS／Android向けに配信開始",
+      "description": "DeNA Co., Ltd.の「ThreadTale : コトノハ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ThreadTale : コトノハ」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-10-06T09:55:00.000Z",
+      "addedAt": "2026-10-06T10:30:18.240Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/06/game/3123714.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/8b/2b/f88b2b65-bfba-1d71-04c3-5109d52ac190/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3390eb7cf8a1",
@@ -1200,6 +1296,40 @@
       ],
       "points": null,
       "image": "https://play-lh.googleusercontent.com/zZ-mkcUeVe5DXpYfVIEsHOJKtVpaFCa5ue5Sbqr6bIvpFJKjJCfatdnrq_uWXzUvvIqYdPwcZmOqXaRwHFLY=s0-br30"
+    },
+    {
+      "id": "a3ed7e1e194d",
+      "url": "https://services.trip-mile.com/",
+      "host": "services.trip-mile.com",
+      "region": "jp",
+      "title": "TOY BLOX トイブロックス-トリマ公式ブロックパズル",
+      "headline": "GeoTechnologies, Inc. / パズル・カジュアル · App Store 新着",
+      "description": "移動するだけでポイントが貯まる超かんたんポイ活アプリ。テレビやSNSで「一番貯まる」と話題沸騰中！Amazon,楽天,PayPay,dポイント,Vポイントなど様々な方法で受け取れます。",
+      "publishedAt": "2026-10-04T07:00:00.000Z",
+      "addedAt": "2026-10-06T10:30:18.240Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6789060737"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/a9144a_8ceb3c5c24d8467c84d90d9478969130~mv2.png/v1/fill/w_1200,h_630,al_c/a9144a_8ceb3c5c24d8467c84d90d9478969130~mv2.png"
     },
     {
       "id": "a00be7a9d0d4",
@@ -2679,6 +2809,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/06/173219.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610062s"
         }
       ],
       "tags": [
