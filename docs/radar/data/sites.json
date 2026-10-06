@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T12:30:16.556Z",
+  "updatedAt": "2026-10-06T13:00:20.642Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 622,
+  "total": 623,
   "regions": {
     "jp": 518,
-    "global": 104
+    "global": 105
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 98
+      "count": 99
     }
   ],
   "platforms": [
@@ -92,7 +92,7 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 15
+      "count": 16
     },
     {
       "id": "pc",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "Inside",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6dc8ef8f164d",
+      "url": "https://www.gearsofwar.com/en-us/",
+      "host": "gearsofwar.com",
+      "region": "global",
+      "title": "Gears of War: E-Day",
+      "headline": "XBOX版の安定性が光る！人気TPSシリーズ最新作『Gears of War: E-Day』プラットフォーム別グラフィック比較動画公開",
+      "description": "The official website for Gears of War",
+      "publishedAt": "2026-10-06T12:45:03.000Z",
+      "addedAt": "2026-10-06T13:00:20.642Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/06/173249.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "points": null,
+      "image": "https://www.gearsofwar.com/images/gearsOfWar.jpg"
+    },
     {
       "id": "d69293f48e70",
       "url": "https://aerotools.jp/products/he-tol11aero102-at/",
