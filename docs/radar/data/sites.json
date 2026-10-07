@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T10:30:19.225Z",
+  "updatedAt": "2026-10-07T11:00:16.534Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 640,
+  "total": 643,
   "regions": {
-    "jp": 531,
-    "global": 109
+    "jp": 533,
+    "global": 110
   },
   "categories": [
     {
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 123
+      "count": 124
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 144
+      "count": 145
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 206
+      "count": 207
     },
     {
       "id": "indie",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 140
+      "count": 141
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 104
+      "count": 105
     }
   ],
   "platforms": [
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 23
+      "count": 24
     },
     {
       "id": "xbox",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 85
+      "count": 87
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
+    "Inside",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,95 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6f41669ecb16",
+      "url": "https://dl-scp.bn-ent.net/",
+      "host": "dl-scp.bn-ent.net",
+      "region": "jp",
+      "title": "デジモン",
+      "headline": "『デジモン』ダウンロード版ゲームが最大約50%オフに。バンダイナムコエンターテインメントが秋のセールを開催中。PS5『タイムストレンジャー』は20%オフ、スイッチは『ハッカーズメ…",
+      "description": "バンダイナムコエンターテインメント ダウンロード版セール",
+      "publishedAt": "2026-10-07T10:48:50.000Z",
+      "addedAt": "2026-10-07T11:00:16.534Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610073c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://dl-scp.bn-ent.net/images/img.jpg"
+    },
+    {
+      "id": "ec98bdf95aa2",
+      "url": "https://ghostsofthemountainpass.com/",
+      "host": "ghostsofthemountainpass.com",
+      "region": "global",
+      "title": "首都高バトル",
+      "headline": "「首都高バトル」風のバトルで峠を駆ける。公道バトルRPG「Ghosts of the Mountain Pass」，Steamストアページを公開",
+      "description": "A single-player racing RPG on the Italian Riviera in the late 1990s. Duel rivals on mountain passes and the night highw…",
+      "publishedAt": "2026-10-07T10:44:51.000Z",
+      "addedAt": "2026-10-07T11:00:16.534Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/048/G104847/20261007037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://ghostsofthemountainpass.com/og-image.jpg?v=3"
+    },
+    {
+      "id": "5eaee8fb6260",
+      "url": "https://8shiki.moo.jp/RecycleShopEco/index.html",
+      "host": "8shiki.moo.jp",
+      "region": "jp",
+      "title": "リサイクルショップ回向",
+      "headline": "パズルで客の要望に応え，彼らの情報を収集。隠された恐怖の世界に触れていく「リサイクルショップ回向」，体験版をSteamで公開",
+      "description": "3マッチパズル×人間観察×ホラー。ここには、捨てられなかったものが集まる。",
+      "publishedAt": "2026-10-07T10:34:57.000Z",
+      "addedAt": "2026-10-07T11:00:16.534Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/048/G104846/20261007034/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://8shiki.moo.jp/RecycleShopEco/Title.png"
+    },
     {
       "id": "ae5a6ae30ee0",
       "url": "https://www.bandaihobbysite.cn/index/index/news_detail/id/297",
