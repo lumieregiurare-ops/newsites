@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T01:30:15.934Z",
+  "updatedAt": "2026-10-07T02:00:16.122Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 628,
+  "total": 629,
   "regions": {
-    "jp": 522,
+    "jp": 523,
     "global": 106
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 100
+      "count": 101
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 79
+      "count": 80
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9c7973d215f4",
+      "url": "https://freegameteamkomori.jimdofree.com/",
+      "host": "freegameteamkomori.jimdofree.com",
+      "region": "jp",
+      "title": "星の記す真実",
+      "headline": "【無料】目を閉じるか開けるかで“物語が変化”する異色のゲーム『星の記す真実』Steam版が公開。星空の下で語られる“あなたの過去”",
+      "description": "📕チームコーモリ制作ゲーム一覧",
+      "publishedAt": "2026-10-07T01:48:06.000Z",
+      "addedAt": "2026-10-07T02:00:16.122Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261007i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://image.jimcdn.com/app/cms/image/transf/none/path/sbbcb602f4f11123b/image/ibd073acf2bffeb5d/version/1764854881/image.png"
+    },
     {
       "id": "8ca71b988cee",
       "url": "https://works.drosselmeyers.com/drosselmeyers-historia/",
