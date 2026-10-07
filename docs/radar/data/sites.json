@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T10:00:15.227Z",
+  "updatedAt": "2026-10-07T10:30:19.225Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 639,
+  "total": 640,
   "regions": {
     "jp": 531,
-    "global": 108
+    "global": 109
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 139
+      "count": 140
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 186
+      "count": 187
     },
     {
       "id": "browser",
@@ -3549,6 +3549,39 @@
       "platforms": [],
       "points": null,
       "image": "https://cdn.xsolla.net/merchant-bucket-prod/files/uploaded/sitebuilder/101667/67f25dedd3c3574bdfc38117a3792461.png"
+    },
+    {
+      "id": "9784b434ba77",
+      "url": "https://keepsweeper.desk176634.chatgpt.site/",
+      "host": "keepsweeper.desk176634.chatgpt.site",
+      "region": "global",
+      "title": "Keepsweeper",
+      "headline": "Flarup Industries / パズル・ストラテジー · App Store 新着",
+      "description": "Keepsweeper. Read the clues, uncover treasure and defend your keep.",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "addedAt": "2026-10-07T10:30:19.225Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6814857804"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "7010c8af8e9a",
@@ -14523,6 +14556,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/043/G104339/20260916029/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261007w"
         }
       ],
       "tags": [
