@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-07T09:30:16.643Z",
+  "updatedAt": "2026-10-07T10:00:15.227Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 638,
+  "total": 639,
   "regions": {
-    "jp": 530,
+    "jp": 531,
     "global": 108
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 26
+      "count": 27
     },
     {
       "id": "prereg",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "AppBank",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ae5a6ae30ee0",
+      "url": "https://www.bandaihobbysite.cn/index/index/news_detail/id/297",
+      "host": "bandaihobbysite.cn",
+      "region": "jp",
+      "title": "GUNDAM XMX",
+      "headline": "ガンプラの中国向け新ブランド「GUNDAM XMX」始動！第1弾は「ストライクガンダム」全6種を“ブラインド形式”で収録",
+      "description": "ガンプラの中国向け新ブランド「GUNDAM XMX」始動！第1弾は「ストライクガンダム」全6種を“ブラインド形式”で収録",
+      "publishedAt": "2026-10-07T09:45:03.000Z",
+      "addedAt": "2026-10-07T10:00:15.227Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/07/188902.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "39d0a4580b2f",
       "url": "https://geismgame.com/",
