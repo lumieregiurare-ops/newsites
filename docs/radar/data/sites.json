@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T16:00:17.634Z",
+  "updatedAt": "2026-10-07T16:30:19.028Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 646,
+  "total": 647,
   "regions": {
-    "jp": 535,
+    "jp": 536,
     "global": 111
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 141
+      "count": 142
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 87
+      "count": 86
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 188
+      "count": 189
     },
     {
       "id": "browser",
@@ -125,8 +125,8 @@
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "AppBank",
     "App Store",
+    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
@@ -448,6 +448,39 @@
       "platforms": [],
       "points": null,
       "image": "https://kroi.net/static/fcopen/contents/top_image/1468/c6b6d6d573e2699adac9ff79a3c23005.jpeg"
+    },
+    {
+      "id": "9b6d19142d81",
+      "url": "https://vsboat.app/",
+      "host": "vsboat.app",
+      "region": "jp",
+      "title": "VS BOAT－3D競艇オンライン対戦ゲーム",
+      "headline": "soma anraku / レーシング・スポーツ · App Store 新着",
+      "description": "VS BOAT は、最大6人で同時に走るオンラインのボートレースゲームです。App Store で配信中。",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "addedAt": "2026-10-07T16:30:19.028Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6817994753"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "スポーツ"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://vsboat.app/img/og.jpg"
     },
     {
       "id": "f108c14cd069",
@@ -13016,7 +13049,7 @@
       "region": "jp",
       "title": "マビノギモバイル",
       "headline": "「マビノギモバイル」，10月7日に配信決定。エリンでの冒険を描いたオンラインRPG",
-      "description": "「マビノギモバイル」事前登録受付中！ほのぼの巡る、暮らしと冒険。スマートフォンとPCでもうすぐ登場！",
+      "description": "スマホで、ほのぼのファンタジーライフ！「マビノギモバイル」公式サイト。",
       "publishedAt": "2026-09-17T12:00:48.000Z",
       "addedAt": "2026-09-17T14:33:05.442Z",
       "source": "4Gamer",
@@ -13042,11 +13075,10 @@
         "release"
       ],
       "platforms": [
-        "pc",
         "mobile"
       ],
       "points": null,
-      "image": "https://static.nexon.co.jp/mabinogimobile/preregistration_FzS9jWx9G0umDpkk/ogpcard.png"
+      "image": "https://static.nexon.co.jp/mabinogimobile/common/ogpcard.png"
     },
     {
       "id": "c803eedfd723",
