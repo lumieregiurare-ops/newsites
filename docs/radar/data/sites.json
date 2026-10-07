@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T23:00:16.600Z",
+  "updatedAt": "2026-10-07T23:30:20.799Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 648,
+  "total": 650,
   "regions": {
-    "jp": 538,
+    "jp": 540,
     "global": 110
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 208
+      "count": 209
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 107
+      "count": 108
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "App Store",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b009e6ac2475",
+      "url": "https://bokutotsurinikki.imgs.jp/",
+      "host": "bokutotsurinikki.imgs.jp",
+      "region": "jp",
+      "title": "ぼくと釣り日記",
+      "headline": "“和風”本格派まったり釣りアクションRPG『ぼくと釣り日記』スイッチ/スイッチ2向けにリリース",
+      "description": "“和風”本格派まったり釣りアクションRPG『ぼくと釣り日記』スイッチ/スイッチ2向けにリリース",
+      "publishedAt": "2026-10-07T23:30:03.000Z",
+      "addedAt": "2026-10-07T23:30:20.799Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/08/173321.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "cc55c7297453",
+      "url": "https://www.dragonsdogma.com/2/ja-jp/",
+      "host": "dragonsdogma.com",
+      "region": "jp",
+      "title": "ドラゴンズドグマ２：ダークアリズン",
+      "headline": "『ドラゴンズドグマ２：ダークアリズン』“津田健次郎さん”ナレーションの特別映像が公開。ダークファンタジーな世界観と渋い声がマッチしすぎ",
+      "description": "王道ファンタジー世界が舞台のオープンワールドアクションの続編がついに登場！",
+      "publishedAt": "2026-10-07T23:19:26.000Z",
+      "addedAt": "2026-10-07T23:30:20.799Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261008e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.dragonsdogma.com/2/assets/images/common/share.png"
+    },
     {
       "id": "f49f21df009d",
       "url": "https://www.hollowknight.com/",
