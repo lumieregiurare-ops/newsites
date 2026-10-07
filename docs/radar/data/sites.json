@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T01:00:16.682Z",
+  "updatedAt": "2026-10-07T01:30:15.934Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 627,
+  "total": 628,
   "regions": {
-    "jp": 521,
+    "jp": 522,
     "global": 106
   },
   "categories": [
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 20
+      "count": 21
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 138
+      "count": 139
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 185
+      "count": 186
     },
     {
       "id": "browser",
@@ -126,8 +126,8 @@
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "GameBusiness.jp",
     "App Store",
+    "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
@@ -634,6 +634,40 @@
       ],
       "points": null,
       "image": "https://ddd.frontwing.co.jp/img/og/x-card_jp.jpg"
+    },
+    {
+      "id": "1a34c159489a",
+      "url": "https://makiabe.github.io/https-github.com-makiabe-dungeon-tact-wiki/?lang=ja",
+      "host": "makiabe.github.io",
+      "region": "jp",
+      "title": "ダンジョンの入口でタクティクスでもしようよ",
+      "headline": "Makio Abe / ロールプレイング・ストラテジー · App Store 新着",
+      "description": "ダンジョンの入口でタクティクスでもしようよ。攻略Wiki。キャラクター、装備、アビリティカード、クエスト、第二章、召喚確率を最新のゲームデータで調べる。",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "addedAt": "2026-10-07T01:30:15.934Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6815756255"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "ストラテジー"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "c01d94f65974",
