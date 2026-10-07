@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T06:30:16.335Z",
+  "updatedAt": "2026-10-07T07:00:16.011Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 634,
+  "total": 635,
   "regions": {
-    "jp": 527,
+    "jp": 528,
     "global": 107
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 102
+      "count": 103
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "459558b2cd79",
+      "url": "https://kroi.net/",
+      "host": "kroi.net",
+      "region": "jp",
+      "title": "スティール・ボール・ラン ジョジョの奇妙な冒険",
+      "headline": "アニメ『スティール・ボール・ラン ジョジョの奇妙な冒険』OPテーマ「SPIN」が米ビルボードチャートにランクイン！アーティスト・Kroiとしては初のチャート入り、10月5日に公開…",
+      "description": "R&B / ファンク / ソウル / ロック / ヒップホップなど、あらゆる音楽ジャンルからの影響を昇華したミクスチャーな音楽性を提示する5人組バンド、Kroi。",
+      "publishedAt": "2026-10-07T07:00:16.011Z",
+      "addedAt": "2026-10-07T07:00:16.011Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1655141"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kroi.net/static/fcopen/contents/top_image/1468/c6b6d6d573e2699adac9ff79a3c23005.jpeg"
+    },
     {
       "id": "f108c14cd069",
       "url": "https://timetakers.plaync.com/",
