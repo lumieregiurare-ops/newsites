@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T22:00:23.110Z",
+  "updatedAt": "2026-10-07T22:30:18.821Z",
   "boards": [
     {
       "id": "steam",
@@ -202,10 +202,23 @@
         },
         {
           "rank": 5,
-          "title": "ブロックブラスト (Block Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1d/f1/3e1df1cf-07f5-85b5-0ed9-c8e8b653ff74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
-          "metric": "Hungry Studio",
+          "title": "Colony Flow!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/cc/91/0dcc9131-211a-71e5-875b-f641845219c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
+          "metric": "ABI GLOBAL LTD.",
+          "delta": {
+            "kind": "up",
+            "label": "+3",
+            "value": 3
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 6,
+          "title": "ちいかわぽけっと",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/0e/3abf0e35-0100-ccf5-a179-ece165474567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
+          "metric": "Applibot Inc.",
           "delta": {
             "kind": "same",
             "label": "–",
@@ -214,28 +227,15 @@
           "deltaNote": "前日比"
         },
         {
-          "rank": 6,
-          "title": "Colony Flow!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/cc/91/0dcc9131-211a-71e5-875b-f641845219c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/colony-flow/id6779167923",
-          "metric": "ABI GLOBAL LTD.",
-          "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
-          },
-          "deltaNote": "前日比"
-        },
-        {
           "rank": 7,
-          "title": "ちいかわぽけっと",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/0e/3abf0e35-0100-ccf5-a179-ece165474567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
-          "metric": "Applibot Inc.",
+          "title": "ブロックブラスト (Block Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1d/f1/3e1df1cf-07f5-85b5-0ed9-c8e8b653ff74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
+          "metric": "Hungry Studio",
           "delta": {
             "kind": "down",
-            "label": "-1",
-            "value": -1
+            "label": "-2",
+            "value": -2
           },
           "deltaNote": "前日比"
         },

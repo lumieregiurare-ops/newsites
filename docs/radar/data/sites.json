@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T22:00:21.113Z",
+  "updatedAt": "2026-10-07T22:30:16.631Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 647,
+  "total": 648,
   "regions": {
     "jp": 538,
-    "global": 109
+    "global": 110
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 125
+      "count": 126
     },
     {
       "id": "event",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f49f21df009d",
+      "url": "https://www.hollowknight.com/",
+      "host": "hollowknight.com",
+      "region": "global",
+      "title": "フォートナイト",
+      "headline": "『フォートナイト』が『ホロウナイト』とのコラボを発表。ベンチにちょこんと座っている『ホロウナイト』の主人公がかわいい",
+      "description": "『フォートナイト』が『ホロウナイト』とのコラボを発表。ベンチにちょこんと座っている『ホロウナイト』の主人公がかわいい",
+      "publishedAt": "2026-10-07T22:01:30.000Z",
+      "addedAt": "2026-10-07T22:30:16.631Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261008d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/606d159a953867291018f801/t/607644a317a5db468a16e70b/1618363560903/Team_Cherry_Logo_Big.png?format=1500w"
+    },
     {
       "id": "49db76af6998",
       "url": "https://bladeworkgames.firstlook.gg/signup/playtest",
