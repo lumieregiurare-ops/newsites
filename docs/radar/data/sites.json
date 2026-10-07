@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T03:00:15.833Z",
+  "updatedAt": "2026-10-07T03:30:16.179Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 629,
+  "total": 633,
   "regions": {
-    "jp": 523,
-    "global": 106
+    "jp": 526,
+    "global": 107
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 121
+      "count": 122
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 202
+      "count": 205
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 101
+      "count": 102
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 80
+      "count": 82
     },
     {
       "id": "mobile",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "AppBank",
-    "Game*Spark",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,120 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "23915ce00d37",
+      "url": "https://toba.tudura.com/",
+      "host": "toba.tudura.com",
+      "region": "jp",
+      "title": "トバリ喰らいと血の薬師",
+      "headline": "人を襲う魔物と薬師の歪な友情を描く探索ゲーム『トバリ喰らいと血の薬師』体験版がSteamで公開。アイテムの説明文ひとつひとつから世界の情景が浮かび上がる",
+      "description": "人を襲う魔物と薬師の歪な友情を描く探索ゲーム『トバリ喰らいと血の薬師』体験版がSteamで公開。アイテムの説明文ひとつひとつから世界の情景が浮かび上がる",
+      "publishedAt": "2026-10-07T03:28:09.000Z",
+      "addedAt": "2026-10-07T03:30:16.179Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261007p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "52f567918adb",
+      "url": "https://one-or-eight.co.jp/PIXELHERO/",
+      "host": "one-or-eight.co.jp",
+      "region": "jp",
+      "title": "ピクセルヒーロースクランブル プラス",
+      "headline": "ドット絵で描かれる60以上のユニットで大群を食い止めろ！ルート固定型TD『ピクセルヒーロースクランブル プラス』Steam体験版がリリース",
+      "description": "押し寄せるドットの波を個性豊かなユニットで迎え撃て！ 2026年12月1日（金）発売の『ピクセルヒーロースクランブル プラス』の公式サイトです。",
+      "publishedAt": "2026-10-07T03:05:08.000Z",
+      "addedAt": "2026-10-07T03:30:16.179Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/07/173274.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://one-or-eight.co.jp/PIXELHERO/assets/img/bg/kv_pc.png"
+    },
+    {
+      "id": "3a12d79deecd",
+      "url": "https://mw5mercs.com/",
+      "host": "mw5mercs.com",
+      "region": "global",
+      "title": "MechWarrior 5: Mercenaries",
+      "headline": "「MechWarrior 5: Mercenaries」，最新DLC「Ashes & Ascension」が本日配信。全18ミッションの大型キャンペーンを収録",
+      "description": "MechWarrior 5: Mercenaries",
+      "publishedAt": "2026-10-07T03:05:04.000Z",
+      "addedAt": "2026-10-07T03:30:16.179Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/443/G044306/20261007008/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "58d80cbff94a",
+      "url": "https://www.shopro.co.jp/anime/duelmasters_lost/",
+      "host": "shopro.co.jp",
+      "region": "jp",
+      "title": "デュエマ LOST",
+      "headline": "アニメ『デュエマ LOST』第4章「断罪の少年」が10月9日より配信、第1話のあらすじと場面カットが公開。罪を背負った主人公・ウィンの前に、“世界を変える”カードを持つ謎の少年・…",
+      "description": "「Duel Masters LOST」アニメ公式サイト",
+      "publishedAt": "2026-10-07T03:00:18.000Z",
+      "addedAt": "2026-10-07T03:30:16.179Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261007j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.shopro.co.jp/anime/duelmasters_lost/img/ogimage.png"
+    },
     {
       "id": "9c7973d215f4",
       "url": "https://freegameteamkomori.jimdofree.com/",
@@ -3632,7 +3746,7 @@
       "region": "jp",
       "title": "ソリティア世界旅行",
       "headline": "『ソリティア世界旅行』Android版が9月28日配信開始！ 日本と韓国の34都市を水彩画で巡る無料ソリティア",
-      "description": "Shunichi Kondoの「ソリティア世界旅行 - 旅するクロンダイク」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ソリティア世界旅行 - 旅するクロンダイク」に似たゲームを見…",
+      "description": "Shunichi Kondoの「ソリティア世界旅行 - 旅するクロンダイク・トランプ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ソリティア世界旅行 - 旅するクロンダイク・トラン…",
       "publishedAt": "2026-10-01T01:15:00.000Z",
       "addedAt": "2026-10-01T01:30:19.311Z",
       "source": "AppBank",
@@ -3656,7 +3770,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/cb/2d/abcb2d72-ddb4-07cb-d107-a67826dc377b/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/20/c0/3920c02d-bf44-a7c1-fc6c-acb9c99d9eda/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "17fa17f77ffe",
