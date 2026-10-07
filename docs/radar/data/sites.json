@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T07:30:19.123Z",
+  "updatedAt": "2026-10-07T08:00:16.355Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 635,
+  "total": 636,
   "regions": {
-    "jp": 528,
+    "jp": 529,
     "global": 107
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 103
+      "count": 104
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 83
+      "count": 84
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "825efa9c808d",
+      "url": "https://piku.page/@marihicoco/Mandrake",
+      "host": "piku.page",
+      "region": "jp",
+      "title": "マンドラゴラ心中",
+      "headline": "ふたりの少女の証言を“同時に読み進める”ノベルゲーム『マンドラゴラ心中』Steamストアページが公開。食い違う証言からひとつの心中事件の真相へ迫る",
+      "description": "ピクページで作成したホームページです",
+      "publishedAt": "2026-10-07T07:52:18.000Z",
+      "addedAt": "2026-10-07T08:00:16.355Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610072i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://homu.page/403f5c90-8f26-4aa9-b7bb-702d1d480f2b/page_preview_ogp-20b1fd28-df73-4d0a-9bb2-f1412c8abfea.png"
+    },
     {
       "id": "459558b2cd79",
       "url": "https://kroi.net/",
