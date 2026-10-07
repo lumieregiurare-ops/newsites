@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T13:30:19.482Z",
+  "updatedAt": "2026-10-07T14:00:18.613Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 644,
+  "total": 645,
   "regions": {
     "jp": 534,
-    "global": 110
+    "global": 111
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 207
+      "count": 208
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 41
+      "count": 42
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 140
+      "count": 141
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 187
+      "count": 188
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "80cba4a8cd60",
+      "url": "https://apps.apple.com/ph/app/id6740350229",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "モンスターハンターライズ",
+      "headline": "Netflix経由でモバイル版『モンスターハンターライズ』がリリース予定？iOS/Android版の海外ストアページも公開中―独自の回復ボタンも搭載との記載",
+      "description": "Download MONSTER HUNTER RISE NETFLIX by Netflix, Inc. on the App Store. See screenshots, ratings and reviews, user tips…",
+      "publishedAt": "2026-10-07T13:55:51.000Z",
+      "addedAt": "2026-10-07T14:00:18.613Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/07/173305.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/cc/b5/0accb5df-b8ca-ca76-8618-f3e47f96dd1a/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "79f0bd94e856",
       "url": "http://www.generalworks.com/wecker/weck.html",

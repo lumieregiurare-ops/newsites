@@ -1805,6 +1805,25 @@
     "華麗 無限城の死闘": {
       "at": "2026-10-06T23:00:29.942Z",
       "entry": null
+    },
+    "モンスターハンターライズ": {
+      "at": "2026-10-07T14:00:35.115Z",
+      "entry": {
+        "trackId": "6741251510",
+        "title": "スマスロ モンスターハンターライズ",
+        "artist": "CommSeed Corporation",
+        "genres": [
+          "シミュレーション",
+          "エンターテインメント",
+          "カジノ"
+        ],
+        "releaseDate": "2025-06-01T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6741251510",
+        "sellerUrl": "https://app.commseed.net/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2c/e1/962ce147-61d3-9267-47b0-ee679630debe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -25853,6 +25872,46 @@
       "sortKey": "2026-10-09",
       "prereg": false,
       "firstSeen": "2026-10-07T13:30:35.016Z"
+    },
+    "anurakdemo": {
+      "title": "Anurak Demo",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-07T14:00:34.700Z"
+    },
+    "enchantedblackjack": {
+      "title": "Enchanted Blackjack",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-07T14:00:34.700Z"
+    },
+    "tytodemo": {
+      "title": "Tyto Demo",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-07T14:00:34.700Z"
+    },
+    "you'llneverfindit!demo": {
+      "title": "You'll never find it! Demo",
+      "dateText": "2026年10月8日",
+      "date": "2026-10-08",
+      "sortKey": "2026-10-08",
+      "prereg": false,
+      "firstSeen": "2026-10-07T14:00:34.700Z"
+    },
+    "queen'sdomain": {
+      "title": "Queen's Domain",
+      "dateText": "2026年10月31日",
+      "date": "2026-10-31",
+      "sortKey": "2026-10-31",
+      "prereg": false,
+      "firstSeen": "2026-10-07T14:00:34.700Z"
     }
   },
   "changeLog": [
@@ -29822,6 +29881,18 @@
         "pc"
       ],
       "to": "2027年2月4日"
+    },
+    {
+      "at": "2026-10-07T14:00:34.700Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Queen's Domain",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000129934",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fc9bec4aca849171818c3a28b67251fbfb0f49e0cf05f708133c413837ae2d52.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月31日"
     }
   ],
   "initialized": true,
