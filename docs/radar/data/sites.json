@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-07T08:30:19.300Z",
+  "updatedAt": "2026-10-07T09:00:16.472Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 637,
+  "total": 638,
   "regions": {
     "jp": 530,
-    "global": 107
+    "global": 108
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 205
+      "count": 206
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 84
+      "count": 85
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "39d0a4580b2f",
+      "url": "https://geismgame.com/",
+      "host": "geismgame.com",
+      "region": "global",
+      "title": "愛と死と、私の娘",
+      "headline": "母親が遺した愛を“壊れた記憶”からたどるゲーム『愛と死と、私の娘』ピクセルアートのビジュアルがよすぎる。Steamにて体験版が公開",
+      "description": "独立游戏制作、东方 Project 二次创作与像素画记录。",
+      "publishedAt": "2026-10-07T08:33:07.000Z",
+      "addedAt": "2026-10-07T09:00:16.472Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610072q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a63b411d4f80",
       "url": "https://paselabo.pasela.co.jp/collaboration/8387/",
