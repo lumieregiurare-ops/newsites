@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T07:30:17.794Z",
+  "updatedAt": "2026-10-08T08:00:17.408Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 665,
+  "total": 666,
   "regions": {
-    "jp": 552,
+    "jp": 553,
     "global": 113
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 129
+      "count": 130
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 150
+      "count": 151
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 144
+      "count": 145
     },
     {
       "id": "official",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "GameBusiness.jp",
-    "Inside",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a5650105f581",
+      "url": "https://contents-abema.com/chiikawa-christmas-market/",
+      "host": "contents-abema.com",
+      "region": "jp",
+      "title": "ちいかわクリスマスマーケット",
+      "headline": "「ちいかわクリスマスマーケット」開催決定！スペシャル演出やフォトスポット、限定フード・グッズ販売から参加型ゲームまで盛り沢山",
+      "description": "ちいかわたちと過ごす、キラキラのクリスマス。2026年11月24日(火)～12月25日(金)、豊砂公園にて開催！限定グッズやフード、ゲームなど、心おどるマーケットをお楽しみください。",
+      "publishedAt": "2026-10-08T07:50:03.000Z",
+      "addedAt": "2026-10-08T08:00:17.408Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188955.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://contents-abema.com/chiikawa-christmas-market/ogp.png"
+    },
     {
       "id": "1c2582f200d0",
       "url": "https://www.eastasiasoft.com/games/Dead-of-Darkness-2",
