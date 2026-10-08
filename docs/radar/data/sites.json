@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T04:30:15.304Z",
+  "updatedAt": "2026-10-08T05:00:17.739Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 658,
+  "total": 659,
   "regions": {
-    "jp": 547,
+    "jp": 548,
     "global": 111
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 127
+      "count": 128
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 213
+      "count": 214
     },
     {
       "id": "indie",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a49301f83055",
+      "url": "https://www.arcsystemworks.jp/dtd/",
+      "host": "arcsystemworks.jp",
+      "region": "jp",
+      "title": "デイヴ・ザ・ダイバー COMPLETE EDITION",
+      "headline": "「デイヴ・ザ・ダイバー COMPLETE EDITION」本日発売。「DREDGE」「ゴジラ」コラボや最新コンテンツ「イン・ザ・ジャングル」を収録",
+      "description": "昼は海に潜って魚を捕り、夜は寿司屋を運営しよう!",
+      "publishedAt": "2026-10-08T04:53:04.000Z",
+      "addedAt": "2026-10-08T05:00:17.739Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/029/G102906/20261008018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.arcsystemworks.jp/dtd/assets/img/ogp.png"
+    },
     {
       "id": "9215166ec233",
       "url": "https://once-upon-a.katamaridamacy.jp/",
