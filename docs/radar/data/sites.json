@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T09:30:18.851Z",
+  "updatedAt": "2026-10-08T10:00:21.094Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 667,
+  "total": 668,
   "regions": {
     "jp": 554,
-    "global": 113
+    "global": 114
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 151
+      "count": 152
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "de45928d0010",
+      "url": "https://ideg.gg/",
+      "host": "ideg.gg",
+      "region": "global",
+      "title": "ゲーム",
+      "headline": "陸上自衛隊が各国と「ゲーム」で競い合う―英国国防省の主催する“軍関係者向けeスポーツ大会”開催、サイバー技能向上と交流目的に",
+      "description": "International Defence Esports Games, IDEG builds a bridge between defence readiness and the fast-paced world of competi…",
+      "publishedAt": "2026-10-08T09:50:02.000Z",
+      "addedAt": "2026-10-08T10:00:21.094Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188965.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ideg.gg/wp-content/uploads/2025/11/IDEG-LOGO.png"
+    },
     {
       "id": "31bf5f0b95c0",
       "url": "https://www.votoms-gh.com/",
