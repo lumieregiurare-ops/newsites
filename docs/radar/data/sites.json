@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T13:00:20.571Z",
+  "updatedAt": "2026-10-08T13:30:19.631Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 671,
+  "total": 672,
   "regions": {
-    "jp": 557,
+    "jp": 558,
     "global": 114
   },
   "categories": [
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 21
+      "count": 22
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 147
+      "count": 148
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 194
+      "count": 195
     },
     {
       "id": "browser",
@@ -2800,6 +2800,40 @@
       ],
       "points": null,
       "image": "https://static.wixstatic.com/media/a9144a_8ceb3c5c24d8467c84d90d9478969130~mv2.png/v1/fill/w_1200,h_630,al_c/a9144a_8ceb3c5c24d8467c84d90d9478969130~mv2.png"
+    },
+    {
+      "id": "a1037624b089",
+      "url": "http://noicekit.com/",
+      "host": "noicekit.com",
+      "region": "jp",
+      "title": "森のかき氷屋さん　甘雪",
+      "headline": "Sasaki Keisuke / エンターテインメント・トリビア · App Store 新着",
+      "description": "サウナ大好き個人ゲーム開発者",
+      "publishedAt": "2026-10-04T07:00:00.000Z",
+      "addedAt": "2026-10-08T13:30:19.631Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6802154813"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "トリビア"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://noicekit.com/wp-content/themes/cocoon-master/screenshot.jpg"
     },
     {
       "id": "a00be7a9d0d4",
