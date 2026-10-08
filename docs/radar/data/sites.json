@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T01:00:16.229Z",
+  "updatedAt": "2026-10-08T01:30:17.738Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 650,
+  "total": 652,
   "regions": {
-    "jp": 540,
+    "jp": 542,
     "global": 110
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 209
+      "count": 210
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 142
+      "count": 143
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 189
+      "count": 190
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "App Store",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5e7f6cbbe3d1",
+      "url": "https://www.takaratomy.co.jp/products/nijisanji-7colors/",
+      "host": "takaratomy.co.jp",
+      "region": "jp",
+      "title": "NIJISANJI 7 Colors Card Game",
+      "headline": "にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』12月26日発売決定！月ノ美兎や葛葉らスターターデッキ4種、ブースターパックも登場",
+      "description": "にじさんじ公式トレーディングカードゲーム「NIJISANJI 7 Colors Card Game」の公式サイトです。最新情報やストーリー、商品情報はこちらからご覧ください。",
+      "publishedAt": "2026-10-08T01:15:03.000Z",
+      "addedAt": "2026-10-08T01:30:17.738Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188918.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.takaratomy.co.jp/products/nijisanji-7colors/common/images/og.jpg"
+    },
     {
       "id": "b009e6ac2475",
       "url": "https://bokutotsurinikki.imgs.jp/",
@@ -9814,6 +9841,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/23/188162.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G100858/20261007014/"
         }
       ],
       "tags": [
@@ -10495,6 +10526,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/02/40/8c024030-aa5d-3eb9-1537-3272b918a467/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "4a97eaea26d6",
+      "url": "https://apps.apple.com/jp/app/id6769318336",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ピクセル放置RPG：俺の絵だけ解像度がおかしい",
+      "headline": "ANTIC TECNOLOGY LIMITED / アクション・シミュレーション · App Store 新着",
+      "description": "ANTIC TECNOLOGY LIMITEDの「ピクセル放置RPG：俺の絵だけ解像度がおかしい」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ピクセル放置RPG：俺の絵だけ解像度が…",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "addedAt": "2026-10-08T01:30:17.738Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6769318336"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/17/55/5a175567-c222-9d90-5bad-7e0f2a2b29da/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "d843e9a099c6",
@@ -14604,6 +14668,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/015/G101558/20260916054/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/08/173323.html"
         }
       ],
       "tags": [

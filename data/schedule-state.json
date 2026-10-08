@@ -1664,7 +1664,7 @@
       "entry": null
     },
     "ラストオリジン": {
-      "at": "2026-10-05T01:00:33.770Z",
+      "at": "2026-10-08T01:30:33.288Z",
       "entry": {
         "trackId": "1469855842",
         "title": "ラストオリジン",
@@ -20709,9 +20709,9 @@
     },
     "bunkerandfriends": {
       "title": "Bunker and Friends",
-      "dateText": "2026年10月1日",
-      "date": "2026-10-01",
-      "sortKey": "2026-10-01",
+      "dateText": "2026年10月9日",
+      "date": "2026-10-09",
+      "sortKey": "2026-10-09",
       "prereg": false,
       "firstSeen": "2026-09-30T16:00:45.730Z"
     },
@@ -26752,6 +26752,22 @@
       "sortKey": "2026-10-14",
       "prereg": false,
       "firstSeen": "2026-10-08T01:00:25.733Z"
+    },
+    "くりののんびり農園": {
+      "title": "くりののんびり農園",
+      "dateText": "2026年10月9日",
+      "date": "2026-10-09",
+      "sortKey": "2026-10-09",
+      "prereg": false,
+      "firstSeen": "2026-10-08T01:30:32.966Z"
+    },
+    "nijisanji7colorscardgame": {
+      "title": "NIJISANJI 7 Colors Card Game",
+      "dateText": "2026年12月26日",
+      "date": "2026-12-26",
+      "sortKey": "2026-12-26",
+      "prereg": false,
+      "firstSeen": "2026-10-08T01:30:32.966Z"
     }
   },
   "changeLog": [
@@ -31201,6 +31217,16 @@
         "switch2"
       ],
       "to": "2026年10月28日"
+    },
+    {
+      "at": "2026-10-08T01:30:32.966Z",
+      "type": "new",
+      "label": "新規",
+      "title": "NIJISANJI 7 Colors Card Game",
+      "url": "https://www.takaratomy.co.jp/products/nijisanji-7colors/",
+      "image": "https://www.takaratomy.co.jp/products/nijisanji-7colors/common/images/og.jpg",
+      "platforms": [],
+      "to": "2026年12月26日"
     }
   ],
   "initialized": true,
