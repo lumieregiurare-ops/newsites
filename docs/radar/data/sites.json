@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T01:30:17.738Z",
+  "updatedAt": "2026-10-08T02:00:17.536Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 652,
+  "total": 653,
   "regions": {
-    "jp": 542,
+    "jp": 543,
     "global": 110
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 126
+      "count": 127
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 146
+      "count": 147
     },
     {
       "id": "release",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "Inside",
     "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "AppBank",
-    "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "dd9f16251833",
+      "url": "https://www.viture.jp/",
+      "host": "viture.jp",
+      "region": "jp",
+      "title": "Beast",
+      "headline": "VITUREのXRグラス3機種が最大22%オフ―フラッグシップ「Beast」も初のセール対象、10月13日より開催",
+      "description": "Making the parallel possible...",
+      "publishedAt": "2026-10-08T01:59:22.000Z",
+      "addedAt": "2026-10-08T02:00:17.536Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/08/28254.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.viture.jp/opengraph-image?376fa9d8052ebb8e"
+    },
     {
       "id": "5e7f6cbbe3d1",
       "url": "https://www.takaratomy.co.jp/products/nijisanji-7colors/",
@@ -284,6 +312,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/07/173305.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188923.html"
         }
       ],
       "tags": [
