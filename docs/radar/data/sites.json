@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T10:00:21.094Z",
+  "updatedAt": "2026-10-08T10:30:16.141Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 668,
+  "total": 671,
   "regions": {
-    "jp": 554,
+    "jp": 557,
     "global": 114
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 42
+      "count": 43
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 145
+      "count": 147
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 110
+      "count": 111
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 192
+      "count": 194
     },
     {
       "id": "browser",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "Game*Spark",
+    "App Store",
     "4Gamer",
     "AppBank",
     "GameBusiness.jp",
-    "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "325b26a0d43e",
+      "url": "https://sakura-taisen.com/",
+      "host": "sakura-taisen.com",
+      "region": "jp",
+      "title": "サクラ大戦",
+      "headline": "『サクラ大戦』OVAシリーズの オープニング・エンディング集が期間限定で公開。「檄! 帝国華撃団」「花咲く乙女」「檄！帝国華撃団（改）」「夢のつづき」の4曲をひとつなぎにしたスペ…",
+      "description": "サクラ大戦シリーズの最新情報やシリーズ公式サイトなど、「サクラ大戦」の公式ポータルサイト",
+      "publishedAt": "2026-10-08T10:19:59.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610082r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sakura-taisen.com/assets/images/ogimg/ogimg.jpg"
+    },
     {
       "id": "de45928d0010",
       "url": "https://ideg.gg/",
@@ -241,6 +268,73 @@
       "platforms": [],
       "points": null,
       "image": "https://www.eastasiasoft.com/images/Dead-of-Darkness-2_thumb.jpg"
+    },
+    {
+      "id": "d23b3966de3d",
+      "url": "https://apps.apple.com/jp/app/id6784473841",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "神楽姫絵巻～美少女育成放置RPG",
+      "headline": "GameCC / アドベンチャー・ロールプレイング · App Store 新着",
+      "description": "GameCCの「神楽姫絵巻～美少女育成放置RPG」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「神楽姫絵巻～美少女育成放置RPG」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6784473841"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/42/7c/4d427c1f-fe15-7f28-6058-83010d4894fe/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "cb29b237b8de",
+      "url": "https://www.kemco.jp/game/undermirage/ja/",
+      "host": "kemco.jp",
+      "region": "jp",
+      "title": "RPG アンダーミラージュ",
+      "headline": "Kotobuki Solution Co., Ltd. / アクション・ロールプレイング · App Store 新着",
+      "description": "生きる意味を見つけるための物語が、今はじまる…！",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6796588483"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.kemco.jp/game/undermirage/ja/img/share_thumb.png"
     },
     {
       "id": "f87208f27b69",

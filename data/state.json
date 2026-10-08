@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "325b26a0d43e",
+      "url": "https://sakura-taisen.com/",
+      "host": "sakura-taisen.com",
+      "region": "jp",
+      "title": "サクラ大戦",
+      "headline": "『サクラ大戦』OVAシリーズの オープニング・エンディング集が期間限定で公開。「檄! 帝国華撃団」「花咲く乙女」「檄！帝国華撃団（改）」「夢のつづき」の4曲をひとつなぎにしたスペシャルMIX",
+      "description": "サクラ大戦シリーズの最新情報やシリーズ公式サイトなど、「サクラ大戦」の公式ポータルサイト",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-08T10:19:59.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610082r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://sakura-taisen.com/assets/images/ogimg/ogimg.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-08T10:30:16.141Z",
+      "ogFetchedAt": "2026-10-08T10:30:16.141Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "de45928d0010",
       "url": "https://ideg.gg/",
       "host": "ideg.gg",
@@ -79,13 +121,13 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 2,
-      "checkedAt": "2026-10-08T10:00:21.094Z",
+      "metaAttempts": 3,
+      "checkedAt": "2026-10-08T10:30:16.141Z",
       "metaError": "HTTP 404",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-10-08T09:30:18.851Z",
-        "count": 2
+        "count": 3
       },
       "platforms": [
         "mobile"
@@ -218,6 +260,89 @@
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
+    },
+    {
+      "id": "d23b3966de3d",
+      "url": "https://apps.apple.com/jp/app/id6784473841",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "神楽姫絵巻～美少女育成放置RPG",
+      "headline": "GameCC / アドベンチャー・ロールプレイング · App Store 新着",
+      "description": "GameCCの「神楽姫絵巻～美少女育成放置RPG」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「神楽姫絵巻～美少女育成放置RPG」に似たゲームを見ることなどができます。",
+      "article": null,
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "App Store",
+      "sourceKind": "launch",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6784473841"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "phCategories": [],
+      "categories": [
+        "goods"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/42/7c/4d427c1f-fe15-7f28-6058-83010d4894fe/Placeholder.mill/1200x630wa.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-08T10:30:16.141Z",
+      "ogFetchedAt": "2026-10-08T10:30:16.141Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "mobile"
+      ]
+    },
+    {
+      "id": "cb29b237b8de",
+      "url": "https://www.kemco.jp/game/undermirage/ja/",
+      "host": "kemco.jp",
+      "region": "jp",
+      "title": "RPG アンダーミラージュ",
+      "headline": "Kotobuki Solution Co., Ltd. / アクション・ロールプレイング · App Store 新着",
+      "description": "生きる意味を見つけるための物語が、今はじまる…！",
+      "article": null,
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "addedAt": "2026-10-08T10:30:16.141Z",
+      "source": "App Store",
+      "sourceKind": "launch",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6796588483"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "ロールプレイング"
+      ],
+      "phCategories": [],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "points": null,
+      "image": "https://www.kemco.jp/game/undermirage/ja/img/share_thumb.png",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-08T10:30:16.141Z",
+      "ogFetchedAt": "2026-10-08T10:30:16.141Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "mobile"
+      ]
     },
     {
       "id": "f87208f27b69",
