@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T03:00:15.769Z",
+  "updatedAt": "2026-10-08T03:30:51.159Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 654,
+  "total": 657,
   "regions": {
-    "jp": 543,
+    "jp": 546,
     "global": 111
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 68
+      "count": 69
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 147
+      "count": 148
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 211
+      "count": 212
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 108
+      "count": 109
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 190
+      "count": 191
     },
     {
       "id": "browser",
@@ -121,17 +121,119 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "GameBusiness.jp",
     "Inside",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
-    "AppBank",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6a3adb06810d",
+      "url": "https://play.google.com/store/apps/details?id=jp.snaplace.moerunabuzzre",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "燃えるなバズれ",
+      "headline": "炎上させずにフォロワーを増やせ！ SNSシミュレーション『燃えるなバズれ』配信開始、10月7日よりiOS/Android向け",
+      "description": "フォロワー12人から320万人へ。365日、燃えずに",
+      "publishedAt": "2026-10-08T03:10:00.000Z",
+      "addedAt": "2026-10-08T03:30:51.159Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/08/game/3125351.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/GOELwGKZGv5saOT9l6rEpbm418BxkXCItb-YrhAuWRHnqDlGL79hYFB9y8ns75t2If0moR8vuqvUwWiDtOowg-4=s0-br30"
+    },
+    {
+      "id": "62ca65962b5f",
+      "url": "https://dcd.aikatsu.com/encore/",
+      "host": "dcd.aikatsu.com",
+      "region": "jp",
+      "title": "アイカツ！アンコール",
+      "headline": "「アイカツ！アンコール」，本日稼働開始。これまでのシリーズに登場してきたアイドルやドレス，楽曲の魅力を受け継いだ最新作",
+      "description": "データカードダス「アイカツ！アンコール」の公式サイト 最新情報をまとめてチェック♪アイカツ！カードでトップアイドルを目指しちゃおう！",
+      "publishedAt": "2026-10-08T03:03:58.000Z",
+      "addedAt": "2026-10-08T03:30:51.159Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/003/G100393/20261008003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://dcd.aikatsu.com/encore/ogp.webp"
+    },
+    {
+      "id": "ec0df3c431d8",
+      "url": "https://weplayexpo.jp/",
+      "host": "weplayexpo.jp",
+      "region": "jp",
+      "title": "WePlay Expo JAPAN 2027",
+      "headline": "ゲームとゲームカルチャーの祭典「WePlay Expo JAPAN 2027」，2027年4月2日〜4日に幕張メッセで開催決定",
+      "description": "つくる、遊ぶ、集まる、つながる。2027年4月2日（金）〜4日（日）／幕張メッセ ホール5・6",
+      "publishedAt": "2026-10-08T03:00:00.000Z",
+      "addedAt": "2026-10-08T03:30:51.159Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261007046/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/08/173328.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/08/188933.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/08/28256.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610082h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://weplayexpo.jp/assets/images/ogp.jpg?v=20260930c"
+    },
     {
       "id": "bf4951fb60b2",
       "url": "https://assettocorsa.gg/assetto-corsa-evo/",
@@ -1447,7 +1549,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639262738135271803"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639269818287499221"
     },
     {
       "id": "ec747cc06a3c",
@@ -7665,7 +7767,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/8f/3d/0d8f3df2-d5a0-95e0-042e-7e5b159beefc/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/a4/ab/11a4ab6a-bf23-31fa-c156-6d1d6d7396e9/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "51c2d3d9a129",
@@ -18380,6 +18482,10 @@
         {
           "name": "SANKOU!",
           "url": "https://sankoudesign.com/web/moominmm/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261008k"
         }
       ],
       "tags": [
@@ -18978,9 +19084,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "campaign"
       ],
       "platforms": [
