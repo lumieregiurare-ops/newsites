@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T19:00:20.734Z",
+  "updatedAt": "2026-10-08T19:30:23.772Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 676,
+  "total": 677,
   "regions": {
     "jp": 559,
-    "global": 117
+    "global": 118
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 43
+      "count": 44
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 148
+      "count": 149
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 195
+      "count": 196
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "App Store",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "App Store",
     "4Gamer",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "216f672523c6",
+      "url": "https://beastsevolved2-sea.ntfusion.com/",
+      "host": "beastsevolved2-sea.ntfusion.com",
+      "region": "global",
+      "title": "超進化物語2",
+      "headline": "Guangzhou Anteng Information Technology Co., Ltd. / アドベンチャー・ストラテジー · App Store 新着",
+      "description": "Guangzhou Anteng Information Technology Co., Ltd. / アドベンチャー・ストラテジー · App Store 新着",
+      "publishedAt": "2026-10-08T19:30:29.127Z",
+      "addedAt": "2026-10-08T19:30:23.772Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6742139163"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "ddb6503bbc35",
       "url": "https://www.aftergodsgame.com/",
