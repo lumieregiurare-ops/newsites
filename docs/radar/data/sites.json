@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-08T16:30:23.721Z",
+  "updatedAt": "2026-10-08T17:00:31.618Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 675,
+  "total": 676,
   "regions": {
-    "jp": 558,
+    "jp": 559,
     "global": 117
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 27
+      "count": 28
     },
     {
       "id": "prereg",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ddb6503bbc35",
+      "url": "https://www.aftergodsgame.com/",
+      "host": "aftergodsgame.com",
+      "region": "jp",
+      "title": "Tribes of Midgard",
+      "headline": "『Tribes of Midgard』開発元新作『Aftergods』発表！ラグナロクを生き延びた神となる見下ろし型“サバイバライト”ARPG【Triple-i Initiati…",
+      "description": "『Tribes of Midgard』開発元新作『Aftergods』発表！ラグナロクを生き延びた神となる見下ろし型“サバイバライト”ARPG【Triple-i Initiative Showcase】",
+      "publishedAt": "2026-10-08T16:38:57.000Z",
+      "addedAt": "2026-10-08T17:00:31.618Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173390.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "229bc82571cc",
       "url": "https://playwindrose.com/",
@@ -19714,6 +19741,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/635/G063598/20260909031/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173393.html"
         }
       ],
       "tags": [
