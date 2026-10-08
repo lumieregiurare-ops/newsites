@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T09:00:16.913Z",
+  "updatedAt": "2026-10-08T09:30:18.851Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 666,
+  "total": 667,
   "regions": {
-    "jp": 553,
+    "jp": 554,
     "global": 113
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 216
+      "count": 217
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "31bf5f0b95c0",
+      "url": "https://www.votoms-gh.com/",
+      "host": "votoms-gh.com",
+      "region": "jp",
+      "title": "装甲騎兵ボトムズ 灰色の魔女",
+      "headline": "押井守監督の最新作『装甲騎兵ボトムズ 灰色の魔女』を一冊まるごと特集したサブカルチャー雑誌CONTINUEが11月19日に発売！舞台裏から『ボトムス』シリーズの歴史まで80ページ…",
+      "description": "押井守監督 最新作『装甲騎兵ボトムズ 灰色の魔女』2026年11月20日公開",
+      "publishedAt": "2026-10-08T09:00:41.000Z",
+      "addedAt": "2026-10-08T09:30:18.851Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610082x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://votoms-gh.com/assets/img/ogp_0821.png"
+    },
     {
       "id": "a5650105f581",
       "url": "https://contents-abema.com/chiikawa-christmas-market/",
@@ -5095,7 +5122,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uisT5vBDr4ke-YjONqXc6E5hhGO9dwmaQkpD4slOV1Tz52Jex-HJjKwg2qeX1H3JUmLloije8zdTPVoJ33LuSfEs-rAy7aAfx91t3j4gEw5K49zFXqNCDhp5a2RLBmAt8s60dNcLGmoPJKnW7kA2_1BLRDm1C6Mv25kIAub0DoOFeaCpY3xaAdo27dDFk=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sjZI5WXqz3jIhtV4hV-_JSameUsakerCNDayrgrnbkq_I8JKNW09odvoxTVUOsPy1Hy14siUfTuqAHlt6mO2_cE7dka7woJMLnv6322pU2NoxIovxRU3YbZ1PBKbPIxSBxJnXhvfPx2ZY1pyfgkI5MvLA1RhRmTWeNikZacUnUJXNd6iOc9PrMBrbJC7Q=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
