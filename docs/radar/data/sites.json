@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T05:30:19.471Z",
+  "updatedAt": "2026-10-08T06:00:17.317Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 661,
+  "total": 663,
   "regions": {
-    "jp": 549,
+    "jp": 551,
     "global": 112
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 78
+      "count": 79
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 215
+      "count": 216
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 86
+      "count": 87
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "GameBusiness.jp",
     "Inside",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f87208f27b69",
+      "url": "https://amata.games/game/sno/",
+      "host": "amata.games",
+      "region": "jp",
+      "title": "SN&#216;: Ultimate Freeriding",
+      "headline": "スキーゲーム「SN&#216;: Ultimate Freeriding」，コンシューマ版が10月29日に発売決定。無限に自動生成される雪山を滑り降りる",
+      "description": "SNØ: Ultimate Freeridingは、無限に広がる雪山を滑走する、シンプルなデザインで滑走の気持ちよさを追求したダウンヒルスキーゲームです。",
+      "publishedAt": "2026-10-08T05:50:00.000Z",
+      "addedAt": "2026-10-08T06:00:17.317Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/048/G104861/20261008020/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://amata.games/wp-content/uploads/2026/10/471ad68f09e3ba8b50e2c075cad248bf.png"
+    },
+    {
+      "id": "da6036ad3cb5",
+      "url": "http://www.microsoft.com/surface/ja-jp",
+      "host": "microsoft.com",
+      "region": "jp",
+      "title": "RTX Spark",
+      "headline": "ついに来た！ NVIDIA独自SoC「RTX Spark」を搭載するノートPC「Surface Laptop Ultra」の予約受付をMicrosoftが開始",
+      "description": "Microsoft Surface をご覧ください。パフォーマンス、柔軟性、携帯性、そして毎日の生産性向上を実現するように設計されたプレミアムな Windows ノート PC、デスクトップ PC、そして 2 in 1 タブレット PC か…",
+      "publishedAt": "2026-10-08T05:40:24.000Z",
+      "addedAt": "2026-10-08T06:00:17.317Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/237/G023732/20261008023/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://images.ctfassets.net/jy9s7k22hbg4/bPyR4d56RSSOiaVbkcwg3/e979ebcb5da20ab19c5df6964b96adff/COM_100_Heo_Desktop_Poster__1_.jpg"
+    },
     {
       "id": "f5b75431a253",
       "url": "https://3coins-campaign.jp/kurasushi",
