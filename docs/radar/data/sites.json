@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T23:00:18.187Z",
+  "updatedAt": "2026-10-08T23:30:21.718Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 677,
+  "total": 678,
   "regions": {
     "jp": 558,
-    "global": 119
+    "global": 120
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 111
+      "count": 112
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "41c14c0c6d16",
+      "url": "https://www.suckerpunch.com/",
+      "host": "suckerpunch.com",
+      "region": "global",
+      "title": "ゴースト・オブ・ツシマ",
+      "headline": "『ゴースト・オブ・ツシマ』のアニメ『冥人奇譚』の公開が2027年から2028年に変更へ。新キャストとして佐古真弓さん、ふくまつ進紗さんが発表",
+      "description": "『ゴースト・オブ・ツシマ』のアニメ『冥人奇譚』の公開が2027年から2028年に変更へ。新キャストとして佐古真弓さん、ふくまつ進紗さんが発表",
+      "publishedAt": "2026-10-08T23:00:06.000Z",
+      "addedAt": "2026-10-08T23:30:21.718Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "216f672523c6",
       "url": "https://beastsevolved2-sea.ntfusion.com/",
