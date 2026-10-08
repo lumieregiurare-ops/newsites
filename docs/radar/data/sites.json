@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T16:00:21.095Z",
+  "updatedAt": "2026-10-08T16:30:23.721Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 672,
+  "total": 675,
   "regions": {
     "jp": 558,
-    "global": 114
+    "global": 117
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 217
+      "count": 220
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "Game*Spark",
     "App Store",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,87 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "229bc82571cc",
+      "url": "https://playwindrose.com/",
+      "host": "playwindrose.com",
+      "region": "global",
+      "title": "ウィンドローズ",
+      "headline": "海賊サバクラ『ウィンドローズ』初の大型アプデ「Ashlands」今冬に配信決定！新バイオームや新ボスなどやってくる【Triple-i Initiative Showcase】",
+      "description": "Windrose is an open-world pirate survival game: explore procedural islands, build your base and ship, craft gear and fi…",
+      "publishedAt": "2026-10-08T16:18:15.000Z",
+      "addedAt": "2026-10-08T16:30:23.721Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173381.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://playwindrose.com/images/og-default.jpg"
+    },
+    {
+      "id": "337345f2d7f7",
+      "url": "https://www.innersloth.com/games/among-us-story/",
+      "host": "innersloth.com",
+      "region": "global",
+      "title": "Among Us",
+      "headline": "『Among Us』の完全新作ゲーム『Among Us Story: On Guard』2027年2月17日に発売決定。殺人事件が発生した船内で自身の無実を証明し”インポスター”…",
+      "description": "Live life as a Crewmate in this dangerous narrative adventure through space. As Guard, you're in charge of shipwide sec…",
+      "publishedAt": "2026-10-08T16:04:59.000Z",
+      "addedAt": "2026-10-08T16:30:23.721Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261009a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.innersloth.com/wp-content/uploads/2026/04/Asset-30.png"
+    },
+    {
+      "id": "1b401cba6198",
+      "url": "http://amongusstory.com/",
+      "host": "amongusstory.com",
+      "region": "global",
+      "title": "アモアス",
+      "headline": "『アモアス』1人用の探偵ADV『Among Us Story: On Guard』2027年2月17日発売決定―自分はインポスターじゃないので無実を証明【Triple-i Ini…",
+      "description": "Live life as a Crewmate in this dangerous narrative adventure through space. As Guard, you're in charge of shipwide sec…",
+      "publishedAt": "2026-10-08T16:04:34.000Z",
+      "addedAt": "2026-10-08T16:30:23.721Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173374.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.innersloth.com/wp-content/uploads/2026/04/Asset-30.png"
+    },
     {
       "id": "325b26a0d43e",
       "url": "https://sakura-taisen.com/",
@@ -13692,7 +13773,7 @@
       "region": "jp",
       "title": "GTA6",
       "headline": "『GTA6』サウンドトラックがゲームと同日リリース決定！うち6曲の先行配信も開始",
-      "description": "今後登場する34トラックの公式サウンドトラックアルバムから、6曲のシングルを聴こう。只今プリセーブとプレオーダー受付中。",
+      "description": "レオナイダの放送メディアから厳選されたラジオ局や、『Grand Theft Auto VI: The Album』のシングルなどを視聴しよう。",
       "publishedAt": "2026-09-17T15:57:50.000Z",
       "addedAt": "2026-09-17T23:48:36.427Z",
       "source": "Game*Spark",
@@ -13711,7 +13792,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg"
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg"
     },
     {
       "id": "fabd6a1df6f3",
@@ -20646,7 +20727,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/suikoden/star_leap/s/images/sns_suikoden_starleap3_ja.jpg?v=56"
+      "image": "https://www.konami.com/games/suikoden/star_leap/s/images/sns_suikoden_starleap3_ja.jpg?v=57"
     },
     {
       "id": "d97c8f1c2cbb",

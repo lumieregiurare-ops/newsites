@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:00:23.259Z",
+  "updatedAt": "2026-10-08T16:30:25.473Z",
   "boards": [
     {
       "id": "steam",
@@ -189,53 +189,53 @@
         },
         {
           "rank": 4,
-          "title": "マーラッシュ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/29/a2/0a29a274-60af-5e94-adee-bbab6daf8fe2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/id6792188317",
-          "metric": "kodai koga",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
           "title": "神楽姫絵巻～美少女育成放置RPG",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/65/3c/36653c3b-efba-6a66-7f8a-ead8833ee1d8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E7%A5%9E%E6%A5%BD%E5%A7%AB%E7%B5%B5%E5%B7%BB-%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E6%94%BE%E7%BD%AErpg/id6784473841",
           "metric": "GameCC",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "マーラッシュ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/29/a2/0a29a274-60af-5e94-adee-bbab6daf8fe2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%BC%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5/id6792188317",
+          "metric": "kodai koga",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 6,
-          "title": "TOY BLOX トイブロックス-トリマ公式ブロックパズル",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/7b/6a/a47b6aa1-1f73-3eff-9a63-849d282cbaf5/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/toy-blox-%E3%83%88%E3%82%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%88%E3%83%AA%E3%83%9E%E5%85%AC%E5%BC%8F%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB/id6789060737",
-          "metric": "GeoTechnologies, Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 7,
           "title": "Bus Fever Party!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/38/0d/c0380d6a-4cf2-72cc-339f-2389554a8823/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-fever-party/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 7,
+          "title": "TOY BLOX トイブロックス-トリマ公式ブロックパズル",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/7b/6a/a47b6aa1-1f73-3eff-9a63-849d282cbaf5/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/toy-blox-%E3%83%88%E3%82%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%88%E3%83%AA%E3%83%9E%E5%85%AC%E5%BC%8F%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB/id6789060737",
+          "metric": "GeoTechnologies, Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
