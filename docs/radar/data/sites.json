@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T07:00:15.687Z",
+  "updatedAt": "2026-10-08T07:30:17.794Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 664,
+  "total": 665,
   "regions": {
     "jp": 552,
-    "global": 112
+    "global": 113
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 109
+      "count": 110
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "GameBusiness.jp",
     "Inside",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1c2582f200d0",
+      "url": "https://www.eastasiasoft.com/games/Dead-of-Darkness-2",
+      "host": "eastasiasoft.com",
+      "region": "global",
+      "title": "Dead of Darkness 2",
+      "headline": "“非常に好評”2Dサバイバルホラー続編『Dead of Darkness 2』発表！恐怖に満ちた悪夢へと巻き込まれていく……",
+      "description": "Dead of Darkness 2 - Some secrets are best left buried in Goldren Creek",
+      "publishedAt": "2026-10-08T07:15:02.000Z",
+      "addedAt": "2026-10-08T07:30:17.794Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/08/173343.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.eastasiasoft.com/images/Dead-of-Darkness-2_thumb.jpg"
+    },
     {
       "id": "f87208f27b69",
       "url": "https://amata.games/game/sno/",
