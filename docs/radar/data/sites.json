@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T05:00:17.427Z",
+  "updatedAt": "2026-10-09T05:30:17.125Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 686,
+  "total": 687,
   "regions": {
     "jp": 564,
-    "global": 122
+    "global": 123
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 112
+      "count": 113
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "App Store",
     "電ファミニコゲーマー",
+    "App Store",
     "Game*Spark",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f9737c8a4371",
+      "url": "https://www.anthropic.com/",
+      "host": "anthropic.com",
+      "region": "global",
+      "title": "Claude",
+      "headline": "チャットAI「Claude」への“不必要な虐待行為”が禁止に、利用ポリシーの改定が発表。繰り返し目的もなく残酷な言動を続ける極端なケースが対象で、正統な不満や反論、創作、研究など…",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI system…",
+      "publishedAt": "2026-10-09T05:11:45.000Z",
+      "addedAt": "2026-10-09T05:30:17.125Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg"
+    },
     {
       "id": "3264fd5bdd4d",
       "url": "https://harekore.main.jp/",
