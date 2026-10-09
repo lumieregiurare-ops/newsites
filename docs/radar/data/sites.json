@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T10:30:18.316Z",
+  "updatedAt": "2026-10-09T11:00:16.315Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 701,
+  "total": 702,
   "regions": {
     "jp": 576,
-    "global": 125
+    "global": 126
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 114
+      "count": 115
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 92
+      "count": 93
     },
     {
       "id": "mobile",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Inside",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "07bfe23f36db",
+      "url": "https://hungryhorrorsgame.com/",
+      "host": "hungryhorrorsgame.com",
+      "region": "global",
+      "title": "ハングリー・ホラーズ",
+      "headline": "Steamレビュー98%好評の料理×デッキ構築ローグライトADV『ハングリー・ホラーズ』10月13日に正式版配信！倒すのではなく満腹にさせる",
+      "description": "Embark on a culinary adventure in Hungry Horrors, a roguelite deck-building game set in the mythical British Isles. Coo…",
+      "publishedAt": "2026-10-09T11:00:03.000Z",
+      "addedAt": "2026-10-09T11:00:16.315Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173440.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://hungryhorrorsgame.com/icons/hungry_horrors-art.jpg"
+    },
     {
       "id": "3318e7cc1420",
       "url": "https://vaultbreakers.com/en",
