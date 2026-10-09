@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T13:30:20.700Z",
+  "updatedAt": "2026-10-09T13:58:57.166Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 705,
+  "total": 706,
   "regions": {
     "jp": 578,
-    "global": 127
+    "global": 128
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 115
+      "count": 116
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "05655921cdca",
+      "url": "https://pixomnia.studio/",
+      "host": "pixomnia.studio",
+      "region": "global",
+      "title": "Airsoft Online",
+      "headline": "プラスチック製BB弾の弾道を再現！サバゲーFPS『Airsoft Online』オープンベータ実施中",
+      "description": "プラスチック製BB弾の弾道を再現！サバゲーFPS『Airsoft Online』オープンベータ実施中",
+      "publishedAt": "2026-10-09T13:45:02.000Z",
+      "addedAt": "2026-10-09T13:58:57.166Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173448.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d810eb446050",
       "url": "https://forever-ago.com/",
