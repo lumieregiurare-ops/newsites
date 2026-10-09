@@ -1656,7 +1656,7 @@
       }
     },
     "アズールレーン": {
-      "at": "2026-10-06T10:00:29.406Z",
+      "at": "2026-10-09T10:00:37.012Z",
       "entry": {
         "trackId": "1242186587",
         "title": "アズールレーン",
@@ -1896,6 +1896,10 @@
     },
     "グラブル": {
       "at": "2026-10-09T09:30:31.261Z",
+      "entry": null
+    },
+    "異世界のんびり農家 ドリーミーライフ": {
+      "at": "2026-10-09T10:00:35.570Z",
       "entry": null
     }
   },
@@ -28646,6 +28650,51 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-09T09:30:31.023Z"
+    },
+    "onemorevoyagedemo": {
+      "title": "One More Voyage Demo",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
+    },
+    "onemorewave": {
+      "title": "One More Wave",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
+    },
+    "theextractorsdemo": {
+      "title": "The Extractors Demo",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
+    },
+    "tintoriademo": {
+      "title": "Tintoria Demo",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
+    },
+    "這遺虚配信-ruinstreaming-demo": {
+      "title": "這遺虚配信 -Ruin Streaming- Demo",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
+    },
+    "異世界のんびり農家ドリーミーライフ": {
+      "title": "異世界のんびり農家 ドリーミーライフ",
+      "prereg": true,
+      "firstSeen": "2026-10-09T10:00:35.399Z"
     }
   },
   "changeLog": [
@@ -33208,6 +33257,18 @@
       "image": "https://bexide.co.jp/wp-content/uploads/2025/10/BeXide_Cover.png",
       "platforms": [],
       "to": "2026年10月16日"
+    },
+    {
+      "at": "2026-10-09T10:00:35.399Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "異世界のんびり農家 ドリーミーライフ",
+      "url": "https://g123.jp/game/nouka?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/266f50a2ac551f9bb788a06631fe7af43aaf28b54b922e7641984cce.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

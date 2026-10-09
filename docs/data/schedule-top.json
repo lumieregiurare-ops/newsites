@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:30:31.023Z",
+  "updatedAt": "2026-10-09T10:00:35.399Z",
   "platforms": [
     {
       "id": "switch",
@@ -263,6 +263,26 @@
   ],
   "prereg": [
     {
+      "id": "ce916eb57277",
+      "title": "異世界のんびり農家 ドリーミーライフ",
+      "url": "https://g123.jp/game/nouka?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/266f50a2ac551f9bb788a06631fe7af43aaf28b54b922e7641984cce.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-09T09:54:53.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「異世界のんびり農家 ドリーミーライフ」，事前登録者数が10万件を突破",
+      "description": "人気TVアニメ「異世界のんびり農家」のオリジナルゲームがG123で登場",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/939/G093966/20261009034/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "ff3873d08404",
       "title": "ホロライブ麻雀 -ホロじゃん-",
       "url": "https://www.holo-jong.com/",
@@ -423,33 +443,21 @@
         "releaseDate": "2026-11-30T08:00:00Z"
       },
       "trackId": "6775757720"
-    },
-    {
-      "id": "bef08c8ce4db",
-      "title": "FingerLaserX",
-      "url": "https://apps.apple.com/jp/app/id6474999801",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/43/e8/6d43e851-f3ca-5166-9c4c-a79c9f229105/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-01T06:00:00.000Z",
-      "releaseText": "2026年10月20日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『FingerLaserX』10月20日配信決定！ 原作者が14年ぶりにフルリメイクした防衛シューティング",
-      "description": "WeiTing Wengの「FingerLaserX」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「FingerLaserX」に似たゲームを見ることなどができます。",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/01/game/3119348.php",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6474999801",
-        "preorder": true,
-        "releaseDate": "2026-10-20T07:00:00Z"
-      },
-      "trackId": "6474999801"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-09T10:00:35.399Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "異世界のんびり農家 ドリーミーライフ",
+      "url": "https://g123.jp/game/nouka?lang=ja",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/266f50a2ac551f9bb788a06631fe7af43aaf28b54b922e7641984cce.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-09T09:00:27.805Z",
       "type": "new",
@@ -507,18 +515,6 @@
         "ps"
       ],
       "to": "2027年1月26日"
-    },
-    {
-      "at": "2026-10-08T18:00:32.590Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ワルツとジャム",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000126598",
-      "image": "https://img-eshop.cdn.nintendo.net/i/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
     }
   ]
 }
