@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "1b3cc750e6aa",
+      "url": "https://www.layton.jp/jouki/",
+      "host": "layton.jp",
+      "region": "jp",
+      "title": "レイトン教授と蒸気の新世界",
+      "headline": "「レイトン教授と蒸気の新世界」，パッケージ版の早期購入特典・ダウンロード版の予約特典は「シリーズサウンドセレクション」",
+      "description": "レイトンとルークが新たな舞台でナゾトキ",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-09T06:36:33.000Z",
+      "addedAt": "2026-10-09T07:00:17.965Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/998/G099824/20261009021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://www.layton.jp/jouki/assets/img/shared/ogp.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "c848ea52a63a",
       "url": "https://endfield.gryphline.com/ja-jp/landing/globalbranding",
       "host": "endfield.gryphline.com",
@@ -199,6 +241,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/049/G104900/20261009013/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/09/189018.html"
         }
       ],
       "tags": [
@@ -2323,8 +2369,8 @@
       "points": null,
       "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19c757861ae-c9de0436-02f3-4477-9f1b-1c52f09108bd",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "platforms": [
         "pc"
@@ -3423,13 +3469,13 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 5,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
+      "metaAttempts": 6,
+      "checkedAt": "2026-10-09T07:00:17.965Z",
       "metaError": "HTTP 404",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-10-06T05:00:17.330Z",
-        "count": 5
+        "count": 6
       },
       "platforms": []
     },
@@ -5119,10 +5165,11 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
       "ogFetchedAt": "2026-10-08T06:30:51.408Z",
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "metaError": "ETIMEDOUT fetch failed"
     },
     {
       "id": "0c701bf7987b",
@@ -5160,8 +5207,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "regionDetected": true,
       "platforms": [
         "pc"
@@ -6144,8 +6191,8 @@
       "points": null,
       "image": "https://puyo-puyo-trainer.jp/wp-content/themes/puyotrai/assets/og-image.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -6190,12 +6237,11 @@
       "points": null,
       "image": "https://www.nijisanji.jp/ogp.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-07T06:00:19.395Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": [],
-      "metaError": "This operation was aborted"
+      "platforms": []
     },
     {
       "id": "7c124c5de88a",
@@ -7581,8 +7627,8 @@
       "points": null,
       "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=36",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -8782,8 +8828,8 @@
       "points": null,
       "image": "https://lo3al.bn-ent.net/ogp.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -10338,8 +10384,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -10653,8 +10699,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "regionDetected": true,
       "platforms": []
     },
@@ -10694,8 +10740,8 @@
       "points": null,
       "image": "https://www.seafarergame.com/img/preview/seafarer.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -10739,8 +10785,8 @@
       "points": null,
       "image": "https://galleria.net/assets/img/common/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -10791,7 +10837,7 @@
       "points": null,
       "image": "https://key.visualarts.gr.jp/summer_ss/common/image/og.webp",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
       "ogFetchedAt": "2026-10-06T06:00:19.062Z",
       "ogDescription": true,
       "regionDetected": true,
@@ -10846,8 +10892,8 @@
       "points": null,
       "image": "https://genshin-cafe.jp/ogp.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -12593,8 +12639,8 @@
       "points": null,
       "image": "https://www.shochiku.co.jp/dvd/returntosilenthillmovie/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -14694,11 +14740,11 @@
       "points": null,
       "image": "https://static1.squarespace.com/static/65509d18544df93addf7c341/t/680a89de4bbb2150bb9ced1c/1745521118647/Sagas+Of+Lumin+-+Logo+Landscape-min.png?format=1500w",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [],
-      "checkedAt": "2026-10-08T06:30:51.408Z"
+      "checkedAt": "2026-10-09T07:00:17.965Z"
     },
     {
       "id": "f6158e9bee2e",
@@ -14746,12 +14792,12 @@
         "release"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10082026",
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10092026",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "regionDetected": true,
       "platforms": [],
-      "checkedAt": "2026-10-08T06:30:51.408Z"
+      "checkedAt": "2026-10-09T07:00:17.965Z"
     },
     {
       "id": "33c0ff2f4868",
@@ -29212,8 +29258,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/59/ef/6259ef04-4a61-978a-8761-578c71cfd266/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T07:00:15.687Z",
-      "ogFetchedAt": "2026-10-08T07:00:15.687Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -29868,8 +29914,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/94/bd/7e94bde5-c477-ebcb-7970-9d8082a72e9c/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-08T06:30:51.408Z",
-      "ogFetchedAt": "2026-10-08T06:30:51.408Z",
+      "checkedAt": "2026-10-09T07:00:17.965Z",
+      "ogFetchedAt": "2026-10-09T07:00:17.965Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
