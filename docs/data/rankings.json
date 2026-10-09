@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:00:18.619Z",
+  "updatedAt": "2026-10-09T22:30:20.019Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "神楽姫絵巻～美少女育成放置RPG",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/65/3c/36653c3b-efba-6a66-7f8a-ead8833ee1d8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E7%A5%9E%E6%A5%BD%E5%A7%AB%E7%B5%B5%E5%B7%BB-%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E6%94%BE%E7%BD%AErpg/id6784473841",
-          "metric": "GameCC",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "マビノギモバイル",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/1f/e4/5f1fe486-2d98-8633-ae4f-bd4cb4339b93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
           "metric": "NEXON Co., Ltd.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "神楽姫絵巻～美少女育成放置RPG",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/65/3c/36653c3b-efba-6a66-7f8a-ead8833ee1d8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E7%A5%9E%E6%A5%BD%E5%A7%AB%E7%B5%B5%E5%B7%BB-%E7%BE%8E%E5%B0%91%E5%A5%B3%E8%82%B2%E6%88%90%E6%94%BE%E7%BD%AErpg/id6784473841",
+          "metric": "GameCC",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
