@@ -4180,9 +4180,9 @@
     },
     "castlevania:belmont'scurse": {
       "title": "Castlevania: Belmont's Curse",
-      "dateText": "2026年10月14日",
-      "date": "2026-10-14",
-      "sortKey": "2026-10-14",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -4228,9 +4228,9 @@
     },
     "thewitch'sbakery": {
       "title": "The Witch's Bakery",
-      "dateText": "2026年10月14日",
-      "date": "2026-10-14",
-      "sortKey": "2026-10-14",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -4340,9 +4340,9 @@
     },
     "callofduty®:modernwarfare®4": {
       "title": "Call of Duty®: Modern Warfare® 4",
-      "dateText": "2026年10月22日",
-      "date": "2026-10-22",
-      "sortKey": "2026-10-22",
+      "dateText": "2026年10月17日",
+      "date": "2026-10-17",
+      "sortKey": "2026-10-17",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -26002,9 +26002,9 @@
     },
     "queen'sdomain": {
       "title": "Queen's Domain",
-      "dateText": "2026年10月30日",
-      "date": "2026-10-30",
-      "sortKey": "2026-10-30",
+      "dateText": "2026年10月31日",
+      "date": "2026-10-31",
+      "sortKey": "2026-10-31",
       "prereg": false,
       "firstSeen": "2026-10-07T14:00:34.700Z"
     },
@@ -29417,6 +29417,14 @@
       "sortKey": "2026-10-13",
       "prereg": false,
       "firstSeen": "2026-10-09T19:00:39.562Z"
+    },
+    "atmosfar": {
+      "title": "ATMOSFAR",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-09T19:28:27.361Z"
     }
   },
   "changeLog": [
@@ -34015,6 +34023,19 @@
         "switch"
       ],
       "to": "2026年10月14日"
+    },
+    {
+      "at": "2026-10-09T19:28:27.361Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000074493",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年10月22日",
+      "to": "2026年10月17日"
     }
   ],
   "initialized": true,

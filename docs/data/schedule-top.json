@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:00:39.562Z",
+  "updatedAt": "2026-10-09T19:28:27.361Z",
   "platforms": [
     {
       "id": "switch",
@@ -447,6 +447,31 @@
   ],
   "changes": [
     {
+      "at": "2026-10-09T19:28:27.361Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000074493",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年10月22日",
+      "to": "2026年10月17日"
+    },
+    {
+      "at": "2026-10-09T18:00:40.000Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ソニックレーシング クロスワールド：アバター伝説 パック",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000057336",
+      "image": "https://img-eshop.cdn.nintendo.net/i/63ede9223186610fd3fec21cd3b4e740a338387d3fab5b4cecc40095073c9810.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年10月14日"
+    },
+    {
       "at": "2026-10-09T15:00:36.786Z",
       "type": "new",
       "label": "新規",
@@ -489,32 +514,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年10月16日"
-    },
-    {
-      "at": "2026-10-09T04:30:30.071Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ホロライブ麻雀 -ホロじゃん-",
-      "url": "https://www.holo-jong.com/",
-      "image": "https://www.holo-jong.com/wp-content/themes/officialsite/images/common/ogp.jpg",
-      "platforms": [
-        "pc",
-        "mobile",
-        "browser"
-      ],
-      "to": "App Store 2026年12月11日"
-    },
-    {
-      "at": "2026-10-09T04:00:31.622Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Forza Horizon 6",
-      "url": "https://forza.net/",
-      "image": "https://cdn.forza.net/strapi-uploads/assets/Forza_Horizon_6_3840x2160_Hori_Final_ac7b0063ff.jpg",
-      "platforms": [
-        "ps"
-      ],
-      "to": "2027年1月26日"
     }
   ]
 }
