@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T12:30:18.719Z",
+  "updatedAt": "2026-10-09T13:00:20.666Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 704,
+  "total": 705,
   "regions": {
     "jp": 578,
-    "global": 126
+    "global": 127
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 233
+      "count": 234
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d810eb446050",
+      "url": "https://forever-ago.com/",
+      "host": "forever-ago.com",
+      "region": "global",
+      "title": "Forever Ago",
+      "headline": "1人の老人がミニバンで思い出の地を旅するナラティブADV「Forever Ago」，配信開始",
+      "description": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption. In this single-player roa…",
+      "publishedAt": "2026-10-09T12:45:45.000Z",
+      "addedAt": "2026-10-09T13:00:20.666Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/993/G099381/20261009054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://forever-ago.com/assets/img/forever-ago/meta-image.jpg"
+    },
     {
       "id": "36b4206f90cf",
       "url": "https://www.gamecity.ne.jp/nobunaga_hadou/",
