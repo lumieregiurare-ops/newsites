@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T06:00:53.364Z",
+  "updatedAt": "2026-10-09T06:30:15.656Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 687,
+  "total": 689,
   "regions": {
-    "jp": 564,
+    "jp": 566,
     "global": 123
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 71
+      "count": 72
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 153
+      "count": 154
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 225
+      "count": 226
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 88
+      "count": 89
     },
     {
       "id": "mobile",
@@ -121,17 +121,75 @@
     }
   ],
   "sources": [
+    "Inside",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
-    "Game*Spark",
     "4Gamer",
     "AppBank",
-    "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c848ea52a63a",
+      "url": "https://endfield.gryphline.com/ja-jp/landing/globalbranding",
+      "host": "endfield.gryphline.com",
+      "region": "jp",
+      "title": "アークナイツ：エンドフィールド",
+      "headline": "『アークナイツ：エンドフィールド』1周年記念イベントが幕張メッセで開催決定！",
+      "description": "「アークナイツ：エンドフィールド」はHypergryphが贈る3Dリアルタイム戦略RPG。",
+      "publishedAt": "2026-10-09T06:15:03.000Z",
+      "addedAt": "2026-10-09T06:30:15.656Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/09/189016.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/share-oversea.6f430b84.jpg"
+    },
+    {
+      "id": "567458f7a0cf",
+      "url": "https://www.dragonsdogma.com/ja-jp/",
+      "host": "dragonsdogma.com",
+      "region": "jp",
+      "title": "ドラゴンズドグマ 2：ダークアリズン",
+      "headline": "『ドラゴンズドグマ 2：ダークアリズン』発売！新たな極北の地でハクスラ入りオープンワールドアクションを堪能できる―待望の拡張、メタスコアはPC版86点と高評価",
+      "description": "ドラゴンズドグマシリーズの最新情報をお知らせします。",
+      "publishedAt": "2026-10-09T06:00:04.000Z",
+      "addedAt": "2026-10-09T06:30:15.656Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173420.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.dragonsdogma.com/assets/images/share.png"
+    },
     {
       "id": "f9737c8a4371",
       "url": "https://www.anthropic.com/",
