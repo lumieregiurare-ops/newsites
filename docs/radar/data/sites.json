@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T07:00:17.965Z",
+  "updatedAt": "2026-10-09T07:30:17.164Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 690,
+  "total": 691,
   "regions": {
-    "jp": 567,
+    "jp": 568,
     "global": 123
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 226
+      "count": 227
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9a64fd9597e4",
+      "url": "https://www.nishikawa-store.com/pages/lp-pokemon",
+      "host": "nishikawa-store.com",
+      "region": "jp",
+      "title": "ポケスリ",
+      "headline": "『ポケスリ』毎日を心地よく過ごせる新作寝具が10月16日順次発売！ブランケットやギガ枕EX、着る毛布など全19アイテム",
+      "description": "Pok&eacute;mon Sleep × SHOWA NISHIKAWA 2026秋冬新商品登場",
+      "publishedAt": "2026-10-09T07:30:03.000Z",
+      "addedAt": "2026-10-09T07:30:17.164Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/09/189022.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1b3cc750e6aa",
       "url": "https://www.layton.jp/jouki/",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T07:00:39.547Z",
+  "updatedAt": "2026-10-09T07:30:31.611Z",
   "platforms": [
     {
       "id": "switch",
@@ -133,6 +133,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/2610082j"
     },
     {
+      "id": "cfa6f4af8f43",
+      "title": "ポケスリ",
+      "date": "2026-10-16",
+      "dateText": "2026年10月16日",
+      "sortKey": "2026-10-16",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.nishikawa-store.com/pages/lp-pokemon",
+      "image": "",
+      "maker": "",
+      "headline": "『ポケスリ』毎日を心地よく過ごせる新作寝具が10月16日順次発売！ブランケットやギガ枕EX、着る毛布など全19アイテム",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/09/189022.html"
+    },
+    {
       "id": "8e4299f9488e",
       "title": "FingerLaserX",
       "date": "2026-10-20",
@@ -244,21 +259,6 @@
       "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
-    },
-    {
-      "id": "65bdf586c863",
-      "title": "GUNDAM ASSEMBLE",
-      "date": "2026-10-31",
-      "dateText": "2026年10月31日",
-      "sortKey": "2026-10-31",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://bandai-hobby.net/site/gundam-assemble/",
-      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg",
-      "maker": "",
-      "headline": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/987/G098756/20261002049/"
     }
   ],
   "prereg": [
@@ -451,6 +451,16 @@
   ],
   "changes": [
     {
+      "at": "2026-10-09T07:30:31.611Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケスリ",
+      "url": "https://www.nishikawa-store.com/pages/lp-pokemon",
+      "image": "",
+      "platforms": [],
+      "to": "2026年10月16日"
+    },
+    {
       "at": "2026-10-09T07:00:39.547Z",
       "type": "new",
       "label": "新規",
@@ -512,16 +522,6 @@
         "switch"
       ],
       "to": "2026年10月16日"
-    },
-    {
-      "at": "2026-10-08T06:00:38.346Z",
-      "type": "new",
-      "label": "新規",
-      "title": "SN&#216;: Ultimate Freeriding",
-      "url": "https://amata.games/game/sno/",
-      "image": "https://amata.games/wp-content/uploads/2026/10/471ad68f09e3ba8b50e2c075cad248bf.png",
-      "platforms": [],
-      "to": "2026年10月29日"
     }
   ]
 }
