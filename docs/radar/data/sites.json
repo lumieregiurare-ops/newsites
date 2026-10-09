@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T15:30:18.811Z",
+  "updatedAt": "2026-10-09T16:00:19.674Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 707,
+  "total": 708,
   "regions": {
-    "jp": 579,
+    "jp": 580,
     "global": 128
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 73
+      "count": 74
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 134
+      "count": 135
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 202
+      "count": 203
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "83ca37abbd75",
+      "url": "https://www.knivesout.jp/",
+      "host": "knivesout.jp",
+      "region": "jp",
+      "title": "荒野行動",
+      "headline": "「荒野行動」×「ドン・キホーテ」コラボが本日スタート。巨大ンペンとの記念撮影でアイテムが手に入るチャンス",
+      "description": "セイバー金枠衣装＆最大50連ガチャを無料GET!!",
+      "publishedAt": "2026-10-09T15:57:13.000Z",
+      "addedAt": "2026-10-09T16:00:19.674Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/402/G040245/20261010002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.knivesout.jp/pc/gw/20200928100611/data/share20260930.png"
+    },
     {
       "id": "ccb832f40b75",
       "url": "https://campaign.gendagigo.jp/2610/trickcal/",
