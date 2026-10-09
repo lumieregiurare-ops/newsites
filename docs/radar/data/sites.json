@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T07:30:17.164Z",
+  "updatedAt": "2026-10-09T08:00:20.190Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 691,
+  "total": 693,
   "regions": {
-    "jp": 568,
+    "jp": 570,
     "global": 123
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 154
+      "count": 155
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 227
+      "count": 228
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 89
+      "count": 90
     },
     {
       "id": "mobile",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "arcade",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "Inside",
-    "4Gamer",
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "Inside",
+    "Game*Spark",
     "App Store",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "42a809cbede4",
+      "url": "https://tamagotchi-official.com/jp/cho-tama-festival/",
+      "host": "tamagotchi-official.com",
+      "region": "jp",
+      "title": "たまごっち",
+      "headline": "「たまごっち」は3000年前から存在していた⁉ “謎の石碑”などを展示する「超たまごっち祭」が11月7日より原宿・渋谷で開催決定",
+      "description": "ディスクリプションが入ります。ディスクリプションが入ります。",
+      "publishedAt": "2026-10-09T07:58:36.000Z",
+      "addedAt": "2026-10-09T08:00:20.190Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tamagotchi-official.com/jp/images/official/ogp_portal.jpg?v2"
+    },
+    {
+      "id": "ccd6ac2c372a",
+      "url": "https://repray-signals.tetherea.com/",
+      "host": "repray-signals.tetherea.com",
+      "region": "jp",
+      "title": "リプライ・シグナルズ - Echoes Still Wait",
+      "headline": "囚われた子どもたちと会話して，彼らの脱出を助ける対話ADV「リプライ・シグナルズ - Echoes Still Wait」，体験版をSteamで公開",
+      "description": "閉ざされた世界にいる子どもとチャットして、脱出を助ける、対話式アドベンチャー。ブラウザ体験版を期間限定で公開中。",
+      "publishedAt": "2026-10-09T07:43:43.000Z",
+      "addedAt": "2026-10-09T08:00:20.190Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104912/20261009025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://repray-signals.tetherea.com/v2/assets/ogp.jpg?v=20260928"
+    },
     {
       "id": "9a64fd9597e4",
       "url": "https://www.nishikawa-store.com/pages/lp-pokemon",
