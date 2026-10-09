@@ -697,7 +697,7 @@
       "entry": null
     },
     "Triple": {
-      "at": "2026-10-06T04:00:43.735Z",
+      "at": "2026-10-09T04:30:33.121Z",
       "entry": {
         "trackId": "1572661625",
         "title": "Triple Tile: トリプルタイルパズル合わせゲーム",
@@ -1757,7 +1757,7 @@
       "entry": null
     },
     "それはマナー違反ですよ！": {
-      "at": "2026-10-06T04:00:42.175Z",
+      "at": "2026-10-09T04:30:31.572Z",
       "entry": {
         "trackId": "6807328098",
         "title": "それはマナー違反ですよ！",
@@ -1874,6 +1874,23 @@
         "storeUrl": "https://apps.apple.com/jp/app/id6807807615",
         "sellerUrl": "https://snaplace-corp.jp/fungame/#why",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fe/53/f1fe5379-c946-0bb1-6de8-50be298355b7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "ホロライブ麻雀": {
+      "at": "2026-10-09T04:30:30.246Z",
+      "entry": {
+        "trackId": "6762111285",
+        "title": "ホロライブ麻雀 -ホロじゃん-",
+        "artist": "Aiming Inc.",
+        "genres": [
+          "ボード"
+        ],
+        "releaseDate": "2026-12-11T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6762111285",
+        "sellerUrl": "https://www.holo-jong.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/20/f3/3820f3cd-8252-76b5-1a68-720f761ea861/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -28364,6 +28381,11 @@
       "sortKey": "2027-01-26",
       "prereg": false,
       "firstSeen": "2026-10-09T04:00:31.622Z"
+    },
+    "ホロライブ麻雀-ホロじゃん-": {
+      "title": "ホロライブ麻雀 -ホロじゃん-",
+      "prereg": true,
+      "firstSeen": "2026-10-09T04:30:30.071Z"
     }
   },
   "changeLog": [
@@ -32880,6 +32902,20 @@
         "ps"
       ],
       "to": "2027年1月26日"
+    },
+    {
+      "at": "2026-10-09T04:30:30.071Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ホロライブ麻雀 -ホロじゃん-",
+      "url": "https://www.holo-jong.com/",
+      "image": "https://www.holo-jong.com/wp-content/themes/officialsite/images/common/ogp.jpg",
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "to": "2026年12月11日"
     }
   ],
   "initialized": true,

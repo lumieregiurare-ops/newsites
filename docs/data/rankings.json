@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T04:00:17.348Z",
+  "updatedAt": "2026-10-09T04:30:18.006Z",
   "boards": [
     {
       "id": "steam",
@@ -150,27 +150,27 @@
       "items": [
         {
           "rank": 1,
-          "title": "マビノギモバイル",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/1f/e4/5f1fe486-2d98-8633-ae4f-bd4cb4339b93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
-          "metric": "NEXON Co., Ltd.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 2,
           "title": "Meowdoku!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/a7/d8/a9a7d82f-a5e0-096f-c30c-98f54ff1e75f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 2,
+          "title": "マビノギモバイル",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/1f/e4/5f1fe486-2d98-8633-ae4f-bd4cb4339b93/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
+          "metric": "NEXON Co., Ltd.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
@@ -254,27 +254,27 @@
         },
         {
           "rank": 9,
-          "title": "ちいかわぽけっと",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/0e/3abf0e35-0100-ccf5-a179-ece165474567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
-          "metric": "Applibot Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "トップロード",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/29/0a/10290a6d-2cc2-7e76-ec58-fe6ec7318e76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "ちいかわぽけっと",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/bf/0e/3abf0e35-0100-ccf5-a179-ece165474567/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%81%BD%E3%81%91%E3%81%A3%E3%81%A8/id6596745408",
+          "metric": "Applibot Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         }

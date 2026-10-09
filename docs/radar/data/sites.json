@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T04:00:15.541Z",
+  "updatedAt": "2026-10-09T04:30:15.749Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 684,
+  "total": 686,
   "regions": {
-    "jp": 562,
+    "jp": 564,
     "global": 122
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 79
+      "count": 80
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 152
+      "count": 153
     },
     {
       "id": "release",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 7
+      "count": 8
     },
     {
       "id": "company",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 149
+      "count": 150
     },
     {
       "id": "official",
@@ -97,17 +97,17 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 87
+      "count": 88
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 197
+      "count": 199
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "arcade",
@@ -121,17 +121,84 @@
     }
   ],
   "sources": [
+    "App Store",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
-    "App Store",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3264fd5bdd4d",
+      "url": "https://harekore.main.jp/",
+      "host": "harekore.main.jp",
+      "region": "jp",
+      "title": "脱出ゲーム 華金を楽しみたい",
+      "headline": "Shiro Miyahara / トリビア・エンターテインメント · App Store 新着",
+      "description": "Shiro Miyahara / トリビア・エンターテインメント · App Store 新着",
+      "publishedAt": "2026-10-09T04:30:21.970Z",
+      "addedAt": "2026-10-09T04:30:15.749Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6812830268"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "トリビア",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ff3873d08404",
+      "url": "https://www.holo-jong.com/",
+      "host": "holo-jong.com",
+      "region": "jp",
+      "title": "ホロライブ麻雀 -ホロじゃん-",
+      "headline": "『ホロライブ麻雀 -ホロじゃん-』発表、白上フブキさんや宝鐘マリンさんなどが参戦するオンライン麻雀ゲーム。録りおろしボイスやオリジナルストーリーなど“推しと楽しむ麻雀”",
+      "description": "『ホロライブ麻雀-ホロじゃん-』で今度の推し活は、麻雀だ！スマホアプリ・PC・ブラウザで遊べるマルチプラットフォーム麻雀ゲーム。環境を選ばずどこからでも推しタレントとオンライン対戦を楽しもう！",
+      "publishedAt": "2026-10-09T04:18:40.000Z",
+      "addedAt": "2026-10-09T04:30:15.749Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092h"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "browser"
+      ],
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://www.holo-jong.com/wp-content/themes/officialsite/images/common/ogp.jpg"
+    },
     {
       "id": "90ee254c4b06",
       "url": "https://forza.net/",
@@ -10675,7 +10742,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/05/c8/5805c88a-1615-fe19-07ab-a451dbafbf48/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/89/b2/5089b28b-abac-e55c-15d4-f42f614e7bbc/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0efac8c9e009",
