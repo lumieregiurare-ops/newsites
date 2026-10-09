@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-09T09:00:16.827Z",
+  "updatedAt": "2026-10-09T09:30:16.223Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 696,
+  "total": 699,
   "regions": {
-    "jp": 573,
-    "global": 123
+    "jp": 575,
+    "global": 124
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 28
+      "count": 29
     },
     {
       "id": "prereg",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 132
+      "count": 133
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 230
+      "count": 232
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 23
+      "count": 24
     },
     {
       "id": "goods",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 90
+      "count": 91
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 200
+      "count": 201
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "Inside",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,95 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2d86475fabfa",
+      "url": "https://www.tallboysgames.com/",
+      "host": "tallboysgames.com",
+      "region": "global",
+      "title": "Militsioner",
+      "headline": "巨人警官に監視されながら街を探索し，多彩な手段で脱出を目指す。ステルスADV「Militsioner」，第1幕をまるごと遊べる体験版が一般公開に",
+      "description": "TALLBOYS is a video game developer. Our games Pandemic Express and Where the clouds end. Right now we",
+      "publishedAt": "2026-10-09T09:27:16.000Z",
+      "addedAt": "2026-10-09T09:30:16.223Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/760/G076023/20261009032/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/a291db_4395368281a34b108b721cd550265209~mv2.png/v1/fill/w_673,h_531,al_c/a291db_4395368281a34b108b721cd550265209~mv2.png"
+    },
+    {
+      "id": "67e1ad078649",
+      "url": "https://satori-chu2.com/",
+      "host": "satori-chu2.com",
+      "region": "jp",
+      "title": "さとり中二病相談室 -第二現実の翻訳者-",
+      "headline": "「さとり中二病相談室 -第二現実の翻訳者-」，早期アクセス版をSteamでリリース。中二病の来訪者が抱える本当の気持ちを読み解こう",
+      "description": "「第二現実」を翻訳せよ。君の前に現れる、理解不能な「来訪者」たち。対話・読心・翻訳で隠された真意を読み解く。――その先に待つ「救い」とは。「笑い話」で終わらせない、中二病の本音に触れる共感型心理ミステリーADV。",
+      "publishedAt": "2026-10-09T09:17:21.000Z",
+      "addedAt": "2026-10-09T09:30:16.223Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/982/G098251/20261009028/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://satori-chu2.com/assets/ogp.jpg"
+    },
+    {
+      "id": "8fe0582a0219",
+      "url": "https://fes.granbluefantasy.jp/",
+      "host": "fes.granbluefantasy.jp",
+      "region": "jp",
+      "title": "グラブル",
+      "headline": "『グラブル』サンダルフォンとシナモロールのペアが良すぎる。「サンリオ」とのコラボイラストが初公開",
+      "description": "『グラブル』サンダルフォンとシナモロールのペアが良すぎる。「サンリオ」とのコラボイラストが初公開",
+      "publishedAt": "2026-10-09T09:00:18.000Z",
+      "addedAt": "2026-10-09T09:30:16.223Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092x"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "teaser",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1e62f22eef04",
       "url": "https://bexide.co.jp/",
