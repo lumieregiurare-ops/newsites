@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T08:30:18.060Z",
+  "updatedAt": "2026-10-09T09:00:16.827Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 693,
+  "total": 696,
   "regions": {
-    "jp": 570,
+    "jp": 573,
     "global": 123
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 130
+      "count": 132
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 155
+      "count": 156
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 228
+      "count": 230
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 45
+      "count": 46
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 150
+      "count": 152
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 199
+      "count": 200
     },
     {
       "id": "browser",
@@ -122,16 +122,107 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "Inside",
     "Game*Spark",
     "App Store",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1e62f22eef04",
+      "url": "https://bexide.co.jp/",
+      "host": "bexide.co.jp",
+      "region": "jp",
+      "title": "Cat and Paste!",
+      "headline": "【最大16人】物を“コピペ”して化けるネコのかくれんぼゲーム『Cat and Paste!』がリリース決定。10月16日からオープンプレイテストを実施",
+      "description": "東京・立川にある株式会社ビサイド Bexide .Inc の公式サイトです。開発ゲーム・アプリや関連グッズ、採用情報をお知らせします。",
+      "publishedAt": "2026-10-09T09:00:06.000Z",
+      "addedAt": "2026-10-09T09:00:16.827Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610092f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company",
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://bexide.co.jp/wp-content/uploads/2025/10/BeXide_Cover.png"
+    },
+    {
+      "id": "3262d29aa0fd",
+      "url": "https://kodanshabunko.com/gofungoni/",
+      "host": "kodanshabunko.com",
+      "region": "jp",
+      "title": "５分後に意外な結末　ベスト・セレクション",
+      "headline": "【299円】書籍『５分後に意外な結末 ベスト・セレクション』が55%オフの299円で購入できる日替わりセールが開催中。累計525万部突破の大人気シリーズ",
+      "description": "全編、意外な結末！ 感動、ブラックユーモア、名作…… あらゆるジャンルの 20本の読み切りショート・ショート＋ 19本の超ショート・ショート",
+      "publishedAt": "2026-10-09T08:45:24.000Z",
+      "addedAt": "2026-10-09T09:00:16.827Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610093a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "023c0770c97e",
+      "url": "https://apps.apple.com/jp/app/id6759962259",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "デイヴ・ザ・ダイバー",
+      "headline": "『デイヴ・ザ・ダイバー』×『サブノーティカ 2』コラボDLCが2027年初頭に配信！ 最終DLCは無料拡張パック",
+      "description": "Mintrocketの「デイヴ・ザ・ダイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「デイヴ・ザ・ダイバー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-09T08:45:00.000Z",
+      "addedAt": "2026-10-09T09:00:16.827Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/09/game/3126454.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/38/30/163830c9-d448-3fc8-ced9-f498879cb748/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "42a809cbede4",
       "url": "https://tamagotchi-official.com/jp/cho-tama-festival/",
