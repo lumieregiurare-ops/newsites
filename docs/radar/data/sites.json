@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T00:00:17.243Z",
+  "updatedAt": "2026-10-09T00:30:17.721Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 678,
+  "total": 680,
   "regions": {
-    "jp": 558,
+    "jp": 560,
     "global": 120
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 220
+      "count": 221
     },
     {
       "id": "indie",
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 44
+      "count": 45
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 22
+      "count": 23
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
-    "Game*Spark",
     "Inside",
     "4Gamer",
     "AppBank",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "95336eef7462",
+      "url": "https://www.d3p.co.jp/garupan/",
+      "host": "d3p.co.jp",
+      "region": "jp",
+      "title": "ガールズ＆パンツァー オールスター・タンク・カーニバル",
+      "headline": "新作「ガルパン」家庭用ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』2027年発売へ！『ドリームタンクマッチ』スタッフ新作は戦車から降りて大洗を探索できる",
+      "description": "「ガールズ&パンツァー オールスター・タンク・カーニバル」公式サイト",
+      "publishedAt": "2026-10-09T00:25:38.000Z",
+      "addedAt": "2026-10-09T00:30:17.721Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173403.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.d3p.co.jp/garupan/images/img.jpg"
+    },
+    {
+      "id": "79469b0a81e0",
+      "url": "https://pbz.s-game.com/ja-JP/",
+      "host": "pbz.s-game.com",
+      "region": "jp",
+      "title": "Phantom Blade Zero",
+      "headline": "期待の新作剣戟ACT『Phantom Blade Zero』を約6時間先行プレイ！“攻めるほど気持ちいい”高速剣戟と、寄り道したくなる武侠世界",
+      "description": "S-Gameが自社開発・パブリッシングで提供する、Unreal Engine 5を採用した暗黒武侠アクションアドベンチャー。 プレイヤーは心臓に深刻な傷を負った剣客に扮する。残りわずか66日の命で、刃飛び交う血みどろの戦場を駆け抜け、武林…",
+      "publishedAt": "2026-10-09T00:00:09.000Z",
+      "addedAt": "2026-10-09T00:30:17.721Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173402.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://pbz.s-game.com/image/main.jpg"
+    },
     {
       "id": "41c14c0c6d16",
       "url": "https://www.suckerpunch.com/",
