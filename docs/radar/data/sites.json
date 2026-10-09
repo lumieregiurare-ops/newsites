@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T14:30:20.491Z",
+  "updatedAt": "2026-10-09T15:00:18.061Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 706,
+  "total": 707,
   "regions": {
-    "jp": 578,
+    "jp": 579,
     "global": 128
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 133
+      "count": 134
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 157
+      "count": 158
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 233
+      "count": 234
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 201
+      "count": 202
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ccb832f40b75",
+      "url": "https://campaign.gendagigo.jp/2610/trickcal/",
+      "host": "campaign.gendagigo.jp",
+      "region": "jp",
+      "title": "トリッカル",
+      "headline": "『トリッカル』の“スピキ焼き”が明日10月10日よりGiGOのたい焼き秋葉原で発売。焼き上がった実物が公開、裏面には「チョワヨー」「アーウ」の台詞入り",
+      "description": "2026年10月10日(土)より、GiGOグループのお店において、タッチセラピー系カードRPGモバイルゲーム『トリッカル・もちもちほっぺ大作戦』とコラボレーションした「トリッカル×GiGO トリッカルorトリート‼」を開催いたします。",
+      "publishedAt": "2026-10-09T14:44:46.000Z",
+      "addedAt": "2026-10-09T15:00:18.061Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610093s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://storage.googleapis.com/production-os-assets/assets/31de0372-8f70-4eee-9e7f-7188ba65a7af"
+    },
     {
       "id": "05655921cdca",
       "url": "https://pixomnia.studio/",
@@ -1045,6 +1076,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/09/173390.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104924/20261009059/"
         }
       ],
       "tags": [
