@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T03:30:15.926Z",
+  "updatedAt": "2026-10-09T04:00:15.541Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 681,
+  "total": 684,
   "regions": {
-    "jp": 561,
-    "global": 120
+    "jp": 562,
+    "global": 122
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 222
+      "count": 225
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 24
+      "count": 25
     },
     {
       "id": "xbox",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 196
+      "count": 197
     },
     {
       "id": "browser",
@@ -122,16 +122,104 @@
   ],
   "sources": [
     "Game*Spark",
+    "4Gamer",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Inside",
-    "4Gamer",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "90ee254c4b06",
+      "url": "https://forza.net/",
+      "host": "forza.net",
+      "region": "global",
+      "title": "Forza Horizon 6",
+      "headline": "PS5版『Forza Horizon 6』2027年1月26日リリースへ。初の拡張パックも1月21日に配信―プレミアム版先行アクセスは、その日からスタート",
+      "description": "Official site for Forza Horizon and Forza Motorsport games",
+      "publishedAt": "2026-10-09T03:45:02.000Z",
+      "addedAt": "2026-10-09T04:00:15.541Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/09/173414.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://cdn.forza.net/strapi-uploads/assets/Forza_Horizon_6_3840x2160_Hori_Final_ac7b0063ff.jpg"
+    },
+    {
+      "id": "11237168085d",
+      "url": "https://flywaygames.com/en/game/waltz-jam",
+      "host": "flywaygames.com",
+      "region": "global",
+      "title": "ワルツとジャム",
+      "headline": "アクションADV「ワルツとジャム」，12月3日に発売決定。変身する子犬と一緒に，7つの大罪を再解釈した死後の世界を冒険しよう",
+      "description": "アクションADV「ワルツとジャム」，12月3日に発売決定。変身する子犬と一緒に，7つの大罪を再解釈した死後の世界を冒険しよう",
+      "publishedAt": "2026-10-09T03:43:16.000Z",
+      "addedAt": "2026-10-09T04:00:15.541Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/048/G104889/20261009007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://flywaygames.com/media/site/acea043cd5-1719904657/metatag.jpg"
+    },
+    {
+      "id": "a074b7c0c94a",
+      "url": "https://play.google.com/store/apps/details?id=jp.snaplace.towermanhierarchy",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "タワマンヒエラルキー",
+      "headline": "『タワマンヒエラルキー』配信開始！ マウントだらけの48階建てタワマンで最下位から上り詰めるご近所付き合いシミュレーション",
+      "description": "マウントポイントをためろ！",
+      "publishedAt": "2026-10-09T03:30:00.000Z",
+      "addedAt": "2026-10-09T04:00:15.541Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/09/game/3126313.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/F_mNEPTlxvV0wJmID3_NuqJhkl8s935ol7Q8NJpbZ3Ry2m0_1_QqPfsrICfdI6_M2Kv9ifnLBhDGUHP3NuNacs4=s0-br30"
+    },
     {
       "id": "02aa9c91a299",
       "url": "https://acecombat.jp/wallpaper/",
@@ -147,6 +235,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/09/173407.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/09/189008.html"
         }
       ],
       "tags": [

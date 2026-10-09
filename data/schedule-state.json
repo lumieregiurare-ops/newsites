@@ -1857,6 +1857,25 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cf/0d/2ccf0d5c-6f0f-8f3c-0230-6df10dfe47d4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "タワマンヒエラルキー": {
+      "at": "2026-10-09T04:00:31.799Z",
+      "entry": {
+        "trackId": "6807807615",
+        "title": "タワマンヒエラルキー 〜48階の365日〜",
+        "artist": "SNAPLACE",
+        "genres": [
+          "シミュレーション",
+          "エンターテインメント",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-10-05T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6807807615",
+        "sellerUrl": "https://snaplace-corp.jp/fungame/#why",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fe/53/f1fe5379-c946-0bb1-6de8-50be298355b7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -28313,6 +28332,38 @@
       "sortKey": "2026-10-13",
       "prereg": false,
       "firstSeen": "2026-10-09T03:30:30.646Z"
+    },
+    "nullwatchdemo": {
+      "title": "Nullwatch Demo",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T04:00:31.622Z"
+    },
+    "q'scurse": {
+      "title": "Q's Curse",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T04:00:31.622Z"
+    },
+    "目覚めの時サウンドトラック": {
+      "title": "目覚めの時 サウンドトラック",
+      "dateText": "2026年10月12日",
+      "date": "2026-10-12",
+      "sortKey": "2026-10-12",
+      "prereg": false,
+      "firstSeen": "2026-10-09T04:00:31.622Z"
+    },
+    "forzahorizon6": {
+      "title": "Forza Horizon 6",
+      "dateText": "2027年1月26日",
+      "date": "2027-01-26",
+      "sortKey": "2027-01-26",
+      "prereg": false,
+      "firstSeen": "2026-10-09T04:00:31.622Z"
     }
   },
   "changeLog": [
@@ -32817,6 +32868,18 @@
         "switch2"
       ],
       "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-09T04:00:31.622Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Forza Horizon 6",
+      "url": "https://forza.net/",
+      "image": "https://cdn.forza.net/strapi-uploads/assets/Forza_Horizon_6_3840x2160_Hori_Final_ac7b0063ff.jpg",
+      "platforms": [
+        "ps"
+      ],
+      "to": "2027年1月26日"
     }
   ],
   "initialized": true,
