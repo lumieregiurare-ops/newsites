@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-09T10:00:19.210Z",
+  "updatedAt": "2026-10-09T10:30:18.316Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 700,
+  "total": 701,
   "regions": {
     "jp": 576,
-    "global": 124
+    "global": 125
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 232
+      "count": 233
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 91
+      "count": 92
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3318e7cc1420",
+      "url": "https://vaultbreakers.com/en",
+      "host": "vaultbreakers.com",
+      "region": "global",
+      "title": "VAULTBREAKERS",
+      "headline": "見下ろし型脱出系アクションRPG「VAULTBREAKERS」，体験版をSteamで本日配信。2人のキャラから1人を選び，序盤マップを探索",
+      "description": "Vaultbreakers is a hardcore top-down PvPvE ARPG that blends epic brawler combat with tense, tactical extraction gamepla…",
+      "publishedAt": "2026-10-09T10:19:37.000Z",
+      "addedAt": "2026-10-09T10:30:18.316Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/926/G092689/20261009035/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://vaultbreakers.com/image/VB_KeyArtwLogo.png"
+    },
     {
       "id": "ce916eb57277",
       "url": "https://g123.jp/game/nouka?lang=ja",
@@ -14546,6 +14575,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/18/172441.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/09/189040.html"
         }
       ],
       "tags": [
