@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T11:30:16.159Z",
+  "updatedAt": "2026-10-09T12:00:17.818Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 703,
+  "total": 704,
   "regions": {
-    "jp": 577,
+    "jp": 578,
     "global": 126
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 72
+      "count": 73
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 156
+      "count": 157
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "36b4206f90cf",
+      "url": "https://www.gamecity.ne.jp/nobunaga_hadou/",
+      "host": "gamecity.ne.jp",
+      "region": "jp",
+      "title": "信長の野望 覇道",
+      "headline": "「信長の野望 覇道」，4周年記念公式オフ会の参加者募集をスタート。運営プロデューサーの黒田智広氏，公式生放送の出演者らが参加予定",
+      "description": "日本各地を治める大名に仕える領主として、戦国の世を生き抜こう。コーエーテクモゲームスが贈る「信長の野望」が、MMO戦略シミュレーションゲームとなってついに登場！",
+      "publishedAt": "2026-10-09T11:50:58.000Z",
+      "addedAt": "2026-10-09T12:00:17.818Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/666/G066636/20261009052/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gamecity.ne.jp/nobunaga_hadou/assets/img/ogp_main.png?t=2026"
+    },
     {
       "id": "ea53b287b6be",
       "url": "https://gundam-official.com/",
