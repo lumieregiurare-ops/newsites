@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-09T11:00:16.315Z",
+  "updatedAt": "2026-10-09T11:30:16.159Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 702,
+  "total": 703,
   "regions": {
-    "jp": 576,
+    "jp": 577,
     "global": 126
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 81
+      "count": 82
     },
     {
       "id": "anniversary",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ea53b287b6be",
+      "url": "https://gundam-official.com/",
+      "host": "gundam-official.com",
+      "region": "jp",
+      "title": "機動戦士ガンダム",
+      "headline": "『機動戦士ガンダム』シャア専用ズゴックになりきれる「アームクッション」が予約受付中。冗談ではない！",
+      "description": "『機動戦士ガンダム』シャア専用ズゴックになりきれる「アームクッション」が予約受付中。冗談ではない！",
+      "publishedAt": "2026-10-09T11:29:18.000Z",
+      "addedAt": "2026-10-09T11:30:16.159Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610093j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "07bfe23f36db",
       "url": "https://hungryhorrorsgame.com/",
@@ -147,6 +174,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/09/173440.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/976/G097651/20261005028/"
         }
       ],
       "tags": [
