@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T03:00:15.522Z",
+  "updatedAt": "2026-10-10T03:30:16.840Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 710,
+  "total": 712,
   "regions": {
-    "jp": 581,
-    "global": 129
+    "jp": 582,
+    "global": 130
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 158
+      "count": 159
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 234
+      "count": 235
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 153
+      "count": 154
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 205
+      "count": 206
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "AppBank",
+    "電ファミニコゲーマー",
+    "Game*Spark",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,66 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2c169113aa4c",
+      "url": "https://www.brasilgameshow.com.br/",
+      "host": "brasilgameshow.com.br",
+      "region": "global",
+      "title": "Brasil Game Show 2026",
+      "headline": "「Brasil Game Show 2026」開幕。オープニングイベントでセガが「クレイジータクシー：ワールドツアー」新マップ「ブラジル」を発表［BGS2026］",
+      "description": "Onde Tudo É Game! A BGS reúne as maiores empresas de games do mundo, centenas de atrações, influenciadores, campeonatos…",
+      "publishedAt": "2026-10-10T03:02:19.000Z",
+      "addedAt": "2026-10-10T03:30:16.840Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261010006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fcf913b9928f",
+      "url": "https://apps.apple.com/jp/app/id6783606955",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ねこマンション",
+      "headline": "脱力系放置ゲーム『ねこマンション』配信開始！ ねこが暮らすマンションを経営",
+      "description": "GlobalGear Co. Ltd.の「ねこマンション」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ねこマンション」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-10T03:00:00.000Z",
+      "addedAt": "2026-10-10T03:30:16.840Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/10/game/3126962.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/91/e6/0d91e69e-fc22-47ce-0975-5326807ca6f8/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "52c7aae49d88",
       "url": "https://game.mages.co.jp/shikai/",
