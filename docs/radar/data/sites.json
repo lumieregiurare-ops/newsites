@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T23:00:17.546Z",
+  "updatedAt": "2026-10-10T23:30:16.397Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 723,
+  "total": 724,
   "regions": {
-    "jp": 590,
+    "jp": 591,
     "global": 133
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 119
+      "count": 120
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d001e06bcebd",
+      "url": "https://naruto-official.com/special/rasengan",
+      "host": "naruto-official.com",
+      "region": "jp",
+      "title": "NARUTO",
+      "headline": "『NARUTO』「PROJECT RASENGAN」が発表。マンガ、アニメ、ゲーム、カードゲーム、すべてを巻き込む新プロジェクト",
+      "description": "次々に放たれる大型プロジェクトの数々！『NARUTO-ナルト-』の新展開はここでチェックだ！",
+      "publishedAt": "2026-10-10T23:22:17.000Z",
+      "addedAt": "2026-10-10T23:30:16.397Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261011e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://naruto-official.com/special/rasengan/assets/ogp/og-image-ja.png"
+    },
     {
       "id": "57bc4b072e7b",
       "url": "https://naruto-official.com/",
