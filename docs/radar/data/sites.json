@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-10T05:30:18.148Z",
+  "updatedAt": "2026-10-10T06:00:16.317Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 712,
+  "total": 713,
   "regions": {
     "jp": 582,
-    "global": 130
+    "global": 131
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 159
+      "count": 160
     },
     {
       "id": "release",
@@ -133,6 +133,33 @@
   ],
   "items": [
     {
+      "id": "1abd3730a66d",
+      "url": "https://sagabarcelonagamefest.cat/",
+      "host": "sagabarcelonagamefest.cat",
+      "region": "global",
+      "title": "SAGA Barcelona Game Fest 2026",
+      "headline": "3つのイベントを統合した南ヨーロッパ最大級のゲームイベント「SAGA Barcelona Game Fest 2026」が開催。ゲスト国の日本からはゲーム音楽のレジェンドも参加",
+      "description": "he largest video game fair in Southern Europe, held in Barcelona on the 9th, 10th, and 11th of October at the Fira Barc…",
+      "publishedAt": "2026-10-10T05:51:11.000Z",
+      "addedAt": "2026-10-10T06:00:16.317Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261010007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sagabarcelonagamefest.cat/wp-content/uploads/2026/02/cropped-01_SBCF_Imagotip-Color_CMYK-scaled-1.png"
+    },
+    {
       "id": "2c169113aa4c",
       "url": "https://www.brasilgameshow.com.br/",
       "host": "brasilgameshow.com.br",
@@ -207,6 +234,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261010g"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/036/G103670/20261010009/"
         }
       ],
       "tags": [
