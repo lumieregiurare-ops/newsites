@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T14:30:18.358Z",
+  "updatedAt": "2026-10-10T15:00:20.234Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（10/09 比）",
+      "note": "Steam の同時接続数ランキング（10/10 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -67,9 +67,9 @@
           "url": "https://store.steampowered.com/app/1422450/",
           "metric": "同時接続 262,145人",
           "delta": {
-            "kind": "up",
-            "label": "+4",
-            "value": 4
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -80,9 +80,9 @@
           "url": "https://store.steampowered.com/app/1172470/",
           "metric": "同時接続 224,470人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -119,9 +119,9 @@
           "url": "https://store.steampowered.com/app/3419430/",
           "metric": "同時接続 175,287人",
           "delta": {
-            "kind": "down",
-            "label": "-3",
-            "value": -3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -132,9 +132,9 @@
           "url": "https://store.steampowered.com/app/892970/",
           "metric": "同時接続 153,551人",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（10/09 比）",
+      "note": "App Store（日本）の無料ゲームランキング（10/10 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -181,9 +181,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
           "metric": "Hungry Studio",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -194,9 +194,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%88%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89/id6767834940",
           "metric": "GAME SPARK PTE. LTD.",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -220,9 +220,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%83%93%E3%83%8E%E3%82%AE%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB/id6775403879",
           "metric": "NEXON Co., Ltd.",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/toy-blox-%E3%83%88%E3%82%A4%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9-%E3%83%88%E3%83%AA%E3%83%9E%E5%85%AC%E5%BC%8F%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%91%E3%82%BA%E3%83%AB/id6789060737",
           "metric": "GeoTechnologies, Inc.",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "up",
-            "label": "+5",
-            "value": 5
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/food-hunt-pixel-puzzle/id6769314786",
           "metric": "FUNFINITY PTE. LTD",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
