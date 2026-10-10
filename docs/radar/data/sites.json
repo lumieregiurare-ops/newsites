@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T02:30:16.450Z",
+  "updatedAt": "2026-10-10T03:00:15.522Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 709,
+  "total": 710,
   "regions": {
-    "jp": 580,
+    "jp": 581,
     "global": 129
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 116
+      "count": 117
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "52c7aae49d88",
+      "url": "https://game.mages.co.jp/shikai/",
+      "host": "game.mages.co.jp",
+      "region": "jp",
+      "title": "STEINS;GATE 0",
+      "headline": "『STEINS;GATE 0』の安本了氏がシナリオを手がけるオカルトADVゲーム『覗怪（しかい）』のプロローグムービーが公開。謎の怪談“赤い屋根の家”をはじめ、さまざまな怪奇現象…",
+      "description": "鮮血のごとく赤く染まる屋根の下、怪異となったあなた自身が覗き視る物語。",
+      "publishedAt": "2026-10-10T02:49:30.000Z",
+      "addedAt": "2026-10-10T03:00:15.522Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261010g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://game.mages.co.jp/shikai/teaser/img/ogimage.jpg?20260827e"
+    },
     {
       "id": "83ca37abbd75",
       "url": "https://www.knivesout.jp/",
