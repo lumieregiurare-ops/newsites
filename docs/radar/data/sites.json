@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-10T21:00:14.023Z",
+  "updatedAt": "2026-10-10T21:30:19.089Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 720,
+  "total": 722,
   "regions": {
-    "jp": 587,
+    "jp": 589,
     "global": 133
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 29
+      "count": 30
     },
     {
       "id": "prereg",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 118
+      "count": 119
     }
   ],
   "platforms": [
@@ -122,16 +122,70 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "GameBusiness.jp",
     "AppBank",
     "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
-    "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "57bc4b072e7b",
+      "url": "https://naruto-official.com/",
+      "host": "naruto-official.com",
+      "region": "jp",
+      "title": "NARUTO",
+      "headline": "『NARUTO』×『忍空』新作アニメが発表！新規アニメーションが全4話で製作中",
+      "description": "『NARUTO -ナルト-』『BORUTO-ボルト-』のオフィシャルサイトです。最新ニュースやスペシャルコンテンツが満載！著：岸本斉史、池本幹雄",
+      "publishedAt": "2026-10-10T21:15:01.000Z",
+      "addedAt": "2026-10-10T21:30:19.089Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261011b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://naruto-official.com/common/ogp/NTOS_OG-main.png"
+    },
+    {
+      "id": "c4a5ce31981d",
+      "url": "https://www.bunka.go.jp/animeseminar/",
+      "host": "bunka.go.jp",
+      "region": "jp",
+      "title": "アニメーション人材育成調査研究事業",
+      "headline": "文化庁委託「アニメーション人材育成調査研究事業」オープン講座が開講。業界就業者向けの技術向上プログラムを無料提供",
+      "description": "文化庁委託「アニメーション人材育成調査研究事業」オープン講座が開講。業界就業者向けの技術向上プログラムを無料提供",
+      "publishedAt": "2026-10-10T21:00:03.000Z",
+      "addedAt": "2026-10-10T21:30:19.089Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/11/28290.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "ee92aa6528cd",
       "url": "https://dr-stone.jp/",
