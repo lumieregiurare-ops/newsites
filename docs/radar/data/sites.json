@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T08:00:18.023Z",
+  "updatedAt": "2026-10-11T08:30:18.807Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 725,
+  "total": 726,
   "regions": {
-    "jp": 592,
+    "jp": 593,
     "global": 133
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 120
+      "count": 121
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 210
+      "count": 211
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "電ファミニコゲーマー",
     "GameBusiness.jp",
-    "AppBank",
     "4Gamer",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "752b8bb11488",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "プロジェクトセカイ",
+      "headline": "『プロジェクトセカイ』「転生林檎」セカイver.のフルサイズ2DMVが10月9日公開！ ワンダーランズ×ショウタイムと初音ミクが歌唱",
+      "description": "初音ミクも登場するリズムゲーム",
+      "publishedAt": "2026-10-11T08:00:00.000Z",
+      "addedAt": "2026-10-11T08:30:18.807Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/11/game/3127268.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ=s0-br30"
+    },
     {
       "id": "52ab6f084262",
       "url": "https://www.taptap.cn/app/582728?os=android",
