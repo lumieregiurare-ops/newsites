@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T04:30:18.214Z",
+  "updatedAt": "2026-10-11T05:00:17.582Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 723,
+  "total": 724,
   "regions": {
-    "jp": 590,
+    "jp": 591,
     "global": 133
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 236
+      "count": 237
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "27a535554205",
+      "url": "https://touhou-project.news/shanghai-alice-reprise/",
+      "host": "touhou-project.news",
+      "region": "jp",
+      "title": "東方紅魔郷",
+      "headline": "『東方紅魔郷』キャラ設定などを原作者のZUN氏が振り返る動画が公開中。当時の「おまけテキスト」を元に、24年も前の“オリジナル”に立ち返る貴重な内容",
+      "description": "東方Projectの『東方紅魔郷』が装い新たに登場。霊夢と魔理沙が異変解決に挑む縦スクロール弾幕シューティング、好評発売中。",
+      "publishedAt": "2026-10-11T04:58:11.000Z",
+      "addedAt": "2026-10-11T05:00:17.582Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261011f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://touhou-project.news/shanghai-alice-reprise/ogp_ja.jpg"
+    },
     {
       "id": "d001e06bcebd",
       "url": "https://naruto-official.com/special/rasengan",
