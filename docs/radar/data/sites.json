@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T22:56:38.663Z",
+  "updatedAt": "2026-10-11T23:30:14.843Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 730,
+  "total": 731,
   "regions": {
-    "jp": 597,
+    "jp": 598,
     "global": 133
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 84
+      "count": 85
     },
     {
       "id": "anniversary",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 47
+      "count": 48
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 159
+      "count": 160
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 214
+      "count": 215
     },
     {
       "id": "browser",
@@ -132,6 +132,41 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "82fb8fd4774a",
+      "url": "https://apps.apple.com/jp/app/id6810581977",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "虫ストライクZ",
+      "headline": "虫の数字バトルRPG『虫ストライクZ』の事前登録が開始！ 配信は11月上旬予定",
+      "description": "Morimirai Inc.の「虫ストライクZ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「虫ストライクZ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-11T23:00:00.000Z",
+      "addedAt": "2026-10-11T23:30:14.843Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/12/game/3126807.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "de25fcb5c2c4",
       "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
@@ -9419,6 +9454,10 @@
         {
           "name": "AppBank",
           "url": "https://www.appbank.net/2026/09/28/game/3116838.php"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/12/173499.html"
         }
       ],
       "tags": [

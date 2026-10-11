@@ -2006,6 +2006,25 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/42/37/264237fb-63bb-dcd3-1ccb-854948e7636d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "虫ストライクZ": {
+      "at": "2026-10-11T23:30:30.794Z",
+      "entry": {
+        "trackId": "6810581977",
+        "title": "虫ストライクZ",
+        "artist": "Morimirai Inc.",
+        "genres": [
+          "ロールプレイング",
+          "エンターテインメント",
+          "ストラテジー"
+        ],
+        "releaseDate": "2026-11-07T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6810581977",
+        "sellerUrl": "http://site.kkamedev.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/11/fe/2511feef-520c-f1e2-8205-924b91bf6a06/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -29965,6 +29984,11 @@
       "sortKey": "2026-10-16",
       "prereg": false,
       "firstSeen": "2026-10-11T22:56:50.135Z"
+    },
+    "虫ストライクz": {
+      "title": "虫ストライクZ",
+      "prereg": true,
+      "firstSeen": "2026-10-11T23:30:30.646Z"
     }
   },
   "changeLog": [
@@ -34684,6 +34708,18 @@
         "mobile"
       ],
       "to": "2026年11月6日"
+    },
+    {
+      "at": "2026-10-11T23:30:30.646Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "虫ストライクZ",
+      "url": "https://apps.apple.com/jp/app/id6810581977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月7日"
     }
   ],
   "initialized": true,

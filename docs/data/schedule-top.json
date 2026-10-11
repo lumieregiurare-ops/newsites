@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T22:56:50.135Z",
+  "updatedAt": "2026-10-11T23:30:30.646Z",
   "platforms": [
     {
       "id": "switch",
@@ -261,6 +261,31 @@
   ],
   "prereg": [
     {
+      "id": "82fb8fd4774a",
+      "title": "虫ストライクZ",
+      "url": "https://apps.apple.com/jp/app/id6810581977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-11T23:00:00.000Z",
+      "releaseText": "2026年11月7日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "虫の数字バトルRPG『虫ストライクZ』の事前登録が開始！ 配信は11月上旬予定",
+      "description": "Morimirai Inc.の「虫ストライクZ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「虫ストライクZ」に似たゲームを見ることなどができます。",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/12/game/3126807.php",
+      "appleId": "6810581977",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6810581977",
+        "preorder": true,
+        "releaseDate": "2026-11-07T08:00:00Z"
+      },
+      "trackId": "6810581977"
+    },
+    {
       "id": "de25fcb5c2c4",
       "title": "誰ガ為のアルケミスト ポートマスターズ",
       "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
@@ -416,33 +441,21 @@
       "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/03/28208.html",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "779467bbfcc4",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-02T09:30:44.401Z",
-      "releaseText": "2026年10月14日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "Kibi Play / シミュレーション・ロールプレイング",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/821770",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6762710814",
-        "preorder": true,
-        "releaseDate": "2026-10-14T07:00:00Z"
-      },
-      "trackId": "6762710814"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-11T23:30:30.646Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "虫ストライクZ",
+      "url": "https://apps.apple.com/jp/app/id6810581977",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月7日"
+    },
     {
       "at": "2026-10-11T21:00:28.853Z",
       "type": "prereg_start",
@@ -502,18 +515,6 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年10月13日"
-    },
-    {
-      "at": "2026-10-09T22:00:28.748Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソニックレーシング クロスワールド：エヴァンゲリオン パック",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077237",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d09301b970c10e82097300ab4dfce477aa263b56b385b138e21207f4d717163b.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2027年1月31日"
     }
   ]
 }
