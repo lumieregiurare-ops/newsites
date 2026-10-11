@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-10T23:30:16.397Z",
+  "updatedAt": "2026-10-11T00:00:14.791Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 724,
+  "total": 723,
   "regions": {
-    "jp": 591,
+    "jp": 590,
     "global": 133
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 83
+      "count": 82
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 211
+      "count": 210
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 12
+      "count": 11
     },
     {
       "id": "vr",
@@ -22428,47 +22428,6 @@
       ],
       "points": null,
       "image": "https://konosuba-machisuba.com/ogp.png"
-    },
-    {
-      "id": "2117b6e08e65",
-      "url": "https://touken-puzzle.com/",
-      "host": "touken-puzzle.com",
-      "region": "jp",
-      "title": "刀剣乱舞ぱずぎり",
-      "headline": "「刀剣乱舞ぱずぎり」，事前登録受付を開始。絵巻守として，さまざまな刀剣男士たちとともに物語の世界を守る新作パズルRPG",
-      "description": "刀剣乱舞の新作パズルRPGが、2026年9月24日から好評配信中！",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/873/G087362/20260713003/"
-        },
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%81%B1%E3%81%9A%E3%81%8E%E3%82%8A/id6747331078"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ",
-        "パズル",
-        "カジュアル",
-        "MZGenre.Puzzle"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile",
-        "arcade"
-      ],
-      "points": null,
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1791184781256"
     }
   ]
 }
