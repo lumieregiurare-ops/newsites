@@ -1987,6 +1987,25 @@
     "ドルフロ2": {
       "at": "2026-10-11T10:30:32.756Z",
       "entry": null
+    },
+    "誰ガ為のアルケミスト ポートマスターズ": {
+      "at": "2026-10-11T21:00:29.093Z",
+      "entry": {
+        "trackId": "6781944992",
+        "title": "誰ガ為のアルケミスト ポートマスターズ",
+        "artist": "KMS.Inc",
+        "genres": [
+          "エンターテインメント",
+          "ロールプレイング",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-11-06T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6781944992",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/42/37/264237fb-63bb-dcd3-1ccb-854948e7636d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -29885,6 +29904,27 @@
       "sortKey": "2026-10-19",
       "prereg": false,
       "firstSeen": "2026-10-11T19:00:34.019Z"
+    },
+    "nutrunner": {
+      "title": "Nut Runner",
+      "dateText": "2026年10月13日",
+      "date": "2026-10-13",
+      "sortKey": "2026-10-13",
+      "prereg": false,
+      "firstSeen": "2026-10-11T21:00:28.853Z"
+    },
+    "trampolinetotomorrow": {
+      "title": "Trampoline to Tomorrow",
+      "dateText": "2026年10月13日",
+      "date": "2026-10-13",
+      "sortKey": "2026-10-13",
+      "prereg": false,
+      "firstSeen": "2026-10-11T21:00:28.853Z"
+    },
+    "誰ガ為のアルケミストポートマスターズ": {
+      "title": "誰ガ為のアルケミスト ポートマスターズ",
+      "prereg": true,
+      "firstSeen": "2026-10-11T21:00:28.853Z"
     }
   },
   "changeLog": [
@@ -34592,6 +34632,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-11T21:00:28.853Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "誰ガ為のアルケミスト ポートマスターズ",
+      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
+      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月6日"
     }
   ],
   "initialized": true,

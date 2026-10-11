@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T20:30:29.420Z",
+  "updatedAt": "2026-10-11T21:00:28.853Z",
   "platforms": [
     {
       "id": "switch",
@@ -261,6 +261,31 @@
   ],
   "prereg": [
     {
+      "id": "de25fcb5c2c4",
+      "title": "誰ガ為のアルケミスト ポートマスターズ",
+      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
+      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-11T21:00:00.000Z",
+      "releaseText": "2026年11月6日",
+      "releaseSource": "appstore",
+      "count": "事前登録5万人",
+      "reward": "",
+      "headline": "『誰ガ為のアルケミスト ポートマスターズ』事前登録5万人突破！ 全員にURウロボロスなどをプレゼント",
+      "description": "紡がれし記憶は、新たな戦場へ",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/12/game/3126788.php",
+      "appleId": "6781944992",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6781944992",
+        "preorder": true,
+        "releaseDate": "2026-11-06T08:00:00Z"
+      },
+      "trackId": "6781944992"
+    },
+    {
       "id": "52ab6f084262",
       "title": "深鳶",
       "url": "https://www.taptap.cn/app/582728?os=android",
@@ -415,30 +440,21 @@
         "releaseDate": "2026-10-14T07:00:00Z"
       },
       "trackId": "6762710814"
-    },
-    {
-      "id": "1f0141077c40",
-      "title": "ドラゴンレイド：アナザーワールド",
-      "url": "https://game8.jp/preregistration/821796",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-02T09:30:44.401Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/821796",
-      "verified": false,
-      "officialKnown": false,
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-11T21:00:28.853Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "誰ガ為のアルケミスト ポートマスターズ",
+      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
+      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月6日"
+    },
     {
       "at": "2026-10-11T06:30:29.092Z",
       "type": "prereg_start",
@@ -498,18 +514,6 @@
         "switch"
       ],
       "to": "2027年1月31日"
-    },
-    {
-      "at": "2026-10-09T22:00:28.748Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソニックレーシング クロスワールド：セガハード パック",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077235",
-      "image": "https://img-eshop.cdn.nintendo.net/i/523b997fcbd460c506a42b485f4fe9312085067955ab1f850313d48c162c9d9b.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月4日"
     }
   ]
 }
