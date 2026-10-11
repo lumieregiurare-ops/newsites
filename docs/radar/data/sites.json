@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-11T14:30:15.957Z",
+  "updatedAt": "2026-10-11T15:00:16.369Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 727,
+  "total": 728,
   "regions": {
     "jp": 594,
-    "global": 133
+    "global": 134
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 136
+      "count": 137
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "4Gamer",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "78c243d511c2",
+      "url": "https://tekken.com/",
+      "host": "tekken.com",
+      "region": "global",
+      "title": "鉄拳8",
+      "headline": "『鉄拳8』コラボ参戦キャラ「範馬勇次郎」の新映像が公開ッ！あまりにも再現度が高すぎるモデルがお披露目",
+      "description": "Dive into TEKKEN 8, the latest in the legendary TEKKEN series. Discover the story and see the fighters",
+      "publishedAt": "2026-10-11T14:19:47.000Z",
+      "addedAt": "2026-10-11T15:00:16.369Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261011m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tekken.com/open-graph-tekken-8.jpg"
+    },
     {
       "id": "894bb7921cc9",
       "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.and.exilium",
