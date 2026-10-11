@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T10:00:15.670Z",
+  "updatedAt": "2026-10-11T10:30:16.995Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 726,
+  "total": 727,
   "regions": {
-    "jp": 593,
+    "jp": 594,
     "global": 133
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 76
+      "count": 77
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 161
+      "count": 162
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 211
+      "count": 212
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "894bb7921cc9",
+      "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.and.exilium",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ドルフロ2",
+      "headline": "「ドルフロ2」2周年記念オーケストラコンサート「人形たちのホワイト・ノクターン」が1月15日に東京で開催！",
+      "description": "テーマイベント「琥珀月光」開催！エリート人形「ミティール」が期間限定で登場！",
+      "publishedAt": "2026-10-11T10:00:00.000Z",
+      "addedAt": "2026-10-11T10:30:16.995Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/11/game/3127392.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/N0Cq4MZ9VszB5TH_Wq229R62IuSVn1LfWwB3uhdjb0J_fsRn2hfHWc8XOEH7kAUs7Hg4SB2HLl_LEOj17YkwNQ=s0-br30"
+    },
     {
       "id": "752b8bb11488",
       "url": "https://play.google.com/store/apps/details?id=com.sega.pjsekai",
@@ -2270,7 +2303,7 @@
       "region": "jp",
       "title": "WordBlade - 文字ブレード",
       "headline": "IBUKI YOSHIDA / アクション・ファミリー · App Store 新着",
-      "description": "IBUKI YOSHIDAの「WordBlade - 文字ブレード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「WordBlade - 文字ブレード」に似たゲームを見ることなどがで…",
+      "description": "IBUKI YOSHIDAの「WordBlade - 文字で戦うコマバトル」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「WordBlade - 文字で戦うコマバトル」に似たゲームを…",
       "publishedAt": "2026-10-07T21:45:17.000Z",
       "addedAt": "2026-10-10T10:30:14.454Z",
       "source": "App Store",
@@ -2294,7 +2327,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/40/fa/f040fa4d-0b17-75d1-c231-7a683cfb0779/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0b/0b/9c/0b0b9cac-6fea-cf2e-dcba-127c525dba28/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "49db76af6998",
@@ -6195,7 +6228,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/43/e8/6d43e851-f3ca-5166-9c4c-a79c9f229105/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/c7/2d/7fc72d18-49b6-71be-f565-bd23eda494ae/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "2f14f967747e",
@@ -6842,7 +6875,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uHym0Lc9Uh1mL_YD59eguP1NDJkgn-403GtVIvN4aTzKKUUbXix3Kto6kyNfF_WLC3yn9EsaTIRiL8DVtgZQ2t-aw_-oMcr7F6fJg1JaTs5X_Y3DkWtYSc-W00lkLXU0J_HKe5l61yXbcaH1e9VkE9S06oY2wUvOvohRNFoDeaU_qzO1my8L-Ay8bJLTI=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72udLTyNPwkasHeoZaGo5k9wzZIQgNVun_QAU9QFJ0RIDdklXGRO4l3dOOLDTdAKG910fLxah1ouR4JqVoRQQ16YLVqlxbe5fDti_bCaZlxV78HV_dEJSNnyMxTM9MrT_4oR9nXOAaG-ZzITFMjNcIwTD8ADuCpOIIos-JK-S7X-5E-Uyq8XekgX1DTwrgY=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
