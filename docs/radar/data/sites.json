@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-11T06:00:16.708Z",
+  "updatedAt": "2026-10-11T06:30:15.077Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 724,
+  "total": 725,
   "regions": {
-    "jp": 591,
+    "jp": 592,
     "global": 133
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 82
+      "count": 83
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 135
+      "count": 136
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 237
+      "count": 238
     },
     {
       "id": "indie",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "GameBusiness.jp",
     "AppBank",
     "4Gamer",
     "Game*Spark",
-    "Inside",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "52ab6f084262",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "host": "taptap.cn",
+      "region": "jp",
+      "title": "深鳶",
+      "headline": "美少女×武装艦の新作RPG『深鳶』が中国で配信開始！人気アニメ原作『鎮魂街』新作アクションもテスト間近―日本未上陸の注目ゲーム3選【2026年10月11日】",
+      "description": "深鸢是一款二次元游戏，TapTap 提供深鸢最新1.0.7版官方正版下载，由于【大灾难】的出现，海洋吞没了全部的陆地。为了生存，人类建...",
+      "publishedAt": "2026-10-11T06:10:02.000Z",
+      "addedAt": "2026-10-11T06:30:15.077Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/11/189107.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg"
+    },
     {
       "id": "27a535554205",
       "url": "https://touhou-project.news/shanghai-alice-reprise/",
@@ -21396,10 +21425,12 @@
         "iOS",
         "Android",
         "スマホ",
-        "周年"
+        "周年",
+        "特設サイト"
       ],
       "categories": [
-        "anniversary"
+        "anniversary",
+        "campaign"
       ],
       "platforms": [
         "mobile"

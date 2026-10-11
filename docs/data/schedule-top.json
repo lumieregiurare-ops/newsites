@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:00:31.263Z",
+  "updatedAt": "2026-10-11T06:30:29.092Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "d5a76514a6a2",
+      "title": "深鳶",
+      "date": "2026-10-11",
+      "dateText": "2026年10月11日",
+      "sortKey": "2026-10-11",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "maker": "",
+      "headline": "美少女×武装艦の新作RPG『深鳶』が中国で配信開始！人気アニメ原作『鎮魂街』新作アクションもテスト間近―日本未上陸の注目ゲーム3選【2026年10月11日】",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/11/189107.html"
+    },
     {
       "id": "9516340a2aca",
       "title": "Colorbound",
@@ -242,24 +257,29 @@
       "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k"
-    },
-    {
-      "id": "e9f10c727077",
-      "title": "紅の砂漠",
-      "date": "2026-10-30",
-      "dateText": "2026年10月30日",
-      "sortKey": "2026-10-30",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",
-      "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
-      "maker": "",
-      "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
     }
   ],
   "prereg": [
+    {
+      "id": "52ab6f084262",
+      "title": "深鳶",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-11T06:10:02.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "美少女×武装艦の新作RPG『深鳶』が中国で配信開始！人気アニメ原作『鎮魂街』新作アクションもテスト間近―日本未上陸の注目ゲーム3選【2026年10月11日】",
+      "description": "深鸢是一款二次元游戏，TapTap 提供深鸢最新1.0.7版官方正版下载，由于【大灾难】的出现，海洋吞没了全部的陆地。为了生存，人类建...",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/11/189107.html",
+      "appleId": "",
+      "trackId": ""
+    },
     {
       "id": "ce916eb57277",
       "title": "異世界のんびり農家 ドリーミーライフ",
@@ -416,34 +436,31 @@
       "verified": false,
       "officialKnown": false,
       "trackId": ""
-    },
-    {
-      "id": "9248f54ffd4e",
-      "title": "キン肉マン マッスルタッグマッチ",
-      "url": "https://kin29man-mtm.bn-ent.net/",
-      "image": "https://kin29man-mtm.bn-ent.net/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-01T06:10:50.000Z",
-      "releaseText": "2026年11月30日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『キン肉マン マッスルタッグマッチ』がスマホアプリになって復活。事前登録と追加超人を決める「キン肉マン超人総選挙2026」が開始",
-      "description": "キン肉マン マッスルタッグマッチ 令和復活編 DLはこちら→App Store：https://apps.apple.com/jp/app/id6775757720?mt=8 GooglePlay: https://play.google…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261001z",
-      "appleId": "6775757720",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6775757720",
-        "preorder": true,
-        "releaseDate": "2026-11-30T08:00:00Z"
-      },
-      "trackId": "6775757720"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-11T06:30:29.092Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "深鳶",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-11T06:30:29.092Z",
+      "type": "new",
+      "label": "新規",
+      "title": "深鳶",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "platforms": [],
+      "to": "2026年10月11日"
+    },
     {
       "at": "2026-10-11T03:00:30.780Z",
       "type": "moved_up",
@@ -493,31 +510,6 @@
         "switch"
       ],
       "to": "2026年11月4日"
-    },
-    {
-      "at": "2026-10-09T22:00:28.748Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソニックレーシング クロスワールド：ゴジラ パック",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077236",
-      "image": "https://img-eshop.cdn.nintendo.net/i/10a0af5a3e3ecc8bb73c412279f9e2abc717a67277ab0947ada632390c46b310.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月4日"
-    },
-    {
-      "at": "2026-10-09T19:28:27.361Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000074493",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c4ed23a3c8ed06e1c828fc75e869004a575e0b553d78743726fcf79f0cc5b5e3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026年10月22日",
-      "to": "2026年10月17日"
     }
   ]
 }

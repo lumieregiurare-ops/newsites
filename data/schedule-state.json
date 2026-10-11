@@ -1959,6 +1959,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d2/35/a4d235fb-e654-2a31-df07-b0b91acaf276/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "深鳶": {
+      "at": "2026-10-11T06:30:29.324Z",
+      "entry": null
     }
   },
   "titles": {
@@ -29785,6 +29789,14 @@
       "sortKey": "2026-10-14",
       "prereg": false,
       "firstSeen": "2026-10-11T01:30:30.389Z"
+    },
+    "深鳶": {
+      "title": "深鳶",
+      "dateText": "2026年10月11日",
+      "date": "2026-10-11",
+      "sortKey": "2026-10-11",
+      "prereg": true,
+      "firstSeen": "2026-10-11T06:30:29.092Z"
     }
   },
   "changeLog": [
@@ -34470,6 +34482,28 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年10月13日"
+    },
+    {
+      "at": "2026-10-11T06:30:29.092Z",
+      "type": "new",
+      "label": "新規",
+      "title": "深鳶",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "platforms": [],
+      "to": "2026年10月11日"
+    },
+    {
+      "at": "2026-10-11T06:30:29.092Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "深鳶",
+      "url": "https://www.taptap.cn/app/582728?os=android",
+      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
