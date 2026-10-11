@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:30:28.862Z",
+  "updatedAt": "2026-10-11T03:00:30.780Z",
   "platforms": [
     {
       "id": "switch",
@@ -445,6 +445,32 @@
   ],
   "changes": [
     {
+      "at": "2026-10-11T03:00:30.780Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "追加キャラクター「アルジュン」 & Outfit 2",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000072485",
+      "image": "https://img-eshop.cdn.nintendo.net/i/953a7ccc4f37167e9711842840e6f11062dbdad01fc4a2a567da34328ffbf4b3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月13日"
+    },
+    {
+      "at": "2026-10-11T03:00:30.780Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "追加キャラクター「アルジュン」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000071130",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0309fbe45a6e1dc91a93e88ea0a400b9f1c3449817581296d23d51b0805653cb.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月13日"
+    },
+    {
       "at": "2026-10-09T22:00:28.748Z",
       "type": "new",
       "label": "新規",
@@ -492,30 +518,6 @@
       ],
       "from": "2026年10月22日",
       "to": "2026年10月17日"
-    },
-    {
-      "at": "2026-10-09T18:00:40.000Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソニックレーシング クロスワールド：アバター伝説 パック",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000057336",
-      "image": "https://img-eshop.cdn.nintendo.net/i/63ede9223186610fd3fec21cd3b4e740a338387d3fab5b4cecc40095073c9810.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月14日"
-    },
-    {
-      "at": "2026-10-09T10:00:35.399Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "異世界のんびり農家 ドリーミーライフ",
-      "url": "https://g123.jp/game/nouka?lang=ja",
-      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/266f50a2ac551f9bb788a06631fe7af43aaf28b54b922e7641984cce.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }

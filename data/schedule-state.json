@@ -7065,17 +7065,17 @@
     },
     "追加キャラクター「アルジュン」": {
       "title": "追加キャラクター「アルジュン」",
-      "dateText": "2026年12月31日",
-      "date": "2026-12-31",
-      "sortKey": "2026-12-31",
+      "dateText": "2026年10月13日",
+      "date": "2026-10-13",
+      "sortKey": "2026-10-13",
       "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
     "追加キャラクター「アルジュン」&outfit2": {
       "title": "追加キャラクター「アルジュン」 & Outfit 2",
-      "dateText": "2026年12月31日",
-      "date": "2026-12-31",
-      "sortKey": "2026-12-31",
+      "dateText": "2026年10月13日",
+      "date": "2026-10-13",
+      "sortKey": "2026-10-13",
       "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
@@ -34444,6 +34444,32 @@
         "switch"
       ],
       "to": "2027年1月31日"
+    },
+    {
+      "at": "2026-10-11T03:00:30.780Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "追加キャラクター「アルジュン」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000071130",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0309fbe45a6e1dc91a93e88ea0a400b9f1c3449817581296d23d51b0805653cb.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月13日"
+    },
+    {
+      "at": "2026-10-11T03:00:30.780Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "追加キャラクター「アルジュン」 & Outfit 2",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000072485",
+      "image": "https://img-eshop.cdn.nintendo.net/i/953a7ccc4f37167e9711842840e6f11062dbdad01fc4a2a567da34328ffbf4b3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年10月13日"
     }
   ],
   "initialized": true,
