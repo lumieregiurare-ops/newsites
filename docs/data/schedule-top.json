@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T13:00:33.616Z",
+  "updatedAt": "2026-10-12T14:00:35.736Z",
   "platforms": [
     {
       "id": "switch",
@@ -195,6 +195,24 @@
       "sourceUrl": "https://www.4gamer.net/games/047/G104794/20261006018/"
     },
     {
+      "id": "86e7513d4f8b",
+      "title": "No Man's Sky",
+      "date": "2026-10-28",
+      "dateText": "2026年10月28日",
+      "sortKey": "2026-10-28",
+      "priority": 0,
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "maker": "",
+      "headline": "『No Man's Sky』iOS版が10月28日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/10/12/173523.html"
+    },
+    {
       "id": "bf9a6b3237fb",
       "title": "SN&#216;: Ultimate Freeriding",
       "date": "2026-10-29",
@@ -242,21 +260,6 @@
       "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k"
-    },
-    {
-      "id": "e9f10c727077",
-      "title": "紅の砂漠",
-      "date": "2026-10-30",
-      "dateText": "2026年10月30日",
-      "sortKey": "2026-10-30",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",
-      "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
-      "maker": "",
-      "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
     }
   ],
   "prereg": [
@@ -445,6 +448,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-12T14:00:35.736Z",
+      "type": "new",
+      "label": "新規",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "2026年10月28日"
+    },
+    {
       "at": "2026-10-12T04:30:32.483Z",
       "type": "new",
       "label": "新規",
@@ -499,19 +515,6 @@
       "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
       "platforms": [],
       "to": "2026年10月11日"
-    },
-    {
-      "at": "2026-10-11T03:00:30.780Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "追加キャラクター「アルジュン」 & Outfit 2",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000072485",
-      "image": "https://img-eshop.cdn.nintendo.net/i/953a7ccc4f37167e9711842840e6f11062dbdad01fc4a2a567da34328ffbf4b3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026年12月31日",
-      "to": "2026年10月13日"
     }
   ]
 }
