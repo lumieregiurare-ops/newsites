@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-12T22:00:18.638Z",
+  "updatedAt": "2026-10-12T22:30:16.087Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 739,
+  "total": 740,
   "regions": {
     "jp": 603,
-    "global": 136
+    "global": 137
   },
   "categories": [
     {
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 26
+      "count": 27
     },
     {
       "id": "goods",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
     "Inside",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "4Gamer",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ba2c5bd274b3",
+      "url": "https://www.hauntedchocolatier.net/",
+      "host": "hauntedchocolatier.net",
+      "region": "global",
+      "title": "スターデューバレー",
+      "headline": "『スターデューバレー』作者の新作は「アクションRPG寄り」であることが明らかに。海外誌にて『Haunted Chocolatier』は『スターデューバレー』の鉱山探索や攻略にハマ…",
+      "description": "『スターデューバレー』作者の新作は「アクションRPG寄り」であることが明らかに。海外誌にて『Haunted Chocolatier』は『スターデューバレー』の鉱山探索や攻略にハマる人に向けた作品であると語られた",
+      "publishedAt": "2026-10-12T22:13:04.000Z",
+      "addedAt": "2026-10-12T22:30:16.087Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261013d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "74a55b677cb7",
       "url": "https://www.nomanssky.com/",
