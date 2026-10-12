@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T15:30:16.799Z",
+  "updatedAt": "2026-10-12T16:00:18.846Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 738,
+  "total": 739,
   "regions": {
-    "jp": 602,
+    "jp": 603,
     "global": 136
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 162
+      "count": 163
     },
     {
       "id": "release",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 25
+      "count": 26
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 164
+      "count": 165
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 220
+      "count": 221
     },
     {
       "id": "browser",
@@ -12707,6 +12707,40 @@
       "description": "ダンジョンの入口でキャンプでもしようよ。攻略Wiki。キャラクター、季節イベント、依頼、装備、共闘をゲームの実データで調べる冒険手帳。",
       "publishedAt": "2026-09-22T07:00:00.000Z",
       "addedAt": "2026-09-27T19:30:16.149Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6810914372"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "media",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0820089f4f63",
+      "url": "https://camp-wiki.kiabema.com/",
+      "host": "camp-wiki.kiabema.com",
+      "region": "jp",
+      "title": "ダンジョンの入口でキャンプでもしようよ。",
+      "headline": "Makio Abe / ロールプレイング · App Store 新着",
+      "description": "ダンジョンの入口でキャンプでもしようよ。攻略Wiki。キャラクター、季節イベント、依頼、装備、共闘をゲームの実データで調べる冒険手帳。",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "addedAt": "2026-10-12T16:00:18.846Z",
       "source": "App Store",
       "sources": [
         {
