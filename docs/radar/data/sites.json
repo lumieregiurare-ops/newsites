@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-12T04:00:14.715Z",
+  "updatedAt": "2026-10-12T04:30:17.231Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 732,
+  "total": 735,
   "regions": {
-    "jp": 599,
-    "global": 133
+    "jp": 600,
+    "global": 135
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 238
+      "count": 239
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 48
+      "count": 49
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 160
+      "count": 162
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 215
+      "count": 217
     },
     {
       "id": "browser",
@@ -121,17 +121,77 @@
     }
   ],
   "sources": [
+    "App Store",
+    "Inside",
     "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
-    "Inside",
     "GameBusiness.jp",
     "4Gamer",
-    "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d109c078ff15",
+      "url": "https://www.sifugame.com/",
+      "host": "sifugame.com",
+      "region": "global",
+      "title": "Sifu",
+      "headline": "Kepler Interactive / アクション · App Store 新着",
+      "description": "Sifu is the new game from Sloclap, the independent studio behind Absolver. A third person action game featuring intense…",
+      "publishedAt": "2026-10-12T04:30:27.210Z",
+      "addedAt": "2026-10-12T04:30:17.231Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6762813110"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://scontent-man2-1.xx.fbcdn.net/v/t1.6435-9/154249996_118257540301921_1506430860172275940_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=xI3XRZO4osgAX_6YFB9&_nc_ht=scontent-man2-1.xx&oh=00_AT97mHi8hTXsKH1XWe9Y8RSGasD48Q33l7BUSpIN-51o8A&oe=62958E97"
+    },
+    {
+      "id": "1d29a21fed5c",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/miffy-shining-days",
+      "host": "uniqlo.com",
+      "region": "jp",
+      "title": "ミッフィー",
+      "headline": "ユニクロから「ミッフィー」の新作UTが12月下旬発売！上品でモダンなデザインの全4種",
+      "description": "ユニクロから「ミッフィー」の新作UTが12月下旬発売！上品でモダンなデザインの全4種",
+      "publishedAt": "2026-10-12T04:30:03.000Z",
+      "addedAt": "2026-10-12T04:30:17.231Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/12/189141.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "de41686d108d",
       "url": "https://www.metasla.net/manaalchemy",
@@ -3583,6 +3643,39 @@
       ],
       "categories": [
         "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "97028de1ec22",
+      "url": "http://www.poncle.net/",
+      "host": "poncle.net",
+      "region": "global",
+      "title": "Vampire Crawlers",
+      "headline": "Poncle / アクション・カード · App Store 新着",
+      "description": "Poncle / アクション・カード · App Store 新着",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "addedAt": "2026-10-12T04:30:17.231Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6749456796"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "カード"
+      ],
+      "categories": [
         "goods"
       ],
       "platforms": [
