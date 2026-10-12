@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T22:30:16.087Z",
+  "updatedAt": "2026-10-12T23:00:18.673Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 740,
+  "total": 741,
   "regions": {
-    "jp": 603,
+    "jp": 604,
     "global": 137
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 242
+      "count": 243
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 165
+      "count": 166
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 221
+      "count": 222
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b6eeb3f38411",
+      "url": "https://apps.apple.com/jp/app/id6749456796",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Vampire Crawlers",
+      "headline": "『Vampire Crawlers』のモバイル版が配信開始。『ヴァンサバ』の魅力をカードゲームに落とし込んだスピンオフ作品",
+      "description": "Poncleの「Vampire Crawlers」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Vampire Crawlers」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-12T22:54:28.000Z",
+      "addedAt": "2026-10-12T23:00:18.673Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261013g"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/ef/0f/7fef0fde-55ac-5c5b-bf35-dfbdc1e3704e/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "ba2c5bd274b3",
       "url": "https://www.hauntedchocolatier.net/",
@@ -3747,7 +3780,7 @@
       "region": "jp",
       "title": "ダンジョンの入口でタクティクスでもしようよ",
       "headline": "Makio Abe / ロールプレイング・ストラテジー · App Store 新着",
-      "description": "ダンジョンの入口でタクティクスでもしようよ。攻略Wiki。キャラクター、装備、アビリティカード、クエスト、第二章、召喚確率を最新のゲームデータで調べる。",
+      "description": "ダンジョンの入口でタクティクスでもしようよ。攻略Wiki。キャラクター、装備、アビリティカード、クエスト、第二章、召喚確率を攻略情報と図鑑データを調べる。",
       "publishedAt": "2026-10-06T07:00:00.000Z",
       "addedAt": "2026-10-11T22:30:16.682Z",
       "source": "App Store",
