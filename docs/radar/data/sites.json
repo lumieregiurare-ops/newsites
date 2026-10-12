@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T09:00:16.295Z",
+  "updatedAt": "2026-10-12T09:29:39.700Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 736,
+  "total": 737,
   "regions": {
-    "jp": 601,
+    "jp": 602,
     "global": 135
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 240
+      "count": 241
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 163
+      "count": 164
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 218
+      "count": 219
     },
     {
       "id": "browser",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "917309d7da4d",
+      "url": "https://apps.apple.com/jp/app/id6819722885",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ニンニク入れますか？",
+      "headline": "「ニンニク入れますか？」と聞く側に！ 二郎系コール聞き取りゲーム『ニンニク入れますか？』がiPhoneで配信開始",
+      "description": "Larry Worksの「ニンニク入れますか？ - 二郎系コールゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ニンニク入れますか？ - 二郎系コールゲーム」に似たゲームを見る…",
+      "publishedAt": "2026-10-12T09:15:00.000Z",
+      "addedAt": "2026-10-12T09:29:39.700Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/12/game/3128503.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/90/c1/d190c1a9-5de8-fd49-f63e-1890ddaeacc6/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "2815a185e1da",
       "url": "https://apps.apple.com/jp/app/id6795510674",
