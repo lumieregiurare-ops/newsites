@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T03:00:16.636Z",
+  "updatedAt": "2026-10-12T03:30:15.179Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 731,
+  "total": 732,
   "regions": {
-    "jp": 598,
+    "jp": 599,
     "global": 133
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 121
+      "count": 122
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
     "4Gamer",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "de41686d108d",
+      "url": "https://www.metasla.net/manaalchemy",
+      "host": "metasla.net",
+      "region": "jp",
+      "title": "ヴァンサバ",
+      "headline": "『ヴァンサバ』がオープンワールドになったらどうなる！？魔法を錬金し、自由にビルドを組む『Mana Alchemy』を試遊！開発者にも聞いてみた",
+      "description": "『ヴァンサバ』がオープンワールドになったらどうなる！？魔法を錬金し、自由にビルドを組む『Mana Alchemy』を試遊！開発者にも聞いてみた",
+      "publishedAt": "2026-10-12T03:30:04.000Z",
+      "addedAt": "2026-10-12T03:30:15.179Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/12/173503.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/2477d4_c6237b5838f6487e8f80707cde239553%7Emv2.png/v1/fit/w_2500,h_1330,al_c/2477d4_c6237b5838f6487e8f80707cde239553%7Emv2.png"
+    },
     {
       "id": "82fb8fd4774a",
       "url": "https://apps.apple.com/jp/app/id6810581977",
