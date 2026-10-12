@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-12T06:00:19.630Z",
+  "updatedAt": "2026-10-12T06:30:15.881Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 735,
+  "total": 736,
   "regions": {
-    "jp": 600,
+    "jp": 601,
     "global": 135
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 239
+      "count": 240
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 162
+      "count": 163
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 217
+      "count": 218
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "App Store",
     "Inside",
     "Game*Spark",
-    "AppBank",
     "電ファミニコゲーマー",
     "GameBusiness.jp",
     "4Gamer",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2815a185e1da",
+      "url": "https://apps.apple.com/jp/app/id6795510674",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "終ヶ原",
+      "headline": "亡くなった人のスマホを調べる推理ゲーム『終ヶ原』がiOSで9月26日配信開始！",
+      "description": "SECOND LABO, K.K.の「終ヶ原｜スマホを漁る謎解き推理ゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「終ヶ原｜スマホを漁る謎解き推理ゲーム」に似たゲームを見ること…",
+      "publishedAt": "2026-10-12T06:00:00.000Z",
+      "addedAt": "2026-10-12T06:30:15.881Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/12/game/3128441.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/2d/63/f02d63c1-5743-8044-4d1f-889bfb657590/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "d109c078ff15",
       "url": "https://www.sifugame.com/",
