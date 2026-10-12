@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-12T23:00:18.673Z",
+  "updatedAt": "2026-10-12T23:30:22.130Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 741,
+  "total": 743,
   "regions": {
-    "jp": 604,
-    "global": 137
+    "jp": 605,
+    "global": 138
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 31
+      "count": 32
     },
     {
       "id": "prereg",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 138
+      "count": 139
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 243
+      "count": 244
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 222
+      "count": 223
     },
     {
       "id": "browser",
@@ -132,6 +132,66 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "63e4597d2f3a",
+      "url": "https://www.halowaypoint.com/ja-jp/halo-the-master-chief-collection",
+      "host": "halowaypoint.com",
+      "region": "jp",
+      "title": "Halo",
+      "headline": "『Halo』シリーズ6作品が遊べるコレクションが「75%」オフのセール中。定価5900円→1475円とお得に。伝説の英雄“マスターチーフ”を主軸とした名作宇宙FPS、合計67もの…",
+      "description": "『Halo』シリーズ6作品が遊べるコレクションが「75%」オフのセール中。定価5900円→1475円とお得に。伝説の英雄“マスターチーフ”を主軸とした名作宇宙FPS、合計67ものキャンペーンミッションを楽しめる",
+      "publishedAt": "2026-10-12T23:12:07.000Z",
+      "addedAt": "2026-10-12T23:30:22.130Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261013h"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f8ade991e68b",
+      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
+      "host": "nomanssky.com",
+      "region": "global",
+      "title": "ノーマンズスカイ",
+      "headline": "宇宙探索ゲーム『ノーマンズスカイ』iOS版が10月29日にリリース決定。なんと“過去10年分のアプデ”をすべて収録",
+      "description": "Hello everyone, A couple of years ago, shortly after we announced that No Man’s Sky was coming to Mac, someone on the t…",
+      "publishedAt": "2026-10-12T23:02:10.000Z",
+      "addedAt": "2026-10-12T23:30:22.130Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261013b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "スマホ"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg"
+    },
     {
       "id": "b6eeb3f38411",
       "url": "https://apps.apple.com/jp/app/id6749456796",

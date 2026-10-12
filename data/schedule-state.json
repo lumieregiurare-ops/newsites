@@ -2069,6 +2069,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/03/6e/29036e8a-fbda-9a2c-2936-9871e787fa91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "ノーマンズスカイ": {
+      "at": "2026-10-12T23:30:35.471Z",
+      "entry": null
     }
   },
   "titles": {
@@ -31105,6 +31109,30 @@
       "sortKey": "2026-10-14",
       "prereg": false,
       "firstSeen": "2026-10-12T23:00:30.001Z"
+    },
+    "scp:antimemeticsdivision": {
+      "title": "SCP: Antimemetics Division",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-12T23:30:35.265Z"
+    },
+    "shelfstacker:toystore": {
+      "title": "Shelf Stacker: Toy Store",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-12T23:30:35.265Z"
+    },
+    "ノーマンズスカイ": {
+      "title": "ノーマンズスカイ",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-12T23:30:35.265Z"
     }
   },
   "changeLog": [
@@ -35872,6 +35900,18 @@
       ],
       "from": "2026年10月31日",
       "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-12T23:30:35.265Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ノーマンズスカイ",
+      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月29日"
     }
   ],
   "initialized": true,

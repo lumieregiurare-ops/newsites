@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T23:00:30.001Z",
+  "updatedAt": "2026-10-12T23:30:35.265Z",
   "platforms": [
     {
       "id": "switch",
@@ -197,6 +197,23 @@
       "sourceUrl": "https://www.4gamer.net/games/048/G104861/20261008020/"
     },
     {
+      "id": "0b936c38c6a9",
+      "title": "ノーマンズスカイ",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "maker": "",
+      "headline": "宇宙探索ゲーム『ノーマンズスカイ』iOS版が10月29日にリリース決定。なんと“過去10年分のアプデ”をすべて収録",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261013b"
+    },
+    {
       "id": "36c5a42cf466",
       "title": "モンスターハンターアウトランダーズ",
       "date": "2026-10-29",
@@ -244,21 +261,6 @@
       "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
-    },
-    {
-      "id": "65bdf586c863",
-      "title": "GUNDAM ASSEMBLE",
-      "date": "2026-10-31",
-      "dateText": "2026年10月31日",
-      "sortKey": "2026-10-31",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://bandai-hobby.net/site/gundam-assemble/",
-      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg",
-      "maker": "",
-      "headline": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/987/G098756/20261002049/"
     }
   ],
   "prereg": [
@@ -447,6 +449,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-12T23:30:35.265Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ノーマンズスカイ",
+      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月29日"
+    },
+    {
       "at": "2026-10-12T16:00:36.236Z",
       "type": "moved_up",
       "label": "発売日前倒し",
@@ -505,18 +519,6 @@
         "mobile"
       ],
       "to": "App Store 2026年11月6日"
-    },
-    {
-      "at": "2026-10-11T06:30:29.092Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "深鳶",
-      "url": "https://www.taptap.cn/app/582728?os=android",
-      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
