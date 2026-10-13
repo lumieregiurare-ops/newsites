@@ -1466,7 +1466,7 @@
       "entry": null
     },
     "ブラウンダスト2": {
-      "at": "2026-10-10T00:30:32.358Z",
+      "at": "2026-10-13T01:00:29.919Z",
       "entry": {
         "trackId": "1299021478",
         "title": "ブラウンダスト",
@@ -2073,6 +2073,23 @@
     "ノーマンズスカイ": {
       "at": "2026-10-12T23:30:35.471Z",
       "entry": null
+    },
+    "ウィンドランナーGo!": {
+      "at": "2026-10-13T01:00:28.401Z",
+      "entry": {
+        "trackId": "6757690255",
+        "title": "ウィンドランナーGo!：放置系RPG",
+        "artist": "LightCON Co., Ltd.",
+        "genres": [
+          "ロールプレイング"
+        ],
+        "releaseDate": "2026-10-23T07:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6757690255",
+        "sellerUrl": "https://www.lightcon.net/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/9f/ba/389fbacd-f8d3-3999-057d-7d0add00dc67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -31141,21 +31158,41 @@
       "sortKey": "2026-10-14",
       "prereg": false,
       "firstSeen": "2026-10-13T00:00:30.705Z"
+    },
+    "创世遗志": {
+      "title": "创世遗志",
+      "dateText": "2026年10月14日",
+      "date": "2026-10-14",
+      "sortKey": "2026-10-14",
+      "prereg": false,
+      "firstSeen": "2026-10-13T01:00:28.173Z"
+    },
+    "emberquest": {
+      "title": "EmberQuest",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T01:00:28.173Z"
+    },
+    "ウィンドランナーgo!": {
+      "title": "ウィンドランナーGo!",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": true,
+      "firstSeen": "2026-10-13T01:00:28.173Z"
+    },
+    "warhammersurvivors": {
+      "title": "Warhammer Survivors",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-10-13T01:00:28.173Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T06:09:44.363Z",
-      "type": "new",
-      "label": "新規",
-      "title": "原神",
-      "url": "https://genshin.hoyoverse.com/ja/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年9月23日"
-    },
     {
       "at": "2026-09-14T06:09:44.363Z",
       "type": "prereg_start",
@@ -35920,6 +35957,30 @@
         "mobile"
       ],
       "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-13T01:00:28.173Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月23日"
+    },
+    {
+      "at": "2026-10-13T01:00:28.173Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月23日"
     }
   ],
   "initialized": true,

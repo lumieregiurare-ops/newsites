@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T00:30:15.331Z",
+  "updatedAt": "2026-10-13T01:00:16.382Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 743,
+  "total": 744,
   "regions": {
-    "jp": 605,
+    "jp": 606,
     "global": 138
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 85
+      "count": 86
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 244
+      "count": 245
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 223
+      "count": 224
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "AppBank",
     "App Store",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8f48e4c129fe",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ウィンドランナーGo!",
+      "headline": "事前登録特典はガチャチケット3,000連分など！ 放置系RPG『ウィンドランナーGo!』が10月中リリース予定",
+      "description": "爽快感MAX！ハクスラ・放置系RPG！今なら3000連無料",
+      "publishedAt": "2026-10-13T01:00:00.000Z",
+      "addedAt": "2026-10-13T01:00:16.382Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/13/game/3126980.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30"
+    },
     {
       "id": "63e4597d2f3a",
       "url": "https://www.halowaypoint.com/ja-jp/halo-the-master-chief-collection",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:30:28.156Z",
+  "updatedAt": "2026-10-13T01:00:28.173Z",
   "platforms": [
     {
       "id": "switch",
@@ -132,6 +132,25 @@
       "sourceUrl": "https://www.appbank.net/2026/10/01/game/3119348.php"
     },
     {
+      "id": "0737fcee90be",
+      "title": "ウィンドランナーGo!",
+      "date": "2026-10-23",
+      "dateText": "2026年10月23日",
+      "sortKey": "2026-10-23",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "maker": "",
+      "headline": "事前登録特典はガチャチケット3,000連分など！ 放置系RPG『ウィンドランナーGo!』が10月中リリース予定",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/13/game/3126980.php",
+      "announcedText": "2026年10月",
+      "dateSource": "appstore"
+    },
+    {
       "id": "0da155e96960",
       "title": "Phantom Line",
       "date": "2026-10-26",
@@ -246,24 +265,34 @@
       "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k"
-    },
-    {
-      "id": "e9f10c727077",
-      "title": "紅の砂漠",
-      "date": "2026-10-30",
-      "dateText": "2026年10月30日",
-      "sortKey": "2026-10-30",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://crimsondesert.pearlabyss.com/ja-JP/Main/Index",
-      "image": "https://s1.pearlcdn.com/cd/brand/metatag/2025/09/25/9bfc4760bba20250925065841384.jpg",
-      "maker": "",
-      "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
     }
   ],
   "prereg": [
+    {
+      "id": "8f48e4c129fe",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-13T01:00:00.000Z",
+      "releaseText": "2026年10月23日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "ガチャチケット3,000連分など！　放置系RPG『ウィンドランナーGo!",
+      "headline": "事前登録特典はガチャチケット3,000連分など！ 放置系RPG『ウィンドランナーGo!』が10月中リリース予定",
+      "description": "爽快感MAX！ハクスラ・放置系RPG！今なら3000連無料",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/13/game/3126980.php",
+      "appleId": "6757690255",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6757690255",
+        "preorder": true,
+        "releaseDate": "2026-10-23T07:00:00Z"
+      },
+      "trackId": "6757690255"
+    },
     {
       "id": "82fb8fd4774a",
       "title": "虫ストライクZ",
@@ -425,29 +454,33 @@
         "releaseDate": "2026-12-01T08:00:00Z"
       },
       "trackId": "6757841977"
-    },
-    {
-      "id": "2b29df343b06",
-      "title": "Inter BEE 2026、来場事前登録を開始",
-      "url": "https://www.inter-bee.com/",
-      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-02T22:00:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "Inter BEE 2026、来場事前登録を開始。AI・IP化・サステナビリティを軸に11月18日から幕張メッセで開催",
-      "description": "メディア総合イベントInter BEEの公式ウェブサイト。メディア＆エンターテインメント産業に関わる全ての最新技術、ソリューション、トレンドを発信する情報プラットフォームです。",
-      "source": "GameBusiness.jp",
-      "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/03/28208.html",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-13T01:00:28.173Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年10月23日"
+    },
+    {
+      "at": "2026-10-13T01:00:28.173Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月23日"
+    },
     {
       "at": "2026-10-12T23:30:35.265Z",
       "type": "new",
@@ -495,30 +528,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月"
-    },
-    {
-      "at": "2026-10-11T23:30:30.646Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "虫ストライクZ",
-      "url": "https://apps.apple.com/jp/app/id6810581977",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年11月7日"
-    },
-    {
-      "at": "2026-10-11T21:00:28.853Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "誰ガ為のアルケミスト ポートマスターズ",
-      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
-      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年11月6日"
     }
   ]
 }
