@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T12:30:17.786Z",
+  "updatedAt": "2026-10-13T13:00:22.298Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 772,
+  "total": 773,
   "regions": {
-    "jp": 633,
+    "jp": 634,
     "global": 139
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 170
+      "count": 171
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d75f319f525d",
+      "url": "https://idolmaster-official.jp/live_event/IUOAFA/",
+      "host": "idolmaster-official.jp",
+      "region": "jp",
+      "title": "アイマス",
+      "headline": "『アイマス』神崎蘭子、春日未来、小宮果穂が新ライブ「IDOL ULTIMATE ONCE AND FOR ALL」に出演！2027年7月24日に開催の第一公演に登場",
+      "description": "765 PRODUCTION × 961 PRODUCTION IDOL ULTIMATE ONCE AND FOR ALLの情報はこちらから！",
+      "publishedAt": "2026-10-13T13:00:22.298Z",
+      "addedAt": "2026-10-13T13:00:22.298Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1659361"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://idolmaster-official.jp/live_event/IUOAFA/ogp.png"
+    },
     {
       "id": "482e0ec445e2",
       "url": "https://play.google.com/store/apps/details?id=jp.konami.ps_sc6",
