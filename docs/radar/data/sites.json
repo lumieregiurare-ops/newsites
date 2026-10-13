@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T06:00:15.811Z",
+  "updatedAt": "2026-10-13T06:30:16.475Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 754,
+  "total": 755,
   "regions": {
-    "jp": 616,
+    "jp": 617,
     "global": 138
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 87
+      "count": 88
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 250
+      "count": 251
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 27
+      "count": 28
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "381ce9b69bb8",
+      "url": "https://rpg.jp/switch2/",
+      "host": "rpg.jp",
+      "region": "jp",
+      "title": "メタファー：リファンタジオ",
+      "headline": "『メタファー：リファンタジオ』Nintendo Switch 2版の体験版が配信開始、セーブデータは製品版に引継ぎ可能。国王選挙に巻き込まれた少年の運命を描くファンタジーRPG",
+      "description": "数々のゲームアワードに輝いた『メタファー：リファンタジオ』が、ついにNintendo Switch 2に登場！税込3,990円の新価格で予約受付中。アトラスが贈るファンタジーRPGをいつでもどこでも楽しもう。",
+      "publishedAt": "2026-10-13T06:28:21.000Z",
+      "addedAt": "2026-10-13T06:30:16.475Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610132i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "prereg"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://rpg.jp/switch2/ogp.jpg"
+    },
     {
       "id": "028f11ffb937",
       "url": "http://www.amusement-center.com/project/egg/",
