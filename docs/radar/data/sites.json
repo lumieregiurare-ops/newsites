@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T09:00:16.543Z",
+  "updatedAt": "2026-10-13T09:30:17.769Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 760,
+  "total": 761,
   "regions": {
-    "jp": 621,
+    "jp": 622,
     "global": 139
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 252
+      "count": 253
     },
     {
       "id": "indie",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ecb8f041a9ba",
+      "url": "https://www.pocoapokemon.jp/ja/pokemon/251113_02/",
+      "host": "pocoapokemon.jp",
+      "region": "jp",
+      "title": "うすチュウ",
+      "headline": "ポケモン公式、話題になった「うすチュウ」の開発資料を公開ー「尻尾を引きずって歩く」「すべてのパーツの色が薄い」など、見れば見るほど儚くて可愛い",
+      "description": "『ぽこ あ ポケモン』公式サイト。ポケモン初のスローライフ・サンドボックスゲーム！ 2026年3月5日（木）世界同時発売！",
+      "publishedAt": "2026-10-13T09:05:02.000Z",
+      "addedAt": "2026-10-13T09:30:17.769Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/13/189197.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pocoapokemon.jp/assets/og/pokemon/og_251113_02.jpg"
+    },
     {
       "id": "d7a7fc4b467e",
       "url": "https://itch.io/jam/lsdjam-2026",
