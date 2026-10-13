@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T14:30:37.290Z",
+  "updatedAt": "2026-10-13T15:00:28.736Z",
   "platforms": [
     {
       "id": "switch",
@@ -458,6 +458,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-13T15:00:28.736Z",
+      "type": "new",
+      "label": "新規",
+      "title": "スパイダー：エージェント8",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000134766",
+      "image": "https://img-eshop.cdn.nintendo.net/i/5cc60c65759f9955bae9d43bd2e17bf0550be4232f43759c0b62ce20612866a7.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年2月11日"
+    },
+    {
       "at": "2026-10-13T13:30:28.128Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -516,18 +528,6 @@
         "mobile"
       ],
       "to": "App Store 2026年10月23日"
-    },
-    {
-      "at": "2026-10-13T01:00:28.173Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月23日"
     }
   ]
 }
