@@ -2094,6 +2094,28 @@
     "ねこねこダンジョン": {
       "at": "2026-10-13T04:00:47.333Z",
       "entry": null
+    },
+    "デュエプレ": {
+      "at": "2026-10-13T10:00:31.417Z",
+      "entry": null
+    },
+    "Pokémon Sleep": {
+      "at": "2026-10-13T10:00:32.998Z",
+      "entry": {
+        "trackId": "1579464667",
+        "title": "Pokémon Sleep",
+        "artist": "The Pokemon Company",
+        "genres": [
+          "シミュレーション",
+          "ヘルスケア／フィットネス"
+        ],
+        "releaseDate": "2023-07-19T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1579464667",
+        "sellerUrl": "https://www.pokemonsleep.net/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/4c/95/0f4c95a6-4838-c217-1e99-167de82c4201/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -31338,21 +31360,49 @@
       "sortKey": "2026-10-14",
       "prereg": false,
       "firstSeen": "2026-10-13T09:00:36.443Z"
+    },
+    "robustislanddemo": {
+      "title": "Robust Island Demo",
+      "dateText": "2026年10月14日",
+      "date": "2026-10-14",
+      "sortKey": "2026-10-14",
+      "prereg": false,
+      "firstSeen": "2026-10-13T10:00:31.107Z"
+    },
+    "fpsperformancelab": {
+      "title": "FPS Performance Lab",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T10:00:31.107Z"
+    },
+    "seriousbara": {
+      "title": "Serious Bara",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T10:00:31.107Z"
+    },
+    "thinki-braingames": {
+      "title": "Thinki - Brain Games",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T10:00:31.107Z"
+    },
+    "かまいたちの夜": {
+      "title": "かまいたちの夜",
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
+      "prereg": false,
+      "firstSeen": "2026-10-13T10:00:31.107Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T06:09:44.363Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "マビノギモバイル",
-      "url": "https://mabinogimobile.nexon.com/Main/",
-      "image": "https://lwi.nexon.com/m_mabinogim/global/en/main/meta.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "9月24日に配信"
-    },
     {
       "at": "2026-09-14T06:20:34.158Z",
       "type": "prereg_start",
@@ -36129,6 +36179,18 @@
         "mobile"
       ],
       "to": "2026年10月23日"
+    },
+    {
+      "at": "2026-10-13T10:00:31.107Z",
+      "type": "new",
+      "label": "新規",
+      "title": "かまいたちの夜",
+      "url": "https://zakuzaku-game.com/rd/",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年11月"
     }
   ],
   "initialized": true,

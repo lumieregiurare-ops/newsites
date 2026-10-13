@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T09:30:17.769Z",
+  "updatedAt": "2026-10-13T10:00:19.150Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 761,
+  "total": 764,
   "regions": {
-    "jp": 622,
+    "jp": 625,
     "global": 139
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 142
+      "count": 144
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 167
+      "count": 168
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 253
+      "count": 254
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 93
+      "count": 94
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 228
+      "count": 230
     },
     {
       "id": "browser",
@@ -121,17 +121,110 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
+    "4Gamer",
+    "AppBank",
     "Inside",
     "Game*Spark",
-    "4Gamer",
-    "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "76f872975d8b",
+      "url": "https://zakuzaku-game.com/rd/",
+      "host": "zakuzaku-game.com",
+      "region": "jp",
+      "title": "かまいたちの夜",
+      "headline": "『かまいたちの夜』我孫子武丸氏が完全監修するミステリーゲーム『RDの遠隔推理』体験版が11月にSteamで配信決定",
+      "description": "『かまいたちの夜』我孫子武丸氏が完全監修するミステリーゲーム『RDの遠隔推理』体験版が11月にSteamで配信決定",
+      "publishedAt": "2026-10-13T10:00:04.000Z",
+      "addedAt": "2026-10-13T10:00:19.150Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610132u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "4fb6cb871819",
+      "url": "https://dmps.takaratomy.co.jp/",
+      "host": "dmps.takaratomy.co.jp",
+      "region": "jp",
+      "title": "デュエプレ",
+      "headline": "「デュエプレ」，「にじさんじ」とのコラボ第7弾を10月22日より開催。リゼ・ヘルエスタさん，鈴原るるさんらが登場",
+      "description": "DUEL MASTERS PLAY",
+      "publishedAt": "2026-10-13T09:47:38.000Z",
+      "addedAt": "2026-10-13T10:00:19.150Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/518/G051896/20261013038/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://dmps.takaratomy.co.jp/common/img/og_image.png"
+    },
+    {
+      "id": "7cc49f2eca93",
+      "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonsleep",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "Pokémon Sleep",
+      "headline": "カビゴンと眠りを見直そう！『Pokémon Sleep』コラボの睡眠啓発動画をエーザイが公開",
+      "description": "スマホを使って、睡眠を計測・記録・分析するゲームアプリ！睡眠リズムを整えて、ポケモンのいろいろな寝顔を見つけよう！",
+      "publishedAt": "2026-10-13T09:40:00.000Z",
+      "addedAt": "2026-10-13T10:00:19.150Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/13/game/3130209.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU=s0-br30"
+    },
     {
       "id": "ecb8f041a9ba",
       "url": "https://www.pocoapokemon.jp/ja/pokemon/251113_02/",
@@ -5080,6 +5173,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/760/G076029/20261005019/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/13/189202.html"
         }
       ],
       "tags": [
