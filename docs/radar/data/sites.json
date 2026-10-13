@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T05:30:15.269Z",
+  "updatedAt": "2026-10-13T06:00:15.811Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 751,
+  "total": 754,
   "regions": {
-    "jp": 613,
+    "jp": 616,
     "global": 138
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 86
+      "count": 87
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 165
+      "count": 166
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 249
+      "count": 250
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 167
+      "count": 168
     },
     {
       "id": "official",
@@ -132,6 +132,88 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "028f11ffb937",
+      "url": "http://www.amusement-center.com/project/egg/",
+      "host": "amusement-center.com",
+      "region": "jp",
+      "title": "クリムゾン（MSX2版）",
+      "headline": "父の遺志を継ぎ，統首“クリムゾン”を討て。「クリムゾン（MSX2版）」，プロジェクトEGGで会員向けに無料配信開始",
+      "description": "父の遺志を継ぎ，統首“クリムゾン”を討て。「クリムゾン（MSX2版）」，プロジェクトEGGで会員向けに無料配信開始",
+      "publishedAt": "2026-10-13T05:57:04.000Z",
+      "addedAt": "2026-10-13T06:00:15.811Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G000896/20261013018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f829a5476466",
+      "url": "https://www.e-capcom.com/sp/chibicapcom/jp/",
+      "host": "e-capcom.com",
+      "region": "jp",
+      "title": "逆転裁判",
+      "headline": "「逆転裁判」より成歩堂龍一と御剣怜侍のぬいぐるみが登場。カプコンのグッズシリーズ「ちびかぷ」，予約受付を開始",
+      "description": "カプコンデザイナーによる完全描き下ろしアートとプロデューサー監修のもと生まれたカプコンオリジナルシリーズ「ちびかぷ」",
+      "publishedAt": "2026-10-13T05:54:10.000Z",
+      "addedAt": "2026-10-13T06:00:15.811Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/805/G080590/20261013017/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods",
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.e-capcom.com/sp/chibicapcom/ogp.png"
+    },
+    {
+      "id": "f457854ec15c",
+      "url": "https://tokyogamedungeon.com/",
+      "host": "tokyogamedungeon.com",
+      "region": "jp",
+      "title": "穢れ憑きの少女 鳴海龍也の回奇録",
+      "headline": "2人の少女と呪物が引き起こす事件を追う。謎を解きながら呪いの真相に迫る探索型ホラーADV「穢れ憑きの少女 鳴海龍也の回奇録」発表",
+      "description": "「東京ゲームダンジョン」・「大阪ゲームダンジョン」は個人や小規模チームが制作するデジタル・ゲーム（インディゲーム）の展示会です。手頃な出展料と充実した設備で、気軽に作品を出展・試遊できるイベントを目指しています。主催者も個人でゲームを作っ…",
+      "publishedAt": "2026-10-13T05:37:31.000Z",
+      "addedAt": "2026-10-13T06:00:15.811Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104953/20261013016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tokyogamedungeon.com/wp-content/uploads/2026/08/tgd14_Facebook_1640x856.png"
+    },
     {
       "id": "5a030a816c0a",
       "url": "https://game.neoscorp.jp/shinchan",
