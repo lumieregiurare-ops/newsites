@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T10:00:19.150Z",
+  "updatedAt": "2026-10-13T10:30:17.684Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 764,
+  "total": 767,
   "regions": {
-    "jp": 625,
+    "jp": 628,
     "global": 139
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 50
+      "count": 52
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 169
+      "count": 171
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 124
+      "count": 125
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 230
+      "count": 232
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "779c9cf4b18d",
+      "url": "https://novelgame.jp/games/show/15025",
+      "host": "novelgame.jp",
+      "region": "jp",
+      "title": "ラ・ヴィ・アン・ヴィアンド",
+      "headline": "教主を務める主人公が肉を食べ続ける。陰鬱ノロケ肉ノベル「ラ・ヴィ・アン・ヴィアンド」，ノベルゲームコレクションで公開",
+      "description": "森の中のとある宗教施設。教主フォリィは夫が料理する肉を食べ続ける。食べるしかないの。たとえ日ごと衰えども。身をやつす食卓の果て、その教会は夫婦の門出を祝う。",
+      "publishedAt": "2026-10-13T10:07:30.000Z",
+      "addedAt": "2026-10-13T10:30:17.684Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104980/20261013041/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://novelgame.jp/files/picture/14384/m_0_1791650966_38bfc850b021855fe0ca82c68ec1e953_fes.png"
+    },
     {
       "id": "76f872975d8b",
       "url": "https://zakuzaku-game.com/rd/",
@@ -334,6 +361,40 @@
       "platforms": [],
       "points": null,
       "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=36"
+    },
+    {
+      "id": "3fd841df8e29",
+      "url": "https://apps.apple.com/jp/app/id6811791418",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "[777Real]e 七つの大罪3",
+      "headline": "Sammy Networks Co., Ltd. / カジノ・エンターテインメント · App Store 新着",
+      "description": "Sammy Networks Co., Ltd.の「[777Real]e 七つの大罪3」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[777Real]e 七つの大罪3」に似たゲーム…",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "addedAt": "2026-10-13T10:30:17.684Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6811791418"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/31/a8/a931a841-002c-985a-acd0-d78e2b77db0c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "dc6d8852d699",
@@ -916,6 +977,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/90/c1/d190c1a9-5de8-fd49-f63e-1890ddaeacc6/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "41a7244962d1",
+      "url": "https://www.konami.com/amusement/psm/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "パチスロ 戦国コレクション６",
+      "headline": "KONAMI / カジノ・エンターテインメント · App Store 新着",
+      "description": "「株式会社コナミアミューズメント」の製品・サービス情報のパチンコ・パチスロ情報サイトです。",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "addedAt": "2026-10-13T10:30:17.684Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6783610245"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "2815a185e1da",
