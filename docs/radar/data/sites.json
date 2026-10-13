@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T07:30:17.850Z",
+  "updatedAt": "2026-10-13T08:00:20.230Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 759,
+  "total": 760,
   "regions": {
-    "jp": 620,
+    "jp": 621,
     "global": 139
   },
   "categories": [
@@ -35,17 +35,17 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 166
+      "count": 167
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 251
+      "count": 252
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 13
+      "count": 14
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d7a7fc4b467e",
+      "url": "https://itch.io/jam/lsdjam-2026",
+      "host": "itch.io",
+      "region": "jp",
+      "title": "LSD",
+      "headline": "初代PSの怪作『LSD』発売日を祝うゲームジャム「LSDJAM」2026年も開催。「ドリーム・エミュレーター」なゲームが集結へ―参加者を募集中",
+      "description": "A game jam from 2026-10-21 to 2027-03-01 hosted by Figglewatts. Welcome to the annual LSDJAM event for 2026! This is th…",
+      "publishedAt": "2026-10-13T07:45:02.000Z",
+      "addedAt": "2026-10-13T08:00:20.230Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/13/173541.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://img.itch.zone/aW1nLzMwNzk5MDgxLnBuZw==/original/Be%2FXYj.png"
+    },
     {
       "id": "a9c423b3eed7",
       "url": "https://mtg-jp.com/",
