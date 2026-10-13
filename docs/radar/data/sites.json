@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T11:30:16.604Z",
+  "updatedAt": "2026-10-13T12:00:18.738Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 769,
+  "total": 770,
   "regions": {
-    "jp": 630,
+    "jp": 631,
     "global": 139
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 126
+      "count": 127
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 94
+      "count": 95
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0ba13a68cfa9",
+      "url": "https://playism.com/game/dyping-working/",
+      "host": "playism.com",
+      "region": "jp",
+      "title": "Dyping Working: 作業監視ゲーム",
+      "headline": "“目玉”に監視されながら作業をするホラーADV「Dyping Working: 作業監視ゲーム」，Steamストアページを公開",
+      "description": "画面の\"目玉\"に監視されながら作業を進めるゲーム。『DYPING』シリーズの新作となる作業用ホラーアドベンチャーゲームです。",
+      "publishedAt": "2026-10-13T11:57:13.000Z",
+      "addedAt": "2026-10-13T12:00:18.738Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104985/20261013054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://playism.com/wp-content/uploads/2026/10/1920x1080_Keyart.png"
+    },
     {
       "id": "7dcdb0debbd3",
       "url": "https://puyo.sega.jp/PuyoPuyo_eSports/",
@@ -436,6 +465,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6811791418"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/13/game/3130483.php"
         }
       ],
       "tags": [
@@ -443,7 +476,8 @@
         "スマホ",
         "iOS",
         "カジノ",
-        "エンターテインメント"
+        "エンターテインメント",
+        "Android"
       ],
       "categories": [
         "company",
@@ -4340,7 +4374,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/6e/8f/586e8f97-1934-43a6-15c4-dbcfdc2ddb34/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/2a/bc/632abceb-2bd4-6ebd-34e5-680ca81f15ee/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "86f46e1b838c",
