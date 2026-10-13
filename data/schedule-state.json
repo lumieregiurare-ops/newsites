@@ -19860,9 +19860,9 @@
     },
     "capitalize-techindustry": {
       "title": "Capitalize - Tech Industry",
-      "dateText": "2026年10月1日",
-      "date": "2026-10-01",
-      "sortKey": "2026-10-01",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-09-30T07:00:32.892Z"
     },
@@ -23574,7 +23574,7 @@
     },
     "千年の旅elf": {
       "title": "千年の旅ELF",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-02T09:30:44.401Z"
     },
     "ドラゴンレイド：アナザーワールド": {
@@ -31416,22 +31416,33 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-13T10:30:29.749Z"
+    },
+    "haunt": {
+      "title": "HAUNT",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T11:00:28.021Z"
+    },
+    "tokyocanvas": {
+      "title": "Tokyo Canvas",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-13T11:00:28.021Z"
+    },
+    "tidyupthetown": {
+      "title": "Tidy Up the Town",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-13T11:00:28.021Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T06:20:34.158Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "灼眼のシャナ ブレイズエッジ",
-      "url": "https://g123.jp/game/shakugan/?lang=ja",
-      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/6f72c5e38d8121ae6a8c3eddf874389164cb68a6f9ab32a1197e4e3a.png",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-09-14T07:21:08.690Z",
       "type": "moved_up",
@@ -36207,6 +36218,18 @@
         "pc"
       ],
       "to": "2026年11月"
+    },
+    {
+      "at": "2026-10-13T11:00:28.021Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月14日"
     }
   ],
   "initialized": true,

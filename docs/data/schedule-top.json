@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T10:30:29.749Z",
+  "updatedAt": "2026-10-13T11:00:28.021Z",
   "platforms": [
     {
       "id": "switch",
@@ -458,6 +458,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-13T11:00:28.021Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年10月14日"
+    },
+    {
       "at": "2026-10-13T10:00:31.107Z",
       "type": "new",
       "label": "新規",
@@ -517,19 +529,6 @@
       ],
       "from": "2026年10月31日",
       "to": "2026年10月15日"
-    },
-    {
-      "at": "2026-10-12T14:00:35.736Z",
-      "type": "new",
-      "label": "新規",
-      "title": "No Man's Sky",
-      "url": "https://www.nomanssky.com/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "platforms": [
-        "ps",
-        "mobile"
-      ],
-      "to": "2026年10月28日"
     }
   ]
 }
