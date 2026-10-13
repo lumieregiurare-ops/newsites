@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-13T03:00:16.770Z",
+  "updatedAt": "2026-10-13T03:30:17.080Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 745,
+  "total": 748,
   "regions": {
-    "jp": 607,
+    "jp": 610,
     "global": 138
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 33
+      "count": 35
     },
     {
       "id": "prereg",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 164
+      "count": 165
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 245
+      "count": 246
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 225
+      "count": 226
     },
     {
       "id": "browser",
@@ -121,17 +121,107 @@
     }
   ],
   "sources": [
-    "AppBank",
+    "4Gamer",
     "電ファミニコゲーマー",
+    "AppBank",
     "Game*Spark",
     "App Store",
     "Inside",
     "GameBusiness.jp",
-    "4Gamer",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f0aea1de0a80",
+      "url": "https://naruto-official.com/special/rasengan/project3/",
+      "host": "naruto-official.com",
+      "region": "jp",
+      "title": "NARUTO-ナルト-",
+      "headline": "「NARUTO-ナルト-」を題材とした対戦アクションゲーム「火影忍者 MOBILE」，全世界でのリリースが決定。ティザーPVも公開中",
+      "description": "ナルトたちの物語を追体験しながら、アニメさながらの忍術や奥義演出、スピード感あふれるバトルを楽しめる。 歴代シリーズから数多くの忍がプレイアブルキャラクターとして登場！自分だけのチームを編成して、夢のバトルに挑もう！",
+      "publishedAt": "2026-10-13T03:23:08.000Z",
+      "addedAt": "2026-10-13T03:30:17.080Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104937/20261013005/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://naruto-official.com/special/rasengan/assets/ogp/og-image-ja.png"
+    },
+    {
+      "id": "44f70f6abb9f",
+      "url": "https://zen.ac.jp/",
+      "host": "zen.ac.jp",
+      "region": "jp",
+      "title": "月刊アスキー",
+      "headline": "「アキバ」を巡って街の歴史を辿る、元『月刊アスキー』編集長・遠藤諭氏による”街歩き講義”が開催。若者からは石丸電気のテレビCMに「知らない」の声も。ジェネレーションギャップ……！",
+      "description": "ZEN大学は、1つの学部でIT・AIからクリエイティブまで横断的に学べるカリキュラムが特徴の新しいオンライン大学です。年間授業料は38万円。通信制高校からの進学や社会人入学にも最適。出願に向けた無料の資料請求はこちらから！",
+      "publishedAt": "2026-10-13T03:07:29.000Z",
+      "addedAt": "2026-10-13T03:30:17.080Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2610132d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://zen.ac.jp/ogp.png"
+    },
+    {
+      "id": "b510486660ae",
+      "url": "https://sin-of-astraea.com/",
+      "host": "sin-of-astraea.com",
+      "region": "jp",
+      "title": "PROJECT SIGN：Astraea",
+      "headline": "女性向けゲームブランド MintLip+，完全新規乙女ゲーム「PROJECT SIGN：Astraea」のティザーサイトを公開。10月19日12：00に“資料”公開へ",
+      "description": "エディアの乙女ゲームブランド「MintLip+」が贈る完全新作タイトル『PROJECT SIGN:Astraea』ティザーサイト。",
+      "publishedAt": "2026-10-13T03:00:00.000Z",
+      "addedAt": "2026-10-13T03:30:17.080Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/949/G094998/20261010012/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/13/189162.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "8e7c79544c84",
       "url": "https://apps.apple.com/jp/app/id852882903",
