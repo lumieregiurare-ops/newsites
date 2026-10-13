@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-13T07:00:17.447Z",
+  "updatedAt": "2026-10-13T07:30:17.850Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 757,
+  "total": 759,
   "regions": {
-    "jp": 619,
-    "global": 138
+    "jp": 620,
+    "global": 139
   },
   "categories": [
     {
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 168
+      "count": 169
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 123
+      "count": 124
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 227
+      "count": 228
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
     "App Store",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a9c423b3eed7",
+      "url": "https://mtg-jp.com/",
+      "host": "mtg-jp.com",
+      "region": "jp",
+      "title": "MTG",
+      "headline": "「MTG」×マーベルの新セット「ダークホールド・デスティニー」発表。ドクター・ストレンジら4人を中心に完全新作ストーリーを展開",
+      "description": "世界中で５千万人を超えるプレイヤーとファンを持つ世界最高の戦略トレーディングカードゲーム、マジック：ザ・ギャザリングの日本公式ウェブサイト。",
+      "publishedAt": "2026-10-13T07:26:04.000Z",
+      "addedAt": "2026-10-13T07:30:17.850Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/136/G013687/20261013024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mtg-jp.com/assets/images/common/og-image-20260908.png"
+    },
     {
       "id": "e174d0d94c91",
       "url": "https://www.konami.com/games/castlevania/belmonts_curse/jp/ja/product",
@@ -1019,6 +1046,39 @@
       ],
       "points": null,
       "image": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ=s0-br30"
+    },
+    {
+      "id": "6821644f264f",
+      "url": "https://rawfury.com/games/dome-keeper/",
+      "host": "rawfury.com",
+      "region": "global",
+      "title": "Dome Keeper ドームキーパー",
+      "headline": "Raw Fury / ストラテジー・アクション · App Store 新着",
+      "description": "Dome Keeper is a unique rogue-lite mining game in which players battle increasingly powerful waves of shadowy monsters.…",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "addedAt": "2026-10-13T07:30:17.850Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6755046527"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://rawfury.com/wp-content/uploads/2022/04/DK_RF_Website_BoxArt_2.png"
     },
     {
       "id": "52ab6f084262",
