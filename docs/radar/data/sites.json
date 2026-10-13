@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-13T01:29:55.070Z",
+  "updatedAt": "2026-10-13T02:00:16.907Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 744,
+  "total": 745,
   "regions": {
-    "jp": 606,
+    "jp": 607,
     "global": 138
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 32
+      "count": 33
     },
     {
       "id": "prereg",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 139
+      "count": 140
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 163
+      "count": 164
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 224
+      "count": 225
     },
     {
       "id": "browser",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8e7c79544c84",
+      "url": "https://apps.apple.com/jp/app/id852882903",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "グラブルフェス2026",
+      "headline": "『グラブルフェス2026』で『サンリオキャラクターズ』とのコラボ決定！ 12月26日開催、初公開イラスト8点",
+      "description": "Cygames, Inc.の「グランブルーファンタジー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「グランブルーファンタジー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-13T01:45:00.000Z",
+      "addedAt": "2026-10-13T02:00:16.907Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/13/game/3127206.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "teaser",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/dd/18/92dd18a5-5dc2-281f-6aef-d119b30fd91e/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "8f48e4c129fe",
       "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
