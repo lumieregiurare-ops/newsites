@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T22:30:17.561Z",
+  "updatedAt": "2026-10-13T23:00:19.516Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 775,
+  "total": 776,
   "regions": {
-    "jp": 636,
+    "jp": 637,
     "global": 139
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 145
+      "count": 146
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 171
+      "count": 172
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d520161b02fe",
+      "url": "https://www.pringles.com/jp/home.htm",
+      "host": "pringles.com",
+      "region": "jp",
+      "title": "200年分のプリングルズ",
+      "headline": "プリングルズ、死後に遺灰を“プリングルズ缶”に埋葬すると誓えば「200年分のプリングルズ」が当たる海外向けキャンペーンを開催。当選者には特製の缶型骨壺と200年分相当の現金2万8…",
+      "description": "プリングルズ、死後に遺灰を“プリングルズ缶”に埋葬すると誓えば「200年分のプリングルズ」が当たる海外向けキャンペーンを開催。当選者には特製の缶型骨壺と200年分相当の現金2万8080ドルが贈呈",
+      "publishedAt": "2026-10-13T22:37:13.000Z",
+      "addedAt": "2026-10-13T23:00:19.516Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261014b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "cad4bab2b30a",
       "url": "https://gamefound.com/en/projects/mood-publishing/satisfactory-the-board-game",
