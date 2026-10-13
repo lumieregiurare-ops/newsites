@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T12:00:18.738Z",
+  "updatedAt": "2026-10-13T12:30:17.786Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 770,
+  "total": 772,
   "regions": {
-    "jp": 631,
+    "jp": 633,
     "global": 139
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 169
+      "count": 170
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 254
+      "count": 255
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 27
+      "count": 28
     },
     {
       "id": "goods",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 232
+      "count": 233
     },
     {
       "id": "browser",
@@ -121,17 +121,77 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "AppBank",
     "Inside",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "482e0ec445e2",
+      "url": "https://play.google.com/store/apps/details?id=jp.konami.ps_sc6",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "戦国コレクション６",
+      "headline": "スマスロ『戦国コレクション６』のシミュレーターアプリ『パチスロ 戦国コレクション６』が配信開始！ 価格は1,800円",
+      "description": "「パチスロ 戦国コレクション６」がアプリで登場！",
+      "publishedAt": "2026-10-13T12:10:00.000Z",
+      "addedAt": "2026-10-13T12:30:17.786Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/13/game/3130676.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/2mpS8EXg5EEsrsf9vrrM2JXSA8jysDKzuyjW8ay-1Vy6XpoGh5VzijaTrCqiKiOBEjo6-iXgjgBDzp7-kc0Y=s0-br30"
+    },
+    {
+      "id": "7a3c0669f44d",
+      "url": "https://sqex.to/LQSYU",
+      "host": "sqex.to",
+      "region": "jp",
+      "title": "FF14",
+      "headline": "『FF14』日本リージョン全データセンターでマッチング可能に！「リージョン内フリーマッチング」公開、期間限定イベント「守護天節」も10月15日より開催",
+      "description": "開催期間 / 2026年10月15日（木）17:00頃 ～ 11月2日（月）23:59頃",
+      "publishedAt": "2026-10-13T12:03:18.000Z",
+      "addedAt": "2026-10-13T12:30:17.786Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/13/173556.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lds-img.finalfantasyxiv.com/h/J/qNnMt1AmuNtGhu9r3FN_noNwRs.jpg"
+    },
     {
       "id": "0ba13a68cfa9",
       "url": "https://playism.com/game/dyping-working/",
