@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T06:30:16.475Z",
+  "updatedAt": "2026-10-13T07:00:17.447Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 755,
+  "total": 757,
   "regions": {
-    "jp": 617,
+    "jp": 619,
     "global": 138
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 141
+      "count": 142
     },
     {
       "id": "event",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 122
+      "count": 123
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e174d0d94c91",
+      "url": "https://www.konami.com/games/castlevania/belmonts_curse/jp/ja/product",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "Castlevania: Belmont's Curse",
+      "headline": "Game*Sparkレビュー：12年ぶりの完全新作『Castlevania: Belmont's Curse』は伝統の血脈と過酷な宿命が織りなす傑作―鞭とタロットが紡ぐ新時代の「…",
+      "description": "その赤き呪いは、絶望か希望か。 「悪魔城伝説」の23年後を描くシリーズ最新作がついに登場！ 15世紀パリを舞台に、ベルモンド家の戦いが再び幕を開ける―。",
+      "publishedAt": "2026-10-13T07:00:03.000Z",
+      "addedAt": "2026-10-13T07:00:17.447Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/13/173540.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=36"
+    },
+    {
+      "id": "dc6d8852d699",
+      "url": "https://www.kanken.or.jp/kanken/fun/tamagotchi.html",
+      "host": "kanken.or.jp",
+      "region": "jp",
+      "title": "たまごっち",
+      "headline": "『たまごっち』がまさかの「漢検」とコラボ。たまごっちたちを題材にした問題に挑戦できるオリジナルプリントが公開",
+      "description": "『たまごっち』とコラボレーションした漢字プリント「『たまごっち』漢字検定」の紹介ページです。",
+      "publishedAt": "2026-10-13T06:30:17.000Z",
+      "addedAt": "2026-10-13T07:00:17.447Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610132m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.kanken.or.jp/kanken/kanken-og.png"
+    },
     {
       "id": "381ce9b69bb8",
       "url": "https://rpg.jp/switch2/",
