@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T16:00:19.853Z",
+  "updatedAt": "2026-10-13T16:30:17.862Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 774,
+  "total": 775,
   "regions": {
-    "jp": 635,
+    "jp": 636,
     "global": 139
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 171
+      "count": 172
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 233
+      "count": 234
     },
     {
       "id": "browser",
@@ -602,6 +602,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/31/a8/a931a841-002c-985a-acd0-d78e2b77db0c/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "2c60744753a6",
+      "url": "https://www.sentabijp.com/",
+      "host": "sentabijp.com",
+      "region": "jp",
+      "title": "千年の旅ELF",
+      "headline": "Kibi Play / シミュレーション・ロールプレイング · App Store 新着",
+      "description": "無罪を語る叙事詩",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "addedAt": "2026-10-13T16:30:17.862Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6762710814"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.sentabijp.com/favicon.ico"
     },
     {
       "id": "dc6d8852d699",
