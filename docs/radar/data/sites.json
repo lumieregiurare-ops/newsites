@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-13T04:00:17.214Z",
+  "updatedAt": "2026-10-13T04:30:15.470Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 750,
+  "total": 751,
   "regions": {
-    "jp": 612,
+    "jp": 613,
     "global": 138
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 140
+      "count": 141
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 248
+      "count": 249
     },
     {
       "id": "indie",
@@ -77,12 +77,12 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 26
+      "count": 27
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5a030a816c0a",
+      "url": "https://game.neoscorp.jp/shinchan",
+      "host": "game.neoscorp.jp",
+      "region": "jp",
+      "title": "オラ夏",
+      "headline": "Switch2版「オラ夏」「炭シロ」，2027年3月4日発売決定。2作品入りパッケージも登場。60fpsや高解像度，マウス操作に対応",
+      "description": "「ぼくのなつやすみ」シリーズ監督綾部和が贈る新しい冒険物語！Nintendo Switchソフト「クレヨンしんちゃん『オラと博士の夏休み』〜おわらない七日間の旅〜」",
+      "publishedAt": "2026-10-13T04:13:11.000Z",
+      "addedAt": "2026-10-13T04:30:15.470Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104941/20261013006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "platforms": [
+        "switch",
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://game.neoscorp.jp/shinchan/img/ogp_jp.jpg"
+    },
     {
       "id": "448149445e71",
       "url": "https://shiroikoibito.ishiya.co.jp/",
@@ -275,6 +306,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/13/173535.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610132g"
         }
       ],
       "tags": [
