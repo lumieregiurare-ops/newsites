@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T02:30:15.069Z",
+  "updatedAt": "2026-10-14T03:00:19.262Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 778,
+  "total": 779,
   "regions": {
-    "jp": 639,
+    "jp": 640,
     "global": 139
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 78
+      "count": 79
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 172
+      "count": 173
     },
     {
       "id": "release",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f54e05a2dc0c",
+      "url": "https://hololive-grandreception.hololivepro.com/",
+      "host": "hololive-grandreception.hololivepro.com",
+      "region": "jp",
+      "title": "ファンからもらって嬉しかったもの",
+      "headline": "ホロライブタレントは「ファンからもらって嬉しかったもの」にどう答えた？ ボリュームたっぷりの9周年展示イベントに「時間がいくらあっても足りない！」【「hololive Grand…",
+      "description": "ホロライブプロダクションの大規模巡回展示会「hololive Grand Reception ～感謝を込めた招待状～」が東京・大阪・名古屋・福岡にて順次開催予定！",
+      "publishedAt": "2026-10-14T03:00:03.000Z",
+      "addedAt": "2026-10-14T03:00:19.262Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/14/189227.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hololive-grandreception.hololivepro.com/wp-content/themes/hololive/assets/img/ogp.jpg"
+    },
     {
       "id": "d978bc2ae33a",
       "url": "https://play.google.com/store/apps/details?id=com.quesera.nientum",
