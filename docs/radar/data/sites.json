@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T10:30:22.428Z",
+  "updatedAt": "2026-10-14T11:00:20.997Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 792,
+  "total": 794,
   "regions": {
-    "jp": 650,
+    "jp": 652,
     "global": 142
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 90
+      "count": 91
     },
     {
       "id": "anniversary",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 174
+      "count": 175
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 240
+      "count": 241
     },
     {
       "id": "browser",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2d8d5c03d78b",
+      "url": "https://www.juheiso-game.jp/",
+      "host": "juheiso-game.jp",
+      "region": "jp",
+      "title": "重兵装型女子高生",
+      "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
+      "description": "necoが描く『重兵装型女子高生』がふれあえる放置系RPGで登場！",
+      "publishedAt": "2026-10-14T11:00:20.997Z",
+      "addedAt": "2026-10-14T11:00:20.997Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1660390"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.juheiso-game.jp/assets/images/common/img_ogp.png"
+    },
     {
       "id": "8e83f9fbddda",
       "url": "https://www.hamster.co.jp/",
@@ -586,6 +614,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/6f/e3/fc6fe352-22bc-ed7b-47fc-f35f2dbc8acf/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "aa357205abbe",
+      "url": "https://apps.apple.com/jp/app/id6818320422",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "放置カードRPGセカンドウェーブ",
+      "headline": "akaimikan / カード・エンターテインメント · App Store 新着",
+      "description": "akaimikanの「放置カードRPGセカンドウェーブ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「放置カードRPGセカンドウェーブ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-14T01:11:45.000Z",
+      "addedAt": "2026-10-14T11:00:20.997Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6818320422"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/8b/a3/f68ba3ff-60e7-99dc-002e-80832873ac5f/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "d520161b02fe",

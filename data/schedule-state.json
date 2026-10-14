@@ -815,7 +815,7 @@
       "entry": null
     },
     "あんさんぶるスターズ！！": {
-      "at": "2026-10-11T10:30:39.695Z",
+      "at": "2026-10-14T11:00:34.721Z",
       "entry": {
         "trackId": "1494428618",
         "title": "あんさんぶるスターズ！！Music",
@@ -851,7 +851,7 @@
       }
     },
     "Lumi Master": {
-      "at": "2026-10-11T11:00:32.672Z",
+      "at": "2026-10-14T11:00:36.097Z",
       "entry": {
         "trackId": "6754979232",
         "title": "Lumi Master（るぅみマスター）",
@@ -2187,6 +2187,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/8c/44/098c449d-40f9-44df-8c7a-2d5ef39e4352/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "重兵装型女子高生": {
+      "at": "2026-10-14T11:00:33.350Z",
+      "entry": null
     }
   },
   "titles": {
@@ -32476,6 +32480,43 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-14T10:30:38.606Z"
+    },
+    "atk：画境小镇demo": {
+      "title": "ATK：画境小镇 Demo",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T11:00:33.146Z"
+    },
+    "catrooms:stickerdecor!demo": {
+      "title": "Cat Rooms: Sticker Decor! Demo",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T11:00:33.146Z"
+    },
+    "vocabug": {
+      "title": "Vocabug",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T11:00:33.146Z"
+    },
+    "solemnfable": {
+      "title": "SOLEMNFABLE",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-14T11:00:33.146Z"
+    },
+    "重兵装型女子高生": {
+      "title": "重兵装型女子高生",
+      "prereg": true,
+      "firstSeen": "2026-10-14T11:00:33.146Z"
     }
   },
   "changeLog": [
@@ -36340,6 +36381,18 @@
         "arcade"
       ],
       "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-14T11:00:33.146Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "重兵装型女子高生",
+      "url": "https://www.juheiso-game.jp/",
+      "image": "https://www.juheiso-game.jp/assets/images/common/img_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
