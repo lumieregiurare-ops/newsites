@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-14T04:00:17.155Z",
+  "updatedAt": "2026-10-14T04:30:17.079Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 785,
+  "total": 787,
   "regions": {
-    "jp": 646,
-    "global": 139
+    "jp": 647,
+    "global": 140
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 147
+      "count": 148
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 261
+      "count": 262
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 97
+      "count": 98
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 237
+      "count": 238
     },
     {
       "id": "browser",
@@ -121,17 +121,76 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "GameBusiness.jp",
     "Inside",
     "AppBank",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "915b2a0def4c",
+      "url": "https://www.queseragames.net/ja/games/nientum/",
+      "host": "queseragames.net",
+      "region": "jp",
+      "title": "Nientum - Op. ZERO",
+      "headline": "リズムアクション「Nientum - Op. ZERO」，PC/Android向け正式版をリリース。記憶を失った2人の少女の物語がついに完結",
+      "description": "QueseraGames - Creating rhythm experiences that resonate with your soul",
+      "publishedAt": "2026-10-14T04:24:40.000Z",
+      "addedAt": "2026-10-14T04:30:17.079Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/829/G082953/20261014009/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "eb2ec7f4fb07",
+      "url": "https://www.razer.com/eu-en/gaming-headsets/razer-kraken-v4-x/RZ04-05181000-RUEA",
+      "host": "razer.com",
+      "region": "global",
+      "title": "ポケモン",
+      "headline": "Razerから『ポケモン』“ニンフィア”のコラボヘッドセットが海外向けに登場。リボンを思わせるパステルカラーが超かわいい",
+      "description": "Purchase Razer Kraken V4 X - Sylveon Edition (gaming headsets), or browse through our extensive selection of gaming per…",
+      "publishedAt": "2026-10-14T04:21:54.000Z",
+      "addedAt": "2026-10-14T04:30:17.079Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610142a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets3.razerzone.com/5MDJpsG2HvqLheKw7GzfIrhxeRE=/1500x1000/https%3A%2F%2Fmedias-p1.phoenix.razer.com%2Fsys-master-phoenix-images-container%2Fh43%2Fhae%2F10470326599710%2Fkraken-v4-x-sylveon-500x500.png"
+    },
     {
       "id": "3b80c6ded1c3",
       "url": "https://ggame.jp/ggame40th/",
@@ -176,6 +235,10 @@
         {
           "name": "GameBusiness.jp",
           "url": "https://www.gamebusiness.jp/article/2026/10/14/28314.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/14/173579.html"
         }
       ],
       "tags": [
