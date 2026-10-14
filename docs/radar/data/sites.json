@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T15:00:20.890Z",
+  "updatedAt": "2026-10-14T15:30:19.960Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 799,
+  "total": 800,
   "regions": {
-    "jp": 656,
+    "jp": 657,
     "global": 143
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 80
+      "count": 81
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 267
+      "count": 268
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9e7a2703b3f0",
+      "url": "https://www.gran-turismo.com/jp/",
+      "host": "gran-turismo.com",
+      "region": "jp",
+      "title": "グランツーリスモ７",
+      "headline": "『グランツーリスモ７』大型アプデ「Spec IV」第1弾10月15日15時配信！新コース「スポーツランドSUGO」や新車種6台追加、30周年記念DualSenseも発売へ",
+      "description": "『グランツーリスモ７』大型アプデ「Spec IV」第1弾10月15日15時配信！新コース「スポーツランドSUGO」や新車種6台追加、30周年記念DualSenseも発売へ",
+      "publishedAt": "2026-10-14T15:21:48.000Z",
+      "addedAt": "2026-10-14T15:30:19.960Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/15/173607.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d106f158e55e",
       "url": "https://sunnylabgames.com/",
