@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-14T16:00:22.300Z",
+  "updatedAt": "2026-10-14T16:30:18.350Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 800,
+  "total": 803,
   "regions": {
-    "jp": 657,
-    "global": 143
+    "jp": 659,
+    "global": 144
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 36
+      "count": 37
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 268
+      "count": 269
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 54
+      "count": 55
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 129
+      "count": 130
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
-    "Inside",
     "4Gamer",
+    "Game*Spark",
+    "Inside",
     "GameBusiness.jp",
     "AppBank",
     "App Store",
@@ -132,6 +132,88 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5d2ccabd0e89",
+      "url": "https://ondeh.bn-ent.net/",
+      "host": "ondeh.bn-ent.net",
+      "region": "jp",
+      "title": "Ondeh Ondeh カヤのうまみ大冒険",
+      "headline": "バンダイナムコエンターテインメント新作『Ondeh Ondeh カヤのうまみ大冒険』先行レポート。マレーシア由来なのに『まんが日本昔ばなし』みたいなエモさを感じるリズム＆パズルア…",
+      "description": "『Ondeh Ondeh カヤのうまみ大冒険』公式サイトです。",
+      "publishedAt": "2026-10-14T16:00:02.000Z",
+      "addedAt": "2026-10-14T16:30:18.350Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261015o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ondeh.bn-ent.net/ogp.png"
+    },
+    {
+      "id": "b957bddf19bc",
+      "url": "https://crashkeys.com/",
+      "host": "crashkeys.com",
+      "region": "jp",
+      "title": "CRASH KEYS",
+      "headline": "打越鋼太郎氏，新会社「CRASH KEYS」の設立を正式発表。「Zero Escape」シリーズをはじめ，数々の型破りなADVを手がけてきたゲームクリエイター",
+      "description": "打越鋼太郎氏，新会社「CRASH KEYS」の設立を正式発表。「Zero Escape」シリーズをはじめ，数々の型破りなADVを手がけてきたゲームクリエイター",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "addedAt": "2026-10-14T16:30:18.350Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999901/20261014030/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ba4ebe572e37",
+      "url": "https://www.aurochdigital.com/warhammer-40000-boltgun-2",
+      "host": "aurochdigital.com",
+      "region": "global",
+      "title": "Warhammer 40,000: Boltgun 2",
+      "headline": "レトロ風FPSアクション「Warhammer 40,000: Boltgun 2」，本日発売。ローンチトレイラーも公開に",
+      "description": "Following directly on from the end of Warhammer 40,000: Boltgun, your duty takes you to new locations in a branching, s…",
+      "publishedAt": "2026-10-14T16:00:00.000Z",
+      "addedAt": "2026-10-14T16:30:18.350Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/912/G091285/20261014056/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/54104f62e4b0c1ca62ebb56f/t/682b1fef2c1c894833e70b9c/1747663991917/STAYINGALIVE+-+Key+Art+-+Skulls+25.png?format=1500w"
+    },
     {
       "id": "9e7a2703b3f0",
       "url": "https://www.gran-turismo.com/jp/",
