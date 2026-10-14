@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T03:00:39.513Z",
+  "updatedAt": "2026-10-14T03:30:30.540Z",
   "platforms": [
     {
       "id": "switch",
@@ -68,6 +68,24 @@
       "headline": "バス運転手として時間と治安を守り運行するゲーム『Thank You Bus Driver』10月15日リリース。飲んだり騒いだりやりたい放題の乗客はビンタでわからせる",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/260928l"
+    },
+    {
+      "id": "d12c15d8422b",
+      "title": "ロストセイヴァー",
+      "date": "2026-10-15",
+      "dateText": "2026年10月15日",
+      "sortKey": "2026-10-15",
+      "priority": 0,
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "url": "https://info.gmodecorp.com/gmodearchives/bandainamco/lostsavior/",
+      "image": "https://info.gmodecorp.com/gmodearchives/img/twitter_GMODEArchives_plus_84.jpg",
+      "maker": "",
+      "headline": "幻のファンタジーRPG『ロストセイヴァー』が「G-MODEアーカイブス+」にて配信決定。Nintendo Switchで10月15日に、Steamで10月28日に配信開始",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261014c"
     },
     {
       "id": "573432140a07",
@@ -248,23 +266,6 @@
       "headline": "スマホで狩猟解禁！『モンスターハンターアウトランダーズ』が10月29日正式サービス開始決定ーシリーズP・辻本良三氏らによるメッセージを公開",
       "source": "Inside",
       "sourceUrl": "https://www.inside-games.jp/article/2026/09/29/188445.html"
-    },
-    {
-      "id": "30697b3132c1",
-      "title": "モンハンアウトランダーズ",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://monsterhunteroutlanders.com/ja/news-aesoland-adventure-guide.html",
-      "image": "https://sg-mho.playerinfinite.com/cms/nrft/feeds/pic/_28ccfefb1b700b52ed822a8b068687d10cb71b24-1920x1080-ori_s_80_50_ori_q_80.png",
-      "maker": "",
-      "headline": "『モンハンアウトランダーズ』10月29日に配信決定！事前登録者数2000万人を突破した注目の『モンハン』の新作。本格アクションとサバイバルクラフトが楽しめるモバイル向けのタイトル…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/260929k"
     }
   ],
   "prereg": [
@@ -453,6 +454,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-14T03:30:30.540Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ロストセイヴァー",
+      "url": "https://info.gmodecorp.com/gmodearchives/bandainamco/lostsavior/",
+      "image": "https://info.gmodecorp.com/gmodearchives/img/twitter_GMODEArchives_plus_84.jpg",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
       "at": "2026-10-14T00:00:32.731Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -511,18 +525,6 @@
         "mobile"
       ],
       "to": "2026年10月23日"
-    },
-    {
-      "at": "2026-10-12T23:30:35.265Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ノーマンズスカイ",
-      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月29日"
     }
   ]
 }

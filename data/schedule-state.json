@@ -2146,6 +2146,25 @@
     "ええ時計してはりますなあ": {
       "at": "2026-10-14T02:30:31.943Z",
       "entry": null
+    },
+    "京都ルール": {
+      "at": "2026-10-14T03:30:30.802Z",
+      "entry": {
+        "trackId": "6807351775",
+        "title": "京都ルール あなたは京都で生活できますか",
+        "artist": "SNAPLACE",
+        "genres": [
+          "アドベンチャー",
+          "エンターテインメント",
+          "シミュレーション"
+        ],
+        "releaseDate": "2026-10-05T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6807351775",
+        "sellerUrl": "https://snaplace-corp.jp/fungame/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/ed/71/b0ed717d-85bf-7d09-e653-f94f84b2d913/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -32139,21 +32158,33 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-14T03:00:39.513Z"
+    },
+    "theparkkeeperdemo": {
+      "title": "The Park Keeper Demo",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T03:30:30.540Z"
+    },
+    "アリスと彼岸": {
+      "title": "アリスと彼岸",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T03:30:30.540Z"
+    },
+    "ロストセイヴァー": {
+      "title": "ロストセイヴァー",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T03:30:30.540Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T07:37:27.850Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ラグナロク：アドベンチャーズ",
-      "url": "https://ragnarokadv.gungho.jp/",
-      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月30日"
-    },
     {
       "at": "2026-09-14T07:37:27.850Z",
       "type": "prereg_start",
@@ -36928,6 +36959,19 @@
         "mobile"
       ],
       "to": "2026年10月14日"
+    },
+    {
+      "at": "2026-10-14T03:30:30.540Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ロストセイヴァー",
+      "url": "https://info.gmodecorp.com/gmodearchives/bandainamco/lostsavior/",
+      "image": "https://info.gmodecorp.com/gmodearchives/img/twitter_GMODEArchives_plus_84.jpg",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年10月15日"
     }
   ],
   "initialized": true,
