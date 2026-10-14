@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T06:30:18.744Z",
+  "updatedAt": "2026-10-14T07:00:17.106Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 789,
+  "total": 790,
   "regions": {
-    "jp": 648,
+    "jp": 649,
     "global": 141
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 149
+      "count": 150
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 175
+      "count": 176
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 238
+      "count": 239
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d1e790b2c36b",
+      "url": "https://www.pokemonsleep.net/",
+      "host": "pokemonsleep.net",
+      "region": "jp",
+      "title": "Pokémon Sleep",
+      "headline": "「Pokémon Sleep」にムウマ / ムウマージが登場。「ハロウィン2026：ダブルアメリサーチ」を10月26日から開催",
+      "description": "『Pokémon Sleep』は、スマートフォンを置くだけで、睡眠を計測・記録するゲームアプリです。睡眠リズムを整えて、ポケモンのいろいろな寝顔を見つけよう！",
+      "publishedAt": "2026-10-14T06:39:35.000Z",
+      "addedAt": "2026-10-14T07:00:17.106Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/462/G046207/20261014023/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.pokemonsleep.net/img/og--ja.png?2"
+    },
     {
       "id": "1d3d5bbbbe43",
       "url": "https://www.amusement-center.com/project/egg/console/",
