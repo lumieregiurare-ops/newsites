@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T08:00:17.797Z",
+  "updatedAt": "2026-10-14T08:30:18.673Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 790,
+  "total": 791,
   "regions": {
-    "jp": 649,
+    "jp": 650,
     "global": 141
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 264
+      "count": 265
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 52
+      "count": 53
     },
     {
       "id": "media",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 11
+      "count": 12
     },
     {
       "id": "vr",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "GameBusiness.jp",
     "Inside",
     "AppBank",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8e83f9fbddda",
+      "url": "https://www.hamster.co.jp/",
+      "host": "hamster.co.jp",
+      "region": "jp",
+      "title": "特殊部隊U.A.G.",
+      "headline": "1987年発売のシューティングゲーム『特殊部隊U.A.G.』が「アケアカ」「アケアカ2」で明日10月15日から配信開始。弾丸を放つバイクに乗り、戦車や戦闘機を撃破しながら敵拠点を…",
+      "description": "往年のアーケードゲームや家庭用ゲームを復刻するプロジェクトの「アーケードアーカイブス（アケアカ）」シリーズや「コンソールアーカイブス（コンアカ）」シリーズなどを販売する、ゲームメーカー「株式会社ハムスター」の公式サイトです。",
+      "publishedAt": "2026-10-14T08:00:27.000Z",
+      "addedAt": "2026-10-14T08:30:18.673Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610142d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://www.hamster.co.jp/wp/wp-content/uploads/2024/08/ogp.jpg"
+    },
     {
       "id": "d1e790b2c36b",
       "url": "https://www.pokemonsleep.net/",
@@ -8289,7 +8319,7 @@
         "browser"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ab/90/dcab909d-f0db-c9bb-a76f-ffd50ec64883/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/e7/e2/d6e7e2bb-ba72-b265-ee0a-5848498cd8ba/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "2d224d9db0a8",
