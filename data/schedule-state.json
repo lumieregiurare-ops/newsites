@@ -1605,7 +1605,7 @@
       "entry": null
     },
     "千年の旅ELF": {
-      "at": "2026-10-11T11:00:34.012Z",
+      "at": "2026-10-14T11:30:44.696Z",
       "entry": {
         "trackId": "6762710814",
         "title": "千年の旅ELF",
@@ -1614,8 +1614,8 @@
           "シミュレーション",
           "ロールプレイング"
         ],
-        "releaseDate": "2026-10-14T07:00:00Z",
-        "isPreorder": true,
+        "releaseDate": "2026-10-13T07:00:00Z",
+        "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6762710814",
         "sellerUrl": "https://www.sentabijp.com/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
@@ -32517,6 +32517,14 @@
       "title": "重兵装型女子高生",
       "prereg": true,
       "firstSeen": "2026-10-14T11:00:33.146Z"
+    },
+    "鉄道にっぽん！realpro": {
+      "title": "鉄道にっぽん！ RealPro",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-10-14T11:30:44.304Z"
     }
   },
   "changeLog": [
@@ -36393,6 +36401,16 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-14T11:30:44.304Z",
+      "type": "new",
+      "label": "新規",
+      "title": "鉄道にっぽん！ RealPro",
+      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月5日"
     }
   ],
   "initialized": true,

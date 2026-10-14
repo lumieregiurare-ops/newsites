@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T11:00:20.997Z",
+  "updatedAt": "2026-10-14T11:30:27.542Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 794,
+  "total": 796,
   "regions": {
-    "jp": 652,
+    "jp": 654,
     "global": 142
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 265
+      "count": 266
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 128
+      "count": 129
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "GameBusiness.jp",
-    "Inside",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9b3db054d85f",
+      "url": "https://granbluefantasy.com/ja/",
+      "host": "granbluefantasy.com",
+      "region": "jp",
+      "title": "グラブル",
+      "headline": "『グラブル』闇深いビィ君が人気の公式4コマ「ぐらぶるっ！」、ネタ制作は「理詰めで作る」「降りてくる」「なぜ思いついたか覚えていない」の3パターンあるー制作秘話が公開",
+      "description": "空の彼方、約束の地へ− 想像を超えるクオリティではじまる本格RPG『グランブルーファンタジー』の公式サイトです。",
+      "publishedAt": "2026-10-14T11:30:03.000Z",
+      "addedAt": "2026-10-14T11:30:27.542Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/14/189256.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://granbluefantasy.com/og/img/path/ogp.png"
+    },
+    {
+      "id": "e01c1024c6e2",
+      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
+      "host": "sonicpowered.co.jp",
+      "region": "jp",
+      "title": "鉄道にっぽん！ RealPro",
+      "headline": "“実写映像”の鉄道ゲーム『鉄道にっぽん！ RealPro』のDLCが11月5日に配信決定。名古屋の地下鉄・リニモ・ゆとりーとラインを逆方向に運転できる",
+      "description": "実写映像で気軽に鉄道運転を楽しめる「鉄道にっぽん！」シリーズ。【特急ひだ】の長距離運転を満喫！ハイブリッド車両『ＨＣ８５系で名古屋から富山』へ。",
+      "publishedAt": "2026-10-14T11:09:43.000Z",
+      "addedAt": "2026-10-14T11:30:27.542Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610143c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "2d8d5c03d78b",
       "url": "https://www.juheiso-game.jp/",
@@ -147,6 +201,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/?p=1660390"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105032/20261014048/"
         }
       ],
       "tags": [
@@ -8906,7 +8964,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s9V23C_zV4C3_yeR4a0QvHjVaK6-7isw9H8zn9L2I9fnktrppY8jxWoMBOxQRJkfCKKt3NWPjCq0iPeOErFcgb5821UXXcNlUkle1K3LnncQotEFEHVjm8E3U4ycH9CMBllDHS7T00b86neZUgg4OXA5hb5lx6M4UGox9RQCqzUqeCnGKduPkxfKdRHNo=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tj0joolWlnGma3_q-cpILAs0KqoqixHOoRXPTfqwSOPpxD6rEffKDFO17FwMyXkW1g0yMJCI7KGIUqzzVdbm7PDQ41tmsmcTn7AqqDiqoXdvUrlCJ3KsfZI4Nhg2-CDLtzE2-AlxcFD3Xopa5kFf4ibi9ohfqs0abO08nv_NPGJRfn1DAwITxXzYuuwqk=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
@@ -8972,7 +9030,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/84/21/6f8421f3-cad8-a0a3-1eae-4ce1b5f78e06/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/ce/82/9cce82f6-0ea3-e555-ce50-daeb6abec9c5/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ff10e9c7aab2",
@@ -19069,7 +19127,8 @@
       "tags": [
         "ゲーム",
         "Android",
-        "スマホ"
+        "スマホ",
+        "iOS"
       ],
       "categories": [
         "event"
