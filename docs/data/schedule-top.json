@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T23:30:31.818Z",
+  "updatedAt": "2026-10-14T00:00:32.731Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,26 @@
   ],
   "prereg": [
     {
+      "id": "d7a7fc4b467e",
+      "title": "LSD",
+      "url": "https://itch.io/jam/lsdjam-2026",
+      "image": "https://img.itch.zone/aW1nLzMwNzk5MDgxLnBuZw==/original/Be%2FXYj.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-13T07:45:02.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "初代PSの怪作『LSD』発売日を祝うゲームジャム「LSDJAM」2026年も開催。「ドリーム・エミュレーター」なゲームが集結へ―参加者を募集中",
+      "description": "A game jam from 2026-10-21 to 2027-03-01 hosted by Figglewatts. Welcome to the annual LSDJAM event for 2026! This is th…",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/10/13/173541.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "8f48e4c129fe",
       "title": "ウィンドランナーGo!",
       "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
@@ -429,34 +449,33 @@
       "sourceUrl": "https://www.gamebusiness.jp/article/2026/10/06/28222.html",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "cd4c1fafecbe",
-      "title": "三國志 戦棋版",
-      "url": "https://apps.apple.com/jp/app/id6757841977",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/1f/52/621f521b-4e87-a2c0-22ca-6d96f17c32ae/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-03T07:30:00.000Z",
-      "releaseText": "2026年12月1日",
-      "releaseSource": "appstore",
-      "count": "事前登録者数達成報酬一覧10万人",
-      "reward": "",
-      "headline": "『三國志 戦棋版』事前登録がスタート！ SRPG×SLGの新作が最新PVを公開",
-      "description": "Qookka Entertainment Limitedの「三國志 戦棋版」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「三國志 戦棋版」に似たゲームを見ることなどができます。",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/03/game/3120845.php",
-      "appleId": "6757841977",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6757841977",
-        "preorder": true,
-        "releaseDate": "2026-12-01T08:00:00Z"
-      },
-      "trackId": "6757841977"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-14T00:00:32.731Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年10月14日"
+    },
+    {
+      "at": "2026-10-14T00:00:32.731Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "LSD",
+      "url": "https://itch.io/jam/lsdjam-2026",
+      "image": "https://img.itch.zone/aW1nLzMwNzk5MDgxLnBuZw==/original/Be%2FXYj.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-13T15:00:28.736Z",
       "type": "new",
@@ -470,65 +489,40 @@
       "to": "2027年2月11日"
     },
     {
-      "at": "2026-10-13T10:00:31.107Z",
-      "type": "new",
-      "label": "新規",
-      "title": "かまいたちの夜",
-      "url": "https://zakuzaku-game.com/rd/",
-      "image": "",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年11月"
-    },
-    {
-      "at": "2026-10-13T01:00:28.173Z",
+      "at": "2026-10-13T13:30:28.128Z",
       "type": "prereg_start",
       "label": "事前登録開始",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
-      "to": "App Store 2026年10月23日"
+      "to": "App Store 2026年10月14日"
     },
     {
-      "at": "2026-10-13T01:00:28.173Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "at": "2026-10-13T12:30:31.130Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
-      "to": "2026年10月23日"
+      "to": "App Store 2026年10月14日"
     },
     {
-      "at": "2026-10-12T23:30:35.265Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ノーマンズスカイ",
-      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "at": "2026-10-13T11:00:28.021Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-12T16:00:36.236Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.3「イーファ＆ウェネーフィカ」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000071343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/61f465dcd88826762bb2a8326836aaba2a179ed4555e86a6d0f18a683a7fb07e.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年10月31日",
-      "to": "2026年10月15日"
+      "to": "App Store 2026年10月14日"
     }
   ]
 }
