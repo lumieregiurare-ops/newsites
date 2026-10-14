@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T05:00:17.604Z",
+  "updatedAt": "2026-10-14T05:30:18.127Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 788,
+  "total": 789,
   "regions": {
-    "jp": 647,
+    "jp": 648,
     "global": 141
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 148
+      "count": 149
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 174
+      "count": 175
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 263
+      "count": 264
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 28
+      "count": 29
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 99
+      "count": 100
     },
     {
       "id": "mobile",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1d3d5bbbbe43",
+      "url": "https://www.amusement-center.com/project/egg/console/",
+      "host": "amusement-center.com",
+      "region": "jp",
+      "title": "イース",
+      "headline": "「イース」「ザナドゥ シナリオII」など日本ファルコムの6タイトルが15％オフ。「EGGコンソール ファルコム オータムセール 2026」開催",
+      "description": "プロジェクトEGGが Nintendo Switch&trade; に参入！ 1980～90年代にPC-8801・PC-9801・MSXなどで発売された名作PCゲームは、今のエンタテインメントに大きな影響を与えました。弊社はゲームを愛する…",
+      "publishedAt": "2026-10-14T05:07:44.000Z",
+      "addedAt": "2026-10-14T05:30:18.127Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/835/G083515/20261014014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.amusement-center.com/project/egg/console/img/0136/og.jpg"
+    },
     {
       "id": "ee33aa01e156",
       "url": "https://dreamwaygames.com/",
@@ -13762,7 +13794,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/60/84/6660842d-d4d6-078d-b160-dfaedd8ffb81/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/f1/dc/f0f1dcac-004e-0c0a-53ba-5ef95a2689ea/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0efac8c9e009",
