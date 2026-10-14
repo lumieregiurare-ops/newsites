@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-14T14:30:18.796Z",
+  "updatedAt": "2026-10-14T15:00:23.087Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（10/13 比）",
+      "note": "Steam の同時接続数ランキング（10/14 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（10/13 比）",
+      "note": "App Store（日本）の無料ゲームランキング（10/14 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -220,8 +220,8 @@
           "url": "https://apps.apple.com/jp/app/%E5%8D%83%E5%B9%B4%E3%81%AE%E6%97%85elf/id6762710814",
           "metric": "Kibi Play",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
+            "kind": "same",
+            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E5%88%86%E8%A7%A3%E3%83%91%E3%82%BA%E3%83%AB/id6771681142",
           "metric": "SUNNY HK",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/food-hunt-pixel-puzzle/id6769314786",
           "metric": "FUNFINITY PTE. LTD",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/fish-sort-puzzle-%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BD%E3%83%BC%E3%83%88%E6%B3%A1%E3%82%92%E6%B6%88%E3%81%9D%E3%81%86/id6771681639",
           "metric": "Shycheese",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
