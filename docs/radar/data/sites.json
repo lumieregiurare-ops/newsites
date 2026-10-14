@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T03:30:16.355Z",
+  "updatedAt": "2026-10-14T04:00:17.155Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 784,
+  "total": 785,
   "regions": {
-    "jp": 645,
+    "jp": 646,
     "global": 139
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 79
+      "count": 80
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 146
+      "count": 147
     },
     {
       "id": "event",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "Inside",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3b80c6ded1c3",
+      "url": "https://ggame.jp/ggame40th/",
+      "host": "ggame.jp",
+      "region": "jp",
+      "title": "ガンダムゲーム40周年記念生配信",
+      "headline": "「ガンダムゲーム40周年記念生配信」が10月28日20時より放送決定！",
+      "description": "ガンダムゲーム40周年を記念した特設サイト。歴代ガンダムゲームの40年間の歩みや記念企画をお届けします。",
+      "publishedAt": "2026-10-14T03:41:13.000Z",
+      "addedAt": "2026-10-14T04:00:17.155Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261014z"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ggame.jp/ggame40th/assets/img/ogp.jpg"
+    },
     {
       "id": "e7ddfe58b356",
       "url": "https://gtmf.jp/",
@@ -15117,6 +15146,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609202y"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/14/189233.html"
         }
       ],
       "tags": [
