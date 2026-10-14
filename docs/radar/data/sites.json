@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-14T12:00:19.476Z",
+  "updatedAt": "2026-10-14T12:30:22.120Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 796,
+  "total": 797,
   "regions": {
-    "jp": 654,
+    "jp": 655,
     "global": 142
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 35
+      "count": 36
     },
     {
       "id": "prereg",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "GameBusiness.jp",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "84949abbe142",
+      "url": "https://www.kyoraku.co.jp/product_site/2026/l_umamusume/",
+      "host": "kyoraku.co.jp",
+      "region": "jp",
+      "title": "ぱちスロ ウマ娘 プリティーダービー",
+      "headline": "『ぱちスロ ウマ娘 プリティーダービー』発表！本家同様ウマ娘を育てて遊戯をより有利に―ステータスマックス状態では継続率95％超",
+      "description": "〈ぱちスロ ウマ娘 プリティーダービー〉ティザーサイト公開!!",
+      "publishedAt": "2026-10-14T12:16:55.000Z",
+      "addedAt": "2026-10-14T12:30:22.120Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/14/173599.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.kyoraku.co.jp/product_site/2026/l_umamusume/images/ogp.png"
+    },
     {
       "id": "9b3db054d85f",
       "url": "https://granbluefantasy.com/ja/",
