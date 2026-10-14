@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-14T04:30:17.079Z",
+  "updatedAt": "2026-10-14T05:00:17.604Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 787,
+  "total": 788,
   "regions": {
     "jp": 647,
-    "global": 140
+    "global": 141
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 262
+      "count": 263
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 29
+      "count": 30
     },
     {
       "id": "goods",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 98
+      "count": 99
     },
     {
       "id": "mobile",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ee33aa01e156",
+      "url": "https://dreamwaygames.com/",
+      "host": "dreamwaygames.com",
+      "region": "global",
+      "title": "Steal & Sell Simulator",
+      "headline": "夜は各地に忍び込んで盗みを働き，昼は自分の店で盗品をさばいていくシミュレータ「Steal & Sell Simulator」，体験版配信中",
+      "description": "夜は各地に忍び込んで盗みを働き，昼は自分の店で盗品をさばいていくシミュレータ「Steal & Sell Simulator」，体験版配信中",
+      "publishedAt": "2026-10-14T04:29:30.000Z",
+      "addedAt": "2026-10-14T05:00:17.604Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104998/20261014012/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "915b2a0def4c",
       "url": "https://www.queseragames.net/ja/games/nientum/",
@@ -11609,7 +11637,7 @@
       "region": "global",
       "title": "Tideward",
       "headline": "Manu Games LLC / シミュレーション・ロールプレイング · App Store 新着",
-      "description": "Tideward is an idle RPG native on every Apple device. Pre-order on the App Store now, or join the free TestFlight beta.…",
+      "description": "Tideward is an idle RPG native on every Apple device, in open beta on Android, and coming to Windows PC. Pre-order on t…",
       "publishedAt": "2026-09-24T23:30:27.433Z",
       "addedAt": "2026-09-24T23:30:17.189Z",
       "source": "App Store",
@@ -11633,6 +11661,7 @@
         "goods"
       ],
       "platforms": [
+        "pc",
         "mobile"
       ],
       "points": null,

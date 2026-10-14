@@ -1225,7 +1225,7 @@
       "entry": null
     },
     "ONE PIECE 海のごちそうレストラン": {
-      "at": "2026-10-11T05:00:31.019Z",
+      "at": "2026-10-14T05:00:33.549Z",
       "entry": {
         "trackId": "6771652722",
         "title": "ONE PIECE 海のごちそうレストラン",
@@ -23627,7 +23627,7 @@
     },
     "千年の旅elf": {
       "title": "千年の旅ELF",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-02T09:30:44.401Z"
     },
     "ドラゴンレイド：アナザーワールド": {
@@ -32202,21 +32202,25 @@
       "sortKey": "2026-10-20",
       "prereg": false,
       "firstSeen": "2026-10-14T04:30:48.838Z"
+    },
+    "crimsonarkdemo": {
+      "title": "Crimson Ark Demo",
+      "dateText": "2026年10月14日",
+      "date": "2026-10-14",
+      "sortKey": "2026-10-14",
+      "prereg": false,
+      "firstSeen": "2026-10-14T05:00:33.290Z"
+    },
+    "automatchblast": {
+      "title": "Auto Match Blast",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T05:00:33.290Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T07:37:27.850Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "白銀の城",
-      "url": "https://silverpalace.elementagames.com/ja-jp/",
-      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2027年1月31日"
-    },
     {
       "at": "2026-09-14T07:37:27.850Z",
       "type": "prereg_start",
@@ -36992,6 +36996,18 @@
         "pc"
       ],
       "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-14T05:00:33.290Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月14日"
     }
   ],
   "initialized": true,
