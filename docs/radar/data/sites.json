@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-14T02:00:16.318Z",
+  "updatedAt": "2026-10-14T02:30:15.069Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 776,
+  "total": 778,
   "regions": {
-    "jp": 637,
+    "jp": 639,
     "global": 139
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 255
+      "count": 257
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 172
+      "count": 173
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 95
+      "count": 96
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 234
+      "count": 236
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "4Gamer",
-    "AppBank",
     "Game*Spark",
+    "4Gamer",
+    "電ファミニコゲーマー",
+    "AppBank",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,71 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d978bc2ae33a",
+      "url": "https://play.google.com/store/apps/details?id=com.quesera.nientum",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ニエンタム ― オプス・ゼロ ―",
+      "headline": "Steam好評率98%、童話テーマの2キー制ミュージカル・リズムADV『ニエンタム ― オプス・ゼロ ―』正式リリース！音ゲー定番コンポーザーも参加",
+      "description": "すべてのステージが、一つの公演になる。物語を奏でるリズムアクションアドベンチャー。",
+      "publishedAt": "2026-10-14T02:20:02.000Z",
+      "addedAt": "2026-10-14T02:30:15.069Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/14/173574.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/XkUAKXWMweblAgDHjuVnpfGASHBhjDOU6bUyf6uuT8WUIBrn4mZZB7XtqAKVnFx5aSKuQi5Y5UoBuphlLbEV=s0-br30"
+    },
+    {
+      "id": "a61a4e49f8f5",
+      "url": "https://apps.apple.com/jp/app/id6807351775",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ええ時計してはりますなあ",
+      "headline": "「ええ時計してはりますなあ」の本音を見抜け。京都の建前を365日乗り切るADV「京都ルール」，スマホ向けに配信開始",
+      "description": "SNAPLACEの「京都ルール あなたは京都で生活できますか」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「京都ルール あなたは京都で生活できますか」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-10-14T02:14:34.000Z",
+      "addedAt": "2026-10-14T02:30:15.069Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/049/G104988/20261014002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/6f/e3/fc6fe352-22bc-ed7b-47fc-f35f2dbc8acf/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "d520161b02fe",
       "url": "https://www.pringles.com/jp/home.htm",

@@ -1679,7 +1679,7 @@
       "entry": null
     },
     "ラストオリジン": {
-      "at": "2026-10-11T02:00:32.422Z",
+      "at": "2026-10-14T02:30:33.393Z",
       "entry": {
         "trackId": "1469855842",
         "title": "ラストオリジン",
@@ -2137,6 +2137,14 @@
     },
     "LSD": {
       "at": "2026-10-14T00:00:33.045Z",
+      "entry": null
+    },
+    "ニエンタム ― オプス ゼロ ―": {
+      "at": "2026-10-14T02:30:30.573Z",
+      "entry": null
+    },
+    "ええ時計してはりますなあ": {
+      "at": "2026-10-14T02:30:31.943Z",
       "entry": null
     }
   },
@@ -23596,7 +23604,7 @@
     },
     "千年の旅elf": {
       "title": "千年の旅ELF",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-02T09:30:44.401Z"
     },
     "ドラゴンレイド：アナザーワールド": {
@@ -32107,21 +32115,17 @@
       "sortKey": "2026-10-15",
       "prereg": false,
       "firstSeen": "2026-10-14T01:30:30.020Z"
+    },
+    "notaliveenoughdemo": {
+      "title": "Not Alive Enough Demo",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-14T02:30:30.286Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-14T07:37:27.850Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Lumi Master（るぅみマスター）",
-      "url": "https://apps.apple.com/jp/app/lumi-master-%E3%82%8B%E3%81%85%E3%81%BF%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6754979232",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/69/fa/d769fa0c-52ce-97f4-2e62-a7a0286d2e63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年9月17日"
-    },
     {
       "at": "2026-09-14T07:37:27.850Z",
       "type": "prereg_start",
@@ -36887,6 +36891,18 @@
     },
     {
       "at": "2026-10-14T00:00:32.731Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "千年の旅ELF",
+      "url": "https://www.sentabijp.com/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月14日"
+    },
+    {
+      "at": "2026-10-14T02:30:30.286Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "千年の旅ELF",
