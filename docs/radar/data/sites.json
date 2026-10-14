@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-14T14:00:25.202Z",
+  "updatedAt": "2026-10-14T14:30:16.892Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 798,
+  "total": 799,
   "regions": {
     "jp": 656,
-    "global": 142
+    "global": 143
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 266
+      "count": 267
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "電ファミニコゲーマー",
     "4Gamer",
     "GameBusiness.jp",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d106f158e55e",
+      "url": "https://sunnylabgames.com/",
+      "host": "sunnylabgames.com",
+      "region": "global",
+      "title": "The Witch’s Bakery",
+      "headline": "陽気な「パン屋の魔女」が可愛すぎるパリ舞台のアドベンチャーRPG『The Witch’s Bakery』がリリース。昼はパン屋、夕方はパリの探索、夜はアトリエでゆったりとした時間…",
+      "description": "陽気な「パン屋の魔女」が可愛すぎるパリ舞台のアドベンチャーRPG『The Witch’s Bakery』がリリース。昼はパン屋、夕方はパリの探索、夜はアトリエでゆったりとした時間を過ごす",
+      "publishedAt": "2026-10-14T14:00:52.000Z",
+      "addedAt": "2026-10-14T14:30:16.892Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610143g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "84949abbe142",
       "url": "https://www.kyoraku.co.jp/product_site/2026/l_umamusume/",
