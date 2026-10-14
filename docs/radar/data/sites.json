@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-14T23:00:19.957Z",
+  "updatedAt": "2026-10-14T23:30:17.080Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 803,
+  "total": 804,
   "regions": {
     "jp": 659,
-    "global": 144
+    "global": 145
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 91
+      "count": 92
     },
     {
       "id": "anniversary",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0dda389d7856",
+      "url": "https://www.myplaywatch.com/",
+      "host": "myplaywatch.com",
+      "region": "global",
+      "title": "ストリートファイターII",
+      "headline": "『ストリートファイターII』のオフライン専用「スマートウォッチ」が海外向けに予約受付中。専用に設計されたゲームも遊べちゃう",
+      "description": "『ストリートファイターII』のオフライン専用「スマートウォッチ」が海外向けに予約受付中。専用に設計されたゲームも遊べちゃう",
+      "publishedAt": "2026-10-14T23:28:03.000Z",
+      "addedAt": "2026-10-14T23:30:17.080Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261015h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/6733be48b688295b8e83518f/t/6967d56dd7377d0e11eb77e5/1768412525329/mpw-logo-large.png?format=1500w"
+    },
     {
       "id": "5d2ccabd0e89",
       "url": "https://ondeh.bn-ent.net/",
