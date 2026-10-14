@@ -1288,8 +1288,8 @@
       "points": null,
       "image": "https://www.pocoapokemon.jp/assets/og/pokemon/og_251113_02.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-13T09:30:17.769Z",
-      "ogFetchedAt": "2026-10-13T09:30:17.769Z",
+      "checkedAt": "2026-10-14T09:30:20.720Z",
+      "ogFetchedAt": "2026-10-14T09:30:20.720Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2381,8 +2381,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/90/c1/d190c1a9-5de8-fd49-f63e-1890ddaeacc6/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-13T09:30:17.769Z",
-      "ogFetchedAt": "2026-10-13T09:30:17.769Z",
+      "checkedAt": "2026-10-14T09:30:20.720Z",
+      "ogFetchedAt": "2026-10-14T09:30:20.720Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -23043,7 +23043,7 @@
       "headline": "「モンギル：STAR DIVE」，DMM GAMES版を11月中にリリース予定。開発PDのイ・ドンジョ氏が登壇したステージをレポート［TGS2026］",
       "description": "輝く未知の世界へDIVE！ 今すぐダウンロードしよう！",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -23061,10 +23061,12 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
+        "prereg",
         "release"
       ],
       "points": null,
