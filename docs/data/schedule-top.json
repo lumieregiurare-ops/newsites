@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:00:36.971Z",
+  "updatedAt": "2026-10-15T05:30:30.553Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "91d7538d0254",
+      "title": "Desktop Mate",
+      "date": "2026-10-15",
+      "dateText": "2026年10月15日",
+      "sortKey": "2026-10-15",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://ariaers-assort.org/",
+      "image": "https://ebi-cdn.kanade.party/aa2-ogp.jpg",
+      "maker": "",
+      "headline": "「IA」がデスクトップで動き回る！『Desktop Mate』新DLCが本日10月15日より配信開始。好物の桜餅を嬉しそうに眺める仕草が超かわいい",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261015s"
+    },
     {
       "id": "7971df70b048",
       "title": "Thank You Bus Driver",
@@ -249,23 +264,6 @@
       "headline": "スキーゲーム「SN&#216;: Ultimate Freeriding」，コンシューマ版が10月29日に発売決定。無限に自動生成される雪山を滑り降りる",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/048/G104861/20261008020/"
-    },
-    {
-      "id": "0b936c38c6a9",
-      "title": "ノーマンズスカイ",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "maker": "",
-      "headline": "宇宙探索ゲーム『ノーマンズスカイ』iOS版が10月29日にリリース決定。なんと“過去10年分のアプデ”をすべて収録",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261013b"
     }
   ],
   "prereg": [
@@ -281,7 +279,7 @@
       "releaseText": "",
       "releaseSource": "",
       "count": "",
-      "reward": "",
+      "reward": "の情報は後日公開される",
       "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
       "description": "necoが描く『重兵装型女子高生』がふれあえる放置系RPGで登場！",
       "source": "電ファミニコゲーマー",
@@ -454,6 +452,27 @@
   ],
   "changes": [
     {
+      "at": "2026-10-15T05:30:30.553Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ポケモン",
+      "url": "https://www.pokemon.co.jp/ex/omaroke/",
+      "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg",
+      "platforms": [],
+      "from": "2026年10月5日",
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-15T05:30:30.553Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Desktop Mate",
+      "url": "https://ariaers-assort.org/",
+      "image": "https://ebi-cdn.kanade.party/aa2-ogp.jpg",
+      "platforms": [],
+      "to": "2026年10月15日"
+    },
+    {
       "at": "2026-10-15T02:00:29.090Z",
       "type": "new",
       "label": "新規",
@@ -500,30 +519,6 @@
         "switch"
       ],
       "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-10-14T17:00:33.711Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Hide & Hue",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139041",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c5acb07fbb1e16306ff38494173aef89f72c056a0f2c9c47ebffe6c4404f1b01.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-14T17:00:33.711Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Zombie Outbreak: Last Stand Survival",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132023",
-      "image": "https://img-eshop.cdn.nintendo.net/i/07853ae456f8a4e1ec85c811ca5b669b57ea598e272a432ba0512ec44df74893.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
     }
   ]
 }

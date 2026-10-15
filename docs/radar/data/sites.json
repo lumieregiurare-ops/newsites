@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T05:00:18.714Z",
+  "updatedAt": "2026-10-15T05:30:17.860Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 811,
+  "total": 814,
   "regions": {
-    "jp": 666,
+    "jp": 669,
     "global": 145
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 150
+      "count": 151
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 178
+      "count": 180
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 272
+      "count": 274
     },
     {
       "id": "indie",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "4Gamer",
+    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -162,6 +162,33 @@
       "image": "https://gundam-blitzorder.ggame.jp/images/ogp.jpg"
     },
     {
+      "id": "51c15cfed152",
+      "url": "https://www.pokemon.co.jp/ex/omaroke/",
+      "host": "pokemon.co.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "『ポケモン』新作ボドゲ「お前、もしかしてロケット団？」11月12日に発売決定！TVCMには「アニポケ」のロケット団でおなじみ林原めぐみさん、三木眞一郎さん、犬山イヌコさんが声で出演",
+      "description": "「お前、もしかしてロケット団？」公式サイト。この中にロケット団がいる?!相棒のポケモンとともに、相手の正体を見抜け!!",
+      "publishedAt": "2026-10-15T04:21:02.000Z",
+      "addedAt": "2026-10-15T05:30:17.860Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610152g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg"
+    },
+    {
       "id": "5a63b2456a0b",
       "url": "https://gundam-blitzorder.ggame.jp/nwt/",
       "host": "gundam-blitzorder.ggame.jp",
@@ -176,6 +203,14 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/15/189288.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/15/173631.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610152c"
         }
       ],
       "tags": [
@@ -218,6 +253,62 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "571b8ef39657",
+      "url": "https://m2stg.com/",
+      "host": "m2stg.com",
+      "region": "jp",
+      "title": "アームドポリス バトライダー",
+      "headline": "2Dシューティングはまだ終わらない！ 7年ぶりの「エムツー」リアルイベントがシューター大集結でアツかった。待望の『アームドポリス バトライダー』や『戦刃アレスタ』の家庭用移植版の…",
+      "description": "シューティングゲームを復刻から創生へ！ M2ShotTriggersシリーズ公式サイト M2ShotTriggers series official website!",
+      "publishedAt": "2026-10-15T03:00:30.000Z",
+      "addedAt": "2026-10-15T05:30:17.860Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261015f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://m2stg.com/wp/wp-content/uploads/2024/04/m2stg_social_image.jpg"
+    },
+    {
+      "id": "7e90d9f037be",
+      "url": "https://ariaers-assort.org/",
+      "host": "ariaers-assort.org",
+      "region": "jp",
+      "title": "Desktop Mate",
+      "headline": "「IA」がデスクトップで動き回る！『Desktop Mate』新DLCが本日10月15日より配信開始。好物の桜餅を嬉しそうに眺める仕草が超かわいい",
+      "description": "2026年11月1日、大田区産業プラザPiO 大展示ホールにて開催される、ARIA姉妹オンリー即売会「Ariaers Assort 2」の特設サイトです。",
+      "publishedAt": "2026-10-15T03:00:23.000Z",
+      "addedAt": "2026-10-15T05:30:17.860Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261015s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ebi-cdn.kanade.party/aa2-ogp.jpg"
     },
     {
       "id": "ea2a9c04738d",
@@ -408,6 +499,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/15/173612.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/15/28326.html"
         }
       ],
       "tags": [

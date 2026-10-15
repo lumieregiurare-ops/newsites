@@ -15844,9 +15844,9 @@
     },
     "ポケモン": {
       "title": "ポケモン",
-      "dateText": "2026年10月5日",
-      "date": "2026-10-05",
-      "sortKey": "2026-10-05",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
       "prereg": false,
       "firstSeen": "2026-09-24T10:00:34.922Z"
     },
@@ -33733,6 +33733,30 @@
       "sortKey": "2026-10-16",
       "prereg": false,
       "firstSeen": "2026-10-15T05:00:36.971Z"
+    },
+    "desktopmate": {
+      "title": "Desktop Mate",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-15T05:30:30.553Z"
+    },
+    "astralechelonsdemo": {
+      "title": "Astral Echelons Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T05:30:30.553Z"
+    },
+    "punchrush": {
+      "title": "Punch Rush",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T05:30:30.553Z"
     }
   },
   "changeLog": [
@@ -38123,6 +38147,27 @@
         "switch2"
       ],
       "to": "2026年12月31日"
+    },
+    {
+      "at": "2026-10-15T05:30:30.553Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Desktop Mate",
+      "url": "https://ariaers-assort.org/",
+      "image": "https://ebi-cdn.kanade.party/aa2-ogp.jpg",
+      "platforms": [],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-15T05:30:30.553Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ポケモン",
+      "url": "https://www.pokemon.co.jp/ex/omaroke/",
+      "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg",
+      "platforms": [],
+      "from": "2026年10月5日",
+      "to": "2026年11月12日"
     }
   ],
   "initialized": true,
