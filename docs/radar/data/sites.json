@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T00:56:02.086Z",
+  "updatedAt": "2026-10-15T01:30:18.886Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 805,
+  "total": 806,
   "regions": {
-    "jp": 660,
+    "jp": 661,
     "global": 145
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 270
+      "count": 271
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 100
+      "count": 101
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b19f11ecd34d",
+      "url": "https://www.unite-atsushi.com/gcsurvivor",
+      "host": "unite-atsushi.com",
+      "region": "jp",
+      "title": "ガッチャ！サバイバー",
+      "headline": "MSSPのFB777さんがプロデュースするゲーム『ガッチャ！サバイバー』の体験版がSteamで配信。“弾幕を避けない”ヴァンサバライク",
+      "description": "ポップなキャラクター達が活躍するローグライクゲーム！",
+      "publishedAt": "2026-10-15T01:27:25.000Z",
+      "addedAt": "2026-10-15T01:30:18.886Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261015i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/38b20e_dbb5baca8f6349e9a6098a3c6e21fdb8~mv2.png/v1/fill/w_1232,h_706,al_c/38b20e_dbb5baca8f6349e9a6098a3c6e21fdb8~mv2.png"
+    },
     {
       "id": "c42e8ac3f9de",
       "url": "https://www.funselektor.com/overthehill",
