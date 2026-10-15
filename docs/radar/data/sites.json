@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T11:30:17.802Z",
+  "updatedAt": "2026-10-15T12:00:21.888Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 827,
+  "total": 830,
   "regions": {
-    "jp": 679,
-    "global": 148
+    "jp": 681,
+    "global": 149
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 154
+      "count": 156
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 282
+      "count": 283
     },
     {
       "id": "indie",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 30
+      "count": 31
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 179
+      "count": 181
     },
     {
       "id": "official",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 104
+      "count": 105
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "Inside",
     "4Gamer",
+    "Inside",
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,92 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2c980dda334c",
+      "url": "https://say.games/games/shipping-store-simulator-2037/",
+      "host": "say.games",
+      "region": "global",
+      "title": "Shipping Store Simulator 2037",
+      "headline": "他社に負けないためには闇の仕事も引き受ける。配送サービス運営シミュレーション「Shipping Store Simulator 2037」，配信開始",
+      "description": "Coming to Steam on October 14. Become the logistics center of the future! Hire robots, deliver packages via drone, and …",
+      "publishedAt": "2026-10-15T11:49:20.000Z",
+      "addedAt": "2026-10-15T12:00:21.888Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/012/G101285/20261015050/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://say.games/files/_cover.png"
+    },
+    {
+      "id": "5788e9a64c8b",
+      "url": "https://radio-eva.jp/view/category/the30_avirex",
+      "host": "radio-eva.jp",
+      "region": "jp",
+      "title": "エヴァ",
+      "headline": "「エヴァ」コラボMA-1ジャケットがかっこいい！ 「EVANGELION MA-1 REMODEL」追加生産分が販売決定－初号機、2号機、Mark.06をイメージしたカラーリング",
+      "description": "「RADIO EVA Online Store」の「RADIO EVA",
+      "publishedAt": "2026-10-15T11:45:03.000Z",
+      "addedAt": "2026-10-15T12:00:21.888Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/15/189332.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "8035e568ade3",
+      "url": "https://pubg.com/ja",
+      "host": "pubg.com",
+      "region": "jp",
+      "title": "PUBG",
+      "headline": "「PUBG」，高級自動車ブランド「ベントレー」とコラボ",
+      "description": "PUBG: BATTLEGROUNDSは、100人のプレイヤーが対戦するバトルロイヤルシューターです。マップ上にある武器やアイテムを駆使して最後の生存者となりましょう。今すぐ無料プレイ！",
+      "publishedAt": "2026-10-15T11:42:47.000Z",
+      "addedAt": "2026-10-15T12:00:21.888Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/348/G034868/20261015047/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg"
+    },
     {
       "id": "e34c18f8ed3a",
       "url": "https://aion2.plaync.com/ja-jp/index",
@@ -5197,7 +5283,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/33/d4/6433d436-be41-56fd-03e3-775fa7f5633d/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/b6/55/dcb65559-d3e9-649b-62e8-88f482485527/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "49db76af6998",
@@ -9218,7 +9304,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/c7/dc/e6c7dc28-9dd6-dd79-bfb4-100838ba937f/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/df/82/dfdf82f5-6482-b978-aa13-e41485525d84/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "2f14f967747e",
@@ -9865,7 +9951,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tj0joolWlnGma3_q-cpILAs0KqoqixHOoRXPTfqwSOPpxD6rEffKDFO17FwMyXkW1g0yMJCI7KGIUqzzVdbm7PDQ41tmsmcTn7AqqDiqoXdvUrlCJ3KsfZI4Nhg2-CDLtzE2-AlxcFD3Xopa5kFf4ibi9ohfqs0abO08nv_NPGJRfn1DAwITxXzYuuwqk=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72um9cr43qF-kHKOpEFlbTjU1msia9DReK6mMFpEctfCsPmjYY6qt4TyVOGvo_OamykvEpPkzJP31gtapF_cN2pYxlLLIKbgFnW0qd0ZYvUow40xMfy_BGlo792VpODKMNFyhhctAJGfadkmSB3jzhrNnETdCNB4-KbbCLalWh0BASnwzhfMvbYnyrj0WSE=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
