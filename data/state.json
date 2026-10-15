@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "id": "1ae8c9d519c1",
+      "url": "https://www.kensington.com/ja-jp/c/%E8%A3%BD%E5%93%81/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E5%95%86%E5%93%81/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3/?srt=relevance",
+      "host": "kensington.com",
+      "region": "jp",
+      "title": "星のカービィ",
+      "headline": "『星のカービィ』のマウスが可愛い…！コラボPC周辺機器が予約受付開始ーキーボードには駆け回るカービィ&ワドルディも",
+      "description": "『星のカービィ』のマウスが可愛い…！コラボPC周辺機器が予約受付開始ーキーボードには駆け回るカービィ&ワドルディも",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-15T07:15:03.000Z",
+      "addedAt": "2026-10-15T07:30:17.839Z",
+      "source": "Inside",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/15/189302.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-15T07:30:17.839Z",
+      "metaError": "HTTP 403",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
       "id": "f1535f2b1856",
       "url": "https://freestylefootball2.com/ja",
       "host": "freestylefootball2.com",
@@ -2415,10 +2458,10 @@
         "official"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=37",
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=39",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-14T07:30:17.625Z",
-      "ogFetchedAt": "2026-10-14T07:30:17.625Z",
+      "checkedAt": "2026-10-15T07:30:17.839Z",
+      "ogFetchedAt": "2026-10-15T07:30:17.839Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2554,8 +2597,8 @@
       "points": null,
       "image": "https://www.kanken.or.jp/kanken/kanken-og.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-14T07:30:17.625Z",
-      "ogFetchedAt": "2026-10-14T07:30:17.625Z",
+      "checkedAt": "2026-10-15T07:30:17.839Z",
+      "ogFetchedAt": "2026-10-15T07:30:17.839Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2640,8 +2683,8 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 4,
-      "checkedAt": "2026-10-14T07:30:17.625Z",
+      "metaAttempts": 5,
+      "checkedAt": "2026-10-15T07:30:17.839Z",
       "metaError": "fetch failed",
       "platforms": []
     },
@@ -8086,11 +8129,13 @@
         "周年",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
         "anniversary",
+        "prereg",
         "event"
       ],
       "points": null,
@@ -17712,7 +17757,7 @@
       "headline": "無料オンラインFPS『AVA』の続編『AVA RE:BIRTH』の事前登録とCBT募集が開始。新トレーラーや「キャラクター名先行取得キャンペーン」も解禁",
       "description": "基本プレイ無料オンラインFPSゲーム「AVA RE:BIRTH」",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -31530,7 +31575,7 @@
       "headline": "『パタポン』精神的続編『ラタタン』コンソールDL版の予約開始！予約で10%オフ―正式版ではエピソード3・4追加で物語はクライマックスへ",
       "description": "By Game Source Entertainment | RATATAN",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -31548,7 +31593,8 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [

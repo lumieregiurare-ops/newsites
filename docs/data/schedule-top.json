@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:00:33.369Z",
+  "updatedAt": "2026-10-15T07:30:31.478Z",
   "platforms": [
     {
       "id": "switch",
@@ -452,6 +452,30 @@
   ],
   "changes": [
     {
+      "at": "2026-10-15T07:30:31.478Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "パタポン",
+      "url": "https://gamesource-ent.jp/detail/166/",
+      "image": "https://gamesource-ent.jp/www/img/gse_logo.png?id=3",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-15T07:30:31.478Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://avarebirth.pmang.jp/",
+      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
       "at": "2026-10-15T07:00:33.369Z",
       "type": "new",
       "label": "新規",
@@ -493,30 +517,6 @@
         "switch2"
       ],
       "to": "2026年12月31日"
-    },
-    {
-      "at": "2026-10-15T02:00:29.090Z",
-      "type": "new",
-      "label": "新規",
-      "title": "追加コンテンツ第1弾「特別な武器」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000079240",
-      "image": "https://img-eshop.cdn.nintendo.net/i/51c3882b9b9dc80930b651f8b128f4c9570415bd6f960824794d44de81ec2317.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月15日"
-    },
-    {
-      "at": "2026-10-15T02:00:29.090Z",
-      "type": "new",
-      "label": "新規",
-      "title": "シナリオ「秋風五丈原」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000080493",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8b429be31ccb661e6d67628e86b939a5e4acc6b8e0f45bcbdc889eeb0f51815e.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月15日"
     }
   ]
 }

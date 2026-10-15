@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T07:00:18.207Z",
+  "updatedAt": "2026-10-15T07:30:17.839Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 817,
+  "total": 818,
   "regions": {
-    "jp": 671,
+    "jp": 672,
     "global": 146
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 93
+      "count": 95
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 151
+      "count": 152
     },
     {
       "id": "event",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 101
+      "count": 102
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Inside",
     "AppBank",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1ae8c9d519c1",
+      "url": "https://www.kensington.com/ja-jp/c/%E8%A3%BD%E5%93%81/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E5%95%86%E5%93%81/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3/?srt=relevance",
+      "host": "kensington.com",
+      "region": "jp",
+      "title": "星のカービィ",
+      "headline": "『星のカービィ』のマウスが可愛い…！コラボPC周辺機器が予約受付開始ーキーボードには駆け回るカービィ&ワドルディも",
+      "description": "『星のカービィ』のマウスが可愛い…！コラボPC周辺機器が予約受付開始ーキーボードには駆け回るカービィ&ワドルディも",
+      "publishedAt": "2026-10-15T07:15:03.000Z",
+      "addedAt": "2026-10-15T07:30:17.839Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/15/189302.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "f1535f2b1856",
       "url": "https://freestylefootball2.com/ja",
@@ -1722,7 +1752,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=37"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=39"
     },
     {
       "id": "3fd841df8e29",
@@ -5543,10 +5573,12 @@
         "周年",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "categories": [
         "anniversary",
+        "prereg",
         "event"
       ],
       "platforms": [
@@ -21437,7 +21469,8 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
         "prereg"

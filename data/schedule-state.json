@@ -2231,6 +2231,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/a4/53/5ea453a8-f819-f42e-aae4-28f21b8c7166/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "パタポン": {
+      "at": "2026-10-15T07:30:31.786Z",
+      "entry": null
     }
   },
   "titles": {
@@ -15988,7 +15992,7 @@
     },
     "ava": {
       "title": "AVA",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-24T12:30:42.278Z"
     },
     "bookishbuddies:bookstoresimulatordemo": {
@@ -33837,6 +33841,59 @@
       "sortKey": "2026-12-03",
       "prereg": false,
       "firstSeen": "2026-10-15T07:00:33.369Z"
+    },
+    "-replication-fbt-": {
+      "title": "-replication-fbt-",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "greattownbusiness:life,living&luxuriesdemo": {
+      "title": "Great Town Business: Life, Living & Luxuries Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "iwassummonedtoanotherworld,butallidoisorganizearun-downvillage": {
+      "title": "I Was Summoned to Another World, but All I Do Is Organize a Run-Down Village",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "remnantsofvaedra:talesofthedicebound": {
+      "title": "Remnants of Vaedra: Tales of the Dicebound",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "thereiscakeinthebreakroom": {
+      "title": "There is Cake in the Break Room",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "肝試しオンラインdemo": {
+      "title": "肝試しオンライン Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
+    },
+    "パタポン": {
+      "title": "パタポン",
+      "prereg": true,
+      "firstSeen": "2026-10-15T07:30:31.478Z"
     }
   },
   "changeLog": [
@@ -38258,6 +38315,30 @@
       "image": "https://webservice-cf.joycityglobal.com/web/fsf2/resources/images/seo.jpg?v=2.0",
       "platforms": [],
       "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-15T07:30:31.478Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://avarebirth.pmang.jp/",
+      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-15T07:30:31.478Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "パタポン",
+      "url": "https://gamesource-ent.jp/detail/166/",
+      "image": "https://gamesource-ent.jp/www/img/gse_logo.png?id=3",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
