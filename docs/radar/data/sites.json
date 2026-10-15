@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T10:00:16.766Z",
+  "updatedAt": "2026-10-15T10:30:22.010Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 822,
+  "total": 824,
   "regions": {
-    "jp": 675,
-    "global": 147
+    "jp": 676,
+    "global": 148
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 81
+      "count": 82
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 278
+      "count": 280
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 55
+      "count": 56
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 178
+      "count": 179
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 249
+      "count": 251
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,71 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f730938443cf",
+      "url": "https://fortifiedstudios.com/",
+      "host": "fortifiedstudios.com",
+      "region": "global",
+      "title": "Sort of the Apocalypse",
+      "headline": "世界は滅んだ。それでも片付けは終わらない。終末世界が舞台の整理整頓シミュレータ「Sort of the Apocalypse」発表，2026年12月にリリース予定",
+      "description": "Discover Dead End Disposal, the first-person factory automation game from Fortified Studios. Process the dead, recover …",
+      "publishedAt": "2026-10-15T10:06:25.000Z",
+      "addedAt": "2026-10-15T10:30:22.010Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105060/20261015039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "8b472c0cb0ed",
+      "url": "https://apps.apple.com/jp/app/id1434519042",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "メイプルストーリーM",
+      "headline": "『メイプルストーリーM』7.5周年アップデート実施！ 新職業「虎影」と新ボス「真・ヒルラ」が登場",
+      "description": "NEXON Companyの「メイプルストーリーＭ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「メイプルストーリーＭ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-15T09:55:00.000Z",
+      "addedAt": "2026-10-15T10:30:22.010Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/15/game/3133390.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/b9/fd/8eb9fd3f-be11-1ee8-a68b-6ef7590af324/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "f2295bca7a66",
       "url": "https://tougenanki-crimsoninferno.com/",
@@ -181,6 +246,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610153a"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/034/G103468/20261015038/"
         }
       ],
       "tags": [
