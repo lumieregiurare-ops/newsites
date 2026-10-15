@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T03:30:17.118Z",
+  "updatedAt": "2026-10-15T04:00:14.955Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 809,
+  "total": 810,
   "regions": {
-    "jp": 664,
+    "jp": 665,
     "global": 145
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 130
+      "count": 131
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 243
+      "count": 244
     },
     {
       "id": "browser",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "Inside",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5a63b2456a0b",
+      "url": "https://gundam-blitzorder.ggame.jp/nwt/",
+      "host": "gundam-blitzorder.ggame.jp",
+      "region": "jp",
+      "title": "ガンダム ブリッツオーダー",
+      "headline": "ガンダムゲーム、次の挑戦は“放置型シミュレーション”！新作スマホ向けアプリ『ガンダム ブリッツオーダー』発表",
+      "description": "ガンダムゲーム、次の挑戦は“放置型シミュレーション”！新作スマホ向けアプリ『ガンダム ブリッツオーダー』発表",
+      "publishedAt": "2026-10-15T03:35:02.000Z",
+      "addedAt": "2026-10-15T04:00:14.955Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/15/189288.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://gundam-blitzorder.ggame.jp/images/ogp.jpg"
+    },
     {
       "id": "352617ecbdb1",
       "url": "http://gunvolt.com/TE",
