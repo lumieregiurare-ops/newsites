@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T06:30:19.191Z",
+  "updatedAt": "2026-10-15T07:00:18.207Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 815,
+  "total": 817,
   "regions": {
-    "jp": 669,
+    "jp": 671,
     "global": 146
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 274
+      "count": 275
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 177
+      "count": 178
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 246
+      "count": 247
     },
     {
       "id": "browser",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f1535f2b1856",
+      "url": "https://freestylefootball2.com/ja",
+      "host": "freestylefootball2.com",
+      "region": "jp",
+      "title": "FreeStyle Football 2",
+      "headline": "オンラインサッカーゲーム「FreeStyle Football 2」，12月3日に発売決定。プレオーダーもスタート",
+      "description": "Freestyle Football 2 delivers dynamic 5v5 sports action with unique, colorful characters and thrilling gameplay. Launch…",
+      "publishedAt": "2026-10-15T06:56:20.000Z",
+      "addedAt": "2026-10-15T07:00:18.207Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/988/G098878/20261015025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://webservice-cf.joycityglobal.com/web/fsf2/resources/images/seo.jpg?v=2.0"
+    },
     {
       "id": "f210f3a2178a",
       "url": "https://summereternal.com/redrooster",
@@ -3602,6 +3629,39 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "5a8d3565b734",
+      "url": "https://apps.apple.com/jp/app/id6815691344",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "YukiGuni",
+      "headline": "SEVEN DOT / シミュレーション・カジュアル · App Store 新着",
+      "description": "SEVEN DOTの「YukiGuni」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「YukiGuni」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "addedAt": "2026-10-15T07:00:18.207Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6815691344"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/72/43/2f72435a-3e3a-1a8c-c4d9-e021aa5d220d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "1b3cc750e6aa",
