@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "e34c18f8ed3a",
+      "url": "https://aion2.plaync.com/ja-jp/index",
+      "host": "aion2.plaync.com",
+      "region": "jp",
+      "title": "AION2",
+      "headline": "MMORPG『AION2』は、課金をしなくてもPvPをしなくても楽しめる。グローバル版の正式サービスという“お祭り”を迎えた開発チームに本音を聞いた",
+      "description": "AION2｜あなたの物語が、翼を広げる",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-15T11:00:22.000Z",
+      "addedAt": "2026-10-15T11:30:17.802Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/interview/2610159a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/1a0efb88d12-df92f529-b73e-48c9-9439-c770d664467c",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-15T11:30:17.802Z",
+      "ogFetchedAt": "2026-10-15T11:30:17.802Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "fe70cca37c25",
       "url": "https://www.crocs.co.jp/c/collections/chainsaw-man",
       "host": "crocs.co.jp",
@@ -36,8 +78,8 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
-      "checkedAt": "2026-10-15T11:00:18.297Z",
+      "metaAttempts": 2,
+      "checkedAt": "2026-10-15T11:30:17.802Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -1357,8 +1399,8 @@
       "points": null,
       "image": "https://www.juheiso-game.jp/assets/images/common/img_ogp.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-14T11:00:20.997Z",
-      "ogFetchedAt": "2026-10-14T11:00:20.997Z",
+      "checkedAt": "2026-10-15T11:30:17.802Z",
+      "ogFetchedAt": "2026-10-15T11:30:17.802Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2073,8 +2115,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/8b/a3/f68ba3ff-60e7-99dc-002e-80832873ac5f/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-14T11:00:20.997Z",
-      "ogFetchedAt": "2026-10-14T11:00:20.997Z",
+      "checkedAt": "2026-10-15T11:30:17.802Z",
+      "ogFetchedAt": "2026-10-15T11:30:17.802Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -22039,7 +22081,14 @@
       "title": "刀剣乱舞ぱずぎり",
       "headline": "EXNOA LLC / パズル・ロールプレイング · App Store 新着",
       "description": "刀剣乱舞の新作パズルRPGが、2026年9月24日から好評配信中！",
-      "article": null,
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "事前登録者50万人",
+        "reward": "",
+        "ios": "6747331078",
+        "android": "com.dmm.games.touken.puzzle"
+      },
       "publishedAt": "2026-09-23T07:00:00.000Z",
       "addedAt": "2026-10-14T13:30:23.406Z",
       "source": "App Store",
@@ -22048,6 +22097,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6747331078"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/024/G102437/20261015042/"
         }
       ],
       "tags": [
@@ -22055,7 +22108,8 @@
         "スマホ",
         "iOS",
         "パズル",
-        "ロールプレイング"
+        "ロールプレイング",
+        "Android"
       ],
       "phCategories": [],
       "categories": [
