@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T06:00:16.434Z",
+  "updatedAt": "2026-10-15T06:30:19.191Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 814,
+  "total": 815,
   "regions": {
     "jp": 669,
-    "global": 145
+    "global": 146
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 132
+      "count": 133
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f210f3a2178a",
+      "url": "https://summereternal.com/redrooster",
+      "host": "summereternal.com",
+      "region": "global",
+      "title": "ディスコ エリジウム",
+      "headline": "「ディスコ エリジウム」元開発者らによる新作RPG「Red Rooster」発表。終身刑の受刑者が恩赦を条件に，消防署に潜入して連続放火犯を追う",
+      "description": "SUMMER ETERNAL introduces their incendiary, physics-driven RPG: RED ROOSTER.",
+      "publishedAt": "2026-10-15T06:19:42.000Z",
+      "addedAt": "2026-10-15T06:30:19.191Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105046/20261015022/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://framerusercontent.com/assets/GT82W5ksdGsNC1PAhmUPCD1TZJQ.jpg"
+    },
     {
       "id": "d5dfcc16e97b",
       "url": "https://gundam-blitzorder.ggame.jp/",
