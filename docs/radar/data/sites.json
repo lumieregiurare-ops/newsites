@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T12:00:21.888Z",
+  "updatedAt": "2026-10-15T12:30:22.523Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 830,
+  "total": 832,
   "regions": {
-    "jp": 681,
+    "jp": 683,
     "global": 149
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 82
+      "count": 83
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 180
+      "count": 181
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 283
+      "count": 284
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 181
+      "count": 182
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 105
+      "count": 106
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 251
+      "count": 252
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "AppBank",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a5ff7605d1a0",
+      "url": "https://mobile.nexon.co.jp/maplestorym/",
+      "host": "mobile.nexon.co.jp",
+      "region": "jp",
+      "title": "メイプルストーリーM",
+      "headline": "「メイプルストーリーM」，7.5周年アップデートを実施",
+      "description": "あの「メイプルストーリー」の世界をスマホで再現! メイプルストーリーＭの公式サイト。",
+      "publishedAt": "2026-10-15T12:15:17.000Z",
+      "addedAt": "2026-10-15T12:30:22.523Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/324/G032445/20261015051/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.nexon.co.jp/maplestorym/common_anzi/ogpcard.png"
+    },
+    {
+      "id": "4c12fe37dd68",
+      "url": "https://www.wizardsneverlie.com/",
+      "host": "wizardsneverlie.com",
+      "region": "jp",
+      "title": "Wizards Never Lie",
+      "headline": "【4人マルチ】ウェブカメラで互いの表情を見ながら騙し合うゲーム『Wizards Never Lie』Steamストアページが公開。誰を、いつ疑うか",
+      "description": "4つの椅子、4人の魔法使い、そしてルールはひとつだけ――魔法使いは決して嘘をつかない。席の上にあなたの顔がライブで映る、4人用オンライン・ソーシャル推理ゲーム。リボルバー、隠されたフィギュア、カード、毒でブラフを仕掛け、チェックを賢く使い…",
+      "publishedAt": "2026-10-15T12:00:07.000Z",
+      "addedAt": "2026-10-15T12:30:22.523Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610153k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.wizardsneverlie.com/art/main-capsule.png"
+    },
     {
       "id": "2c980dda334c",
       "url": "https://say.games/games/shipping-store-simulator-2037/",
@@ -6238,7 +6301,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/8b/2b/f88b2b65-bfba-1d71-04c3-5109d52ac190/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/b7/fb/9db7fbf2-e50c-fc57-68e9-4ad9ffb5c156/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3390eb7cf8a1",
