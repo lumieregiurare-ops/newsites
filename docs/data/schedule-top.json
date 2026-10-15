@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:00:40.108Z",
+  "updatedAt": "2026-10-15T09:30:36.419Z",
   "platforms": [
     {
       "id": "switch",
@@ -268,6 +268,31 @@
   ],
   "prereg": [
     {
+      "id": "f2295bca7a66",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-15T09:08:58.000Z",
+      "releaseText": "2026年12月16日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
+      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
+      "appleId": "6476490037",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6476490037",
+        "preorder": true,
+        "releaseDate": "2026-12-16T08:00:00Z"
+      },
+      "trackId": "6476490037"
+    },
+    {
       "id": "2d8d5c03d78b",
       "title": "重兵装型女子高生",
       "url": "https://www.juheiso-game.jp/",
@@ -421,36 +446,21 @@
       "sourceUrl": "https://www.4gamer.net/games/939/G093966/20261009034/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "ff3873d08404",
-      "title": "ホロライブ麻雀 -ホロじゃん-",
-      "url": "https://www.holo-jong.com/",
-      "image": "https://www.holo-jong.com/wp-content/themes/officialsite/images/common/ogp.jpg",
-      "platforms": [
-        "pc",
-        "mobile",
-        "browser"
-      ],
-      "startedAt": "2026-10-09T04:18:40.000Z",
-      "releaseText": "2026年12月11日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『ホロライブ麻雀 -ホロじゃん-』発表、白上フブキさんや宝鐘マリンさんなどが参戦するオンライン麻雀ゲーム。録りおろしボイスやオリジナルストーリーなど“推しと楽しむ麻雀”",
-      "description": "『ホロライブ麻雀-ホロじゃん-』で今度の推し活は、麻雀だ！スマホアプリ・PC・ブラウザで遊べるマルチプラットフォーム麻雀ゲーム。環境を選ばずどこからでも推しタレントとオンライン対戦を楽しもう！",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610092h",
-      "appleId": "6762111285",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6762111285",
-        "preorder": true,
-        "releaseDate": "2026-12-11T08:00:00Z"
-      },
-      "trackId": "6762111285"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-15T09:30:36.419Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月16日"
+    },
     {
       "at": "2026-10-15T09:00:40.108Z",
       "type": "new",
@@ -504,18 +514,6 @@
       "title": "パタポン",
       "url": "https://gamesource-ent.jp/detail/166/",
       "image": "https://gamesource-ent.jp/www/img/gse_logo.png?id=3",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-15T07:30:31.478Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "AVA",
-      "url": "https://avarebirth.pmang.jp/",
-      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
       "platforms": [
         "mobile"
       ],

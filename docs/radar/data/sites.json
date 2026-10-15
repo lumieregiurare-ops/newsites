@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T09:00:15.376Z",
+  "updatedAt": "2026-10-15T09:30:17.582Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 820,
+  "total": 822,
   "regions": {
-    "jp": 674,
-    "global": 146
+    "jp": 675,
+    "global": 147
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 95
+      "count": 96
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 152
+      "count": 153
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 277
+      "count": 278
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 102
+      "count": 103
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 248
+      "count": 249
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
+    "AppBank",
+    "Inside",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f2295bca7a66",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "host": "tougenanki-crimsoninferno.com",
+      "region": "jp",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
+      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
+      "publishedAt": "2026-10-15T09:08:58.000Z",
+      "addedAt": "2026-10-15T09:30:17.582Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/893/G089379/20261015034/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png"
+    },
+    {
+      "id": "cd974092fc4a",
+      "url": "https://brocap-studio.com/",
+      "host": "brocap-studio.com",
+      "region": "global",
+      "title": "Hubert",
+      "headline": "人間の言葉を“ボヤく”「牧羊犬」になるゲーム『Hubert』Steamにてリリース。牧場の外では、匂いの追跡やマーキングといった犬らしいアクションで、何かが潜む森を探索",
+      "description": "人間の言葉を“ボヤく”「牧羊犬」になるゲーム『Hubert』Steamにてリリース。牧場の外では、匂いの追跡やマーキングといった犬らしいアクションで、何かが潜む森を探索",
+      "publishedAt": "2026-10-15T09:01:39.000Z",
+      "addedAt": "2026-10-15T09:30:17.582Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610153a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "f7e1d2efa5f4",
       "url": "https://play.google.com/store/apps/details?id=jp.snaplace.sawarubutsuri",
@@ -9033,7 +9096,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=37"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=39"
     },
     {
       "id": "3ad3cbdc2046",
@@ -13982,7 +14045,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10142026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10152026"
     },
     {
       "id": "33c0ff2f4868",

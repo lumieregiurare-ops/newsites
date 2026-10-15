@@ -872,7 +872,7 @@
       "entry": null
     },
     "ファレイドリア": {
-      "at": "2026-10-01T09:30:29.842Z",
+      "at": "2026-10-15T09:30:39.505Z",
       "entry": null
     },
     "フラガリアメモリーズ Color of Wishes": {
@@ -2031,7 +2031,7 @@
       "entry": null
     },
     "ニンニク入れますか？": {
-      "at": "2026-10-12T09:29:53.286Z",
+      "at": "2026-10-15T09:30:38.079Z",
       "entry": {
         "trackId": "6819722885",
         "title": "ニンニク入れますか？ - 二郎系コールゲーム",
@@ -2251,6 +2251,24 @@
         "storeUrl": "https://apps.apple.com/jp/app/id6799868337",
         "sellerUrl": "https://snaplace-corp.jp/sawarubutsuri/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/94/f3/d494f318-e19a-6467-0dd9-393dbc290a04/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "桃源暗鬼 Crimson Inferno": {
+      "at": "2026-10-15T09:30:36.680Z",
+      "entry": {
+        "trackId": "6476490037",
+        "title": "桃源暗鬼 Crimson Inferno",
+        "artist": "Com2uS Corp.",
+        "genres": [
+          "ストラテジー",
+          "ロールプレイング"
+        ],
+        "releaseDate": "2026-12-16T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6476490037",
+        "sellerUrl": "https://www.com2us.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/14/e4/1e14e428-05d8-e1a7-0d18-5fe3c552c176/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -31644,9 +31662,9 @@
     },
     "bathyscaphe": {
       "title": "Bathyscaphe",
-      "dateText": "2026年10月15日",
-      "date": "2026-10-15",
-      "sortKey": "2026-10-15",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
       "prereg": false,
       "firstSeen": "2026-10-13T13:00:33.020Z"
     },
@@ -34064,6 +34082,35 @@
       "sortKey": "2026-10-23",
       "prereg": false,
       "firstSeen": "2026-10-15T09:00:40.108Z"
+    },
+    "demolitionempire": {
+      "title": "Demolition Empire",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T09:30:36.419Z"
+    },
+    "flecto": {
+      "title": "Flecto",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T09:30:36.419Z"
+    },
+    "terradune": {
+      "title": "Terradune",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T09:30:36.419Z"
+    },
+    "桃源暗鬼crimsoninferno": {
+      "title": "桃源暗鬼 Crimson Inferno",
+      "prereg": true,
+      "firstSeen": "2026-10-15T09:30:36.419Z"
     }
   },
   "changeLog": [
@@ -38545,6 +38592,18 @@
         "switch2"
       ],
       "to": "2026年10月22日"
+    },
+    {
+      "at": "2026-10-15T09:30:36.419Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月16日"
     }
   ],
   "initialized": true,
