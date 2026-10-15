@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:00:14.955Z",
+  "updatedAt": "2026-10-15T04:30:17.293Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 244
+      "count": 245
     },
     {
       "id": "browser",
@@ -5321,17 +5321,26 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610063d"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/15/173629.html"
         }
       ],
       "tags": [
         "ゲーム",
-        "周年"
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "anniversary",
         "event"
       ],
-      "platforms": [],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": "https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/share-oversea.6f430b84.jpg"
     },
