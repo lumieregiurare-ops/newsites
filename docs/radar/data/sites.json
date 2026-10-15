@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-15T13:30:19.269Z",
+  "updatedAt": "2026-10-15T14:00:19.065Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 832,
+  "total": 833,
   "regions": {
-    "jp": 683,
+    "jp": 684,
     "global": 149
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 37
+      "count": 38
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 284
+      "count": 285
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
-    "Game*Spark",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5fd5ab017e19",
+      "url": "https://www.rockstargames.com/newswire/",
+      "host": "rockstargames.com",
+      "region": "jp",
+      "title": "GTA6",
+      "headline": "『GTA6』熱烈なシャワーシーンお披露目！発売に先駆けローンチトレイラー公開",
+      "description": "The official destination for Rockstar game announcements and updates, trailer launches, screenshot unveilings, events, …",
+      "publishedAt": "2026-10-15T13:41:37.000Z",
+      "addedAt": "2026-10-15T14:00:19.065Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/15/173659.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://media-rockstargames-com.akamaized.net/favicons/rockstar/favicon-180x180.png"
+    },
     {
       "id": "a5ff7605d1a0",
       "url": "https://mobile.nexon.co.jp/maplestorym/",
