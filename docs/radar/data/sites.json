@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T14:00:19.065Z",
+  "updatedAt": "2026-10-15T14:30:18.936Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 833,
+  "total": 834,
   "regions": {
-    "jp": 684,
+    "jp": 685,
     "global": 149
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 83
+      "count": 84
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 285
+      "count": 286
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 252
+      "count": 253
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "123fba25fc60",
+      "url": "https://www.asharms.jp/",
+      "host": "asharms.jp",
+      "region": "jp",
+      "title": "アッシュアームズ-灰燼戦線-",
+      "headline": "「アッシュアームズ-灰燼戦線-」，7周年記念アップデート前半を開始。ヒストリエ新章に加え，新DOLLS「AMXCdC」「M103（T43）」が登場",
+      "description": "「アッシュアームズ -灰燼戦線-」は、謎の敵「災獣(リセッター)」による200年にも及ぶ侵略によって終末を迎える世界を舞台にした美少女×ミリタリーTBS（ターン制ストラテジー）です。プレイヤーは人類最後の砦「要塞都市City(シティ)」を…",
+      "publishedAt": "2026-10-15T14:00:26.000Z",
+      "addedAt": "2026-10-15T14:30:18.936Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/450/G045094/20261015056/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "5fd5ab017e19",
       "url": "https://www.rockstargames.com/newswire/",
@@ -7644,7 +7678,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://gbc-firstriff.com/wp-content/themes/gbc-firstriff_teaser/assets/images/ogp-v4.jpg"
+      "image": "https://gbc-firstriff.com/wp-content/themes/gbc-firstriff_teaser/assets/images/ogp-v5.jpg"
     },
     {
       "id": "1b22973a6405",
@@ -9789,7 +9823,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1791862132"
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1792035864"
     },
     {
       "id": "ee9753ded30e",
@@ -16454,6 +16488,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261002f"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/758/G075801/20261015057/"
         }
       ],
       "tags": [
