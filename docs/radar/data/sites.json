@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T10:30:22.010Z",
+  "updatedAt": "2026-10-15T11:00:18.297Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 824,
+  "total": 826,
   "regions": {
-    "jp": 676,
+    "jp": 678,
     "global": 148
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 153
+      "count": 154
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 280
+      "count": 282
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 103
+      "count": 104
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "Inside",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fe70cca37c25",
+      "url": "https://www.crocs.co.jp/c/collections/chainsaw-man",
+      "host": "crocs.co.jp",
+      "region": "jp",
+      "title": "チェンソーマン",
+      "headline": "足の先からチェンソー…!? 「チェンソーマン」コラボクロックスが発売決定ーポチタ、パワーなど全4種のほかシビッツも登場",
+      "description": "足の先からチェンソー…!? 「チェンソーマン」コラボクロックスが発売決定ーポチタ、パワーなど全4種のほかシビッツも登場",
+      "publishedAt": "2026-10-15T10:40:02.000Z",
+      "addedAt": "2026-10-15T11:00:18.297Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/15/189326.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "410d7d3b561c",
+      "url": "https://www.shadow-mate.com/",
+      "host": "shadow-mate.com",
+      "region": "jp",
+      "title": "Shadow mate 〜小さな竜と適合者〜",
+      "headline": "崩壊した研究施設で目覚めた少女が寄生生命体の力を借りて脱出を目指す「Shadow mate 〜小さな竜と適合者〜」，体験版をSteamで公開",
+      "description": "Shadow mate ～小さな竜と適合者～ (株)スプリングギルド、オリジナルゲーム作品 2024年steam発売予定",
+      "publishedAt": "2026-10-15T10:33:52.000Z",
+      "addedAt": "2026-10-15T11:00:18.297Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/873/G087383/20261015040/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/aeafe5_21415b4f38b54983ab34795bc949c2e0%7Emv2.png/v1/fit/w_2500,h_1330,al_c/aeafe5_21415b4f38b54983ab34795bc949c2e0%7Emv2.png"
+    },
     {
       "id": "f730938443cf",
       "url": "https://fortifiedstudios.com/",
@@ -3765,7 +3822,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/38/30/163830c9-d448-3fc8-ced9-f498879cb748/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f1/f3/3ff1f39d-ebbd-aeca-fd73-338e6b328fd6/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "42a809cbede4",
