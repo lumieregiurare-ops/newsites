@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-15T19:00:15.763Z",
+  "updatedAt": "2026-10-15T19:30:17.386Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 834,
+  "total": 835,
   "regions": {
     "jp": 684,
-    "global": 150
+    "global": 151
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 182
+      "count": 183
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 253
+      "count": 254
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "App Store",
     "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "GameBusiness.jp",
-    "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1822c4489b6b",
+      "url": "https://www.acenetgamejp.com/",
+      "host": "acenetgamejp.com",
+      "region": "global",
+      "title": "ダックサバイバー",
+      "headline": "Joy Net Games / ロールプレイング・アクション · App Store 新着",
+      "description": "Joy Net Games / ロールプレイング・アクション · App Store 新着",
+      "publishedAt": "2026-10-15T19:30:22.679Z",
+      "addedAt": "2026-10-15T19:30:17.386Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6799009278"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "123fba25fc60",
       "url": "https://www.asharms.jp/",
