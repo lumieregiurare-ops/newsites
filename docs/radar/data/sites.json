@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T08:30:18.074Z",
+  "updatedAt": "2026-10-15T09:00:15.376Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 819,
+  "total": 820,
   "regions": {
-    "jp": 673,
+    "jp": 674,
     "global": 146
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 276
+      "count": 277
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 247
+      "count": 248
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
-    "AppBank",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f7e1d2efa5f4",
+      "url": "https://play.google.com/store/apps/details?id=jp.snaplace.sawarubutsuri",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "さわる物理",
+      "headline": "月が落ちてくる世界を物理で修理！ 高校物理ゲーム『さわる物理』がiOS／Android向けに10月13日配信開始",
+      "description": "公式の値を指でいじると動きが変わる。高校物理の全公式を実験で確かめ、入試80問を解いて採点する学習アプリ。",
+      "publishedAt": "2026-10-15T08:45:00.000Z",
+      "addedAt": "2026-10-15T09:00:15.376Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/15/game/3133061.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/mBX8kS7HbsR3Ov_mk4a8aobkeL2KBFVBObDZob0bea8V9f9FGUVP-u71G-b-lUQXOvVEsY0OnqUGH0ItY3Geyg=s0-br30"
+    },
     {
       "id": "f2d8117df3f9",
       "url": "https://game-creators.camp/games/49972147/yomihime_project",
