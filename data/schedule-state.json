@@ -2191,6 +2191,25 @@
     "重兵装型女子高生": {
       "at": "2026-10-14T11:00:33.350Z",
       "entry": null
+    },
+    "DropSOS 3人を帰そう": {
+      "at": "2026-10-15T02:00:29.372Z",
+      "entry": {
+        "trackId": "6816315864",
+        "title": "DropSOS: 3人を帰そう",
+        "artist": "HOBEEC",
+        "genres": [
+          "アドベンチャー",
+          "エンターテインメント",
+          "パズル"
+        ],
+        "releaseDate": "2026-10-12T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6816315864",
+        "sellerUrl": "https://www.hobeec.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/2c/1b/e02c1bd1-005e-2a49-a4c5-67637872cd05/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -33509,6 +33528,54 @@
       "sortKey": "2026-10-19",
       "prereg": false,
       "firstSeen": "2026-10-15T00:56:13.868Z"
+    },
+    "シナリオ「秋風五丈原」": {
+      "title": "シナリオ「秋風五丈原」",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
+    },
+    "追加コンテンツ第1弾「特別な武器」": {
+      "title": "追加コンテンツ第1弾「特別な武器」",
+      "dateText": "2026年10月15日",
+      "date": "2026-10-15",
+      "sortKey": "2026-10-15",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
+    },
+    "duetonightdemo": {
+      "title": "DUE TONIGHT Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
+    },
+    "housemusicincremental": {
+      "title": "House Music Incremental",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
+    },
+    "廃課金シミュレーターdemo": {
+      "title": "廃課金シミュレーター Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
+    },
+    "追加コンテンツ第2弾「追加の仲間」「特別な衣装」": {
+      "title": "追加コンテンツ第2弾「追加の仲間」「特別な衣装」",
+      "dateText": "2026年12月31日",
+      "date": "2026-12-31",
+      "sortKey": "2026-12-31",
+      "prereg": false,
+      "firstSeen": "2026-10-15T02:00:29.090Z"
     }
   },
   "changeLog": [
@@ -37863,6 +37930,42 @@
         "switch"
       ],
       "to": "2026年11月19日"
+    },
+    {
+      "at": "2026-10-15T02:00:29.090Z",
+      "type": "new",
+      "label": "新規",
+      "title": "シナリオ「秋風五丈原」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000080493",
+      "image": "https://img-eshop.cdn.nintendo.net/i/8b429be31ccb661e6d67628e86b939a5e4acc6b8e0f45bcbdc889eeb0f51815e.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-15T02:00:29.090Z",
+      "type": "new",
+      "label": "新規",
+      "title": "追加コンテンツ第1弾「特別な武器」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000079240",
+      "image": "https://img-eshop.cdn.nintendo.net/i/51c3882b9b9dc80930b651f8b128f4c9570415bd6f960824794d44de81ec2317.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月15日"
+    },
+    {
+      "at": "2026-10-15T02:00:29.090Z",
+      "type": "new",
+      "label": "新規",
+      "title": "追加コンテンツ第2弾「追加の仲間」「特別な衣装」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000079241",
+      "image": "https://img-eshop.cdn.nintendo.net/i/92675bf910540f159a0c0e44e35e45e634f79339ad45e00db0ab9019daddb9ed.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月31日"
     }
   ],
   "initialized": true,
