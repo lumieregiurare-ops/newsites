@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T04:30:17.293Z",
+  "updatedAt": "2026-10-15T05:00:18.714Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 810,
+  "total": 811,
   "regions": {
-    "jp": 665,
+    "jp": 666,
     "global": 145
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 131
+      "count": 132
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 245
+      "count": 246
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d5dfcc16e97b",
+      "url": "https://gundam-blitzorder.ggame.jp/",
+      "host": "gundam-blitzorder.ggame.jp",
+      "region": "jp",
+      "title": "ガンダム ブリッツオーダー",
+      "headline": "ガンダムシリーズ新作「ガンダム ブリッツオーダー」を発表。モビルスーツや戦艦を編成する放置型シミュレーション",
+      "description": "スマホ向けモバイルゲーム「ガンダム ブリッツオーダー」公式サイトです。最新情報をお届けします。",
+      "publishedAt": "2026-10-15T04:41:45.000Z",
+      "addedAt": "2026-10-15T05:00:18.714Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105040/20261015014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://gundam-blitzorder.ggame.jp/images/ogp.jpg"
+    },
     {
       "id": "5a63b2456a0b",
       "url": "https://gundam-blitzorder.ggame.jp/nwt/",
@@ -5946,7 +5975,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639269818287499221"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639275219047686157"
     },
     {
       "id": "ec747cc06a3c",
