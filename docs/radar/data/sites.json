@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T08:00:22.242Z",
+  "updatedAt": "2026-10-15T08:30:18.074Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 818,
+  "total": 819,
   "regions": {
-    "jp": 672,
+    "jp": 673,
     "global": 146
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 275
+      "count": 276
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f2d8117df3f9",
+      "url": "https://game-creators.camp/games/49972147/yomihime_project",
+      "host": "game-creators.camp",
+      "region": "jp",
+      "title": "黄泉姫ー喰の赫焉ー",
+      "headline": "黄泉から生還するため，禍々しい小箱に詰める“指”を集めていく。サバイバルホラー「黄泉姫ー喰の赫焉ー」発表，2026年11月にリリース予定",
+      "description": "​────なら、\"指\"を頂戴 殺陣が行く末を斬り開く、アクションホラー",
+      "publishedAt": "2026-10-15T08:13:50.000Z",
+      "addedAt": "2026-10-15T08:30:18.074Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105055/20261015031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://storage.googleapis.com/content-creatorscamp-production/game/image/49972147_0?1792040242988"
+    },
     {
       "id": "1ae8c9d519c1",
       "url": "https://www.kensington.com/ja-jp/c/%E8%A3%BD%E5%93%81/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E5%95%86%E5%93%81/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3/?srt=relevance",
