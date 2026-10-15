@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T00:30:18.525Z",
+  "updatedAt": "2026-10-15T00:56:02.086Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 804,
+  "total": 805,
   "regions": {
-    "jp": 659,
+    "jp": 660,
     "global": 145
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 176
+      "count": 177
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 269
+      "count": 270
     },
     {
       "id": "indie",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c42e8ac3f9de",
+      "url": "https://www.funselektor.com/overthehill",
+      "host": "funselektor.com",
+      "region": "jp",
+      "title": "over the hill",
+      "headline": "「最大4人」で“危険すぎるオフロード”を乗り越え大自然をドライブするゲーム『over the hill』本日10月15日リリース。チルな雰囲気なのにヒヤヒヤが止まらない",
+      "description": "「最大4人」で“危険すぎるオフロード”を乗り越え大自然をドライブするゲーム『over the hill』本日10月15日リリース。チルな雰囲気なのにヒヤヒヤが止まらない",
+      "publishedAt": "2026-10-15T00:42:30.000Z",
+      "addedAt": "2026-10-15T00:56:02.086Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261015j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0dda389d7856",
       "url": "https://www.myplaywatch.com/",
