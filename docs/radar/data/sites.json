@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T13:00:17.895Z",
+  "updatedAt": "2026-10-16T13:30:19.444Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 865,
+  "total": 866,
   "regions": {
-    "jp": 712,
+    "jp": 713,
     "global": 153
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 187
+      "count": 188
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 261
+      "count": 262
     },
     {
       "id": "browser",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d234b0a84670",
+      "url": "https://umamusume.jp/",
+      "host": "umamusume.jp",
+      "region": "jp",
+      "title": "ウマ娘",
+      "headline": "「ウマ娘」公式生配信番組「ぱかライブTV' #8」が10月24日20：00に配信。新育成シナリオ「朋、史解き ―午式駿大祭―」の詳細や新ウマ娘を発表",
+      "description": "ウマ娘 プリティーダービー公式ポータルサイトです。メディアミックスコンテンツ『ウマ娘 プロジェクト』に関する情報をお届けします。",
+      "publishedAt": "2026-10-16T13:26:36.000Z",
+      "addedAt": "2026-10-16T13:30:19.444Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/414/G041434/20261016070/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://umamusume.jp/assets/images/ogp.jpg"
+    },
     {
       "id": "a194e704154b",
       "url": "https://grisaia-s100.com/",
