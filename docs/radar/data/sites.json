@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T10:00:16.833Z",
+  "updatedAt": "2026-10-16T10:30:17.815Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 862,
+  "total": 863,
   "regions": {
-    "jp": 709,
+    "jp": 710,
     "global": 153
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 137
+      "count": 138
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "438ab402cfff",
+      "url": "https://www.xreal.com/jp/",
+      "host": "xreal.com",
+      "region": "jp",
+      "title": "XREAL 1 Pro＋",
+      "headline": "より高輝度になったXREALの最上位ビデオグラス「XREAL 1 Pro＋」が米国で発表に",
+      "description": "XREALはすべての人に向けたARグラスを開発しています。空間ディスプレイ、AR製品、サポート、店舗情報、そしてXREALの最新情報をご覧ください。次世代の体験へ。",
+      "publishedAt": "2026-10-16T10:19:43.000Z",
+      "addedAt": "2026-10-16T10:30:17.815Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/740/G074096/20261016047/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.xreal.com/og-home.png"
+    },
     {
       "id": "bc82a1364fe1",
       "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
