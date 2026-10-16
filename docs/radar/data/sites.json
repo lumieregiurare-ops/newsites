@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T05:30:17.988Z",
+  "updatedAt": "2026-10-16T06:00:15.266Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 845,
+  "total": 849,
   "regions": {
-    "jp": 693,
+    "jp": 697,
     "global": 152
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 98
+      "count": 99
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 184
+      "count": 185
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 291
+      "count": 292
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 9
+      "count": 10
     },
     {
       "id": "company",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 183
+      "count": 184
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 134
+      "count": 136
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 108
+      "count": 110
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 255
+      "count": 256
     },
     {
       "id": "browser",
@@ -121,17 +121,138 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
+    "AppBank",
+    "Inside",
     "App Store",
     "Game*Spark",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "37ce1f4d5ec6",
+      "url": "https://kuukiyomi-korea.com/",
+      "host": "kuukiyomi-korea.com",
+      "region": "jp",
+      "title": "みんなで空気読み。ワールド 韓国Ver.",
+      "headline": "「みんなで空気読み。ワールド 韓国Ver.」，10月20日開幕のSteam Nextフェスで体験版をリリース。韓国の日常で空気を読もう",
+      "description": "『みんなで空気読み。ワールド』の新作は、韓国が舞台! 韓国人の「何気ない日常の“あるある”」シチュエーションで 「空気読めてる度」を診断!!",
+      "publishedAt": "2026-10-16T05:51:04.000Z",
+      "addedAt": "2026-10-16T06:00:15.266Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/031/G103121/20261016019/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "event",
+        "browser"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png"
+    },
+    {
+      "id": "4a90b9c9769f",
+      "url": "https://www.tesla.com/ja_jp/roadster",
+      "host": "tesla.com",
+      "region": "jp",
+      "title": "空飛ぶ車",
+      "headline": "【！？】テスラ「空飛ぶ車」を発表、本当に飛ぶ。圧縮空気を噴射してジャンプできる機能、上下逆さまの状態から空中で姿勢を安定させて降りる機能を公開",
+      "description": "【！？】テスラ「空飛ぶ車」を発表、本当に飛ぶ。圧縮空気を噴射してジャンプできる機能、上下逆さまの状態から空中で姿勢を安定させて降りる機能を公開",
+      "publishedAt": "2026-10-16T05:45:10.000Z",
+      "addedAt": "2026-10-16T06:00:15.266Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261016v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "13e3872175a2",
+      "url": "https://apps.apple.com/jp/app/id6476490037",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "headline": "『桃源暗鬼 Crimson Inferno』事前登録が10月15日スタート！ 最新キャラクター映像も公開",
+      "description": "Com2uS Corp.の「桃源暗鬼 Crimson Inferno」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「桃源暗鬼 Crimson Inferno」に似たゲームを見ることな…",
+      "publishedAt": "2026-10-16T05:45:00.000Z",
+      "addedAt": "2026-10-16T06:00:15.266Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/16/game/3134000.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/90/87/1e908717-8ca3-ba88-9bfd-11c21c9722cd/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "181ba962306b",
+      "url": "https://yurucamp-game.enish.com/",
+      "host": "yurucamp-game.enish.com",
+      "region": "jp",
+      "title": "ゆるキャン△ つなげるみんなのオールインワン!! ちるタイム",
+      "headline": "PC（Steam）版「ゆるキャン△ つなげるみんなのオールインワン!! ちるタイム」，価格が1300円に決定",
+      "description": "TVアニメ『ゆるキャン△』初のオンラインゲームが登場！お馴染みキャラクターのモーション＆フルボイス、1000以上のギアや美味しいキャンプ料理、美しい景色が楽しめます。みんながキャンプする様子を眺めませんか。",
+      "publishedAt": "2026-10-16T05:33:00.000Z",
+      "addedAt": "2026-10-16T06:00:15.266Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/705/G070580/20261016018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://yurucamp-game.enish.com/img/og.png?202306150519"
+    },
     {
       "id": "9b4d29f2dad3",
       "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-quiet-humor",

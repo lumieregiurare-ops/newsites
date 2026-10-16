@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T05:30:38.034Z",
+  "updatedAt": "2026-10-16T06:00:38.985Z",
   "platforms": [
     {
       "id": "switch",
@@ -100,6 +100,23 @@
       "headline": "『FingerLaserX』10月20日配信決定！ 原作者が14年ぶりにフルリメイクした防衛シューティング",
       "source": "AppBank",
       "sourceUrl": "https://www.appbank.net/2026/10/01/game/3119348.php"
+    },
+    {
+      "id": "489fd19199ce",
+      "title": "みんなで空気読み。ワールド 韓国Ver.",
+      "date": "2026-10-20",
+      "dateText": "2026年10月20日",
+      "sortKey": "2026-10-20",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://kuukiyomi-korea.com/",
+      "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png",
+      "maker": "",
+      "headline": "「みんなで空気読み。ワールド 韓国Ver.」，10月20日開幕のSteam Nextフェスで体験版をリリース。韓国の日常で空気を読もう",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/031/G103121/20261016019/"
     },
     {
       "id": "0737fcee90be",
@@ -250,21 +267,6 @@
       "headline": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/484/G048495/20261001005/"
-    },
-    {
-      "id": "65bdf586c863",
-      "title": "GUNDAM ASSEMBLE",
-      "date": "2026-10-31",
-      "dateText": "2026年10月31日",
-      "sortKey": "2026-10-31",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://bandai-hobby.net/site/gundam-assemble/",
-      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg",
-      "maker": "",
-      "headline": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/987/G098756/20261002049/"
     }
   ],
   "prereg": [
@@ -451,6 +453,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-16T06:00:38.985Z",
+      "type": "new",
+      "label": "新規",
+      "title": "みんなで空気読み。ワールド 韓国Ver.",
+      "url": "https://kuukiyomi-korea.com/",
+      "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年10月20日"
+    },
+    {
       "at": "2026-10-16T05:00:37.680Z",
       "type": "delayed",
       "label": "発売延期",
@@ -503,18 +517,6 @@
       "platforms": [
         "switch2",
         "switch"
-      ],
-      "to": "2027年2月13日"
-    },
-    {
-      "at": "2026-10-15T15:00:31.402Z",
-      "type": "new",
-      "label": "新規",
-      "title": "トゥームレイダー：レガシー・オブ・アトランティス デラックス・エディション",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000040100",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a66be0bf0bdc21257d9c48d0fc5d4a201c3c2fe268c6bf5bbff96634148604d8.jpg",
-      "platforms": [
-        "switch2"
       ],
       "to": "2027年2月13日"
     }
