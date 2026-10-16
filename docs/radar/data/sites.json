@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T23:30:16.538Z",
+  "updatedAt": "2026-10-16T00:00:15.532Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 835,
+  "total": 836,
   "regions": {
-    "jp": 684,
+    "jp": 685,
     "global": 151
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 181
+      "count": 182
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "App Store",
     "4Gamer",
+    "App Store",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "08fe365a57a5",
+      "url": "https://rpg-cobo.com/",
+      "host": "rpg-cobo.com",
+      "region": "jp",
+      "title": "ゲームつまませてLIVE",
+      "headline": "「ゲームつまませてLIVE」10月12日号レポート。ブラジルやバルセロナのイベントから，4Gamer一押しの新作3タイトルまで。注目ゲーム情報をまとめてお届け【PR】",
+      "description": "「ゲームつまませてLIVE」10月12日号レポート。ブラジルやバルセロナのイベントから，4Gamer一押しの新作3タイトルまで。注目ゲーム情報をまとめてお届け【PR】",
+      "publishedAt": "2026-10-15T23:30:00.000Z",
+      "addedAt": "2026-10-16T00:00:15.532Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/988/G098872/20261013030/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1822c4489b6b",
       "url": "https://www.acenetgamejp.com/",
