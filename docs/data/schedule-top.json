@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T10:30:37.446Z",
+  "updatedAt": "2026-10-16T11:00:32.094Z",
   "platforms": [
     {
       "id": "switch",
@@ -271,6 +271,31 @@
   ],
   "prereg": [
     {
+      "id": "a194e704154b",
+      "title": "グリザイア 集結の百果",
+      "url": "https://grisaia-s100.com/",
+      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-16T10:48:51.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「グリザイア 集結の百果」の事前登録受付がApp StoreとGoogle Playで開始。「グリザイア」シリーズの15周年を記念したタイトル",
+      "description": "『グリザイア』シリーズ新作コンテンツ『グリザイア 集結の百果』は2026年リリース予定。事前登録受付中！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/037/G103778/20261016050/",
+      "appleId": "6758039748",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6758039748",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6758039748"
+    },
+    {
       "id": "bc82a1364fe1",
       "title": "冒険宿 なめこ亭",
       "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
@@ -424,34 +449,21 @@
         "releaseDate": "2026-11-07T08:00:00Z"
       },
       "trackId": "6810581977"
-    },
-    {
-      "id": "de25fcb5c2c4",
-      "title": "誰ガ為のアルケミスト ポートマスターズ",
-      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
-      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-11T21:00:00.000Z",
-      "releaseText": "2026年11月6日",
-      "releaseSource": "appstore",
-      "count": "事前登録5万人",
-      "reward": "",
-      "headline": "『誰ガ為のアルケミスト ポートマスターズ』事前登録5万人突破！ 全員にURウロボロスなどをプレゼント",
-      "description": "紡がれし記憶は、新たな戦場へ",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/12/game/3126788.php",
-      "appleId": "6781944992",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6781944992",
-        "preorder": true,
-        "releaseDate": "2026-11-06T08:00:00Z"
-      },
-      "trackId": "6781944992"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-16T11:00:32.094Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "グリザイア 集結の百果",
+      "url": "https://grisaia-s100.com/",
+      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-16T10:00:39.194Z",
       "type": "prereg_start",
@@ -509,16 +521,6 @@
       "platforms": [],
       "from": "2026年11月4日",
       "to": "2027年2月10日"
-    },
-    {
-      "at": "2026-10-16T05:00:37.680Z",
-      "type": "new",
-      "label": "新規",
-      "title": "スヌーピー",
-      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-quiet-humor",
-      "image": "",
-      "platforms": [],
-      "to": "2026年12月"
     }
   ]
 }

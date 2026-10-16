@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T10:30:17.815Z",
+  "updatedAt": "2026-10-16T11:00:17.496Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 863,
+  "total": 865,
   "regions": {
-    "jp": 710,
+    "jp": 712,
     "global": 153
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 101
+      "count": 102
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 86
+      "count": 87
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 298
+      "count": 299
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 33
+      "count": 34
     },
     {
       "id": "goods",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 260
+      "count": 261
     },
     {
       "id": "browser",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a194e704154b",
+      "url": "https://grisaia-s100.com/",
+      "host": "grisaia-s100.com",
+      "region": "jp",
+      "title": "グリザイア 集結の百果",
+      "headline": "「グリザイア 集結の百果」の事前登録受付がApp StoreとGoogle Playで開始。「グリザイア」シリーズの15周年を記念したタイトル",
+      "description": "『グリザイア』シリーズ新作コンテンツ『グリザイア 集結の百果』は2026年リリース予定。事前登録受付中！",
+      "publishedAt": "2026-10-16T10:48:51.000Z",
+      "addedAt": "2026-10-16T11:00:17.496Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103778/20261016050/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png"
+    },
+    {
+      "id": "46831af05769",
+      "url": "https://www.footballmanager.com/ja",
+      "host": "footballmanager.com",
+      "region": "jp",
+      "title": "FM27",
+      "headline": "「FM27」，監督作成ツールや生成選手を紹介する機能解説ブログを公開",
+      "description": "『Football Manager 27』では、戦術ボードからタッチラインまでシームレスにつながる体験を実現。進化したシステムで、よりスマートなナビゲーションと高い操作性を実現します。",
+      "publishedAt": "2026-10-16T10:37:41.000Z",
+      "addedAt": "2026-10-16T11:00:17.496Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103744/20261016054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://footballmanager.sega.com/assets/images/ogp.jpg"
+    },
     {
       "id": "438ab402cfff",
       "url": "https://www.xreal.com/jp/",
