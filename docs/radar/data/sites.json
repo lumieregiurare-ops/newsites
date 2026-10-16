@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-16T09:00:23.280Z",
+  "updatedAt": "2026-10-16T09:30:18.394Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 859,
+  "total": 860,
   "regions": {
-    "jp": 706,
+    "jp": 707,
     "global": 153
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 40
+      "count": 41
     },
     {
       "id": "prereg",
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 85
+      "count": 86
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 186
+      "count": 187
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1e94ac168451",
+      "url": "https://beyondthestrand.kojimaproductions.jp/ja/",
+      "host": "beyondthestrand.kojimaproductions.jp",
+      "region": "jp",
+      "title": "デススト",
+      "headline": "小島監督も「きっつ…」と明かした『デススト』最初期のプロトタイプ版映像を初公開へ―コジプロ10周年記念展の展示詳細が明らかに。『DS2』初期エンディング案なども",
+      "description": "KOJIMA PRODUCTIONSが歩んできた10年間の創造と挑戦の軌跡を、初公開となる貴重な制作資料、作品世界を再現した体感型展示、本展限定の映像インスタレーションなど多彩なコンテンツを通じて紐解きます。",
+      "publishedAt": "2026-10-16T09:05:02.000Z",
+      "addedAt": "2026-10-16T09:30:18.394Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/16/173699.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "teaser",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://beyondthestrand.kojimaproductions.jp/assets/ogp.png"
+    },
     {
       "id": "b44cba504f1b",
       "url": "https://wilddog.jp/japaneseramensimulator",
@@ -15176,7 +15206,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10152026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10162026"
     },
     {
       "id": "33c0ff2f4868",
