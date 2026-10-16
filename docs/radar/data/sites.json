@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T06:30:18.905Z",
+  "updatedAt": "2026-10-16T07:00:17.385Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 849,
+  "total": 850,
   "regions": {
-    "jp": 697,
+    "jp": 698,
     "global": 152
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 185
+      "count": 186
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 184
+      "count": 185
     },
     {
       "id": "official",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a77091bc7b8a",
+      "url": "https://geekshop.infolens.com/pages/infolensgeekshop-ikebukuro",
+      "host": "geekshop.infolens.com",
+      "region": "jp",
+      "title": "フォールアウト",
+      "headline": "『フォールアウト』レトロな雰囲気たっぷりのブラウン管型「ペンスタンド」が欲しすぎる。池袋パルコにて10月22日より「Fallout mini Collection」が開催",
+      "description": "今話題のVALORANT、エーペックスレジェンズやポピープレイタイム、アメイジングデジタルサーカスその他ゲームや映像作品グッズの輸入販売。正規ライセンスグッズが３００種類以上！ 8,000円以上のご注文で無料配送・午前中のご注文は当日出荷。",
+      "publishedAt": "2026-10-16T06:59:50.000Z",
+      "addedAt": "2026-10-16T07:00:17.385Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610162d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://geekshop.infolens.com/cdn/shop/files/logo-2000x1000_ee701e17-c218-4889-9853-ed927b293685.png?crop=center&height=1200&v=1780988511&width=1200"
+    },
     {
       "id": "37ce1f4d5ec6",
       "url": "https://kuukiyomi-korea.com/",
@@ -9311,6 +9339,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610012x"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261016025/"
         }
       ],
       "tags": [
