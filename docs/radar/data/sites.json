@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-16T03:30:17.441Z",
+  "updatedAt": "2026-10-16T04:00:18.964Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 839,
+  "total": 840,
   "regions": {
-    "jp": 687,
+    "jp": 688,
     "global": 152
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 38
+      "count": 39
     },
     {
       "id": "prereg",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "Game*Spark",
-    "Inside",
     "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bc2580dacdff",
+      "url": "https://jp.eternalanima.com/",
+      "host": "jp.eternalanima.com",
+      "region": "jp",
+      "title": "エターナルアニマ",
+      "headline": "過去に戻り、未来を変えるバトルに挑む『エターナルアニマ』は“大人になった自分たちが遊びたいJRPG”として始動！ キーワードは「継承」と「未来予測」【インタビュー】",
+      "description": "時代をつなぐ「継承」のJRPG『ETERNAL ANIMA（エターナルアニマ）』過去を書き換え、未来をつなげ。",
+      "publishedAt": "2026-10-16T04:00:04.000Z",
+      "addedAt": "2026-10-16T04:00:18.964Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/16/189360.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://jp.eternalanima.com/assets/img/ogp.png"
+    },
     {
       "id": "e1854baa1afd",
       "url": "http://wearegraph.com/",
