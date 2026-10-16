@@ -1525,7 +1525,7 @@
       "entry": null
     },
     "FingerLaserX": {
-      "at": "2026-10-13T07:30:30.744Z",
+      "at": "2026-10-16T07:30:31.465Z",
       "entry": {
         "trackId": "6474999801",
         "title": "FingerLaserX",
@@ -1537,7 +1537,7 @@
         "isPreorder": true,
         "storeUrl": "https://apps.apple.com/jp/app/id6474999801",
         "sellerUrl": "https://fl-x.cc/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/a5/98/9fa59834-98d4-3444-604f-d7b0db11098e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/95/73/329573ab-1102-df43-7ba2-1558203fad7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -35457,6 +35457,22 @@
       "sortKey": "2026-10-19",
       "prereg": false,
       "firstSeen": "2026-10-16T07:00:31.310Z"
+    },
+    "mynameis...": {
+      "title": "My Name Is...",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T07:30:31.243Z"
+    },
+    "ディスコエリジウム": {
+      "title": "ディスコ エリジウム",
+      "dateText": "2026年11月3日",
+      "date": "2026-11-03",
+      "sortKey": "2026-11-03",
+      "prereg": false,
+      "firstSeen": "2026-10-16T07:30:31.243Z"
     }
   },
   "changeLog": [
@@ -39982,6 +39998,19 @@
         "pc"
       ],
       "to": "2026年10月20日"
+    },
+    {
+      "at": "2026-10-16T07:30:31.243Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ディスコ エリジウム",
+      "url": "https://zeroparades.com/",
+      "image": "",
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "to": "2026年11月3日"
     }
   ],
   "initialized": true,

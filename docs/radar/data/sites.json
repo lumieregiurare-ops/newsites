@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T07:00:17.385Z",
+  "updatedAt": "2026-10-16T07:30:16.052Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 850,
+  "total": 852,
   "regions": {
-    "jp": 698,
-    "global": 152
+    "jp": 699,
+    "global": 153
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 292
+      "count": 293
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 185
+      "count": 186
     },
     {
       "id": "official",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 30
+      "count": 31
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 27
+      "count": 28
     },
     {
       "id": "xbox",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 256
+      "count": 257
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e12f5e9496ea",
+      "url": "https://zeroparades.com/",
+      "host": "zeroparades.com",
+      "region": "global",
+      "title": "ディスコ エリジウム",
+      "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
+      "description": "You're a brilliant but tormented operant on one final desperate assignment. Gather your broken network, untangle a web …",
+      "publishedAt": "2026-10-16T07:02:43.000Z",
+      "addedAt": "2026-10-16T07:30:16.052Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105084/20261016024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a77091bc7b8a",
       "url": "https://geekshop.infolens.com/pages/infolensgeekshop-ikebukuro",
@@ -1131,6 +1161,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "2bc134fe90b5",
+      "url": "https://apps.apple.com/jp/app/id6809193095",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "GIFT from GOD",
+      "headline": "fumihiro ito / シミュレーション・エンターテインメント · App Store 新着",
+      "description": "fumihiro itoの「GIFT from GOD」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「GIFT from GOD」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "addedAt": "2026-10-16T07:30:16.052Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6809193095"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/16/71/241671f2-881b-587f-8982-31902deeede7/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "f1535f2b1856",
