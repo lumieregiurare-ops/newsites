@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T02:30:31.752Z",
+  "updatedAt": "2026-10-16T03:00:36.757Z",
   "platforms": [
     {
       "id": "switch",
@@ -289,7 +289,7 @@
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6476490037",
         "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
+        "releaseDate": "2026-12-16T08:00:00Z"
       },
       "trackId": "6476490037"
     },
@@ -330,6 +330,26 @@
       "description": "A game jam from 2026-10-21 to 2027-03-01 hosted by Figglewatts. Welcome to the annual LSDJAM event for 2026! This is th…",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/10/13/173541.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
+      "id": "b510486660ae",
+      "title": "PROJECT SIGN：Astraea",
+      "url": "https://sin-of-astraea.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-13T03:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "女性向けゲームブランド MintLip+，完全新規乙女ゲーム「PROJECT SIGN：Astraea」のティザーサイトを公開。10月19日12：00に“資料”公開へ",
+      "description": "エディアの乙女ゲームブランド「MintLip+」が贈る完全新作タイトル『PROJECT SIGN:Astraea』ティザーサイト。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/949/G094998/20261010012/",
       "appleId": "",
       "trackId": ""
     },
@@ -427,29 +447,21 @@
       "sourceUrl": "https://www.inside-games.jp/article/2026/10/11/189107.html",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "ce916eb57277",
-      "title": "異世界のんびり農家 ドリーミーライフ",
-      "url": "https://g123.jp/game/nouka?lang=ja",
-      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/266f50a2ac551f9bb788a06631fe7af43aaf28b54b922e7641984cce.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-09T09:54:53.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「異世界のんびり農家 ドリーミーライフ」，事前登録者数が10万件を突破",
-      "description": "人気TVアニメ「異世界のんびり農家」のオリジナルゲームがG123で登場",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/939/G093966/20261009034/",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-16T03:00:36.757Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PROJECT SIGN：Astraea",
+      "url": "https://sin-of-astraea.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-15T15:00:31.402Z",
       "type": "new",
@@ -510,18 +522,6 @@
         "mobile"
       ],
       "to": "App Store 2026年12月16日"
-    },
-    {
-      "at": "2026-10-15T09:00:40.108Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ぷちホロの村 DLC - ホロライブサマー水着セット",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082098",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5f9642bc6eaae8566b1a687a005b093aeedc1915b51b43b9b0c11288a67eccbf.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月22日"
     }
   ]
 }

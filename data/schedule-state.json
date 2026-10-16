@@ -1338,7 +1338,7 @@
       "entry": null
     },
     "スライドブロックde懸賞": {
-      "at": "2026-10-13T03:00:34.289Z",
+      "at": "2026-10-16T03:00:39.823Z",
       "entry": {
         "trackId": "6803351936",
         "title": "スライドブロックde懸賞 - パズルde懸賞(公式)",
@@ -1484,7 +1484,7 @@
       }
     },
     "ソリティア世界旅行": {
-      "at": "2026-10-13T03:00:30.045Z",
+      "at": "2026-10-16T03:00:38.420Z",
       "entry": {
         "trackId": "6792692437",
         "title": "ソリティア世界旅行 - 旅するクロンダイク",
@@ -2298,6 +2298,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/92/0e/b7920e3e-ece1-1bce-98e4-3ef243908604/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "PROJECT SIGN Astraea": {
+      "at": "2026-10-16T03:00:36.947Z",
+      "entry": null
     }
   },
   "titles": {
@@ -25096,9 +25100,9 @@
     },
     "brainrotfiredemo": {
       "title": "Brainrot Fire Demo",
-      "dateText": "2026年10月6日",
-      "date": "2026-10-06",
-      "sortKey": "2026-10-06",
+      "dateText": "2026年10月18日",
+      "date": "2026-10-18",
+      "sortKey": "2026-10-18",
       "prereg": false,
       "firstSeen": "2026-10-05T16:30:31.851Z"
     },
@@ -35154,6 +35158,19 @@
       "sortKey": "2026-10-16",
       "prereg": false,
       "firstSeen": "2026-10-16T02:30:31.752Z"
+    },
+    "astropolydemo": {
+      "title": "AstroPoly Demo",
+      "dateText": "2026年10月18日",
+      "date": "2026-10-18",
+      "sortKey": "2026-10-18",
+      "prereg": false,
+      "firstSeen": "2026-10-16T03:00:36.757Z"
+    },
+    "projectsign：astraea": {
+      "title": "PROJECT SIGN：Astraea",
+      "prereg": true,
+      "firstSeen": "2026-10-16T03:00:36.757Z"
     }
   },
   "changeLog": [
@@ -39624,6 +39641,18 @@
         "switch"
       ],
       "to": "2027年2月13日"
+    },
+    {
+      "at": "2026-10-16T03:00:36.757Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PROJECT SIGN：Astraea",
+      "url": "https://sin-of-astraea.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

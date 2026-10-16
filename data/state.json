@@ -2423,8 +2423,8 @@
       "points": null,
       "image": "https://play-lh.googleusercontent.com/XkUAKXWMweblAgDHjuVnpfGASHBhjDOU6bUyf6uuT8WUIBrn4mZZB7XtqAKVnFx5aSKuQi5Y5UoBuphlLbEV=s0-br30",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
-      "ogFetchedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
+      "ogFetchedAt": "2026-10-16T03:00:16.737Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -2472,8 +2472,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/6f/e3/fc6fe352-22bc-ed7b-47fc-f35f2dbc8acf/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
-      "ogFetchedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
+      "ogFetchedAt": "2026-10-16T03:00:16.737Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -3813,7 +3813,7 @@
       "headline": "女性向けゲームブランド MintLip+，完全新規乙女ゲーム「PROJECT SIGN：Astraea」のティザーサイトを公開。10月19日12：00に“資料”公開へ",
       "description": "エディアの乙女ゲームブランド「MintLip+」が贈る完全新作タイトル『PROJECT SIGN:Astraea』ティザーサイト。",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -3844,11 +3844,13 @@
       ],
       "tags": [
         "ゲーム",
-        "ティザーサイト"
+        "ティザーサイト",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
-        "teaser"
+        "teaser",
+        "prereg"
       ],
       "points": null,
       "image": "",
@@ -3900,8 +3902,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/dd/18/92dd18a5-5dc2-281f-6aef-d119b30fd91e/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
-      "ogFetchedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
+      "ogFetchedAt": "2026-10-16T03:00:16.737Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -6625,8 +6627,8 @@
       "points": null,
       "image": "https://www.d3p.co.jp/garupan/images/img.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
-      "ogFetchedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
+      "ogFetchedAt": "2026-10-16T03:00:16.737Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -6668,11 +6670,12 @@
       "points": null,
       "image": "https://pbz.s-game.com/image/main.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
       "ogFetchedAt": "2026-10-15T02:30:17.676Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "metaError": "This operation was aborted"
     },
     {
       "id": "41c14c0c6d16",
@@ -7846,11 +7849,11 @@
       "points": null,
       "image": "https://bokutotsurinikki.imgs.jp/assets/img/SNS_KV.png",
       "metaAttempts": 5,
-      "checkedAt": "2026-10-15T02:30:17.676Z",
+      "checkedAt": "2026-10-16T03:00:16.737Z",
       "platforms": [
         "switch2"
       ],
-      "ogFetchedAt": "2026-10-15T02:30:17.676Z",
+      "ogFetchedAt": "2026-10-16T03:00:16.737Z",
       "regionDetected": true,
       "ogDescription": true
     },
