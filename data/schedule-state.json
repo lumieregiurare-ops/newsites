@@ -1623,11 +1623,11 @@
       }
     },
     "ドラゴンレイド アナザーワールド": {
-      "at": "2026-10-02T09:30:53.243Z",
+      "at": "2026-10-16T10:00:43.598Z",
       "entry": null
     },
     "まじかる☆プリンセス": {
-      "at": "2026-10-02T10:00:30.520Z",
+      "at": "2026-10-16T10:00:42.243Z",
       "entry": null
     },
     "モンソニ！": {
@@ -2100,7 +2100,7 @@
       "entry": null
     },
     "Pokémon Sleep": {
-      "at": "2026-10-13T10:00:32.998Z",
+      "at": "2026-10-16T10:00:40.832Z",
       "entry": {
         "trackId": "1579464667",
         "title": "Pokémon Sleep",
@@ -2342,6 +2342,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/a3/89/61a3898f-2517-e8c1-4e9b-c92e5ff0c304/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "冒険宿 なめこ亭": {
+      "at": "2026-10-16T10:00:39.391Z",
+      "entry": null
     }
   },
   "titles": {
@@ -35627,6 +35631,51 @@
       "sortKey": "2026-10-19",
       "prereg": false,
       "firstSeen": "2026-10-16T09:30:39.287Z"
+    },
+    "b.l.u.e.demo": {
+      "title": "B.L.U.E. Demo",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
+    },
+    "flatsfullofcats:potions&masks": {
+      "title": "Flats Full of Cats: Potions & Masks",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
+    },
+    "justonemorefly": {
+      "title": "Just One More Fly",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
+    },
+    "tinypocketdemo": {
+      "title": "tinypocket Demo",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
+    },
+    "tinyrhythmdemo": {
+      "title": "tinyrhythm Demo",
+      "dateText": "2026年10月19日",
+      "date": "2026-10-19",
+      "sortKey": "2026-10-19",
+      "prereg": false,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
+    },
+    "冒険宿なめこ亭": {
+      "title": "冒険宿 なめこ亭",
+      "prereg": true,
+      "firstSeen": "2026-10-16T10:00:39.194Z"
     }
   },
   "changeLog": [
@@ -40175,6 +40224,18 @@
       "image": "",
       "platforms": [],
       "to": "2026年10月"
+    },
+    {
+      "at": "2026-10-16T10:00:39.194Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "冒険宿 なめこ亭",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
+      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

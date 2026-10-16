@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:30:39.287Z",
+  "updatedAt": "2026-10-16T10:00:39.194Z",
   "platforms": [
     {
       "id": "switch",
@@ -271,6 +271,26 @@
   ],
   "prereg": [
     {
+      "id": "bc82a1364fe1",
+      "title": "冒険宿 なめこ亭",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
+      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-16T10:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "『冒険宿 なめこ亭』×マルコメ「料亭の味」コラボ！ 「#なめコメ」投稿でカップみそ汁30個セットが当たる、10月15日から",
+      "description": "一皿の料理から始まる冒険。なめこたちが集う\"冒険宿\"を育てよう！",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "f2295bca7a66",
       "title": "桃源暗鬼 Crimson Inferno",
       "url": "https://tougenanki-crimsoninferno.com/",
@@ -429,29 +449,21 @@
         "releaseDate": "2026-11-06T08:00:00Z"
       },
       "trackId": "6781944992"
-    },
-    {
-      "id": "52ab6f084262",
-      "title": "深鳶",
-      "url": "https://www.taptap.cn/app/582728?os=android",
-      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-11T06:10:02.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "美少女×武装艦の新作RPG『深鳶』が中国で配信開始！人気アニメ原作『鎮魂街』新作アクションもテスト間近―日本未上陸の注目ゲーム3選【2026年10月11日】",
-      "description": "深鸢是一款二次元游戏，TapTap 提供深鸢最新1.0.7版官方正版下载，由于【大灾难】的出现，海洋吞没了全部的陆地。为了生存，人类建...",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/11/189107.html",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-16T10:00:39.194Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "冒険宿 なめこ亭",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
+      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-16T08:00:43.300Z",
       "type": "new",
@@ -507,16 +519,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月"
-    },
-    {
-      "at": "2026-10-16T03:30:31.373Z",
-      "type": "new",
-      "label": "新規",
-      "title": "4DEAD",
-      "url": "https://creatorslab.kodansha.co.jp/products/3802/",
-      "image": "https://creatorslab.kodansha.co.jp/wp-content/uploads/2025/09/4DEADKV.png",
-      "platforms": [],
-      "to": "2027年1月"
     }
   ]
 }

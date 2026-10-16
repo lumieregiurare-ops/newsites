@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T09:30:18.394Z",
+  "updatedAt": "2026-10-16T10:00:16.833Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 860,
+  "total": 862,
   "regions": {
-    "jp": 707,
+    "jp": 709,
     "global": 153
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 100
+      "count": 101
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 156
+      "count": 157
     },
     {
       "id": "event",
@@ -70,14 +70,14 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 136
+      "count": 137
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 30
+      "count": 31
     },
     {
       "id": "switch2",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "browser",
@@ -121,17 +121,79 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
-    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bc82a1364fe1",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "冒険宿 なめこ亭",
+      "headline": "『冒険宿 なめこ亭』×マルコメ「料亭の味」コラボ！ 「#なめコメ」投稿でカップみそ汁30個セットが当たる、10月15日から",
+      "description": "一皿の料理から始まる冒険。なめこたちが集う\"冒険宿\"を育てよう！",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "addedAt": "2026-10-16T10:00:16.833Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/16/game/3134094.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30"
+    },
+    {
+      "id": "4185997be97c",
+      "url": "http://www.j-t.co.jp/soft/3ds/el2/",
+      "host": "j-t.co.jp",
+      "region": "jp",
+      "title": "エルミナージュII",
+      "headline": "『エルミナージュII』Switch版の新情報が11月に公開へ。12種族×16職業の“自分だけのパーティー”が組める3DダンジョンRPG",
+      "description": "『エルミナージュII』Switch版の新情報が11月に公開へ。12種族×16職業の“自分だけのパーティー”が組める3DダンジョンRPG",
+      "publishedAt": "2026-10-16T09:31:46.000Z",
+      "addedAt": "2026-10-16T10:00:16.833Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610162l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1e94ac168451",
       "url": "https://beyondthestrand.kojimaproductions.jp/ja/",
