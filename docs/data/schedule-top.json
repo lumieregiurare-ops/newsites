@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:30:34.998Z",
+  "updatedAt": "2026-10-16T05:00:37.680Z",
   "platforms": [
     {
       "id": "switch",
@@ -289,7 +289,7 @@
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6476490037",
         "preorder": true,
-        "releaseDate": "2026-12-16T08:00:00Z"
+        "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6476490037"
     },
@@ -451,6 +451,27 @@
   ],
   "changes": [
     {
+      "at": "2026-10-16T05:00:37.680Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "勝利の女神：NIKKE",
+      "url": "https://www.kadokawa.co.jp/product/322605000148/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322605/322605000148.webp",
+      "platforms": [],
+      "from": "2026年11月4日",
+      "to": "2027年2月10日"
+    },
+    {
+      "at": "2026-10-16T05:00:37.680Z",
+      "type": "new",
+      "label": "新規",
+      "title": "スヌーピー",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-quiet-humor",
+      "image": "",
+      "platforms": [],
+      "to": "2026年12月"
+    },
+    {
       "at": "2026-10-16T03:30:31.373Z",
       "type": "new",
       "label": "新規",
@@ -492,30 +513,6 @@
       "title": "トゥームレイダー：レガシー・オブ・アトランティス デラックス・エディション",
       "url": "https://store-jp.nintendo.com/item/software/D70070000040100",
       "image": "https://img-eshop.cdn.nintendo.net/i/a66be0bf0bdc21257d9c48d0fc5d4a201c3c2fe268c6bf5bbff96634148604d8.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年2月13日"
-    },
-    {
-      "at": "2026-10-15T15:00:31.402Z",
-      "type": "new",
-      "label": "新規",
-      "title": "トゥームレイダー：レガシー・オブ・アトランティス",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000120172",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b78f7b303089e2c3dd8221e0031f5fccd745b9c33c758f61b804e83c59a44b07.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年2月13日"
-    },
-    {
-      "at": "2026-10-15T15:00:31.402Z",
-      "type": "new",
-      "label": "新規",
-      "title": "『トゥームレイダー：レガシー・オブ・アトランティス』パリの逃亡者",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000080168",
-      "image": "https://img-eshop.cdn.nintendo.net/i/cd6f395eb7e73fe31f5d2990e9d6e37a6d4faffe478115f96e3492646450d1d3.jpg",
       "platforms": [
         "switch2"
       ],

@@ -2306,6 +2306,24 @@
     "おせちプリンセス": {
       "at": "2026-10-16T03:30:31.555Z",
       "entry": null
+    },
+    "リネージュ": {
+      "at": "2026-10-16T05:00:38.197Z",
+      "entry": {
+        "trackId": "1193135691",
+        "title": "リネージュ2 レボリューション",
+        "artist": "Netmarble Corporation",
+        "genres": [
+          "ロールプレイング",
+          "アクション"
+        ],
+        "releaseDate": "2017-08-22T01:29:50Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1193135691",
+        "sellerUrl": "https://l2.netmarble.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/4b/6a/964b6ac2-0468-c31b-8d41-02f8292165f5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -5063,9 +5081,9 @@
     },
     "勝利の女神：nikke": {
       "title": "勝利の女神：NIKKE",
-      "dateText": "2026年11月4日",
-      "date": "2026-11-04",
-      "sortKey": "2026-11-04",
+      "dateText": "2027年2月10日",
+      "date": "2027-02-10",
+      "sortKey": "2027-02-10",
       "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
@@ -35247,6 +35265,46 @@
       "sortKey": "2026-10-18",
       "prereg": false,
       "firstSeen": "2026-10-16T04:30:34.998Z"
+    },
+    "exileofarcadiademo": {
+      "title": "Exile of Arcadia Demo",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-16T05:00:37.680Z"
+    },
+    "grid64": {
+      "title": "GRID64",
+      "dateText": "2026年10月16日",
+      "date": "2026-10-16",
+      "sortKey": "2026-10-16",
+      "prereg": false,
+      "firstSeen": "2026-10-16T05:00:37.680Z"
+    },
+    "超自然ファイル：フロントルーム": {
+      "title": "超自然ファイル：フロントルーム",
+      "dateText": "2026年10月18日",
+      "date": "2026-10-18",
+      "sortKey": "2026-10-18",
+      "prereg": false,
+      "firstSeen": "2026-10-16T05:00:37.680Z"
+    },
+    "赛博修仙demo": {
+      "title": "赛博修仙 Demo",
+      "dateText": "2026年10月18日",
+      "date": "2026-10-18",
+      "sortKey": "2026-10-18",
+      "prereg": false,
+      "firstSeen": "2026-10-16T05:00:37.680Z"
+    },
+    "スヌーピー": {
+      "title": "スヌーピー",
+      "dateText": "2026年12月",
+      "date": null,
+      "sortKey": "2026-12-32",
+      "prereg": false,
+      "firstSeen": "2026-10-16T05:00:37.680Z"
     }
   },
   "changeLog": [
@@ -39739,6 +39797,27 @@
       "image": "https://creatorslab.kodansha.co.jp/wp-content/uploads/2025/09/4DEADKV.png",
       "platforms": [],
       "to": "2027年1月"
+    },
+    {
+      "at": "2026-10-16T05:00:37.680Z",
+      "type": "new",
+      "label": "新規",
+      "title": "スヌーピー",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-quiet-humor",
+      "image": "",
+      "platforms": [],
+      "to": "2026年12月"
+    },
+    {
+      "at": "2026-10-16T05:00:37.680Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "勝利の女神：NIKKE",
+      "url": "https://www.kadokawa.co.jp/product/322605000148/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322605/322605000148.webp",
+      "platforms": [],
+      "from": "2026年11月4日",
+      "to": "2027年2月10日"
     }
   ],
   "initialized": true,

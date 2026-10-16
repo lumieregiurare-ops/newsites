@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T04:30:21.781Z",
+  "updatedAt": "2026-10-16T05:00:16.212Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 842,
+  "total": 845,
   "regions": {
-    "jp": 690,
+    "jp": 693,
     "global": 152
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 97
+      "count": 98
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 289
+      "count": 291
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 107
+      "count": 108
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,90 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9b4d29f2dad3",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-quiet-humor",
+      "host": "uniqlo.com",
+      "region": "jp",
+      "title": "スヌーピー",
+      "headline": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
+      "description": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！スウェットシャツ、UVカットキャップも揃えた全12アイテム",
+      "publishedAt": "2026-10-16T05:00:03.000Z",
+      "addedAt": "2026-10-16T05:00:16.212Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/16/189364.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "80dc29f1a4a2",
+      "url": "https://lineageclassic.ncsoft.jp/",
+      "host": "lineageclassic.ncsoft.jp",
+      "region": "jp",
+      "title": "リネージュ",
+      "headline": "2000年代初期の「リネージュ」を再現。「リネージュ クラシック」日本サービス決定，10月21日から事前登録開始",
+      "description": "『リネージュ クラシック』は、2000年代初期の『リネージュ』を原点に、当時の世界・戦い・つながりを現代に蘇らせるPC向けMMORPG。2026.10.21事前登録開始",
+      "publishedAt": "2026-10-16T04:54:14.000Z",
+      "addedAt": "2026-10-16T05:00:16.212Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/579/G057943/20261016014/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://st.ncjapan.co.jp/ncjapan/ncsoft/lc/official/teasing/ogImg.jpg"
+    },
+    {
+      "id": "ee729ad4e9b7",
+      "url": "https://www.kadokawa.co.jp/product/322605000148/",
+      "host": "kadokawa.co.jp",
+      "region": "jp",
+      "title": "勝利の女神：NIKKE",
+      "headline": "『勝利の女神：NIKKE』公式ファンブックの日本語版が2027年2月10日に発売決定。描き下ろしイラストやコミックも掲載",
+      "description": "コミック「勝利の女神：NIKKE 公式アンソロジーファンブック」のあらすじ、最新情報をKADOKAWA公式サイトより。指揮官必読のコンテンツを収録した『勝利の女神 NIKKE』ファンブック",
+      "publishedAt": "2026-10-16T04:40:35.000Z",
+      "addedAt": "2026-10-16T05:00:16.212Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610162b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.kdkw.jp/cover_1000/322605/322605000148.webp"
+    },
     {
       "id": "1208a6e5d788",
       "url": "https://kigetsunoyoru.com/",
@@ -267,6 +351,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261016l"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999111/20261016011/"
         }
       ],
       "tags": [
