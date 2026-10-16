@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T08:30:17.659Z",
+  "updatedAt": "2026-10-16T09:00:23.280Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 858,
+  "total": 859,
   "regions": {
-    "jp": 705,
+    "jp": 706,
     "global": 153
   },
   "categories": [
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 32
+      "count": 33
     },
     {
       "id": "goods",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b44cba504f1b",
+      "url": "https://wilddog.jp/japaneseramensimulator",
+      "host": "wilddog.jp",
+      "region": "jp",
+      "title": "Japanese Ramen Simulator",
+      "headline": "ラーメン店シム「Japanese Ramen Simulator」，販売本数10万本を突破。唐揚げや屋台ラーメンの追加を予定するロードマップも公開",
+      "description": "仕込み、調理、接客、片付けまで、仲間とラーメン店の仕事をまるごと体験。",
+      "publishedAt": "2026-10-16T08:30:30.000Z",
+      "addedAt": "2026-10-16T09:00:23.280Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/035/G103503/20261016033/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wilddog.jp/images/japaneseramensimulator/key-visual.webp?v=20260918"
+    },
     {
       "id": "6b1cfdfa1b22",
       "url": "https://cygames-edge.com/ja/where_the_seeds_fall/",
