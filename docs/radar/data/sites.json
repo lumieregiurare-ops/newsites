@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T22:00:21.984Z",
+  "updatedAt": "2026-10-16T22:30:17.198Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 866,
+  "total": 867,
   "regions": {
     "jp": 713,
-    "global": 153
+    "global": 154
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 138
+      "count": 139
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "61274fae3dc2",
+      "url": "https://www.walesinteractive.com/skerthebleedingveil",
+      "host": "walesinteractive.com",
+      "region": "global",
+      "title": "Sker: The Bleeding Veil",
+      "headline": "戦闘要素一切なしのステルス・サバイバルホラー『Sker: The Bleeding Veil』発表！",
+      "description": "Evade Sister Gwenllian and her ritual-bound orphans as you use sound to explore, solve harmonic puzzles and survive bli…",
+      "publishedAt": "2026-10-16T22:30:03.000Z",
+      "addedAt": "2026-10-16T22:30:17.198Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/17/173729.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/5be742_a344b41e5697464bb5b16c530c00048c~mv2.jpg/v1/fill/w_1920,h_1080,al_c/5be742_a344b41e5697464bb5b16c530c00048c~mv2.jpg"
+    },
     {
       "id": "d234b0a84670",
       "url": "https://umamusume.jp/",
