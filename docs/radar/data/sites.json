@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T03:00:16.737Z",
+  "updatedAt": "2026-10-16T03:30:17.441Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 836,
+  "total": 839,
   "regions": {
-    "jp": 685,
-    "global": 151
+    "jp": 687,
+    "global": 152
   },
   "categories": [
     {
@@ -35,22 +35,22 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 182
+      "count": 183
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 286
+      "count": 288
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 13
+      "count": 14
     },
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 8
+      "count": 9
     },
     {
       "id": "company",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 254
+      "count": 255
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "arcade",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,92 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e1854baa1afd",
+      "url": "http://wearegraph.com/",
+      "host": "wearegraph.com",
+      "region": "global",
+      "title": "ルーンスケープ：ドラゴンワイルズ",
+      "headline": "【最大4人】ファンタジー世界を生き抜くオープンワールドサバイバルゲーム『ルーンスケープ：ドラゴンワイルズ』2027年以降のロードマップを公開。新ストーリーや新スキル「祈り」が12…",
+      "description": "Graph is a Japan based video game public relations agency focused on bringing the world’s best indie and AAA games to f…",
+      "publishedAt": "2026-10-16T03:00:59.000Z",
+      "addedAt": "2026-10-16T03:30:17.441Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261016n"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wearegraph.com/wp-content/uploads/2024/07/Graph-with-space_1.png"
+    },
+    {
+      "id": "9a960a42e140",
+      "url": "https://uketsu.jp/museum/",
+      "host": "uketsu.jp",
+      "region": "jp",
+      "title": "おせちプリンセス",
+      "headline": "ホラー作家・雨穴さんの動画に登場した“おせち”との恋愛シミュレーションゲーム『おせちプリンセス』が実際に遊べるように。「チョロギ」「こんぶ」「かまぼこ」と付き合える体験版がスマホ…",
+      "description": "2026.10.23（金）〜2027.1.17（日）寺田倉庫（東京・天王洲アイル）で開催。雨穴の「変な世界」を丸ごと展示。",
+      "publishedAt": "2026-10-16T03:00:29.000Z",
+      "addedAt": "2026-10-16T03:30:17.441Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261016l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "browser"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://uketsu.jp/museum/assets/img/ogp.jpg?v=2"
+    },
+    {
+      "id": "80f5d4be2353",
+      "url": "https://creatorslab.kodansha.co.jp/products/3802/",
+      "host": "creatorslab.kodansha.co.jp",
+      "region": "jp",
+      "title": "4DEAD",
+      "headline": "4秒以内に敵を食べて生き残るローグライトアクションゲーム「4DEAD」，2027年1月にリリース。体験版も公開に",
+      "description": "このゲームについて ヤバいことをいきなり言うハカセ。人類の運命は（勝手に）最強生物・４２号に託された！ 怪しげなハカセによってつくられた最強生物・４２号。宇宙人によって滅亡の危機にある人類を救うべく、侵略者を喰って喰って喰いまくれ！ ４２…",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "addedAt": "2026-10-16T03:30:17.441Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/964/G096472/20261015044/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://creatorslab.kodansha.co.jp/wp-content/uploads/2025/09/4DEADKV.png"
+    },
     {
       "id": "08fe365a57a5",
       "url": "https://rpg-cobo.com/",
@@ -7557,7 +7643,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/4b/f4/c74bf48d-8d3b-fe80-7629-09d21b081eeb/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/30/22/a6302231-465c-00e2-c8ee-873e335ac3dc/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "2116d67b2d1c",
