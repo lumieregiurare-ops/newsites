@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-16T04:00:18.964Z",
+  "updatedAt": "2026-10-16T04:30:21.781Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 840,
+  "total": 842,
   "regions": {
-    "jp": 688,
+    "jp": 690,
     "global": 152
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 183
+      "count": 184
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 288
+      "count": 289
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 31
+      "count": 32
     },
     {
       "id": "goods",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 29
+      "count": 30
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 106
+      "count": 107
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1208a6e5d788",
+      "url": "https://kigetsunoyoru.com/",
+      "host": "kigetsunoyoru.com",
+      "region": "jp",
+      "title": "虧月の夜",
+      "headline": "昭和初期の寒村で死を繰り返し，大量殺人事件から生還せよ。タイムリープホラーADV「虧月の夜」，Steam版が発売決定。体験版を配信開始",
+      "description": "「死ぬたびに繰り返す」――閉ざされた村で恐怖と人間模様が交錯する。Nintendo Switchで体感するタイムリープサバイバルホラーADV『虧月の夜』。",
+      "publishedAt": "2026-10-16T04:08:49.000Z",
+      "addedAt": "2026-10-16T04:30:21.781Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/050/G105073/20261016012/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://kigetsunoyoru.com/wp-content/uploads/2025/09/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88OGP%E7%94%BB%E5%83%8F.jpg"
+    },
+    {
+      "id": "372160cb20a4",
+      "url": "https://www.warframe.com/ja/landing",
+      "host": "warframe.com",
+      "region": "jp",
+      "title": "Warframe",
+      "headline": "「Warframe」，一度限りとなる大規模コミュニティイベント「一大作戦：Tauへの道」を米国時間11月17日まで開催中",
+      "description": "8000万人のテンノに加勢し、Warframeの能力と武器を駆使し進化し続けるの世界を守ろう。",
+      "publishedAt": "2026-10-16T04:03:21.000Z",
+      "addedAt": "2026-10-16T04:30:21.781Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/172/G017216/20261016009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www-static.warframe.com/images/landing/warframe-metacard.png"
+    },
     {
       "id": "bc2580dacdff",
       "url": "https://jp.eternalanima.com/",
@@ -147,6 +205,14 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/16/189360.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104173/20260928009/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261016e"
         }
       ],
       "tags": [
@@ -3764,7 +3830,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/91/e6/0d91e69e-fc22-47ce-0975-5326807ca6f8/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/fc/40/09fc40f8-659b-742e-1529-c12f3cc3a846/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "52c7aae49d88",
