@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T15:30:36.600Z",
+  "updatedAt": "2026-10-17T16:00:27.969Z",
   "platforms": [
     {
       "id": "switch",
@@ -457,6 +457,32 @@
   ],
   "changes": [
     {
+      "at": "2026-10-17T16:00:27.969Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "『ベイブレードエックス エボバトル』ベイコーティング パターン＆カラー追加キット VOL.2",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075629",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9affae315d985e4affcafbd6bfca8c7ba630f43f647490fdd3a9d715e69e0a54.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年12月20日",
+      "to": "2026年10月20日"
+    },
+    {
+      "at": "2026-10-17T16:00:27.969Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.8",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075628",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c92187354bd347d3add1a1cf8e228bf303509a9d37d7dc2c2253a615edb5c79c.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年12月20日",
+      "to": "2026年10月20日"
+    },
+    {
       "at": "2026-10-16T11:00:32.094Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -502,29 +528,6 @@
         "ps"
       ],
       "to": "2026年11月3日"
-    },
-    {
-      "at": "2026-10-16T06:00:38.985Z",
-      "type": "new",
-      "label": "新規",
-      "title": "みんなで空気読み。ワールド 韓国Ver.",
-      "url": "https://kuukiyomi-korea.com/",
-      "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年10月20日"
-    },
-    {
-      "at": "2026-10-16T05:00:37.680Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "勝利の女神：NIKKE",
-      "url": "https://www.kadokawa.co.jp/product/322605000148/",
-      "image": "https://cdn.kdkw.jp/cover_1000/322605/322605000148.webp",
-      "platforms": [],
-      "from": "2026年11月4日",
-      "to": "2027年2月10日"
     }
   ]
 }
