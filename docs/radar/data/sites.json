@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T07:00:17.162Z",
+  "updatedAt": "2026-10-17T07:30:17.309Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 871,
+  "total": 872,
   "regions": {
-    "jp": 716,
+    "jp": 717,
     "global": 155
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 58
+      "count": 59
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 189
+      "count": 190
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 265
+      "count": 266
     },
     {
       "id": "browser",
@@ -1753,6 +1753,39 @@
       ],
       "points": null,
       "image": "https://hayo.dev/app/one-in-eight-billion/media/ko/overview.png"
+    },
+    {
+      "id": "bbfea2a745f8",
+      "url": "https://apps.apple.com/jp/app/id6821785946",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ことば橋 - 言葉で橋をかける",
+      "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
+      "description": "CURRY CROQUETTEの「ことば橋 - 言葉で橋をかける」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ことば橋 - 言葉で橋をかける」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "addedAt": "2026-10-17T07:30:17.309Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821785946"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/21/d1/0421d142-8c09-000f-9854-0a8b2fe525bc/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "f1535f2b1856",
@@ -8361,12 +8394,12 @@
     },
     {
       "id": "4144e05100cd",
-      "url": "https://hololive.hololivepro.com/",
+      "url": "https://hololive.hololivepro.com/news/20261013-01-416/",
       "host": "hololive.hololivepro.com",
       "region": "jp",
       "title": "鷹嶺ルイ",
       "headline": "ホロライブ「鷹嶺ルイ」の1stソロライブ「REBELLION」が12月16日開催決定。チケットの先行抽選と配信チケットがスタート",
-      "description": "ホロライブプロダクションの女性VTuberタレントグループ「hololive（ホロライブ）」の公式サイトです。",
+      "description": "カバー株式会社（本社：東京都港区、代表取締役社長：谷郷元昭）は、メディア制作会社、Critical Roleとの初のコラボレーション企画『Shattered Legends（シャタード・レジェンズ）』を実施することをお知らせいたします。C…",
       "publishedAt": "2026-10-05T04:13:32.000Z",
       "addedAt": "2026-10-05T04:30:17.609Z",
       "source": "4Gamer",
@@ -8384,12 +8417,13 @@
         "ゲーム"
       ],
       "categories": [
+        "campaign",
         "event",
-        "campaign"
+        "company"
       ],
       "platforms": [],
       "points": null,
-      "image": "https://hololive.hololivepro.com/wp-content/themes/hololive/images/rnew/ogp_rnew.jpg"
+      "image": "https://hololive.hololivepro.com/wp-content/uploads/2026/10/261013_main.webp"
     },
     {
       "id": "005f827c31f0",
