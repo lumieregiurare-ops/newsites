@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T08:30:18.293Z",
+  "updatedAt": "2026-10-17T09:00:15.296Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 872,
+  "total": 873,
   "regions": {
-    "jp": 717,
+    "jp": 718,
     "global": 155
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 89
+      "count": 90
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 190
+      "count": 191
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "Game*Spark",
     "4Gamer",
     "Inside",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "50f2d95d815b",
+      "url": "https://www.aikatsu.net/aikatsustars_movie_progress/",
+      "host": "aikatsu.net",
+      "region": "jp",
+      "title": "アイカツスターズ！",
+      "headline": "『アイカツスターズ！』の新作映画『星々のProgress』が2027年1月22日に公開決定！卒業を控えたゆめたちが、世界のトップアイドルが集うライブへ",
+      "description": "『アイカツスターズ！ ～星々のProgress～』 準備はいい？最強のワクワク10周年☆ 2027年初春公開！",
+      "publishedAt": "2026-10-17T08:20:55.000Z",
+      "addedAt": "2026-10-17T09:00:15.296Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261017g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.aikatsu.net/aikatsustars_movie_progress/img/og.jpg"
+    },
     {
       "id": "a8c46bafaf6e",
       "url": "https://play.google.com/store/apps/details?id=com.sega.chainchronicle",
