@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-17T03:30:15.564Z",
+  "updatedAt": "2026-10-17T04:00:16.503Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 868,
+  "total": 869,
   "regions": {
-    "jp": 714,
+    "jp": 715,
     "global": 154
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 87
+      "count": 88
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 188
+      "count": 189
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "831a4f83a748",
+      "url": "https://www.tacticart-orchestra.com/ultraman-concert",
+      "host": "tacticart-orchestra.com",
+      "region": "jp",
+      "title": "ウルトラマン",
+      "headline": "『ウルトラマン』シリーズ60周年を記念した「オーケストラコンサート」のチケット一般販売が開始。演奏予定の作品も一部公開",
+      "description": "『ウルトラマン』シリーズ60周年を記念した「オーケストラコンサート」のチケット一般販売が開始。演奏予定の作品も一部公開",
+      "publishedAt": "2026-10-17T03:44:42.000Z",
+      "addedAt": "2026-10-17T04:00:16.503Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261017c"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/4d69de_16a118993e89480ca8b3e19835ee6e24%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4d69de_16a118993e89480ca8b3e19835ee6e24%7Emv2.png"
+    },
     {
       "id": "61274fae3dc2",
       "url": "https://www.walesinteractive.com/skerthebleedingveil",
