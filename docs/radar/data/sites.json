@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-17T04:00:16.503Z",
+  "updatedAt": "2026-10-17T04:30:16.718Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 869,
+  "total": 870,
   "regions": {
     "jp": 715,
-    "global": 154
+    "global": 155
   },
   "categories": [
     {
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 34
+      "count": 35
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 188
+      "count": 189
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 263
+      "count": 264
     },
     {
       "id": "browser",
@@ -1686,6 +1686,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/16/71/241671f2-881b-587f-8982-31902deeede7/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "535d8b3e0090",
+      "url": "https://hayo.dev/app/one-in-eight-billion/",
+      "host": "hayo.dev",
+      "region": "global",
+      "title": "80億分の1 - 人生シミュレーター",
+      "headline": "HAYO (Apps) / シミュレーション・カード · App Store 新着",
+      "description": "주어진 시작에서, 나만의 선택으로. 한 장의 카드로 이어지는 삶을 살아 보고 오래 기억할 순간을 간직하세요.",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "addedAt": "2026-10-17T04:30:16.718Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821576483"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カード"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://hayo.dev/app/one-in-eight-billion/media/ko/overview.png"
     },
     {
       "id": "f1535f2b1856",
