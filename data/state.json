@@ -3469,8 +3469,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "regionDetected": true,
       "platforms": []
     },
@@ -26316,8 +26316,8 @@
       "platforms": [
         "switch2"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "regionDetected": true
     },
     {
@@ -26356,10 +26356,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 412",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "fcf00a2c1ebd",
@@ -27110,10 +27110,15 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
-      "metaError": "HTTP 503",
+      "metaAttempts": 28,
+      "metaError": "HTTP 404",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "dead": {
+        "reason": "HTTP 404",
+        "since": "2026-10-18T16:30:19.041Z",
+        "count": 1
+      }
     },
     {
       "id": "6c76365ad81a",
@@ -27372,10 +27377,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "30fe5590f1fd",
@@ -27807,10 +27812,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "UNABLE_TO_VERIFY_LEAF_SIGNATURE fetch failed",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "87e7334de73d",
@@ -28196,10 +28201,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "c17e542a238e",
@@ -29078,10 +29083,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "589b0516de1f",
@@ -29159,16 +29164,16 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 404",
       "platforms": [
         "mobile"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-09-24T09:00:17.008Z",
-        "count": 24
+        "count": 25
       }
     },
     {
@@ -29296,14 +29301,14 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 404",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-09-27T09:30:18.078Z",
-        "count": 21
+        "count": 22
       }
     },
     {
@@ -30057,8 +30062,8 @@
       "image": "",
       "metaAttempts": 4,
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "5d6c602695ca",
@@ -30135,8 +30140,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f3/9f/01f39fed-8d71-8731-c00f-e90d2cff9e97/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -30438,12 +30443,12 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [
         "xbox"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "5222615b4449",
@@ -30859,8 +30864,8 @@
       "image": "https://www.d3p.co.jp/tgs2026/images/ogp.jpg",
       "metaAttempts": 4,
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true
     },
@@ -31824,8 +31829,8 @@
         "xbox",
         "pc"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true
     },
@@ -32374,14 +32379,14 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 404",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-09-24T09:00:17.008Z",
-        "count": 24
+        "count": 25
       }
     },
     {
@@ -33706,14 +33711,14 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 404",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
       "dead": {
         "reason": "HTTP 404",
         "since": "2026-09-24T09:00:17.008Z",
-        "count": 24
+        "count": 25
       }
     },
     {
@@ -34089,12 +34094,12 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [
         "mobile"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "ee2d78fb0432",
@@ -34630,10 +34635,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "3f551b178b27",
@@ -34872,10 +34877,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "2cc1f8781de6",
@@ -34959,12 +34964,12 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [
         "ps"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "bace02931b6a",
@@ -35226,8 +35231,8 @@
       "image": "",
       "metaAttempts": 4,
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true
     },
@@ -35447,10 +35452,10 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 27,
+      "metaAttempts": 28,
       "metaError": "HTTP 403",
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
       "linkUrl": "https://yu-gi-oh.jp/news/nj-2z0x68/"
     },
     {
@@ -35531,11 +35536,11 @@
       "points": null,
       "image": "https://gundam-official.com/titles/rg-project/xarx-zero/assets/images/common/common/ogp.png?v2",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "4878d7b86722",
@@ -35579,13 +35584,13 @@
       "points": null,
       "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "0c264c90964b",
@@ -35691,12 +35696,12 @@
       "points": null,
       "image": "https://tgs.cesa.or.jp/2026/images/meta/ogp.png",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [],
       "linkUrl": "https://tgs.cesa.or.jp/2026/news/detail/00060",
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "6b7aadcd108e",
@@ -35736,13 +35741,13 @@
       "points": null,
       "image": "https://idolmaster-official.jp/ogp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "switch2"
       ],
-      "checkedAt": "2026-10-17T16:30:16.889Z"
+      "checkedAt": "2026-10-18T16:30:19.041Z"
     },
     {
       "id": "21fdb39336fd",
@@ -36502,8 +36507,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-17T16:30:16.889Z",
-      "ogFetchedAt": "2026-10-17T16:30:16.889Z",
+      "checkedAt": "2026-10-18T16:30:19.041Z",
+      "ogFetchedAt": "2026-10-18T16:30:19.041Z",
       "regionDetected": true,
       "platforms": [
         "mobile"
