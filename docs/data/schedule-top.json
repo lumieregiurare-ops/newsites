@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T06:00:27.438Z",
+  "updatedAt": "2026-10-18T06:30:34.620Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "346db7553316",
+      "title": "歸龍潮",
+      "date": "2026-10-18",
+      "dateText": "2026年10月18日",
+      "sortKey": "2026-10-18",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.biligame.com/detail/?id=112070",
+      "image": "",
+      "maker": "",
+      "headline": "“次期『歸龍潮』”として期待される3D横スクロールアクション『綠夢：時空之聲』が配信開始！―日本未上陸の注目ゲーム3選【2026年10月18日】",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/18/189445.html"
+    },
     {
       "id": "8e4299f9488e",
       "title": "FingerLaserX",
@@ -253,24 +268,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "6690fb8e7d90",
-      "title": "ディスコ エリジウム",
-      "date": "2026-11-03",
-      "dateText": "2026年11月3日",
-      "sortKey": "2026-11-03",
-      "priority": 0,
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "url": "https://zeroparades.com/",
-      "image": "",
-      "maker": "",
-      "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
     }
   ],
   "prereg": [
@@ -457,6 +454,16 @@
   ],
   "changes": [
     {
+      "at": "2026-10-18T06:30:34.620Z",
+      "type": "new",
+      "label": "新規",
+      "title": "歸龍潮",
+      "url": "https://www.biligame.com/detail/?id=112070",
+      "image": "",
+      "platforms": [],
+      "to": "2026年10月18日"
+    },
+    {
       "at": "2026-10-17T16:00:27.969Z",
       "type": "moved_up",
       "label": "発売日前倒し",
@@ -515,19 +522,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年10月"
-    },
-    {
-      "at": "2026-10-16T07:30:31.243Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ディスコ エリジウム",
-      "url": "https://zeroparades.com/",
-      "image": "",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "to": "2026年11月3日"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T06:00:15.429Z",
+  "updatedAt": "2026-10-18T06:30:16.139Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 875,
+  "total": 876,
   "regions": {
-    "jp": 720,
+    "jp": 721,
     "global": 155
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 102
+      "count": 103
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 301
+      "count": 302
     },
     {
       "id": "indie",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "4Gamer",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "af439c0ad760",
+      "url": "https://www.biligame.com/detail/?id=112070",
+      "host": "biligame.com",
+      "region": "jp",
+      "title": "歸龍潮",
+      "headline": "“次期『歸龍潮』”として期待される3D横スクロールアクション『綠夢：時空之聲』が配信開始！―日本未上陸の注目ゲーム3選【2026年10月18日】",
+      "description": "bilibili游戏丨你的幻想世界",
+      "publishedAt": "2026-10-18T06:10:03.000Z",
+      "addedAt": "2026-10-18T06:30:16.139Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/18/189445.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "50f2d95d815b",
       "url": "https://www.aikatsu.net/aikatsustars_movie_progress/",
