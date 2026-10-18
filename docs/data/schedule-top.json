@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:30:35.733Z",
+  "updatedAt": "2026-10-18T15:00:31.783Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,21 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "346db7553316",
-      "title": "歸龍潮",
-      "date": "2026-10-18",
-      "dateText": "2026年10月18日",
-      "sortKey": "2026-10-18",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.biligame.com/detail/?id=112070",
-      "image": "",
-      "maker": "",
-      "headline": "“次期『歸龍潮』”として期待される3D横スクロールアクション『綠夢：時空之聲』が配信開始！―日本未上陸の注目ゲーム3選【2026年10月18日】",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/18/189445.html"
-    },
     {
       "id": "8e4299f9488e",
       "title": "FingerLaserX",
@@ -268,6 +253,24 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6690fb8e7d90",
+      "title": "ディスコ エリジウム",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 0,
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "url": "https://zeroparades.com/",
+      "image": "",
+      "maker": "",
+      "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
     }
   ],
   "prereg": [
@@ -454,14 +457,43 @@
   ],
   "changes": [
     {
-      "at": "2026-10-18T06:30:34.620Z",
+      "at": "2026-10-18T15:00:31.783Z",
       "type": "new",
       "label": "新規",
-      "title": "歸龍潮",
-      "url": "https://www.biligame.com/detail/?id=112070",
-      "image": "",
-      "platforms": [],
-      "to": "2026年10月18日"
+      "title": "遊戯王 TAG FORCE GX",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000120389",
+      "image": "https://img-eshop.cdn.nintendo.net/i/dbcbe3a3997c8a730c88e82d78be9171d72295515b1305e0b69e0db3c2f63338.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2027年2月16日"
+    },
+    {
+      "at": "2026-10-18T15:00:31.783Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックスアップグレード",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077483",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c7f3a46b50e33bfd12c9c90151768b5c8b929c9c93adda4812eb987df5128d40.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2027年2月16日"
+    },
+    {
+      "at": "2026-10-18T15:00:31.783Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000114055",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9fd7f1e04700a7840b1d4ff27fe3b584bff903578969b4485a6d9b383808e76c.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2027年2月16日"
     },
     {
       "at": "2026-10-17T16:00:27.969Z",
@@ -500,28 +532,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-10-16T10:00:39.194Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "冒険宿 なめこ亭",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
-      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-16T08:00:43.300Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ボンボンドロップシール",
-      "url": "https://www.sun-star-st.jp/items/bonbon_chiikawa/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年10月"
     }
   ]
 }
