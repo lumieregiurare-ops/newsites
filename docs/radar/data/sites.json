@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T12:00:17.195Z",
+  "updatedAt": "2026-10-18T12:30:16.512Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 878,
+  "total": 879,
   "regions": {
-    "jp": 723,
+    "jp": 724,
     "global": 155
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 91
+      "count": 92
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 192
+      "count": 193
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 302
+      "count": 303
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 268
+      "count": 269
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "75af87af069a",
+      "url": "https://stellasora.jp/",
+      "host": "stellasora.jp",
+      "region": "jp",
+      "title": "ステラソラ",
+      "headline": "「ステラソラ」，新章追加記念イベント「暁天を破る創生の光」を10月20日のメンテナンス後に開催。限定巡遊者「セイナ（原点）」も参戦",
+      "description": "Yostarが贈る、旅と日常が交差するファンタジーRPG『ステラソラ』の公式サイトです。",
+      "publishedAt": "2026-10-18T12:02:54.000Z",
+      "addedAt": "2026-10-18T12:30:16.512Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/867/G086701/20261018005/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event",
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://webusstatic.yo-star.com/stellasora-jp/stellasora-jp-official-frontend-2025/main/ssjpofficial2025/ogp.jpg"
+    },
     {
       "id": "89fda11137d5",
       "url": "https://www.cs.furyu.jp/crystar/",
