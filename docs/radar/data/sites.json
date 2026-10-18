@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T15:00:16.856Z",
+  "updatedAt": "2026-10-18T15:30:16.652Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 879,
+  "total": 880,
   "regions": {
-    "jp": 724,
+    "jp": 725,
     "global": 155
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 158
+      "count": 159
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 193
+      "count": 194
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 59
+      "count": 60
     },
     {
       "id": "media",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Inside",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3bf064360bf6",
+      "url": "https://rtain.jp/",
+      "host": "rtain.jp",
+      "region": "jp",
+      "title": "スーパーマリオ64",
+      "headline": "「RTA in Japan Winter 2026」の採用ゲームが発表。『スーパーマリオ64』目隠しRTAや『東方地霊殿』Lunaticのスコアアタックなどバリエーション豊かな挑…",
+      "description": "RTA in Japan Winter 2026 2026/12/25(金) ～ 2026/12/31(木)の期間で開催予定！ イベントページはこちら。 RTAちゃんの夏休み 2026/8/9(日)～2026/8/15( ...",
+      "publishedAt": "2026-10-18T15:03:44.000Z",
+      "addedAt": "2026-10-18T15:30:16.652Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261018i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://rtain.jp/wp-content/uploads/2025/12/ogp2025w.jpg"
+    },
     {
       "id": "75af87af069a",
       "url": "https://stellasora.jp/",
