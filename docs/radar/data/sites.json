@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T09:00:14.999Z",
+  "updatedAt": "2026-10-18T09:30:17.073Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 877,
+  "total": 878,
   "regions": {
-    "jp": 722,
+    "jp": 723,
     "global": 155
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 90
+      "count": 91
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 157
+      "count": 158
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 191
+      "count": 192
     },
     {
       "id": "release",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 31
+      "count": 32
     },
     {
       "id": "switch2",
@@ -121,17 +121,49 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "89fda11137d5",
+      "url": "https://www.cs.furyu.jp/crystar/",
+      "host": "cs.furyu.jp",
+      "region": "jp",
+      "title": "CRYSTAR -クライスタ-",
+      "headline": "Switch版「CRYSTAR -クライスタ-」が95％オフの288円！ 発売8周年記念セールを開催。アートブック付き版も500円で買える",
+      "description": "Nintendo Switch™版『CRYSTAR -クライスタ-』NOW ON SALE",
+      "publishedAt": "2026-10-18T09:00:00.000Z",
+      "addedAt": "2026-10-18T09:30:17.073Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/601/G060128/20261016073/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.cs.furyu.jp/crystar/_assets/images/ogp4.png"
+    },
     {
       "id": "f27700cdf50b",
       "url": "https://playvalorant.com/ja-jp/",
