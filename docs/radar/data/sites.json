@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-18T05:00:16.810Z",
+  "updatedAt": "2026-10-18T05:30:17.892Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 874,
+  "total": 875,
   "regions": {
-    "jp": 719,
+    "jp": 720,
     "global": 155
   },
   "categories": [
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 10
+      "count": 11
     },
     {
       "id": "company",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 190
+      "count": 191
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 267
+      "count": 268
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "arcade",
@@ -1814,6 +1814,41 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/21/d1/0421d142-8c09-000f-9854-0a8b2fe525bc/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "286f4b522a06",
+      "url": "https://yorimichi-games.com/",
+      "host": "yorimichi-games.com",
+      "region": "jp",
+      "title": "ことば橋 - 言葉で橋をかける",
+      "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど240本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "addedAt": "2026-10-18T05:30:17.892Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821785946"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "パズル"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://yorimichi-games.com/site/ogp/site.jpg"
     },
     {
       "id": "f1535f2b1856",
