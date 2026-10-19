@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T03:30:18.407Z",
+  "updatedAt": "2026-10-19T04:00:17.768Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 881,
+  "total": 883,
   "regions": {
-    "jp": 726,
-    "global": 155
+    "jp": 727,
+    "global": 156
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 303
+      "count": 304
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 140
+      "count": 141
     }
   ],
   "platforms": [
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9f3f5022848c",
+      "url": "https://newblood.games/tenebrissomnia",
+      "host": "newblood.games",
+      "region": "global",
+      "title": "Tenebris Somnia",
+      "headline": "アルゼンチンの映像作家が手掛ける「Tenebris Somnia」がリリース。レトロ調の2Dピクセルアートと本格実写映像を組み合わせたサバイバルホラーADV",
+      "description": "WHAT IF THEY AREN",
+      "publishedAt": "2026-10-19T03:58:18.000Z",
+      "addedAt": "2026-10-19T04:00:17.768Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101061/20261019009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/530463d9e4b0bf3b719c614b/t/6a9aca0adba5d1597a41b3f6/1788529162544/TS-Square-Hero-Banner.jpg?format=1500w"
+    },
+    {
+      "id": "6b508e6991ae",
+      "url": "https://astralshiftpro.com/home",
+      "host": "astralshiftpro.com",
+      "region": "jp",
+      "title": "神曲",
+      "headline": "ダンテ「神曲」の結末後を描くデッキ構築型ローグライト「Hell Maiden」，新たな辺獄の詩人「ルカヌス」を発表。新ステージ「第3圏 大食」の詳細も明らかに",
+      "description": "This is a website for AstralShift, a game company focused on storytelling adventures. Welcome!",
+      "publishedAt": "2026-10-19T03:56:46.000Z",
+      "addedAt": "2026-10-19T04:00:17.768Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/020/G102061/20261019008/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a95905cdc3b0",
       "url": "https://priconne-redive.jp/",
@@ -475,6 +529,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/414/G041434/20261016070/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/19/189483.html"
         }
       ],
       "tags": [
