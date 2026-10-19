@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T11:00:06.555Z",
+  "updatedAt": "2026-10-19T11:30:17.231Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 893,
+  "total": 895,
   "regions": {
-    "jp": 734,
+    "jp": 736,
     "global": 159
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 199
+      "count": 201
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 14
+      "count": 15
     },
     {
       "id": "browser",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 38
+      "count": 40
     },
     {
       "id": "goods",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "Game*Spark",
     "GameBusiness.jp",
     "電ファミニコゲーマー",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f403914538cc",
+      "url": "https://xross-stars.com/",
+      "host": "xross-stars.com",
+      "region": "jp",
+      "title": "Xross Stars",
+      "headline": "山田涼介さんが、ストリーマー「LEO」としても出演！ 人気配信者が登場のTCG『Xross Stars』初の地上波TVCMが放映決定",
+      "description": "Xross Stars（読み：クロススターズ、略称：クロスタ）は、\"共に、熱狂を\"をコンセプトにしたトレーディングカードゲームです。 プレイヤーのみなさまは、VTuber・ストリーマー・eスポーツ選手などの様々なスターたちが新たな姿で登場…",
+      "publishedAt": "2026-10-19T11:15:02.000Z",
+      "addedAt": "2026-10-19T11:30:17.231Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/19/189509.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.xross-stars.com/ogp.png"
+    },
+    {
+      "id": "738379e0d811",
+      "url": "https://dreamscape-game.com/",
+      "host": "dreamscape-game.com",
+      "region": "jp",
+      "title": "DREAMSCAPE#5",
+      "headline": "インディーゲーム展示会「DREAMSCAPE#5」，10月24日に国際フォーラム ホールEで開催。テーマはアクション / パズル / アート",
+      "description": "インディーゲームの可能性を拡張する支援プロジェクト",
+      "publishedAt": "2026-10-19T11:13:10.000Z",
+      "addedAt": "2026-10-19T11:30:17.231Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261019042/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "indie",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://dreamscape-game.com/wp-content/themes/dreamscape5/assets/social/ogp-ds5.png"
+    },
     {
       "id": "6d0c57a27ed7",
       "url": "https://sobakistan.com/",
