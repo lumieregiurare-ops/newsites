@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T10:30:18.625Z",
+  "updatedAt": "2026-10-19T11:00:06.555Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 892,
+  "total": 893,
   "regions": {
     "jp": 734,
-    "global": 158
+    "global": 159
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 308
+      "count": 309
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "Game*Spark",
     "GameBusiness.jp",
-    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6d0c57a27ed7",
+      "url": "https://sobakistan.com/",
+      "host": "sobakistan.com",
+      "region": "global",
+      "title": "サバキスタン：犬の国",
+      "headline": "犬たちが暮らす独裁国家でのダークで風刺的なストーリーを描くADV「サバキスタン：犬の国」，デモ版を配信開始",
+      "description": "Welcom to Sobakistan",
+      "publishedAt": "2026-10-19T10:35:32.000Z",
+      "addedAt": "2026-10-19T11:00:06.555Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/921/G092154/20261019039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "9023f4c2d24d",
       "url": "https://www.switch-media-jp.com/umawalk",
@@ -16191,7 +16218,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10182026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10192026"
     },
     {
       "id": "33c0ff2f4868",
