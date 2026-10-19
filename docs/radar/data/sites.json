@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T07:30:18.411Z",
+  "updatedAt": "2026-10-19T08:00:16.438Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 888,
+  "total": 889,
   "regions": {
     "jp": 732,
-    "global": 156
+    "global": 157
   },
   "categories": [
     {
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 37
+      "count": 38
     },
     {
       "id": "goods",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "GameBusiness.jp",
     "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "75f866fcc5eb",
+      "url": "https://nightcoop.net/",
+      "host": "nightcoop.net",
+      "region": "global",
+      "title": "サイバーパンク2077",
+      "headline": "『サイバーパンク2077』協力プレイMod「NightCoop」のオープンベータが近日スタート！",
+      "description": "Сюжет Cyberpunk 2077 — вместе, до 8 игроков. Кооператив и PvP, мод на RED4ext.",
+      "publishedAt": "2026-10-19T07:45:25.000Z",
+      "addedAt": "2026-10-19T08:00:16.438Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/19/173787.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nightcoop.net/avatar-1024.png"
+    },
     {
       "id": "7c0f2787f1d7",
       "url": "https://unitetokyo.com/",
