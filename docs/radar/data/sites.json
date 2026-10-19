@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T08:00:16.438Z",
+  "updatedAt": "2026-10-19T08:30:16.716Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 889,
+  "total": 890,
   "regions": {
-    "jp": 732,
+    "jp": 733,
     "global": 157
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 103
+      "count": 104
     },
     {
       "id": "anniversary",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 60
+      "count": 61
     },
     {
       "id": "media",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "GameBusiness.jp",
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7207a8994ef1",
+      "url": "https://hori.jp/products/nsx/nsx-261/",
+      "host": "hori.jp",
+      "region": "jp",
+      "title": "ゼルダの伝説 時のオカリナ",
+      "headline": "『ゼルダの伝説 時のオカリナ』で使える「電子オカリナ」Amazonでも予約受付開始！ 「オート演奏モード」などの機能も必見",
+      "description": "株式会社ホリのホームページです。ホリはゲームをもっと楽しくする、安心・安全な製品を提供するゲーム周辺機器メーカーです。",
+      "publishedAt": "2026-10-19T08:00:10.000Z",
+      "addedAt": "2026-10-19T08:30:16.716Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/19/189496.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hori.jp/image/2026/09/32a973986fe2436e54356d44842b217a.jpg"
+    },
     {
       "id": "75f866fcc5eb",
       "url": "https://nightcoop.net/",
