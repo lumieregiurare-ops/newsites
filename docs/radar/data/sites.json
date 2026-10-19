@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T23:00:16.671Z",
+  "updatedAt": "2026-10-19T23:30:14.719Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 897,
+  "total": 899,
   "regions": {
-    "jp": 739,
+    "jp": 741,
     "global": 158
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 105
+      "count": 106
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 95
+      "count": 96
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 201
+      "count": 203
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 274
+      "count": 275
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Inside",
-    "4Gamer",
     "Game*Spark",
     "GameBusiness.jp",
     "電ファミニコゲーマー",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2099fe41b1de",
+      "url": "https://www.fate-go.jp/",
+      "host": "fate-go.jp",
+      "region": "jp",
+      "title": "勝利の女神：NIKKE",
+      "headline": "「勝利の女神：NIKKE」の4周年記念番組は10月24日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "description": "TYPE-MOONが贈る、新たな「Fate」RPG。「Fate/Grand Order」公式サイト",
+      "publishedAt": "2026-10-19T23:00:00.000Z",
+      "addedAt": "2026-10-19T23:30:14.719Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/421/G042182/20261019036/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.fate-go.jp/images/fate_ogp_3500.png"
+    },
+    {
+      "id": "b8faec6222c7",
+      "url": "https://play.google.com/store/apps/details?id=com.qookkagames.sgzzqb.gp.jp",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "三國志 戦棋版",
+      "headline": "『三國志 戦棋版』事前登録10万人突破！ 先行試遊会「君主集結の宴」は10月24日開催",
+      "description": "『三國志14』公式ライセンス！盤上で天下を争うSRPG×SLGモバイルゲームーー事前登録好評受付中！",
+      "publishedAt": "2026-10-19T23:00:00.000Z",
+      "addedAt": "2026-10-19T23:30:14.719Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/20/game/3135958.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/bijhtJOvb37J6EvaPZHCcU7UxQcBfaDx-N4_k5St3G_TyElDYgSiUfvc_TeskbOdWl6xNjgW2r2TYt-_8Ppi=s0-br30"
+    },
     {
       "id": "ab2f7fe7e475",
       "url": "https://play.google.com/store/apps/details?id=jp.enish.yurucampgame",
