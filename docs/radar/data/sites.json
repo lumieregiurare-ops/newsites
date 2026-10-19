@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T03:00:17.271Z",
+  "updatedAt": "2026-10-19T03:30:18.407Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 880,
+  "total": 881,
   "regions": {
-    "jp": 725,
+    "jp": 726,
     "global": 155
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 160
+      "count": 161
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 194
+      "count": 195
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 269
+      "count": 270
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a95905cdc3b0",
+      "url": "https://priconne-redive.jp/",
+      "host": "priconne-redive.jp",
+      "region": "jp",
+      "title": "プリンセスコネクト！Re:Dive",
+      "headline": "「プリンセスコネクト！Re:Dive」，10月31日から開催される「ウマ娘 プリティーダービー」とのコラボの情報を公開",
+      "description": "「プリンセスコネクト！Re:Dive (プリコネR)」公式サイトです。最新情報をお届けします",
+      "publishedAt": "2026-10-19T03:21:53.000Z",
+      "addedAt": "2026-10-19T03:30:18.407Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/387/G038749/20261019001/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://priconne-redive.jp/ogp.jpg"
+    },
     {
       "id": "afbeda7f8537",
       "url": "https://www.balancingmonkeygames.com/games/beyond-these-stars",
