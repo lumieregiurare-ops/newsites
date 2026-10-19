@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T13:00:18.608Z",
+  "updatedAt": "2026-10-19T13:30:18.518Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 895,
+  "total": 897,
   "regions": {
-    "jp": 736,
+    "jp": 738,
     "global": 159
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 104
+      "count": 105
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 309
+      "count": 310
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 192
+      "count": 193
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 114
+      "count": 115
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 272
+      "count": 274
     },
     {
       "id": "browser",
@@ -121,17 +121,51 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "4Gamer",
     "Game*Spark",
     "GameBusiness.jp",
     "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ab2f7fe7e475",
+      "url": "https://play.google.com/store/apps/details?id=jp.enish.yurucampgame",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ちるキャン△",
+      "headline": "『ちるキャン△』Steam版は1,300円に決定！ ウィッシュリスト1万件突破、10月22日アーリーアクセス開始",
+      "description": "【つなキャン△】新・日常系ガールズキャンプゲーム",
+      "publishedAt": "2026-10-19T13:15:00.000Z",
+      "addedAt": "2026-10-19T13:30:18.518Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/19/game/3134878.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/EmtBXokSTo_UBN5Ee3OmT7xCgFoHBQSqhwvUrIsQrSPbGWpSnX_JZ4XZZMjiAHHs7Xkz3cQHXv6rl9rz9Q9XVw=s0-br30"
+    },
     {
       "id": "f403914538cc",
       "url": "https://xross-stars.com/",
@@ -2433,6 +2467,39 @@
       ],
       "points": null,
       "image": "https://yorimichi-games.com/site/ogp/site.jpg"
+    },
+    {
+      "id": "99a6565976d6",
+      "url": "https://apps.apple.com/jp/app/id6775338234",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "[グリパチ]スマスロ 新鬼武者3",
+      "headline": "CommSeed Corporation / カジノ・エンターテインメント · App Store 新着",
+      "description": "CommSeed Corporationの「[グリパチ]スマスロ 新鬼武者3」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[グリパチ]スマスロ 新鬼武者3」に似たゲームを見ることな…",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "addedAt": "2026-10-19T13:30:18.518Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6775338234"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/2a/99/0a2a99f3-a3cb-2759-8e31-8b3ed1de3351/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "f1535f2b1856",
@@ -11942,7 +12009,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72shvRa6Tnr670iMlNeCCwASRqIbvxtofK9VYJsVgFU0y7xSBtzIph3vqqrfBh0BzOhzXmeoXDJPqJJlclJZC9-aUcIuXroRQF5nwuEqf-6clHkGx_5h72CypO0aN5UHh0vQ9xVYYnGLlKpQF9UY_NThUcDu31N44proNq9VlklKUppaaj8k1Kf421AMqBA=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vy2U_iaYVVAKiQU5xXiNXnYudBXUDVtoie3WVfb8AiPdkW6ZXT9kr-ysDK0MqgLxIZKu9UzJLQ12lDjE_1nnW8YAJMsr2PQCKSJUQjv9mrkNTa--DBR2yn60LHkgagIxXWlu9DQ_LHdW8aL6IOnH1QfohyrInxY6f5xeDBDCG1I6429Ud3bpduAFaz858=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
