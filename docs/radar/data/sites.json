@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T04:30:17.202Z",
+  "updatedAt": "2026-10-19T05:00:17.348Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 883,
+  "total": 885,
   "regions": {
-    "jp": 727,
+    "jp": 729,
     "global": 156
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 93
+      "count": 94
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 195
+      "count": 196
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 304
+      "count": 306
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 112
+      "count": 113
     },
     {
       "id": "mobile",
@@ -132,6 +132,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "17b5ee324670",
+      "url": "https://zentsuru.com/",
+      "host": "zentsuru.com",
+      "region": "jp",
+      "title": "海の魚、ぜんぶ釣る",
+      "headline": "1億匹の魚を釣り切れ。インクリメンタル釣りACT「海の魚、ぜんぶ釣る」，体験版をSteamで本日配信",
+      "description": "釣って、強くなって、また釣る。4〜5時間で遊び切れる短編インクリメンタル釣りアクション。",
+      "publishedAt": "2026-10-19T04:51:36.000Z",
+      "addedAt": "2026-10-19T05:00:17.348Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/038/G103834/20261019012/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://zentsuru.com/ogp.png"
+    },
+    {
+      "id": "0d82b043e161",
+      "url": "https://shueisha-games.com/games/hoshinengi/",
+      "host": "shueisha-games.com",
+      "region": "jp",
+      "title": "封神演義",
+      "headline": "マンガ『封神演義』の新作ゲーム『封神演義 逆命承天』が「ジャンプフェスタ2027」で初試遊出展。原作完結後の世界を舞台に、原作者描き下ろしの新主人公・桃辰を操作し脅威に立ち向かう",
+      "description": "封神演義の新たな物語——漫画『封神演義』30周年記念プロジェクト始動！原作者・藤崎竜先生描き下ろしの新主人公を操り、漫画のその後を駆け抜ける、完全新作ローグライトアクションゲームが発売決定！挑むたび姿を変えるダンジョンで、相棒の霊獣と共に…",
+      "publishedAt": "2026-10-19T04:44:49.000Z",
+      "addedAt": "2026-10-19T05:00:17.348Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261019t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shueisha-games.com/wp-content/uploads/2026/07/b30e9a4866726485bc5e64048c8f09e3-1200x675.png"
+    },
     {
       "id": "9f3f5022848c",
       "url": "https://newblood.games/tenebrissomnia",
@@ -4073,7 +4131,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ec/54/39/ec543937-61ed-5cac-5622-eaaf4fdf931e/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/37/ef/f337ef6f-f620-4128-5f19-a229718842a0/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b510486660ae",
@@ -4082,7 +4140,7 @@
       "region": "jp",
       "title": "PROJECT SIGN：Astraea",
       "headline": "女性向けゲームブランド MintLip+，完全新規乙女ゲーム「PROJECT SIGN：Astraea」のティザーサイトを公開。10月19日12：00に“資料”公開へ",
-      "description": "エディアの乙女ゲームブランド「MintLip+」が贈る完全新作タイトル『PROJECT SIGN:Astraea』ティザーサイト。",
+      "description": "──相棒の失踪、不自然な捜査打ち切り。 行き着いた先は 「最終処分場」。 「もう二度と、理不尽な理由で諦めない",
       "publishedAt": "2026-10-13T03:00:00.000Z",
       "addedAt": "2026-10-13T03:30:17.080Z",
       "source": "4Gamer",
@@ -5060,7 +5118,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/fc/40/09fc40f8-659b-742e-1529-c12f3cc3a846/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/61/49/9061495c-679d-b6eb-4585-88484bf8a274/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "52c7aae49d88",
