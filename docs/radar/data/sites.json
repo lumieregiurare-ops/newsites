@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-19T10:00:17.908Z",
+  "updatedAt": "2026-10-19T10:30:18.625Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 891,
+  "total": 892,
   "regions": {
     "jp": 734,
-    "global": 157
+    "global": 158
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 61
+      "count": 62
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 191
+      "count": 192
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 271
+      "count": 272
     },
     {
       "id": "browser",
@@ -288,6 +288,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/19/189489.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/19/173798.html"
         }
       ],
       "tags": [
@@ -11022,6 +11026,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/f0/69/aef0699e-90af-826d-7eb2-81849fdf002c/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "efaa8931e3fe",
+      "url": "https://mobibrain.net/",
+      "host": "mobibrain.net",
+      "region": "global",
+      "title": "武器の王者：鍛造放置RPG",
+      "headline": "MOBIBRAIN TECHNOLOGY PTE. LTD. / シミュレーション・カジュアル · App Store 新着",
+      "description": "Leading mobile games developer and publisher, dedicated to publishing hyper-casual games. welcome work with us.",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "addedAt": "2026-10-19T10:30:18.625Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6791394610"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "7010c8af8e9a",
