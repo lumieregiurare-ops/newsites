@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T05:30:17.163Z",
+  "updatedAt": "2026-10-19T06:00:18.281Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 885,
+  "total": 888,
   "regions": {
-    "jp": 729,
+    "jp": 732,
     "global": 156
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 94
+      "count": 95
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 196
+      "count": 198
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 306
+      "count": 307
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 36
+      "count": 37
     },
     {
       "id": "goods",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 113
+      "count": 114
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 270
+      "count": 271
     },
     {
       "id": "browser",
@@ -121,17 +121,103 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
-    "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7c0f2787f1d7",
+      "url": "https://unitetokyo.com/",
+      "host": "unitetokyo.com",
+      "region": "jp",
+      "title": "Unite Tokyo 2026",
+      "headline": "Unity本社チームが来日、基調講演・ロードマップに登壇―「Unite Tokyo 2026」講演情報公開",
+      "description": "一人ひとりの創造力が、Unityに集う。日本最大級のUnity開発者カンファレンス「Unite Tokyo 2026」、11月17日(火)開催決定。最新技術セッション、業界のプロによる講演、コミュニティとの交流を通じて、あなたの創造力を次…",
+      "publishedAt": "2026-10-19T05:51:33.000Z",
+      "addedAt": "2026-10-19T06:00:18.281Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/19/28371.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://unitetokyo.com/assets/images/ogp.png"
+    },
+    {
+      "id": "c0f98d92b184",
+      "url": "https://dmg.umamusume.jp/",
+      "host": "dmg.umamusume.jp",
+      "region": "jp",
+      "title": "ウマ娘",
+      "headline": "「ウマ娘」，ロサンゼルスでのイベントの開催可否を10月20日に発表。半年以上前から準備を進めるも，現時点でビザの承認が下りず",
+      "description": "ゲーム『ウマ娘 プリティーダービー』DMM GAMES版が出走中！PCの大画面で迫力満点のライブ・レースシーンを楽しもう！スマートフォン版とデータ連携して遊べる！",
+      "publishedAt": "2026-10-19T05:47:49.000Z",
+      "addedAt": "2026-10-19T06:00:18.281Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/554/G055489/20261019013/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://images.microcms-assets.io/assets/456ffc56fa9c4232a126a70c4621d09f/6d107196a01145609bddd690e8dcbc69/ogp_dmm_2026.jpg"
+    },
+    {
+      "id": "0da3ee893f24",
+      "url": "https://fultonjapan.com/products/toewatch",
+      "host": "fultonjapan.com",
+      "region": "jp",
+      "title": "テイルズ オブ エターニア リマスター",
+      "headline": "『テイルズ オブ エターニア リマスター』腕時計が発売決定！ 限定2,000点、裏蓋にはインフェリアとセレスティアのマップが刻印",
+      "description": "「テイルズ オブ エターニア リマスター」の発売を記念した、特別なクロノグラフ腕時計。 インフェリアとセレスティア、二つの世界を隔てる「オルバース界面」をデザイン。ラシュアンに広がる光をイメージしたサンレイ加工に、見る角度で表情を変えるマ…",
+      "publishedAt": "2026-10-19T05:45:03.000Z",
+      "addedAt": "2026-10-19T06:00:18.281Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/19/189489.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fultonjapan.com/cdn/shop/files/toewatch_product1_c69d97d1-14b3-45a6-8d84-4c6d5e8ce18d.jpg?v=1791446371"
+    },
     {
       "id": "17b5ee324670",
       "url": "https://zentsuru.com/",
@@ -2149,7 +2235,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど240本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど251本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
