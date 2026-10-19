@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T02:30:18.403Z",
+  "updatedAt": "2026-10-19T03:00:17.271Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 879,
+  "total": 880,
   "regions": {
-    "jp": 724,
+    "jp": 725,
     "global": 155
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 302
+      "count": 303
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 35
+      "count": 36
     },
     {
       "id": "goods",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "afbeda7f8537",
+      "url": "https://www.balancingmonkeygames.com/games/beyond-these-stars",
+      "host": "balancingmonkeygames.com",
+      "region": "jp",
+      "title": "Beyond These Stars",
+      "headline": "巨大な宇宙クジラの背中に街を築くSFシティビルダー「Beyond These Stars」配信開始。生態系と産業の両立を目指す",
+      "description": "Create a new civilisation on a space whale in Beyond These Stars, Balancing Monkey Games’ second title. Help your Peeps…",
+      "publishedAt": "2026-10-19T02:30:34.000Z",
+      "addedAt": "2026-10-19T03:00:17.271Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/686/G068686/20261019003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.prod.website-files.com/63c7286d6a19d2431c1b3955/666907a1e61d1fbba8aee8e4_kewa1080p.png"
+    },
     {
       "id": "3bf064360bf6",
       "url": "https://rtain.jp/",
