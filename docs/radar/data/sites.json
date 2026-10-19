@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T08:30:16.716Z",
+  "updatedAt": "2026-10-19T09:00:16.306Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 890,
+  "total": 891,
   "regions": {
-    "jp": 733,
+    "jp": 734,
     "global": 157
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 198
+      "count": 199
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 307
+      "count": 308
     },
     {
       "id": "indie",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9023f4c2d24d",
+      "url": "https://www.switch-media-jp.com/umawalk",
+      "host": "switch-media-jp.com",
+      "region": "jp",
+      "title": "UMAWALK（ウマウォーク）",
+      "headline": "毎日の歩数や生活習慣で競走馬を育成！新作アプリ『UMAWALK（ウマウォーク）』が配信開始、毎週日曜にはレースも開催",
+      "description": "毎日の歩数とおやすみで愛馬が育つ。日曜21時は全国一斉レース。",
+      "publishedAt": "2026-10-19T08:50:03.000Z",
+      "addedAt": "2026-10-19T09:00:16.306Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/19/189500.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.switch-media-jp.com/umawalk/assets/og.jpg"
+    },
     {
       "id": "7207a8994ef1",
       "url": "https://hori.jp/products/nsx/nsx-261/",
