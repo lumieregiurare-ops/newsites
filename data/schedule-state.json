@@ -39947,6 +39947,54 @@
       "sortKey": "2026-10-21",
       "prereg": false,
       "firstSeen": "2026-10-20T14:30:42.455Z"
+    },
+    "bunnybundemo": {
+      "title": "Bunny Bun Demo",
+      "dateText": "2026年10月22日",
+      "date": "2026-10-22",
+      "sortKey": "2026-10-22",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
+    },
+    "onemorelawndemo": {
+      "title": "One More Lawn Demo",
+      "dateText": "2026年10月22日",
+      "date": "2026-10-22",
+      "sortKey": "2026-10-22",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
+    },
+    "tcg:fantasycardcollection": {
+      "title": "TCG: FANTASY Card Collection",
+      "dateText": "2026年10月22日",
+      "date": "2026-10-22",
+      "sortKey": "2026-10-22",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
+    },
+    "/deploy.self": {
+      "title": "/deploy.self",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
+    },
+    "fangtopia幽玄ユートピア": {
+      "title": "Fangtopia 幽玄ユートピア",
+      "dateText": "2026年10月27日",
+      "date": "2026-10-27",
+      "sortKey": "2026-10-27",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
+    },
+    "ストライカーズ1945": {
+      "title": "ストライカーズ1945",
+      "dateText": "2027年2月18日",
+      "date": "2027-02-18",
+      "sortKey": "2027-02-18",
+      "prereg": false,
+      "firstSeen": "2026-10-20T15:00:32.436Z"
     }
   },
   "changeLog": [
@@ -43745,6 +43793,32 @@
         "mobile"
       ],
       "to": "2027年1月27日"
+    },
+    {
+      "at": "2026-10-20T15:00:32.436Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Fangtopia 幽玄ユートピア",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000122120",
+      "image": "https://img-eshop.cdn.nintendo.net/i/59f820b88d31c7ae382dd95c86f97aa8ba1f2037141fad2e4e6345064ff91c06.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月27日"
+    },
+    {
+      "at": "2026-10-20T15:00:32.436Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ストライカーズ1945",
+      "url": "https://edia-game.com/psikyo",
+      "image": "https://static.wixstatic.com/media/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg",
+      "platforms": [
+        "switch2",
+        "ps",
+        "arcade"
+      ],
+      "to": "2027年2月18日"
     }
   ],
   "initialized": true,

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:30:42.455Z",
+  "updatedAt": "2026-10-20T15:00:32.436Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,40 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "8e4299f9488e",
-      "title": "FingerLaserX",
-      "date": "2026-10-20",
-      "dateText": "2026年10月20日",
-      "sortKey": "2026-10-20",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/id6474999801",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/54/9e/5e549ee3-5e87-871b-64ac-172a224c305f/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "『FingerLaserX』10月20日配信決定！ 原作者が14年ぶりにフルリメイクした防衛シューティング",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/01/game/3119348.php"
-    },
-    {
-      "id": "489fd19199ce",
-      "title": "みんなで空気読み。ワールド 韓国Ver.",
-      "date": "2026-10-20",
-      "dateText": "2026年10月20日",
-      "sortKey": "2026-10-20",
-      "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://kuukiyomi-korea.com/",
-      "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png",
-      "maker": "",
-      "headline": "「みんなで空気読み。ワールド 韓国Ver.」，10月20日開幕のSteam Nextフェスで体験版をリリース。韓国の日常で空気を読もう",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/031/G103121/20261016019/"
-    },
     {
       "id": "0737fcee90be",
       "title": "ウィンドランナーGo!",
@@ -271,6 +237,36 @@
       "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
+    },
+    {
+      "id": "871c2b29e785",
+      "title": "World of Warcraft: Forever",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://worldofwarcraft.blizzard.com/en-gb/forever/",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt766f7698aedb7b7f/6a9bc5882437ed5612d4878f/Open_Graph_-_Camelot.jpg",
+      "maker": "",
+      "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
+    },
+    {
+      "id": "d743133d93d7",
+      "title": "鉄道にっぽん！ RealPro",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
+      "image": "",
+      "maker": "",
+      "headline": "“実写映像”の鉄道ゲーム『鉄道にっぽん！ RealPro』のDLCが11月5日に配信決定。名古屋の地下鉄・リニモ・ゆとりーとラインを逆方向に運転できる",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610143c"
     }
   ],
   "prereg": [
@@ -462,6 +458,32 @@
   ],
   "changes": [
     {
+      "at": "2026-10-20T15:00:32.436Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ストライカーズ1945",
+      "url": "https://edia-game.com/psikyo",
+      "image": "https://static.wixstatic.com/media/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg",
+      "platforms": [
+        "switch2",
+        "ps",
+        "arcade"
+      ],
+      "to": "2027年2月18日"
+    },
+    {
+      "at": "2026-10-20T15:00:32.436Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Fangtopia 幽玄ユートピア",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000122120",
+      "image": "https://img-eshop.cdn.nintendo.net/i/59f820b88d31c7ae382dd95c86f97aa8ba1f2037141fad2e4e6345064ff91c06.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月27日"
+    },
+    {
       "at": "2026-10-20T10:30:37.463Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -504,26 +526,6 @@
       "image": "",
       "platforms": [],
       "to": "2027年1月28日"
-    },
-    {
-      "at": "2026-10-20T02:00:29.126Z",
-      "type": "new",
-      "label": "新規",
-      "title": "RPGツクールU2U",
-      "url": "http://u2u.rpgmakerofficial.com/",
-      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
-      "platforms": [],
-      "to": "2026年11月16日"
-    },
-    {
-      "at": "2026-10-19T15:00:37.259Z",
-      "type": "new",
-      "label": "新規",
-      "title": "アモアス",
-      "url": "http://amongusstory.com/",
-      "image": "https://www.innersloth.com/wp-content/uploads/2026/04/Asset-30.png",
-      "platforms": [],
-      "to": "2027年2月17日"
     }
   ]
 }
