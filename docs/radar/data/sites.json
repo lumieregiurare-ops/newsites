@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:30:21.385Z",
+  "updatedAt": "2026-10-20T18:00:21.975Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 65
+      "count": 66
     },
     {
       "id": "media",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 120
+      "count": 121
     },
     {
       "id": "mobile",
@@ -26617,7 +26617,7 @@
       "region": "jp",
       "title": "メイプルストーリー",
       "headline": "「メイプルストーリー」，学校が舞台の23周年イベントを9月16日から開催",
-      "description": "「チェンジバーニング：ルシード」開催中！ルシードに変身してゲームプレイ。ルナプチ等級ペットなど豪華報酬をGETしよう！",
+      "description": "育てて、しゃべって、協力して、冒険する！ みんなのオンラインRPG「メイプルストーリー」の公式サイト。株式会社ネクソンが運営するPCオンラインゲームです。",
       "publishedAt": "2026-09-11T11:43:38.000Z",
       "addedAt": "2026-09-14T06:11:38.156Z",
       "source": "4Gamer",
@@ -26633,11 +26633,14 @@
       ],
       "categories": [
         "anniversary",
-        "event"
+        "event",
+        "company"
       ],
-      "platforms": [],
+      "platforms": [
+        "pc"
+      ],
       "points": null,
-      "image": "https://static.nexon.co.jp/maplestory/ver2021/campaign/twitter_card/change-burning-lucid/ogpcard.png"
+      "image": "https://static.nexon.co.jp/maplestory/ver2017/campaign/twitter_card/twittershare_191218_potal.png"
     },
     {
       "id": "4b36512e3753",
