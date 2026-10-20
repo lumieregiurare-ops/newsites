@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T03:00:16.598Z",
+  "updatedAt": "2026-10-20T03:30:14.771Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 901,
+  "total": 902,
   "regions": {
-    "jp": 743,
+    "jp": 744,
     "global": 158
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 311
+      "count": 312
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 11
+      "count": 12
     },
     {
       "id": "company",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 275
+      "count": 276
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
-    "AppBank",
     "Inside",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bf8866771cb6",
+      "url": "https://play.google.com/store/apps/details?id=jp.snaplace.umeshiwa",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "うめしわ",
+      "headline": "しゃべる梅干しおにぎり『うめしわ』が初のゲーム化！ 会社員の365日を遊ぶ『うめしわ 〜定時で帰りたい365日〜』配信開始",
+      "description": "126円のおにぎりが相棒。ドット絵の街を歩いて、会社の一日を切り抜ける。ミニゲーム100種類、物語は365日ぶん。",
+      "publishedAt": "2026-10-20T03:10:00.000Z",
+      "addedAt": "2026-10-20T03:30:14.771Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/20/game/3138166.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "browser"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/5sH8jnuniDF5CYFfKvMv2UCtNq1fX5auqyQ9_2U2EdfBFGMDwIhE6YayyUiKFFQlJzhL2DX7r-VhLllB1xWU=s0-br30"
+    },
     {
       "id": "db90e7ef64c9",
       "url": "http://u2u.rpgmakerofficial.com/",
