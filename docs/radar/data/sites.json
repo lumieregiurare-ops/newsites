@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T07:30:18.499Z",
+  "updatedAt": "2026-10-20T08:00:19.941Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 911,
+  "total": 912,
   "regions": {
-    "jp": 752,
+    "jp": 753,
     "global": 159
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 96
+      "count": 97
     },
     {
       "id": "campaign",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "GameBusiness.jp",
-    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c79f85aa3043",
+      "url": "https://www.tendence.jp/pickup/ffx/",
+      "host": "tendence.jp",
+      "region": "jp",
+      "title": "FF10",
+      "headline": "『FF10』25周年記念の腕時計がカッコいい！グラデーションが美しいティーダとユウナモデルが登場",
+      "description": "テンデンス公式サイトへようこそ。2007年スイスのルガーノで「もっとユニークで遊び心を持つ、かつてない時計を」としてテンデンスは誕生しました。大きな文字盤と浮かび上がるような3D のインデックスは、テンデンスのブランドアイコンとして広く知…",
+      "publishedAt": "2026-10-20T08:00:03.000Z",
+      "addedAt": "2026-10-20T08:00:19.941Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/20/189562.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0794a58fb6a2",
       "url": "https://www.fwinc.co.jp/guestbook/",
