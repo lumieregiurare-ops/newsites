@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T09:00:18.942Z",
+  "updatedAt": "2026-10-20T09:30:21.105Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 914,
+  "total": 915,
   "regions": {
-    "jp": 755,
+    "jp": 756,
     "global": 159
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 316
+      "count": 317
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 196
+      "count": 197
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 277
+      "count": 278
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
-    "AppBank",
     "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e99ec89cbe51",
+      "url": "https://apps.apple.com/jp/app/id6816302336",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "UMAWALK",
+      "headline": "歩数で愛馬が強くなる育成ゲーム『UMAWALK』iOS・Androidで10月19日配信開始！",
+      "description": "Switch Media LLCの「UMAWALK-歩いて競走馬を育てる-」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「UMAWALK-歩いて競走馬を育てる-」に似たゲームを見るこ…",
+      "publishedAt": "2026-10-20T09:15:00.000Z",
+      "addedAt": "2026-10-20T09:30:21.105Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/20/game/3137765.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/43/d8/fb43d8e7-8840-727f-b6dc-7e522a2bfe9b/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "9d77050a3c17",
       "url": "https://www.kobe-np.co.jp/info/exhibition/sanoyoko-50-exh/",
