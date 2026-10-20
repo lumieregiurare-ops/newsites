@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T12:00:17.219Z",
+  "updatedAt": "2026-10-20T12:30:18.043Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 925,
+  "total": 927,
   "regions": {
-    "jp": 766,
+    "jp": 768,
     "global": 159
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 99
+      "count": 100
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 166
+      "count": 167
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 211
+      "count": 213
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 283
+      "count": 285
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "AppBank",
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Inside",
     "GameBusiness.jp",
     "Game*Spark",
@@ -132,6 +132,70 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "221efa55784c",
+      "url": "https://play.google.com/store/apps/details?id=jp.Marvelous.BMWC",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ビックリマン・ワンダーコレクション",
+      "headline": "『ビックリマン・ワンダーコレクション』2.5周年！ アンドロココ登場＆最大100連無料ガチャ開催、10月19日から",
+      "description": "「ビックリマン」３９周年記念！シールコレクションRPG！",
+      "publishedAt": "2026-10-20T12:15:00.000Z",
+      "addedAt": "2026-10-20T12:30:18.043Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/20/game/3137970.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "周年",
+        "iOS"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/aUul3GMpauxUDiLRTYROu3MhIqdm99taz8L2RDGQaXN0k4nYqhdX8bvVrsvWPB3BC4kjAAr1FbCP4zUweQXhZQ=s0-br30"
+    },
+    {
+      "id": "dcd00dee640d",
+      "url": "https://gakuen.idolmaster-official.jp/",
+      "host": "gakuen.idolmaster-official.jp",
+      "region": "jp",
+      "title": "学マス",
+      "headline": "『学マス』とローソンのコラボが11月10日より開催決定！青いリボンとレースをテーマにした衣装でアイドルたちが登場",
+      "description": "―君と出会い、夢に翔ける―歌とダンスが上手くなるアイドル育成シミュレーション！『アイドルマスター』シリーズ完全新作スマホゲーム『学マス』好評配信中！",
+      "publishedAt": "2026-10-20T11:52:25.000Z",
+      "addedAt": "2026-10-20T12:30:18.043Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610203c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://gakuen.idolmaster-official.jp/assets/img/ogp.png?date=0516"
+    },
     {
       "id": "9e25c2dda4af",
       "url": "https://play.google.com/store/apps/details?id=com.superrabbitgames.globalminicrafts",
@@ -6774,7 +6838,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f1/f3/3ff1f39d-ebbd-aeca-fd73-338e6b328fd6/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/60/bb/5a60bb33-913d-ac77-04c9-d7690ef5f683/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "42a809cbede4",
