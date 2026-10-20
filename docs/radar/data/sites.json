@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T08:30:17.581Z",
+  "updatedAt": "2026-10-20T09:00:18.942Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 913,
+  "total": 914,
   "regions": {
-    "jp": 754,
+    "jp": 755,
     "global": 159
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 97
+      "count": 98
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 207
+      "count": 208
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9d77050a3c17",
+      "url": "https://www.kobe-np.co.jp/info/exhibition/sanoyoko-50-exh/",
+      "host": "kobe-np.co.jp",
+      "region": "jp",
+      "title": "100万回生きたねこ",
+      "headline": "『100万回生きたねこ』出版50周年を記念した展示が開催決定。作者・佐野洋子氏の描いた原画や、貴重な資料などを展示",
+      "description": "『100万回生きたねこ』出版50周年記念 絵本作家佐野洋子展",
+      "publishedAt": "2026-10-20T08:37:23.000Z",
+      "addedAt": "2026-10-20T09:00:18.942Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610202q"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "c79f85aa3043",
       "url": "https://www.tendence.jp/pickup/ffx/",
@@ -4571,7 +4600,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=39"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=40"
     },
     {
       "id": "3fd841df8e29",
