@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T06:30:19.520Z",
+  "updatedAt": "2026-10-20T07:00:18.524Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 909,
+  "total": 910,
   "regions": {
-    "jp": 750,
+    "jp": 751,
     "global": 159
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 106
+      "count": 105
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 206
+      "count": 207
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 314
+      "count": 315
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 117
+      "count": 118
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "GameBusiness.jp",
     "Inside",
-    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0794a58fb6a2",
+      "url": "https://www.fwinc.co.jp/guestbook/",
+      "host": "fwinc.co.jp",
+      "region": "jp",
+      "title": "異界ノ宿帳",
+      "headline": "昼は付喪神をもてなし，夜は怪異から生き延びる。「異界ノ宿帳」，Steam Nextフェスに参加。体験版も配信中",
+      "description": "忘れられたモノが流れ着く異界の温泉宿を舞台にした温泉ホラーシミュレーション。あなたの選択が、付喪神の癒しと宿の運命を変えていく。",
+      "publishedAt": "2026-10-20T06:47:23.000Z",
+      "addedAt": "2026-10-20T07:00:18.524Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105159/20261020023/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.fwinc.co.jp/guestbook/images/ogp.jpg"
+    },
     {
       "id": "941ffbb9950d",
       "url": "https://gamepavilion.jp/meetup/",
@@ -15281,7 +15311,7 @@
       "region": "global",
       "title": "Tideward",
       "headline": "Manu Games LLC / シミュレーション・ロールプレイング · App Store 新着",
-      "description": "Tideward is an idle RPG native on every Apple device, in open beta on Android, and coming to Windows PC. Pre-order on t…",
+      "description": "Tideward is an idle RPG native on every Apple device, with an Android beta on its way and a Windows PC version coming. …",
       "publishedAt": "2026-09-24T23:30:27.433Z",
       "addedAt": "2026-09-24T23:30:17.189Z",
       "source": "App Store",
@@ -15301,7 +15331,6 @@
         "Roleplaying"
       ],
       "categories": [
-        "prereg",
         "goods"
       ],
       "platforms": [
