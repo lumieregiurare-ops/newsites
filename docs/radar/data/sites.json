@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T04:00:18.339Z",
+  "updatedAt": "2026-10-20T04:30:14.986Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 903,
+  "total": 905,
   "regions": {
-    "jp": 745,
+    "jp": 747,
     "global": 158
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 163
+      "count": 164
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 204
+      "count": 205
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 313
+      "count": 314
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 194
+      "count": 195
     },
     {
       "id": "official",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "Inside",
     "Game*Spark",
     "GameBusiness.jp",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2bd838aa9266",
+      "url": "https://killsec.net/",
+      "host": "killsec.net",
+      "region": "jp",
+      "title": "KILLSEC",
+      "headline": "剣撃や銃弾，レーザーを跳ね返して敵を倒し，脱出への道を切り開く。見下ろし型アクションローグライト「KILLSEC」，体験版配信中",
+      "description": "剣撃や銃弾，レーザーを跳ね返して敵を倒し，脱出への道を切り開く。見下ろし型アクションローグライト「KILLSEC」，体験版配信中",
+      "publishedAt": "2026-10-20T04:25:52.000Z",
+      "addedAt": "2026-10-20T04:30:14.986Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105148/20261020015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "080a0225ecc2",
+      "url": "https://www.gundam-base.net/",
+      "host": "gundam-base.net",
+      "region": "jp",
+      "title": "ガンダムベース渋谷店",
+      "headline": "「ガンダムベース渋谷店」11月20日に渋谷PARCOにオープン決定。15種類のガンプラが毎月入れ替わるコレクションショップエリアが展開",
+      "description": "(株)BANDAI SPIRITS ホビー事業部運営の「ガンプラ」を主体とした総合施設”ガンダムベース（THE GUNDAM BASE）”の公式ホームページです。ガンダムベース関連の施設情報や更新情報、新商品情報、イベント、キャンペーンな…",
+      "publishedAt": "2026-10-20T04:06:36.000Z",
+      "addedAt": "2026-10-20T04:30:14.986Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261020o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gundam-base.net/images/production/common/img_ogp.png"
+    },
     {
       "id": "4c35e36ffd5d",
       "url": "https://shueisha-games.com/games/booksandkeys/",
