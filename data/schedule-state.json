@@ -2426,6 +2426,24 @@
     "うめしわ 定時で帰りたい365日": {
       "at": "2026-10-20T10:00:36.469Z",
       "entry": null
+    },
+    "リラックマ ごゆるりパズル": {
+      "at": "2026-10-20T10:30:37.640Z",
+      "entry": {
+        "trackId": "6807266067",
+        "title": "リラックマ ごゆるりパズル",
+        "artist": "Picorea, Inc.",
+        "genres": [
+          "カジュアル",
+          "パズル"
+        ],
+        "releaseDate": "2027-01-27T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6807266067",
+        "sellerUrl": "https://www.applibot.co.jp/contact/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/20/df/5420df38-3db1-2280-1c31-925e7f92c534/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -39681,6 +39699,22 @@
       "sortKey": "2026-12-12",
       "prereg": false,
       "firstSeen": "2026-10-20T10:00:36.262Z"
+    },
+    "outcasttales": {
+      "title": "Outcast Tales",
+      "dateText": "2026年10月26日",
+      "date": "2026-10-26",
+      "sortKey": "2026-10-26",
+      "prereg": false,
+      "firstSeen": "2026-10-20T10:30:37.463Z"
+    },
+    "リラックマごゆるりパズル": {
+      "title": "リラックマ ごゆるりパズル",
+      "dateText": "2027年1月27日",
+      "date": "2027-01-27",
+      "sortKey": "2027-01-27",
+      "prereg": true,
+      "firstSeen": "2026-10-20T10:30:37.463Z"
     }
   },
   "changeLog": [
@@ -43455,6 +43489,30 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月12日"
+    },
+    {
+      "at": "2026-10-20T10:30:37.463Z",
+      "type": "new",
+      "label": "新規",
+      "title": "リラックマ ごゆるりパズル",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年1月27日"
+    },
+    {
+      "at": "2026-10-20T10:30:37.463Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "リラックマ ごゆるりパズル",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年1月27日"
     }
   ],
   "initialized": true,

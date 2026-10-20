@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:00:36.262Z",
+  "updatedAt": "2026-10-20T10:30:37.463Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,6 +275,31 @@
   ],
   "prereg": [
     {
+      "id": "4c96c1d1eb2a",
+      "title": "リラックマ ごゆるりパズル",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-20T10:08:29.000Z",
+      "releaseText": "2027年1月27日",
+      "releaseSource": "appstore",
+      "count": "事前登録者数が3万人",
+      "reward": "",
+      "headline": "「リラックマ ごゆるりパズル」，2027年初頭のリリースに向けて事前登録の受付を開始。着せ替えや部屋の模様替えも楽しめる3マッチパズル",
+      "description": "リラックマたちとのんびり遊ぶ3マッチパズル。事前登録受付中。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/051/G105170/20261020034/",
+      "appleId": "6807266067",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6807266067",
+        "preorder": true,
+        "releaseDate": "2027-01-27T08:00:00Z"
+      },
+      "trackId": "6807266067"
+    },
+    {
       "id": "067c26a4a876",
       "title": "ハイキュー!! ALL Challengers",
       "url": "https://haikyu-allchallengers.jp/",
@@ -433,34 +458,33 @@
         "releaseDate": "2026-10-23T07:00:00Z"
       },
       "trackId": "6757690255"
-    },
-    {
-      "id": "82fb8fd4774a",
-      "title": "虫ストライクZ",
-      "url": "https://apps.apple.com/jp/app/id6810581977",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-11T23:00:00.000Z",
-      "releaseText": "2026年11月7日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "虫の数字バトルRPG『虫ストライクZ』の事前登録が開始！ 配信は11月上旬予定",
-      "description": "Morimirai Inc.の「虫ストライクZ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「虫ストライクZ」に似たゲームを見ることなどができます。",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/12/game/3126807.php",
-      "appleId": "6810581977",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6810581977",
-        "preorder": true,
-        "releaseDate": "2026-11-07T08:00:00Z"
-      },
-      "trackId": "6810581977"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-20T10:30:37.463Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "リラックマ ごゆるりパズル",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年1月27日"
+    },
+    {
+      "at": "2026-10-20T10:30:37.463Z",
+      "type": "new",
+      "label": "新規",
+      "title": "リラックマ ごゆるりパズル",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年1月27日"
+    },
     {
       "at": "2026-10-20T10:00:36.262Z",
       "type": "new",
@@ -500,29 +524,6 @@
       "image": "https://www.innersloth.com/wp-content/uploads/2026/04/Asset-30.png",
       "platforms": [],
       "to": "2027年2月17日"
-    },
-    {
-      "at": "2026-10-19T15:00:37.259Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Among Us",
-      "url": "https://www.innersloth.com/games/among-us-story/",
-      "image": "https://www.innersloth.com/wp-content/uploads/2026/04/Asset-30.png",
-      "platforms": [],
-      "to": "2027年2月17日"
-    },
-    {
-      "at": "2026-10-18T15:00:31.783Z",
-      "type": "new",
-      "label": "新規",
-      "title": "遊戯王 TAG FORCE GX",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000120389",
-      "image": "https://img-eshop.cdn.nintendo.net/i/dbcbe3a3997c8a730c88e82d78be9171d72295515b1305e0b69e0db3c2f63338.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2027年2月16日"
     }
   ]
 }

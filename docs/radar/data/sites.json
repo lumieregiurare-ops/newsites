@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T10:00:15.297Z",
+  "updatedAt": "2026-10-20T10:30:17.194Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 920,
+  "total": 924,
   "regions": {
-    "jp": 761,
+    "jp": 765,
     "global": 159
   },
   "categories": [
@@ -20,27 +20,27 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 106
+      "count": 107
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 98
+      "count": 99
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 165
+      "count": 166
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 209
+      "count": 211
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 320
+      "count": 322
     },
     {
       "id": "indie",
@@ -77,12 +77,12 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 32
+      "count": 33
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 31
+      "count": 32
     },
     {
       "id": "ps",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 280
+      "count": 282
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
+    "Inside",
     "AppBank",
     "GameBusiness.jp",
     "Game*Spark",
@@ -132,6 +132,97 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2782eae00779",
+      "url": "https://www.sanrio-games.jp/games/sanrio-party-land/index.html",
+      "host": "sanrio-games.jp",
+      "region": "jp",
+      "title": "サンリオ パーティランド",
+      "headline": "なにわ男子がハローキティたちとゲーム＆特製ケーキ作りに挑戦。「サンリオ パーティランド」新TVCM発表会",
+      "description": "サンリオキャラクターが大集合！2026年10月29日（木）発売、Nintendo Switch／Nintendo Switch 2『サンリオ パーティランド』の公式サイトです。",
+      "publishedAt": "2026-10-20T10:27:33.000Z",
+      "addedAt": "2026-10-20T10:30:17.194Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/000/G100071/20261019025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.sanrio-games.jp/games/sanrio-party-land/sns.png"
+    },
+    {
+      "id": "3208ed646b79",
+      "url": "https://www.usj.co.jp/web/ja/jp",
+      "host": "usj.co.jp",
+      "region": "jp",
+      "title": "名探偵コナン・ワールド",
+      "headline": "USJの『名探偵コナン・ワールド』2027年も開催決定。レストランやリアル脱出ゲームが登場",
+      "description": "異なる表情を持つさまざまなエリアは、感動がいっぱいの別世界。ハリウッドの超大作映画をテーマにした興奮のライドや人気キャラクターたちのショーなど、子どもから大人まで楽しめる、ワールドクラスのエンターテイメントを集めたテーマパーク。",
+      "publishedAt": "2026-10-20T10:22:51.000Z",
+      "addedAt": "2026-10-20T10:30:17.194Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610202z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.usj.co.jp/contentdata/usj/ja/jp/files/assets/logos/universal-japan-logo-b.png"
+    },
+    {
+      "id": "4c96c1d1eb2a",
+      "url": "https://jp.rilakkuma-puzzle.com/",
+      "host": "jp.rilakkuma-puzzle.com",
+      "region": "jp",
+      "title": "リラックマ ごゆるりパズル",
+      "headline": "「リラックマ ごゆるりパズル」，2027年初頭のリリースに向けて事前登録の受付を開始。着せ替えや部屋の模様替えも楽しめる3マッチパズル",
+      "description": "リラックマたちとのんびり遊ぶ3マッチパズル。事前登録受付中。",
+      "publishedAt": "2026-10-20T10:08:29.000Z",
+      "addedAt": "2026-10-20T10:30:17.194Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105170/20261020034/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png"
+    },
     {
       "id": "067c26a4a876",
       "url": "https://haikyu-allchallengers.jp/",
@@ -147,6 +238,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/20/189570.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/992/G099243/20261020009/"
         }
       ],
       "tags": [
@@ -164,6 +259,42 @@
       ],
       "points": null,
       "image": "https://haikyu-allchallengers.jp/wp-content/uploads/2026/03/og.jpg"
+    },
+    {
+      "id": "f9d7666d91de",
+      "url": "https://apps.apple.com/jp/app/id1663423521",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Wizardry Variants Daphne",
+      "headline": "『Wizardry Variants Daphne』2周年記念キャンペーン「#奈落侵食中」開催！ 新宿・渋谷・梅田で10月19日から",
+      "description": "Drecom Co., Ltd.の「Wizardry Variants Daphne」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Wizardry Variants Daphne」…",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "addedAt": "2026-10-20T10:30:17.194Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/20/game/3137586.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "特設サイト",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/db/a3/9adba3a2-3aa0-c128-eeb2-1f1821a914e1/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "c1fa2b0edf28",
@@ -199,7 +330,7 @@
       "region": "jp",
       "title": "Skateboard Knight / スケボーナイト",
       "headline": "「Skateboard Knight / スケボーナイト」「Dungeon Sweeper Plus」の体験版がSteamで配信中",
-      "description": "「Skateboard Knight / スケボーナイト」「Dungeon Sweeper Plus」の体験版がSteamで配信中",
+      "description": "ロゴをこさえました ゲームっぽい 今回はゲームゲームしたゲームにしたいので、ロゴもゲームゲームした感じにしましたゲームリリース時に気が変わったらロゴも変わるかもしれないですが今のとこはこんな感じです タイトル用のイラストはもうちょい色々作っ",
       "publishedAt": "2026-10-20T09:34:17.000Z",
       "addedAt": "2026-10-20T10:00:15.297Z",
       "source": "4Gamer",
@@ -219,7 +350,7 @@
         "pc"
       ],
       "points": null,
-      "image": ""
+      "image": "https://marorugames.com/wp-content/uploads/2023/12/title_1280.png"
     },
     {
       "id": "1cc3282873c8",
@@ -2991,7 +3122,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://storage.googleapis.com/content-creatorscamp-production/game/image/49972147_0?1792040242988"
+      "image": "https://storage.googleapis.com/content-creatorscamp-production/game/image/49972147_0?1792445490899"
     },
     {
       "id": "1ae8c9d519c1",
