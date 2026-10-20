@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T01:30:15.734Z",
+  "updatedAt": "2026-10-20T02:00:13.997Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 900,
+  "total": 901,
   "regions": {
-    "jp": 742,
+    "jp": 743,
     "global": 158
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 310
+      "count": 311
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "db90e7ef64c9",
+      "url": "http://u2u.rpgmakerofficial.com/",
+      "host": "u2u.rpgmakerofficial.com",
+      "region": "jp",
+      "title": "RPGツクールU2U",
+      "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
+      "description": "直感でツクる、 奥行きある世界。",
+      "publishedAt": "2026-10-20T01:30:00.000Z",
+      "addedAt": "2026-10-20T02:00:13.997Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/993/G099342/20261019045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png"
+    },
     {
       "id": "895ca74efca0",
       "url": "https://www.misterdonut.jp/",
