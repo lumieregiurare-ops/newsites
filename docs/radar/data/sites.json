@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T01:00:15.798Z",
+  "updatedAt": "2026-10-20T01:30:15.734Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 899,
+  "total": 900,
   "regions": {
-    "jp": 741,
+    "jp": 742,
     "global": 158
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 161
+      "count": 163
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 203
+      "count": 204
     },
     {
       "id": "release",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 193
+      "count": 194
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 141
+      "count": 140
     }
   ],
   "platforms": [
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "Inside",
     "Game*Spark",
     "GameBusiness.jp",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "895ca74efca0",
+      "url": "https://www.misterdonut.jp/",
+      "host": "misterdonut.jp",
+      "region": "jp",
+      "title": "ポケモン×ミスタ",
+      "headline": "ポケモン×ミスタードーナツのコラボが今年も開催。ネットオーダーの先行予約は10月27日より、店頭販売は11月4日より開始",
+      "description": "ミスタードーナツの公式サイトです。新商品、ミスドクラブ、ドーナツ&ドリンクメニュー、飲茶メニュー、ショップ検索、TVCMなど、様々な最新情報をご覧いただけます。",
+      "publishedAt": "2026-10-20T01:29:16.000Z",
+      "addedAt": "2026-10-20T01:30:15.734Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261020i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.misterdonut.jp/top/images/og_top.jpg"
+    },
     {
       "id": "2099fe41b1de",
       "url": "https://www.fate-go.jp/",
@@ -1043,10 +1072,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
-        "official"
+        "campaign"
       ],
       "platforms": [],
       "points": null,
