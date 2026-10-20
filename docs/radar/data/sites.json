@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-20T05:00:17.658Z",
+  "updatedAt": "2026-10-20T05:30:16.581Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 906,
+  "total": 907,
   "regions": {
     "jp": 748,
-    "global": 158
+    "global": 159
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 140
+      "count": 141
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 116
+      "count": 117
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7186897f52ec",
+      "url": "https://archeagechronicles.xlgames.com/en/",
+      "host": "archeagechronicles.xlgames.com",
+      "region": "global",
+      "title": "ArcheAge Chronicles",
+      "headline": "オープンワールドアクションMMORPG「ArcheAge Chronicles」のデモがSteam Next Festで公開に",
+      "description": "Explore Auroria, a vast and vibrant world brimming with rich lore and thrilling action",
+      "publishedAt": "2026-10-20T05:24:49.000Z",
+      "addedAt": "2026-10-20T05:30:16.581Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/528/G052880/20261020018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://archeagechronicles.xlgames.com/assets/common/og-image.jpg"
+    },
     {
       "id": "ebd2aaf0746e",
       "url": "https://ahwoo.com/brutal",
