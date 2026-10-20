@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:30:32.398Z",
+  "updatedAt": "2026-10-20T10:00:36.262Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,6 +275,31 @@
   ],
   "prereg": [
     {
+      "id": "067c26a4a876",
+      "title": "ハイキュー!! ALL Challengers",
+      "url": "https://haikyu-allchallengers.jp/",
+      "image": "https://haikyu-allchallengers.jp/wp-content/uploads/2026/03/og.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-20T10:00:03.000Z",
+      "releaseText": "2027年3月31日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "『ハイキュー!! ALL Challengers』事前登録開始！34名以上の選手を育てて、自分だけの“頂”を目指す新作育成シミュレーション",
+      "description": "スマートフォン向けゲーム『ハイキュー!! ALL Challengers』の公式サイトです。",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/20/189570.html",
+      "appleId": "6760275408",
+      "trackId": "6760275408",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6760275408",
+        "preorder": true,
+        "releaseDate": "2027-03-31T07:00:00Z"
+      }
+    },
+    {
       "id": "a194e704154b",
       "title": "グリザイア 集結の百果",
       "url": "https://grisaia-s100.com/",
@@ -433,34 +458,19 @@
         "releaseDate": "2026-11-07T08:00:00Z"
       },
       "trackId": "6810581977"
-    },
-    {
-      "id": "de25fcb5c2c4",
-      "title": "誰ガ為のアルケミスト ポートマスターズ",
-      "url": "https://play.google.com/store/apps/details?id=com.kms.nexus",
-      "image": "https://play-lh.googleusercontent.com/mOGMVFOTMZiPeizjpSrAFqXDsW8W7I2cLxRNJxCYbCH3N2oJ-SYahyyKyjOwsnUhcMW4z3g5WHnZCPntoVws=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-11T21:00:00.000Z",
-      "releaseText": "2026年11月6日",
-      "releaseSource": "appstore",
-      "count": "事前登録5万人",
-      "reward": "",
-      "headline": "『誰ガ為のアルケミスト ポートマスターズ』事前登録5万人突破！ 全員にURウロボロスなどをプレゼント",
-      "description": "紡がれし記憶は、新たな戦場へ",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/12/game/3126788.php",
-      "appleId": "6781944992",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6781944992",
-        "preorder": true,
-        "releaseDate": "2026-11-06T08:00:00Z"
-      },
-      "trackId": "6781944992"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-20T10:00:36.262Z",
+      "type": "new",
+      "label": "新規",
+      "title": "FF14",
+      "url": "https://lp.roland.jp/bridgecast_gamingdevice/bridgecast_ff/",
+      "image": "",
+      "platforms": [],
+      "to": "2026年12月12日"
+    },
     {
       "at": "2026-10-20T08:30:31.694Z",
       "type": "new",
@@ -508,19 +518,6 @@
       "title": "遊戯王 TAG FORCE GX",
       "url": "https://store-jp.nintendo.com/item/software/D70010000120389",
       "image": "https://img-eshop.cdn.nintendo.net/i/dbcbe3a3997c8a730c88e82d78be9171d72295515b1305e0b69e0db3c2f63338.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2027年2月16日"
-    },
-    {
-      "at": "2026-10-18T15:00:31.783Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックスアップグレード",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077483",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c7f3a46b50e33bfd12c9c90151768b5c8b929c9c93adda4812eb987df5128d40.jpg",
       "platforms": [
         "switch2",
         "switch"
