@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T08:00:19.941Z",
+  "updatedAt": "2026-10-20T08:30:17.581Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 912,
+  "total": 913,
   "regions": {
-    "jp": 753,
+    "jp": 754,
     "global": 159
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 315
+      "count": 316
     },
     {
       "id": "indie",
@@ -155,6 +155,37 @@
       ],
       "categories": [
         "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0e943c9a5c68",
+      "url": "https://kalypsomedia.co.jp/tropico7/",
+      "host": "kalypsomedia.co.jp",
+      "region": "jp",
+      "title": "トロピコ7",
+      "headline": "日本語版「トロピコ7」，グローバル版と同じく2027年1月28日に発売。プレイアブルデモやストーリートレイラーも公開に",
+      "description": "Tropico 7公式サイト。シリーズ最新作で、自分だけの島国を築き、発展させ、統治しよう。",
+      "publishedAt": "2026-10-20T08:00:00.000Z",
+      "addedAt": "2026-10-20T08:30:17.581Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/939/G093900/20261020025/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610202l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
       ],
       "platforms": [],
       "points": null,
@@ -20929,6 +20960,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260918g"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/20/173839.html"
         }
       ],
       "tags": [
