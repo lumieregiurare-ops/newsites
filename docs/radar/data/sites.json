@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T04:30:14.986Z",
+  "updatedAt": "2026-10-20T05:00:17.658Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 905,
+  "total": 906,
   "regions": {
-    "jp": 747,
+    "jp": 748,
     "global": 158
   },
   "categories": [
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 62
+      "count": 63
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 40
+      "count": 41
     },
     {
       "id": "goods",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ebd2aaf0746e",
+      "url": "https://ahwoo.com/brutal",
+      "host": "ahwoo.com",
+      "region": "global",
+      "title": "DayZ",
+      "headline": "「DayZ」開発者らのゲーム開発フレームワーク「BRUTAL」がオープンソースで公開。商用利用もロイヤリティ不要，「RimWorld」の独自エンジンにも採用",
+      "description": "「DayZ」開発者らのゲーム開発フレームワーク「BRUTAL」がオープンソースで公開。商用利用もロイヤリティ不要，「RimWorld」の独自エンジンにも採用",
+      "publishedAt": "2026-10-20T04:51:57.000Z",
+      "addedAt": "2026-10-20T05:00:17.658Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999101/20261020016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "2bd838aa9266",
       "url": "https://killsec.net/",
@@ -667,7 +695,7 @@
       "region": "jp",
       "title": "海の魚、ぜんぶ釣る",
       "headline": "1億匹の魚を釣り切れ。インクリメンタル釣りACT「海の魚、ぜんぶ釣る」，体験版をSteamで本日配信",
-      "description": "釣って、強くなって、また釣る。4〜5時間で遊び切れる短編インクリメンタル釣りアクション。",
+      "description": "Steam無料体験版を配信中。釣って稼いでスキルを強化する楽しさを30〜40分程度で体験。Windows / macOS・Steam Deck対応、全14言語。",
       "publishedAt": "2026-10-19T04:51:36.000Z",
       "addedAt": "2026-10-19T05:00:17.348Z",
       "source": "4Gamer",
@@ -8930,7 +8958,7 @@
       "id": "95200af24978",
       "url": "https://hazgamesstudio.com/",
       "host": "hazgamesstudio.com",
-      "region": "global",
+      "region": "jp",
       "title": "BrainWash: Zombie Cleanup",
       "headline": "ゾンビの血や臓物を“お片付け”するお掃除シミュゲーム『BrainWash: Zombie Cleanup』Steamストアページが公開中。殺した後もやることだらけ",
       "description": "They rose from the grave. You",
@@ -26184,6 +26212,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/20/173826.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/20/189551.html"
         }
       ],
       "tags": [
