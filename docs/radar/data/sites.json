@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T05:30:16.581Z",
+  "updatedAt": "2026-10-20T06:00:14.906Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 907,
+  "total": 908,
   "regions": {
-    "jp": 748,
+    "jp": 749,
     "global": 159
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 164
+      "count": 165
     },
     {
       "id": "event",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "Inside",
     "Game*Spark",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c4b91ee2cb44",
+      "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/honda",
+      "host": "gu-global.com",
+      "region": "jp",
+      "title": "Honda",
+      "headline": "GUが「Honda」とコラボ！80～90年代モトクロスレーサーのユニフォームやCRシリーズをモチーフにしたコレクション",
+      "description": "GUが「Honda」とコラボ！80～90年代モトクロスレーサーのユニフォームやCRシリーズをモチーフにしたコレクション",
+      "publishedAt": "2026-10-20T06:00:04.000Z",
+      "addedAt": "2026-10-20T06:00:14.906Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/20/189555.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "7186897f52ec",
       "url": "https://archeagechronicles.xlgames.com/en/",
