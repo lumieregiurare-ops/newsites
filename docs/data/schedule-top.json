@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:00:32.436Z",
+  "updatedAt": "2026-10-20T15:30:32.103Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,23 @@
     }
   ],
   "releases": [
+    {
+      "id": "a53815b25b73",
+      "title": "ヴィクセン357",
+      "date": "2026-10-23",
+      "dateText": "2026年10月23日",
+      "sortKey": "2026-10-23",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://www.ratalaikagames.com/games.php?id=vixen357",
+      "image": "",
+      "maker": "",
+      "headline": "往年のロボットSRPG『ヴィクセン357』移植版がPC/コンソール向けに10月23日リリース！",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/10/21/173865.html"
+    },
     {
       "id": "0737fcee90be",
       "title": "ウィンドランナーGo!",
@@ -252,21 +269,6 @@
       "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
-    },
-    {
-      "id": "d743133d93d7",
-      "title": "鉄道にっぽん！ RealPro",
-      "date": "2026-11-05",
-      "dateText": "2026年11月5日",
-      "sortKey": "2026-11-05",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
-      "image": "",
-      "maker": "",
-      "headline": "“実写映像”の鉄道ゲーム『鉄道にっぽん！ RealPro』のDLCが11月5日に配信決定。名古屋の地下鉄・リニモ・ゆとりーとラインを逆方向に運転できる",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610143c"
     }
   ],
   "prereg": [
@@ -458,6 +460,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-20T15:30:32.103Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ヴィクセン357",
+      "url": "https://www.ratalaikagames.com/games.php?id=vixen357",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年10月23日"
+    },
+    {
       "at": "2026-10-20T15:00:32.436Z",
       "type": "new",
       "label": "新規",
@@ -516,16 +530,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月12日"
-    },
-    {
-      "at": "2026-10-20T08:30:31.694Z",
-      "type": "new",
-      "label": "新規",
-      "title": "トロピコ7",
-      "url": "https://kalypsomedia.co.jp/tropico7/",
-      "image": "",
-      "platforms": [],
-      "to": "2027年1月28日"
     }
   ]
 }
