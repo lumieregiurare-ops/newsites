@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T06:00:14.906Z",
+  "updatedAt": "2026-10-20T06:30:19.520Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 908,
+  "total": 909,
   "regions": {
-    "jp": 749,
+    "jp": 750,
     "global": 159
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 205
+      "count": 206
     },
     {
       "id": "release",
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 63
+      "count": 64
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 41
+      "count": 42
     },
     {
       "id": "goods",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "941ffbb9950d",
+      "url": "https://gamepavilion.jp/meetup/",
+      "host": "gamepavilion.jp",
+      "region": "jp",
+      "title": "ゲームパビリオンjp2027春",
+      "headline": "大阪・梅田で開催の「ゲームパビリオンjp2027春」出展者募集開始―安価な「ターンキーブース」も新設",
+      "description": "ゲームパビリオンjpでは、ゲーム開発者同志の交流を目的に定期的に交流会を開催しています。 会場はその時々で変わりますがゲーム会社の会議室などをお借りして開催しています。 At Game Pavilion JP, we r...",
+      "publishedAt": "2026-10-20T06:23:38.000Z",
+      "addedAt": "2026-10-20T06:30:19.520Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/20/28390.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "company",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gamepavilion.jp/wp-content/uploads/2025/12/72ea58f3ccebb1dee0ebbe46790c9817-1024x576.png"
+    },
     {
       "id": "c4b91ee2cb44",
       "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/honda",
@@ -26272,6 +26301,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/20/189551.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/981/G098183/20261020017/"
         }
       ],
       "tags": [
