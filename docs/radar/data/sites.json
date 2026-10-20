@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T21:00:18.477Z",
+  "updatedAt": "2026-10-20T21:30:19.343Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 930,
+  "total": 931,
   "regions": {
-    "jp": 771,
+    "jp": 772,
     "global": 159
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 100
+      "count": 101
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 324
+      "count": 325
     },
     {
       "id": "indie",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9908683dbc92",
+      "url": "https://www.paydaythegame.com/",
+      "host": "paydaythegame.com",
+      "region": "jp",
+      "title": "PAYDAY: The Heist",
+      "headline": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
+      "description": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
+      "publishedAt": "2026-10-20T21:30:03.000Z",
+      "addedAt": "2026-10-20T21:30:19.343Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/21/173868.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "c2c8611c0df3",
       "url": "https://www.ratalaikagames.com/games.php?id=vixen357",
