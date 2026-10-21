@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:00:17.236Z",
+  "updatedAt": "2026-10-21T07:30:17.856Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 111
+      "count": 112
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 101
+      "count": 102
     },
     {
       "id": "campaign",
@@ -500,10 +500,12 @@
       ],
       "tags": [
         "ゲーム",
-        "周年"
+        "周年",
+        "事前登録"
       ],
       "categories": [
         "anniversary",
+        "prereg",
         "release"
       ],
       "platforms": [],
@@ -6738,12 +6740,18 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261010n"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105105/20261017006/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "prereg",
         "release"
       ],

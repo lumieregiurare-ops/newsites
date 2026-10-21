@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T07:00:34.831Z",
+  "updatedAt": "2026-10-21T07:30:32.293Z",
   "platforms": [
     {
       "id": "switch",
@@ -321,6 +321,26 @@
       "trackId": "6790322035"
     },
     {
+      "id": "9908683dbc92",
+      "title": "PAYDAY: The Heist",
+      "url": "https://www.paydaythegame.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-20T21:30:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
+      "description": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/10/21/173868.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "c2c8611c0df3",
       "title": "ヴィクセン357",
       "url": "https://www.ratalaikagames.com/games.php?id=vixen357",
@@ -434,34 +454,21 @@
       "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2295bca7a66",
-      "title": "桃源暗鬼 Crimson Inferno",
-      "url": "https://tougenanki-crimsoninferno.com/",
-      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-15T09:08:58.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
-      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
-      "appleId": "6476490037",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6476490037",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6476490037"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-21T07:30:32.293Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PAYDAY: The Heist",
+      "url": "https://www.paydaythegame.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-21T07:00:34.831Z",
       "type": "prereg_start",
@@ -523,20 +530,6 @@
         "pc"
       ],
       "to": "2026年10月23日"
-    },
-    {
-      "at": "2026-10-20T15:00:32.436Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ストライカーズ1945",
-      "url": "https://edia-game.com/psikyo",
-      "image": "https://static.wixstatic.com/media/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg",
-      "platforms": [
-        "switch2",
-        "ps",
-        "arcade"
-      ],
-      "to": "2027年2月18日"
     }
   ]
 }

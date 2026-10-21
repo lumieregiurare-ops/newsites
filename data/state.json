@@ -533,7 +533,7 @@
       "headline": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
       "description": "強盗FPSの元祖『PAYDAY: The Heist』が発売15周年を記念したアップデートを実施！",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -552,11 +552,13 @@
       ],
       "tags": [
         "ゲーム",
-        "周年"
+        "周年",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
         "anniversary",
+        "prereg",
         "release"
       ],
       "points": null,
@@ -1437,8 +1439,8 @@
       "points": null,
       "image": "https://www.fwinc.co.jp/guestbook/images/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -1524,8 +1526,8 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 3,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
+      "metaAttempts": 4,
+      "checkedAt": "2026-10-21T07:30:17.856Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -3938,8 +3940,8 @@
       "points": null,
       "image": "https://kuukiyomi-korea.com/wp-content/uploads/2026/07/Logo_KUUKIYOMI-WORLD-KoreaVer_260722_WebTOPver_1920x850.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -4027,8 +4029,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/90/87/1e908717-8ca3-ba88-9bfd-11c21c9722cd/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -4071,8 +4073,8 @@
       "points": null,
       "image": "https://yurucamp-game.enish.com/img/og.png?202306150519",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -4114,8 +4116,8 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 7,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
+      "metaAttempts": 8,
+      "checkedAt": "2026-10-21T07:30:17.856Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -5704,8 +5706,8 @@
       "points": null,
       "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -5839,8 +5841,8 @@
       "points": null,
       "image": "https://m2stg.com/wp/wp-content/uploads/2024/04/m2stg_social_image.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -5883,8 +5885,8 @@
       "points": null,
       "image": "https://ebi-cdn.kanade.party/aa2-ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -9783,13 +9785,19 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261010n"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105105/20261017006/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年"
       ],
       "phCategories": [],
       "categories": [
+        "anniversary",
         "prereg",
         "release"
       ],
@@ -24003,8 +24011,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/a4/ab/11a4ab6a-bf23-31fa-c156-6d1d6d7396e9/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T06:30:19.520Z",
-      "ogFetchedAt": "2026-10-20T06:30:19.520Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -24046,8 +24054,8 @@
       "points": null,
       "image": "https://tideward.app/og-image.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -24089,8 +24097,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "regionDetected": true,
       "platforms": [
         "mobile"
@@ -24131,12 +24139,13 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
       "ogFetchedAt": "2026-10-20T07:00:18.524Z",
       "ogDescription": true,
       "platforms": [
         "mobile"
-      ]
+      ],
+      "metaError": "ETIMEDOUT fetch failed"
     },
     {
       "id": "f57f2985f1c5",
@@ -24171,8 +24180,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "regionDetected": true,
       "platforms": [
         "mobile"
@@ -24215,8 +24224,8 @@
       "points": null,
       "image": "https://hytale.com/images/logo.webp",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -25041,8 +25050,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/ea/58/cbea58fa-ad94-7e92-c8e1-6c5888d7a797/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -25082,8 +25091,8 @@
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cb/56/e5cb5659-5c41-78ad-1953-b211a6a03794/AppIcon-1x_U007epad-0-11-0-85-220-0.png/1200x630wa.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -25125,8 +25134,8 @@
       "points": null,
       "image": "https://www.donuts.ne.jp/wp-content/uploads/2021/04/ogp.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-20T07:00:18.524Z",
-      "ogFetchedAt": "2026-10-20T07:00:18.524Z",
+      "checkedAt": "2026-10-21T07:30:17.856Z",
+      "ogFetchedAt": "2026-10-21T07:30:17.856Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [

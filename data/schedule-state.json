@@ -2550,6 +2550,10 @@
     "ヴィクセン357": {
       "at": "2026-10-21T07:00:35.061Z",
       "entry": null
+    },
+    "PAYDAY The Heist": {
+      "at": "2026-10-21T07:30:32.582Z",
+      "entry": null
     }
   },
   "titles": {
@@ -40466,6 +40470,19 @@
       "sortKey": "2026-10-23",
       "prereg": false,
       "firstSeen": "2026-10-21T07:00:34.831Z"
+    },
+    "boom!buster": {
+      "title": "BOOM! Buster",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-21T07:30:32.293Z"
+    },
+    "payday:theheist": {
+      "title": "PAYDAY: The Heist",
+      "prereg": true,
+      "firstSeen": "2026-10-21T07:30:32.293Z"
     }
   },
   "changeLog": [
@@ -44342,6 +44359,18 @@
         "pc"
       ],
       "to": "10月23日リリース"
+    },
+    {
+      "at": "2026-10-21T07:30:32.293Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PAYDAY: The Heist",
+      "url": "https://www.paydaythegame.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
