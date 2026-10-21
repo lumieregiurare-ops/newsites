@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T15:00:20.802Z",
+  "updatedAt": "2026-10-21T15:30:17.542Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 956,
+  "total": 957,
   "regions": {
-    "jp": 793,
+    "jp": 794,
     "global": 163
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 338
+      "count": 339
     },
     {
       "id": "indie",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 32
+      "count": 33
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 28
+      "count": 29
     },
     {
       "id": "xbox",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "89d9cd8d0ff1",
+      "url": "https://www.cs.furyu.jp/crymelight/",
+      "host": "cs.furyu.jp",
+      "region": "jp",
+      "title": "クライムライト／CRYMELIGHT",
+      "headline": "「クライムライト／CRYMELIGHT」，体験版をSwitch2/PS5向けに本日配信。第1章をまるごと収録，想定プレイ時間は1.5〜3時間以上",
+      "description": "「クライムライト／CRYMELIGHT」，体験版をSwitch2/PS5向けに本日配信。第1章をまるごと収録，想定プレイ時間は1.5〜3時間以上",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "addedAt": "2026-10-21T15:30:17.542Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/002/G100207/20261021043/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "3b045fa2dd02",
       "url": "https://www.marvelrivals.com/",
