@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T02:30:56.848Z",
+  "updatedAt": "2026-10-21T03:00:33.773Z",
   "platforms": [
     {
       "id": "switch",
@@ -222,6 +222,24 @@
       "sourceUrl": "https://www.4gamer.net/games/987/G098756/20261002049/"
     },
     {
+      "id": "ad13dc5134ff",
+      "title": "農家は Replace() されました",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 0,
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "url": "https://farmer.ateo.ch/",
+      "image": "https://farmer.ateo.ch/img/og_image.jpg",
+      "maker": "",
+      "headline": "プログラミングで農場を自動化するゲーム『農家は Replace() されました』モバイル版が11月2日にリリース決定。Steam版は「圧倒的に好評」",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261021n"
+    },
+    {
       "id": "99cfee10432d",
       "title": "Loftia",
       "date": "2026-11-03",
@@ -254,24 +272,34 @@
       "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
-    },
-    {
-      "id": "871c2b29e785",
-      "title": "World of Warcraft: Forever",
-      "date": "2026-11-04",
-      "dateText": "2026年11月4日",
-      "sortKey": "2026-11-04",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://worldofwarcraft.blizzard.com/en-gb/forever/",
-      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt766f7698aedb7b7f/6a9bc5882437ed5612d4878f/Open_Graph_-_Camelot.jpg",
-      "maker": "",
-      "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
     }
   ],
   "prereg": [
+    {
+      "id": "58159dbe365d",
+      "title": "農家は Replace() されました",
+      "url": "https://farmer.ateo.ch/",
+      "image": "https://farmer.ateo.ch/img/og_image.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "startedAt": "2026-10-21T02:39:03.000Z",
+      "releaseText": "2026年11月2日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "プログラミングで農場を自動化するゲーム『農家は Replace() されました』モバイル版が11月2日にリリース決定。Steam版は「圧倒的に好評」",
+      "description": "Program a drone. Automate a farm. Watch your code do the work. On iOS and Android.",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261021n",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6790322035",
+        "preorder": true,
+        "releaseDate": "2026-11-02T08:00:00Z"
+      },
+      "trackId": "6790322035"
+    },
     {
       "id": "4c96c1d1eb2a",
       "title": "リラックマ ごゆるりパズル",
@@ -431,34 +459,35 @@
       "sourceUrl": "http://www.gamespark.jp/article/2026/10/13/173541.html",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "8f48e4c129fe",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-13T01:00:00.000Z",
-      "releaseText": "2026年10月23日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "とログインボーナスの内容が公開",
-      "headline": "事前登録特典はガチャチケット3,000連分など！ 放置系RPG『ウィンドランナーGo!』が10月中リリース予定",
-      "description": "爽快感MAX！ハクスラ・放置系RPG！今なら3000連無料",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/13/game/3126980.php",
-      "appleId": "6757690255",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6757690255",
-        "preorder": true,
-        "releaseDate": "2026-10-23T07:00:00Z"
-      },
-      "trackId": "6757690255"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-21T03:00:33.773Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "農家は Replace() されました",
+      "url": "https://farmer.ateo.ch/",
+      "image": "https://farmer.ateo.ch/img/og_image.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "App Store 2026年11月2日"
+    },
+    {
+      "at": "2026-10-21T03:00:33.773Z",
+      "type": "new",
+      "label": "新規",
+      "title": "農家は Replace() されました",
+      "url": "https://farmer.ateo.ch/",
+      "image": "https://farmer.ateo.ch/img/og_image.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2026年11月2日"
+    },
     {
       "at": "2026-10-20T15:30:32.103Z",
       "type": "new",
@@ -508,28 +537,6 @@
         "mobile"
       ],
       "to": "App Store 2027年1月27日"
-    },
-    {
-      "at": "2026-10-20T10:30:37.463Z",
-      "type": "new",
-      "label": "新規",
-      "title": "リラックマ ごゆるりパズル",
-      "url": "https://jp.rilakkuma-puzzle.com/",
-      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2027年1月27日"
-    },
-    {
-      "at": "2026-10-20T10:00:36.262Z",
-      "type": "new",
-      "label": "新規",
-      "title": "FF14",
-      "url": "https://lp.roland.jp/bridgecast_gamingdevice/bridgecast_ff/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年12月12日"
     }
   ]
 }

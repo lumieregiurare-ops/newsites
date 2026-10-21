@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-21T02:30:17.706Z",
+  "updatedAt": "2026-10-21T03:00:16.599Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 933,
+  "total": 934,
   "regions": {
     "jp": 774,
-    "global": 159
+    "global": 160
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 326
+      "count": 327
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 121
+      "count": 122
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 287
+      "count": 288
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "AppBank",
-    "電ファミニコゲーマー",
     "4Gamer",
     "GameBusiness.jp",
     "App Store",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "58159dbe365d",
+      "url": "https://farmer.ateo.ch/",
+      "host": "farmer.ateo.ch",
+      "region": "global",
+      "title": "農家は Replace() されました",
+      "headline": "プログラミングで農場を自動化するゲーム『農家は Replace() されました』モバイル版が11月2日にリリース決定。Steam版は「圧倒的に好評」",
+      "description": "Program a drone. Automate a farm. Watch your code do the work. On iOS and Android.",
+      "publishedAt": "2026-10-21T02:39:03.000Z",
+      "addedAt": "2026-10-21T03:00:16.599Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261021n"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://farmer.ateo.ch/img/og_image.jpg"
+    },
     {
       "id": "800abc6e688b",
       "url": "https://wain99online.com/collections/cat-ip",
