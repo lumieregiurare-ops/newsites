@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T05:56:46.610Z",
+  "updatedAt": "2026-10-21T06:30:15.080Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 942,
+  "total": 943,
   "regions": {
-    "jp": 780,
+    "jp": 781,
     "global": 162
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 332
+      "count": 333
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 290
+      "count": 291
     },
     {
       "id": "browser",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fc8bc4cc6f4e",
+      "url": "https://hearthstone.blizzard.com/ja-jp",
+      "host": "hearthstone.blizzard.com",
+      "region": "jp",
+      "title": "ハースストーン",
+      "headline": "「ハースストーン」，最新拡張版「黒の帝国の君臨」をリリース。全盛期の力を誇る4柱の旧神や新キーワード「合成」が登場",
+      "description": "シンプルにして深い。驚くほど楽しい。ハースストーンは、ブリザード・エンターテイメントがお贈りする、テンポの速い戦略的カードゲームだ。Windows、Mac、iPad、iOSスマートフォン、Androidスマートフォンに対応。",
+      "publishedAt": "2026-10-21T06:01:50.000Z",
+      "addedAt": "2026-10-21T06:30:15.080Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/209/G020915/20261021018/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-475d770302527dbab7708dca2af05afd.jpg"
+    },
     {
       "id": "5f60cdbe7e54",
       "url": "https://www.enigmaequation.com/",
