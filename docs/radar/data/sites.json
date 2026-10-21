@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-21T03:00:16.599Z",
+  "updatedAt": "2026-10-21T03:30:17.152Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 934,
+  "total": 939,
   "regions": {
-    "jp": 774,
-    "global": 160
+    "jp": 778,
+    "global": 161
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 109
+      "count": 110
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 169
+      "count": 170
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 327
+      "count": 330
     },
     {
       "id": "indie",
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 66
+      "count": 67
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 42
+      "count": 43
     },
     {
       "id": "goods",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 288
+      "count": 290
     },
     {
       "id": "browser",
@@ -121,17 +121,162 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "Game*Spark",
+    "4Gamer",
     "Inside",
     "AppBank",
-    "4Gamer",
+    "電ファミニコゲーマー",
+    "Game*Spark",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1a653bf2bf0a",
+      "url": "https://graytail.concode.co/",
+      "host": "graytail.concode.co",
+      "region": "jp",
+      "title": "Among Us",
+      "headline": "「Among Us」開発元のファンドが出資する「Graytail」，発売時期が2027年末に決定。女性パイロットの行方を追うミステリーアクションADV",
+      "description": "A rogue-like dungeon crawler",
+      "publishedAt": "2026-10-21T03:25:41.000Z",
+      "addedAt": "2026-10-21T03:30:17.152Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105178/20261021006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "348afe40f8a8",
+      "url": "http://fallout4.com/",
+      "host": "fallout4.com",
+      "region": "global",
+      "title": "Fallout Shelter",
+      "headline": "「Fallout Shelter」に赤ちゃんデスクローが登場。「Fallout 4」は脱出ゲーム風ダンジョンや海底コズミックホラーなど3つの新Creationsを発表",
+      "description": "Bethesda Game Studios, welcomes you to Fallout. Find your next adventure and never leave the wasteland.",
+      "publishedAt": "2026-10-21T03:14:41.000Z",
+      "addedAt": "2026-10-21T03:30:17.152Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/304/G030407/20261021007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "90c1227157de",
+      "url": "https://www.roland.com/jp/products/bridge_cast_final_fantasy_xiv_edition/",
+      "host": "roland.com",
+      "region": "jp",
+      "title": "FF14",
+      "headline": "「シャキ音」や「F.A.T.E.」突入時のサウンドが収録！配信に便利な『FF14』コラボのゲーミング・オーディオミキサーが12月12日発売",
+      "description": "BRIDGE CAST FINAL FANTASY XIV Edition: Dual Bus Gaming Mixer - ファイナルファンタジーXIVファンに捧げるゲーミング・オーディオ・ミキサー",
+      "publishedAt": "2026-10-21T03:10:03.000Z",
+      "addedAt": "2026-10-21T03:30:17.152Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/21/189586.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.roland.com/assets/images/products/main/bridge_cast_final_fantasy_xiv_edition_top_main.jpg"
+    },
+    {
+      "id": "17fa02077477",
+      "url": "https://play.google.com/store/apps/details?id=com.herodna.oversea",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "デュエットナイトアビス",
+      "headline": "『デュエットナイトアビス』新バージョン「暁を歩む」配信開始！ 雷属性「リズム・焔を纏う者」が登場",
+      "description": "『デュエットナイトアイビス』公式コミュニティ",
+      "publishedAt": "2026-10-21T03:10:00.000Z",
+      "addedAt": "2026-10-21T03:30:17.152Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/21/game/3138423.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/NOwVVddZzd-yW6bavQZquPU1cvmg_-e64jLMn_polk6dfRARInLq5dvabw1NrPHnopztvB6b11PoWfwRZREa2w=s0-br30"
+    },
+    {
+      "id": "cf2c0d8da51f",
+      "url": "http://ordinaryoddness.com/",
+      "host": "ordinaryoddness.com",
+      "region": "jp",
+      "title": "人間奇想計画",
+      "headline": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
+      "description": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
+      "publishedAt": "2026-10-21T03:00:43.000Z",
+      "addedAt": "2026-10-21T03:30:17.152Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2610212b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "58159dbe365d",
       "url": "https://farmer.ateo.ch/",

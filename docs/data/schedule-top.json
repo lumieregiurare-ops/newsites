@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T03:00:33.773Z",
+  "updatedAt": "2026-10-21T03:30:29.864Z",
   "platforms": [
     {
       "id": "switch",
@@ -276,6 +276,26 @@
   ],
   "prereg": [
     {
+      "id": "cf2c0d8da51f",
+      "title": "人間奇想計画",
+      "url": "http://ordinaryoddness.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-21T03:00:43.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
+      "description": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/kikakuthetower/2610212b",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "58159dbe365d",
       "title": "農家は Replace() されました",
       "url": "https://farmer.ateo.ch/",
@@ -439,29 +459,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/?p=1660390",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "d7a7fc4b467e",
-      "title": "LSD",
-      "url": "https://itch.io/jam/lsdjam-2026",
-      "image": "https://img.itch.zone/aW1nLzMwNzk5MDgxLnBuZw==/original/Be%2FXYj.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-13T07:45:02.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "初代PSの怪作『LSD』発売日を祝うゲームジャム「LSDJAM」2026年も開催。「ドリーム・エミュレーター」なゲームが集結へ―参加者を募集中",
-      "description": "A game jam from 2026-10-21 to 2027-03-01 hosted by Figglewatts. Welcome to the annual LSDJAM event for 2026! This is th…",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/10/13/173541.html",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-21T03:30:29.864Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "人間奇想計画",
+      "url": "http://ordinaryoddness.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-21T03:00:33.773Z",
       "type": "prereg_start",
@@ -525,18 +537,6 @@
         "switch2"
       ],
       "to": "2026年10月27日"
-    },
-    {
-      "at": "2026-10-20T10:30:37.463Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "リラックマ ごゆるりパズル",
-      "url": "https://jp.rilakkuma-puzzle.com/",
-      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2027年1月27日"
     }
   ]
 }

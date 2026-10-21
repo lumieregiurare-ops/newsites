@@ -2502,6 +2502,46 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/00/be/ce00bec2-c319-f3b6-09fc-c54395bde031/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "Fallout Shelter": {
+      "at": "2026-10-21T03:30:30.154Z",
+      "entry": {
+        "trackId": "991153141",
+        "title": "Fallout Shelter",
+        "artist": "Bethesda",
+        "genres": [
+          "シミュレーション",
+          "ロールプレイング"
+        ],
+        "releaseDate": "2015-06-15T03:42:53Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id991153141",
+        "sellerUrl": "http://www.falloutshelter.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/f4/5d/7af45dd7-7e0b-f576-b7c2-760bfed1849e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "デュエットナイトアビス": {
+      "at": "2026-10-21T03:30:31.527Z",
+      "entry": {
+        "trackId": "6744096826",
+        "title": "デュエットナイトアビス",
+        "artist": "Hong Kong Spiral Rising Technology Co., Limited",
+        "genres": [
+          "アクション",
+          "ロールプレイング"
+        ],
+        "releaseDate": "2025-10-25T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6744096826",
+        "sellerUrl": "https://duetnightabyss.dna-panstudio.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/81/2f/3e812f32-2d87-8a2e-813e-d43b4e5bf1b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "人間奇想計画": {
+      "at": "2026-10-21T03:30:32.869Z",
+      "entry": null
     }
   },
   "titles": {
@@ -40349,6 +40389,11 @@
       "sortKey": "2026-11-10",
       "prereg": false,
       "firstSeen": "2026-10-21T03:00:33.773Z"
+    },
+    "人間奇想計画": {
+      "title": "人間奇想計画",
+      "prereg": true,
+      "firstSeen": "2026-10-21T03:30:29.864Z"
     }
   },
   "changeLog": [
@@ -44201,6 +44246,18 @@
         "mobile"
       ],
       "to": "2026年11月2日"
+    },
+    {
+      "at": "2026-10-21T03:30:29.864Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "人間奇想計画",
+      "url": "http://ordinaryoddness.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
