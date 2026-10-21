@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T00:59:46.119Z",
+  "updatedAt": "2026-10-21T01:30:16.523Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 931,
+  "total": 933,
   "regions": {
-    "jp": 772,
+    "jp": 774,
     "global": 159
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 108
+      "count": 109
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 168
+      "count": 169
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 325
+      "count": 326
     },
     {
       "id": "indie",
@@ -122,16 +122,71 @@
   ],
   "sources": [
     "Game*Spark",
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "800abc6e688b",
+      "url": "https://wain99online.com/collections/cat-ip",
+      "host": "wain99online.com",
+      "region": "jp",
+      "title": "活俠傳",
+      "headline": "『活俠傳』虞小梅の梅酒と郁竹のコーラシロップが登場！コラボ商品が予約受付中―両キャラルートを追加した大型アプデもゲーム本編にて配信済み",
+      "description": "VTuber・作品・クリエイターとのコラボ商品です。",
+      "publishedAt": "2026-10-21T01:17:46.000Z",
+      "addedAt": "2026-10-21T01:30:16.523Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/21/173875.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ef69823300dc",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/peanuts-heartwarming",
+      "host": "uniqlo.com",
+      "region": "jp",
+      "title": "スヌーピー",
+      "headline": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！仲間たちとの心温まるシーンをデザインした全6種",
+      "description": "ユニクロから「スヌーピー」の新作UTが12月中旬発売！仲間たちとの心温まるシーンをデザインした全6種",
+      "publishedAt": "2026-10-21T01:15:03.000Z",
+      "addedAt": "2026-10-21T01:30:16.523Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/21/189580.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "9908683dbc92",
       "url": "https://www.paydaythegame.com/",
