@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T10:00:16.494Z",
+  "updatedAt": "2026-10-21T10:30:18.553Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 952,
+  "total": 953,
   "regions": {
-    "jp": 789,
+    "jp": 790,
     "global": 163
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 335
+      "count": 336
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 13
+      "count": 14
     },
     {
       "id": "company",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "GameBusiness.jp",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "87fae6d16279",
+      "url": "https://hinanlab.com/games/fear-diagnosis/",
+      "host": "hinanlab.com",
+      "region": "jp",
+      "title": "恐応研式 恐怖診断",
+      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
+      "description": "あなたが何を怖がるのかを、恐怖応用技術研究所が診断します。",
+      "publishedAt": "2026-10-21T10:02:03.000Z",
+      "addedAt": "2026-10-21T10:30:18.553Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/052/G105221/20261021037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg"
+    },
     {
       "id": "a0620a31954c",
       "url": "https://apps.apple.com/jp/app/id6503918400",

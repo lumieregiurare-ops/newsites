@@ -2031,7 +2031,7 @@
       "entry": null
     },
     "ニンニク入れますか？": {
-      "at": "2026-10-18T10:00:35.708Z",
+      "at": "2026-10-21T10:30:39.188Z",
       "entry": {
         "trackId": "6819722885",
         "title": "ニンニク入れますか？ - 二郎系コールゲーム",
@@ -2255,7 +2255,7 @@
       }
     },
     "桃源暗鬼 Crimson Inferno": {
-      "at": "2026-10-18T10:00:34.351Z",
+      "at": "2026-10-21T10:30:37.821Z",
       "entry": {
         "trackId": "6476490037",
         "title": "桃源暗鬼 Crimson Inferno",
@@ -40502,7 +40502,7 @@
     },
     "payday:theheist": {
       "title": "PAYDAY: The Heist",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-21T07:30:32.293Z"
     },
     "snd": {
@@ -40528,6 +40528,22 @@
       "sortKey": "2026-10-23",
       "prereg": false,
       "firstSeen": "2026-10-21T10:00:31.135Z"
+    },
+    "lostcamp": {
+      "title": "Lost Camp",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-21T10:30:37.607Z"
+    },
+    "恐応研式恐怖診断": {
+      "title": "恐応研式 恐怖診断",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
+      "prereg": false,
+      "firstSeen": "2026-10-21T10:30:37.607Z"
     }
   },
   "changeLog": [
@@ -44404,6 +44420,16 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-21T10:30:37.607Z",
+      "type": "new",
+      "label": "新規",
+      "title": "恐応研式 恐怖診断",
+      "url": "https://hinanlab.com/games/fear-diagnosis/",
+      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg",
+      "platforms": [],
+      "to": "2026年12月1日"
     }
   ],
   "initialized": true,
