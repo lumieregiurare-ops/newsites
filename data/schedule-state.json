@@ -2571,6 +2571,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/c1/b5/4dc1b505-a634-38bc-acd1-4a21e45f6b03/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "Side by Side": {
+      "at": "2026-10-21T10:00:31.479Z",
+      "entry": null
     }
   },
   "titles": {
@@ -35438,7 +35442,7 @@
     },
     "projectsign：astraea": {
       "title": "PROJECT SIGN：Astraea",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-16T03:00:36.757Z"
     },
     "frogsjumptogether": {
@@ -40096,7 +40100,7 @@
       "dateText": "2026年10月23日",
       "date": "2026-10-23",
       "sortKey": "2026-10-23",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-20T15:30:32.103Z"
     },
     "selkie'ssalvage&co.": {
@@ -40516,6 +40520,14 @@
       "sortKey": "2026-10-28",
       "prereg": false,
       "firstSeen": "2026-10-21T09:00:30.885Z"
+    },
+    "holyshroom!": {
+      "title": "Holy Shroom!",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": false,
+      "firstSeen": "2026-10-21T10:00:31.135Z"
     }
   },
   "changeLog": [
@@ -44375,6 +44387,18 @@
       "label": "事前登録開始",
       "title": "PAYDAY: The Heist",
       "url": "https://www.paydaythegame.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-21T10:00:31.135Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PROJECT SIGN：Astraea",
+      "url": "https://sin-of-astraea.com/",
       "image": "",
       "platforms": [
         "mobile"
