@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T10:30:18.553Z",
+  "updatedAt": "2026-10-21T11:00:18.428Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 953,
+  "total": 954,
   "regions": {
-    "jp": 790,
+    "jp": 791,
     "global": 163
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 336
+      "count": 337
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 294
+      "count": 295
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "AppBank",
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d04a678f2c60",
+      "url": "https://play.google.com/store/apps/details?id=jp.snaplace.joseki",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "式霊の書",
+      "headline": "高校数学の全51単元がパズルに！ 数式を手で動かして解く『式霊の書』がiOS／Android向けに配信開始",
+      "description": "壊れた数式を指でなおして、定石を覚える",
+      "publishedAt": "2026-10-21T10:40:00.000Z",
+      "addedAt": "2026-10-21T11:00:18.428Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/21/game/3139361.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/P6IRwte-mozekasI0SPpivUuzX2lgt8u11HhIYyJEEl28e9fZPnUs8mXDizaWh0NQP0wfHSzwBLFpDkg3mavpgo=s0-br30"
+    },
     {
       "id": "87fae6d16279",
       "url": "https://hinanlab.com/games/fear-diagnosis/",
@@ -619,6 +651,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/21/189586.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/21/173902.html"
         }
       ],
       "tags": [
@@ -6764,7 +6800,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://play-lh.googleusercontent.com/BWJxYwzJFPOgdrBX_4DIspL90JuxuScIw3S8DpdE95_8SFuXkbYIJ0macz5p-a_M4f33QbisdbfZJBFHL6arlQ=s0-br30"
+      "image": "https://play-lh.googleusercontent.com/pdv4ajv4O-ow2BVpWopiMy9XSHXTJSEzi1gjTeD-mg4V3bkM6dmu8qJv_-Poupg5mQ6wNXlhJRuXaH-8SE91=s0-br30"
     },
     {
       "id": "6821644f264f",
@@ -13097,7 +13133,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=40"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=44"
     },
     {
       "id": "3ad3cbdc2046",
