@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T11:00:18.428Z",
+  "updatedAt": "2026-10-21T11:30:18.958Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 954,
+  "total": 955,
   "regions": {
-    "jp": 791,
+    "jp": 792,
     "global": 163
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 337
+      "count": 338
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "54ebc1b54a13",
+      "url": "https://www.mycopunkgame.com/",
+      "host": "mycopunkgame.com",
+      "region": "jp",
+      "title": "Mycopunk: 俺たちキノコバスターズ",
+      "headline": "おんぼろロボットたちがキノコ災害に挑む4人協力型アクションFPS「Mycopunk: 俺たちキノコバスターズ」，本日正式リリース",
+      "description": "Join the New Atlas Hazard Crew, a squad of odd robots with unique gadgets, and rid the galaxy of a deadly fungal menace…",
+      "publishedAt": "2026-10-21T11:03:12.000Z",
+      "addedAt": "2026-10-21T11:30:18.958Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/928/G092823/20261021040/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mycopunkgame.com/images/keyart-mycopunk.png"
+    },
     {
       "id": "d04a678f2c60",
       "url": "https://play.google.com/store/apps/details?id=jp.snaplace.joseki",
@@ -18081,7 +18108,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10202026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10212026"
     },
     {
       "id": "33c0ff2f4868",
