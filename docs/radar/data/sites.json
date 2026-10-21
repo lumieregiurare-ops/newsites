@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T09:00:18.503Z",
+  "updatedAt": "2026-10-21T09:30:19.856Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 946,
+  "total": 948,
   "regions": {
-    "jp": 783,
+    "jp": 785,
     "global": 163
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 172
+      "count": 173
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 216
+      "count": 217
     },
     {
       "id": "release",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "13b21ee699d7",
+      "url": "https://mojolnir.jp/",
+      "host": "mojolnir.jp",
+      "region": "jp",
+      "title": "8BIT STAGE-T",
+      "headline": "8bitの世界から飛び出したギター「8BIT STAGE-T」が日本でも取り扱い開始。マルチエフェクター「Pocket Master」がプレゼントされるキャンペーンも実施中",
+      "description": "Mojolnirの日本公式サイト。ドット絵の輪郭を持つSTAGE-T 8-BIT SERIESを中心に、TIPSY・CLASSIC・GALAXY・FUSIONのエレキギターとベース。HOTMUSICでお求めいただけます。",
+      "publishedAt": "2026-10-21T09:30:19.856Z",
+      "addedAt": "2026-10-21T09:30:19.856Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1665666"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mojolnir.jp/assets/img/og/index.jpg"
+    },
     {
       "id": "0eb41be9ef23",
       "url": "https://apps.apple.com/jp/app/id6760796215",
@@ -166,6 +194,33 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d1/d9/2dd1d933-bde2-93dc-67b0-148b6bf3c7b2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "a9fe562b0134",
+      "url": "https://www.kagaku-adv.com/sp/sgfinalmission_osaka/",
+      "host": "kagaku-adv.com",
+      "region": "jp",
+      "title": "シュタゲ",
+      "headline": "『シュタゲ』新作『STEINS;GATE RE:BOOT』のポップアップイベントが大阪・日本橋で11月21、22日に開催決定。オカリンとクリスのラバーマットなど販売へ",
+      "description": "公式ポップアップイベントが大阪にて開催決定！イベント名ポップアップイベント「STEINS;GATE ファイナルミッション大阪」開催日時2026年11月21日（土...",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "addedAt": "2026-10-21T09:30:19.856Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610212j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.kagaku-adv.com/wp/wp-content/uploads/2026/10/event_top_osaka.jpg"
     },
     {
       "id": "46c29a2a7660",
@@ -5556,7 +5611,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://mtg-jp.com/assets/images/common/og-image-20260908.png"
+      "image": "https://mtg-jp.com/assets/images/common/og-image-20261013.png"
     },
     {
       "id": "e174d0d94c91",
@@ -5583,7 +5638,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=40"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=44"
     },
     {
       "id": "3fd841df8e29",
@@ -22374,6 +22429,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/041/G104128/20260917033/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610212x"
         }
       ],
       "tags": [
