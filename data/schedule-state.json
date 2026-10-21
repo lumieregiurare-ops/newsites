@@ -2546,6 +2546,10 @@
     "ハースストーン": {
       "at": "2026-10-21T06:30:29.633Z",
       "entry": null
+    },
+    "ヴィクセン357": {
+      "at": "2026-10-21T07:00:35.061Z",
+      "entry": null
     }
   },
   "titles": {
@@ -40071,7 +40075,7 @@
       "dateText": "2026年10月23日",
       "date": "2026-10-23",
       "sortKey": "2026-10-23",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-20T15:30:32.103Z"
     },
     "selkie'ssalvage&co.": {
@@ -40438,6 +40442,30 @@
       "sortKey": "2026-10-23",
       "prereg": false,
       "firstSeen": "2026-10-21T06:30:29.370Z"
+    },
+    "echoesofpinebridge": {
+      "title": "Echoes of Pinebridge",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": false,
+      "firstSeen": "2026-10-21T07:00:34.831Z"
+    },
+    "farmbusinesssimulatordemo": {
+      "title": "Farm Business Simulator Demo",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": false,
+      "firstSeen": "2026-10-21T07:00:34.831Z"
+    },
+    "techrunners": {
+      "title": "TechRunners",
+      "dateText": "2026年10月23日",
+      "date": "2026-10-23",
+      "sortKey": "2026-10-23",
+      "prereg": false,
+      "firstSeen": "2026-10-21T07:00:34.831Z"
     }
   },
   "changeLog": [
@@ -44302,6 +44330,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-21T07:00:34.831Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ヴィクセン357",
+      "url": "https://www.ratalaikagames.com/games.php?id=vixen357",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "to": "10月23日リリース"
     }
   ],
   "initialized": true,
