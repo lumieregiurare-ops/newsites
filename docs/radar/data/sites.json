@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-21T22:30:18.602Z",
+  "updatedAt": "2026-10-21T23:00:15.118Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 958,
+  "total": 959,
   "regions": {
     "jp": 795,
-    "global": 163
+    "global": 164
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 202
+      "count": 203
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 296
+      "count": 297
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "App Store",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
     "Game*Spark",
-    "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d655ceb99063",
+      "url": "https://www.efunfront.com/",
+      "host": "efunfront.com",
+      "region": "global",
+      "title": "キタキタ王様",
+      "headline": "EFUN FRONT COMPANY LIMITED / カード・ストラテジー · App Store 新着",
+      "description": "EFUN FRONT COMPANY LIMITED / カード・ストラテジー · App Store 新着",
+      "publishedAt": "2026-10-21T23:00:21.082Z",
+      "addedAt": "2026-10-21T23:00:15.118Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6768868898"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "89d9cd8d0ff1",
       "url": "https://www.cs.furyu.jp/crymelight/",
