@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T08:30:20.777Z",
+  "updatedAt": "2026-10-21T09:00:18.503Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 945,
+  "total": 946,
   "regions": {
-    "jp": 782,
+    "jp": 783,
     "global": 163
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 171
+      "count": 172
     },
     {
       "id": "event",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 68
+      "count": 69
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 199
+      "count": 200
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 291
+      "count": 292
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
-    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,41 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0eb41be9ef23",
+      "url": "https://apps.apple.com/jp/app/id6760796215",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "リトルキティ・ビッグシティ",
+      "headline": "新宿の巨大ビジョンに『リトルキティ・ビッグシティ』の猫が登場！ Switch有機ELモデルが当たるキャンペーンも10月29日まで",
+      "description": "Double Dagger Studioの「リトルキティ・ビッグシティ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「リトルキティ・ビッグシティ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-21T09:00:00.000Z",
+      "addedAt": "2026-10-21T09:00:18.503Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/21/game/3138742.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "特設サイト",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d1/d9/2dd1d933-bde2-93dc-67b0-148b6bf3c7b2/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "46c29a2a7660",
       "url": "https://www.maruchan.co.jp/news_topics/entry/2026/10/_15_1.html",
