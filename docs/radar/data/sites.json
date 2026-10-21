@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-21T05:00:16.339Z",
+  "updatedAt": "2026-10-21T05:30:17.542Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 940,
+  "total": 942,
   "regions": {
-    "jp": 779,
-    "global": 161
+    "jp": 780,
+    "global": 162
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 41
+      "count": 42
     },
     {
       "id": "prereg",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 214
+      "count": 215
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 330
+      "count": 332
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "GameBusiness.jp",
     "4Gamer",
+    "GameBusiness.jp",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5f60cdbe7e54",
+      "url": "https://www.enigmaequation.com/",
+      "host": "enigmaequation.com",
+      "region": "jp",
+      "title": "SteamNEXTフェス 10月エディション",
+      "headline": "次に遊びたいゲームがここにあるかも！ 約70本の体験版を遊んで厳選した「SteamNEXTフェス 10月エディション」注目作品まとめ",
+      "description": "Lore Play as Operatives, secret agents who oversee a world governed by machine ideology. Destroy enemies opposing your …",
+      "publishedAt": "2026-10-21T05:14:44.000Z",
+      "addedAt": "2026-10-21T05:30:17.542Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/038/G003821/20261021009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uzuv7spMdlTtcAqXrD9o4VxPiJX4zgS_z9g79fSUQaQiWaIIYMY_Ndm70alqv4fNRZcOhmW7S9fEPDVGDCp5S3rXahd9Im9-YlgOMFAPbloaK6FABgDQ4bku9PQzJTyEptyKWzfHiXOm9pM1wkcYHxu7RbwzWy3pK8JtX74I-vCYZtayBSNX-Q1_c2LWQ=w16383"
+    },
+    {
+      "id": "41b1b683c8f0",
+      "url": "https://sinenstudio.co.jp/games/noah/",
+      "host": "sinenstudio.co.jp",
+      "region": "jp",
+      "title": "PROTOCOL: NOAH",
+      "headline": "5日間を繰り返すビジュアルノベル「PROTOCOL: NOAH」，11月の発売に向けてティザーサイトを公開。13本のエンディングのうち9本は「デスエンド」",
+      "description": "繰り返す死（絶望）の先にあるものは、誰が為の希望か―――",
+      "publishedAt": "2026-10-21T05:10:19.000Z",
+      "addedAt": "2026-10-21T05:30:17.542Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/051/G105188/20261021016/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sinenstudio.co.jp/games/noah/assets/ogp.webp?v=11"
+    },
     {
       "id": "39ca9eee7fdf",
       "url": "https://cerebralvalley.ai/e/built-with-claude-japan2026",
@@ -2821,7 +2878,7 @@
       "region": "jp",
       "title": "リネージュ",
       "headline": "2000年代初期の「リネージュ」を再現。「リネージュ クラシック」日本サービス決定，10月21日から事前登録開始",
-      "description": "『リネージュ クラシック』は、2000年代初期の『リネージュ』を原点に、当時の世界・戦い・つながりを現代に蘇らせるPC向けMMORPG。2026.10.21事前登録開始",
+      "description": "『リネージュ クラシック』は、2000年代初期の『リネージュ』を原点に、当時の世界・戦い・つながりを現代に蘇らせるPC向けMMORPG。現在、事前登録受付中。",
       "publishedAt": "2026-10-16T04:54:14.000Z",
       "addedAt": "2026-10-16T05:00:16.212Z",
       "source": "4Gamer",
@@ -9997,7 +10054,7 @@
       "id": "95200af24978",
       "url": "https://hazgamesstudio.com/",
       "host": "hazgamesstudio.com",
-      "region": "jp",
+      "region": "global",
       "title": "BrainWash: Zombie Cleanup",
       "headline": "ゾンビの血や臓物を“お片付け”するお掃除シミュゲーム『BrainWash: Zombie Cleanup』Steamストアページが公開中。殺した後もやることだらけ",
       "description": "They rose from the grave. You",
