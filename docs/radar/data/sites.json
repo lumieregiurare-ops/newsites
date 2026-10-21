@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T04:00:15.402Z",
+  "updatedAt": "2026-10-21T04:30:16.426Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 939,
+  "total": 940,
   "regions": {
-    "jp": 778,
+    "jp": 779,
     "global": 161
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 213
+      "count": 214
     },
     {
       "id": "release",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "GameBusiness.jp",
     "App Store",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "39ca9eee7fdf",
+      "url": "https://cerebralvalley.ai/e/built-with-claude-japan2026",
+      "host": "cerebralvalley.ai",
+      "region": "jp",
+      "title": "Claude",
+      "headline": "「Claude」Anthropic、日本向け初のオンラインハッカソン開催！眠っていたアイデアを「Claude Code」で形に、未経験者も参加可能",
+      "description": "Monday, Nov 2, 2026 · Remote: Anthropic’s first nationwide online hackathon in Japan will challenge up to 250 selected …",
+      "publishedAt": "2026-10-21T04:13:51.000Z",
+      "addedAt": "2026-10-21T04:30:16.426Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/21/28404.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1792372761731"
+    },
     {
       "id": "1a653bf2bf0a",
       "url": "https://graytail.concode.co/",
