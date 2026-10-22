@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T10:00:17.586Z",
+  "updatedAt": "2026-10-22T10:30:16.978Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 971,
+  "total": 974,
   "regions": {
-    "jp": 802,
-    "global": 169
+    "jp": 803,
+    "global": 171
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 176
+      "count": 177
     },
     {
       "id": "event",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 72
+      "count": 73
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 206
+      "count": 207
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 144
+      "count": 145
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 303
+      "count": 304
     },
     {
       "id": "browser",
@@ -121,17 +121,77 @@
     }
   ],
   "sources": [
+    "App Store",
+    "4Gamer",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "AppBank",
     "Inside",
-    "電ファミニコゲーマー",
-    "4Gamer",
-    "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "46fe56d3ca3c",
+      "url": "https://www.lightcon.net/",
+      "host": "lightcon.net",
+      "region": "global",
+      "title": "ウィンドランナーGo!：放置系RPG",
+      "headline": "LightCON Co., Ltd. / ロールプレイング · App Store 新着",
+      "description": "LightCON Co., Ltd. / ロールプレイング · App Store 新着",
+      "publishedAt": "2026-10-22T10:30:23.036Z",
+      "addedAt": "2026-10-22T10:30:16.978Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6757690255"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "cd6b1b48a249",
+      "url": "https://www.cassettebeasts.com/",
+      "host": "cassettebeasts.com",
+      "region": "global",
+      "title": "Cassette Beasts 2002",
+      "headline": "カセットに記録したモンスターに変身して戦うRPG「Cassette Beasts 2002」，ゲーム内容を紹介する最新映像を公開",
+      "description": "The critically-acclaimed monster-collecting RPG of 2023 returns, now with over 250 beasts to record and fuse! Import yo…",
+      "publishedAt": "2026-10-22T10:21:40.000Z",
+      "addedAt": "2026-10-22T10:30:16.978Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103749/20261022039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1fe66ef5ed38",
       "url": "https://mages.co.jp/",
@@ -158,6 +218,33 @@
       "platforms": [],
       "points": null,
       "image": "https://mages.co.jp/wp-content/uploads/2019/11/ogp.png"
+    },
+    {
+      "id": "85cc4657696c",
+      "url": "https://www.project-voltage.jp/",
+      "host": "project-voltage.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "『ポケモン』と初音ミクのコラボ新曲はryo （supercell）氏が作詞・作曲を担当！ ポケミク最新曲「LEGENDS」が公開",
+      "description": "ポケモンと初音ミクが音楽でコラボレーション！「ポケモン feat. 初音ミク Project VOLTAGE High↑」の公式サイトです。",
+      "publishedAt": "2026-10-22T09:56:35.000Z",
+      "addedAt": "2026-10-22T10:30:16.978Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610222x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.crypton.co.jp/cfm/wp-content/themes/crypton/images/project-voltage/OGP_1200x630.png?20250402"
     },
     {
       "id": "b4206064e3cf",
@@ -239,6 +326,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/044/G104428/20261022040/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/22/189655.html"
         }
       ],
       "tags": [
@@ -30027,6 +30118,10 @@
         {
           "name": "AppBank",
           "url": "https://www.appbank.net/2026/09/21/game/3111045.php"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610222v"
         }
       ],
       "tags": [
