@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T09:00:17.126Z",
+  "updatedAt": "2026-10-22T09:30:21.051Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 967,
+  "total": 970,
   "regions": {
-    "jp": 798,
+    "jp": 801,
     "global": 169
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 113
+      "count": 114
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 220
+      "count": 221
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 204
+      "count": 206
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 302
+      "count": 303
     },
     {
       "id": "browser",
@@ -121,17 +121,105 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
-    "Game*Spark",
     "AppBank",
-    "App Store",
     "Inside",
+    "電ファミニコゲーマー",
+    "4Gamer",
+    "Game*Spark",
+    "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b4206064e3cf",
+      "url": "https://apps.apple.com/jp/app/id6787982572",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "アズールプロミリア",
+      "headline": "『アズールプロミリア』事前登録者数が2,500万人突破！ キャラクター「アニス」を全ユーザーに配布",
+      "description": "YOSTAR LIMITEDの「アズールプロミリア」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アズールプロミリア」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-22T09:15:00.000Z",
+      "addedAt": "2026-10-22T09:30:21.051Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/22/game/3140250.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/3f/01/b43f011e-fb9c-a7c4-f1cc-416bf23e91fd/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "bf46b04908f6",
+      "url": "https://baseshop.onepiece-base.com/item",
+      "host": "baseshop.onepiece-base.com",
+      "region": "jp",
+      "title": "ワンピース",
+      "headline": "「ワンピース」背中に“正義”の二文字！本格仕様の「海軍のコート」ほか、「ボンボンドロップシール」など公式ショップ限定商品が一挙公開",
+      "description": "ONE PIECE BASE SHOPで取り扱う商品の一覧をご覧いただけます。",
+      "publishedAt": "2026-10-22T09:10:03.000Z",
+      "addedAt": "2026-10-22T09:30:21.051Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/22/189648.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://baseshop.onepiece-base.com/ogp.jpg"
+    },
+    {
+      "id": "a8295d5ba31e",
+      "url": "https://www.entergram.co.jp/koyorenium/",
+      "host": "entergram.co.jp",
+      "region": "jp",
+      "title": "コヨリニウム",
+      "headline": "ホロライブの博衣こよりさんが主演と監修を務めるノベルゲーム『コヨリニウム』オフィシャルサイトが公開。ストーリー・キャラクター情報・イベントスチルなどが解禁",
+      "description": "「コヨリニウム」オフィシャルサイト",
+      "publishedAt": "2026-10-22T09:00:41.000Z",
+      "addedAt": "2026-10-22T09:30:21.051Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610222g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.entergram.co.jp/koyorenium/assets/img/ogp.jpg"
+    },
     {
       "id": "da31170ced92",
       "url": "https://bang-dream.bushimo.jp/",
@@ -8561,6 +8649,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/09/173402.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610222h"
         }
       ],
       "tags": [
