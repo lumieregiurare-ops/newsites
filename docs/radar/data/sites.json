@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T21:30:16.878Z",
+  "updatedAt": "2026-10-22T22:00:19.413Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 980,
+  "total": 981,
   "regions": {
-    "jp": 807,
+    "jp": 808,
     "global": 173
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 114
+      "count": 115
     },
     {
       "id": "anniversary",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "App Store",
     "4Gamer",
-    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5ad02c7d0478",
+      "url": "https://www.exterminauts.com/ja/index.html",
+      "host": "exterminauts.com",
+      "region": "jp",
+      "title": "Exterminauts",
+      "headline": "異星で害獣駆除業務！工具武器で戦う3人協力PvEシューター『Exterminauts』11月13日から開始のベータテスト参加者募集中",
+      "description": "現場流にギアを決めろ！究極の3人協力型PvEシューター『Exterminauts』に加われ。エイリアンの巣を漁り、危険な害獣を駆除し、汚れ仕事で稼げ。銀河の害獣狩りは今日からだ。今すぐウィッシュリストに追加しよう！",
+      "publishedAt": "2026-10-22T22:00:03.000Z",
+      "addedAt": "2026-10-22T22:00:19.413Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/173968.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.exterminauts.com/images/share.jpg"
+    },
     {
       "id": "a50982c2230f",
       "url": "http://www.survivor-ace.com/",
