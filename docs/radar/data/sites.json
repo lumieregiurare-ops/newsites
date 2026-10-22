@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T10:30:16.978Z",
+  "updatedAt": "2026-10-22T11:00:19.794Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 974,
+  "total": 975,
   "regions": {
-    "jp": 803,
+    "jp": 804,
     "global": 171
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 344
+      "count": 345
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "App Store",
     "4Gamer",
+    "App Store",
     "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "42d2df65c047",
+      "url": "https://digitalsungames.com/games/moonlighter-2/",
+      "host": "digitalsungames.com",
+      "region": "jp",
+      "title": "Moonlighter 2: The Endless Vault",
+      "headline": "「Moonlighter 2: The Endless Vault」，日本語公式サイトを公開。パッケージ版の発売日は2027年1月21日に変更",
+      "description": "「Moonlighter 2: The Endless Vault」，日本語公式サイトを公開。パッケージ版の発売日は2027年1月21日に変更",
+      "publishedAt": "2026-10-22T10:56:40.000Z",
+      "addedAt": "2026-10-22T11:00:19.794Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/030/G103092/20261022046/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "46fe56d3ca3c",
       "url": "https://www.lightcon.net/",
@@ -4666,7 +4693,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://storage.googleapis.com/content-creatorscamp-production/game/image/49972147_0?1792445490899"
+      "image": "https://storage.googleapis.com/content-creatorscamp-production/game/image/49972147_0?1792582608649"
     },
     {
       "id": "1ae8c9d519c1",
