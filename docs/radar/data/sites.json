@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T03:00:15.287Z",
+  "updatedAt": "2026-10-22T03:30:15.986Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 959,
+  "total": 960,
   "regions": {
-    "jp": 794,
+    "jp": 795,
     "global": 165
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 339
+      "count": 340
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 297
+      "count": 298
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "AppBank",
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e7205de1728c",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0237",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "L少女☆歌劇 レヴュースタァライト -The SLOT-",
+      "headline": "『L少女☆歌劇 レヴュースタァライト -The SLOT-』が「777Real」に登場！ 10月20日配信開始",
+      "description": "L少女☆歌劇 レヴュースタァライト -The SLOT-登場",
+      "publishedAt": "2026-10-22T03:05:00.000Z",
+      "addedAt": "2026-10-22T03:30:15.986Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/22/game/3138714.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/PFYcWGXPMQ0ATWxHOK8kD9eK-TmWnKx7xfnmAQpw18sRy-AFkX8Yv1l8qjFBuzVi8Mx0-ElqJ4p7MQU7n-CfCQ=s0-br30"
+    },
     {
       "id": "92fd20fa959e",
       "url": "http://www.bioware.com/",
