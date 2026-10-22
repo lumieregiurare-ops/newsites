@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-22T14:30:20.302Z",
+  "updatedAt": "2026-10-22T15:00:24.099Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（10/21 比）",
+      "note": "Steam の同時接続数ランキング（10/22 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（10/21 比）",
+      "note": "App Store（日本）の無料ゲームランキング（10/22 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -181,8 +181,8 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%AD%E3%82%BF%E3%82%AD%E3%82%BF%E7%8E%8B%E6%A7%98/id6768868898",
           "metric": "EFUN FRONT COMPANY LIMITED",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
+            "kind": "same",
+            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/fish-sort-puzzle-%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BD%E3%83%BC%E3%83%88%E6%B3%A1%E3%82%92%E6%B6%88%E3%81%9D%E3%81%86/id6771681639",
           "metric": "Shycheese",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/cutie-sort-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%89%B2%E5%88%86%E3%81%91%E3%82%B2%E3%83%BC%E3%83%A0/id6796547048",
           "metric": "Ladaneta Games",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
