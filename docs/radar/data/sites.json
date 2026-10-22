@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-22T03:30:15.986Z",
+  "updatedAt": "2026-10-22T04:00:15.792Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 960,
+  "total": 961,
   "regions": {
     "jp": 795,
-    "global": 165
+    "global": 166
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 42
+      "count": 43
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 340
+      "count": 341
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 29
+      "count": 30
     },
     {
       "id": "xbox",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "AppBank",
     "App Store",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "94ef208482dc",
+      "url": "https://www.cruelmanstudio.com/phantom-blade-zero",
+      "host": "cruelmanstudio.com",
+      "region": "global",
+      "title": "Phantom Blade Zero",
+      "headline": "10月29日のリリースを控えるアクション「Phantom Blade Zero」，ローンチトレイラーを公開。2027年にはPS5パッケージ版が発売予定",
+      "description": "Coming Soon!",
+      "publishedAt": "2026-10-22T03:34:11.000Z",
+      "addedAt": "2026-10-22T04:00:15.792Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/709/G070944/20261022011/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "teaser"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/02c2a6_4ff93acb96da4437bc5194f327fd6a29%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/02c2a6_4ff93acb96da4437bc5194f327fd6a29%7Emv2.jpg"
+    },
     {
       "id": "e7205de1728c",
       "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0237",
@@ -272,6 +302,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/002/G100207/20261021043/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/22/173912.html"
         }
       ],
       "tags": [
