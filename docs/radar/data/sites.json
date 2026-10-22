@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T08:00:16.804Z",
+  "updatedAt": "2026-10-22T08:30:16.835Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 966,
+  "total": 967,
   "regions": {
-    "jp": 797,
+    "jp": 798,
     "global": 169
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 175
+      "count": 176
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 301
+      "count": 302
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "da31170ced92",
+      "url": "https://bang-dream.bushimo.jp/",
+      "host": "bang-dream.bushimo.jp",
+      "region": "jp",
+      "title": "バンドリ！ ガールズバンドパーティ！",
+      "headline": "「バンドリ！ ガールズバンドパーティ！」が「魔法少女ノ魔女裁判」とコラボ。10月29日配信の番組で詳細を発表",
+      "description": "「バンドリ！ ガールズバンドパーティ！」が「魔法少女ノ魔女裁判」とコラボ。10月29日配信の番組で詳細を発表",
+      "publishedAt": "2026-10-22T08:13:55.000Z",
+      "addedAt": "2026-10-22T08:30:16.835Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/356/G035692/20261022028/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "6fb5ed5681f8",
       "url": "https://nippon1.jp/consumer/honogurashi/",
@@ -4554,7 +4586,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/b2/4d/5db24dff-7da1-b80b-95fe-1af92e3eb45b/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/00/71/330071ab-2034-6727-6f14-35964887d515/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "286f4b522a06",
@@ -5353,7 +5385,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://www.amusement-center.com/project/egg/console/img/0147/og.jpg"
+      "image": "https://www.amusement-center.com/project/egg/console/img/0121/og.jpg"
     },
     {
       "id": "ee33aa01e156",
