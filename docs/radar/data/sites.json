@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-21T23:30:20.270Z",
+  "updatedAt": "2026-10-22T00:00:17.680Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 959,
+  "total": 958,
   "regions": {
-    "jp": 795,
+    "jp": 794,
     "global": 164
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 113
+      "count": 112
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 102
+      "count": 101
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 340
+      "count": 339
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 33
+      "count": 32
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 122
+      "count": 121
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "App Store",
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8c6b8728869f",
+      "url": "https://play.google.com/store/apps/details?id=com.tokyohammock.gravemark",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "Gravemark",
+      "headline": "縦持ち・片手で遊べるダークファンタジーハクスラ『Gravemark』Google Playで配信開始！",
+      "description": "潜るほど良い物が落ちる。けれど、持ち帰るまで自分の物にならない。縦持ち・片手のダークファンタジーハクスラ。",
+      "publishedAt": "2026-10-21T23:45:00.000Z",
+      "addedAt": "2026-10-22T00:00:17.680Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/22/game/3139597.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/6xB6mjGKeZM9-qtmpwHyUAG_MU7WwByrtou70pZmGS3YAjtv9Tt6iWgRzFZYv_Oc76CCBEZwfKMuycqKBMdMqQ=s0-br30"
+    },
     {
       "id": "d655ceb99063",
       "url": "https://www.efunfront.com/",
@@ -23631,41 +23662,6 @@
       "image": "https://artisimpact.happinet-games.com/wp-content/themes/artisimpact/img/shareimg_ja.jpg"
     },
     {
-      "id": "329cc253ab59",
-      "url": "https://games.parco.jp/",
-      "host": "games.parco.jp",
-      "region": "jp",
-      "title": "Finding Polka",
-      "headline": "ボールペンのみで描かれた世界で犬を探す高評価ゲーム『Finding Polka』Nintendo Switch版のリリースが決定。新ステージを含む大ボリュームのDLCも制作決定",
-      "description": "PARCO GAMESの公式サイトです。",
-      "publishedAt": "2026-09-17T01:00:33.000Z",
-      "addedAt": "2026-09-17T03:51:46.413Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609172n"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/975/G097539/20260918070/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "周年"
-      ],
-      "categories": [
-        "anniversary",
-        "release"
-      ],
-      "platforms": [
-        "switch"
-      ],
-      "points": null,
-      "image": "https://games.parco.jp/OGP.jpeg"
-    },
-    {
       "id": "b046270e59ac",
       "url": "https://www.dragamigames.co.jp/",
       "host": "dragamigames.co.jp",
@@ -29683,49 +29679,6 @@
       ],
       "points": null,
       "image": "https://ryzachat-ai.go-spiral.ai/assets/kv/ogp.jpg"
-    },
-    {
-      "id": "44606bbc605d",
-      "url": "https://konosuba-machisuba.com/",
-      "host": "konosuba-machisuba.com",
-      "region": "jp",
-      "title": "この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～",
-      "headline": "オリジナルストーリーを楽しめる新作「この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～」，スマホ＆PC向けに配信決定",
-      "description": "暁なつめ製作監修、三嶋くろね制作協力 オリジナルストーリーの公式新作ゲーム",
-      "publishedAt": "2026-07-24T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/027/G102766/20260724066/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609202c"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/06/188824.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg",
-        "release"
-      ],
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://konosuba-machisuba.com/ogp.png"
     }
   ]
 }
