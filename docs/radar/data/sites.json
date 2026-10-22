@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T07:30:18.866Z",
+  "updatedAt": "2026-10-22T08:00:16.804Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 965,
+  "total": 966,
   "regions": {
-    "jp": 796,
+    "jp": 797,
     "global": 169
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 219
+      "count": 220
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 343
+      "count": 344
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
-    "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6fb5ed5681f8",
+      "url": "https://nippon1.jp/consumer/honogurashi/",
+      "host": "nippon1.jp",
+      "region": "jp",
+      "title": "ほの暮しの庭",
+      "headline": "『ほの暮しの庭』主人公の誕生日イベントがいよいよ実装へ！農作業が楽になる「種まき機」や新たな家具の追加など、無料アップデート第2弾の詳細が発表",
+      "description": "暮らし、ときどき、―― 生活シミュレーション『ほの暮しの庭』 2026年7月30日(木)発売",
+      "publishedAt": "2026-10-22T08:00:04.000Z",
+      "addedAt": "2026-10-22T08:00:16.804Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261022z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg"
+    },
     {
       "id": "f87367d68356",
       "url": "https://www.morph.land/tmo21xx",
