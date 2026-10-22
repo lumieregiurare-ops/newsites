@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T19:30:16.538Z",
+  "updatedAt": "2026-10-22T20:00:18.199Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 979,
+  "total": 980,
   "regions": {
     "jp": 807,
-    "global": 172
+    "global": 173
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 209
+      "count": 210
     },
     {
       "id": "official",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "App Store",
     "4Gamer",
     "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
-    "App Store",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a50982c2230f",
+      "url": "http://www.survivor-ace.com/",
+      "host": "survivor-ace.com",
+      "region": "global",
+      "title": "ダダエース",
+      "headline": "Gorilla Games / エンターテインメント・カジュアル · App Store 新着",
+      "description": "Discover Survivor: Ace, explore the aircraft hangar, get the latest news and download the game on the App Store or Goog…",
+      "publishedAt": "2026-10-22T20:00:22.443Z",
+      "addedAt": "2026-10-22T20:00:18.199Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6789467258"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "228f1662984d",
       "url": "https://alawar.com/games/wall-world-strategy",
@@ -26177,7 +26210,7 @@
       "region": "jp",
       "title": "泊まれるモンスターボール",
       "headline": "「泊まれるモンスターボール」好きなポケモンと一緒にねむる照明演出など、詳細情報が公開。抽選で宿泊券が当たるキャンペーンも開催",
-      "description": "『Pokémon Sleep』は、スマートフォンを置くだけで、睡眠を計測・記録するゲームアプリです。睡眠リズムを整えて、ポケモンのいろいろな寝顔を見つけよう！",
+      "description": "Pokémon Sleep x NOT A HOTELが贈る、特別な滞在を北海道で。モンスターボールがポケモンにとって居心地のよい場所であるように、人にとっても極上の眠りとやすらぎを味わえる空間を目指して、 モンスターボール型ホテルを建築…",
       "publishedAt": "2026-09-15T07:18:03.000Z",
       "addedAt": "2026-09-15T08:59:53.531Z",
       "source": "電ファミニコゲーマー",
@@ -26195,9 +26228,7 @@
         "campaign",
         "event"
       ],
-      "platforms": [
-        "mobile"
-      ],
+      "platforms": [],
       "points": null,
       "image": "https://www.pokemonsleep.net/pokeball-hotel/assets/img/ogp.jpg"
     },
