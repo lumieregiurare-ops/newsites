@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T14:00:16.298Z",
+  "updatedAt": "2026-10-22T14:30:17.772Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 978,
+  "total": 979,
   "regions": {
-    "jp": 807,
+    "jp": 808,
     "global": 171
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 145
+      "count": 146
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "App Store",
-    "Game*Spark",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a5f7906b4c55",
+      "url": "https://shingekinobahamut.jp/",
+      "host": "shingekinobahamut.jp",
+      "region": "jp",
+      "title": "神撃のバハムート",
+      "headline": "『神撃のバハムート』PHP脆弱性対応メンテが1週間超の長期化と発表―複数世代バージョンアップで大変でも頑張る",
+      "description": "ソーシャルRPG「神撃のバハムート」のオフィシャルサイトです。",
+      "publishedAt": "2026-10-22T14:30:02.000Z",
+      "addedAt": "2026-10-22T14:30:17.772Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/22/173960.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://shingekinobahamut.jp/images/ogimage.jpg"
+    },
     {
       "id": "da7e37b85eb0",
       "url": "https://apps.apple.com/jp/app/id1438083823",
@@ -14513,7 +14540,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vbRVPukWdWpCHrwc--Q3P4Rk_Omco9fcV5HHM-1_4cME4yTZbazOYO696y8-92J2Rw_F0Sq8XcDW6KG9gmDZNLS-hR15Opx1lpJpA_qCqwdjeGzzmUm1beXo1l2nMspqFtNC2yMksmGlKJH0VHTypDJFmRhPHLNsWeoozh0E9FnkQXA1jQfUNNqr-90Y8=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sz9aiqS66EksnHovyMqukgE8ILimHHNYN9GfmBEf9qLfNE5VRxzBcojv401VVbqg-TZtM9_qMDSJSFg65q7yxr38H-anocPcVSPpz33FgudH_2IRckd12d1GeQydDfwI_pEhrOvUUzKfi_Vnd6B5q7j54VORFxL-OtmklCLmTuQjHFCgl8u4wEof27e4U=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
