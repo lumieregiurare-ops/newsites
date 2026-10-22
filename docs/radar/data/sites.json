@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T04:00:15.792Z",
+  "updatedAt": "2026-10-22T04:30:16.048Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 961,
+  "total": 964,
   "regions": {
-    "jp": 795,
-    "global": 166
+    "jp": 796,
+    "global": 168
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 341
+      "count": 342
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 71
+      "count": 72
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 203
+      "count": 204
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 122
+      "count": 123
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 298
+      "count": 300
     },
     {
       "id": "browser",
@@ -122,16 +122,73 @@
   ],
   "sources": [
     "4Gamer",
+    "Game*Spark",
     "AppBank",
     "App Store",
     "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
-    "Game*Spark",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8eec23a34ec3",
+      "url": "https://stupidneverdies.sega.com/ja/",
+      "host": "stupidneverdies.sega.com",
+      "region": "jp",
+      "title": "ステューピッド・ネバー・ダイズ",
+      "headline": "最弱ゾンビが敵を喰らって“爆速成長”。アクションRPG「ステューピッド・ネバー・ダイズ」本日発売。実写ローンチトレイラーも公開",
+      "description": "最弱ゾンビが敵を喰らい、能力を奪って成長する！痛快下剋上の“爆速成長”3DアクションRPG。GPTRACK50が贈る、唯一無二のゾンビアクション！",
+      "publishedAt": "2026-10-22T04:19:16.000Z",
+      "addedAt": "2026-10-22T04:30:16.048Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/968/G096854/20261022014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://stupidneverdies.sega.com/assets/images/ogp/ogp_jp.jpg"
+    },
+    {
+      "id": "fdf0c922fd91",
+      "url": "https://www.ea.com/",
+      "host": "ea.com",
+      "region": "global",
+      "title": "マスエフェクト",
+      "headline": "『マスエフェクト』『ドラゴンエイジ』洋RPGの名門BioWare、EAが閉鎖へ…『Mass Effect』新作も開発中止",
+      "description": "We exist to inspire the world through Play. Electronic Arts is a leading publisher of games on Console, PC and Mobile.",
+      "publishedAt": "2026-10-22T04:11:14.000Z",
+      "addedAt": "2026-10-22T04:30:16.048Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/22/173915.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://drop-assets.ea.com/images/1HZCdDmXw5qAxhLTi3wCq3/558f97428f5b4fe69a06ab91a0882fa6/eacom-news-featured-image-shapes-inverted.png?im=AspectCrop=(16,9),xPosition=0.2916666666666667,yPosition=0.2916666666666667"
+    },
     {
       "id": "94ef208482dc",
       "url": "https://www.cruelmanstudio.com/phantom-blade-zero",
@@ -2275,6 +2332,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ca/9a/e9ca9a87-3fbc-3474-704b-188140033cb8/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "4da4c4ba3db3",
+      "url": "https://amebacorp.com/",
+      "host": "amebacorp.com",
+      "region": "global",
+      "title": "アルミス・クロニクル",
+      "headline": "ameba games / ロールプレイング・エンターテインメント · App Store 新着",
+      "description": "ameba games / ロールプレイング・エンターテインメント · App Store 新着",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "addedAt": "2026-10-22T04:30:16.048Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821789477"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "7c0f2787f1d7",
