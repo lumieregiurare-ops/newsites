@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T06:30:15.798Z",
+  "updatedAt": "2026-10-22T07:00:18.475Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 964,
+  "total": 965,
   "regions": {
     "jp": 796,
-    "global": 168
+    "global": 169
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 342
+      "count": 343
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f87367d68356",
+      "url": "https://www.morph.land/tmo21xx",
+      "host": "morph.land",
+      "region": "global",
+      "title": "メタルギアソリッドV",
+      "headline": "「メタルギアソリッドV」と「ゼルダの伝説 風のタクト」から着想を得たステルスアクションADV「Trillionaire Mercenaries of 21XX」，体験版配信中",
+      "description": "Metal Gear Solid V meets Wind Waker: a stealth adventure across an open ocean.",
+      "publishedAt": "2026-10-22T06:42:27.000Z",
+      "addedAt": "2026-10-22T07:00:18.475Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/052/G105243/20261022025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://morph.land/games/tmo21xx-og.jpg"
+    },
     {
       "id": "8eec23a34ec3",
       "url": "https://stupidneverdies.sega.com/ja/",
@@ -10609,7 +10636,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639275219047686157"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639281880195667602"
     },
     {
       "id": "ec747cc06a3c",
