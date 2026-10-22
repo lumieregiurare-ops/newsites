@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-22T15:00:22.260Z",
+  "updatedAt": "2026-10-22T15:30:20.806Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 979,
+  "total": 980,
   "regions": {
     "jp": 808,
-    "global": 171
+    "global": 172
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 345
+      "count": 346
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "228f1662984d",
+      "url": "https://alawar.com/games/wall-world-strategy",
+      "host": "alawar.com",
+      "region": "global",
+      "title": "Wall World Strategy",
+      "headline": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+      "description": "Build and lead a colony on the surface of an endless Wall. Manage resources and your people, develop new technologies, …",
+      "publishedAt": "2026-10-22T15:18:44.000Z",
+      "addedAt": "2026-10-22T15:30:20.806Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/052/G105259/20261023001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a5f7906b4c55",
       "url": "https://shingekinobahamut.jp/",
