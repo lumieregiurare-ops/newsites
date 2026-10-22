@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T12:00:17.031Z",
+  "updatedAt": "2026-10-22T12:29:15.691Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 977,
+  "total": 978,
   "regions": {
-    "jp": 806,
+    "jp": 807,
     "global": 171
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 101
+      "count": 102
     },
     {
       "id": "campaign",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 208
+      "count": 209
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 305
+      "count": 306
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "da7e37b85eb0",
+      "url": "https://apps.apple.com/jp/app/id1438083823",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "オクトパストラベラー 大陸の覇者",
+      "headline": "「オクトパストラベラー 大陸の覇者」，6周年記念施策をスタート。商人バルジェロと薬師ソニアが登場し，新メインストーリーも実装",
+      "description": "SQUARE ENIXの「オクトパストラベラー 大陸の覇者」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「オクトパストラベラー 大陸の覇者」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-22T12:17:02.000Z",
+      "addedAt": "2026-10-22T12:29:15.691Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/452/G045223/20261022052/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/1b/f2/191bf2e1-eebd-8235-a523-26316dea4d61/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "1effefb44800",
       "url": "https://apps.apple.com/jp/app/id6740848451",
