@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T09:30:21.051Z",
+  "updatedAt": "2026-10-22T10:00:17.586Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 970,
+  "total": 971,
   "regions": {
-    "jp": 801,
+    "jp": 802,
     "global": 169
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 143
+      "count": 144
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "AppBank",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1fe66ef5ed38",
+      "url": "https://mages.co.jp/",
+      "host": "mages.co.jp",
+      "region": "jp",
+      "title": "アドベンチャ",
+      "headline": "アドベンチャーゲームの名手MAGES.は驚きの新作やリバイバル作品も準備中！？代表取締役社長・浅田誠氏インタビュー。溢れるゲーム愛を聞いた",
+      "description": "MAGES.(メージス)の公式ウェブサイトです。",
+      "publishedAt": "2026-10-22T10:00:03.000Z",
+      "addedAt": "2026-10-22T10:00:17.586Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/22/173945.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mages.co.jp/wp-content/uploads/2019/11/ogp.png"
+    },
     {
       "id": "b4206064e3cf",
       "url": "https://apps.apple.com/jp/app/id6787982572",
@@ -208,6 +235,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610222g"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/044/G104428/20261022040/"
         }
       ],
       "tags": [
@@ -1795,7 +1826,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/43/d8/fb43d8e7-8840-727f-b6dc-7e522a2bfe9b/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/27/4c/1b274c41-f44a-bae8-ac9f-849eb33b04eb/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9d77050a3c17",
