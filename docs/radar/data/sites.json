@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-22T11:00:19.794Z",
+  "updatedAt": "2026-10-22T11:30:15.990Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 975,
+  "total": 977,
   "regions": {
-    "jp": 804,
+    "jp": 806,
     "global": 171
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 177
+      "count": 178
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 221
+      "count": 222
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 207
+      "count": 208
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 304
+      "count": 305
     },
     {
       "id": "browser",
@@ -121,17 +121,77 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "Game*Spark",
-    "電ファミニコゲーマー",
-    "AppBank",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1effefb44800",
+      "url": "https://apps.apple.com/jp/app/id6740848451",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "RFオンラインネクスト",
+      "headline": "『RFオンラインネクスト』新ブーストサーバー「ノヴァ」オープン！ ハロウィンダンジョンは10月28日から",
+      "description": "Netmarble Corporationの「RFオンラインネクスト(RF ONLINE NEXT)」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「RFオンラインネクスト(RF ON…",
+      "publishedAt": "2026-10-22T11:20:00.000Z",
+      "addedAt": "2026-10-22T11:30:15.990Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/22/game/3140652.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/65/b4/6365b4c2-caa1-d266-b5ec-1abd1643c1f2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "6b3844468de3",
+      "url": "https://i-ku-kan.com/department",
+      "host": "i-ku-kan.com",
+      "region": "jp",
+      "title": "潜入百貨店",
+      "headline": "美術展スタッフに扮してスパイ任務に挑む没入型体験イベント『潜入百貨店』10月29日より松屋浅草にて開催。没入型体験レーベル「ヰ空間」の最新作",
+      "description": "サントリー×ヰ空間の没入型体験イベント。舞台は松屋浅草、2026年10月29日(木)～2026年12月14日(月)で開催中。平日4,000円、土日祝4,500円。",
+      "publishedAt": "2026-10-22T11:06:43.000Z",
+      "addedAt": "2026-10-22T11:30:15.990Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610222y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://storage.googleapis.com/production-os-assets/assets/6cb7491c-e285-4bc7-bf82-478a6970f88b"
+    },
     {
       "id": "42d2df65c047",
       "url": "https://digitalsungames.com/games/moonlighter-2/",
@@ -261,6 +321,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610222x"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999109/20261022047/"
         }
       ],
       "tags": [
@@ -13799,7 +13863,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=44"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=45"
     },
     {
       "id": "3ad3cbdc2046",
