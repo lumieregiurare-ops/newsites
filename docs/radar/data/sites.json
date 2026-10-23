@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:00:16.523Z",
+  "updatedAt": "2026-10-23T04:30:18.299Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 180
+      "count": 181
     },
     {
       "id": "event",
@@ -8968,6 +8968,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/09/189018.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/173984.html"
         }
       ],
       "tags": [
@@ -30077,10 +30081,12 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "特設サイト"
       ],
       "categories": [
         "prereg",
+        "campaign",
         "goods"
       ],
       "platforms": [
