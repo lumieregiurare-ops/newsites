@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T07:00:18.184Z",
+  "updatedAt": "2026-10-23T07:30:21.028Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 990,
+  "total": 992,
   "regions": {
-    "jp": 817,
+    "jp": 819,
     "global": 173
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 104
+      "count": 105
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 181
+      "count": 182
     },
     {
       "id": "event",
@@ -121,17 +121,71 @@
     }
   ],
   "sources": [
-    "AppBank",
+    "Inside",
     "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "Game*Spark",
     "App Store",
-    "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "482fbb461f90",
+      "url": "https://www.tohotheater.jp/campaign/godzillaminuszero-goods.html",
+      "host": "tohotheater.jp",
+      "region": "jp",
+      "title": "ゴジラ-0.0",
+      "headline": "お値段17,800円！映画「ゴジラ-0.0」公開記念ポップコーンボックスが数量限定販売へ、迫力の顔デザインドリンクカップも",
+      "description": "お値段17,800円！映画「ゴジラ-0.0」公開記念ポップコーンボックスが数量限定販売へ、迫力の顔デザインドリンクカップも",
+      "publishedAt": "2026-10-23T07:30:02.000Z",
+      "addedAt": "2026-10-23T07:30:21.028Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189701.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "14749f4ba628",
+      "url": "https://www.takahashishoten.co.jp/zannen/?srsltid=AYCX9vKHkD1JrXHdgG-UQNsrGlVv058EgT70lTC85RAa-4779Ob_9FWQ",
+      "host": "takahashishoten.co.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』と「ざんねんないきもの辞典」がまさかのコラボ！『ざんねんなまもの事典』をSNSなどで順次公開へ",
+      "description": "ざんねんないきもの事典は思わずだれかに言いたくなる！生き物のオモシロ情報が満載！",
+      "publishedAt": "2026-10-23T07:14:57.000Z",
+      "addedAt": "2026-10-23T07:30:21.028Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610232p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://common/img/base/ogp_zannen.jpg"
+    },
     {
       "id": "eefd5065d1d5",
       "url": "https://play.google.com/store/apps/details?id=com.colyinc.sparklinkstars",
@@ -18960,6 +19014,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/22/189624.html"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6771652722"
         }
       ],
       "tags": [
@@ -18967,7 +19025,9 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "シミュレーション",
+        "ロールプレイング"
       ],
       "categories": [
         "prereg",
