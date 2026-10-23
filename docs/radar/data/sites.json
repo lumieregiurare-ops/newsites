@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T11:00:17.767Z",
+  "updatedAt": "2026-10-23T11:30:16.676Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1004,
+  "total": 1005,
   "regions": {
-    "jp": 831,
+    "jp": 832,
     "global": 173
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 116
+      "count": 115
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 106
+      "count": 107
     },
     {
       "id": "campaign",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 151
+      "count": 152
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 312
+      "count": 313
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "Game*Spark",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "62352636e7b1",
+      "url": "https://www.konami.com/games/castlevania/jp/ja/fc_free_app",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "悪魔城ドラキュラ",
+      "headline": "【明日まで無料】初代『悪魔城ドラキュラ』スマホ向け無料配布は10月24日一杯で終了！40周年の重み感じるシリーズの始まりをいつでもお手軽にプレイ",
+      "description": "KONAMIのアクションゲーム「Castlevania」シリーズの情報をお届けするポータルサイトです。",
+      "publishedAt": "2026-10-23T11:15:03.000Z",
+      "addedAt": "2026-10-23T11:30:16.676Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/174010.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.konami.com/games/castlevania/s/img/sns_castlevania.jpg"
+    },
     {
       "id": "527c2df1f3b9",
       "url": "https://wonder.sega.jp/",
@@ -15495,7 +15528,7 @@
       "region": "jp",
       "title": "CoD: MW4",
       "headline": "『CoD: MW4』、『CS』や『VALORANT』ライクな新マルチプレイモード「Collateral」発表。装備とマネーを管理してラウンド勝利を目指す",
-      "description": "Pre-order Call of Duty: Modern Warfare 4 now.",
+      "description": "Get Call of Duty: Modern Warfare 4 now.",
       "publishedAt": "2026-09-30T03:30:03.000Z",
       "addedAt": "2026-09-30T03:30:19.170Z",
       "source": "Game*Spark",
@@ -15509,11 +15542,11 @@
         "ゲーム"
       ],
       "categories": [
-        "prereg"
+        "official"
       ],
       "platforms": [],
       "points": null,
-      "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blackops7/meta/MW4_LP_Meta.webp"
+      "image": "https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw4/meta/MW4_LP_Meta.webp"
     },
     {
       "id": "7ec26ad3c5cb",
