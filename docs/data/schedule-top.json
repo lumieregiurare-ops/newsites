@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:30:29.651Z",
+  "updatedAt": "2026-10-23T05:00:29.573Z",
   "platforms": [
     {
       "id": "switch",
@@ -55,25 +55,6 @@
       "headline": "往年のロボットSRPG『ヴィクセン357』移植版がPC/コンソール向けに10月23日リリース！",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/10/21/173865.html"
-    },
-    {
-      "id": "0737fcee90be",
-      "title": "ウィンドランナーGo!",
-      "date": "2026-10-23",
-      "dateText": "2026年10月23日",
-      "sortKey": "2026-10-23",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "maker": "",
-      "headline": "事前登録特典はガチャチケット3,000連分など！ 放置系RPG『ウィンドランナーGo!』が10月中リリース予定",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/13/game/3126980.php",
-      "announcedText": "2026年10月",
-      "dateSource": "appstore"
     },
     {
       "id": "0da155e96960",
@@ -272,6 +253,24 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6690fb8e7d90",
+      "title": "ディスコ エリジウム",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 0,
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "url": "https://zeroparades.com/",
+      "image": "",
+      "maker": "",
+      "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
     }
   ],
   "prereg": [
@@ -463,6 +462,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-23T05:00:29.573Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月23日",
+      "to": "2026年10月"
+    },
+    {
       "at": "2026-10-22T17:00:38.609Z",
       "type": "new",
       "label": "新規",
@@ -517,18 +529,6 @@
         "switch"
       ],
       "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "The Dark Queen of Mortholme",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135942",
-      "image": "https://img-eshop.cdn.nintendo.net/i/86139f2c15e0043ca6c51f34fda9d2d98192c70551bf5d8bd77587dfd1eca672.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
     }
   ]
 }

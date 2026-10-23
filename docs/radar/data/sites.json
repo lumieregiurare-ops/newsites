@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T04:30:18.299Z",
+  "updatedAt": "2026-10-23T05:00:16.918Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 987,
+  "total": 989,
   "regions": {
-    "jp": 814,
+    "jp": 816,
     "global": 173
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 103
+      "count": 104
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 349
+      "count": 351
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 307
+      "count": 308
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,67 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e1c709c5e58c",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "俺アラ",
+      "headline": "『俺アラ』2.5周年の大型アップデート「BEYOND」実施！ 新SSRハンター「後藤清臣」＆継承者「ベルベット」登場",
+      "description": "2.5周年記念「BEYOND」アップデート！",
+      "publishedAt": "2026-10-23T04:45:00.000Z",
+      "addedAt": "2026-10-23T05:00:16.918Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/23/game/3141204.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "周年",
+        "iOS"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/HFAS7l2186tgRJUiK6PsXa7rrYI0i4JnaG7-be_vXMOJVxYSc5rGW91EG08vYMH6V5WAYivnwsi9VyhrkBnf=s0-br30"
+    },
+    {
+      "id": "d778f05b3b62",
+      "url": "https://zenless.hoyoverse.com/ja-jp/?af_sub5=sns&pid=CM_Twitter&is_retargeting=TRUE&af_reengagement_window=lifetime",
+      "host": "zenless.hoyoverse.com",
+      "region": "jp",
+      "title": "ゼンレスゾーンゼロ",
+      "headline": "『ゼンレスゾーンゼロ』「サンブリンガー（CV:大原さやか）」のキャラクター紹介が公開！炎のような属性で、鋭御エージェントとして登場へ",
+      "description": "『ゼンレスゾーンゼロ』Ver.3.3「もう一度、空へと飛び立って」正式リリース！ログイン任務を完了するとガチャ20回分が受取可能。新規ユーザーには最大ガチャ160回分をゲットするチャンスも！",
+      "publishedAt": "2026-10-23T04:27:03.000Z",
+      "addedAt": "2026-10-23T05:00:16.918Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610232c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fastcdn.hoyoverse.com/mi18n/nap_global/m20261008hy2hoy3400/upload/7a852387a611aa9c114da31234f53445_5965970420593703694.jpg"
+    },
     {
       "id": "2a81ec36d4c3",
       "url": "https://www.cloudedleopardent.com/game/13z/jp/",

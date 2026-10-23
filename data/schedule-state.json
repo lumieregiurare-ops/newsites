@@ -2700,6 +2700,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/4f/62/634f628d-a8d6-5e32-2896-5eed34ae5f38/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "俺アラ": {
+      "at": "2026-10-23T05:00:29.850Z",
+      "entry": null
     }
   },
   "titles": {
@@ -5292,7 +5296,7 @@
       "dateText": "2026年10月22日",
       "date": "2026-10-22",
       "sortKey": "2026-10-22",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
     "デモンズナイトフィーバー": {
@@ -31787,10 +31791,10 @@
     },
     "ウィンドランナーgo!": {
       "title": "ウィンドランナーGo!",
-      "dateText": "2026年10月23日",
-      "date": "2026-10-23",
-      "sortKey": "2026-10-23",
-      "prereg": true,
+      "dateText": "2026年10月",
+      "date": null,
+      "sortKey": "2026-10-32",
+      "prereg": false,
       "firstSeen": "2026-10-13T01:00:28.173Z"
     },
     "warhammersurvivors": {
@@ -42349,6 +42353,38 @@
       "sortKey": "2026-10-27",
       "prereg": false,
       "firstSeen": "2026-10-23T04:30:29.651Z"
+    },
+    "spook&sell": {
+      "title": "Spook & Sell",
+      "dateText": "2026年10月26日",
+      "date": "2026-10-26",
+      "sortKey": "2026-10-26",
+      "prereg": false,
+      "firstSeen": "2026-10-23T05:00:29.573Z"
+    },
+    "tcgcardchaos": {
+      "title": "TCG Card Chaos",
+      "dateText": "2026年10月27日",
+      "date": "2026-10-27",
+      "sortKey": "2026-10-27",
+      "prereg": false,
+      "firstSeen": "2026-10-23T05:00:29.573Z"
+    },
+    "deadofthebrain": {
+      "title": "Dead of the Brain",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-23T05:00:29.573Z"
+    },
+    "alteredblood+[ab+]": {
+      "title": "ALTEREDBLOOD+ [AB+]",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-10-23T05:00:29.573Z"
     }
   },
   "changeLog": [
@@ -46782,6 +46818,19 @@
         "switch"
       ],
       "to": "2026年10月23日"
+    },
+    {
+      "at": "2026-10-23T05:00:29.573Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月23日",
+      "to": "2026年10月"
     }
   ],
   "initialized": true,
