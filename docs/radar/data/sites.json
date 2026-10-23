@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T05:00:16.918Z",
+  "updatedAt": "2026-10-23T05:30:17.098Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 989,
+  "total": 990,
   "regions": {
-    "jp": 816,
+    "jp": 817,
     "global": 173
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 115
+      "count": 116
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 222
+      "count": 223
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 351
+      "count": 352
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 308
+      "count": 309
     },
     {
       "id": "browser",
@@ -132,6 +132,41 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eefd5065d1d5",
+      "url": "https://play.google.com/store/apps/details?id=com.colyinc.sparklinkstars",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ディズニー スパークリンク・スターズ",
+      "headline": "『ディズニー スパークリンク・スターズ』が11月4日配信決定！ AGF2026に初出展",
+      "description": "夢を叶えるスパークライダー育成ADV",
+      "publishedAt": "2026-10-23T05:15:00.000Z",
+      "addedAt": "2026-10-23T05:30:17.098Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/23/game/3141223.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/LDqem1t0tn__NKd54Y44cdP_vqh-sKBdnaAvSSNPKHOjgVspk5-qhXVkatBX5KqEfnC4Krpkm15HQEl2rlcS7Q=s0-br30"
+    },
     {
       "id": "e1c709c5e58c",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.sololv",
