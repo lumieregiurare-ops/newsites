@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T07:30:21.028Z",
+  "updatedAt": "2026-10-23T08:00:20.897Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 992,
+  "total": 994,
   "regions": {
-    "jp": 819,
+    "jp": 821,
     "global": 173
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 352
+      "count": 353
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 74
+      "count": 75
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 211
+      "count": 212
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 148
+      "count": 149
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 309
+      "count": 310
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "Inside",
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,67 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "723937a84e7e",
+      "url": "https://hokahoka-dining.ltr-online.com/",
+      "host": "hokahoka-dining.ltr-online.com",
+      "region": "jp",
+      "title": "ミッフィーほかほかダイニング",
+      "headline": "テーマカフェ「ミッフィーほかほかダイニング」東京・大阪に冬期限定オープン！ 席予約は10月23日18時より開始",
+      "description": "テーマカフェ「ミッフィーほかほかダイニング」東京・大阪に冬期限定オープン！ 席予約は10月23日18時より開始",
+      "publishedAt": "2026-10-23T07:50:02.000Z",
+      "addedAt": "2026-10-23T08:00:20.897Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189703.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://seat-images.groobee.com/hokahoka-dining/OZtTy46yHxsbudl9do5vD8He1I2SE9fxV6R0spog.jpg"
+    },
+    {
+      "id": "c9111bc8f15a",
+      "url": "https://apps.apple.com/jp/app/id6823498008",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "午前2時の交換手",
+      "headline": "ホラーミステリー『午前2時の交換手』がiOS／Androidで10月22日配信開始！ 通話と記録の矛盾から真相に迫る",
+      "description": "Tokyo hammock Co.,Ltd.の「午前2時の交換手」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「午前2時の交換手」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-23T07:45:00.000Z",
+      "addedAt": "2026-10-23T08:00:20.897Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/23/game/3141337.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/78/20/ea78204e-6d10-a786-4eab-f860692cf6cc/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "482fbb461f90",
       "url": "https://www.tohotheater.jp/campaign/godzillaminuszero-goods.html",
