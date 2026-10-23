@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T08:30:18.484Z",
+  "updatedAt": "2026-10-23T09:00:15.635Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 995,
+  "total": 996,
   "regions": {
-    "jp": 822,
+    "jp": 823,
     "global": 173
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 75
+      "count": 76
     },
     {
       "id": "media",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "790b56bece46",
+      "url": "https://www.capcom.co.jp/ir/",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "イーカプコン",
+      "headline": "カプコン、IDのパスワードを不正変更された196件中の19件で「イーカプコン」の氏名・住所・購入履歴など漏えいしたと続報発表",
+      "description": "株式会社カプコンの会社情報・投資家情報（IR）トップページです。",
+      "publishedAt": "2026-10-23T08:52:24.000Z",
+      "addedAt": "2026-10-23T09:00:15.635Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/173999.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom.co.jp/ir/library/img/ogp/ico_ogp_index.png"
+    },
     {
       "id": "ca9cd2b0de71",
       "url": "https://va-scripts.com/tekkaijosai",
