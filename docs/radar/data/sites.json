@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-23T22:30:16.460Z",
+  "updatedAt": "2026-10-23T23:00:16.759Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1009,
+  "total": 1010,
   "regions": {
     "jp": 836,
-    "global": 173
+    "global": 174
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 357
+      "count": 358
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "013f0fa81270",
+      "url": "https://trailmarkgames.com/games/warrior-cats-clans-of-the-forest/",
+      "host": "trailmarkgames.com",
+      "region": "global",
+      "title": "Warrior Cats: Clans of the Forest",
+      "headline": "猫の世界を描いた人気小説「ウォーリアーズ」が原作のターン制RPG『Warrior Cats: Clans of the Forest』リリース",
+      "description": "猫の世界を描いた人気小説「ウォーリアーズ」が原作のターン制RPG『Warrior Cats: Clans of the Forest』リリース",
+      "publishedAt": "2026-10-23T23:00:03.000Z",
+      "addedAt": "2026-10-23T23:00:16.759Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/24/174028.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a6c04fa593bb",
       "url": "https://www.factorio.com/",
