@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T02:27:44.562Z",
+  "updatedAt": "2026-10-23T03:00:17.441Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 982,
+  "total": 983,
   "regions": {
-    "jp": 809,
+    "jp": 810,
     "global": 173
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 178
+      "count": 179
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 346
+      "count": 347
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6c2abb8125af",
+      "url": "https://jp.shokz.com/",
+      "host": "jp.shokz.com",
+      "region": "jp",
+      "title": "ジョジョの奇妙な冒険",
+      "headline": "アニメ『ジョジョの奇妙な冒険』とShokzのコラボレーションモデルイヤホンが発売。ジョナサンモデルの骨伝導イヤホン「OpenRun Pro 2」に、ディオモデルのイヤーカフ型イヤ…",
+      "description": "耳をふさがない快適なオープンイヤー・骨伝導イヤホンならShokz。ランニングやスポーツに最適、毎日の生活にもフィットするワイヤレスイヤホンを体験しよう。",
+      "publishedAt": "2026-10-23T02:56:54.000Z",
+      "addedAt": "2026-10-23T03:00:17.441Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261023q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://jp.shokz.com/cdn/shop/files/Shokz_Logo_with_Square_CMYK_1200x1200.jpg?v=1721291814"
+    },
     {
       "id": "5ad02c7d0478",
       "url": "https://www.exterminauts.com/ja/index.html",
@@ -7549,7 +7577,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/a3/0e/02a30e16-d55b-38a4-9ef3-0fc18ede9b94/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/59/bf/7759bf36-f9e6-1ebd-9da6-f365bb5f88ec/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "de25fcb5c2c4",
@@ -8251,6 +8279,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610093j"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189679.html"
         }
       ],
       "tags": [
@@ -17172,7 +17204,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_udcQn5Cfidn4YDS3_QQs4G7pN-f3C7D4WWKcIYIkBAsriGbsc7-ZlBkq0PqrotdkGeptKznSUXf2iqcwfsnh6ENYnT2AypVUMlavypf9Q4gwacH8Y_QT4pgLMzkyXrfaiCBONQLXSFIbd6g35f4sEV2MYSmodPG-J8xQObUhcNP1vmejLmS3cl6JNyeFKhccl9cxaYh5fxvr56PPqXH7puzfpiEun0-W4zA1oPD5x2Zls=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_v5avJ6iplffiFZE8mhSYe5516a8HBxlvs_sC9Ijtmo5DdrE2_0qblK6CGr4Zd2ieU_9FyOOdUGKTu9Sab5CHBYJNVLmR1hP0z08j11ZZUROyeAMe2VaxE9ZT3_iBGd5XLqIqN9KgPiMLBbuz95_JwxyO4gANYrOd0QO77sO393ITDoOAVHQIpgEI-JrOWPW6ojFOeea_FQuBb7CoYywFATkJG8F-SvxoF17h1kckGS39U=w1200-h630-p-k-no-nu"
     },
     {
       "id": "a1190e19c51b",
