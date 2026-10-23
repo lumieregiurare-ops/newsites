@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T03:30:17.744Z",
+  "updatedAt": "2026-10-23T04:00:16.523Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 985,
+  "total": 987,
   "regions": {
-    "jp": 812,
+    "jp": 814,
     "global": 173
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 179
+      "count": 180
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 348
+      "count": 349
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 73
+      "count": 74
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 210
+      "count": 211
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 147
+      "count": 148
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 306
+      "count": 307
     },
     {
       "id": "browser",
@@ -122,16 +122,76 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "Game*Spark",
     "App Store",
-    "AppBank",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2a81ec36d4c3",
+      "url": "https://www.cloudedleopardent.com/game/13z/jp/",
+      "host": "cloudedleopardent.com",
+      "region": "jp",
+      "title": "13Z -十三座戦記-",
+      "headline": "【最大4人マルチ】「13番目の干支」を目指す3Dアクションゲーム『13Z -十三座戦記-』の東洋ファンタジー感溢れる世界が神秘的で良い。2ndトレーラーが公開",
+      "description": "挑戦を重ねて強くなる神話アクション 十三番目の選ばれし干支となれ！",
+      "publishedAt": "2026-10-23T04:00:16.523Z",
+      "addedAt": "2026-10-23T04:00:16.523Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1667043"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.cloudedleopardent.com/game/13z/jp/assets/ogp.jpg"
+    },
+    {
+      "id": "4f2810f5efd4",
+      "url": "https://apps.apple.com/jp/app/id6808610064",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "TokiMake",
+      "headline": "ノベルゲームを読んだ後はキャラとチャット！『TokiMake』iOS版とWeb版が10月21日リリース",
+      "description": "Xross Road, Inc.の「TokiMake」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「TokiMake」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-23T03:45:00.000Z",
+      "addedAt": "2026-10-23T04:00:16.523Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/23/game/3139419.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/67/2a/41672a8c-d2d4-f389-bda3-43d7200151d6/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "20fd28aebc7b",
       "url": "https://miabyss.com/",
@@ -21473,6 +21533,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/23/189681.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/173981.html"
         }
       ],
       "tags": [
@@ -21480,10 +21544,12 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "特設サイト"
       ],
       "categories": [
-        "prereg"
+        "prereg",
+        "campaign"
       ],
       "platforms": [
         "mobile"
@@ -29996,6 +30062,14 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/23/189684.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/173982.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261023x"
         }
       ],
       "tags": [
