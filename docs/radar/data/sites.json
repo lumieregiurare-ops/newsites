@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-23T13:00:17.876Z",
+  "updatedAt": "2026-10-23T13:30:17.305Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1005,
+  "total": 1008,
   "regions": {
-    "jp": 833,
-    "global": 172
+    "jp": 835,
+    "global": 173
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 357
+      "count": 358
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 215
+      "count": 217
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 313
+      "count": 315
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ab3405420bef",
+      "url": "https://na.leagueoflegends.com/en/featured/mechs-vs-minions",
+      "host": "na.leagueoflegends.com",
+      "region": "global",
+      "title": "LoL",
+      "headline": "絶版だった「LoL」の協力型ボドゲ「Mechs vs. Minions」の日本語版が2027年発売決定。プログラミング要素を駆使し，メックの挙動を制御しよう",
+      "description": "A unique cooperative tabletop experience",
+      "publishedAt": "2026-10-23T13:11:08.000Z",
+      "addedAt": "2026-10-23T13:30:17.305Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/052/G105284/20261023055/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-mechs-vs-minions/en_US/a8667cf30625bbadf4c0d1bb266ac75613f69b3f/assets/img/share/mechs-vs-minions-1200x630.jpg"
+    },
     {
       "id": "62352636e7b1",
       "url": "https://www.konami.com/games/castlevania/jp/ja/fc_free_app",
@@ -513,6 +540,39 @@
       "platforms": [],
       "points": null,
       "image": "https://common/img/base/ogp_zannen.jpg"
+    },
+    {
+      "id": "d9b485fa42e1",
+      "url": "https://apps.apple.com/jp/app/id6757350661",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ポリスチーフ",
+      "headline": "VoyagerOne / ストラテジー・エンターテインメント · App Store 新着",
+      "description": "VoyagerOneの「ポリスチーフ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ポリスチーフ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "addedAt": "2026-10-23T13:30:17.305Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6757350661"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/74/98/167498fb-d622-838c-2029-8b6a29ba18b7/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "eefd5065d1d5",
@@ -1301,6 +1361,39 @@
       "platforms": [],
       "points": null,
       "image": "https://nippon1.jp/consumer/honogurashi/img/ogp_released.jpg"
+    },
+    {
+      "id": "37504d25bc6e",
+      "url": "https://sns.dopagamelab.com/pref-pack/",
+      "host": "sns.dopagamelab.com",
+      "region": "jp",
+      "title": "新・都道府県ゲーム",
+      "headline": "masato nishikawa / パズル・教育 · App Store 新着",
+      "description": "都道府県を箱に詰めるゲーム。地図で隣り合う県同士がくっついて、地方になり、最後は日本列島に。",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "addedAt": "2026-10-23T13:30:17.305Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6823042308"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "教育"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sns.dopagamelab.com/pref-pack/og.png"
     },
     {
       "id": "f87367d68356",
