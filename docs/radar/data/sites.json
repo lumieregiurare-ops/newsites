@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T08:00:20.897Z",
+  "updatedAt": "2026-10-23T08:30:18.484Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 994,
+  "total": 995,
   "regions": {
-    "jp": 821,
+    "jp": 822,
     "global": 173
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 353
+      "count": 354
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ca9cd2b0de71",
+      "url": "https://va-scripts.com/tekkaijosai",
+      "host": "va-scripts.com",
+      "region": "jp",
+      "title": "鉄廻城砦の灰花",
+      "headline": "“死ぬための宝”を探す少女と廃墟に隠された真実とは。ビジュアルノベル「鉄廻城砦の灰花」，12月18日に発売決定",
+      "description": "VISUAL ARTS Scripts第二弾。廃墟を舞台に、青年と少女が紡ぐ、悲しみと希望のビジュアルノベル。",
+      "publishedAt": "2026-10-23T08:15:29.000Z",
+      "addedAt": "2026-10-23T08:30:18.484Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/000/G100083/20261023025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987"
+    },
     {
       "id": "723937a84e7e",
       "url": "https://hokahoka-dining.ltr-online.com/",
@@ -27574,6 +27601,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2609143e"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189709.html"
         }
       ],
       "tags": [
