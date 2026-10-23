@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T09:00:15.635Z",
+  "updatedAt": "2026-10-23T09:30:16.580Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 996,
+  "total": 998,
   "regions": {
-    "jp": 823,
+    "jp": 825,
     "global": 173
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 182
+      "count": 183
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 223
+      "count": 224
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 354
+      "count": 355
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 212
+      "count": 213
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 310
+      "count": 311
     },
     {
       "id": "browser",
@@ -121,17 +121,78 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Inside",
-    "AppBank",
-    "電ファミニコゲーマー",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ba2b3822ab09",
+      "url": "https://apps.apple.com/jp/app/id1611490041",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "メメントモリ",
+      "headline": "『メメントモリ』新作アルバム「Lament Collection Vol.4」が10月21日配信開始！ 全42曲を収録",
+      "description": "Bank of Innovation, Incの「メメントモリ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「メメントモリ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-23T09:05:00.000Z",
+      "addedAt": "2026-10-23T09:30:16.580Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/23/game/3141455.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/42/77/9d427716-1dd9-47c3-d279-c6c3eca65998/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "c1ad5ec6990a",
+      "url": "https://chofu.parco.jp/page/gegege_no_parco/",
+      "host": "chofu.parco.jp",
+      "region": "jp",
+      "title": "ゲゲゲの鬼太郎",
+      "headline": "『ゲゲゲの鬼太郎』とパルコのタイアップ企画「ゲゲゲのパルコ」が11月18日より調布PARCOにて開催決定。妖怪さがしラリーやフォトブース、スペシャルノベルティなど様々なイベントが…",
+      "description": "「ゲゲゲの鬼太郎」とコラボレーション！キャンペーン会期：11/18(水)～11/30(月)",
+      "publishedAt": "2026-10-23T09:02:34.000Z",
+      "addedAt": "2026-10-23T09:30:16.580Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610232o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://chofu.parco.jp/page/gegege_no_parco/assets/images/ogp.png"
+    },
     {
       "id": "790b56bece46",
       "url": "https://www.capcom.co.jp/ir/",
@@ -857,6 +918,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/22/173945.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189714.html"
         }
       ],
       "tags": [
@@ -3230,7 +3295,7 @@
       "region": "global",
       "title": "サイバーパンク2077",
       "headline": "『サイバーパンク2077』協力プレイMod「NightCoop」のオープンベータが近日スタート！",
-      "description": "Сюжет Cyberpunk 2077 — вместе, до 8 игроков. Кооператив и PvP, мод на RED4ext.",
+      "description": "Сюжет Cyberpunk 2077 — вместе, до 8 игроков. Кооператив и PvP, мод на RED4ext. Открытая бета — 23 октября.",
       "publishedAt": "2026-10-19T07:45:25.000Z",
       "addedAt": "2026-10-19T08:00:16.438Z",
       "source": "Game*Spark",
@@ -3248,7 +3313,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://nightcoop.net/avatar-1024.png"
+      "image": "https://nightcoop.net/media/poster-beta-1280.jpg"
     },
     {
       "id": "f761a30f4d6a",
