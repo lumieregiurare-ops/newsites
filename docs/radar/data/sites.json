@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T16:00:20.895Z",
+  "updatedAt": "2026-10-23T16:30:24.339Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1008,
+  "total": 1009,
   "regions": {
-    "jp": 835,
+    "jp": 836,
     "global": 173
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 358
+      "count": 359
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a6c04fa593bb",
+      "url": "https://www.factorio.com/",
+      "host": "factorio.com",
+      "region": "jp",
+      "title": "Factorio",
+      "headline": "『Factorio』大型拡張「Space Age」、長期テストを経て安定版2.1リリース。宇宙プラットフォーム強化など新機能多数追加",
+      "description": "『Factorio』大型拡張「Space Age」、長期テストを経て安定版2.1リリース。宇宙プラットフォーム強化など新機能多数追加",
+      "publishedAt": "2026-10-23T16:04:46.000Z",
+      "addedAt": "2026-10-23T16:30:24.339Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/24/174022.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://factorio.com/static/img/factorio-wheel.png"
+    },
     {
       "id": "ab3405420bef",
       "url": "https://na.leagueoflegends.com/en/featured/mechs-vs-minions",
