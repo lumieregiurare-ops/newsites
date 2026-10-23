@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T00:00:17.066Z",
+  "updatedAt": "2026-10-23T00:30:18.685Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 981,
+  "total": 982,
   "regions": {
-    "jp": 808,
+    "jp": 809,
     "global": 173
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 102
+      "count": 103
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 345
+      "count": 346
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 32
+      "count": 33
     },
     {
       "id": "switch2",
@@ -24364,6 +24364,41 @@
       ],
       "points": null,
       "image": "https://artisimpact.happinet-games.com/wp-content/themes/artisimpact/img/shareimg_ja.jpg"
+    },
+    {
+      "id": "329cc253ab59",
+      "url": "https://games.parco.jp/",
+      "host": "games.parco.jp",
+      "region": "jp",
+      "title": "Finding Polka",
+      "headline": "ボールペンのみで描かれた世界で犬を探す高評価ゲーム『Finding Polka』Nintendo Switch版のリリースが決定。新ステージを含む大ボリュームのDLCも制作決定",
+      "description": "PARCO GAMESの公式サイトです。",
+      "publishedAt": "2026-09-17T01:00:33.000Z",
+      "addedAt": "2026-09-17T03:51:46.413Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2609172n"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/975/G097539/20260918070/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://games.parco.jp/OGP.jpeg"
     },
     {
       "id": "b046270e59ac",
