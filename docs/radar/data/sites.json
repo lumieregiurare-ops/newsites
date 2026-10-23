@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T10:30:16.899Z",
+  "updatedAt": "2026-10-23T11:00:17.767Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1001,
+  "total": 1004,
   "regions": {
-    "jp": 828,
+    "jp": 831,
     "global": 173
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 105
+      "count": 106
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 184
+      "count": 185
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 356
+      "count": 357
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 14
+      "count": 15
     },
     {
       "id": "company",
@@ -60,17 +60,17 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 43
+      "count": 44
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 214
+      "count": 215
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 150
+      "count": 151
     }
   ],
   "platforms": [
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 12
+      "count": 13
     },
     {
       "id": "vr",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,93 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "527c2df1f3b9",
+      "url": "https://wonder.sega.jp/",
+      "host": "wonder.sega.jp",
+      "region": "jp",
+      "title": "Wonderland Wars",
+      "headline": "「Wonderland Wars」，オリジナルグッズプレゼントキャンペーン第17弾オンラインを開始",
+      "description": "セガのオンライン協力対戦ゲームWonderland Wars（ワンダーランドウォーズ）公式サイト。魅力的なキャラクターと特殊ペンデバイス操作。アーケードゲーム初のMOBA (Multiplayer-Online-Battle-Arena)…",
+      "publishedAt": "2026-10-23T10:53:15.000Z",
+      "addedAt": "2026-10-23T11:00:17.767Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/247/G024779/20261023045/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://wonder.sega.jp/ogimage.jpg?20240415"
+    },
+    {
+      "id": "e6fc63ac409c",
+      "url": "https://www.cho-kaguyahime.com/",
+      "host": "cho-kaguyahime.com",
+      "region": "jp",
+      "title": "超かぐや姫！",
+      "headline": "『超かぐや姫！』の“ブラックオニキス”が「anan AWARD 2026」授賞式に映像出演決定。“時代の顔”を表彰するアワード、11月14日にYouTubeで生配信",
+      "description": "Netflixアニメーション映画『超かぐや姫！』2026年1月22日(木)Netflixにて世界独占配信！監督：山下清悟。制作：スタジオコロリド/スタジオクロマト。出演：夏吉ゆうこ、永瀬アンナ、早見沙織など。",
+      "publishedAt": "2026-10-23T10:53:14.000Z",
+      "addedAt": "2026-10-23T11:00:17.767Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610232z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.cho-kaguyahime.com/assets/og/ogp.jpg"
+    },
+    {
+      "id": "1e948ac1a79b",
+      "url": "https://farming-simulator-25.sega.jp/",
+      "host": "farming-simulator-25.sega.jp",
+      "region": "jp",
+      "title": "Farming Simulator 25",
+      "headline": "「Farming Simulator 25」，コンテンツ拡張パック「Beans & Alpacas」の家屋とオブジェクトの情報を公開",
+      "description": "24年11月12日発売！世界で累計3千万本を突破した農業SLGの王者「Farming Simulator」最新作。実在の農機を運転しながら、リアルすぎる農業、林業、畜産業を体験しよう！",
+      "publishedAt": "2026-10-23T10:38:24.000Z",
+      "addedAt": "2026-10-23T11:00:17.767Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/813/G081325/20261023044/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://farming-simulator-25.sega.jp/assets/images/jp/facebook02.jpg"
+    },
     {
       "id": "19aae39257ef",
       "url": "https://lid-inferno.com/jp/",
@@ -12212,9 +12299,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "周年"
       ],
       "categories": [
+        "anniversary",
         "event"
       ],
       "platforms": [
@@ -19300,6 +19389,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6771652722"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/23/174008.html"
         }
       ],
       "tags": [
