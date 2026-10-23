@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-23T03:00:17.441Z",
+  "updatedAt": "2026-10-23T03:30:17.744Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 983,
+  "total": 985,
   "regions": {
-    "jp": 810,
+    "jp": 812,
     "global": 173
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 347
+      "count": 348
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 146
+      "count": 147
     }
   ],
   "platforms": [
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "App Store",
-    "4Gamer",
     "AppBank",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "20fd28aebc7b",
+      "url": "https://miabyss.com/",
+      "host": "miabyss.com",
+      "region": "jp",
+      "title": "メイドインアビス 目覚める神秘",
+      "headline": "『メイドインアビス 目覚める神秘』劇場シリーズ【第二部】制作決定！第2弾キービジュアルが公開され、追加キャストも解禁",
+      "description": "「メイドインアビス」─目覚める神秘─ 公式サイト。つくしあきひと原作「メイドインアビス」劇場シリーズ化決定！",
+      "publishedAt": "2026-10-23T03:00:27.000Z",
+      "addedAt": "2026-10-23T03:30:17.744Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261023v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://miabyss.com/ogp_m1.jpg"
+    },
+    {
+      "id": "4499404da17d",
+      "url": "https://gmodecorp.com/cs/portpia",
+      "host": "gmodecorp.com",
+      "region": "jp",
+      "title": "続ポートピア連続殺人事件:忘却の埋葬",
+      "headline": "「続ポートピア連続殺人事件:忘却の埋葬」，2027年3月4日に発売決定。パッケージ版にはファミコン版「ポートピア連続殺人事件」を同梱",
+      "description": "タイトル：続ポートピア連続殺人事件:忘却の埋葬",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "addedAt": "2026-10-23T03:30:17.744Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104110/20261022038/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261023b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://storage.googleapis.com/production-os-assets/assets/68634da7-c2b9-4b01-827b-a94db558c61b"
+    },
     {
       "id": "6c2abb8125af",
       "url": "https://jp.shokz.com/",
@@ -12443,7 +12501,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?260930"
+      "image": "https://www.inter-bee.com/assets/img/common/2026_visitors_ogp.png?261022"
     },
     {
       "id": "9accb982a4da",
@@ -21411,6 +21469,10 @@
         {
           "name": "AppBank",
           "url": "https://www.appbank.net/2026/09/21/game/3111095.php"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189681.html"
         }
       ],
       "tags": [
@@ -29930,6 +29992,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/784/G078489/20260825025/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/23/189684.html"
         }
       ],
       "tags": [
