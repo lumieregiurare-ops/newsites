@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T05:00:17.256Z",
+  "updatedAt": "2026-10-24T05:30:15.193Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1016,
+  "total": 1017,
   "regions": {
-    "jp": 841,
+    "jp": 842,
     "global": 175
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 187
+      "count": 188
     },
     {
       "id": "event",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "Inside",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "515a92b15681",
+      "url": "https://zenless.hoyoverse.com/ja-jp/main",
+      "host": "zenless.hoyoverse.com",
+      "region": "jp",
+      "title": "ゼンゼロ",
+      "headline": "『ゼンゼロ』サンブリンガーの実戦PV公開！『崩壊：スターレイル』コラボにも続報、カフカとロビンの属性・特性が明らかに",
+      "description": "Zenless Zone Zero is a brand new action game. The story takes place in the near future, where a mysterious natural disa…",
+      "publishedAt": "2026-10-24T05:05:02.000Z",
+      "addedAt": "2026-10-24T05:30:15.193Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/24/189749.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "bd55376b39d5",
       "url": "https://fallout.bethesda.net/",
