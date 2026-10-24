@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-24T03:30:16.743Z",
+  "updatedAt": "2026-10-24T04:00:17.839Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1013,
+  "total": 1015,
   "regions": {
-    "jp": 839,
-    "global": 174
+    "jp": 840,
+    "global": 175
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 109
+      "count": 110
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 227
+      "count": 228
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 76
+      "count": 78
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 316
+      "count": 318
     },
     {
       "id": "browser",
@@ -121,17 +121,81 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bd55376b39d5",
+      "url": "https://fallout.bethesda.net/",
+      "host": "fallout.bethesda.net",
+      "region": "global",
+      "title": "Fallout",
+      "headline": "「Fallout」，装着可能なパワーアーマーのヘルメットとパワーフィストの実物大レプリカ発表",
+      "description": "Bethesda Game Studios, welcomes you to Fallout. Find your next adventure and never leave the wasteland.",
+      "publishedAt": "2026-10-24T03:46:00.000Z",
+      "addedAt": "2026-10-24T04:00:17.839Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/422/G042267/20261024003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "1affd45068b6",
+      "url": "https://apps.apple.com/jp/app/id1489909693",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ひなこい",
+      "headline": "「ひなこい」6周年！ 日向坂46「ひなこい隊」がLINE・X・YouTubeに登場、10月23日から施策を順次開催",
+      "description": "10ANTZ, Inc.の「[日向坂46公式] ひなこい」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[日向坂46公式] ひなこい」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-24T03:35:00.000Z",
+      "addedAt": "2026-10-24T04:00:17.839Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/24/game/3142118.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/83/72/3283722a-2adb-d20d-4d60-2b9166ef2302/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "8fd164ec8709",
       "url": "https://apps.apple.com/jp/app/id6451399876",
