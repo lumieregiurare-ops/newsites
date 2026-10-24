@@ -43350,6 +43350,11 @@
       "sortKey": "2026-10-26",
       "prereg": false,
       "firstSeen": "2026-10-24T16:30:31.153Z"
+    },
+    "ウマ娘": {
+      "title": "ウマ娘",
+      "prereg": true,
+      "firstSeen": "2026-10-24T17:30:27.391Z"
     }
   },
   "changeLog": [
@@ -47319,6 +47324,18 @@
         "switch"
       ],
       "to": "2026年10月25日"
+    },
+    {
+      "at": "2026-10-24T17:30:27.391Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ウマ娘",
+      "url": "https://umamusume.jp/",
+      "image": "https://umamusume.jp/assets/images/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

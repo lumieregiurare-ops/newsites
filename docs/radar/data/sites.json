@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:00:15.933Z",
+  "updatedAt": "2026-10-24T17:30:14.977Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 116
+      "count": 118
     },
     {
       "id": "anniversary",
@@ -511,10 +511,12 @@
         "周年",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "categories": [
-        "anniversary"
+        "anniversary",
+        "prereg"
       ],
       "platforms": [
         "mobile"
@@ -4618,9 +4620,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "event"
       ],
       "platforms": [

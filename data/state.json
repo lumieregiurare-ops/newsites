@@ -542,7 +542,7 @@
       "headline": "【明日まで無料】初代『悪魔城ドラキュラ』スマホ向け無料配布は10月24日一杯で終了！40周年の重み感じるシリーズの始まりをいつでもお手軽にプレイ",
       "description": "KONAMIのアクションゲーム「Castlevania」シリーズの情報をお届けするポータルサイトです。",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -564,11 +564,13 @@
         "周年",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
-        "anniversary"
+        "anniversary",
+        "prereg"
       ],
       "points": null,
       "image": "https://www.konami.com/games/castlevania/s/img/sns_castlevania.jpg",
@@ -6598,7 +6600,7 @@
       "headline": "「ウマ娘」公式生配信番組「ぱかライブTV' #8」が10月24日20：00に配信。新育成シナリオ「朋、史解き ―午式駿大祭―」の詳細や新ウマ娘を発表",
       "description": "ウマ娘 プリティーダービー公式ポータルサイトです。メディアミックスコンテンツ『ウマ娘 プロジェクト』に関する情報をお届けします。",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -6627,10 +6629,12 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
+        "prereg",
         "event"
       ],
       "points": null,
