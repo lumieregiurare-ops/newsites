@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:30:18.728Z",
+  "updatedAt": "2026-10-24T17:00:15.933Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 115
+      "count": 116
     },
     {
       "id": "anniversary",
@@ -243,9 +243,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "campaign"
       ],
       "platforms": [],
