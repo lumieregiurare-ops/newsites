@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T02:30:19.157Z",
+  "updatedAt": "2026-10-24T03:00:18.209Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1011,
+  "total": 1012,
   "regions": {
-    "jp": 837,
+    "jp": 838,
     "global": 174
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 107
+      "count": 108
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 225
+      "count": 226
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "34e83086a07e",
+      "url": "https://bungo.dmmgames.com/",
+      "host": "bungo.dmmgames.com",
+      "region": "jp",
+      "title": "文豪とアルケミスト",
+      "headline": "【文アル10周年】『文豪とアルケミスト』が11月1日で10周年。10周年記念生放送が配信へ。記念すべき10周年を振り返り、新情報もお披露目。“スペシャルゲスト”の登場や毎年恒例の…",
+      "description": "【文アル10周年】『文豪とアルケミスト』が11月1日で10周年。10周年記念生放送が配信へ。記念すべき10周年を振り返り、新情報もお披露目。“スペシャルゲスト”の登場や毎年恒例の新文豪発表にも期待",
+      "publishedAt": "2026-10-24T02:58:57.000Z",
+      "addedAt": "2026-10-24T03:00:18.209Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261024a"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1ac024c87a41",
       "url": "https://www.takaratomy.co.jp/products/kurohige/products/dragonquest/",
