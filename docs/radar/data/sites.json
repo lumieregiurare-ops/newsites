@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T06:00:18.036Z",
+  "updatedAt": "2026-10-24T06:30:17.132Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1017,
+  "total": 1018,
   "regions": {
-    "jp": 842,
+    "jp": 843,
     "global": 175
   },
   "categories": [
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 15
+      "count": 16
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "609e2f6c16da",
+      "url": "https://shintoworks.jp/",
+      "host": "shintoworks.jp",
+      "region": "jp",
+      "title": "霊、足しときました。",
+      "headline": "心霊写真の捏造業者になる異色のゲーム『霊、足しときました。』が無料で公開。「心霊写真捏造センター」から依頼を受け、AIに「どこに・何を・どう写すか」を指示して霊を出力、番組で発表…",
+      "description": "北の大地でゲームを制作するインディーゲームスタジオです。",
+      "publishedAt": "2026-10-24T05:50:25.000Z",
+      "addedAt": "2026-10-24T06:30:17.132Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261024m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "515a92b15681",
       "url": "https://zenless.hoyoverse.com/ja-jp/main",
@@ -2351,7 +2378,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sZ7uGb_rYSnwZgy1tt2xz_aq88PudFn1FAGBGsoAHecwysXuY3SVSr40jrLxzqKvEL5kGTN7nCd4AZ18X_glSZKOJLfpn0cX1MD35kOl_mLgN_g3xSz3U-iu13dsd1yQyqS3Ga4jhRkLuKuIvQwrkA27cwM61stCWHhs5t2ogFv-l9c8ab7UQc71zIlhI=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s1b3YF4bBDfCDAgnXjtrCLekPmU2MxlbqPJGASMG2YPuNajM0C1EHeEJSDGPhiPdL3fE6Sgu8Y2nxzyNqv4uRMeoZs3q3rz5Jx2lW9xraL9A-SdyXPyTqYuuAngpQQvQb3ec5lNslRWPnKETLjowibjfLlvyfhRAu4G_s5yIaN517KHg4NwOB7tmlTTG0=w16383"
     },
     {
       "id": "41b1b683c8f0",
