@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-24T12:00:17.140Z",
+  "updatedAt": "2026-10-24T12:30:18.204Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1019,
+  "total": 1020,
   "regions": {
     "jp": 844,
-    "global": 175
+    "global": 176
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 228
+      "count": 229
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 358
+      "count": 359
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "AppBank",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cc089c979195",
+      "url": "https://nippon1.jp/consumer/prinny_sugoroku/",
+      "host": "nippon1.jp",
+      "region": "jp",
+      "title": "みんなでポイっと！プリニーすごろく",
+      "headline": "『みんなでポイっと！プリニーすごろく』全国きゃらばん第3回が決定！ ジョーシン日本橋店で10月31日より開催",
+      "description": "パーティーゲーム『みんなでポイっと！プリニーすごろく』 2026年11月12日(木)発売",
+      "publishedAt": "2026-10-24T12:15:00.000Z",
+      "addedAt": "2026-10-24T12:30:18.204Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/24/game/3142500.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nippon1.jp/consumer/prinny_sugoroku/img/ogp.jpg"
+    },
     {
       "id": "609e2f6c16da",
       "url": "https://shintoworks.jp/",
@@ -12210,7 +12238,7 @@
       "id": "c01d94f65974",
       "url": "https://playmimic.com/",
       "host": "playmimic.com",
-      "region": "jp",
+      "region": "global",
       "title": "Mimic",
       "headline": "リアルタイムに募る疑心暗鬼。非対称型の人狼系ホラー「Mimic」の早期アクセス版を10月27日に配信決定",
       "description": "リアルタイムに募る疑心暗鬼。非対称型の人狼系ホラー「Mimic」の早期アクセス版を10月27日に配信決定",
