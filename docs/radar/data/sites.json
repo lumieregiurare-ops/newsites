@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T11:30:14.420Z",
+  "updatedAt": "2026-10-24T12:00:17.140Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 125
+      "count": 126
     },
     {
       "id": "mobile",
@@ -2031,7 +2031,7 @@
       "region": "jp",
       "title": "恐応研式 恐怖診断",
       "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
-      "description": "あなたが何を怖がるのかを、恐怖応用技術研究所が診断します。",
+      "description": "あなたは何が怖い？ 高い所・暗闇・虫など、あなたの恐怖を約3分で診断する無料の恐怖診断テスト。結果の被験者番号を Steam のホラーゲーム『恐応研式 恐怖診断』に入れると、あなたの恐怖でできたステージを遊べます。",
       "publishedAt": "2026-10-21T10:02:03.000Z",
       "addedAt": "2026-10-21T10:30:18.553Z",
       "source": "4Gamer",
@@ -2048,7 +2048,9 @@
         "release",
         "browser"
       ],
-      "platforms": [],
+      "platforms": [
+        "pc"
+      ],
       "points": null,
       "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg"
     },
