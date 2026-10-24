@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T00:30:18.362Z",
+  "updatedAt": "2026-10-24T01:00:16.796Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1010,
+  "total": 1011,
   "regions": {
-    "jp": 836,
+    "jp": 837,
     "global": 174
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 185
+      "count": 186
     },
     {
       "id": "event",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 33
+      "count": 32
     },
     {
       "id": "switch2",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1ac024c87a41",
+      "url": "https://www.takaratomy.co.jp/products/kurohige/products/dragonquest/",
+      "host": "takaratomy.co.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』と「黒ひげ危機一発」がコラボ！ロトの剣を突き刺し、スライムをぶっ飛ばせ",
+      "description": "黒ひげ危機一発シリーズにドラゴンクエスト「にぎやかサウンド♪スライム危機一発」「にぎやかサウンド♪メタルスライム危機一発」が登場！スライムがタルから飛び出すよ！",
+      "publishedAt": "2026-10-24T01:00:03.000Z",
+      "addedAt": "2026-10-24T01:00:16.796Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/24/189741.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.takaratomy.co.jp/products/kurohige/products/dragonquest/img/ogp01.png"
+    },
     {
       "id": "013f0fa81270",
       "url": "https://trailmarkgames.com/games/warrior-cats-clans-of-the-forest/",
@@ -25221,7 +25248,7 @@
       "region": "jp",
       "title": "アーティス インパクト",
       "headline": "4,000枚以上のドットフレーム、 手描きピクセルで描かれる終末世界RPG『アーティス インパクト』スイッチパッケージ/ダウンロード版リリース！BitSummit大賞受賞の話題作",
-      "description": "AIに支配された終末世界… 記憶の断片を巡る、奇妙で心温まるアドベンチャーRPG「アーティス インパクト」がNintendo Switchで登場！",
+      "description": "メンテナンス",
       "publishedAt": "2026-09-17T01:05:03.000Z",
       "addedAt": "2026-09-17T03:51:46.413Z",
       "source": "Game*Spark",
@@ -25238,9 +25265,7 @@
         "event",
         "release"
       ],
-      "platforms": [
-        "switch"
-      ],
+      "platforms": [],
       "points": null,
       "image": "https://artisimpact.happinet-games.com/wp-content/themes/artisimpact/img/shareimg_ja.jpg"
     },
