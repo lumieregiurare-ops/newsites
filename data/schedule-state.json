@@ -43353,7 +43353,7 @@
     },
     "ウマ娘": {
       "title": "ウマ娘",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-24T17:30:27.391Z"
     },
     "planetcoaster2:spooktacularpack": {
@@ -43363,6 +43363,14 @@
       "sortKey": "2026-10-29",
       "prereg": false,
       "firstSeen": "2026-10-24T20:00:36.389Z"
+    },
+    "sevendoors": {
+      "title": "Seven Doors",
+      "dateText": "2026年10月26日",
+      "date": "2026-10-26",
+      "sortKey": "2026-10-26",
+      "prereg": false,
+      "firstSeen": "2026-10-24T21:30:30.637Z"
     }
   },
   "changeLog": [
@@ -47335,6 +47343,18 @@
     },
     {
       "at": "2026-10-24T17:30:27.391Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ウマ娘",
+      "url": "https://umamusume.jp/",
+      "image": "https://umamusume.jp/assets/images/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-24T21:30:30.637Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "ウマ娘",
