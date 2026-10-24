@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-24T14:30:21.339Z",
+  "updatedAt": "2026-10-24T15:00:20.306Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（10/23 比）",
+      "note": "Steam の同時接続数ランキング（10/24 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -93,9 +93,9 @@
           "url": "https://store.steampowered.com/app/1938090/",
           "metric": "同時接続 198,308人",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -106,9 +106,9 @@
           "url": "https://store.steampowered.com/app/2676230/",
           "metric": "同時接続 186,795人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -119,9 +119,9 @@
           "url": "https://store.steampowered.com/app/1867240/",
           "metric": "同時接続 181,818人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -132,9 +132,9 @@
           "url": "https://store.steampowered.com/app/3419430/",
           "metric": "同時接続 162,869人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（10/23 比）",
+      "note": "App Store（日本）の無料ゲームランキング（10/24 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -155,9 +155,9 @@
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -168,9 +168,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%80%E3%83%83%E3%82%AF%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%BC/id6799009278",
           "metric": "Joy Net Games",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -181,9 +181,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%80%E3%83%80%E3%82%A8%E3%83%BC%E3%82%B9/id6789467258",
           "metric": "Gorilla Games",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -207,9 +207,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%81%E3%83%BC%E3%83%95/id6757350661",
           "metric": "VoyagerOne",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -220,9 +220,9 @@
           "url": "https://apps.apple.com/jp/app/bus-fever-party-%E3%83%90%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%E6%B8%8B%E6%BB%9E%E8%84%B1%E5%87%BA%E3%83%91%E3%82%BA%E3%83%AB/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/sand-blocks-drop-puzzle/id6757140488",
           "metric": "Rollic Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
           "metric": "Hungry Studio",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E6%96%B0-%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E3%82%B2%E3%83%BC%E3%83%A0/id6823042308",
           "metric": "masato nishikawa",
           "delta": {
-            "kind": "up",
-            "label": "+29",
-            "value": 29
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
