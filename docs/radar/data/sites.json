@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-24T13:00:20.559Z",
+  "updatedAt": "2026-10-24T13:30:16.852Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1020,
+  "total": 1021,
   "regions": {
     "jp": 844,
-    "global": 176
+    "global": 177
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 110
+      "count": 111
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 359
+      "count": 360
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 220
+      "count": 221
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 320
+      "count": 321
     },
     {
       "id": "browser",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0fb7bca8c4df",
+      "url": "https://apps.apple.com/us/app/id6511215584",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "ソニックランブル パーティ",
+      "headline": "『ソニックランブル パーティ』シーズン11開幕！ 新スキン「キット」登場、1周年記念の新ビジュアルと動画も公開",
+      "description": "Download Sonic Rumble Party by SEGA CORPORATION on the App Store. See screenshots, ratings and reviews, user tips, and …",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "addedAt": "2026-10-24T13:30:16.852Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/24/game/3142532.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/2c/c7/342cc7d9-f134-e7d9-cc9f-87607a89d44d/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "cc089c979195",
       "url": "https://nippon1.jp/consumer/prinny_sugoroku/",
