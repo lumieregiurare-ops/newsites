@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T04:00:17.839Z",
+  "updatedAt": "2026-10-24T04:30:17.573Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1015,
+  "total": 1016,
   "regions": {
-    "jp": 840,
+    "jp": 841,
     "global": 175
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 186
+      "count": 187
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 218
+      "count": 219
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 318
+      "count": 319
     },
     {
       "id": "browser",
@@ -3215,6 +3215,40 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "f01f18cd332d",
+      "url": "https://apps.apple.com/jp/app/id6823125665",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "脱出ゲーム ハロウィンの夜",
+      "headline": "daichi simada / トリビア・アドベンチャー · App Store 新着",
+      "description": "daichi simadaの「脱出ゲーム ハロウィンの夜」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「脱出ゲーム ハロウィンの夜」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "addedAt": "2026-10-24T04:30:17.573Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6823125665"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "トリビア",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/3e/03/273e0311-48b4-ac48-7e5b-4446f9509f47/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0794a58fb6a2",
