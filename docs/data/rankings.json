@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T16:00:18.941Z",
+  "updatedAt": "2026-10-25T16:29:58.896Z",
   "boards": [
     {
       "id": "steam",
@@ -254,27 +254,27 @@
         },
         {
           "rank": 9,
-          "title": "ポリスチーフ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/66/6e/f6666e27-941a-f9fe-823e-177b0d34271f/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%81%E3%83%BC%E3%83%95/id6757350661",
-          "metric": "VoyagerOne",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "ゴシップハーバー：マージ & ストーリー",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/81/c7/f981c765-378f-b3c1-feea-767162c548c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "ポリスチーフ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/66/6e/f6666e27-941a-f9fe-823e-177b0d34271f/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%81%E3%83%BC%E3%83%95/id6757350661",
+          "metric": "VoyagerOne",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         }
