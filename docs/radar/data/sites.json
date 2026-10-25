@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-25T12:30:17.184Z",
+  "updatedAt": "2026-10-25T13:00:16.006Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1025,
+  "total": 1026,
   "regions": {
-    "jp": 846,
+    "jp": 847,
     "global": 179
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 111
+      "count": 112
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 230
+      "count": 231
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 322
+      "count": 323
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ca935cdf4c6f",
+      "url": "https://bluearchive.jp/",
+      "host": "bluearchive.jp",
+      "region": "jp",
+      "title": "ブルアカ",
+      "headline": "「ブルアカ」の新イベント「Start Your Engines! 〜183号よ永遠に!〜」が10月28日のメンテナンス後に開幕。6周年のフェス情報も解禁",
+      "description": "「ブルアカ」の新イベント「Start Your Engines! 〜183号よ永遠に!〜」が10月28日のメンテナンス後に開幕。6周年のフェス情報も解禁",
+      "publishedAt": "2026-10-25T12:53:08.000Z",
+      "addedAt": "2026-10-25T13:00:16.006Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/519/G051983/20261025004/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "iOS",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "8959c9782a4f",
       "url": "https://www.biligame.com/detail/?id=121563",
