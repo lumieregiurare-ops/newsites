@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-25T13:30:17.768Z",
+  "updatedAt": "2026-10-25T14:00:19.467Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1026,
+  "total": 1027,
   "regions": {
-    "jp": 847,
+    "jp": 848,
     "global": 179
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 78
+      "count": 79
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 222
+      "count": 223
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 323
+      "count": 324
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "Inside",
-    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4b3b67ea412d",
+      "url": "https://apps.apple.com/jp/app/id6745584650",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "遙かなる時空の中で 龍宮の神子",
+      "headline": "『遙かなる時空の中で 龍宮の神子』AGF2026ステージの優先観覧エリア参加券、応募受付が10月21日開始！ 物販やノベルティの詳細も公開",
+      "description": "KOEI TECMO GAMES CO., LTD.の「遙かなる時空の中で 龍宮の神子」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「遙かなる時空の中で 龍宮の神子」に似たゲームを見…",
+      "publishedAt": "2026-10-25T13:45:00.000Z",
+      "addedAt": "2026-10-25T14:00:19.467Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/25/game/3140170.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/2e/c9/f12ec9a5-634b-7341-3d49-4994e7a00b21/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "ca935cdf4c6f",
       "url": "https://bluearchive.jp/",
