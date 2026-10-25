@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T23:27:48.213Z",
+  "updatedAt": "2026-10-25T00:00:19.054Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1022,
+  "total": 1023,
   "regions": {
-    "jp": 845,
+    "jp": 846,
     "global": 177
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 188
+      "count": 189
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
-    "Inside",
     "4Gamer",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4ed2a29f79af",
+      "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/harry-potter",
+      "host": "gu-global.com",
+      "region": "jp",
+      "title": "ハリー・ポッター",
+      "headline": "GUの「ハリー・ポッター」コラボが楽しみ！“ホグワーツの冬”テーマのラウンジウェア、ルームソックスなど全8種",
+      "description": "GUの「ハリー・ポッター」コラボが楽しみ！“ホグワーツの冬”テーマのラウンジウェア、ルームソックスなど全8種",
+      "publishedAt": "2026-10-24T23:30:03.000Z",
+      "addedAt": "2026-10-25T00:00:19.054Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/25/189778.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0fb7bca8c4df",
       "url": "https://apps.apple.com/us/app/id6511215584",
