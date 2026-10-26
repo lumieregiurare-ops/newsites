@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T14:00:32.625Z",
+  "updatedAt": "2026-10-26T14:30:34.471Z",
   "platforms": [
     {
       "id": "switch",
@@ -108,24 +108,6 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "86e7513d4f8b",
-      "title": "No Man's Sky",
-      "date": "2026-10-28",
-      "dateText": "2026年10月28日",
-      "sortKey": "2026-10-28",
-      "priority": 0,
-      "platforms": [
-        "ps",
-        "mobile"
-      ],
-      "url": "https://www.nomanssky.com/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "maker": "",
-      "headline": "『No Man's Sky』iOS版が10月28日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/10/12/173523.html"
-    },
-    {
       "id": "659617237eb7",
       "title": "SULFUR",
       "date": "2026-10-28",
@@ -141,6 +123,26 @@
       "headline": "ローグライクFPS「SULFUR」，Steam早期アクセス中の販売本数が50万本を突破。10月28日に正式版とコンソール版を発売",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/715/G071508/20261026026/"
+    },
+    {
+      "id": "86e7513d4f8b",
+      "title": "No Man's Sky",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 0,
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "maker": "",
+      "headline": "『No Man's Sky』iOS版が10月28日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/10/12/173523.html",
+      "announcedText": "2026年10月28日",
+      "dateSource": "appstore"
     },
     {
       "id": "6714a8113fde",
@@ -463,6 +465,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-26T14:30:34.471Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "App Store 2026年10月29日"
+    },
+    {
       "at": "2026-10-26T13:00:41.671Z",
       "type": "new",
       "label": "新規",
@@ -518,16 +533,6 @@
         "mobile"
       ],
       "to": "2026年10月26日"
-    },
-    {
-      "at": "2026-10-23T08:30:31.802Z",
-      "type": "new",
-      "label": "新規",
-      "title": "鉄廻城砦の灰花",
-      "url": "https://va-scripts.com/tekkaijosai",
-      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987",
-      "platforms": [],
-      "to": "2026年12月18日"
     }
   ]
 }

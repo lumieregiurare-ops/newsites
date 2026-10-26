@@ -2065,8 +2065,22 @@
       }
     },
     "No Man's Sky": {
-      "at": "2026-10-12T14:00:36.102Z",
-      "entry": null
+      "at": "2026-10-26T14:30:34.729Z",
+      "entry": {
+        "trackId": "1615755735",
+        "title": "No Man's Sky",
+        "artist": "Hello Games",
+        "genres": [
+          "アクション",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-10-29T07:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id1615755735",
+        "sellerUrl": "https://www.nomanssky.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/f5/1f/03f51f50-cd65-5641-4527-e0795db76285/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     },
     "Vampire Crawlers": {
       "at": "2026-10-25T00:30:35.024Z",
@@ -31359,10 +31373,10 @@
     },
     "noman'ssky": {
       "title": "No Man's Sky",
-      "dateText": "2026年10月28日",
-      "date": "2026-10-28",
-      "sortKey": "2026-10-28",
-      "prereg": false,
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": true,
       "firstSeen": "2026-10-12T14:00:35.736Z"
     },
     "polandball:thesixthday-destroy": {
@@ -44323,6 +44337,22 @@
       "sortKey": "2027-01-11",
       "prereg": false,
       "firstSeen": "2026-10-26T14:00:32.625Z"
+    },
+    "playablearchive": {
+      "title": "Playable Archive",
+      "dateText": "2026年10月26日",
+      "date": "2026-10-26",
+      "sortKey": "2026-10-26",
+      "prereg": false,
+      "firstSeen": "2026-10-26T14:30:34.471Z"
+    },
+    "fantasyidlerpg": {
+      "title": "Fantasy Idle RPG",
+      "dateText": "2026年10月27日",
+      "date": "2026-10-27",
+      "sortKey": "2026-10-27",
+      "prereg": false,
+      "firstSeen": "2026-10-26T14:30:34.471Z"
     }
   },
   "changeLog": [
@@ -48355,6 +48385,19 @@
         "mobile"
       ],
       "to": "2026年10月26日"
+    },
+    {
+      "at": "2026-10-26T14:30:34.471Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "2026年10月29日"
     }
   ],
   "initialized": true,
