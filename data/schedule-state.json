@@ -43413,7 +43413,7 @@
     },
     "ウマ娘": {
       "title": "ウマ娘",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-24T17:30:27.391Z"
     },
     "planetcoaster2:spooktacularpack": {
@@ -43666,7 +43666,7 @@
     },
     "ゼンゼロ": {
       "title": "ゼンゼロ",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-26T01:00:32.933Z"
     },
     "ghostsmashdemo": {
@@ -47680,6 +47680,30 @@
     },
     {
       "at": "2026-10-26T01:00:32.933Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ウマ娘",
+      "url": "https://umamusume.jp/",
+      "image": "https://umamusume.jp/assets/images/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-26T02:30:29.113Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ゼンゼロ",
+      "url": "https://zenless.hoyoverse.com/ja-jp/main",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-26T02:30:29.113Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "ウマ娘",
