@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T06:30:18.493Z",
+  "updatedAt": "2026-10-26T07:00:16.658Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1035,
+  "total": 1036,
   "regions": {
-    "jp": 856,
+    "jp": 857,
     "global": 179
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 191
+      "count": 192
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "031164b76615",
+      "url": "https://www.choco-flakes.jp/gundam/",
+      "host": "choco-flakes.jp",
+      "region": "jp",
+      "title": "機動戦士ガンダム",
+      "headline": "『機動戦士ガンダム』「ザク」と「チョコフレーク」がまさかのコラボ。「チョコかけ3倍 シャア専用チョコフレーク」や「宇宙要塞・チョコフレーク クッション」が当たるキャンペーンを実施へ",
+      "description": "対象商品のお買い上げレシートで、シャア専用チョコフレークや宇宙要塞・チョコフレーク クッションなどコラボオリジナル賞品を当てよう！",
+      "publishedAt": "2026-10-26T06:59:19.000Z",
+      "addedAt": "2026-10-26T07:00:16.658Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261026y"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.choco-flakes.jp/img/img_ogp.png"
+    },
     {
       "id": "bd6660ec2223",
       "url": "https://wutheringwaves.kurogames.com/jp/",
@@ -2810,7 +2838,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v9wHP7FfvUGTDvHhbRUIba4fUQNweRQYFDz3PZks3v-LPnNEHkeYqaE9M_NNCcdGktpWi5zW3XEVmKLzn4j05sTGF_iReOJYPSXlm30FFW08tvUtfjNJto61iSvdEVg4JxgHru3kfdc8j33EwroFafjzsYQQ9XtGuWMZfYBIPEqs8csMYTe3ufmbyY8Ck=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vloDCNVFROp70s93NLmCLj2S3LGWJX-3JebEnJy3QuxXBTw_twfGpna_tma04GDr0j5TdMkw4qvtn3cCKA93JA6k6X9lpGCZWGlsBUW_znzIq2nL1tS8D0ixHbKDq5ki-zrlKX_Kt4KIgoj4rEG8aeTTrdOnMVBmttAKLqtlOOYkCbjsXbUlJa0A6_5pM=w16383"
     },
     {
       "id": "41b1b683c8f0",
