@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T15:30:34.104Z",
+  "updatedAt": "2026-10-26T16:00:35.305Z",
   "platforms": [
     {
       "id": "switch",
@@ -462,6 +462,30 @@
   ],
   "changes": [
     {
+      "at": "2026-10-26T16:00:35.305Z",
+      "type": "new",
+      "label": "新規",
+      "title": "a pet shop after dark",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000093507",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c66077a7bba938fc73e7cb70ee2a0374bb0ff5459f5f66fdbc2832b9048c89c6.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-26T16:00:35.305Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Star Trek: Voyager - Across the Unknown - Delta Chronicles 2 DLC",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076097",
+      "image": "https://img-eshop.cdn.nintendo.net/i/70cc76c5469ab89a2869c5f0dbb10b656aa449f62ded8a24b13a986d8c10b94a.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年10月29日"
+    },
+    {
       "at": "2026-10-26T14:30:34.471Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -505,29 +529,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月"
-    },
-    {
-      "at": "2026-10-23T08:30:31.802Z",
-      "type": "new",
-      "label": "新規",
-      "title": "鉄廻城砦の灰花",
-      "url": "https://va-scripts.com/tekkaijosai",
-      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987",
-      "platforms": [],
-      "to": "2026年12月18日"
-    },
-    {
-      "at": "2026-10-23T05:00:29.573Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年10月23日",
-      "to": "2026年10月"
     }
   ]
 }
