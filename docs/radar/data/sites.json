@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T01:30:16.029Z",
+  "updatedAt": "2026-10-26T02:00:15.746Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1030,
+  "total": 1031,
   "regions": {
-    "jp": 851,
+    "jp": 852,
     "global": 179
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 113
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 231
+      "count": 232
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 361
+      "count": 362
     },
     {
       "id": "indie",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "Inside",
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
@@ -158,6 +158,36 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "65f6fa017d1f",
+      "url": "https://nikke-jp.com/events/4thinformationsite/index.html",
+      "host": "nikke-jp.com",
+      "region": "jp",
+      "title": "勝利の女神：NIKKE",
+      "headline": "『勝利の女神：NIKKE』4周年記念生放送「約束の地へ、女神集結」がXにて日本・世界トレンド1位を獲得。10月29日の4周年大型アップデートに関する最新情報が一挙公開",
+      "description": "4周年の最新情報をチェックしてください",
+      "publishedAt": "2026-10-26T01:29:54.000Z",
+      "addedAt": "2026-10-26T02:00:15.746Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261026i"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nikke-jp.com/events/4thinformationsite/ossweb-img/generalshare-jp.jpg"
     },
     {
       "id": "45d592391c21",
