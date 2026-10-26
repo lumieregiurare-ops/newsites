@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T11:00:18.973Z",
+  "updatedAt": "2026-10-26T11:30:15.723Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1044,
+  "total": 1047,
   "regions": {
-    "jp": 861,
-    "global": 183
+    "jp": 863,
+    "global": 184
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 113
+      "count": 114
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 365
+      "count": 366
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 80
+      "count": 82
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 226
+      "count": 227
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 129
+      "count": 130
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 329
+      "count": 330
     },
     {
       "id": "browser",
@@ -121,17 +121,108 @@
     }
   ],
   "sources": [
-    "Game*Spark",
+    "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
+    "Game*Spark",
     "Inside",
     "App Store",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "602574704596",
+      "url": "https://apps.apple.com/jp/app/id1497130374",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "朝露",
+      "headline": "東方LostWord、伴。都美子×豚乙女の新曲「朝露」MVを10月26日20:50にプレミア公開！ 6.5周年記念",
+      "description": "GOOD SMILE COMPANY, INC.の「東方LostWord」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「東方LostWord」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-26T11:20:00.000Z",
+      "addedAt": "2026-10-26T11:30:15.723Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/26/game/3144554.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/7b/f2/f57bf2f8-d9a6-061b-83f3-a6633c671f1c/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "00ad8ecaf6f1",
+      "url": "https://game.shochiku.co.jp/",
+      "host": "game.shochiku.co.jp",
+      "region": "jp",
+      "title": "REKA",
+      "headline": "見習い魔女として「歩く魔法の家」と旅するゲーム『REKA』正式版がSteamで発売開始。集めた素材で家を増築しつつ、偉大な魔女のもとで魔法を学んでいく",
+      "description": "Shochiku Games is a game production and publishing organisation dedicated to delivering unique and creative experiences…",
+      "publishedAt": "2026-10-26T11:00:16.000Z",
+      "addedAt": "2026-10-26T11:30:15.723Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610262k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261026111904"
+    },
+    {
+      "id": "2f282a7a4a54",
+      "url": "https://www.emberstorm.de/",
+      "host": "emberstorm.de",
+      "region": "global",
+      "title": "REKA",
+      "headline": "鳥の足で歩く魔法の家と旅するADV「REKA」，正式版1.0を本日配信。物語の結末や新たな家具，クエストなどを追加",
+      "description": "Reka is the atmospheric witch cottage building game by studio Emberstorm Entertainment. Become an apprentice to the leg…",
+      "publishedAt": "2026-10-26T11:00:00.000Z",
+      "addedAt": "2026-10-26T11:30:15.723Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/715/G071564/20261026035/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "b0d8addf04bb",
       "url": "https://sensortower.com/grand-theft-auto-VI/sales-tracker",
@@ -3846,7 +3937,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/bb/93/f5bb936d-4f5b-9a96-9ebe-7e254e50fc08/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/47/66/a1476690-1db7-0213-4517-23dc0496c3ab/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9d77050a3c17",
