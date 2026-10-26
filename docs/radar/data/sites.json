@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T20:30:17.249Z",
+  "updatedAt": "2026-10-26T21:00:17.432Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1049,
+  "total": 1051,
   "regions": {
-    "jp": 865,
-    "global": 184
+    "jp": 866,
+    "global": 185
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 194
+      "count": 195
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 233
+      "count": 234
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 156
+      "count": 157
     }
   ],
   "platforms": [
@@ -121,17 +121,71 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "35810fc66e28",
+      "url": "https://www.misterdonut.jp/m_menu/new/261104_pokemon_donut/",
+      "host": "misterdonut.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "「ミスド」×『ポケモン』2026年はアローラディグダ！ヤドンのドーナツが初登場、地域別先行予約が順次開始",
+      "description": "みんなで集合！冬のポケモンキャンペーンの紹介です。",
+      "publishedAt": "2026-10-26T21:00:03.000Z",
+      "addedAt": "2026-10-26T21:00:17.432Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/27/189885.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "39de132952da",
+      "url": "https://www.gamesradar.com/goldenjoystickawards/",
+      "host": "gamesradar.com",
+      "region": "global",
+      "title": "バイオハザード レクイエム",
+      "headline": "2026年度「Golden Joystick Awards」GOTY候補発表！ 『バイオハザード レクイエム』や『プラグマタ』『ぽこ あ ポケモン』など選出",
+      "description": "It",
+      "publishedAt": "2026-10-26T21:00:02.000Z",
+      "addedAt": "2026-10-26T21:00:17.432Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/27/174110.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.mos.cms.futurecdn.net/F633A98o7F2CABs46JkQkc-1920-80.jpg"
+    },
     {
       "id": "07f6885d2397",
       "url": "https://apps.apple.com/jp/app/id6771652722",
@@ -10027,7 +10081,7 @@
       "region": "jp",
       "title": "荒野行動",
       "headline": "「荒野行動」×「ドン・キホーテ」コラボが本日スタート。巨大ンペンとの記念撮影でアイテムが手に入るチャンス",
-      "description": "モナキの衣装やエモートなどコラボアイテムを無料でゲット",
+      "description": "イベント参加でイタチ/カカシ金枠衣装と最大100連GET！サスケとイタチ、うちは兄弟が揃って殿堂実装！",
       "publishedAt": "2026-10-09T15:57:13.000Z",
       "addedAt": "2026-10-09T16:00:19.674Z",
       "source": "4Gamer",
@@ -10045,13 +10099,14 @@
       ],
       "categories": [
         "anniversary",
-        "campaign"
+        "campaign",
+        "event"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": "https://www.knivesout.jp/pc/gw/20200928100611/data/share20261016.jpg"
+      "image": "https://www.knivesout.jp/pc/gw/20200928100611/data/share20261031.jpg"
     },
     {
       "id": "ccb832f40b75",
