@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T03:30:31.151Z",
+  "updatedAt": "2026-10-26T04:00:31.571Z",
   "platforms": [
     {
       "id": "switch",
@@ -390,26 +390,6 @@
       }
     },
     {
-      "id": "d234b0a84670",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-16T13:26:36.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「ウマ娘」公式生配信番組「ぱかライブTV' #8」が10月24日20：00に配信。新育成シナリオ「朋、史解き ―午式駿大祭―」の詳細や新ウマ娘を発表",
-      "description": "ウマ娘 プリティーダービー公式ポータルサイトです。メディアミックスコンテンツ『ウマ娘 プロジェクト』に関する情報をお届けします。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/414/G041434/20261016070/",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "a194e704154b",
       "title": "グリザイア 集結の百果",
       "url": "https://grisaia-s100.com/",
@@ -453,6 +433,31 @@
       "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
       "appleId": "",
       "trackId": ""
+    },
+    {
+      "id": "f2295bca7a66",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-15T09:08:58.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
+      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
+      "appleId": "6476490037",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6476490037",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6476490037"
     }
   ],
   "changes": [
@@ -460,33 +465,9 @@
       "at": "2026-10-26T02:30:29.113Z",
       "type": "prereg_start",
       "label": "事前登録開始",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-26T02:30:29.113Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
       "title": "ゼンゼロ",
       "url": "https://zenless.hoyoverse.com/ja-jp/main",
       "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-26T01:00:32.933Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
       "platforms": [
         "mobile"
       ],
@@ -525,6 +506,29 @@
         "mobile"
       ],
       "to": "2026年10月26日"
+    },
+    {
+      "at": "2026-10-23T08:30:31.802Z",
+      "type": "new",
+      "label": "新規",
+      "title": "鉄廻城砦の灰花",
+      "url": "https://va-scripts.com/tekkaijosai",
+      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987",
+      "platforms": [],
+      "to": "2026年12月18日"
+    },
+    {
+      "at": "2026-10-23T05:00:29.573Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月23日",
+      "to": "2026年10月"
     }
   ]
 }
