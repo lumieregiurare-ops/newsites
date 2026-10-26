@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T05:30:17.035Z",
+  "updatedAt": "2026-10-26T06:00:15.972Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1033,
+  "total": 1034,
   "regions": {
-    "jp": 854,
+    "jp": 855,
     "global": 179
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 190
+      "count": 191
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 362
+      "count": 363
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Inside",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4145e0a17ff9",
+      "url": "http://suntory.jp/nope",
+      "host": "suntory.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』×「ギルティ炭酸 NOPE」コラボ！ダラダラ過ごすモンスター描く全4種ラベルが11月下旬発売",
+      "description": "『ドラクエ』×「ギルティ炭酸 NOPE」コラボ！ダラダラ過ごすモンスター描く全4種ラベルが11月下旬発売",
+      "publishedAt": "2026-10-26T06:00:04.000Z",
+      "addedAt": "2026-10-26T06:00:15.972Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/26/189840.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "59b6ed6880e2",
       "url": "https://hyakunie.com/",
