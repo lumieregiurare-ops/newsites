@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:00:32.933Z",
+  "updatedAt": "2026-10-26T01:30:30.328Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,26 +275,6 @@
   ],
   "prereg": [
     {
-      "id": "515a92b15681",
-      "title": "ゼンゼロ",
-      "url": "https://zenless.hoyoverse.com/ja-jp/main",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-24T05:05:02.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『ゼンゼロ』サンブリンガーの実戦PV公開！『崩壊：スターレイル』コラボにも続報、カフカとロビンの属性・特性が明らかに",
-      "description": "Zenless Zone Zero is a brand new action game. The story takes place in the near future, where a mysterious natural disa…",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/24/189749.html",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -390,26 +370,6 @@
       }
     },
     {
-      "id": "d234b0a84670",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-16T13:26:36.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「ウマ娘」公式生配信番組「ぱかライブTV' #8」が10月24日20：00に配信。新育成シナリオ「朋、史解き ―午式駿大祭―」の詳細や新ウマ娘を発表",
-      "description": "ウマ娘 プリティーダービー公式ポータルサイトです。メディアミックスコンテンツ『ウマ娘 プロジェクト』に関する情報をお届けします。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/414/G041434/20261016070/",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "a194e704154b",
       "title": "グリザイア 集結の百果",
       "url": "https://grisaia-s100.com/",
@@ -453,33 +413,54 @@
       "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
       "appleId": "",
       "trackId": ""
+    },
+    {
+      "id": "f2295bca7a66",
+      "title": "桃源暗鬼 Crimson Inferno",
+      "url": "https://tougenanki-crimsoninferno.com/",
+      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-15T09:08:58.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
+      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
+      "appleId": "6476490037",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6476490037",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6476490037"
+    },
+    {
+      "id": "2d8d5c03d78b",
+      "title": "重兵装型女子高生",
+      "url": "https://www.juheiso-game.jp/",
+      "image": "https://juheiso-game.jp/assets/images/common/img_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-14T11:00:20.997Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
+      "description": "『JJK: 重兵装型女子高生 ワードレスレコード』公式サイト。necoが描く『重兵装型女子高生』が、iOS・Android向けのふれあえる放置系RPGに。事前登録受付中。キャラクター、ゲームシステム、ASMRボイス、最新情報を紹介。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/?p=1660390",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
-    {
-      "at": "2026-10-26T01:00:32.933Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-26T01:00:32.933Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ゼンゼロ",
-      "url": "https://zenless.hoyoverse.com/ja-jp/main",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-26T01:00:32.933Z",
       "type": "new",
@@ -503,28 +484,49 @@
       "to": "2026年10月26日"
     },
     {
-      "at": "2026-10-24T21:30:30.637Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
+      "at": "2026-10-23T08:30:31.802Z",
+      "type": "new",
+      "label": "新規",
+      "title": "鉄廻城砦の灰花",
+      "url": "https://va-scripts.com/tekkaijosai",
+      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987",
+      "platforms": [],
+      "to": "2026年12月18日"
     },
     {
-      "at": "2026-10-24T17:30:27.391Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ウマ娘",
-      "url": "https://umamusume.jp/",
-      "image": "https://umamusume.jp/assets/images/ogp.jpg",
+      "at": "2026-10-23T05:00:29.573Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
       "platforms": [
         "mobile"
       ],
-      "to": ""
+      "from": "2026年10月23日",
+      "to": "2026年10月"
+    },
+    {
+      "at": "2026-10-22T15:30:33.316Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Wall World Strategy",
+      "url": "https://alawar.com/games/wall-world-strategy",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月11日"
+    },
+    {
+      "at": "2026-10-22T14:00:30.209Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Faraway",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年11月5日"
     }
   ]
 }
