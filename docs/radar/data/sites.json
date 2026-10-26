@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-26T09:30:19.456Z",
+  "updatedAt": "2026-10-26T10:00:19.677Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1039,
+  "total": 1042,
   "regions": {
-    "jp": 859,
-    "global": 180
+    "jp": 861,
+    "global": 181
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 43
+      "count": 44
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 119
+      "count": 120
     },
     {
       "id": "anniversary",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 155
+      "count": 156
     }
   ],
   "platforms": [
@@ -87,17 +87,17 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 30
+      "count": 31
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 16
+      "count": 17
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 128
+      "count": 129
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "Inside",
     "Game*Spark",
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "Inside",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,91 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b0d8addf04bb",
+      "url": "https://sensortower.com/grand-theft-auto-VI/sales-tracker",
+      "host": "sensortower.com",
+      "region": "global",
+      "title": "GTA6",
+      "headline": "約646万本が予約済み『GTA6』予約本数の伸びがすさまじい。現時点で大ヒットを記録した2022年版『CoD: MW2』の約2.5倍との分析",
+      "description": "Track GTA VI pre-orders, sales, revenue, and digital ad spend across PlayStation, Xbox, and Steam with Sensor Tower’s l…",
+      "publishedAt": "2026-10-26T09:45:03.000Z",
+      "addedAt": "2026-10-26T10:00:19.677Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/26/174094.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "56ba984f7357",
+      "url": "https://www.meiji.co.jp/products/brand/kinotake/kinokonoyama-wirelessearphone/",
+      "host": "meiji.co.jp",
+      "region": "jp",
+      "title": "きのこの山",
+      "headline": "「きのこの山」ワイヤレスイヤホンが「Pro」になって復活へ。1000人以上の「欲しい」が集まれば商品化する復活プロジェクトが始動",
+      "description": "きのこの山ワイヤレスイヤホン（同時翻訳機能付き）の公式サイト。遂に、きのこの山が話題のイヤホンに。製品情報、購入方法など。",
+      "publishedAt": "2026-10-26T09:40:19.000Z",
+      "addedAt": "2026-10-26T10:00:19.677Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261026w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.meiji.co.jp/products/brand/kinotake/kinokonoyama-wirelessearphone/assets/img/ogp.png"
+    },
+    {
+      "id": "5c2d446ecab0",
+      "url": "http://sega.jp/pc/pso/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "セガ・クリエイタープレイリスト",
+      "headline": "「セガ・クリエイタープレイリスト」第4弾として，小林秀聡氏のプレイリストが公開",
+      "description": "「セガ・クリエイタープレイリスト」第4弾として，小林秀聡氏のプレイリストが公開",
+      "publishedAt": "2026-10-26T09:39:42.000Z",
+      "addedAt": "2026-10-26T10:00:19.677Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/001/G000158/20261026039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "3c5b149c0e7f",
       "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/peanuts",
