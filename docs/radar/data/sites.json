@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-25T23:30:13.902Z",
+  "updatedAt": "2026-10-26T00:00:16.438Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1027,
+  "total": 1028,
   "regions": {
-    "jp": 848,
+    "jp": 849,
     "global": 179
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 118
+      "count": 119
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 324
+      "count": 325
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cfd153d26a31",
+      "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.snk0037",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "スロパチスピリット",
+      "headline": "『スロパチスピリット』に『Lパチスロ 革命機ヴァルヴレイヴ2』が登場！ 10月26日配信、事前登録も受付中",
+      "description": "2025年11月にホール導入された『Lパチスロ 革命機ヴァルヴレイヴ2』がスロスピに登場！",
+      "publishedAt": "2026-10-25T23:45:00.000Z",
+      "addedAt": "2026-10-26T00:00:16.438Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/26/game/3140954.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/7OqWC8Q0nTlbcrwo_IJuNV9DFaj7BxX-HulX94HnCLaHW6dWJerLXtDincuadld8ujLOrmyUZ_XGPV1OYbseOA=s0-br30"
+    },
     {
       "id": "4b3b67ea412d",
       "url": "https://apps.apple.com/jp/app/id6745584650",
