@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T10:00:19.677Z",
+  "updatedAt": "2026-10-26T10:30:16.382Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1042,
+  "total": 1044,
   "regions": {
     "jp": 861,
-    "global": 181
+    "global": 183
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 79
+      "count": 80
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 224
+      "count": 226
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 327
+      "count": 329
     },
     {
       "id": "browser",
@@ -125,8 +125,8 @@
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "AppBank",
     "App Store",
+    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
@@ -299,6 +299,40 @@
       ],
       "points": null,
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502"
+    },
+    {
+      "id": "cb5b9e49d7eb",
+      "url": "https://castleofnightmare.xyz/",
+      "host": "castleofnightmare.xyz",
+      "region": "global",
+      "title": "ミカ：ダンジョンの旅人",
+      "headline": "Tae won Go / ロールプレイング・アドベンチャー · App Store 新着",
+      "description": "Dave Studio is a game studio. Our games, Mika: Dungeon Backpacker and The Haunted House : Dark Island, let players sign…",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "addedAt": "2026-10-26T10:30:16.382Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6761421604"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "031164b76615",
@@ -23805,6 +23839,38 @@
         "iOS",
         "ライフスタイル",
         "トリビア"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "537004263614",
+      "url": "https://www.centurygames.com/",
+      "host": "centurygames.com",
+      "region": "global",
+      "title": "Top Force: Commander",
+      "headline": "Century Games Innovation Pte. Ltd. / ストラテジー · App Store 新着",
+      "description": "Experience gaming like never before with Century Games, a global leader in delivering exceptional gaming experiences. J…",
+      "publishedAt": "2026-09-19T07:00:00.000Z",
+      "addedAt": "2026-10-26T10:30:16.382Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6761893238"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー"
       ],
       "categories": [
         "goods"
