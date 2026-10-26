@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T09:00:33.291Z",
+  "updatedAt": "2026-10-26T09:30:34.038Z",
   "platforms": [
     {
       "id": "switch",
@@ -106,6 +106,23 @@
       "headline": "『No Man's Sky』iOS版が10月28日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/10/12/173523.html"
+    },
+    {
+      "id": "659617237eb7",
+      "title": "SULFUR",
+      "date": "2026-10-28",
+      "dateText": "2026年10月28日",
+      "sortKey": "2026-10-28",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "http://enemiesdiecool.com/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502",
+      "maker": "",
+      "headline": "ローグライクFPS「SULFUR」，Steam早期アクセス中の販売本数が50万本を突破。10月28日に正式版とコンソール版を発売",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/715/G071508/20261026026/"
     },
     {
       "id": "6714a8113fde",
@@ -253,24 +270,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "6690fb8e7d90",
-      "title": "ディスコ エリジウム",
-      "date": "2026-11-03",
-      "dateText": "2026年11月3日",
-      "sortKey": "2026-11-03",
-      "priority": 0,
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "url": "https://zeroparades.com/",
-      "image": "",
-      "maker": "",
-      "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
     }
   ],
   "prereg": [
@@ -462,6 +461,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-26T09:30:34.038Z",
+      "type": "new",
+      "label": "新規",
+      "title": "SULFUR",
+      "url": "http://enemiesdiecool.com/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年10月28日"
+    },
+    {
       "at": "2026-10-26T06:00:30.285Z",
       "type": "new",
       "label": "新規",
@@ -515,16 +526,6 @@
       ],
       "from": "2026年10月23日",
       "to": "2026年10月"
-    },
-    {
-      "at": "2026-10-22T15:30:33.316Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Wall World Strategy",
-      "url": "https://alawar.com/games/wall-world-strategy",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月11日"
     }
   ]
 }

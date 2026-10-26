@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T09:00:18.835Z",
+  "updatedAt": "2026-10-26T09:30:19.456Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1036,
+  "total": 1039,
   "regions": {
-    "jp": 857,
-    "global": 179
+    "jp": 859,
+    "global": 180
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 192
+      "count": 193
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 364
+      "count": 365
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 154
+      "count": 155
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 127
+      "count": 128
     },
     {
       "id": "mobile",
@@ -121,17 +121,100 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "4Gamer",
     "Inside",
-    "AppBank",
     "Game*Spark",
+    "4Gamer",
+    "電ファミニコゲーマー",
+    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3c5b149c0e7f",
+      "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/peanuts",
+      "host": "gu-global.com",
+      "region": "jp",
+      "title": "スヌーピー",
+      "headline": "GUの「スヌーピー」コラボに胸ワクワク！“仲間たちとのパーティ”テーマのルームウェア全8種",
+      "description": "GUの「スヌーピー」コラボに胸ワクワク！“仲間たちとのパーティ”テーマのルームウェア全8種",
+      "publishedAt": "2026-10-26T09:25:02.000Z",
+      "addedAt": "2026-10-26T09:30:19.456Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/26/189863.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "553c2ce8c91a",
+      "url": "https://gamecomteam.com/Troublemaker-3-Fallen-Dynasty",
+      "host": "gamecomteam.com",
+      "region": "global",
+      "title": "Troublemaker 3: Fallen Dynasty",
+      "headline": "インドネシア舞台のオープンワールド喧嘩アクション最新作『Troublemaker 3: Fallen Dynasty』発表！",
+      "description": "🤘Experience UwU-nstoppable fun and fueled action games! Start with Troublemaker! Stay Tune, Stay UwU",
+      "publishedAt": "2026-10-26T09:15:03.000Z",
+      "addedAt": "2026-10-26T09:30:19.456Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/26/174091.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "f335603f0951",
+      "url": "http://enemiesdiecool.com/",
+      "host": "enemiesdiecool.com",
+      "region": "jp",
+      "title": "SULFUR",
+      "headline": "ローグライクFPS「SULFUR」，Steam早期アクセス中の販売本数が50万本を突破。10月28日に正式版とコンソール版を発売",
+      "description": "SULFURは、敵の裏をかき、財宝を見つけ、武器を強化し、さまざまな能力を活かして戦う、モダンな古き良きアクションアドベンチャーゲームだ。どこまでも深く探索し、答えを見つけて物語を結末に導こう。",
+      "publishedAt": "2026-10-26T09:00:00.000Z",
+      "addedAt": "2026-10-26T09:30:19.456Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/715/G071508/20261026026/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502"
+    },
     {
       "id": "031164b76615",
       "url": "https://www.choco-flakes.jp/gundam/",
@@ -24992,6 +25075,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/010/G101087/20260917063/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/26/174093.html"
         }
       ],
       "tags": [
