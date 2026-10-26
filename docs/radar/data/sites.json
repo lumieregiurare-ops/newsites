@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T00:30:17.895Z",
+  "updatedAt": "2026-10-26T01:00:16.101Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1028,
+  "total": 1029,
   "regions": {
-    "jp": 849,
+    "jp": 850,
     "global": 179
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 360
+      "count": 361
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "4Gamer",
-    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "45d592391c21",
+      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/hello-kitty",
+      "host": "uniqlo.com",
+      "region": "jp",
+      "title": "ハローキティ",
+      "headline": "ユニクロから「ハローキティ」新作UTが12月上旬発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+      "description": "ユニクロから「ハローキティ」新作UTが12月上旬発売！「リボン」にフィーチャーした、大人向けのシンプルな4デザイン",
+      "publishedAt": "2026-10-26T01:00:03.000Z",
+      "addedAt": "2026-10-26T01:00:16.101Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/26/189815.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "cfd153d26a31",
       "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.snk0037",
