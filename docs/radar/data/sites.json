@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T12:30:24.856Z",
+  "updatedAt": "2026-10-26T13:00:18.662Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1047,
+  "total": 1049,
   "regions": {
-    "jp": 863,
+    "jp": 865,
     "global": 184
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 193
+      "count": 194
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 232
+      "count": 233
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 366
+      "count": 368
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 82
+      "count": 83
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 227
+      "count": 228
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 130
+      "count": 131
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 330
+      "count": 332
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,75 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "07f6885d2397",
+      "url": "https://apps.apple.com/jp/app/id6771652722",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "最高のチ",
+      "headline": "最高のチームで挑むルール無用のホッケー！あらゆる選択が重要な“非常に好評”ローグライトホッケーが正式リリース―採れたて！本日のSteam注目ゲーム15選【2026年10月26日】",
+      "description": "Bandai Namco Entertainment Inc.の「ONE PIECE 海のごちそうレストラン」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ONE PIECE 海のご…",
+      "publishedAt": "2026-10-26T13:00:03.000Z",
+      "addedAt": "2026-10-26T13:00:18.662Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/26/174104.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/88/76/668876a9-aae6-bf63-718b-9f4cc6c78a7f/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "c39d9ec51420",
+      "url": "https://apps.apple.com/jp/app/id6765827607",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "PLUS ULTRA",
+      "headline": "『PLUS ULTRA』に『寿司パレード』コラボ登場！ 体験版とあわせてハロウィンイベント10月16日から",
+      "description": "zawascriptの「PLUS ULTRA」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「PLUS ULTRA」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-26T12:45:00.000Z",
+      "addedAt": "2026-10-26T13:00:18.662Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/26/game/3140353.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/83/f8/2a83f8c4-1371-f17d-b4a7-e017c4f6190d/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "602574704596",
       "url": "https://apps.apple.com/jp/app/id1497130374",
