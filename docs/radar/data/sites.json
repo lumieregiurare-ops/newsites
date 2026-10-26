@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-26T06:00:15.972Z",
+  "updatedAt": "2026-10-26T06:30:18.493Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1034,
+  "total": 1035,
   "regions": {
-    "jp": 855,
+    "jp": 856,
     "global": 179
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 363
+      "count": 364
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 326
+      "count": 327
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bd6660ec2223",
+      "url": "https://wutheringwaves.kurogames.com/jp/",
+      "host": "wutheringwaves.kurogames.com",
+      "region": "jp",
+      "title": "鳴潮",
+      "headline": "「鳴潮」の共鳴者たちが，キー入力に合わせて机をパタパタ叩くデスクトップマスコットに。「Bongo Cat」開発元公認の「Wuwa Tappo」，本日リリース。無料で遊べる",
+      "description": "『鳴潮』は自由度の高い戦闘と多種多彩なコンテンツが楽しめるオープンワールドアクションRPGである。プレイヤーは長い眠りから目覚めた「漂泊者」となって自分の記憶と物語を探す旅に就き、十人十色の共鳴者の仲間たちと「悲鳴」を乗り越えていく。現在…",
+      "publishedAt": "2026-10-26T06:02:14.000Z",
+      "addedAt": "2026-10-26T06:30:18.493Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/634/G063420/20261026017/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://wutheringwaves.kurogames.com/favicon.ico"
+    },
     {
       "id": "4145e0a17ff9",
       "url": "http://suntory.jp/nope",

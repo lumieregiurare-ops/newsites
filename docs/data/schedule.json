@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-26T06:00:30.285Z",
+  "updatedAt": "2026-10-26T06:30:33.048Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
-      "appstoreSearch": 0.2,
-      "appstoreLookup": 0.5
+      "appstoreSearch": 8.5,
+      "appstoreLookup": 0
     },
     "nintendo": 244,
     "steam": 300,
     "news": 129,
     "appstore": {
-      "searched": 197,
-      "matched": 116,
+      "searched": 198,
+      "matched": 117,
       "preorder": 3,
       "fromLists": 1,
       "unverified": 3,
@@ -93,7 +93,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.294,
+      "priority": 3.293,
       "platforms": [
         "pc"
       ],
@@ -157,7 +157,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.245,
+      "priority": 3.2439999999999998,
       "platforms": [
         "pc"
       ],
@@ -189,7 +189,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.267,
+      "priority": 3.268,
       "platforms": [
         "pc"
       ],
@@ -301,7 +301,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.225,
+      "priority": 3.224,
       "platforms": [
         "pc"
       ],
@@ -349,7 +349,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.163,
+      "priority": 3.162,
       "platforms": [
         "pc"
       ],
@@ -445,7 +445,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.204,
+      "priority": 3.203,
       "platforms": [
         "pc"
       ],
@@ -461,7 +461,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.2720000000000002,
+      "priority": 3.271,
       "platforms": [
         "pc"
       ],
@@ -493,7 +493,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.098,
+      "priority": 3.099,
       "platforms": [
         "pc"
       ],
@@ -525,7 +525,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.196,
+      "priority": 3.195,
       "platforms": [
         "pc"
       ],
@@ -605,7 +605,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.221,
+      "priority": 3.222,
       "platforms": [
         "pc"
       ],
@@ -632,12 +632,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "501c2308b086",
+      "title": "FMV - Full Motion Voyeur Demo",
+      "date": "2026-10-26",
+      "dateText": "2026年10月26日",
+      "sortKey": "2026-10-26",
+      "priority": 3.298,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3601550/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601550/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "898ce0e9f09d",
       "title": "Forbidden Solitaire: The Discarded",
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.158,
+      "priority": 3.159,
       "platforms": [
         "pc"
       ],
@@ -653,7 +669,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.285,
+      "priority": 3.286,
       "platforms": [
         "pc"
       ],
@@ -685,7 +701,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.271,
+      "priority": 3.2720000000000002,
       "platforms": [
         "pc"
       ],
@@ -744,28 +760,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "2cb6958f481c",
-      "title": "Gloamfall Demo",
-      "date": "2026-10-26",
-      "dateText": "2026年10月26日",
-      "sortKey": "2026-10-26",
-      "priority": 3.298,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/5487300/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5487300/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "8bf91d5f5cfa",
       "title": "Grinner's Diner",
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.266,
+      "priority": 3.267,
       "platforms": [
         "pc"
       ],
@@ -813,7 +813,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.259,
+      "priority": 3.258,
       "platforms": [
         "pc"
       ],
@@ -941,7 +941,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.247,
+      "priority": 3.246,
       "platforms": [
         "pc"
       ],
@@ -1021,7 +1021,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.2439999999999998,
+      "priority": 3.243,
       "platforms": [
         "pc"
       ],
@@ -1037,7 +1037,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.268,
+      "priority": 3.266,
       "platforms": [
         "pc"
       ],
@@ -1133,7 +1133,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.258,
+      "priority": 3.259,
       "platforms": [
         "pc"
       ],
@@ -1149,7 +1149,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.282,
+      "priority": 3.281,
       "platforms": [
         "pc"
       ],
@@ -1160,28 +1160,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "8bfc6ea95209",
-      "title": "Marschwerk: Tug of War Strategy Demo",
-      "date": "2026-10-26",
-      "dateText": "2026年10月26日",
-      "sortKey": "2026-10-26",
-      "priority": 3.297,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/5342350/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5342350/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "160424967dff",
       "title": "Maximilien — A Psychological Horror Interactive Novel",
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.253,
+      "priority": 3.252,
       "platforms": [
         "pc"
       ],
@@ -1213,7 +1197,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.246,
+      "priority": 3.245,
       "platforms": [
         "pc"
       ],
@@ -1229,7 +1213,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.168,
+      "priority": 3.169,
       "platforms": [
         "pc"
       ],
@@ -1277,7 +1261,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.17,
+      "priority": 3.171,
       "platforms": [
         "pc"
       ],
@@ -1309,7 +1293,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.211,
+      "priority": 3.21,
       "platforms": [
         "pc"
       ],
@@ -1389,7 +1373,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.232,
+      "priority": 3.23,
       "platforms": [
         "pc"
       ],
@@ -1405,7 +1389,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.21,
+      "priority": 3.211,
       "platforms": [
         "pc"
       ],
@@ -1485,7 +1469,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.22,
+      "priority": 3.221,
       "platforms": [
         "pc"
       ],
@@ -1534,7 +1518,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.018,
+      "priority": 3.015,
       "platforms": [
         "pc"
       ],
@@ -1550,7 +1534,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.195,
+      "priority": 3.196,
       "platforms": [
         "pc"
       ],
@@ -1609,12 +1593,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "6fa6e5061041",
+      "title": "Respect The Horde Demo",
+      "date": "2026-10-26",
+      "dateText": "2026年10月26日",
+      "sortKey": "2026-10-26",
+      "priority": 3.297,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4550130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "cc3b3a5c05a4",
       "title": "Room Zero",
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.278,
+      "priority": 3.277,
       "platforms": [
         "pc"
       ],
@@ -1694,7 +1694,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.248,
+      "priority": 3.247,
       "platforms": [
         "pc"
       ],
@@ -1742,7 +1742,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.177,
+      "priority": 3.176,
       "platforms": [
         "pc"
       ],
@@ -1758,7 +1758,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.23,
+      "priority": 3.231,
       "platforms": [
         "pc"
       ],
@@ -1790,7 +1790,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.176,
+      "priority": 3.177,
       "platforms": [
         "pc"
       ],
@@ -1854,7 +1854,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.25,
+      "priority": 3.248,
       "platforms": [
         "pc"
       ],
@@ -1934,7 +1934,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.219,
+      "priority": 3.22,
       "platforms": [
         "pc"
       ],
@@ -1950,7 +1950,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.277,
+      "priority": 3.278,
       "platforms": [
         "pc"
       ],
@@ -2046,7 +2046,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.107,
+      "priority": 3.108,
       "platforms": [
         "pc"
       ],
@@ -2062,7 +2062,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.2359999999999998,
+      "priority": 3.235,
       "platforms": [
         "pc"
       ],
@@ -2270,7 +2270,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.235,
+      "priority": 3.2359999999999998,
       "platforms": [
         "pc"
       ],
@@ -2302,7 +2302,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.231,
+      "priority": 3.232,
       "platforms": [
         "pc"
       ],
@@ -2334,7 +2334,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.122,
+      "priority": 3.121,
       "platforms": [
         "pc"
       ],
@@ -2399,7 +2399,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.108,
+      "priority": 3.107,
       "platforms": [
         "pc"
       ],
@@ -2479,7 +2479,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.111,
+      "priority": 3.11,
       "platforms": [
         "pc"
       ],
@@ -2527,7 +2527,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.048,
+      "priority": 3.047,
       "platforms": [
         "pc"
       ],
@@ -2591,7 +2591,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.099,
+      "priority": 3.098,
       "platforms": [
         "pc"
       ],
@@ -2607,7 +2607,7 @@
       "date": "2026-10-26",
       "dateText": "2026年10月26日",
       "sortKey": "2026-10-26",
-      "priority": 3.206,
+      "priority": 3.204,
       "platforms": [
         "pc"
       ],
@@ -2671,7 +2671,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.281,
+      "priority": 3.282,
       "platforms": [
         "pc"
       ],
@@ -2687,7 +2687,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.293,
+      "priority": 3.294,
       "platforms": [
         "pc"
       ],
@@ -2719,7 +2719,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.222,
+      "priority": 3.225,
       "platforms": [
         "pc"
       ],
@@ -2751,7 +2751,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.159,
+      "priority": 3.158,
       "platforms": [
         "pc"
       ],
@@ -2821,7 +2821,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.076,
+      "priority": 3.075,
       "platforms": [
         "pc"
       ],
@@ -3052,7 +3052,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.286,
+      "priority": 3.285,
       "platforms": [
         "pc"
       ],
@@ -3100,7 +3100,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.121,
+      "priority": 3.122,
       "platforms": [
         "pc"
       ],
@@ -3180,7 +3180,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.162,
+      "priority": 3.163,
       "platforms": [
         "pc"
       ],
@@ -3372,7 +3372,7 @@
       "date": "2026-10-27",
       "dateText": "2026年10月27日",
       "sortKey": "2026-10-27",
-      "priority": 3.127,
+      "priority": 3.126,
       "platforms": [
         "pc"
       ],
@@ -3425,7 +3425,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.081,
+      "priority": 3.08,
       "platforms": [
         "pc"
       ],
@@ -3489,7 +3489,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.015,
+      "priority": 3.016,
       "platforms": [
         "pc"
       ],
@@ -3560,7 +3560,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.249,
+      "priority": 3.25,
       "platforms": [
         "pc"
       ],
@@ -3834,7 +3834,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.061,
+      "priority": 3.059,
       "platforms": [
         "pc"
       ],
@@ -3850,7 +3850,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.021,
+      "priority": 3.02,
       "platforms": [
         "pc"
       ],
@@ -3882,7 +3882,7 @@
       "date": "2026-10-28",
       "dateText": "2026年10月28日",
       "sortKey": "2026-10-28",
-      "priority": 3.169,
+      "priority": 3.168,
       "platforms": [
         "pc"
       ],
@@ -3921,7 +3921,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.252,
+      "priority": 3.253,
       "platforms": [
         "pc"
       ],
@@ -4379,7 +4379,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.059,
+      "priority": 3.06,
       "platforms": [
         "pc"
       ],
@@ -4411,7 +4411,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.047,
+      "priority": 3.048,
       "platforms": [
         "pc"
       ],
@@ -4467,7 +4467,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.203,
+      "priority": 3.206,
       "platforms": [
         "pc"
       ],
@@ -5418,7 +5418,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.151,
+      "priority": 3.15,
       "platforms": [
         "pc"
       ],
@@ -5818,7 +5818,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.06,
+      "priority": 3.061,
       "platforms": [
         "pc"
       ],
@@ -5916,7 +5916,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.224,
+      "priority": 3.219,
       "platforms": [
         "pc"
       ],
@@ -5932,7 +5932,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.016,
+      "priority": 3.018,
       "platforms": [
         "pc"
       ],
@@ -6061,7 +6061,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.126,
+      "priority": 3.127,
       "platforms": [
         "pc"
       ],
@@ -6461,7 +6461,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.15,
+      "priority": 3.151,
       "platforms": [
         "pc"
       ],
@@ -6736,7 +6736,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.08,
+      "priority": 3.081,
       "platforms": [
         "pc"
       ],
@@ -6752,7 +6752,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.171,
+      "priority": 3.17,
       "platforms": [
         "pc"
       ],
@@ -6857,7 +6857,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.02,
+      "priority": 3.021,
       "platforms": [
         "pc"
       ],
@@ -7412,7 +7412,7 @@
       "date": "2026-11-15",
       "dateText": "2026年11月15日",
       "sortKey": "2026-11-15",
-      "priority": 3.243,
+      "priority": 3.249,
       "platforms": [
         "pc"
       ],
@@ -7910,7 +7910,7 @@
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.11,
+      "priority": 3.111,
       "platforms": [
         "pc"
       ],
@@ -8085,7 +8085,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.075,
+      "priority": 3.076,
       "platforms": [
         "pc"
       ],
