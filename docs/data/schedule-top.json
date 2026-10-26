@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:30:29.684Z",
+  "updatedAt": "2026-10-26T05:00:36.758Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,26 +275,6 @@
   ],
   "prereg": [
     {
-      "id": "515a92b15681",
-      "title": "ゼンゼロ",
-      "url": "https://zenless.hoyoverse.com/ja-jp/main",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-24T05:05:02.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『ゼンゼロ』サンブリンガーの実戦PV公開！『崩壊：スターレイル』コラボにも続報、カフカとロビンの属性・特性が明らかに",
-      "description": "Zenless Zone Zero is a brand new action game. The story takes place in the near future, where a mysterious natural disa…",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/24/189749.html",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -458,33 +438,29 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6476490037"
+    },
+    {
+      "id": "2d8d5c03d78b",
+      "title": "重兵装型女子高生",
+      "url": "https://www.juheiso-game.jp/",
+      "image": "https://juheiso-game.jp/assets/images/common/img_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-14T11:00:20.997Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
+      "description": "『JJK: 重兵装型女子高生 ワードレスレコード』公式サイト。necoが描く『重兵装型女子高生』が、iOS・Android向けのふれあえる放置系RPGに。事前登録受付中。キャラクター、ゲームシステム、ASMRボイス、最新情報を紹介。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/?p=1660390",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
-    {
-      "at": "2026-10-26T02:30:29.113Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ゼンゼロ",
-      "url": "https://zenless.hoyoverse.com/ja-jp/main",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-10-26T01:00:32.933Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ゼンゼロ",
-      "url": "https://zenless.hoyoverse.com/ja-jp/main",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-26T01:00:32.933Z",
       "type": "new",
@@ -529,6 +505,28 @@
       ],
       "from": "2026年10月23日",
       "to": "2026年10月"
+    },
+    {
+      "at": "2026-10-22T15:30:33.316Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Wall World Strategy",
+      "url": "https://alawar.com/games/wall-world-strategy",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月11日"
+    },
+    {
+      "at": "2026-10-22T14:00:30.209Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Faraway",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
+      "image": "https://img-eshop.cdn.nintendo.net/i/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年11月5日"
     }
   ]
 }
