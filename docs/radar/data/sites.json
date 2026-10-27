@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T08:30:18.367Z",
+  "updatedAt": "2026-10-27T09:00:18.494Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1064,
+  "total": 1065,
   "regions": {
-    "jp": 878,
+    "jp": 879,
     "global": 186
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 120
+      "count": 121
     },
     {
       "id": "anniversary",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e604c811b5b6",
+      "url": "https://rocokingdom.com/ja/",
+      "host": "rocokingdom.com",
+      "region": "jp",
+      "title": "Roco Kingdom",
+      "headline": "新作『Roco Kingdom』初のグローバルCBTが10月27日より開始！210種以上の「ジニ」収集やマルチプレイを体験可能",
+      "description": "『Roco Kingdom』次世代オープンワールド・モンスター収集RPG",
+      "publishedAt": "2026-10-27T08:50:02.000Z",
+      "addedAt": "2026-10-27T09:00:18.494Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/27/189928.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://rocokingdom.com/share/img/ja.png"
+    },
     {
       "id": "6a3740969365",
       "url": "https://100hcurry.com/",
