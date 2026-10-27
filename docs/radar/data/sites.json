@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T21:30:19.097Z",
+  "updatedAt": "2026-10-27T22:00:16.957Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1072,
+  "total": 1073,
   "regions": {
-    "jp": 886,
+    "jp": 887,
     "global": 186
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 371
+      "count": 372
     },
     {
       "id": "indie",
@@ -117,7 +117,7 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 5
+      "count": 6
     }
   ],
   "sources": [
@@ -4883,6 +4883,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/528/G052880/20261020018/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/28/174163.html"
         }
       ],
       "tags": [
@@ -16988,6 +16992,35 @@
       "platforms": [],
       "points": null,
       "image": "https://www.grasshopper.co.jp/assets/img/ogp.jpg"
+    },
+    {
+      "id": "a7dc5eccfc93",
+      "url": "https://nobrakesgames.com/games/tiny-flock",
+      "host": "nobrakesgames.com",
+      "region": "jp",
+      "title": "Human: Fall Flat",
+      "headline": "「Human: Fall Flat」のクリエイター陣が手がけるVRゲーム「Tiny Flock」，本日リリース",
+      "description": "「Human: Fall Flat」のクリエイター陣が手がけるVRゲーム「Tiny Flock」，本日リリース",
+      "publishedAt": "2026-09-30T12:09:37.000Z",
+      "addedAt": "2026-09-30T12:30:18.701Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/033/G103332/20260930048/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "vr"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "fa6d4170de6c",
@@ -29489,7 +29522,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72t2-rcFe9TStTk6ZLyOJOqxdzcaQjn526kqz6JYBuXm1Ct0JUjt3iGSE040TdEkx90JY70hpDFfES0aoqympZ2ntUiW8hYPJ4kZOuJR9ci96XCWhs53rNVxNC92feD8CDM67zt2tQlSGsVO6AaWr-2ODD2-iqJxV1WoTsw_6jtEiNy6-wQVYscD5Lia=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uIfaIGpnPb0mjFdkBQnU-SE4U7jaOccCKEbrgd747QAu83mA187GuldiH4lCWAVE_Y1p8LTL6dpU-7ZF8qGLJsXkkP_5QbXF7G6kn9ej17kcya61WRA8avYCYF1VnhofYvQQ8AaQAhs1nOIbYPWnkiO58YLMA59H1kU9zwllhZ2jvBUcGvnfpUEeoN=w16383"
     },
     {
       "id": "7f727450ced7",
