@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T03:00:17.690Z",
+  "updatedAt": "2026-10-27T03:30:16.206Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1056,
+  "total": 1061,
   "regions": {
-    "jp": 870,
+    "jp": 875,
     "global": 186
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 196
+      "count": 197
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 368
+      "count": 370
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 15
+      "count": 16
     },
     {
       "id": "company",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 229
+      "count": 230
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 159
+      "count": 160
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 33
+      "count": 34
     },
     {
       "id": "ps",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 131
+      "count": 132
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 334
+      "count": 335
     },
     {
       "id": "browser",
@@ -121,17 +121,102 @@
     }
   ],
   "sources": [
-    "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "AppBank",
     "Inside",
-    "4Gamer",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e07d040a706d",
+      "url": "https://www.h2int.com/games/007fl/",
+      "host": "h2int.com",
+      "region": "jp",
+      "title": "007 ファースト・ライト",
+      "headline": "Switch2向け「007 ファースト・ライト」，パッケージ版の発売日が2027年3月18日に決定。新たな早期購入特典は「ゴールデンアイスーツスキン」",
+      "description": "ナンバーを勝ち取れ。007 First Light は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のス…",
+      "publishedAt": "2026-10-27T03:04:33.000Z",
+      "addedAt": "2026-10-27T03:30:16.206Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/897/G089783/20261027006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://image.directg.net/g8329q5ad5"
+    },
+    {
+      "id": "841013db1d52",
+      "url": "https://www.fulqrumpublishing.com/",
+      "host": "fulqrumpublishing.com",
+      "region": "jp",
+      "title": "Stygian: Outer Gods",
+      "headline": "クトゥルフ神話を題材にしたサバイバルホラー「Stygian: Outer Gods」がPC向けに正式リリース",
+      "description": "クトゥルフ神話を題材にしたサバイバルホラー「Stygian: Outer Gods」がPC向けに正式リリース",
+      "publishedAt": "2026-10-27T03:00:43.000Z",
+      "addedAt": "2026-10-27T03:30:16.206Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/788/G078888/20261027007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "db3a5b62c6d0",
+      "url": "https://magic.wizards.com/ja/products/star-trek/card-image-gallery",
+      "host": "magic.wizards.com",
+      "region": "jp",
+      "title": "MtG",
+      "headline": "『MtG』×『スター・トレック』コラボの最新カード情報を電ファミにて独占公開！4マナ3/3で3/3トークンを召喚し、自軍のトークン生成を置換する《ホロ・エンジニア》が登場。下環境…",
+      "description": "『マジック・ザ・ギャザリング | スター・トレック™』の勇敢なる新規カードを探索し、2026年11月13日に宇宙への旅に出かけましょう。",
+      "publishedAt": "2026-10-27T03:00:14.000Z",
+      "addedAt": "2026-10-27T03:30:16.206Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261027c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://images.ctfassets.net/s5n2t79q9icq/6L9cabbTBXc1t9weWGjS7X/e1f31597876143add9fdea0a47b6a361/TRK_Play_Booster_960x540.jpg"
+    },
     {
       "id": "7891fadca097",
       "url": "https://indie.live-expo.games/",
@@ -159,6 +244,66 @@
       "platforms": [],
       "points": null,
       "image": "https://indie.live-expo.games/cms/wp-content/uploads/ILE2024_ogp_1200x630_RE01.png"
+    },
+    {
+      "id": "220f3505c6a7",
+      "url": "https://plametakeeper.com/hitoriasobi/",
+      "host": "plametakeeper.com",
+      "region": "jp",
+      "title": "ひとりあそび",
+      "headline": "おもちゃを動かして戦うデッキ構築型ローグライク「ひとりあそび」，ドリコムがパブリッシングを発表。フルボイスで描く不穏な物語",
+      "description": "かわいい、けどちょっとヘン。デッキ構築型ローグライク × 3Dボードゲーム『ひとりあそび』公式サイト。ストーリー・キャラクター・ゲームシステム・最新NEWSをお届け。",
+      "publishedAt": "2026-10-27T03:00:00.000Z",
+      "addedAt": "2026-10-27T03:30:16.206Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/979/G097959/20261027005/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://plametakeeper.com/images/hitoriasobi/hitoriasobi_KV.webp"
+    },
+    {
+      "id": "c922bf82d4d7",
+      "url": "https://apps.apple.com/jp/app/id6790258230",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "時渡り",
+      "headline": "歴史学習RPG『時渡り』v3.0公開！ グラフィック・ミニゲーム・解説アニメを全面刷新",
+      "description": "SNAPLACEの「時渡り 日本史・世界史RPG」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「時渡り 日本史・世界史RPG」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-27T03:00:00.000Z",
+      "addedAt": "2026-10-27T03:30:16.206Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/27/game/3144807.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/4e/a8/534ea8e0-d33b-96c1-a871-d46ce03c0077/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "adc0f0b5d710",
