@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T14:30:32.541Z",
+  "updatedAt": "2026-10-27T15:00:31.559Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,36 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "7516660a11b2",
-      "title": "Mimic",
-      "date": "2026-10-27",
-      "dateText": "2026年10月27日",
-      "sortKey": "2026-10-27",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://playmimic.com/",
-      "image": "",
-      "maker": "",
-      "headline": "リアルタイムに募る疑心暗鬼。非対称型の人狼系ホラー「Mimic」の早期アクセス版を10月27日に配信決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/047/G104794/20261006018/"
-    },
-    {
-      "id": "cd4b71aa2da0",
-      "title": "NGS ヘッドラインWAVE",
-      "date": "2026-10-27",
-      "dateText": "2026年10月27日",
-      "sortKey": "2026-10-27",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://new-gen.pso2.jp/",
-      "image": "",
-      "maker": "",
-      "headline": "「NGS ヘッドラインWAVE」，10月27日21：00より配信。12月登場予定の新大型ボスの先行PVを公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/521/G052100/20261027010/"
-    },
     {
       "id": "659617237eb7",
       "title": "SULFUR",
@@ -270,6 +240,38 @@
       "headline": "「ディスコ エリジウム」を手掛けたZA/UMによるスパイRPG「ZERO PARADES: Director's Cut」，2026年11月3日にPS5版とNintendo Sw…",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
+    },
+    {
+      "id": "871c2b29e785",
+      "title": "World of Warcraft: Forever",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://worldofwarcraft.blizzard.com/en-gb/forever/",
+      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt766f7698aedb7b7f/6a9bc5882437ed5612d4878f/Open_Graph_-_Camelot.jpg",
+      "maker": "",
+      "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
+    },
+    {
+      "id": "0069d9789d4e",
+      "title": "PAYDAY: Aces High",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 0,
+      "platforms": [
+        "vr"
+      ],
+      "url": "https://www.paydaythegame.com/aceshigh/",
+      "image": "",
+      "maker": "",
+      "headline": "今度の“ヤマ”にはVRで挑む。「PAYDAY: Aces High」，11月5日にリリース決定。最大4人で遊べる協力型クライムFPS最新作",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/993/G099310/20261027024/"
     }
   ],
   "prereg": [
@@ -461,6 +463,30 @@
   ],
   "changes": [
     {
+      "at": "2026-10-27T15:00:31.559Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ゼルダ無双 厄災の黙示録 DX",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000130659",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e8217b1e80346c7b51bfd7da039327619499e89d50d88c477968a9a2c2385bbc.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年2月25日"
+    },
+    {
+      "at": "2026-10-27T15:00:31.559Z",
+      "type": "new",
+      "label": "新規",
+      "title": "アルファード",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000070117",
+      "image": "https://img-eshop.cdn.nintendo.net/i/34ce778c1aec2dd5959d8351a3bac70ec18439c8700d7bfaca280a7f1b262af7.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年2月25日"
+    },
+    {
       "at": "2026-10-27T06:00:26.991Z",
       "type": "new",
       "label": "新規",
@@ -471,16 +497,6 @@
         "vr"
       ],
       "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-27T04:00:36.920Z",
-      "type": "new",
-      "label": "新規",
-      "title": "NGS ヘッドラインWAVE",
-      "url": "https://new-gen.pso2.jp/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年10月27日"
     },
     {
       "at": "2026-10-26T18:00:33.560Z",
@@ -518,19 +534,6 @@
         "switch2"
       ],
       "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-26T14:30:34.471Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "No Man's Sky",
-      "url": "https://www.nomanssky.com/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "platforms": [
-        "ps",
-        "mobile"
-      ],
-      "to": "App Store 2026年10月29日"
     }
   ]
 }
