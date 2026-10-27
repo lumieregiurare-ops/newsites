@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T11:30:16.031Z",
+  "updatedAt": "2026-10-27T12:00:17.678Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1069,
+  "total": 1070,
   "regions": {
-    "jp": 883,
+    "jp": 884,
     "global": 186
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 237
+      "count": 238
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 17
+      "count": 18
     },
     {
       "id": "browser",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 45
+      "count": 46
     },
     {
       "id": "goods",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c1da9b7c6ab0",
+      "url": "https://sapporo-game-camp.com/2026/",
+      "host": "sapporo-game-camp.com",
+      "region": "jp",
+      "title": "Sapporo Game Camp 2026",
+      "headline": "「Sapporo Game Camp 2026」の公式レポートが公開に。延べ来場者数は約2500名を記録",
+      "description": "「Sapporo Game Camp」2026年10月9日(金)・10日(土)・11日(日)、プロと一緒にゲーム開発に挑戦する「Game Jam」、各種イベントも同時開催！",
+      "publishedAt": "2026-10-27T11:45:29.000Z",
+      "addedAt": "2026-10-27T12:00:17.678Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999104/20261027055/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "indie",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sapporo-game-camp.com/2026/ogp.png"
+    },
     {
       "id": "b5ec775192ea",
       "url": "https://cedec-kyushu.jp/2026/",
