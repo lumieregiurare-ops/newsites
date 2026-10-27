@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-27T10:00:19.551Z",
+  "updatedAt": "2026-10-27T10:30:16.544Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1066,
+  "total": 1067,
   "regions": {
-    "jp": 880,
+    "jp": 881,
     "global": 186
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 44
+      "count": 45
     },
     {
       "id": "prereg",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3c11b587ceab",
+      "url": "https://mechasamurai.com/",
+      "host": "mechasamurai.com",
+      "region": "jp",
+      "title": "シャーマンキング",
+      "headline": "『シャーマンキング』作者・武井宏之氏がメインキャラクター原案を務めるショートアニメ『メカザムライ』が始動。11月2日よりYouTubeなどで毎日配信",
+      "description": "テレビ東京 × Plott の新ショートアニメプロジェクト『メカザムライ』公式サイト。メインキャラクター原案は武井宏之。2026年11月2日（月）よりYouTube・X・Instagram・TikTokで縦型ショート動画を毎日配信、11月…",
+      "publishedAt": "2026-10-27T10:30:04.000Z",
+      "addedAt": "2026-10-27T10:30:16.544Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610272y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mechasamurai.com/assets/og/ogp.jpg"
+    },
     {
       "id": "3345b49fe0d6",
       "url": "https://www.capcom-games.com/onimusha/ws/ja-jp/",
@@ -1898,7 +1925,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/42/77/9d427716-1dd9-47c3-d279-c6c3eca65998/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/5c/96/495c96e6-0650-62cb-d853-503285491e9a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "c1ad5ec6990a",
@@ -5171,7 +5198,7 @@
       "region": "global",
       "title": "サイバーパンク2077",
       "headline": "『サイバーパンク2077』協力プレイMod「NightCoop」のオープンベータが近日スタート！",
-      "description": "Сюжет Cyberpunk 2077 — вместе, до 8 игроков. Кооператив и PvP, мод на RED4ext. Открытая бета — 23 октября.",
+      "description": "The Cyberpunk 2077 story — together, up to 8 players. Co-op and PvP, a RED4ext mod. Open beta — 23 October.",
       "publishedAt": "2026-10-19T07:45:25.000Z",
       "addedAt": "2026-10-19T08:00:16.438Z",
       "source": "Game*Spark",
@@ -11086,7 +11113,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/7a/b5/e57ab5eb-5574-8a99-6927-c4d98e8f0735/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/84/57/54845787-7e87-95c6-b1b9-1dfa7a4b16ca/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "1b3cc750e6aa",
@@ -22215,7 +22242,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/eb/b4/64ebb454-8153-102d-0a59-e0c55aab5337/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/a6/ea/f4a6ea2e-047e-2053-f593-c94ec236dd0a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0efac8c9e009",
