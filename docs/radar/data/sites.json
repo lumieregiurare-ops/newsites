@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T09:00:18.494Z",
+  "updatedAt": "2026-10-27T09:30:20.305Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1065,
+  "total": 1066,
   "regions": {
-    "jp": 879,
+    "jp": 880,
     "global": 186
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 161
+      "count": 162
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3345b49fe0d6",
+      "url": "https://www.capcom-games.com/onimusha/ws/ja-jp/",
+      "host": "capcom-games.com",
+      "region": "jp",
+      "title": "カプコン，2027年3月期第2四半期（中間期）決算を発表",
+      "headline": "カプコン，2027年3月期第2四半期（中間期）決算を発表。上半期のゲームソフト販売本数は3686万本で過去最高を記録",
+      "description": "鬼武者シリーズ最新作となる、血で血を洗う至高の剣戟アクションゲーム「鬼武者 Way of the Sword」公式サイト",
+      "publishedAt": "2026-10-27T09:14:45.000Z",
+      "addedAt": "2026-10-27T09:30:20.305Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/865/G086595/20261027039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom-games.com/onimusha/ws/assets/images/share.png"
+    },
     {
       "id": "e604c811b5b6",
       "url": "https://rocokingdom.com/ja/",
