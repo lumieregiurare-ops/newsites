@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T19:30:20.136Z",
+  "updatedAt": "2026-10-27T20:00:19.710Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1071,
+  "total": 1072,
   "regions": {
-    "jp": 885,
+    "jp": 886,
     "global": 186
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 232
+      "count": 233
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 132
+      "count": 133
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 336
+      "count": 337
     },
     {
       "id": "browser",
@@ -124,9 +124,9 @@
     "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
+    "App Store",
     "Game*Spark",
     "AppBank",
-    "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
@@ -295,6 +295,39 @@
       "platforms": [],
       "points": null,
       "image": "https://rocokingdom.com/share/img/ja.png"
+    },
+    {
+      "id": "2ec8272a85f0",
+      "url": "https://www.moreread.net/apps/bravest2/",
+      "host": "moreread.net",
+      "region": "jp",
+      "title": "Bravest!2",
+      "headline": "Mario Ito / ロールプレイング · App Store 新着",
+      "description": "iアプリから移植したレトロRPG。Steam、iOS、Android向けに公開しています。",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "addedAt": "2026-10-27T20:00:19.710Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6763740951"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.moreread.net/apps/bravest2/banner.png"
     },
     {
       "id": "6a3740969365",
