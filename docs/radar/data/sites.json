@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T11:00:17.984Z",
+  "updatedAt": "2026-10-27T11:30:16.031Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1067,
+  "total": 1069,
   "regions": {
-    "jp": 881,
+    "jp": 883,
     "global": 186
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 198
+      "count": 199
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 236
+      "count": 237
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b5ec775192ea",
+      "url": "https://cedec-kyushu.jp/2026/",
+      "host": "cedec-kyushu.jp",
+      "region": "jp",
+      "title": "CEDEC+KYUSHU 2026",
+      "headline": "「CEDEC+KYUSHU 2026」，全35セッションとタイムテーブルが公開に。基調講演はレベルファイブ代表取締役社長／CEOの日野晃博氏が務める",
+      "description": "コンピュータエンターテインメント開発者向けカンファレンス『CEDEC＋KYUSHU 2026』公式WEBサイト。2026年11月14日（土）開催。",
+      "publishedAt": "2026-10-27T11:28:26.000Z",
+      "addedAt": "2026-10-27T11:30:16.031Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999104/20261027054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cedec-kyushu.jp/2026/images/ogp_img0818.png"
+    },
+    {
+      "id": "6486e23b0b0d",
+      "url": "https://thankyoumart.jp/blogs/news/shizuku2026",
+      "host": "thankyoumart.jp",
+      "region": "jp",
+      "title": "しずくちゃん",
+      "headline": "“平成ファンシー”テイストが懐かし可愛い！サンキューマート×「しずくちゃん」コラボ第2弾が販売へ",
+      "description": "「しずくちゃん」の限定アイテムが新登場！「しずくちゃん」をはじめ、「うるおいちゃん」や「みるみるちゃん」などの人気キャラクターたちをデザインした全24アイテムをラインナップ☆",
+      "publishedAt": "2026-10-27T11:15:02.000Z",
+      "addedAt": "2026-10-27T11:30:16.031Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/27/189939.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://thankyoumart.jp/cdn/shop/articles/2026_1600x900_0918.jpg?v=1791428256"
+    },
     {
       "id": "3c11b587ceab",
       "url": "https://mechasamurai.com/",
@@ -750,7 +804,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261026111904"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261027113035"
     },
     {
       "id": "2f282a7a4a54",
@@ -5316,7 +5370,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/36/50/3536504f-ffbd-e750-b019-40a273f2aac5/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/f4/77/70f477bd-cc4d-fad4-41c5-88457905d7b9/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "70308cf1637d",
@@ -13589,6 +13643,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/047/G104794/20261006018/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/27/174148.html"
         }
       ],
       "tags": [
