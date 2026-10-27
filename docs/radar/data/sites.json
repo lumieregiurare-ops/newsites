@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T05:30:17.277Z",
+  "updatedAt": "2026-10-27T06:00:16.354Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1062,
+  "total": 1064,
   "regions": {
-    "jp": 876,
+    "jp": 878,
     "global": 186
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 197
+      "count": 198
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 370
+      "count": 371
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 230
+      "count": 231
     },
     {
       "id": "official",
@@ -117,21 +117,78 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 4
+      "count": 5
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
-    "Inside",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6a3740969365",
+      "url": "https://100hcurry.com/",
+      "host": "100hcurry.com",
+      "region": "jp",
+      "title": "100時間カレー",
+      "headline": "にじさんじ・魔界ノりりむ、神田笑一、春崎エアルがカレー専門店「100時間カレー」とコラボ！ 限定メニューやコースターも",
+      "description": "レトルトカレー・スパイスカレーの通販・お取り寄せなら100時間カレー公式通販サイトへ。コクとうま味にこだわった家族全員で楽しめる本格カレーです。",
+      "publishedAt": "2026-10-27T06:00:03.000Z",
+      "addedAt": "2026-10-27T06:00:16.354Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/27/189914.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://100hcurry.com/contents/ex/ogp.gif"
+    },
+    {
+      "id": "3b625fc4a556",
+      "url": "https://www.paydaythegame.com/aceshigh/",
+      "host": "paydaythegame.com",
+      "region": "jp",
+      "title": "PAYDAY: Aces High",
+      "headline": "今度の“ヤマ”にはVRで挑む。「PAYDAY: Aces High」，11月5日にリリース決定。最大4人で遊べる協力型クライムFPS最新作",
+      "description": "今度の“ヤマ”にはVRで挑む。「PAYDAY: Aces High」，11月5日にリリース決定。最大4人で遊べる協力型クライムFPS最新作",
+      "publishedAt": "2026-10-27T05:57:14.000Z",
+      "addedAt": "2026-10-27T06:00:16.354Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/993/G099310/20261027024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "vr"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "c5eac7ca06bc",
       "url": "https://new-gen.pso2.jp/",
