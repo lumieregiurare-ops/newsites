@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T14:00:19.111Z",
+  "updatedAt": "2026-10-27T14:30:18.072Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1070,
+  "total": 1071,
   "regions": {
-    "jp": 884,
+    "jp": 885,
     "global": 186
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 231
+      "count": 232
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 335
+      "count": 336
     },
     {
       "id": "browser",
@@ -1071,6 +1071,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "b783ca3f9a17",
+      "url": "https://www.rewards.kurashiru.com/",
+      "host": "rewards.kurashiru.com",
+      "region": "jp",
+      "title": "開拓うさぎ",
+      "headline": "Kurashiru, Inc / カジュアル・パズル · App Store 新着",
+      "description": "日常生活のついでにポイントがたまるお得なアプリ！ネットショッピングやアプリダウンロードなど自分に合った方法でコインを獲得し、ためたコインは様々な特典（他社ポイント・デジタルギフト・電子マネーなど）と交換することができます。",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "addedAt": "2026-10-27T14:30:18.072Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6808466426"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.rewards.kurashiru.com/opengraph-image.png?4def5c5756477ca9"
     },
     {
       "id": "031164b76615",
