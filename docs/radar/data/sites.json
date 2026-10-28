@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T02:30:17.519Z",
+  "updatedAt": "2026-10-28T03:00:18.183Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1075,
+  "total": 1076,
   "regions": {
-    "jp": 887,
+    "jp": 888,
     "global": 188
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 373
+      "count": 374
     },
     {
       "id": "indie",
@@ -87,12 +87,12 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 31
+      "count": 32
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 17
+      "count": 18
     },
     {
       "id": "pc",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f23b2d934a9d",
+      "url": "https://www.conanexiles.com/ja/japanese-main/",
+      "host": "conanexiles.com",
+      "region": "jp",
+      "title": "Conan Exiles Enhanced",
+      "headline": "「Conan Exiles Enhanced」のPS5版，XBOX Series X|S版と，「Aloft」のPS5版がリリース決定",
+      "description": "「Conan Exiles Enhanced」のPS5版，XBOX Series X|S版と，「Aloft」のPS5版がリリース決定",
+      "publishedAt": "2026-10-28T02:52:02.000Z",
+      "addedAt": "2026-10-28T03:00:18.183Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/053/G105351/20261028005/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps",
+        "xbox"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "1a1de6e4de05",
       "url": "https://www.virtueandasledgehammer.com/",
@@ -31972,6 +32002,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/033/G103301/20260909020/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/189957.html"
         }
       ],
       "tags": [
