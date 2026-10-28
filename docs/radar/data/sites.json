@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T08:00:17.783Z",
+  "updatedAt": "2026-10-28T08:30:17.695Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1087,
+  "total": 1088,
   "regions": {
-    "jp": 896,
+    "jp": 897,
     "global": 191
   },
   "categories": [
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 17
+      "count": 18
     },
     {
       "id": "company",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "arcade",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "24201970599f",
+      "url": "https://site.nizima-action.com/ja/",
+      "host": "site.nizima-action.com",
+      "region": "jp",
+      "title": "nizima ACTION!!",
+      "headline": "Live2D公式オンライン動画エディター「nizima ACTION!!」に共同編集機能が新登場。VTuberグループのメンバーをまとめて紹介できる「メンバー紹介テンプレート」も…",
+      "description": "nizima ACTION!! は、ブラウザで動くオンライン動画エディターです。ブラウザで気軽にリッチな動画編集をしてみませんか？",
+      "publishedAt": "2026-10-28T08:00:36.000Z",
+      "addedAt": "2026-10-28T08:30:17.695Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261028x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://site.nizima-action.com/wp-content/uploads/2025/07/ogp_facebook.png"
+    },
     {
       "id": "aaa5411df493",
       "url": "https://www.vantan.co.jp/special/bunkasai/",
@@ -292,6 +321,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/893/G089331/20261028008/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/189983.html"
         }
       ],
       "tags": [

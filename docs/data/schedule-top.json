@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T08:00:32.328Z",
+  "updatedAt": "2026-10-28T08:30:28.503Z",
   "platforms": [
     {
       "id": "switch",
@@ -276,31 +276,6 @@
   ],
   "prereg": [
     {
-      "id": "6fce58f3969f",
-      "title": "デジモンカードゲーム",
-      "url": "https://www.digimon-alysion.com/",
-      "image": "https://www.digimon-alysion.com/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-28T04:00:03.000Z",
-      "releaseText": "2026年12月23日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "「デジモンカードゲーム」をスマホで遊べる「デジモンアリシオン」，事前登録受付を開始。ルールはほぼそのままで，本作限定の新規カードも登場",
-      "description": "デジモンカードゲームNEW PROJECT スマートフォン向けアプリ『デジモンアリシオン』始動！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089331/20261028008/",
-      "appleId": "6740988190",
-      "trackId": "6740988190",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6740988190",
-        "preorder": true,
-        "releaseDate": "2026-12-23T08:00:00Z"
-      }
-    },
-    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -464,6 +439,26 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6476490037"
+    },
+    {
+      "id": "2d8d5c03d78b",
+      "title": "重兵装型女子高生",
+      "url": "https://www.juheiso-game.jp/",
+      "image": "https://juheiso-game.jp/assets/images/common/img_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-14T11:00:20.997Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
+      "description": "『JJK: 重兵装型女子高生 ワードレスレコード』公式サイト。necoが描く『重兵装型女子高生』が、iOS・Android向けのふれあえる放置系RPGに。事前登録受付中。キャラクター、ゲームシステム、ASMRボイス、最新情報を紹介。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/?p=1660390",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
@@ -478,18 +473,6 @@
         "mobile"
       ],
       "to": "11月19日に発売"
-    },
-    {
-      "at": "2026-10-28T04:30:35.428Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "デジモンカードゲーム",
-      "url": "https://www.digimon-alysion.com/",
-      "image": "https://www.digimon-alysion.com/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月23日"
     },
     {
       "at": "2026-10-28T04:00:36.521Z",
@@ -536,6 +519,18 @@
         "switch"
       ],
       "to": "2027年2月25日"
+    },
+    {
+      "at": "2026-10-27T06:00:26.991Z",
+      "type": "new",
+      "label": "新規",
+      "title": "PAYDAY: Aces High",
+      "url": "https://www.paydaythegame.com/aceshigh/",
+      "image": "",
+      "platforms": [
+        "vr"
+      ],
+      "to": "2026年11月5日"
     }
   ]
 }
