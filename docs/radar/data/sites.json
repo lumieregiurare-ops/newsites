@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T15:30:17.513Z",
+  "updatedAt": "2026-10-28T16:00:17.203Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1099,
+  "total": 1101,
   "regions": {
-    "jp": 905,
+    "jp": 907,
     "global": 194
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 383
+      "count": 385
     },
     {
       "id": "indie",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 36
+      "count": 38
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 33
+      "count": 34
     },
     {
       "id": "xbox",
@@ -217,6 +217,65 @@
       ],
       "points": null,
       "image": "https://umdc.shueisha-games.com/images/ogp.jpg"
+    },
+    {
+      "id": "571cb1dfea50",
+      "url": "https://www.rhythmdr.com/",
+      "host": "rhythmdr.com",
+      "region": "jp",
+      "title": "Rhythm Doctor",
+      "headline": "「7拍目」にボタンを押して患者を治療するリズムゲーム『Rhythm Doctor』のSwitch 2版が12月に配信決定",
+      "description": "「7拍目」にボタンを押して患者を治療するリズムゲーム『Rhythm Doctor』のSwitch 2版が12月に配信決定",
+      "publishedAt": "2026-10-28T14:13:06.000Z",
+      "addedAt": "2026-10-28T16:00:17.203Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610282w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fd22b0e8507f",
+      "url": "https://playism.com/game/ootss/",
+      "host": "playism.com",
+      "region": "jp",
+      "title": "The Witness",
+      "headline": "『The Witness』開発者による新作パズルゲーム『Order of the Sinking Star』がSwitch 2、PS5向けに配信開始。10年の歳月をかけて作られた…",
+      "description": "『Order of the Sinking Star』（オーダー オブ ザ シンキングスター）は、『Braid』『The Witness』で知られる伝説的なゲームディレクター、ジョナサン・ブロウが手掛ける大規模パズルアドベンチャーです。1…",
+      "publishedAt": "2026-10-28T14:09:00.000Z",
+      "addedAt": "2026-10-28T16:00:17.203Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610283h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "points": null,
+      "image": "https://playism.com/wp-content/uploads/2026/09/JPKeyArt_1920x1080_withlogo.png"
     },
     {
       "id": "eb1f37bd493e",

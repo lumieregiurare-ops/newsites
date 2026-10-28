@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T15:30:35.134Z",
+  "updatedAt": "2026-10-28T16:00:39.081Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
-      "appstoreSearch": 1.7,
-      "appstoreLookup": 0
+      "appstoreSearch": 0,
+      "appstoreLookup": 0.1
     },
-    "nintendo": 239,
+    "nintendo": 238,
     "steam": 300,
-    "news": 138,
+    "news": 139,
     "appstore": {
       "searched": 207,
       "matched": 124,
@@ -88,6 +88,22 @@
   },
   "releases": [
     {
+      "id": "5cbb5bad72c0",
+      "title": "..kill ´em all",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.283,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3697300/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697300/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "d2d1343e6071",
       "title": "『WWE 2K26』リングサイドパス プレミアム シーズン6",
       "date": "2026-10-29",
@@ -107,35 +123,12 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "0d09f64c8d4a",
-      "title": "10歳からはじめる！はじめましてプログラミングクイズ〜論理的思考力が鍛えられるIQパターンクイズ〜",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137520",
-      "image": "https://img-eshop.cdn.nintendo.net/i/80d52562cce6ac57cfa8cab649cfea7d43643a451c1c9a15cb3feb3975761934.jpg",
-      "maker": "TT",
-      "genre": [
-        "パズル",
-        "トレーニング",
-        "学習"
-      ],
-      "price": 420,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "807247f98ed4",
       "title": "Age of Empires IV: Raiders of the North",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.084,
+      "priority": 3.08,
       "platforms": [
         "pc"
       ],
@@ -146,35 +139,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "7d49fe3ac0db",
-      "title": "Air Hares",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000124450",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c721f4a097c9cfb74f9013aa9d66338d80b1bd5dd0d4d82a66069423d3c2b0a1.jpg",
-      "maker": "indie.io",
-      "genre": [
-        "アクション",
-        "シューティング",
-        "アーケード"
-      ],
-      "price": 590,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "f7105b5787cf",
       "title": "As Long As She Forgot",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.202,
+      "priority": 3.183,
       "platforms": [
         "pc"
       ],
@@ -206,7 +176,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.147,
+      "priority": 3.14,
       "platforms": [
         "pc"
       ],
@@ -222,7 +192,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.176,
+      "priority": 3.161,
       "platforms": [
         "pc"
       ],
@@ -233,33 +203,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "0f320cab0438",
-      "title": "Bella Umbrella と不思議な庭",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000081945",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9a77d1f367db0242ffde2e59dacc1e57033e9be929a71aa61052e5f7960e2b98.jpg",
-      "maker": "Michael Wührer",
-      "genre": [
-        "パズル"
-      ],
-      "price": 3500,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "4216d16c38ff",
       "title": "Better Days Pending",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.2800000000000002,
+      "priority": 3.259,
       "platforms": [
         "pc"
       ],
@@ -275,7 +224,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.27,
+      "priority": 3.25,
       "platforms": [
         "pc"
       ],
@@ -291,7 +240,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.239,
+      "priority": 3.219,
       "platforms": [
         "pc"
       ],
@@ -307,7 +256,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.1390000000000002,
+      "priority": 3.133,
       "platforms": [
         "pc"
       ],
@@ -318,34 +267,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "122d21f0a419",
-      "title": "Capsule Arcade",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38dcdf04d707549b6858b83c777be8188b2ecc64fb558b4339421859af14a3af.jpg",
-      "maker": "RandomSpin Games",
-      "genre": [
-        "アーケード",
-        "パズル"
-      ],
-      "price": 780,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "b33262e2e3ba",
       "title": "Catch Meow If You Can",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.048,
+      "priority": 3.046,
       "platforms": [
         "pc"
       ],
@@ -361,7 +288,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.183,
+      "priority": 3.166,
       "platforms": [
         "pc"
       ],
@@ -372,55 +299,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "04a5052f5576",
-      "title": "Choice of Life: Samosbor",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136201",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3de061795d689b4b941e5b370b4a93c258dab16fac3bd03cc7f369876ad8e406.jpg",
-      "maker": "Sobaka Studio",
-      "genre": [
-        "アドベンチャー",
-        "その他"
-      ],
-      "price": 580,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "4f8adf5ef8be",
-      "title": "Cities: Skylines - Expanded Edition",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000119231",
-      "image": "https://img-eshop.cdn.nintendo.net/i/23f300bdb4fc3d4b84de9ca14ce0b8b82b20bc35e4848dba22642f7b9fe213b0.jpg",
-      "maker": "ParadoxInteractive",
-      "genre": [
-        "シミュレーション"
-      ],
-      "price": 6890,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "d2b55f400cb8",
       "title": "Croakspire",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.268,
+      "priority": 3.248,
       "platforms": [
         "pc"
       ],
@@ -436,7 +320,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.062,
+      "priority": 3.059,
       "platforms": [
         "pc"
       ],
@@ -452,7 +336,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.213,
+      "priority": 3.193,
       "platforms": [
         "pc"
       ],
@@ -468,7 +352,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.074,
+      "priority": 3.071,
       "platforms": [
         "pc"
       ],
@@ -484,7 +368,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.096,
+      "priority": 3.092,
       "platforms": [
         "pc"
       ],
@@ -500,7 +384,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.199,
+      "priority": 3.18,
       "platforms": [
         "pc"
       ],
@@ -516,7 +400,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.14,
+      "priority": 3.134,
       "platforms": [
         "pc"
       ],
@@ -532,7 +416,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.205,
+      "priority": 3.186,
       "platforms": [
         "pc"
       ],
@@ -548,7 +432,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.251,
+      "priority": 3.232,
       "platforms": [
         "pc"
       ],
@@ -559,44 +443,20 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "4df147816c52",
-      "title": "Devil & Angel Sky Battle",
+      "id": "1b9f74e3e175",
+      "title": "Don't Kill Rumble",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.2800000000000002,
       "platforms": [
-        "switch"
+        "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139874",
-      "image": "https://img-eshop.cdn.nintendo.net/i/25cf1d02519a0a2bc51dcdf1a372aa502f0a4523ae78b9f50860d6e413ba7601.jpg",
-      "maker": "Pix Arts",
-      "genre": [
-        "アドベンチャー"
-      ],
-      "price": 1190,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "ee80fe12183e",
-      "title": "DLC Pack 10 Relics of the Past",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000070788",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f70a509da899de0f8991b872644a71b6dd6b9ced467d1b74209bea3111ffbdd8.jpg",
-      "maker": "U&I Entertainment",
-      "genre": [],
-      "price": 770,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/2146310/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146310/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "c12564bb169d",
@@ -604,7 +464,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.285,
+      "priority": 3.265,
       "platforms": [
         "pc"
       ],
@@ -615,12 +475,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "b41a6ab692ae",
+      "title": "Dynamite Dashers",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.29,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4148750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "36f4579b8f47",
       "title": "E-Files",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.266,
+      "priority": 3.246,
       "platforms": [
         "pc"
       ],
@@ -631,25 +507,36 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "08482d0fa55e",
-      "title": "Easy Fishing Simulator",
+      "id": "f7c2f6ed50fb",
+      "title": "Earthia Mining",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.284,
       "platforms": [
-        "switch"
+        "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139295",
-      "image": "https://img-eshop.cdn.nintendo.net/i/945b21af8fee58781aff9b8e10e4d863f258616104929f3ee3353cc4285222be.jpg",
-      "maker": "Pix Arts",
-      "genre": [
-        "シミュレーション"
+      "url": "https://store.steampowered.com/app/4437670/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437670/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b9f97fe4f200",
+      "title": "ECO's Journey",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.281,
+      "platforms": [
+        "pc"
       ],
-      "price": 790,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/2082600/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082600/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "42a569cfd912",
@@ -657,7 +544,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.201,
+      "priority": 3.182,
       "platforms": [
         "pc"
       ],
@@ -668,12 +555,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "4a269ffa0fde",
+      "title": "Escape from Prompt: Rogue AI",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.297,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5002400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "9d5e8e80b2c7",
       "title": "Everest: Survival Simulator",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.281,
+      "priority": 3.261,
       "platforms": [
         "pc"
       ],
@@ -684,27 +587,20 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "92d84e9f7d4e",
-      "title": "Fallen City Brawl",
+      "id": "00392166710a",
+      "title": "EXCISA",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.285,
       "platforms": [
-        "switch"
+        "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000045848",
-      "image": "https://img-eshop.cdn.nintendo.net/i/512441eec258aa5d395361a8a3f5baa9dca229690a712dbaa03e4174a81ca620.jpg",
-      "maker": "eastasiasoft",
-      "genre": [
-        "格闘",
-        "アーケード",
-        "アクション"
-      ],
-      "price": 1980,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/5048340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "f1bbef5e4bd8",
@@ -728,7 +624,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.083,
+      "priority": 3.079,
       "platforms": [
         "pc"
       ],
@@ -744,7 +640,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.242,
+      "priority": 3.222,
       "platforms": [
         "pc"
       ],
@@ -771,118 +667,20 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "ac4168aad4ff",
-      "title": "Fix & Flip Dream House DELUXE",
+      "id": "c9d0de406c09",
+      "title": "FlipBAKA",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.294,
       "platforms": [
-        "switch"
+        "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041257",
-      "image": "https://img-eshop.cdn.nintendo.net/i/baf290e0ba29f4c549b3cd4757fb9e87c0dd535d0178a5b51ff2750f082f1c05.jpg",
-      "maker": "CGI LAB GAMES",
-      "genre": [],
-      "price": 2800,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "1bb5fe76c433",
-      "title": "Fix & Flip Dream House Handyman Tools",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082519",
-      "image": "https://img-eshop.cdn.nintendo.net/i/bfce94689aa2192adf4caf00ce2f02bff0b99171c2e5caac9a414751820fc08e.jpg",
-      "maker": "CGI LAB GAMES",
-      "genre": [],
-      "price": 630,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "a29c40b411a0",
-      "title": "Fix & Flip Dream House Trending 2026 Floor",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082539",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b9ea3785a4a06bf753c68dcc9d0c88d12f8ccf43bc0f91d0cea03a1928abee7e.jpg",
-      "maker": "CGI LAB GAMES",
-      "genre": [],
-      "price": 470,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "405330a139b0",
-      "title": "Flight Simulator 2026 Deluxe Edition",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041286",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ad5ca056d95ce3d0e58c7fa98321eb50b933ccb0bbae29b3520906e77e412248.jpg",
-      "maker": "Play Lab",
-      "genre": [],
-      "price": 3160,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "31205a9c3f89",
-      "title": "Flight Simulator 2026 Sky Credits",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082622",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7619fa7059d063caed19c25fbac0b9586fb1193e3b7bc33518d304c30a2bb0c2.jpg",
-      "maker": "Play Lab",
-      "genre": [],
-      "price": 630,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "32028dfad0ce",
-      "title": "Flight Simulator 2026: Aviation Radio",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082629",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e5b0e314af00b283bb6185fce39344ffd3f97e50031b6c2208716994e06119f3.jpg",
-      "maker": "Play Lab",
-      "genre": [],
-      "price": 470,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/4930270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930270/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "016ad5615cbb",
@@ -890,7 +688,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.263,
+      "priority": 3.243,
       "platforms": [
         "pc"
       ],
@@ -917,12 +715,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "f8973402e167",
+      "title": "Gloombo",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.287,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4992720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "bc4d61052af0",
       "title": "GloveUp!",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.09,
+      "priority": 3.086,
       "platforms": [
         "pc"
       ],
@@ -938,7 +752,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.259,
+      "priority": 3.239,
       "platforms": [
         "pc"
       ],
@@ -954,7 +768,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.215,
+      "priority": 3.195,
       "platforms": [
         "pc"
       ],
@@ -970,7 +784,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.275,
+      "priority": 3.255,
       "platforms": [
         "pc"
       ],
@@ -981,12 +795,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "a4e969ba6d0f",
+      "title": "Hauntasy",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.289,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4879630/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879630/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "04b2d53d84e1",
       "title": "Heir of the Dog",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.13,
+      "priority": 3.125,
       "platforms": [
         "pc"
       ],
@@ -997,35 +827,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "fea13ed631e1",
-      "title": "HELLBOUND INC",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136917",
-      "image": "https://img-eshop.cdn.nintendo.net/i/09d72a61309e15d0279d4b4d54e950ca099022ec0d06c237020727621fa1df83.jpg",
-      "maker": "Seashell Studio",
-      "genre": [
-        "パズル",
-        "実用",
-        "アーケード"
-      ],
-      "price": 1870,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "33030a224b72",
       "title": "HiroBot: Clean & Restore",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.222,
+      "priority": 3.202,
       "platforms": [
         "pc"
       ],
@@ -1041,7 +848,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.103,
+      "priority": 3.099,
       "platforms": [
         "pc"
       ],
@@ -1057,7 +864,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.283,
+      "priority": 3.263,
       "platforms": [
         "pc"
       ],
@@ -1068,12 +875,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "d4d966631881",
+      "title": "Home:Ward",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.292,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5023060/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5023060/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "989c2ca8e13c",
       "title": "Hot Wax",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.208,
+      "priority": 3.188,
       "platforms": [
         "pc"
       ],
@@ -1105,7 +928,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.088,
+      "priority": 3.085,
       "platforms": [
         "pc"
       ],
@@ -1121,7 +944,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.051,
+      "priority": 3.049,
       "platforms": [
         "pc"
       ],
@@ -1137,7 +960,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.148,
+      "priority": 3.141,
       "platforms": [
         "pc"
       ],
@@ -1153,7 +976,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.2640000000000002,
+      "priority": 3.2439999999999998,
       "platforms": [
         "pc"
       ],
@@ -1169,7 +992,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.286,
+      "priority": 3.266,
       "platforms": [
         "pc"
       ],
@@ -1185,7 +1008,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.107,
+      "priority": 3.103,
       "platforms": [
         "pc"
       ],
@@ -1201,7 +1024,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.029,
+      "priority": 3.03,
       "platforms": [
         "pc"
       ],
@@ -1217,7 +1040,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.231,
+      "priority": 3.211,
       "platforms": [
         "pc"
       ],
@@ -1228,12 +1051,60 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "3e9536e5a02c",
+      "title": "Music Maniaz",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.288,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5214970/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5214970/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4fad30bf4d86",
+      "title": "My Party Is Grinding - Vanguard Party",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.299,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5483450/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5483450/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "bf5fd82c1392",
+      "title": "Nadir Trace",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.286,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5411120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5411120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "9e23f6012ddc",
       "title": "NARI: Threads of Dawn",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.295,
+      "priority": 3.275,
       "platforms": [
         "pc"
       ],
@@ -1249,7 +1120,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.292,
+      "priority": 3.271,
       "platforms": [
         "pc"
       ],
@@ -1265,7 +1136,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.277,
+      "priority": 3.257,
       "platforms": [
         "pc"
       ],
@@ -1276,12 +1147,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "98b25fb13c5c",
+      "title": "Neurospasm",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.293,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4542120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "68676a306d20",
       "title": "O2GETHER",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.255,
+      "priority": 3.235,
       "platforms": [
         "pc"
       ],
@@ -1292,27 +1179,20 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "43392549a6a5",
-      "title": "Olivia",
+      "id": "e249e4d14473",
+      "title": "Overexposed Demo",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.298,
       "platforms": [
-        "switch"
+        "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137292",
-      "image": "https://img-eshop.cdn.nintendo.net/i/debb0c76608b713d1d52995885a064c9bb304cf3f5e80572745c28bd90b3c113.jpg",
-      "maker": "Struggle Games Studio",
-      "genre": [
-        "アドベンチャー",
-        "アクション",
-        "パズル"
-      ],
-      "price": 500,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/5067460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "9db156b4fe59",
@@ -1320,7 +1200,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.171,
+      "priority": 3.158,
       "platforms": [
         "pc"
       ],
@@ -1348,12 +1228,28 @@
       "sourceUrl": "https://www.4gamer.net/games/709/G070944/20261022011/"
     },
     {
+      "id": "4538ad30703a",
+      "title": "Phasmonauts",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.296,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2654210/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2654210/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "4613506c6837",
       "title": "Planet Coaster 2: Spooktacular Pack",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.072,
+      "priority": 3.069,
       "platforms": [
         "pc"
       ],
@@ -1369,7 +1265,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.233,
+      "priority": 3.212,
       "platforms": [
         "pc"
       ],
@@ -1385,7 +1281,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.287,
+      "priority": 3.267,
       "platforms": [
         "pc"
       ],
@@ -1396,12 +1292,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "094b3b7ef67b",
+      "title": "PolterProps",
+      "date": "2026-10-29",
+      "dateText": "2026年10月29日",
+      "sortKey": "2026-10-29",
+      "priority": 3.291,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5360630/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360630/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "2294991b1c4e",
       "title": "Prophet Margin",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.29,
+      "priority": 3.27,
       "platforms": [
         "pc"
       ],
@@ -1417,7 +1329,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.289,
+      "priority": 3.269,
       "platforms": [
         "pc"
       ],
@@ -1433,7 +1345,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.297,
+      "priority": 3.277,
       "platforms": [
         "pc"
       ],
@@ -1449,7 +1361,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.252,
+      "priority": 3.231,
       "platforms": [
         "pc"
       ],
@@ -1481,7 +1393,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.105,
+      "priority": 3.101,
       "platforms": [
         "pc"
       ],
@@ -1513,7 +1425,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.296,
+      "priority": 3.276,
       "platforms": [
         "pc"
       ],
@@ -1529,7 +1441,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.273,
+      "priority": 3.253,
       "platforms": [
         "pc"
       ],
@@ -1545,7 +1457,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.299,
+      "priority": 3.279,
       "platforms": [
         "pc"
       ],
@@ -1561,7 +1473,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.094,
+      "priority": 3.09,
       "platforms": [
         "pc"
       ],
@@ -1587,34 +1499,12 @@
       "sourceUrl": "https://www.4gamer.net/games/048/G104861/20261008020/"
     },
     {
-      "id": "7aff02c56ef1",
-      "title": "SNØ: Ultimate Freeriding",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132572",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d1ac4aee777194856dff6da3846531f2eb3f3bfa14da6aee1dcc18a18d5b9671.jpg",
-      "maker": "あまた",
-      "genre": [
-        "スポーツ",
-        "アクション"
-      ],
-      "price": 1600,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "107da044e240",
       "title": "Spooky Ride",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.12,
+      "priority": 3.116,
       "platforms": [
         "pc"
       ],
@@ -1625,31 +1515,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "a735657794ad",
-      "title": "Star Trek: Voyager - Across the Unknown - Delta Chronicles 2 DLC",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000076097",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70cc76c5469ab89a2869c5f0dbb10b656aa449f62ded8a24b13a986d8c10b94a.jpg",
-      "maker": "Daedalic Entertainment",
-      "genre": [],
-      "price": 1430,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "360a0b60afad",
       "title": "Sudokiller",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.095,
+      "priority": 3.091,
       "platforms": [
         "pc"
       ],
@@ -1665,7 +1536,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.298,
+      "priority": 3.278,
       "platforms": [
         "pc"
       ],
@@ -1681,7 +1552,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.246,
+      "priority": 3.225,
       "platforms": [
         "pc"
       ],
@@ -1697,7 +1568,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.223,
+      "priority": 3.203,
       "platforms": [
         "pc"
       ],
@@ -1713,7 +1584,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.282,
+      "priority": 3.262,
       "platforms": [
         "pc"
       ],
@@ -1729,7 +1600,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.2720000000000002,
+      "priority": 3.252,
       "platforms": [
         "pc"
       ],
@@ -1756,35 +1627,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "d4f42605f839",
-      "title": "The Last Cat in the Universe ザー・ラースト・キャット・イン・ザー・ユーニバース",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134836",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a6e0607d09b6a1cc97288a9f9914fcb81b4ea17c25f74835f551a674855737e7.jpg",
-      "maker": "Flynns Arcade",
-      "genre": [
-        "アドベンチャー",
-        "ロールプレイング",
-        "ストラテジー"
-      ],
-      "price": 1250,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "31c0467225b4",
       "title": "The Transference",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.274,
+      "priority": 3.254,
       "platforms": [
         "pc"
       ],
@@ -1816,7 +1664,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.1,
+      "priority": 3.096,
       "platforms": [
         "pc"
       ],
@@ -1848,7 +1696,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.278,
+      "priority": 3.258,
       "platforms": [
         "pc"
       ],
@@ -1864,7 +1712,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.137,
+      "priority": 3.132,
       "platforms": [
         "pc"
       ],
@@ -1880,7 +1728,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.26,
+      "priority": 3.24,
       "platforms": [
         "pc"
       ],
@@ -1896,7 +1744,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.101,
+      "priority": 3.097,
       "platforms": [
         "pc"
       ],
@@ -1905,112 +1753,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "75293e383def",
-      "title": "Yet Another Zombie Survivors またまたゾンビサバイバーズ",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000081125",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8d377d5a5f05fb989f81f1e05fc8938bfcb06350216241e7e412aa0b92099652.jpg",
-      "maker": "Awesome Games",
-      "genre": [
-        "アクション",
-        "シューティング",
-        "アーケード"
-      ],
-      "price": 1980,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "76d0fb6fdfe9",
-      "title": "Zombie Outbreak: Last Stand Survival",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132023",
-      "image": "https://img-eshop.cdn.nintendo.net/i/07853ae456f8a4e1ec85c811ca5b669b57ea598e272a432ba0512ec44df74893.jpg",
-      "maker": "Eclipse Interactive",
-      "genre": [
-        "シューティング",
-        "アクション"
-      ],
-      "price": 1575,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "6e4a3567c65e",
-      "title": "アノマリス／ANOMALITH",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000099503",
-      "image": "https://img-eshop.cdn.nintendo.net/i/90b77b1e0e251911b6571154061aefe322f8778be9ab80699b9172ae88b43571.jpg",
-      "maker": "フリュー",
-      "genre": [
-        "シューティング",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "price": 8580,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "7ba17e8e2f8e",
-      "title": "アノマリス／ANOMALITH 『ゲームパッケージ風』バックパックセット",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000073190",
-      "image": "https://img-eshop.cdn.nintendo.net/i/376fe6feac9b5e0c93887db769c5324158b813714b4d1536a54721e53b7004b8.jpg",
-      "maker": "フリュー",
-      "genre": [],
-      "price": 0,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "ee1c09e9ab13",
-      "title": "アノマリス／ANOMALITH デジタルデラックスエディション",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70070000036548",
-      "image": "https://img-eshop.cdn.nintendo.net/i/adc1bf27c06465be58dc4e4666033abee81f4b6a47955eae51a8d72cd1504b0e.jpg",
-      "maker": "フリュー",
-      "genre": [],
-      "price": 12100,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "4e3bd67017c9",
@@ -2037,7 +1779,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.249,
+      "priority": 3.229,
       "platforms": [
         "pc"
       ],
@@ -2048,35 +1790,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "15c40347b2a7",
-      "title": "イノセントメモリー",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138572",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e15209e41bfb60dcf21badbd70c32d92b1c51a1baa55896f106d2491d9873827.jpg",
-      "maker": "moesoft",
-      "genre": [
-        "アドベンチャー",
-        "シミュレーション",
-        "その他"
-      ],
-      "price": 3500,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "10a0916ef377",
       "title": "うさぎしま",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.03,
+      "priority": 3.029,
       "platforms": [
         "pc"
       ],
@@ -2085,29 +1804,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "f9074fa90ced",
-      "title": "エクソシストガンズオブヘブン",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129521",
-      "image": "https://img-eshop.cdn.nintendo.net/i/82565a0c067609d6e34d4b054f581178965163801b8eb3334e8144dcf25790bf.jpg",
-      "maker": "EpiXR Games",
-      "genre": [
-        "シューティング",
-        "アーケード",
-        "アクション"
-      ],
-      "price": 800,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "906f85a9eff0",
@@ -2126,35 +1822,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "044aa37f6648",
-      "title": "おくだけスタディ 推し活ハングル 〜指一本でかんたん韓国語教養学習ゲーム〜",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138061",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e6739efc48244974e1f96f8c3d0f7e66cce41e60f849e9eae04c67bd14c98bb3.jpg",
-      "maker": "TT",
-      "genre": [
-        "パズル",
-        "学習",
-        "トレーニング"
-      ],
-      "price": 420,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "1e3f8521e7b0",
       "title": "オクトパスワーフ",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.284,
+      "priority": 3.2640000000000002,
       "platforms": [
         "pc"
       ],
@@ -2165,34 +1838,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "d9b2e2b5168d",
-      "title": "クーロンズゲート Suzaku",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000103089",
-      "image": "https://img-eshop.cdn.nintendo.net/i/04d02f4657fe80d9f6e195e7408f8d85893a5f852423e2ce1299d60eea9de826.jpg",
-      "maker": "ジェットマン",
-      "genre": [
-        "アドベンチャー",
-        "ロールプレイング"
-      ],
-      "price": 5800,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "9d52e3a50a84",
       "title": "ケイロティア：ダンジョン遠征",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.257,
+      "priority": 3.238,
       "platforms": [
         "pc"
       ],
@@ -2203,127 +1854,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "d15619cded28",
-      "title": "この時代、何かがおかしい ー歴史の中の違和感を見抜けー",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138085",
-      "image": "https://img-eshop.cdn.nintendo.net/i/927142ff79bfcc703e69950b208c313889ae841173edf8cd8105132135067ca8.jpg",
-      "maker": "TT",
-      "genre": [
-        "学習",
-        "パズル"
-      ],
-      "price": 420,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "4230f0e1b249",
-      "title": "サルファー",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136510",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7c2e3998bbdbfb5ab31b6ee8971465348d499e639468c958cf40ead69a6a375d.jpg",
-      "maker": "Perfect Random",
-      "genre": [
-        "アクション",
-        "アドベンチャー",
-        "ロールプレイング"
-      ],
-      "price": 3980,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "2f854c616db4",
-      "title": "サンリオ パーティランド",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000117872",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b55f23320bd3bdda58d667b0a837d566ab8c5381b30c46179e1978a855b210af.jpg",
-      "maker": "サンリオ",
-      "genre": [
-        "テーブル",
-        "パーティー",
-        "コミュニケーション"
-      ],
-      "price": 6380,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "bd4c49858404",
-      "title": "ゾンビーブレッツデッドゾーン",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129459",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2dee17f798277596feda9589c7606db4b62c7bb2e91e8e121ba5f21345d93f8c.jpg",
-      "maker": "EpiXR Games",
-      "genre": [
-        "シューティング",
-        "アーケード",
-        "アクション"
-      ],
-      "price": 800,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "893ad0fe1300",
-      "title": "ディストーティドペラノーマルアクティビティズ",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122907",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f89c5f0f3358c54cb8c3c4acb6fe1ef4de6e238920becef62b991cfb13851643.jpg",
-      "maker": "EpiXR Games",
-      "genre": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "price": 800,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "8f2aaa143724",
       "title": "デイドリームキャット：夢の精霊たちの放置冒険",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.118,
+      "priority": 3.114,
       "platforms": [
         "pc"
       ],
@@ -2334,58 +1870,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "d99d6b308194",
-      "title": "デスルーム ～サイコホラー・デスゲーム～ (Death Room: A Psychological Horror Killing Game)",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000128070",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ca4b406d62eafd4204cd31b0a637479669e0adc0f7b5300f932a04cb6772fb81.jpg",
-      "maker": "Red Fables",
-      "genre": [
-        "シミュレーション",
-        "パズル",
-        "テーブル"
-      ],
-      "price": 3990,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "b6d0c01e6723",
-      "title": "デスルーム・ボーイズ:心理ホラー・キリングゲーム (Death Room Boys: A Psychological Horror Killing Game)",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000133415",
-      "image": "https://img-eshop.cdn.nintendo.net/i/676d6096c6bdac66dedf6224487420141b3ebe33e53a3e367769249274a1b4df.jpg",
-      "maker": "Red Fables",
-      "genre": [
-        "シミュレーション",
-        "パズル",
-        "テーブル"
-      ],
-      "price": 3990,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
       "id": "6bc847ff08ce",
       "title": "デッドパーティー",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.11,
+      "priority": 3.106,
       "platforms": [
         "pc"
       ],
@@ -2401,7 +1891,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.294,
+      "priority": 3.274,
       "platforms": [
         "pc"
       ],
@@ -2410,93 +1900,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "89139573e590",
-      "title": "ドッグマン・ワンダフルな復活劇",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000125590",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d2de40f79128001f38a7d0bda1a08efe3e002b96a3f19a470bbeda3e6935bfc8.jpg",
-      "maker": "Mindscape",
-      "genre": [
-        "アーケード",
-        "アドベンチャー",
-        "アクション"
-      ],
-      "price": 5600,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "b67feb60c91c",
-      "title": "トム・ザ・ポストガール  (Tom the Postgirl)",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135723",
-      "image": "https://img-eshop.cdn.nintendo.net/i/61ff3dbe32c2265d96d5df1770f95fa0240beb8d8a82f32773cc1540fb8028da.jpg",
-      "maker": "ARTE Experience",
-      "genre": [
-        "アドベンチャー"
-      ],
-      "price": 1350,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "b579f5012e7e",
-      "title": "ネコパワー！やちよ",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000126792",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7600bc136d1800fdf6258dacf4c763474380da79546d545e16cd8ccf5dc0b8c2.jpg",
-      "maker": "わくわくゲームズ",
-      "genre": [
-        "アクション",
-        "格闘",
-        "アーケード"
-      ],
-      "price": 1200,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "b897aeea8e6d",
-      "title": "ネプテューヌ∞ 追加DLC 第3弾",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000076772",
-      "image": "https://img-eshop.cdn.nintendo.net/i/99a1c3c71ce831ab8eb95d7bbf43aae79ff45055b65dd0dc46f5530d9834eaa7.jpg",
-      "maker": "アイディアファクトリー",
-      "genre": [],
-      "price": 770,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "0b936c38c6a9",
@@ -2521,7 +1924,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.087,
+      "priority": 3.081,
       "platforms": [
         "pc"
       ],
@@ -2537,7 +1940,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.247,
+      "priority": 3.227,
       "platforms": [
         "pc"
       ],
@@ -2546,29 +1949,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "0711b5195312",
-      "title": "メルティングアタッカー",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000104678",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f68d3e82374e060ce8788ea0b9e9772befc16a8f4baf6825a7793c02f841df7b.jpg",
-      "maker": "MIZUBLUE GAMES",
-      "genre": [
-        "アクション",
-        "格闘",
-        "スポーツ"
-      ],
-      "price": 200,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "36c5a42cf466",
@@ -2610,7 +1990,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.196,
+      "priority": 3.177,
       "platforms": [
         "pc"
       ],
@@ -2626,7 +2006,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.123,
+      "priority": 3.1189999999999998,
       "platforms": [
         "pc"
       ],
@@ -2635,89 +2015,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "c8b2849fe311",
-      "title": "巨匠たちの美術史〜19世紀フランス名画検定〜",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139023",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38b822475bf9ef8d0ce5a48631b85ec58aa3070e9e3ff6a50bfeec27cdbb9b7a.jpg",
-      "maker": "TT",
-      "genre": [
-        "学習",
-        "実用",
-        "トレーニング"
-      ],
-      "price": 420,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "074ac5ab8a93",
-      "title": "近鉄奈良線 方向板コレクション",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082527",
-      "image": "https://img-eshop.cdn.nintendo.net/i/00ab3225b0d1fc0470da0b9031420e70dc395d4e67424896244d43273171d6d3.jpg",
-      "maker": "カエルパンダ",
-      "genre": [],
-      "price": 1000,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "dc9d04e129d4",
-      "title": "鯨",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70050000070115",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70535377efef2c84daf6fa1f29b971f68983830c54b578f19259f67d721e994b.jpg",
-      "maker": "ToastieLabs",
-      "genre": [],
-      "price": 130,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "9b8d0e44cc31",
-      "title": "光るだけしかない機械",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137377",
-      "image": "https://img-eshop.cdn.nintendo.net/i/32b81f2e51a97696ec1ff5b9dc2b1d6d432da6798a15e424061836bb22e157c6.jpg",
-      "maker": "わくわくゲームズ",
-      "genre": [
-        "アドベンチャー"
-      ],
-      "price": 350,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "51daef2f1edc",
@@ -2741,7 +2038,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.209,
+      "priority": 3.19,
       "platforms": [
         "pc"
       ],
@@ -2757,7 +2054,7 @@
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
-      "priority": 3.185,
+      "priority": 3.168,
       "platforms": [
         "pc"
       ],
@@ -2768,90 +2065,40 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "143a1266c5d3",
-      "title": "脱出ゲーム R00M18",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131999",
-      "image": "https://img-eshop.cdn.nintendo.net/i/0a8828b827c3256509a3cc66e068271bf664acc948e656ec2c8029452b96d5f0.jpg",
-      "maker": "AlignmentSharp",
-      "genre": [
-        "アドベンチャー",
-        "パズル"
-      ],
-      "price": 100,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "cc5fa9e3f086",
-      "title": "鉄道にっぽん！ RealPro 立体都市交通！XROSS OVER 名古屋 編",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "platforms": [
-        "switch"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129559",
-      "image": "https://img-eshop.cdn.nintendo.net/i/4eccc42a66464c33c0a2671af5d8391aa793fcbf330bd2f508ca236d68bca767.jpg",
-      "maker": "ソニックパワード",
-      "genre": [
-        "シミュレーション",
-        "アーケード",
-        "トレーニング"
-      ],
-      "price": 8580,
-      "status": "予約受付中",
-      "priority": 1,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "c772beb18b29",
+      "id": "3f09557df5e4",
       "title": "万聖節が来る前に",
       "date": "2026-10-29",
       "dateText": "2026年10月29日",
       "sortKey": "2026-10-29",
+      "priority": 3.216,
       "platforms": [
-        "switch",
         "pc"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122808",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5373bbe70d1d61ec260f9d36f8fd9ce1c062dd53aeb5a4a32e56240b8af79a71.jpg",
-      "maker": "Coredump",
-      "genre": [
-        "アドベンチャー"
-      ],
-      "price": 200,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+      "url": "https://store.steampowered.com/app/4216570/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4216570/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "06b45a32f188",
-      "title": "明治東亰恋伽トワヰライト・キス",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
+      "id": "2bff8d366ba4",
+      "title": "Ad Aquilonem - セトとすごす100日間 -",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
       "platforms": [
         "switch"
       ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122301",
-      "image": "https://img-eshop.cdn.nintendo.net/i/be8275b36df74e7d7df669effc1f33d089bc9b88287d18545ec6986b9011e6df.jpg",
-      "maker": "ヒューネックス",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136213",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0b9060bd5a7292d312cf4bd874c095a50d28a383cabac7de9fa6f1c714f9dfb7.jpg",
+      "maker": "エム・ビー・エーインターナショナル",
       "genre": [
+        "シミュレーション",
         "アドベンチャー"
       ],
-      "price": 7480,
-      "status": "予約受付中",
-      "priority": 1,
+      "price": 2200,
+      "status": "",
+      "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -2884,7 +2131,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.149,
+      "priority": 3.142,
       "platforms": [
         "pc"
       ],
@@ -2900,7 +2147,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.248,
+      "priority": 3.228,
       "platforms": [
         "pc"
       ],
@@ -2932,7 +2179,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.108,
+      "priority": 3.104,
       "platforms": [
         "pc"
       ],
@@ -2948,7 +2195,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.114,
+      "priority": 3.11,
       "platforms": [
         "pc"
       ],
@@ -2964,7 +2211,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.075,
+      "priority": 3.072,
       "platforms": [
         "pc"
       ],
@@ -2980,7 +2227,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.22,
+      "priority": 3.2,
       "platforms": [
         "pc"
       ],
@@ -2996,7 +2243,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.159,
+      "priority": 3.148,
       "platforms": [
         "pc"
       ],
@@ -3033,7 +2280,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.265,
+      "priority": 3.245,
       "platforms": [
         "pc"
       ],
@@ -3049,7 +2296,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.134,
+      "priority": 3.129,
       "platforms": [
         "pc"
       ],
@@ -3076,12 +2323,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "a8b8f39c3cd4",
+      "title": "KILL HIM",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
+      "priority": 3.282,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4704800/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704800/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "1eb699ba0466",
       "title": "Lost Camp",
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.037,
+      "priority": 3.036,
       "platforms": [
         "pc"
       ],
@@ -3097,7 +2360,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.145,
+      "priority": 3.138,
       "platforms": [
         "pc"
       ],
@@ -3113,12 +2376,28 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.262,
+      "priority": 3.242,
       "platforms": [
         "pc"
       ],
       "url": "https://store.steampowered.com/app/5327880/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5327880/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f1558b15927f",
+      "title": "Pixel Chaos: Tidy Up the Museum",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
+      "priority": 3.295,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5149240/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5149240/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -3177,7 +2456,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.221,
+      "priority": 3.201,
       "platforms": [
         "pc"
       ],
@@ -3193,7 +2472,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.111,
+      "priority": 3.107,
       "platforms": [
         "pc"
       ],
@@ -3209,7 +2488,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.207,
+      "priority": 3.189,
       "platforms": [
         "pc"
       ],
@@ -3225,7 +2504,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.086,
+      "priority": 3.083,
       "platforms": [
         "pc"
       ],
@@ -3241,7 +2520,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.293,
+      "priority": 3.273,
       "platforms": [
         "pc"
       ],
@@ -3279,7 +2558,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.164,
+      "priority": 3.153,
       "platforms": [
         "pc"
       ],
@@ -3295,7 +2574,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.061,
+      "priority": 3.058,
       "platforms": [
         "pc"
       ],
@@ -3311,7 +2590,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.064,
+      "priority": 3.061,
       "platforms": [
         "pc"
       ],
@@ -3327,7 +2606,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.193,
+      "priority": 3.174,
       "platforms": [
         "pc"
       ],
@@ -3359,7 +2638,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.269,
+      "priority": 3.251,
       "platforms": [
         "pc"
       ],
@@ -3375,7 +2654,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.078,
+      "priority": 3.075,
       "platforms": [
         "pc"
       ],
@@ -3391,7 +2670,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.099,
+      "priority": 3.095,
       "platforms": [
         "pc"
       ],
@@ -3407,7 +2686,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.05,
+      "priority": 3.048,
       "platforms": [
         "pc"
       ],
@@ -3423,7 +2702,7 @@
       "date": "2026-10-30",
       "dateText": "2026年10月30日",
       "sortKey": "2026-10-30",
-      "priority": 3.216,
+      "priority": 3.196,
       "platforms": [
         "pc"
       ],
@@ -3491,7 +2770,7 @@
       "date": "2026-10-31",
       "dateText": "2026年10月31日",
       "sortKey": "2026-10-31",
-      "priority": 3.291,
+      "priority": 3.2720000000000002,
       "platforms": [
         "pc"
       ],
@@ -3507,7 +2786,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.056,
+      "priority": 3.054,
       "platforms": [
         "pc"
       ],
@@ -3523,7 +2802,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.07,
+      "priority": 3.068,
       "platforms": [
         "pc"
       ],
@@ -3539,7 +2818,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.068,
+      "priority": 3.065,
       "platforms": [
         "pc"
       ],
@@ -3555,7 +2834,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.24,
+      "priority": 3.22,
       "platforms": [
         "pc"
       ],
@@ -3571,7 +2850,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.288,
+      "priority": 3.268,
       "platforms": [
         "pc"
       ],
@@ -3636,7 +2915,7 @@
       "date": "2026-11-01",
       "dateText": "2026年11月1日",
       "sortKey": "2026-11-01",
-      "priority": 3.089,
+      "priority": 3.084,
       "platforms": [
         "pc"
       ],
@@ -3652,7 +2931,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.113,
+      "priority": 3.109,
       "platforms": [
         "pc"
       ],
@@ -3668,7 +2947,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.041,
+      "priority": 3.04,
       "platforms": [
         "pc"
       ],
@@ -3684,7 +2963,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.212,
+      "priority": 3.192,
       "platforms": [
         "pc"
       ],
@@ -3700,7 +2979,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.129,
+      "priority": 3.124,
       "platforms": [
         "pc"
       ],
@@ -3716,7 +2995,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.036,
+      "priority": 3.035,
       "platforms": [
         "pc"
       ],
@@ -3748,7 +3027,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.058,
+      "priority": 3.056,
       "platforms": [
         "pc"
       ],
@@ -3764,7 +3043,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.063,
+      "priority": 3.06,
       "platforms": [
         "pc"
       ],
@@ -3780,7 +3059,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.245,
+      "priority": 3.226,
       "platforms": [
         "pc"
       ],
@@ -3814,7 +3093,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.076,
+      "priority": 3.073,
       "platforms": [
         "pc"
       ],
@@ -3846,7 +3125,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.079,
+      "priority": 3.076,
       "platforms": [
         "pc"
       ],
@@ -3862,7 +3141,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.25,
+      "priority": 3.23,
       "platforms": [
         "pc"
       ],
@@ -3910,7 +3189,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.098,
+      "priority": 3.094,
       "platforms": [
         "pc"
       ],
@@ -3926,7 +3205,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.235,
+      "priority": 3.215,
       "platforms": [
         "pc"
       ],
@@ -3960,7 +3239,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.047,
+      "priority": 3.045,
       "platforms": [
         "pc"
       ],
@@ -3976,7 +3255,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.065,
+      "priority": 3.062,
       "platforms": [
         "pc"
       ],
@@ -4008,7 +3287,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.112,
+      "priority": 3.108,
       "platforms": [
         "pc"
       ],
@@ -4024,7 +3303,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.115,
+      "priority": 3.112,
       "platforms": [
         "pc"
       ],
@@ -4056,7 +3335,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.189,
+      "priority": 3.172,
       "platforms": [
         "pc"
       ],
@@ -4087,7 +3366,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.067,
+      "priority": 3.063,
       "platforms": [
         "pc"
       ],
@@ -4141,7 +3420,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.142,
+      "priority": 3.136,
       "platforms": [
         "pc"
       ],
@@ -4197,6 +3476,25 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "a5ca33dc50a4",
+      "title": "Car Sales Simulator: Big Deal Pack",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000083458",
+      "image": "https://img-eshop.cdn.nintendo.net/i/045b597e69239f6a6f73e7fa1997fe3fe6c321112a42135b0b7489e10dcc2e7a.jpg",
+      "maker": "CGI GERMANY DESIGN",
+      "genre": [],
+      "price": 470,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "d3935be8736b",
       "title": "Cat President 2:Purrlitical Revolution",
       "date": "2026-11-05",
@@ -4235,8 +3533,8 @@
         "実用"
       ],
       "price": 2310,
-      "status": "",
-      "priority": 2,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -4269,7 +3567,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.069,
+      "priority": 3.067,
       "platforms": [
         "pc"
       ],
@@ -4285,7 +3583,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.232,
+      "priority": 3.206,
       "platforms": [
         "pc"
       ],
@@ -4294,6 +3592,28 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "684c8910ba6c",
+      "title": "EGGコンソール は〜りぃふぉっくす MSXスペシャル MSX",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131616",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0db4e338439b1c8baefd92a3c73bfc0258116573a8d785e31c8c66fce04a3312.jpg",
+      "maker": "D4エンタープライズ",
+      "genre": [
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "price": 880,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "f5f2fe8ea6b1",
@@ -4342,6 +3662,29 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "2b9247f4d5e7",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000116351",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg",
+      "maker": "Atari",
+      "genre": [
+        "アクション",
+        "格闘",
+        "パーティー"
+      ],
+      "price": 3600,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "0b23b61f67e2",
       "title": "Goodboy Galaxy",
       "date": "2026-11-05",
@@ -4360,6 +3703,29 @@
       "price": 4928,
       "status": "",
       "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "32f307d79644",
+      "title": "Guided Meditations - Calm Mind",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000133659",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6fbc2778bd42b357e9739e2d137ea2859bfaaf571d9f2a9702facb1a63773961.jpg",
+      "maker": "TB Games",
+      "genre": [
+        "シミュレーション",
+        "スポーツ",
+        "トレーニング"
+      ],
+      "price": 1600,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -4458,7 +3824,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.066,
+      "priority": 3.064,
       "platforms": [
         "pc"
       ],
@@ -4508,6 +3874,29 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "0479a57639b8",
+      "title": "Puppet of Pain",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126371",
+      "image": "https://img-eshop.cdn.nintendo.net/i/711636bc2bd7944c5a3e95db0296d096bc4c2a6099715768f8bb5323efabeb0e.jpg",
+      "maker": "HGames-ArtWorks",
+      "genre": [
+        "シューティング",
+        "アーケード",
+        "シミュレーション"
+      ],
+      "price": 599,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "4b04075e4fa4",
       "title": "The Slormancer",
       "date": "2026-11-05",
@@ -4536,7 +3925,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.073,
+      "priority": 3.07,
       "platforms": [
         "pc"
       ],
@@ -4574,7 +3963,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.241,
+      "priority": 3.221,
       "platforms": [
         "pc"
       ],
@@ -4590,7 +3979,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.042,
+      "priority": 3.039,
       "platforms": [
         "pc"
       ],
@@ -4599,6 +3988,28 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "80728cf4711f",
+      "title": "ギャルと南国バカンス 常夏の思い出",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138014",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fe2dc8e9f5f85389782827b9798c58f2c8420e8e113b89ad37f83174f4235b75.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "パーティー"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "ba517853e964",
@@ -4662,6 +4073,50 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "df43194f517e",
+      "title": "くるくるカノジョ！ ～ウォーターパークで秘密のデート～",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140238",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f2a628feb13e660e18e164b0aa4a5d77b63b4b39b3cae44ca383c4b08a2dbdd7.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "トレーニング"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "320d989a488a",
+      "title": "シティロードパズル ～街の道をつなげる脳トレ～",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139489",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f11919ec0f4280b817616afb7b7f8e012c3d8180a5b9244b11b89cfa8dfaede9.jpg",
+      "maker": "TT",
+      "genre": [
+        "パズル",
+        "トレーニング"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "a72939b1227b",
       "title": "ゼウス:武器進化サバイバー ~ギリシャの神々VS天界~ (Zeus Evolve Weapons Survivor: Greek Gods Versus Heaven)",
       "date": "2026-11-05",
@@ -4707,12 +4162,123 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "7eee09d8846c",
+      "title": "ソーラーオーエーシストレジャーズ",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131380",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ecbc50687e8f83e5dc27a7f38308f4f651947bdb18f9bdf2987301a2ec177fbe.jpg",
+      "maker": "EpiXR Games",
+      "genre": [
+        "レース",
+        "シミュレーション"
+      ],
+      "price": 1600,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "c437a6f06174",
+      "title": "にゃんにゃん にゃん球",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000111217",
+      "image": "https://img-eshop.cdn.nintendo.net/i/cac0b42f0fc6e1da7e450fd7a7ffd76caf030ba1ac644aab7500de1b2644a0d4.jpg",
+      "maker": "シンソフィア",
+      "genre": [
+        "パズル"
+      ],
+      "price": 1200,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "fb9eca06900d",
+      "title": "バナナを探せ！〜美少女脳トレゲーム〜",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139047",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1c3547b20aea54f3ae3cc81cafc9710edef161ed2c570b3a2b2c86cf4886409e.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "パーティー",
+        "コミュニケーション"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "5f577c7e1eda",
+      "title": "ヒミツのこねこ～美少女アイテム探し～",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140097",
+      "image": "https://img-eshop.cdn.nintendo.net/i/71f1d2acdfca9c68ba994b177e8b81e25a4e93791f36ad7e2c4452b99ad4eabc.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "トレーニング",
+        "実用"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "7ae60bfe7460",
+      "title": "メロメロ！異世界モンタージュパズル ～聖女から魔物娘まで～",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140232",
+      "image": "https://img-eshop.cdn.nintendo.net/i/76c46dbad1f57fff0bbae28b04337ebf18f063b2be878d50cf654b2a72c03a72.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "トレーニング"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "9a530ce85bbc",
       "title": "リーナのお掃除物語",
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.057,
+      "priority": 3.055,
       "platforms": [
         "pc"
       ],
@@ -4721,6 +4287,74 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b6ed4ced47d1",
+      "title": "意味がわかると不気味なマンガ 〜ーゾッとする意味怖謎解き都市伝説怪談ゲームー〜",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137502",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c1c1cf19838ffa383a09c56393e4cd8fa7ae86898b791036a9277ae3272c161f.jpg",
+      "maker": "TT",
+      "genre": [
+        "パズル",
+        "アドベンチャー",
+        "トレーニング"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "e48b936828b3",
+      "title": "気軽に謎解き：1分探偵ミステリー",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000141296",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c92240fd68c35661d2a42278a77011131e6057ccdf186a9957c7c39338fe8bb2.jpg",
+      "maker": "TT",
+      "genre": [
+        "パズル",
+        "トレーニング",
+        "アドベンチャー"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "dff582c7cb16",
+      "title": "黒髪美女とサマーバカンス間違い探し",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138021",
+      "image": "https://img-eshop.cdn.nintendo.net/i/afc8e8756911a22bb49c2382bf09b894bf5d7d744349ee123c829aadd1ed7885.jpg",
+      "maker": "MASK",
+      "genre": [
+        "パズル",
+        "パーティー"
+      ],
+      "price": 420,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "404d81a44db9",
@@ -4740,6 +4374,28 @@
         "パズル"
       ],
       "price": 700,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "70187eab4a0e",
+      "title": "真相がわかると怖い漫画 〜ゾッとするホラーミステリー謎解きゲーム〜",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140639",
+      "image": "https://img-eshop.cdn.nintendo.net/i/530cddc606b26c73c22cbb63402ebf2414f928f57d7eb7cc56b748a259fa2b59.jpg",
+      "maker": "TT",
+      "genre": [
+        "アドベンチャー",
+        "トレーニング"
+      ],
+      "price": 420,
       "status": "予約受付中",
       "priority": 1,
       "source": "Nintendo",
@@ -4807,19 +4463,66 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "fd878d9b1af2",
+      "id": "f23d072eda5e",
       "title": "夢幻桜楼閣",
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000123915",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6314195134ff83660ec43ce4d48319ee36d77654b2eec738cfb6c5056bc087bf.jpg",
+      "maker": "松竹",
+      "genre": [
+        "アクション"
+      ],
+      "price": 1500,
+      "status": "",
       "priority": 0,
-      "platforms": [],
-      "url": "https://game.shochiku.co.jp/ja/games/eternal-palace-sakura/",
-      "image": "https://game.shochiku.co.jp/ja/wp-content/uploads/sites/2/2025/12/j9.jpg",
-      "maker": "",
-      "headline": "猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/914/G091464/20260930004/"
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "3d62793571e3",
+      "title": "竜騎士の迷宮 リメイク",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000112333",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6261a4c15a5d23a6d258672a64f9d8800ebf2544677fbdefb1f6953e69ca5499.jpg",
+      "maker": "Shanghai QuanYu Network Technology",
+      "genre": [
+        "ロールプレイング",
+        "アドベンチャー"
+      ],
+      "price": 2400,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "e6bb41130aaf",
+      "title": "両面反転パズル 追加ステージパック Vol.1",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000083576",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f93b4163b5ac5221bf038e125627643f727a662a65c4909e3578bbf3d6d9661d.jpg",
+      "maker": "エイジ",
+      "genre": [],
+      "price": 500,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "81e09dba7ade",
@@ -4827,7 +4530,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.045,
+      "priority": 3.043,
       "platforms": [
         "pc"
       ],
@@ -4843,7 +4546,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.097,
+      "priority": 3.093,
       "platforms": [
         "pc"
       ],
@@ -4875,7 +4578,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.08,
+      "priority": 3.077,
       "platforms": [
         "pc"
       ],
@@ -4891,7 +4594,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.077,
+      "priority": 3.074,
       "platforms": [
         "pc"
       ],
@@ -4930,7 +4633,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.044,
+      "priority": 3.042,
       "platforms": [
         "pc"
       ],
@@ -4962,7 +4665,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.102,
+      "priority": 3.098,
       "platforms": [
         "pc"
       ],
@@ -4978,7 +4681,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.135,
+      "priority": 3.1310000000000002,
       "platforms": [
         "pc"
       ],
@@ -4994,7 +4697,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.227,
+      "priority": 3.209,
       "platforms": [
         "pc"
       ],
@@ -5071,6 +4774,52 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "fda597f5b866",
+      "title": "RACCOIN: Chaos Max Edition",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000116416",
+      "image": "https://img-eshop.cdn.nintendo.net/i/608c9e1d7f8fe983c163c7be996d276bfec545b914eb713961cf99b510413305.jpg",
+      "maker": "Playstack",
+      "genre": [
+        "ストラテジー",
+        "シミュレーション"
+      ],
+      "price": 1300,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "8292a2148733",
+      "title": "TANUKI: Pon's Summer - タヌキ：ポンの夏",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000134019",
+      "image": "https://img-eshop.cdn.nintendo.net/i/bb50beb2b2c813a31972a69e0d5c88d7c418d0b8fa8b90aeea311a253c79003c.jpg",
+      "maker": "Critical Reflex",
+      "genre": [
+        "アーケード",
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "price": 2550,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "d3a23c01b4f3",
       "title": "Warhammer Survivors",
       "date": "2026-11-10",
@@ -5092,7 +4841,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.228,
+      "priority": 3.213,
       "platforms": [
         "pc"
       ],
@@ -5103,12 +4852,34 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "46aad71d3c37",
+      "title": "テーブルゲームワールド CCFOLIA for Nintendo Switch 2",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000104817",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ef136e30c9a111a406a675dc2b74694f751991a2401d14cdb1e9892ebe10f92e.jpg",
+      "maker": "ココフォリア",
+      "genre": [
+        "テーブル",
+        "シミュレーション"
+      ],
+      "price": 4980,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "552baa0b7952",
       "title": "色で仕分けるな",
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.234,
+      "priority": 3.214,
       "platforms": [
         "pc"
       ],
@@ -5124,7 +4895,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.225,
+      "priority": 3.207,
       "platforms": [
         "pc"
       ],
@@ -5233,7 +5004,7 @@
       "date": "2026-11-12",
       "dateText": "2026年11月12日",
       "sortKey": "2026-11-12",
-      "priority": 3.279,
+      "priority": 3.26,
       "platforms": [
         "pc"
       ],
@@ -5309,6 +5080,29 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "4048c1889754",
+      "title": "UKKARIANS ウッカリアンズ",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136308",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fcd81d0f9b19e132c57de83d3a2175084556d7d43dc9af7a8e415c01656c953c.jpg",
+      "maker": "Hamgames",
+      "genre": [
+        "パーティー",
+        "アクション",
+        "スポーツ"
+      ],
+      "price": 900,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "2994169422d7",
       "title": "Unpetrified: 自然の残響",
       "date": "2026-11-12",
@@ -5366,6 +5160,50 @@
       "price": null,
       "status": "",
       "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "5da9323fee1b",
+      "title": "ウチのペット事情",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138338",
+      "image": "https://img-eshop.cdn.nintendo.net/i/92d66c15d343e9eceb4d727f01095593504a34a39b5453a9e5cc32f569e9f0cf.jpg",
+      "maker": "あにまるハーブ",
+      "genre": [
+        "アドベンチャー"
+      ],
+      "price": 1800,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "a384bb2a3226",
+      "title": "キューピークロウ",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137272",
+      "image": "https://img-eshop.cdn.nintendo.net/i/efea6268665699c639d7a4b07968c012784ae884371799a4351bdb8a4535163a.jpg",
+      "maker": "レイニーフロッグ",
+      "genre": [
+        "アーケード",
+        "アクション",
+        "パズル"
+      ],
+      "price": 990,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -5660,6 +5498,28 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "36ec20baaf3c",
+      "title": "雑音系少年少女",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000125205",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a85de038580dfdfd83865a45e3ae4413256de833e4b68c579db7fb05ae423c7f.jpg",
+      "maker": "WhisperGames",
+      "genre": [
+        "アドベンチャー",
+        "パズル"
+      ],
+      "price": 2000,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "5e758c3f107a",
       "title": "追加ミッションパック1 「エキストラチャレンジ」",
       "date": "2026-11-12",
@@ -5684,7 +5544,7 @@
       "date": "2026-11-13",
       "dateText": "2026年11月13日",
       "sortKey": "2026-11-13",
-      "priority": 3.21,
+      "priority": 3.175,
       "platforms": [
         "pc"
       ],
@@ -5711,6 +5571,29 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "5530f29079dd",
+      "title": "The Lost Pit",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131610",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ecba1ba6c7ebd0a22eb23cae23bd38d32596b600b9f12e181ee27ef530c8a643.jpg",
+      "maker": "Nerd Games",
+      "genre": [
+        "アクション",
+        "アドベンチャー",
+        "アーケード"
+      ],
+      "price": 1505,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "7d45a893b8f6",
       "title": "Sloppy Forgeries",
       "date": "2026-11-14",
@@ -5726,12 +5609,35 @@
       "sourceUrl": "https://www.4gamer.net/games/052/G105296/20261026021/"
     },
     {
+      "id": "db2592f8f45d",
+      "title": "打倒東京にはJimotoism",
+      "date": "2026-11-14",
+      "dateText": "2026年11月14日",
+      "sortKey": "2026-11-14",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139994",
+      "image": "https://img-eshop.cdn.nintendo.net/i/059c8b15a57a837b80b72302e743861b49f61e084414e6469dd7bcf5a97220b4.jpg",
+      "maker": "カナメクト",
+      "genre": [
+        "アクション",
+        "学習",
+        "その他"
+      ],
+      "price": 1200,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "10b7b2b0d9a0",
       "title": "Dungeonbound",
       "date": "2026-11-15",
       "dateText": "2026年11月15日",
       "sortKey": "2026-11-15",
-      "priority": 3.082,
+      "priority": 3.078,
       "platforms": [
         "pc"
       ],
@@ -5755,6 +5661,30 @@
       "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
+    },
+    {
+      "id": "feb9ecedd477",
+      "title": "クロスランド せいれいたちとつむぐせかい",
+      "date": "2026-11-17",
+      "dateText": "2026年11月17日",
+      "sortKey": "2026-11-17",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140054",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e1e203955dddbf1201b7b4429fd80a455c435cca9e0506fa987445af10631dcf.jpg",
+      "maker": "Spry Fox",
+      "genre": [
+        "シミュレーション",
+        "ロールプレイング",
+        "アドベンチャー"
+      ],
+      "price": 3700,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "14b5ec9f8350",
@@ -5991,6 +5921,44 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "6303334d8e7a",
+      "title": "MIX DUNK -KING OF BASKETBALL- ダウンロードコンテンツ",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000081714",
+      "image": "https://img-eshop.cdn.nintendo.net/i/beec9958b3da098010dec9f3a6b7c50d6bbd95c22f95929e3c2f7b5832e7ad09.jpg",
+      "maker": "アイディアファクトリー",
+      "genre": [],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "1563e7f52652",
+      "title": "MIX DUNK -KING OF BASKETBALL-ダウンロード版デジタル豪華版",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000040816",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0d7119fe3ee7b1f41ba1b333e2d9bb90121287365103ee1eadf018584b99747a.jpg",
+      "maker": "アイディアファクトリー",
+      "genre": [],
+      "price": 10780,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "426e8e1495b5",
       "title": "Piece by Piece",
       "date": "2026-11-26",
@@ -6019,7 +5987,7 @@
       "date": "2026-11-26",
       "dateText": "2026年11月26日",
       "sortKey": "2026-11-26",
-      "priority": 3.093,
+      "priority": 3.089,
       "platforms": [
         "pc"
       ],
@@ -6094,6 +6062,27 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "ff51fb718bc0",
+      "title": "ハッピーウィークエンド",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000127584",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c5ae9b0bffd3d2ac7ac3a91117f0a77a34abfc04c09f61879850ee6713b9b313.jpg",
+      "maker": "Air Velocity",
+      "genre": [
+        "アドベンチャー"
+      ],
+      "price": 8228,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "77055eb0eedd",
       "title": "ピースバイピース",
       "date": "2026-11-26",
@@ -6136,6 +6125,27 @@
       "price": 980,
       "status": "",
       "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "8e8e6d1cbc89",
+      "title": "楽園追放 -The Stellar Angel-",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000129857",
+      "image": "https://img-eshop.cdn.nintendo.net/i/789d603cd1b62a50ed55e3e0d874c5bf1099ee2956a3cbf0363a2a3db04d6064.jpg",
+      "maker": "東映アニメーション",
+      "genre": [
+        "アドベンチャー"
+      ],
+      "price": 5280,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -6257,20 +6267,27 @@
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
     },
     {
-      "id": "a48b8aa93b45",
+      "id": "518414864c30",
       "title": "Hela：ちいさなねずみと魔法の森",
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.085,
       "platforms": [
+        "switch2",
         "pc"
       ],
-      "url": "https://store.steampowered.com/app/3161310/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3161310/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "url": "https://store-jp.nintendo.com/item/software/D70010000132961",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f667e8f36696c1c41226b8bca9395c924dd8c51a1960984bf6b73b88a1670196.jpg",
+      "maker": "MY.GAMES",
+      "genre": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "price": 3500,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "1fe296577686",
@@ -6432,12 +6449,35 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "5918dd93f593",
+      "title": "BloodRush: Undying Wish",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136608",
+      "image": "https://img-eshop.cdn.nintendo.net/i/35d2279722d502251087bbb06623291361c6f46317231398711090f53f3a93a0.jpg",
+      "maker": "NUNTIUS GAMES",
+      "genre": [
+        "アクション",
+        "アドベンチャー",
+        "格闘"
+      ],
+      "price": 1200,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "ab2d4a88cba1",
       "title": "Dumpster Gang",
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.046,
+      "priority": 3.044,
       "platforms": [
         "pc"
       ],
@@ -6706,6 +6746,44 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "3eb5c08c574c",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ DIGITAL ARTWORKS & MUSIC PLAYER",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077507",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a160ac08810367e5d6c329bcf279a3e6cd0ef9e0516f154972c9ac99904ecfed.jpg",
+      "maker": "アライアンス・アーツ",
+      "genre": [],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "ef353faf43ef",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ デジタルデラックスエディション",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039556",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b51bc66443d5901499b48cc5ac72931bb184b421535d211063353f7127b0a3af.jpg",
+      "maker": "アライアンス・アーツ",
+      "genre": [],
+      "price": 4156,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "dfe26bbfa661",
       "title": "モンスターハンターワイルズ",
       "date": "2026-12-04",
@@ -6771,7 +6849,7 @@
       "date": "2026-12-07",
       "dateText": "2026年12月7日",
       "sortKey": "2026-12-07",
-      "priority": 3.059,
+      "priority": 3.057,
       "platforms": [
         "pc"
       ],
@@ -6787,7 +6865,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.053,
+      "priority": 3.052,
       "platforms": [
         "pc"
       ],
@@ -6803,7 +6881,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.038,
+      "priority": 3.037,
       "platforms": [
         "pc"
       ],
@@ -6819,7 +6897,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.104,
+      "priority": 3.1,
       "platforms": [
         "pc"
       ],
@@ -6868,6 +6946,25 @@
       "sourceUrl": "https://www.4gamer.net/games/045/G104504/20260925006/"
     },
     {
+      "id": "2e01b96b6c86",
+      "title": "SUPERやのまんCOLLECTION",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70070000041261",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1604a0af3f84e6f24868a56963688b07fcb1ef34e383f819c2c27bfc193c5e1c.jpg",
+      "maker": "エディア",
+      "genre": [],
+      "price": 8580,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "aefe8531cc92",
       "title": "エッジ オブ メモリーズ",
       "date": "2026-12-10",
@@ -6883,6 +6980,27 @@
       "headline": "PS5向けパッケージ版「エッジ オブ メモリーズ」デラックスエディション，12月10日発売決定。ゲームプレイ紹介トレイラーを公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/938/G093870/20260910062/"
+    },
+    {
+      "id": "4077314ee7ba",
+      "title": "トリネア",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131134",
+      "image": "https://img-eshop.cdn.nintendo.net/i/071ccadc3875160504503e827b0cb0fc6bbe1d64657a4045e4b4cb84cb2d4fda.jpg",
+      "maker": "エディア",
+      "genre": [
+        "アクション"
+      ],
+      "price": 3080,
+      "status": "予約受付中",
+      "priority": 1,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "48b81bce608b",
@@ -6903,6 +7021,28 @@
       "price": 625,
       "status": "",
       "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "f27a95563691",
+      "title": "フェーダ The Emblem of Justice",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131133",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f7461b76c839d2bd7dd1393e527ebd57082446ac79af40f875ad672f147c1353.jpg",
+      "maker": "エディア",
+      "genre": [
+        "ロールプレイング",
+        "シミュレーション"
+      ],
+      "price": 3080,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -6962,6 +7102,28 @@
       "price": 500,
       "status": "",
       "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "629f4ac414df",
+      "title": "野球格闘リーグマン Bases Loaded",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131664",
+      "image": "https://img-eshop.cdn.nintendo.net/i/567df1095f4db35020427d52564630499e85a9819472cad0b384f3f010111ff2.jpg",
+      "maker": "シティコネクション",
+      "genre": [
+        "アーケード",
+        "アクション"
+      ],
+      "price": 4180,
+      "status": "予約受付中",
+      "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
@@ -7297,7 +7459,7 @@
       "date": null,
       "dateText": "2026年第4四半期",
       "sortKey": "2026-12-31",
-      "priority": 3.052,
+      "priority": 3.05,
       "platforms": [
         "pc"
       ],
@@ -7401,6 +7563,23 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "39c361ea50d3",
+      "title": "Rhythm Doctor",
+      "date": null,
+      "dateText": "2026年12月",
+      "sortKey": "2026-12-32",
+      "priority": 0,
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://www.rhythmdr.com/",
+      "image": "",
+      "maker": "",
+      "headline": "「7拍目」にボタンを押して患者を治療するリズムゲーム『Rhythm Doctor』のSwitch 2版が12月に配信決定",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610282w"
+    },
+    {
       "id": "fe032063bdb8",
       "title": "スヌーピー",
       "date": null,
@@ -7466,7 +7645,7 @@
       "date": null,
       "dateText": "2026年",
       "sortKey": "2026-13-00",
-      "priority": 3.04,
+      "priority": 3.038,
       "platforms": [
         "pc"
       ],
@@ -7526,7 +7705,7 @@
       "date": "2027-01-11",
       "dateText": "2027年1月11日",
       "sortKey": "2027-01-11",
-      "priority": 3.049,
+      "priority": 3.047,
       "platforms": [
         "pc"
       ],
@@ -7715,6 +7894,28 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "014fe62c1c90",
+      "title": "Mirth Island",
+      "date": "2027-01-28",
+      "dateText": "2027年1月28日",
+      "sortKey": "2027-01-28",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000123029",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b1c289201579357d01d7a0e8e0b3cd5396ef6f044c4cdb674ca135906b909fc9.jpg",
+      "maker": "Soedesco",
+      "genre": [
+        "音楽",
+        "アドベンチャー"
+      ],
+      "price": 1999,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "52a5d6063364",
       "title": "UNDERGROUNDED",
       "date": "2027-01-28",
@@ -7751,6 +7952,29 @@
       "headline": "海辺の魔法学校で，新生活を満喫するシミュレータ「Witchbrook」，2027年1月28日に発売決定",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/895/G089563/20261028055/"
+    },
+    {
+      "id": "9a76157280d1",
+      "title": "Witchbrook（ウィッチブルック）",
+      "date": "2027-01-28",
+      "dateText": "2027年1月28日",
+      "sortKey": "2027-01-28",
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136268",
+      "image": "https://img-eshop.cdn.nintendo.net/i/036836e51b23eaa2ab04389bdda1521129d0289b7bf0f7bcd1127f219123bfd4.jpg",
+      "maker": "Chucklefish",
+      "genre": [
+        "シミュレーション",
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
       "id": "608a89326ad2",
@@ -8145,7 +8369,7 @@
       "date": null,
       "dateText": "2027年第1四半期",
       "sortKey": "2027-03-31",
-      "priority": 3.109,
+      "priority": 3.105,
       "platforms": [
         "pc"
       ],
@@ -8260,6 +8484,28 @@
       "sourceUrl": "https://www.4gamer.net/games/959/G095956/20260917072/"
     },
     {
+      "id": "2f6eae6d2256",
+      "title": "『Winds of Viridia ～ヴィリディアの風～』",
+      "date": null,
+      "dateText": "2027",
+      "sortKey": "2027-13-00",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139726",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e490010b8d5894422dfbd795dd740f43683d8da3b3859a0dad2e70b697bf1c44.jpg",
+      "maker": "SHARK JUMP / シャーク•ジャンプ",
+      "genre": [
+        "アドベンチャー",
+        "アクション"
+      ],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
       "id": "757f5f625ffd",
       "title": "BIOHAZARD RE:Veronica",
       "date": null,
@@ -8274,6 +8520,53 @@
       "genre": [
         "アクション",
         "アドベンチャー"
+      ],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "b23231735e82",
+      "title": "Cairn（ケルン）",
+      "date": null,
+      "dateText": "2027",
+      "sortKey": "2027-13-00",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126642",
+      "image": "https://img-eshop.cdn.nintendo.net/i/49dd012b49e73ef1a255e4cd8ccd25b3ef2a3a0ec4c619f59ac5d0fdfb02ed80.jpg",
+      "maker": "The Game Bakers",
+      "genre": [
+        "アドベンチャー",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "price": null,
+      "status": "",
+      "priority": 2,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "e862e26964d2",
+      "title": "Haunted Paws",
+      "date": null,
+      "dateText": "2027",
+      "sortKey": "2027-13-00",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000133759",
+      "image": "https://img-eshop.cdn.nintendo.net/i/10032b714a84f94760f0f442e669dc9bd19452d25c4be0265136b7a5a7a0d137.jpg",
+      "maker": "LazyFlock",
+      "genre": [
+        "アドベンチャー",
+        "アクション",
+        "パズル"
       ],
       "price": null,
       "status": "",
@@ -8357,48 +8650,6 @@
       "image": "https://img-eshop.cdn.nintendo.net/i/37130792c402bd3a2d639703c1dc4ae10b867f2b926f04b76a33f8d2d86d1a25.jpg",
       "maker": "CD PROJEKT RED",
       "genre": [],
-      "price": null,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "7d21cf17f5da",
-      "title": "ポケットモンスター ウインド",
-      "date": null,
-      "dateText": "2027",
-      "sortKey": "2027-13-00",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122034",
-      "image": "https://img-eshop.cdn.nintendo.net/i/312ac9843dc5ed32d03bb3e57bb1f99e315989f9d34d6dc897ccf20973dc744b.jpg",
-      "maker": "ポケモン",
-      "genre": [
-        "ロールプレイング"
-      ],
-      "price": null,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "719b3a50c681",
-      "title": "ポケットモンスター ウェーブ",
-      "date": null,
-      "dateText": "2027",
-      "sortKey": "2027-13-00",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122027",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e45a55bd40ea04dc4026699a83d50d674ace20d0286f7be8885fafb8e1aee0ff.jpg",
-      "maker": "ポケモン",
-      "genre": [
-        "ロールプレイング"
-      ],
       "price": null,
       "status": "",
       "priority": 2,
@@ -9309,6 +9560,574 @@
   ],
   "changes": [
     {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Haunted Paws",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000133759",
+      "image": "https://img-eshop.cdn.nintendo.net/i/10032b714a84f94760f0f442e669dc9bd19452d25c4be0265136b7a5a7a0d137.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2027"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Cairn（ケルン）",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126642",
+      "image": "https://img-eshop.cdn.nintendo.net/i/49dd012b49e73ef1a255e4cd8ccd25b3ef2a3a0ec4c619f59ac5d0fdfb02ed80.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『Winds of Viridia ～ヴィリディアの風～』",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139726",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e490010b8d5894422dfbd795dd740f43683d8da3b3859a0dad2e70b697bf1c44.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Witchbrook（ウィッチブルック）",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136268",
+      "image": "https://img-eshop.cdn.nintendo.net/i/036836e51b23eaa2ab04389bdda1521129d0289b7bf0f7bcd1127f219123bfd4.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月28日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Mirth Island",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000123029",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b1c289201579357d01d7a0e8e0b3cd5396ef6f044c4cdb674ca135906b909fc9.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月28日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Rhythm Doctor",
+      "url": "https://www.rhythmdr.com/",
+      "image": "",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "野球格闘リーグマン Bases Loaded",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131664",
+      "image": "https://img-eshop.cdn.nintendo.net/i/567df1095f4db35020427d52564630499e85a9819472cad0b384f3f010111ff2.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "フェーダ The Emblem of Justice",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131133",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f7461b76c839d2bd7dd1393e527ebd57082446ac79af40f875ad672f147c1353.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "トリネア",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131134",
+      "image": "https://img-eshop.cdn.nintendo.net/i/071ccadc3875160504503e827b0cb0fc6bbe1d64657a4045e4b4cb84cb2d4fda.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "SUPERやのまんCOLLECTION",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000041261",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1604a0af3f84e6f24868a56963688b07fcb1ef34e383f819c2c27bfc193c5e1c.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ デジタルデラックスエディション",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000039556",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b51bc66443d5901499b48cc5ac72931bb184b421535d211063353f7127b0a3af.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ DIGITAL ARTWORKS & MUSIC PLAYER",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000077507",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a160ac08810367e5d6c329bcf279a3e6cd0ef9e0516f154972c9ac99904ecfed.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "BloodRush: Undying Wish",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136608",
+      "image": "https://img-eshop.cdn.nintendo.net/i/35d2279722d502251087bbb06623291361c6f46317231398711090f53f3a93a0.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "楽園追放 -The Stellar Angel-",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000129857",
+      "image": "https://img-eshop.cdn.nintendo.net/i/789d603cd1b62a50ed55e3e0d874c5bf1099ee2956a3cbf0363a2a3db04d6064.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ハッピーウィークエンド",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000127584",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c5ae9b0bffd3d2ac7ac3a91117f0a77a34abfc04c09f61879850ee6713b9b313.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "MIX DUNK -KING OF BASKETBALL-ダウンロード版デジタル豪華版",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000040816",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0d7119fe3ee7b1f41ba1b333e2d9bb90121287365103ee1eadf018584b99747a.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "MIX DUNK -KING OF BASKETBALL- ダウンロードコンテンツ",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000081714",
+      "image": "https://img-eshop.cdn.nintendo.net/i/beec9958b3da098010dec9f3a6b7c50d6bbd95c22f95929e3c2f7b5832e7ad09.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "クロスランド せいれいたちとつむぐせかい",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140054",
+      "image": "https://img-eshop.cdn.nintendo.net/i/e1e203955dddbf1201b7b4429fd80a455c435cca9e0506fa987445af10631dcf.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2026年11月17日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "打倒東京にはJimotoism",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139994",
+      "image": "https://img-eshop.cdn.nintendo.net/i/059c8b15a57a837b80b72302e743861b49f61e084414e6469dd7bcf5a97220b4.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月14日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "The Lost Pit",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131610",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ecba1ba6c7ebd0a22eb23cae23bd38d32596b600b9f12e181ee27ef530c8a643.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月13日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "雑音系少年少女",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000125205",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a85de038580dfdfd83865a45e3ae4413256de833e4b68c579db7fb05ae423c7f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "キューピークロウ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137272",
+      "image": "https://img-eshop.cdn.nintendo.net/i/efea6268665699c639d7a4b07968c012784ae884371799a4351bdb8a4535163a.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ウチのペット事情",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138338",
+      "image": "https://img-eshop.cdn.nintendo.net/i/92d66c15d343e9eceb4d727f01095593504a34a39b5453a9e5cc32f569e9f0cf.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "UKKARIANS ウッカリアンズ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136308",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fcd81d0f9b19e132c57de83d3a2175084556d7d43dc9af7a8e415c01656c953c.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "テーブルゲームワールド CCFOLIA for Nintendo Switch 2",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000104817",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ef136e30c9a111a406a675dc2b74694f751991a2401d14cdb1e9892ebe10f92e.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年11月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "TANUKI: Pon's Summer - タヌキ：ポンの夏",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000134019",
+      "image": "https://img-eshop.cdn.nintendo.net/i/bb50beb2b2c813a31972a69e0d5c88d7c418d0b8fa8b90aeea311a253c79003c.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "to": "2026年11月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "RACCOIN: Chaos Max Edition",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000116416",
+      "image": "https://img-eshop.cdn.nintendo.net/i/608c9e1d7f8fe983c163c7be996d276bfec545b914eb713961cf99b510413305.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年11月10日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "両面反転パズル 追加ステージパック Vol.1",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000083576",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f93b4163b5ac5221bf038e125627643f727a662a65c4909e3578bbf3d6d9661d.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "竜騎士の迷宮 リメイク",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000112333",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6261a4c15a5d23a6d258672a64f9d8800ebf2544677fbdefb1f6953e69ca5499.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "真相がわかると怖い漫画 〜ゾッとするホラーミステリー謎解きゲーム〜",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140639",
+      "image": "https://img-eshop.cdn.nintendo.net/i/530cddc606b26c73c22cbb63402ebf2414f928f57d7eb7cc56b748a259fa2b59.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "黒髪美女とサマーバカンス間違い探し",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138021",
+      "image": "https://img-eshop.cdn.nintendo.net/i/afc8e8756911a22bb49c2382bf09b894bf5d7d744349ee123c829aadd1ed7885.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "気軽に謎解き：1分探偵ミステリー",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000141296",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c92240fd68c35661d2a42278a77011131e6057ccdf186a9957c7c39338fe8bb2.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "意味がわかると不気味なマンガ 〜ーゾッとする意味怖謎解き都市伝説怪談ゲームー〜",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137502",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c1c1cf19838ffa383a09c56393e4cd8fa7ae86898b791036a9277ae3272c161f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "メロメロ！異世界モンタージュパズル ～聖女から魔物娘まで～",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140232",
+      "image": "https://img-eshop.cdn.nintendo.net/i/76c46dbad1f57fff0bbae28b04337ebf18f063b2be878d50cf654b2a72c03a72.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ヒミツのこねこ～美少女アイテム探し～",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140097",
+      "image": "https://img-eshop.cdn.nintendo.net/i/71f1d2acdfca9c68ba994b177e8b81e25a4e93791f36ad7e2c4452b99ad4eabc.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "バナナを探せ！〜美少女脳トレゲーム〜",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139047",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1c3547b20aea54f3ae3cc81cafc9710edef161ed2c570b3a2b2c86cf4886409e.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "にゃんにゃん にゃん球",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000111217",
+      "image": "https://img-eshop.cdn.nintendo.net/i/cac0b42f0fc6e1da7e450fd7a7ffd76caf030ba1ac644aab7500de1b2644a0d4.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ソーラーオーエーシストレジャーズ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131380",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ecbc50687e8f83e5dc27a7f38308f4f651947bdb18f9bdf2987301a2ec177fbe.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "シティロードパズル ～街の道をつなげる脳トレ～",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139489",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f11919ec0f4280b817616afb7b7f8e012c3d8180a5b9244b11b89cfa8dfaede9.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "くるくるカノジョ！ ～ウォーターパークで秘密のデート～",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140238",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f2a628feb13e660e18e164b0aa4a5d77b63b4b39b3cae44ca383c4b08a2dbdd7.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ギャルと南国バカンス 常夏の思い出",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138014",
+      "image": "https://img-eshop.cdn.nintendo.net/i/fe2dc8e9f5f85389782827b9798c58f2c8420e8e113b89ad37f83174f4235b75.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Puppet of Pain",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126371",
+      "image": "https://img-eshop.cdn.nintendo.net/i/711636bc2bd7944c5a3e95db0296d096bc4c2a6099715768f8bb5323efabeb0e.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Guided Meditations - Calm Mind",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000133659",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6fbc2778bd42b357e9739e2d137ea2859bfaaf571d9f2a9702facb1a63773961.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "EGGコンソール は〜りぃふぉっくす MSXスペシャル MSX",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131616",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0db4e338439b1c8baefd92a3c73bfc0258116573a8d785e31c8c66fce04a3312.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Car Sales Simulator: Big Deal Pack",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000083458",
+      "image": "https://img-eshop.cdn.nintendo.net/i/045b597e69239f6a6f73e7fa1997fe3fe6c321112a42135b0b7489e10dcc2e7a.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000116351",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年11月3日",
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T16:00:39.081Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Ad Aquilonem - セトとすごす100日間 -",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136213",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0b9060bd5a7292d312cf4bd874c095a50d28a383cabac7de9fa6f1c714f9dfb7.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年10月30日"
+    },
+    {
       "at": "2026-10-28T15:30:35.134Z",
       "type": "new",
       "label": "新規",
@@ -9451,18 +10270,6 @@
       "to": "2026年11月12日"
     },
     {
-      "at": "2026-10-26T16:00:35.305Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Star Trek: Voyager - Across the Unknown - Delta Chronicles 2 DLC",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000076097",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70cc76c5469ab89a2869c5f0dbb10b656aa449f62ded8a24b13a986d8c10b94a.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
       "at": "2026-10-26T14:30:34.471Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -9474,549 +10281,6 @@
         "mobile"
       ],
       "to": "App Store 2026年10月29日"
-    },
-    {
-      "at": "2026-10-26T06:00:30.285Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ドラクエ",
-      "url": "http://suntory.jp/nope",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月"
-    },
-    {
-      "at": "2026-10-26T01:00:32.933Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ハローキティ",
-      "url": "https://www.uniqlo.com/jp/ja/spl/ut-graphic-tees/hello-kitty",
-      "image": "",
-      "platforms": [],
-      "to": "2026年12月"
-    },
-    {
-      "at": "2026-10-23T08:30:31.802Z",
-      "type": "new",
-      "label": "新規",
-      "title": "鉄廻城砦の灰花",
-      "url": "https://va-scripts.com/tekkaijosai",
-      "image": "https://storage.googleapis.com/production-os-assets/assets/41fe17d5-c9b4-4b5d-b3d9-a0d44df01987",
-      "platforms": [],
-      "to": "2026年12月18日"
-    },
-    {
-      "at": "2026-10-23T05:00:29.573Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年10月23日",
-      "to": "2026年10月"
-    },
-    {
-      "at": "2026-10-22T15:30:33.316Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Wall World Strategy",
-      "url": "https://alawar.com/games/wall-world-strategy",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月11日"
-    },
-    {
-      "at": "2026-10-22T14:00:30.209Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Faraway",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131183",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-22T11:00:37.843Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Moonlighter 2: The Endless Vault",
-      "url": "https://digitalsungames.com/games/moonlighter-2/",
-      "image": "",
-      "platforms": [],
-      "to": "2027年1月21日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "うたの☆プリンスさまっ♪ Shining Live  for Nintendo Switch",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000116226",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c2ca0ab58328e68ce4cc78600e92c85dbd1800b7b8e7515443f136adc82f60f6.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "The Dark Queen of Mortholme",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135942",
-      "image": "https://img-eshop.cdn.nintendo.net/i/86139f2c15e0043ca6c51f34fda9d2d98192c70551bf5d8bd77587dfd1eca672.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "深層のチャロアイト",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000128450",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6323a059bf7639310c7f330cb7e58628fc631972ef908ac6ef643242a58a3a1d.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Hillthorn",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129104",
-      "image": "https://img-eshop.cdn.nintendo.net/i/39c06134cd12653df6ada78b8317b685160f4c10d7e993dc01e1c2df668df240.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月12日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "秘密の富豪恋愛：禁断の欲望ガールズ (Billionaire Secret Affaire: Forbidden Desire Girls)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127174",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f26bcd72d5e8a6e3eb86d115576f4a05336ae5d765b38d92603a060aebf572f8.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ゼウス:武器進化サバイバー ~ギリシャの神々VS天界~ (Zeus Evolve Weapons Survivor: Greek Gods Versus Heaven)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000133940",
-      "image": "https://img-eshop.cdn.nintendo.net/i/68cdc1d59374c237a5a09a33ddf9d7fa4e6fe31174ccee161b11471a04febc15.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "VALKYRIE TUNE：機械仕掛けのアイ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131926",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fa65c8971c69908d4fd11221b721927f52610ddcf41082f3c5a4932fca0e05d9.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Geode Cave",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140176",
-      "image": "https://img-eshop.cdn.nintendo.net/i/af3919e04871b9ec148228e70e38de2a4f642869f2cf42b76fad7eb609bb32de.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Cat President 2:Purrlitical Revolution",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000126947",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6e92320f297b83ddd05cd82d0fa8c8d5b0a133949bebac26c8487be8ee9512ff.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "The Night of the Exorcism",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000126902",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ba098cfd230bc5525bac94a948f9445fb1e2dbce70c74e4a88d40f97e4373e0f.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月30日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ゾンビーブレッツデッドゾーン",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129459",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2dee17f798277596feda9589c7606db4b62c7bb2e91e8e121ba5f21345d93f8c.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "この時代、何かがおかしい ー歴史の中の違和感を見抜けー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138085",
-      "image": "https://img-eshop.cdn.nintendo.net/i/927142ff79bfcc703e69950b208c313889ae841173edf8cd8105132135067ca8.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "イノセントメモリー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138572",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e15209e41bfb60dcf21badbd70c32d92b1c51a1baa55896f106d2491d9873827.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Flight Simulator 2026 Deluxe Edition",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041286",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ad5ca056d95ce3d0e58c7fa98321eb50b933ccb0bbae29b3520906e77e412248.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Fix & Flip Dream House Handyman Tools",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082519",
-      "image": "https://img-eshop.cdn.nintendo.net/i/bfce94689aa2192adf4caf00ce2f02bff0b99171c2e5caac9a414751820fc08e.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Easy Fishing Simulator",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139295",
-      "image": "https://img-eshop.cdn.nintendo.net/i/945b21af8fee58781aff9b8e10e4d863f258616104929f3ee3353cc4285222be.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T17:00:37.044Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Air Hares",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000124450",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c721f4a097c9cfb74f9013aa9d66338d80b1bd5dd0d4d82a66069423d3c2b0a1.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Armatus",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000112021",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8bc4d303d6ba85222a0d395158f1e7b3d2ef706817dba529752814b79d4bdce4.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年1月8日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Full Metal Sergeant 2",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131117",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1815ad247baa30d711dd8db22ef3649597d3d1469563ef7671176631df2ea1d6.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ALICE＝ALICE ＆ BAD MEDICINE 2in1 PACK for Nintendo Switch",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000133474",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3e15ced0f57e4c403f372a15b4548ff788870ab9049f8097dab4a275c3567892.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "すみっコぐらし　ぽかぽか温泉にようこそ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000125709",
-      "image": "https://img-eshop.cdn.nintendo.net/i/082a4ded3ef412e4bf4d0e8fb40245e93037dda538b8cfb064d414390b7dbfa2.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Supermarket Simulator",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000130095",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2e09a54d9a63d37b2249dd444076dc2a4a6add68e7733ba5b4228eef6fe4764f.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月12日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "秘密の富豪恋愛：禁断の欲望イケメン (Billionaire Secret Affaire: Forbidden Desire Boys)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127180",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8d1f6ce4c7426da68e1199bf14da4ba3d59900e0afcee6187848866332ed9d75.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Industria (インダストリアー)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136641",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9500f4fea6ef6c918c9f9def2b99b0aaf54c9e4a782574f0721d988eeb8a9b59.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月5日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "近鉄奈良線 方向板コレクション",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082527",
-      "image": "https://img-eshop.cdn.nintendo.net/i/00ab3225b0d1fc0470da0b9031420e70dc395d4e67424896244d43273171d6d3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "巨匠たちの美術史〜19世紀フランス名画検定〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139023",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38b822475bf9ef8d0ce5a48631b85ec58aa3070e9e3ff6a50bfeec27cdbb9b7a.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "メルティングアタッカー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000104678",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f68d3e82374e060ce8788ea0b9e9772befc16a8f4baf6825a7793c02f841df7b.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ディストーティドペラノーマルアクティビティズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122907",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f89c5f0f3358c54cb8c3c4acb6fe1ef4de6e238920becef62b991cfb13851643.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "おくだけスタディ 推し活ハングル 〜指一本でかんたん韓国語教養学習ゲーム〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138061",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e6739efc48244974e1f96f8c3d0f7e66cce41e60f849e9eae04c67bd14c98bb3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "エクソシストガンズオブヘブン",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129521",
-      "image": "https://img-eshop.cdn.nintendo.net/i/82565a0c067609d6e34d4b054f581178965163801b8eb3334e8144dcf25790bf.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Yet Another Zombie Survivors またまたゾンビサバイバーズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000081125",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8d377d5a5f05fb989f81f1e05fc8938bfcb06350216241e7e412aa0b92099652.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Olivia",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137292",
-      "image": "https://img-eshop.cdn.nintendo.net/i/debb0c76608b713d1d52995885a064c9bb304cf3f5e80572745c28bd90b3c113.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Flight Simulator 2026: Aviation Radio",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082629",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e5b0e314af00b283bb6185fce39344ffd3f97e50031b6c2208716994e06119f3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Flight Simulator 2026 Sky Credits",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082622",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7619fa7059d063caed19c25fbac0b9586fb1193e3b7bc33518d304c30a2bb0c2.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Fix & Flip Dream House Trending 2026 Floor",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082539",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b9ea3785a4a06bf753c68dcc9d0c88d12f8ccf43bc0f91d0cea03a1928abee7e.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Fix & Flip Dream House DELUXE",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041257",
-      "image": "https://img-eshop.cdn.nintendo.net/i/baf290e0ba29f4c549b3cd4757fb9e87c0dd535d0178a5b51ff2750f082f1c05.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Devil & Angel Sky Battle",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139874",
-      "image": "https://img-eshop.cdn.nintendo.net/i/25cf1d02519a0a2bc51dcdf1a372aa502f0a4523ae78b9f50860d6e413ba7601.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Choice of Life: Samosbor",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136201",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3de061795d689b4b941e5b370b4a93c258dab16fac3bd03cc7f369876ad8e406.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Capsule Arcade",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38dcdf04d707549b6858b83c777be8188b2ecc64fb558b4339421859af14a3af.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
     }
   ],
   "platforms": [
