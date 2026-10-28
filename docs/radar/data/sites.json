@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T04:30:18.494Z",
+  "updatedAt": "2026-10-28T05:00:21.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1080,
+  "total": 1081,
   "regions": {
     "jp": 891,
-    "global": 189
+    "global": 190
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 376
+      "count": 377
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "2d658641323d",
+      "url": "https://thebossgangster.com/",
+      "host": "thebossgangster.com",
+      "region": "global",
+      "title": "ギャングボス：犯罪帝国",
+      "headline": "犯罪組織運営シム「ギャングボス：犯罪帝国」が正式リリース。車泥棒からナイトクラブ経営まで，裏社会のボスに成り上がれ！",
+      "description": "Old-school GTA-style freedom meets deep crime tycoon, simulation, management, strategy and RPG systems in one seamless …",
+      "publishedAt": "2026-10-28T04:39:28.000Z",
+      "addedAt": "2026-10-28T05:00:21.040Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/958/G095871/20261028015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://thebossgangster.com/assets/from-the-streets-keyart.jpg"
+    },
     {
       "id": "6fce58f3969f",
       "url": "https://www.digimon-alysion.com/",
