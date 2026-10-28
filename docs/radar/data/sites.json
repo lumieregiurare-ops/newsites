@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-28T13:00:18.448Z",
+  "updatedAt": "2026-10-28T13:30:20.036Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1095,
+  "total": 1096,
   "regions": {
     "jp": 904,
-    "global": 191
+    "global": 192
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 46
+      "count": 47
     },
     {
       "id": "prereg",
@@ -117,7 +117,7 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 6
+      "count": 7
     }
   ],
   "sources": [
@@ -14447,6 +14447,36 @@
         "release"
       ],
       "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "3a590cc3e1d1",
+      "url": "https://segaarcade.com/games/house-of-the-dead-reawakened",
+      "host": "segaarcade.com",
+      "region": "global",
+      "title": "ザ・ハウス・オブ・ザ・デッド",
+      "headline": "「ザ・ハウス・オブ・ザ・デッド」再始動？ 海外のテーマパーク/アトラクション専門サイトが報じる。怪しげな扉と銃のティザー動画も",
+      "description": "House of the Dead Reawakened marks SEGA Amusements International's most ambitious VR title to date! | SEE MORE",
+      "publishedAt": "2026-10-06T04:58:10.000Z",
+      "addedAt": "2026-10-06T05:00:17.330Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999905/20261006009/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [
+        "vr"
+      ],
       "points": null,
       "image": ""
     },
