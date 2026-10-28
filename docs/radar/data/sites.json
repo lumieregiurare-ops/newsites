@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T15:00:21.089Z",
+  "updatedAt": "2026-10-28T15:30:17.513Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1097,
+  "total": 1099,
   "regions": {
-    "jp": 903,
+    "jp": 905,
     "global": 194
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 381
+      "count": 383
     },
     {
       "id": "indie",
@@ -77,12 +77,12 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 32
+      "count": 33
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 34
+      "count": 36
     },
     {
       "id": "ps",
@@ -133,6 +133,36 @@
   ],
   "items": [
     {
+      "id": "6fef47c0f111",
+      "url": "https://www.foxandfrog.net/",
+      "host": "foxandfrog.net",
+      "region": "jp",
+      "title": "狐ト蛙ノ旅 アダシノ島のコトロ鬼",
+      "headline": "狐の少女と蛙が不気味な島を彷徨う。「狐ト蛙ノ旅 アダシノ島のコトロ鬼」がSwitch2 / Switch向けに2027年春に配信決定",
+      "description": "狐ト蛙ノ旅 Kitsune: The Journey of Adashino is a 3d adventure game. Fox, a girl who finds herself on Adashino Island and sta…",
+      "publishedAt": "2026-10-28T15:23:45.000Z",
+      "addedAt": "2026-10-28T15:30:17.513Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/053/G105389/20261029002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/b2c484_3ffd19322c5d4dfab5b9d6cc87b41ca1%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b2c484_3ffd19322c5d4dfab5b9d6cc87b41ca1%7Emv2.png"
+    },
+    {
       "id": "994759be44bb",
       "url": "https://www.witchbrook.com/",
       "host": "witchbrook.com",
@@ -158,6 +188,35 @@
       "platforms": [],
       "points": null,
       "image": "https://www.witchbrook.com/assets/img/social-card.png"
+    },
+    {
+      "id": "9e5eb4a51b18",
+      "url": "https://umdc.shueisha-games.com/",
+      "host": "umdc.shueisha-games.com",
+      "region": "jp",
+      "title": "都市伝説解体センター",
+      "headline": "『都市伝説解体センター』Nintendo Switch 2 Editionが配信開始。廻屋やあざみたちの未公開シーンを鑑賞できるギャラリー機能を追加",
+      "description": "「都市伝説解体センター」は、インターネット上に飛び交ういくつかの都市伝説をテーマに、推理ミステリーのようなシナリオと、サイケデリックなピクセルアートで紡ぐ、連続ドラマ形式のアドベンチャーゲーム。",
+      "publishedAt": "2026-10-28T14:16:26.000Z",
+      "addedAt": "2026-10-28T15:30:17.513Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610283q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://umdc.shueisha-games.com/images/ogp.jpg"
     },
     {
       "id": "eb1f37bd493e",
