@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-28T04:00:18.293Z",
+  "updatedAt": "2026-10-28T04:30:18.494Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1079,
+  "total": 1080,
   "regions": {
-    "jp": 890,
+    "jp": 891,
     "global": 189
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 45
+      "count": 46
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 122
+      "count": 127
     },
     {
       "id": "anniversary",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 162
+      "count": 161
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 339
+      "count": 340
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6fce58f3969f",
+      "url": "https://www.digimon-alysion.com/",
+      "host": "digimon-alysion.com",
+      "region": "jp",
+      "title": "デジモンカードゲーム",
+      "headline": "「デジモンカードゲーム」をスマホで遊べる「デジモンアリシオン」，事前登録受付を開始。ルールはほぼそのままで，本作限定の新規カードも登場",
+      "description": "デジモンカードゲームNEW PROJECT スマートフォン向けアプリ『デジモンアリシオン』始動！",
+      "publishedAt": "2026-10-28T04:00:48.000Z",
+      "addedAt": "2026-10-28T04:30:18.494Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/893/G089331/20261028008/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "teaser"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.digimon-alysion.com/ogp.jpg"
+    },
     {
       "id": "b2f45c60f888",
       "url": "https://apps.apple.com/jp/app/id6740988190",
@@ -185,9 +219,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
@@ -5076,10 +5112,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [
         "pc"
@@ -23749,9 +23786,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [],
@@ -23999,9 +24038,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release",
         "goods"
       ],

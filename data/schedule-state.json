@@ -1500,7 +1500,7 @@
       }
     },
     "ソリティア世界旅行": {
-      "at": "2026-10-25T04:30:34.830Z",
+      "at": "2026-10-28T04:30:40.269Z",
       "entry": {
         "trackId": "6792692437",
         "title": "ソリティア世界旅行 - 旅するクロンダイク",
@@ -2409,7 +2409,7 @@
       "entry": null
     },
     "プリンセスコネクト！Re Dive": {
-      "at": "2026-10-25T04:30:33.428Z",
+      "at": "2026-10-28T04:30:38.766Z",
       "entry": {
         "trackId": "1134429300",
         "title": "プリンセスコネクト！Re:Dive",
@@ -2949,6 +2949,22 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/8a/9f/168a9fd3-b73e-787b-f182-411e9831ce74/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "ムーンライト ピークス": {
+      "at": "2026-10-28T04:30:35.930Z",
+      "entry": null
+    },
+    "ArcheAge Chronicles": {
+      "at": "2026-10-28T04:30:37.359Z",
+      "entry": null
+    },
+    "ロックマン デュアル オーバーライド": {
+      "at": "2026-10-28T04:30:41.637Z",
+      "entry": null
+    },
+    "グランド セフト オートVI": {
+      "at": "2026-10-28T04:30:43.161Z",
+      "entry": null
     }
   },
   "titles": {
@@ -47270,7 +47286,7 @@
       "dateText": "2026年11月3日",
       "date": "2026-11-03",
       "sortKey": "2026-11-03",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-27T17:30:35.388Z"
     },
     "crownmason": {
@@ -47646,23 +47662,26 @@
       "dateText": "2026年11月17日",
       "date": "2026-11-17",
       "sortKey": "2026-11-17",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "デジモンカードゲーム": {
+      "title": "デジモンカードゲーム",
+      "prereg": true,
+      "firstSeen": "2026-10-28T04:30:35.428Z"
+    },
+    "ロックマン:デュアルオーバーライド": {
+      "title": "ロックマン: デュアル オーバーライド",
+      "prereg": true,
+      "firstSeen": "2026-10-28T04:30:35.428Z"
+    },
+    "グランド・セフト・オートvi": {
+      "title": "グランド・セフト・オートVI",
+      "prereg": true,
+      "firstSeen": "2026-10-28T04:30:35.428Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-28T04:00:43.445Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Summer Pockets Sunnyside Stories",
-      "url": "https://key.visualarts.gr.jp/summer_ss/",
-      "image": "https://key.visualarts.gr.jp/summer_ss/common/image/og.webp",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年12月18日"
-    },
     {
       "at": "2026-09-28T12:30:38.360Z",
       "type": "new",
@@ -51752,6 +51771,66 @@
         "ps"
       ],
       "to": "2026年11月17日"
+    },
+    {
+      "at": "2026-10-28T04:30:35.428Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月23日"
+    },
+    {
+      "at": "2026-10-28T04:30:35.428Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ムーンライト・ピークス",
+      "url": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/",
+      "image": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/assets/ogp.jpg",
+      "platforms": [
+        "ps"
+      ],
+      "to": "11月17日に発売"
+    },
+    {
+      "at": "2026-10-28T04:30:35.428Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ArcheAge Chronicles",
+      "url": "https://archeagechronicles.xlgames.com/en/",
+      "image": "https://archeagechronicles.xlgames.com/assets/common/og-image.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-28T04:30:35.428Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ロックマン: デュアル オーバーライド",
+      "url": "https://www.capcom-games.com/megaman/do/ja-jp/",
+      "image": "https://www.capcom-games.com/megaman/do/assets/images/share_ja-jp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-28T04:30:35.428Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "グランド・セフト・オートVI",
+      "url": "https://www.rockstargames.com/VI/",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?qXOoWo7_YJjVLK9jY_b4F",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "11月19日に発売"
     }
   ],
   "initialized": true,
