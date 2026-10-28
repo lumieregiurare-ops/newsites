@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T05:00:50.664Z",
+  "updatedAt": "2026-10-28T05:30:30.726Z",
   "platforms": [
     {
       "id": "switch",
@@ -323,6 +323,26 @@
       "trackId": ""
     },
     {
+      "id": "3c11b587ceab",
+      "title": "シャーマンキング",
+      "url": "https://mechasamurai.com/",
+      "image": "https://mechasamurai.com/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-27T10:30:04.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "『シャーマンキング』作者・武井宏之氏がメインキャラクター原案を務めるショートアニメ『メカザムライ』が始動。11月2日よりYouTubeなどで毎日配信",
+      "description": "テレビ東京 × Plott の新ショートアニメプロジェクト『メカザムライ』公式サイト。メインキャラクター原案は武井宏之。2026年11月2日（月）よりYouTube・X・Instagram・TikTokで縦型ショート動画を毎日配信、11月…",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610272y",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -436,34 +456,21 @@
       "sourceUrl": "https://www.4gamer.net/games/528/G052880/20261020018/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "a194e704154b",
-      "title": "グリザイア 集結の百果",
-      "url": "https://grisaia-s100.com/",
-      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-16T10:48:51.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「グリザイア 集結の百果」の事前登録受付がApp StoreとGoogle Playで開始。「グリザイア」シリーズの15周年を記念したタイトル",
-      "description": "『グリザイア』シリーズ新作コンテンツ『グリザイア 集結の百果』は2026年リリース予定。事前登録受付中！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/037/G103778/20261016050/",
-      "appleId": "6758039748",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6758039748",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6758039748"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-28T05:30:30.726Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シャーマンキング",
+      "url": "https://mechasamurai.com/",
+      "image": "https://mechasamurai.com/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-28T04:30:35.428Z",
       "type": "prereg_start",
@@ -523,18 +530,6 @@
         "mobile"
       ],
       "to": "App Store 2026年12月23日"
-    },
-    {
-      "at": "2026-10-28T04:00:36.521Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ムーンライト・ピークス",
-      "url": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/",
-      "image": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/assets/ogp.jpg",
-      "platforms": [
-        "ps"
-      ],
-      "to": "2026年11月17日"
     }
   ]
 }

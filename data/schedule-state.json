@@ -1279,21 +1279,21 @@
       }
     },
     "悪魔城ドラキュラ": {
-      "at": "2026-10-25T05:30:28.002Z",
+      "at": "2026-10-28T05:30:32.356Z",
       "entry": {
-        "trackId": "1498019884",
-        "title": "悪魔城ドラキュラ",
+        "trackId": "1435456830",
+        "title": "悪魔城ドラキュラX 月下の夜想曲",
         "artist": "KONAMI",
         "genres": [
           "エンターテインメント",
-          "アクション",
-          "アドベンチャー"
+          "アドベンチャー",
+          "アクション"
         ],
-        "releaseDate": "2026-09-24T07:00:00Z",
+        "releaseDate": "2020-03-03T08:00:00Z",
         "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id1498019884",
-        "sellerUrl": "https://www.konami.com/games/castlevania/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/27/af/ed27afe5-3d3a-2033-a2f0-2f5b42e15baa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "storeUrl": "https://apps.apple.com/jp/app/id1435456830",
+        "sellerUrl": "https://www.konami.com/games/castlevania/jp/ja/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -1435,20 +1435,19 @@
       "entry": null
     },
     "NARUTO": {
-      "at": "2026-10-25T05:30:29.500Z",
+      "at": "2026-10-28T05:30:33.905Z",
       "entry": {
-        "trackId": "6479512734",
-        "title": "NARUTO－ナルト－ ナルティメットストーム",
+        "trackId": "6745006459",
+        "title": "NARUTO－ナルト－ ナルティメットストーム+",
         "artist": "Bandai Namco Entertainment Inc.",
         "genres": [
-          "アクション",
-          "ロールプレイング"
+          "アクション"
         ],
-        "releaseDate": "2024-09-24T07:00:00Z",
+        "releaseDate": "2025-12-04T08:00:00Z",
         "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id6479512734",
+        "storeUrl": "https://apps.apple.com/jp/app/id6745006459",
         "sellerUrl": "https://www.bandainamcoent.co.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/27/64/92276419-1108-6457-c99f-4fec05557560/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/13/56/051356bc-1538-1773-a503-e98a243b5800/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -2978,6 +2977,10 @@
     },
     "グランド セフト オートVI": {
       "at": "2026-10-28T04:30:43.161Z",
+      "entry": null
+    },
+    "シャーマンキング": {
+      "at": "2026-10-28T05:30:30.929Z",
       "entry": null
     }
   },
@@ -47693,6 +47696,19 @@
       "title": "グランド・セフト・オートVI",
       "prereg": true,
       "firstSeen": "2026-10-28T04:30:35.428Z"
+    },
+    "oldschoolbaseball": {
+      "title": "Old School Baseball",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-28T05:30:30.726Z"
+    },
+    "シャーマンキング": {
+      "title": "シャーマンキング",
+      "prereg": true,
+      "firstSeen": "2026-10-28T05:30:30.726Z"
     }
   },
   "changeLog": [
@@ -51845,6 +51861,18 @@
         "mobile"
       ],
       "to": "11月19日に発売"
+    },
+    {
+      "at": "2026-10-28T05:30:30.726Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シャーマンキング",
+      "url": "https://mechasamurai.com/",
+      "image": "https://mechasamurai.com/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

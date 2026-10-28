@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T05:00:21.040Z",
+  "updatedAt": "2026-10-28T05:30:19.595Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1081,
+  "total": 1082,
   "regions": {
     "jp": 891,
-    "global": 190
+    "global": 191
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 127
+      "count": 128
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 377
+      "count": 378
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 133
+      "count": 134
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "775eb6f083f0",
+      "url": "https://www.dancingwithghosts.com/",
+      "host": "dancingwithghosts.com",
+      "region": "global",
+      "title": "Dancing with Ghosts",
+      "headline": "両親を亡くした少女と幽霊が村人を助けるライフシム「Dancing with Ghosts」，早期アクセス版をSteamでリリース",
+      "description": "A gentle ghost story about learning to live after loss. Now in Early Access (PC).",
+      "publishedAt": "2026-10-28T05:29:30.000Z",
+      "addedAt": "2026-10-28T05:30:19.595Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/053/G105365/20261028016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://dancingwithghosts.com/og-card-2.jpg"
+    },
     {
       "id": "2d658641323d",
       "url": "https://thebossgangster.com/",
@@ -417,9 +446,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "teaser"
       ],
       "platforms": [],
