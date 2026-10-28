@@ -48984,21 +48984,33 @@
       "sortKey": "2027-13-00",
       "prereg": false,
       "firstSeen": "2026-10-28T16:00:39.081Z"
+    },
+    "gaudí:バルセロナの風": {
+      "title": "Gaudí: バルセロナの風",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-28T16:30:40.027Z"
+    },
+    "mypartyisgrinding-stashpackii": {
+      "title": "My Party Is Grinding - Stash Pack II",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-28T16:30:40.027Z"
+    },
+    "クロノ・トリガー": {
+      "title": "クロノ・トリガー",
+      "dateText": "2027年夏",
+      "date": null,
+      "sortKey": "2027-07-33",
+      "prereg": false,
+      "firstSeen": "2026-10-28T16:30:40.027Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-28T23:30:37.192Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "刀剣乱舞ぱずぎり",
-      "url": "https://touken-puzzle.com/",
-      "image": "https://touken-puzzle.com/assets/images/common/ogp.png?1790492716545",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年9月30日"
-    },
     {
       "at": "2026-09-29T01:30:28.471Z",
       "type": "new",
@@ -53751,6 +53763,16 @@
         "switch"
       ],
       "to": "2027"
+    },
+    {
+      "at": "2026-10-28T16:30:40.027Z",
+      "type": "new",
+      "label": "新規",
+      "title": "クロノ・トリガー",
+      "url": "https://threadsoftimegame.com/ja",
+      "image": "",
+      "platforms": [],
+      "to": "2027年夏"
     }
   ],
   "initialized": true,
