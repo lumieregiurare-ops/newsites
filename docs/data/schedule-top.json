@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T14:30:40.093Z",
+  "updatedAt": "2026-10-28T15:00:40.645Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,43 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "659617237eb7",
-      "title": "SULFUR",
-      "date": "2026-10-28",
-      "dateText": "2026年10月28日",
-      "sortKey": "2026-10-28",
-      "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "http://enemiesdiecool.com/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1793113939",
-      "maker": "",
-      "headline": "ローグライクFPS「SULFUR」，Steam早期アクセス中の販売本数が50万本を突破。10月28日に正式版とコンソール版を発売",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/715/G071508/20261026026/"
-    },
-    {
-      "id": "86e7513d4f8b",
-      "title": "No Man's Sky",
-      "date": "2026-10-29",
-      "dateText": "2026年10月29日",
-      "sortKey": "2026-10-29",
-      "priority": 0,
-      "platforms": [
-        "ps",
-        "mobile"
-      ],
-      "url": "https://www.nomanssky.com/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "maker": "",
-      "headline": "『No Man's Sky』iOS版が10月28日リリース決定！10年分アプデ含む「手抜きじゃない」移植が容量5GB未満で登場。そのチャレンジ精神、もはや宇宙",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/10/12/173523.html",
-      "announcedText": "2026年10月28日",
-      "dateSource": "appstore"
-    },
     {
       "id": "6714a8113fde",
       "title": "Phantom Blade Zero",
@@ -272,6 +235,36 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d743133d93d7",
+      "title": "鉄道にっぽん！ RealPro",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
+      "image": "",
+      "maker": "",
+      "headline": "“実写映像”の鉄道ゲーム『鉄道にっぽん！ RealPro』のDLCが11月5日に配信決定。名古屋の地下鉄・リニモ・ゆとりーとラインを逆方向に運転できる",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610143c"
+    },
+    {
+      "id": "fd878d9b1af2",
+      "title": "夢幻桜楼閣",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://game.shochiku.co.jp/ja/games/eternal-palace-sakura/",
+      "image": "https://game.shochiku.co.jp/ja/wp-content/uploads/sites/2/2025/12/j9.jpg",
+      "maker": "",
+      "headline": "猫耳少女が桜舞う迷宮を駆けるローグライト3Dアクション「夢幻桜楼閣」，11月5日発売。新要素を追加した最新体験版も配信開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/914/G091464/20260930004/"
     }
   ],
   "prereg": [
@@ -463,6 +456,16 @@
   ],
   "changes": [
     {
+      "at": "2026-10-28T15:00:40.645Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Witchbrook",
+      "url": "https://www.witchbrook.com/",
+      "image": "https://www.witchbrook.com/assets/img/social-card.png",
+      "platforms": [],
+      "to": "2027年1月28日"
+    },
+    {
       "at": "2026-10-28T10:30:34.436Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -519,18 +522,6 @@
       "image": "https://playfulsystems.com/sloppy-forgeries/images/site-preview.jpg",
       "platforms": [],
       "to": "2026年11月14日"
-    },
-    {
-      "at": "2026-10-27T15:00:31.559Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ゼルダ無双 厄災の黙示録 DX",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000130659",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e8217b1e80346c7b51bfd7da039327619499e89d50d88c477968a9a2c2385bbc.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年2月25日"
     }
   ]
 }

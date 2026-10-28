@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T14:30:21.143Z",
+  "updatedAt": "2026-10-28T15:00:21.089Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1096,
+  "total": 1097,
   "regions": {
     "jp": 903,
-    "global": 193
+    "global": 194
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 380
+      "count": 381
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "4Gamer",
     "App Store",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "994759be44bb",
+      "url": "https://www.witchbrook.com/",
+      "host": "witchbrook.com",
+      "region": "global",
+      "title": "Witchbrook",
+      "headline": "海辺の魔法学校で，新生活を満喫するシミュレータ「Witchbrook」，2027年1月28日に発売決定",
+      "description": "Study magic at Witchbrook College, build a life in the seaside town of Mossport, and take to the skies on your broom. A…",
+      "publishedAt": "2026-10-28T14:51:50.000Z",
+      "addedAt": "2026-10-28T15:00:21.089Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/895/G089563/20261028055/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.witchbrook.com/assets/img/social-card.png"
+    },
     {
       "id": "eb1f37bd493e",
       "url": "https://ggame.jp/",
@@ -4926,7 +4953,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://play-lh.googleusercontent.com/aUul3GMpauxUDiLRTYROu3MhIqdm99taz8L2RDGQaXN0k4nYqhdX8bvVrsvWPB3BC4kjAAr1FbCP4zUweQXhZQ=s0-br30"
+      "image": "https://play-lh.googleusercontent.com/VFdaOiGWiTzNMOqHE4cphnXdJXua1sELAl35iHk9sXjMEvH31eez3Hmw23E1dOJIJQgvRzP5oFrXMgjA7gkF4g=s0-br30"
     },
     {
       "id": "dcd00dee640d",
@@ -15850,6 +15877,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/333/G033338/20261007009/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/29/174204.html"
         }
       ],
       "tags": [
