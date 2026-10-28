@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "73fba112aaf4",
+      "url": "https://coldcall.mingo.games/",
+      "host": "coldcall.mingo.games",
+      "region": "jp",
+      "title": "ColdCall: Telesales Sim",
+      "headline": "資産運用商品を売り込むため，電話営業に挑むシミュレーション「ColdCall: Telesales Sim」，体験版配信開始。弾幕となった相手の発言を見極めながら，契約を成立させろ",
+      "description": "A dark-comedy telemarketing sim. Step into a cold caller's shoes, fight a bullet-hell tug-of-war on every call, and cli…",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-28T09:09:54.000Z",
+      "addedAt": "2026-10-28T09:30:17.878Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/053/G105383/20261028029/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release"
+      ],
+      "points": null,
+      "image": "https://coldcall.mingo.games/img/og.png",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-28T09:30:17.878Z",
+      "ogFetchedAt": "2026-10-28T09:30:17.878Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
+      "id": "d026d6c90324",
+      "url": "https://sangokushi-senkiban.qookkagames.jp/",
+      "host": "sangokushi-senkiban.qookkagames.jp",
+      "region": "jp",
+      "title": "三國志 戦棋版",
+      "headline": "『三國志 戦棋版』がなんと『FFタクティクス』とコラボを発表。ラムザやディリータが関羽や趙雲とまさかの共演。SRPG×SLGの融合を目指し、気合の入りまくった新作三国志について、試遊会場からレポート",
+      "description": "『三國志 戦棋版』は、コーエーテクモゲームスの『三國志14』公式ライセンスを受けた、Qookka Games開発のSRPG×SLG。 武将を自ら操作し、200種類以上の戦法を自由に組み合わせ、広大な三国戦場を駆け巡る。 あなたの一手で、三…",
+      "article": {
+        "prereg": true,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-28T09:00:28.000Z",
+      "addedAt": "2026-10-28T09:30:17.878Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2610282m"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "phCategories": [],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-28T09:30:17.878Z",
+      "ogFetchedAt": "2026-10-28T09:30:17.878Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "24201970599f",
       "url": "https://site.nizima-action.com/ja/",
       "host": "site.nizima-action.com",
@@ -743,8 +829,8 @@
       "points": null,
       "image": "https://rocokingdom.com/share/img/ja.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-27T09:00:18.494Z",
-      "ogFetchedAt": "2026-10-27T09:00:18.494Z",
+      "checkedAt": "2026-10-28T09:30:17.878Z",
+      "ogFetchedAt": "2026-10-28T09:30:17.878Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -18591,6 +18677,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/003/G100393/20261008003/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610282p"
         }
       ],
       "tags": [
