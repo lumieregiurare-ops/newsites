@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T07:30:16.648Z",
+  "updatedAt": "2026-10-28T08:00:17.783Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1086,
+  "total": 1087,
   "regions": {
-    "jp": 895,
+    "jp": 896,
     "global": 191
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 199
+      "count": 200
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 238
+      "count": 239
     },
     {
       "id": "release",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "aaa5411df493",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "host": "vantan.co.jp",
+      "region": "jp",
+      "title": "モンハン",
+      "headline": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定",
+      "description": "バンタン文化祭2026は2026年11月14日(土)、東京・大阪・名古屋・福岡・札幌の全国5校で同時開催!人気ゲーム「モンスターハンター」との特別コラボレーションが実現し、在校生自らが企画・制作した体験型コンテンツが満載。事前予約はこちら…",
+      "publishedAt": "2026-10-28T07:40:03.000Z",
+      "addedAt": "2026-10-28T08:00:17.783Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/189978.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg"
+    },
     {
       "id": "8ee68c62a435",
       "url": "https://heart-ltd.jp/category/product/character/gundam/",
