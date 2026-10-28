@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:00:29.957Z",
+  "updatedAt": "2026-10-28T21:30:35.179Z",
   "platforms": [
     {
       "id": "switch",
@@ -462,6 +462,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-28T21:30:35.179Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "App Store 2026年10月29日"
+    },
+    {
       "at": "2026-10-28T20:30:35.201Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -472,6 +485,19 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-28T20:00:32.377Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "App Store 2026年10月29日"
     },
     {
       "at": "2026-10-28T17:00:43.778Z",
@@ -508,30 +534,6 @@
         "switch2"
       ],
       "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "カスケード",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138330",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8a9b07c7aac18ab0f18df731b0c9297185f88e342126f6297d85681f596407c5.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "MIX DUNK -KING OF BASKETBALL-",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000072505",
-      "image": "https://img-eshop.cdn.nintendo.net/i/580306d594fca5e470688594de6acc847d786ee6c5203c74af53579cb2cadad3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
     }
   ]
 }

@@ -31470,7 +31470,7 @@
       "dateText": "2026年10月29日",
       "date": "2026-10-29",
       "sortKey": "2026-10-29",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-12T14:00:35.736Z"
     },
     "polandball:thesixthday-destroy": {
@@ -49543,18 +49543,6 @@
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
       "label": "新規",
-      "title": "The Relic: First Guardian",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127898",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月8日"
-    },
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
       "title": "The Relic: First Guardian Bundle",
       "url": "https://store-jp.nintendo.com/item/software/D70070000040694",
       "image": "https://img-eshop.cdn.nintendo.net/i/2fe2736be1578035cfe3bf78d39a05b7fd4d57a4ce51cd7e46364bb609360bc2.jpg",
@@ -54304,6 +54292,19 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-28T21:30:35.179Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "No Man's Sky",
+      "url": "https://www.nomanssky.com/",
+      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
+      "platforms": [
+        "ps",
+        "mobile"
+      ],
+      "to": "2026年10月29日"
     }
   ],
   "initialized": true,
