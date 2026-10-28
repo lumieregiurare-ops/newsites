@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T02:00:16.943Z",
+  "updatedAt": "2026-10-28T02:30:17.519Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1074,
+  "total": 1075,
   "regions": {
     "jp": 887,
-    "global": 187
+    "global": 188
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 372
+      "count": 373
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1a1de6e4de05",
+      "url": "https://www.virtueandasledgehammer.com/",
+      "host": "virtueandasledgehammer.com",
+      "region": "global",
+      "title": "Virtue and a Sledgehammer",
+      "headline": "探索ADV「Virtue and a Sledgehammer」本日リリース。手にした大型ハンマーで故郷を壊し，過去のトラウマと向き合え！",
+      "description": "Most people resort to therapy. But you chose the brave option. A sledgehammer. Go back to your hometown and tear it dow…",
+      "publishedAt": "2026-10-28T02:04:20.000Z",
+      "addedAt": "2026-10-28T02:30:17.519Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/967/G096771/20261028001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://virtueandasledgehammer.com/images/vaas-keyart.png"
+    },
     {
       "id": "c1da9b7c6ab0",
       "url": "https://sapporo-game-camp.com/2026/",
@@ -33168,7 +33195,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/suikoden/star_leap/s/images/sns_suikoden_starleap3_ja.jpg?v=60"
+      "image": "https://www.konami.com/games/suikoden/star_leap/s/images/sns_suikoden_starleap3_ja.jpg?v=61"
     },
     {
       "id": "d97c8f1c2cbb",
