@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T11:00:18.200Z",
+  "updatedAt": "2026-10-28T11:30:16.631Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1091,
+  "total": 1093,
   "regions": {
-    "jp": 900,
+    "jp": 902,
     "global": 191
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 131
+      "count": 132
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 239
+      "count": 240
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 379
+      "count": 380
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 344
+      "count": 345
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
+    "4Gamer",
     "App Store",
     "Game*Spark",
     "AppBank",
@@ -132,6 +132,64 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "47800d39b4ae",
+      "url": "https://www.arknights.jp/",
+      "host": "arknights.jp",
+      "region": "jp",
+      "title": "アークナイツ",
+      "headline": "『アークナイツ』常設イベント「生息演算『新たな礎』」10月28日より開催！マウンテン専用コーデ「ハードコアライダー」などが報酬に",
+      "description": "Yostarより好評配信中のスマホRPG『アークナイツ』公式サイト。美麗なイラストと豪華声優陣によるキャラクターで彩られる本格戦略タワーディフェンス。",
+      "publishedAt": "2026-10-28T11:30:03.000Z",
+      "addedAt": "2026-10-28T11:30:16.631Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/190002.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://webusstatic.oss-us-east-1.aliyuncs.com/ark_jp_web/pc/arknights_thumbnail.png"
+    },
+    {
+      "id": "f2044818fa0c",
+      "url": "https://www.pocoapokemon.jp/ja/",
+      "host": "pocoapokemon.jp",
+      "region": "jp",
+      "title": "ぽこ あ ポケモン",
+      "headline": "『ぽこ あ ポケモン』の「リラックスBGMメドレー」がYouTubeで公開。“約1時間”にわたって流れるチルい音楽で作業も捗りそう",
+      "description": "『ぽこ あ ポケモン』公式サイト。ポケモン初のスローライフ・サンドボックスゲーム！ 2026年3月5日（木）世界同時発売！",
+      "publishedAt": "2026-10-28T11:10:48.000Z",
+      "addedAt": "2026-10-28T11:30:16.631Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610282u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pocoapokemon.jp/assets/og/ja/og.jpg"
+    },
     {
       "id": "73fba112aaf4",
       "url": "https://coldcall.mingo.games/",
@@ -1299,7 +1357,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261027113035"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261028113031"
     },
     {
       "id": "2f282a7a4a54",
@@ -5181,7 +5239,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/47/66/a1476690-1db7-0213-4517-23dc0496c3ab/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/65/be/0e65beb5-ad03-16e8-eb78-f4e282dbf122/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9d77050a3c17",
@@ -33243,6 +33301,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6747328897"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/190000.html"
         }
       ],
       "tags": [
