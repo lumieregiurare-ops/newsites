@@ -47918,7 +47918,7 @@
     },
     "モンハン": {
       "title": "モンハン",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T10:30:34.436Z"
     },
     "cutteridgeestate": {
@@ -49520,21 +49520,17 @@
       "sortKey": "2026-11-13",
       "prereg": false,
       "firstSeen": "2026-10-28T20:00:32.377Z"
+    },
+    "spacetravelers": {
+      "title": "Space Travelers",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-28T20:30:35.201Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Stock Cars Racing",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137666",
-      "image": "https://img-eshop.cdn.nintendo.net/i/468c46dc57e176ed4d42d92bb485cf9522d264a2ce6a919eb042fe30c0dadcc3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54288,6 +54284,18 @@
         "mobile"
       ],
       "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-28T20:30:35.201Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
