@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T01:30:18.200Z",
+  "updatedAt": "2026-10-28T02:00:16.943Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1073,
+  "total": 1074,
   "regions": {
     "jp": 887,
-    "global": 186
+    "global": 187
   },
   "categories": [
     {
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 18
+      "count": 19
     },
     {
       "id": "browser",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 233
+      "count": 234
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 337
+      "count": 338
     },
     {
       "id": "browser",
@@ -328,6 +328,40 @@
       ],
       "points": null,
       "image": "https://www.moreread.net/apps/bravest2/banner.png"
+    },
+    {
+      "id": "7e34c0944543",
+      "url": "https://doghowlgames.com/",
+      "host": "doghowlgames.com",
+      "region": "global",
+      "title": "The Spotter: Dig or Die",
+      "headline": "Doghowl Games Ltd. / ストラテジー・エンターテインメント · App Store 新着",
+      "description": "Indie publishing powerhouse with porting capabilities and original games — helping indie games reach new players on mob…",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "addedAt": "2026-10-28T02:00:16.943Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6786220892"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "indie",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://doghowl-site.fly.dev/og.png"
     },
     {
       "id": "6a3740969365",
