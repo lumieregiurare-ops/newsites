@@ -2982,6 +2982,10 @@
     "シャーマンキング": {
       "at": "2026-10-28T05:30:30.929Z",
       "entry": null
+    },
+    "モンハン": {
+      "at": "2026-10-28T10:30:34.789Z",
+      "entry": null
     }
   },
   "titles": {
@@ -16739,7 +16743,7 @@
     },
     "ava": {
       "title": "AVA",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-24T12:30:42.278Z"
     },
     "bookishbuddies:bookstoresimulatordemo": {
@@ -47869,6 +47873,35 @@
       "sortKey": "2026-10-28",
       "prereg": false,
       "firstSeen": "2026-10-28T10:00:34.311Z"
+    },
+    "planted!": {
+      "title": "Planted!",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-28T10:30:34.436Z"
+    },
+    "seamark": {
+      "title": "SEAMARK",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-28T10:30:34.436Z"
+    },
+    "勇者パーティはぜんめつしました。": {
+      "title": "勇者パーティはぜんめつしました。",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-10-28T10:30:34.436Z"
+    },
+    "モンハン": {
+      "title": "モンハン",
+      "prereg": true,
+      "firstSeen": "2026-10-28T10:30:34.436Z"
     }
   },
   "changeLog": [
@@ -52029,6 +52062,30 @@
       "title": "シャーマンキング",
       "url": "https://mechasamurai.com/",
       "image": "https://mechasamurai.com/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-28T10:30:34.436Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-28T10:30:34.436Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://avarebirth.pmang.jp/",
+      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
       "platforms": [
         "mobile"
       ],

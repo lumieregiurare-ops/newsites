@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T10:00:34.311Z",
+  "updatedAt": "2026-10-28T10:30:34.436Z",
   "platforms": [
     {
       "id": "switch",
@@ -50,7 +50,7 @@
         "pc"
       ],
       "url": "http://enemiesdiecool.com/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1793113939",
       "maker": "",
       "headline": "ローグライクFPS「SULFUR」，Steam早期アクセス中の販売本数が50万本を突破。10月28日に正式版とコンソール版を発売",
       "source": "4Gamer",
@@ -276,6 +276,26 @@
   ],
   "prereg": [
     {
+      "id": "aaa5411df493",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-28T07:40:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定",
+      "description": "バンタン文化祭2026は2026年11月14日(土)、東京・大阪・名古屋・福岡・札幌の全国5校で同時開催!人気ゲーム「モンスターハンター」との特別コラボレーションが実現し、在校生自らが企画・制作した体験型コンテンツが満載。事前予約はこちら…",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/10/28/189978.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -439,29 +459,33 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6476490037"
-    },
-    {
-      "id": "2d8d5c03d78b",
-      "title": "重兵装型女子高生",
-      "url": "https://www.juheiso-game.jp/",
-      "image": "https://juheiso-game.jp/assets/images/common/img_ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-14T11:00:20.997Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "イラストレーター・neco氏が描く『重兵装型女子高生』のゲーム化が決定。猫の目線で少女たちとの日常を体感。ASMR機能も搭載",
-      "description": "『JJK: 重兵装型女子高生 ワードレスレコード』公式サイト。necoが描く『重兵装型女子高生』が、iOS・Android向けのふれあえる放置系RPGに。事前登録受付中。キャラクター、ゲームシステム、ASMRボイス、最新情報を紹介。",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/?p=1660390",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-28T10:30:34.436Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "AVA",
+      "url": "https://avarebirth.pmang.jp/",
+      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-28T10:30:34.436Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-28T04:30:35.428Z",
       "type": "prereg_start",
@@ -507,30 +531,6 @@
         "switch2"
       ],
       "to": "2027年2月25日"
-    },
-    {
-      "at": "2026-10-27T15:00:31.559Z",
-      "type": "new",
-      "label": "新規",
-      "title": "アルファード",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000070117",
-      "image": "https://img-eshop.cdn.nintendo.net/i/34ce778c1aec2dd5959d8351a3bac70ec18439c8700d7bfaca280a7f1b262af7.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2027年2月25日"
-    },
-    {
-      "at": "2026-10-27T06:00:26.991Z",
-      "type": "new",
-      "label": "新規",
-      "title": "PAYDAY: Aces High",
-      "url": "https://www.paydaythegame.com/aceshigh/",
-      "image": "",
-      "platforms": [
-        "vr"
-      ],
-      "to": "2026年11月5日"
     }
   ]
 }

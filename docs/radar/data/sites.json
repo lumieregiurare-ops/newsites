@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T10:00:19.317Z",
+  "updatedAt": "2026-10-28T10:30:17.371Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1090,
+  "total": 1091,
   "regions": {
-    "jp": 899,
+    "jp": 900,
     "global": 191
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 130
+      "count": 131
     },
     {
       "id": "anniversary",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 238
+      "count": 239
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 343
+      "count": 344
     },
     {
       "id": "browser",
@@ -235,9 +235,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "campaign",
         "event"
       ],
@@ -1496,7 +1498,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1792760502"
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/c800801a8d013e599dc0b76ecbc6fbe7161eeaf4/capsule_616x353.jpg?t=1793113939"
     },
     {
       "id": "cb5b9e49d7eb",
@@ -4285,6 +4287,39 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "7a2dde73d322",
+      "url": "https://apps.apple.com/jp/app/id6820156980",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Slimee - Slime Puzzle Game",
+      "headline": "D-oneApp / パズル・ボード · App Store 新着",
+      "description": "D-oneAppの「Slimee - Slime Puzzle Game」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Slimee - Slime Puzzle Game」に似たゲ…",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "addedAt": "2026-10-28T10:30:17.371Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6820156980"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ボード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/b6/f1/0fb6f14a-b5ad-e7dd-af11-eab02ceb178e/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "fc8bc4cc6f4e",
