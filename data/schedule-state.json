@@ -2932,6 +2932,23 @@
     "時渡り": {
       "at": "2026-10-27T03:30:36.070Z",
       "entry": null
+    },
+    "デジモンカードゲーム": {
+      "at": "2026-10-28T04:00:36.799Z",
+      "entry": {
+        "trackId": "1503434138",
+        "title": "デジモンカードゲーム　ティーチングアプリ",
+        "artist": "BANDAI Co., Ltd.",
+        "genres": [
+          "カード"
+        ],
+        "releaseDate": "2020-03-26T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1503434138",
+        "sellerUrl": "https://digimoncard.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/8a/9f/168a9fd3-b73e-787b-f182-411e9831ce74/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -47583,6 +47600,54 @@
       "sortKey": "2026-10-28",
       "prereg": false,
       "firstSeen": "2026-10-28T03:30:38.285Z"
+    },
+    "portentum-bronzeedition": {
+      "title": "Portentum - Bronze Edition",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "portentum-goldedition": {
+      "title": "Portentum - Gold Edition",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "portentum-platinumedition": {
+      "title": "Portentum - Platinum Edition",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "portentum-silveredition": {
+      "title": "Portentum - Silver Edition",
+      "dateText": "2026年10月28日",
+      "date": "2026-10-28",
+      "sortKey": "2026-10-28",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "sloppyforgeries": {
+      "title": "Sloppy Forgeries",
+      "dateText": "2026年11月14日",
+      "date": "2026-11-14",
+      "sortKey": "2026-11-14",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
+    },
+    "ムーンライト・ピークス": {
+      "title": "ムーンライト・ピークス",
+      "dateText": "2026年11月17日",
+      "date": "2026-11-17",
+      "sortKey": "2026-11-17",
+      "prereg": false,
+      "firstSeen": "2026-10-28T04:00:36.521Z"
     }
   },
   "changeLog": [
@@ -51665,6 +51730,28 @@
         "switch2"
       ],
       "to": "2027年2月25日"
+    },
+    {
+      "at": "2026-10-28T04:00:36.521Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Sloppy Forgeries",
+      "url": "https://playfulsystems.com/sloppy-forgeries/",
+      "image": "https://playfulsystems.com/sloppy-forgeries/images/site-preview.jpg",
+      "platforms": [],
+      "to": "2026年11月14日"
+    },
+    {
+      "at": "2026-10-28T04:00:36.521Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ムーンライト・ピークス",
+      "url": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/",
+      "image": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/assets/ogp.jpg",
+      "platforms": [
+        "ps"
+      ],
+      "to": "2026年11月17日"
     }
   ],
   "initialized": true,
