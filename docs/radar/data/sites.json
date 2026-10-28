@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T07:00:18.130Z",
+  "updatedAt": "2026-10-28T07:30:16.648Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1082,
+  "total": 1086,
   "regions": {
-    "jp": 891,
+    "jp": 895,
     "global": 191
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 128
+      "count": 129
     },
     {
       "id": "anniversary",
@@ -50,12 +50,12 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 16
+      "count": 17
     },
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 86
+      "count": 88
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 235
+      "count": 238
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 340
+      "count": 343
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "arcade",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
+    "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "GameBusiness.jp",
@@ -132,6 +132,67 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8ee68c62a435",
+      "url": "https://heart-ltd.jp/category/product/character/gundam/",
+      "host": "heart-ltd.jp",
+      "region": "jp",
+      "title": "シャア専用ザク",
+      "headline": "「シャア専用ザク」ヘッド型ケースも！「ガンダム」シリーズから、パッケージや缶にこだわったチョコレート全7商品が予約受付中",
+      "description": "株式会社ハートでは、子供たちが毎日の暮しの中で夢と遊びを身近に感じ、豊かな感性を育むように、楽しいお菓子を企画・開発・販売しております。",
+      "publishedAt": "2026-10-28T07:16:11.000Z",
+      "addedAt": "2026-10-28T07:30:16.648Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/28/189975.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://heart-ltd.jp/wp-content/uploads/2021/11/ogp.jpg"
+    },
+    {
+      "id": "7e2f16a71cb6",
+      "url": "https://apps.apple.com/jp/app/id6444520814",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "モンスターハンターアウトランダーズ",
+      "headline": "Level Infinite / アクション・エンターテインメント · App Store 新着",
+      "description": "Level Infiniteの「モンスターハンターアウトランダーズ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「モンスターハンターアウトランダーズ」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "addedAt": "2026-10-28T07:30:16.648Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6444520814"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/76/24/c2762404-519b-9816-bed8-7b57da414e29/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "775eb6f083f0",
       "url": "https://www.dancingwithghosts.com/",
@@ -1753,6 +1814,40 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "e095361b7b16",
+      "url": "https://slospr.com/",
+      "host": "slospr.com",
+      "region": "jp",
+      "title": "[スロスピ]Lパチスロ 革命機ヴァルヴレイヴ2",
+      "headline": "SPIRIDGE INC. / カジノ・エンターテインメント · App Store 新着",
+      "description": "パチンコ・パチスロの実機アプリを無料で楽しめるバーチャルホール「スロパチスピリット」",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "addedAt": "2026-10-28T07:30:16.648Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6791407624"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://slospr.com/assets/img/common/ogp.jpg"
     },
     {
       "id": "8959c9782a4f",
@@ -11548,6 +11643,41 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/84/57/54845787-7e87-95c6-b1b9-1dfa7a4b16ca/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "79d559bd596f",
+      "url": "https://keirin-life.online/",
+      "host": "keirin-life.online",
+      "region": "jp",
+      "title": "競輪人生3D",
+      "headline": "Shuhei Torisaki / スポーツ・シミュレーション · App Store 新着",
+      "description": "競輪選手の一生を体験する3D競輪シミュレーション。ブラウザですぐ遊べます。",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "addedAt": "2026-10-28T07:30:16.648Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6819018049"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "シミュレーション"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "1b3cc750e6aa",
