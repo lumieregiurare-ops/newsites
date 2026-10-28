@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "eb1f37bd493e",
+      "url": "https://ggame.jp/",
+      "host": "ggame.jp",
+      "region": "jp",
+      "title": "バトオペ2",
+      "headline": "『バトオペ2』に☆4機体「クロスボーン・ガンダムX-0」「ファントム」などが登場決定。『機動戦士クロスボーン・ガンダム ゴースト』より",
+      "description": "ガンダムゲームの公式ポータルサイト（GPG）です。ガンダムゲームの最新情報はここでチェック！",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-28T12:24:59.000Z",
+      "addedAt": "2026-10-28T12:30:19.051Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610283c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://ggame.jp/images/pc/common/img_gpg.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-28T12:30:19.051Z",
+      "ogFetchedAt": "2026-10-28T12:30:19.051Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "47800d39b4ae",
       "url": "https://www.arknights.jp/",
       "host": "arknights.jp",
@@ -48677,9 +48719,9 @@
       "headline": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
       "description": "死神（きみ）が斬りひらく、未だ見ぬ物語「BLEACH Mirrors High」公式サイト",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
-        "count": "",
+        "count": "事前登録数が100万人",
         "reward": "",
         "ios": "",
         "android": ""

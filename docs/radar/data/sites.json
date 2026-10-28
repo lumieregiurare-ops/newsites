@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T12:00:19.014Z",
+  "updatedAt": "2026-10-28T12:30:19.051Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1093,
+  "total": 1094,
   "regions": {
-    "jp": 902,
+    "jp": 903,
     "global": 191
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 161
+      "count": 162
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "4Gamer",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eb1f37bd493e",
+      "url": "https://ggame.jp/",
+      "host": "ggame.jp",
+      "region": "jp",
+      "title": "バトオペ2",
+      "headline": "『バトオペ2』に☆4機体「クロスボーン・ガンダムX-0」「ファントム」などが登場決定。『機動戦士クロスボーン・ガンダム ゴースト』より",
+      "description": "ガンダムゲームの公式ポータルサイト（GPG）です。ガンダムゲームの最新情報はここでチェック！",
+      "publishedAt": "2026-10-28T12:24:59.000Z",
+      "addedAt": "2026-10-28T12:30:19.051Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610283c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ggame.jp/images/pc/common/img_gpg.jpg"
+    },
     {
       "id": "47800d39b4ae",
       "url": "https://www.arknights.jp/",
