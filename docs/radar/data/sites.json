@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-28T22:00:19.454Z",
+  "updatedAt": "2026-10-28T22:30:17.856Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1103,
+  "total": 1102,
   "regions": {
-    "jp": 908,
+    "jp": 907,
     "global": 195
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 387
+      "count": 386
     },
     {
       "id": "indie",
@@ -117,7 +117,7 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 7
+      "count": 6
     }
   ],
   "sources": [
@@ -10782,12 +10782,22 @@
         {
           "name": "GameBusiness.jp",
           "url": "https://www.gamebusiness.jp/article/2026/10/14/28305.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029c"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id1615755735"
         }
       ],
       "tags": [
         "ゲーム",
         "iOS",
-        "スマホ"
+        "スマホ",
+        "アクション",
+        "アドベンチャー"
       ],
       "categories": [
         "release"
@@ -17920,35 +17930,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.grasshopper.co.jp/assets/img/ogp.jpg"
-    },
-    {
-      "id": "a7dc5eccfc93",
-      "url": "https://nobrakesgames.com/games/tiny-flock",
-      "host": "nobrakesgames.com",
-      "region": "jp",
-      "title": "Human: Fall Flat",
-      "headline": "「Human: Fall Flat」のクリエイター陣が手がけるVRゲーム「Tiny Flock」，本日リリース",
-      "description": "「Human: Fall Flat」のクリエイター陣が手がけるVRゲーム「Tiny Flock」，本日リリース",
-      "publishedAt": "2026-09-30T12:09:37.000Z",
-      "addedAt": "2026-09-30T12:30:18.701Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/033/G103332/20260930048/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "vr"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "fa6d4170de6c",
@@ -30456,7 +30437,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uIfaIGpnPb0mjFdkBQnU-SE4U7jaOccCKEbrgd747QAu83mA187GuldiH4lCWAVE_Y1p8LTL6dpU-7ZF8qGLJsXkkP_5QbXF7G6kn9ej17kcya61WRA8avYCYF1VnhofYvQQ8AaQAhs1nOIbYPWnkiO58YLMA59H1kU9zwllhZ2jvBUcGvnfpUEeoN=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vYoDaF7ppXKhljXDwLCHRar8VA70eMZIR91TarHudnbPfDGv0YnsFhp5Y-0BofN4jSpDYSL3kUGT-PL4wojThC86ytXqwlas6oLVC9tUpz2cvi4hzf-hdo4yW3OlnlJc5P5zu7o9J2n0oyHFEuvN_GV_jGPryMkB7ltEmrTO2HJrtyL0DJRP6PvAT_=w16383"
     },
     {
       "id": "7f727450ced7",
