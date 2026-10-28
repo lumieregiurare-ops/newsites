@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-28T22:56:53.479Z",
+  "updatedAt": "2026-10-28T23:30:18.029Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1102,
+  "total": 1103,
   "regions": {
     "jp": 907,
-    "global": 195
+    "global": 196
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 386
+      "count": 388
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 34
+      "count": 35
     },
     {
       "id": "xbox",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b4f43796b733",
+      "url": "https://www.brokewizards.com/",
+      "host": "brokewizards.com",
+      "region": "global",
+      "title": "Broke Wizards",
+      "headline": "【最大6人協力】魔法使いが家賃を稼ぐため様々な単発仕事に挑む『Broke Wizards』リリース",
+      "description": "A 1-6 player co-op game where you and your Wizard roommates slay monsters, race, play prop hunt or do other crazy jobs …",
+      "publishedAt": "2026-10-28T23:30:03.000Z",
+      "addedAt": "2026-10-28T23:30:18.029Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/29/174214.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://brokewizards.com/assets/og-image.png"
+    },
     {
       "id": "ec49a7e5410e",
       "url": "https://brimstone.games/",
@@ -13751,7 +13778,7 @@
       "region": "jp",
       "title": "VS BOAT－3D競艇オンライン対戦ゲーム",
       "headline": "soma anraku / レーシング・スポーツ · App Store 新着",
-      "description": "VS BOAT は、最大6人で同時に走るオンラインのボートレースゲームです。App Store で配信中。",
+      "description": "VS BOAT は、最大6人で同時に走るオンラインのボートレースゲームです。App Store・Google Play で配信中。",
       "publishedAt": "2026-10-07T07:00:00.000Z",
       "addedAt": "2026-10-07T16:30:19.028Z",
       "source": "App Store",
@@ -26708,7 +26735,7 @@
       "region": "jp",
       "title": "Beast of Reincarnation",
       "headline": "ゲーフリ新作ARPG『Beast of Reincarnation』やファンタジーSLG『ブリガンダイン アビス』イベント限定版も、ハピネットブースで遊べる！試遊だけでなく企画も…",
-      "description": "メンテナンス",
+      "description": "GAME FREAKの完全新作『Beast of Reincarnation』が、PlayStation 5パッケージ版で発売決定！リアルタイムアクションと、コマンド型RPGの融合——美しくも過酷なBeast of Reincarnati…",
       "publishedAt": "2026-09-18T02:15:03.000Z",
       "addedAt": "2026-09-18T02:19:29.182Z",
       "source": "Game*Spark",
@@ -26726,10 +26753,13 @@
         "ゲーム"
       ],
       "categories": [
+        "release",
         "event",
         "goods"
       ],
-      "platforms": [],
+      "platforms": [
+        "ps"
+      ],
       "points": null,
       "image": "https://beast-of-reincarnation.happinet-games.com/wp-content/themes/beast-of-reincarnation/img/shareimg.jpg"
     },
