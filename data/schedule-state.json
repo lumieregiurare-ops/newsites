@@ -3008,6 +3008,14 @@
     "MHO": {
       "at": "2026-10-29T01:00:28.560Z",
       "entry": null
+    },
+    "亰都ザナドゥ": {
+      "at": "2026-10-29T01:30:35.006Z",
+      "entry": null
+    },
+    "アノマリス ANOMALITH": {
+      "at": "2026-10-29T01:30:36.456Z",
+      "entry": null
     }
   },
   "titles": {
@@ -5688,7 +5696,7 @@
       "dateText": "2026年10月29日",
       "date": "2026-10-29",
       "sortKey": "2026-10-29",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
     "アノマリス／anomalith『ゲームパッケージ風』バックパックセット": {
@@ -49673,45 +49681,30 @@
       "title": "MHO",
       "prereg": true,
       "firstSeen": "2026-10-29T01:00:28.241Z"
+    },
+    "東方ダンマクカグラファンタジア・ロスト": {
+      "title": "東方ダンマクカグラファンタジア・ロスト",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T01:30:34.777Z"
+    },
+    "idlelegions": {
+      "title": "Idle Legions",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-29T01:30:34.777Z"
+    },
+    "亰都ザナドゥ-桜花幻舞-": {
+      "title": "亰都ザナドゥ -桜花幻舞-",
+      "prereg": true,
+      "firstSeen": "2026-10-29T01:30:34.777Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "This is Fine: Maximum Cope",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118948",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9196c4da12ba617f4067fa30a60df632abbb5748d7f95872894b94666242d356.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "コスプレ美女のベストショットパズル",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138002",
-      "image": "https://img-eshop.cdn.nintendo.net/i/53ec27a471360569710d689c02d2398c7d7de910bf7e70efe1b5ff2a91a3a737.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "しばいぬさんぽ 〜街を歩いてひらめきパズル〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138073",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ef3f2f440e7b3d5f470f230b202365ff54326aa1b1790b03a41fecea5c63da4d.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54438,6 +54431,43 @@
       "title": "MHO",
       "url": "https://game8.jp/preregistration/808921",
       "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-29T01:30:34.777Z",
+      "type": "new",
+      "label": "新規",
+      "title": "東方ダンマクカグラファンタジア・ロスト",
+      "url": "https://danmaku.jp/",
+      "image": "https://danmaku.jp/ogp_phantasia_ja.jpg",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年10月29日"
+    },
+    {
+      "at": "2026-10-29T01:30:34.777Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "亰都ザナドゥ -桜花幻舞-",
+      "url": "https://www.falcom.co.jp/kyoxana/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-29T01:30:34.777Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アノマリス／ANOMALITH",
+      "url": "https://www.cs.furyu.jp/anomalith/",
+      "image": "https://www.cs.furyu.jp/anomalith/wp/wp-content/themes/anomalith_v1/assets/images/common/ogp.png?2026",
       "platforms": [
         "mobile"
       ],
