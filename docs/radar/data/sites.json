@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-29T09:30:19.947Z",
+  "updatedAt": "2026-10-29T10:00:19.293Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1119,
+  "total": 1120,
   "regions": {
     "jp": 921,
-    "global": 198
+    "global": 199
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 400
+      "count": 401
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 46
+      "count": 47
     },
     {
       "id": "goods",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 42
+      "count": 43
     },
     {
       "id": "ps",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 136
+      "count": 137
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "264e472d5b04",
+      "url": "https://playspiritcrossing.com/",
+      "host": "playspiritcrossing.com",
+      "region": "global",
+      "title": "クロスランド",
+      "headline": "仲間と釣りや家づくりを楽しむコージーMMO「クロスランド」，Switch2 / Switch / PC向けに11月17日発売決定",
+      "description": "Spirit Crossing is a beautiful cooperative life-sim about building friendships and community. Come experience the beaut…",
+      "publishedAt": "2026-10-29T09:49:15.000Z",
+      "addedAt": "2026-10-29T10:00:19.293Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105423/20261029040/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [
+        "switch2",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://i0.wp.com/playspiritcrossing.com/wp-content/uploads/2025/03/spirit-crossing_unfurl.png?fit=1200%2C630&ssl=1"
+    },
     {
       "id": "bb1beee46236",
       "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb",

@@ -887,7 +887,7 @@
       "entry": null
     },
     "ファレイドリア": {
-      "at": "2026-10-15T09:30:39.505Z",
+      "at": "2026-10-29T10:00:31.495Z",
       "entry": null
     },
     "フラガリアメモリーズ Color of Wishes": {
@@ -50165,21 +50165,57 @@
       "sortKey": "2026-11-13",
       "prereg": false,
       "firstSeen": "2026-10-29T09:30:37.412Z"
+    },
+    "chroniclesofthesinner": {
+      "title": "Chronicles Of The Sinner",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
+    },
+    "mmoalone": {
+      "title": "MMOAlone",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
+    },
+    "plunderbay": {
+      "title": "Plunder Bay",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
+    },
+    "sleepytimevillage": {
+      "title": "Sleepytime Village",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
+    },
+    "tidytech": {
+      "title": "Tidy Tech",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
+    },
+    "クロスランド": {
+      "title": "クロスランド",
+      "dateText": "2026年11月17日",
+      "date": "2026-11-17",
+      "sortKey": "2026-11-17",
+      "prereg": false,
+      "firstSeen": "2026-10-29T10:00:31.334Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ミステリーの時間",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134552",
-      "image": "https://img-eshop.cdn.nintendo.net/i/96e9bf7c567c1018ae2c1f449a88d64f5896da398dda6c8724d46db7c5802f06.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54933,6 +54969,19 @@
         "mobile"
       ],
       "to": "2026年12月23日"
+    },
+    {
+      "at": "2026-10-29T10:00:31.334Z",
+      "type": "new",
+      "label": "新規",
+      "title": "クロスランド",
+      "url": "https://playspiritcrossing.com/",
+      "image": "https://i0.wp.com/playspiritcrossing.com/wp-content/uploads/2025/03/spirit-crossing_unfurl.png?fit=1200%2C630&ssl=1",
+      "platforms": [
+        "switch2",
+        "pc"
+      ],
+      "to": "2026年11月17日"
     }
   ],
   "initialized": true,

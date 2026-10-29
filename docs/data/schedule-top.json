@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:30:37.412Z",
+  "updatedAt": "2026-10-29T10:00:31.334Z",
   "platforms": [
     {
       "id": "switch",
@@ -460,6 +460,19 @@
   ],
   "changes": [
     {
+      "at": "2026-10-29T10:00:31.334Z",
+      "type": "new",
+      "label": "新規",
+      "title": "クロスランド",
+      "url": "https://playspiritcrossing.com/",
+      "image": "https://i0.wp.com/playspiritcrossing.com/wp-content/uploads/2025/03/spirit-crossing_unfurl.png?fit=1200%2C630&ssl=1",
+      "platforms": [
+        "switch2",
+        "pc"
+      ],
+      "to": "2026年11月17日"
+    },
+    {
       "at": "2026-10-29T07:00:36.238Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -517,18 +530,6 @@
         "pc"
       ],
       "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-29T01:00:28.241Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "MHO",
-      "url": "https://game8.jp/preregistration/808921",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
