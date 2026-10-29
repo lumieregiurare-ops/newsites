@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T11:00:19.426Z",
+  "updatedAt": "2026-10-29T11:30:15.030Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1124,
+  "total": 1125,
   "regions": {
-    "jp": 926,
+    "jp": 927,
     "global": 198
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 241
+      "count": 242
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 20
+      "count": 21
     },
     {
       "id": "browser",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 47
+      "count": 48
     },
     {
       "id": "goods",
@@ -133,6 +133,35 @@
   ],
   "items": [
     {
+      "id": "6d0b16eb2a2a",
+      "url": "https://cgworld.jp/special/gamegraphicsjam/vol01/start.html",
+      "host": "cgworld.jp",
+      "region": "jp",
+      "title": "GAME GRAPHICS JAM",
+      "headline": "インディーゲームのグラフィックス制作を学ぶ「GAME GRAPHICS JAM」，11月7日にオンライン開催。「ghostpia」「アンリアルライフ」を題材にした講演も",
+      "description": "インディゲームのグラフィック最前線へ――。いま注目のインディゲーム開発者が「グラフィック」を語る！グラフィックに特化したインディゲーム制作ノウハウを学べるオンラインイベントです。",
+      "publishedAt": "2026-10-29T11:24:32.000Z",
+      "addedAt": "2026-10-29T11:30:15.030Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999101/20261029055/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "indie",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cgworld.jp/special/gamegraphicsjam/vol01/img/ogp.webp"
+    },
+    {
       "id": "a780d94d24e4",
       "url": "https://alliance-arts.co.jp/villainess/",
       "host": "alliance-arts.co.jp",
@@ -177,6 +206,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261029r"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105427/20261029047/"
         }
       ],
       "tags": [
