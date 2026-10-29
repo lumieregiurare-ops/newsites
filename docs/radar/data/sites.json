@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-29T21:00:17.062Z",
+  "updatedAt": "2026-10-29T21:30:19.325Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1129,
+  "total": 1130,
   "regions": {
     "jp": 930,
-    "global": 199
+    "global": 200
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 165
+      "count": 166
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "20737373163d",
+      "url": "https://duneawakening.com/",
+      "host": "duneawakening.com",
+      "region": "global",
+      "title": "Dune: Awakening（デューン：アウェイクニング）",
+      "headline": "オープンワールドサバクラ『Dune: Awakening（デューン：アウェイクニング）』シングルプレイのオフライン対応が11月に決定！12月1日には極寒地帯追加の大型無料拡張「B…",
+      "description": "An Open World Survival game with immersive adventure and RPG gameplay. Explore, build, craft, and unravel a cinematic D…",
+      "publishedAt": "2026-10-29T21:30:03.000Z",
+      "addedAt": "2026-10-29T21:30:19.325Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/30/174269.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://duneawakening.com/wp-content/uploads/DUNE_KV_SOC_Final_16x9-1024x576.jpg"
+    },
     {
       "id": "d7b116d1fcb5",
       "url": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
