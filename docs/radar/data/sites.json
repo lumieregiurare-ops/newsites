@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T14:00:20.315Z",
+  "updatedAt": "2026-10-29T14:30:16.878Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1127,
+  "total": 1128,
   "regions": {
-    "jp": 928,
+    "jp": 929,
     "global": 199
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 403
+      "count": 404
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 44
+      "count": 45
     },
     {
       "id": "ps",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "App Store",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "71ad0ea004c5",
+      "url": "https://www.theduskbloods.jp/",
+      "host": "theduskbloods.jp",
+      "region": "jp",
+      "title": "ダスクブラッド",
+      "headline": "フロム新作『ダスクブラッド』発売時期を「2027年」に変更。より良いゲーム体験を届けるため、ゲームルールやバランスの最終調整の期間を設けることにしたとのこと",
+      "description": "Nintendo Switch 2 向けソフトウェアの『The Duskbloods』は、最大8人のプレイヤー同士の戦い、そしてプレイヤーと敵との戦いが展開されるPvPvEベースのマルチプレイアクションです。",
+      "publishedAt": "2026-10-29T14:04:31.000Z",
+      "addedAt": "2026-10-29T14:30:16.878Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610292z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.theduskbloods.jp/resources/images/common/ogp/ogp_image.png"
+    },
     {
       "id": "c41f26df2c2d",
       "url": "https://www.dontnod-bourse.com/en/financial-information/regulated-informations/?ID=ACTUS-0-100053",
@@ -2314,7 +2343,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/d6/2a/8ad62a3b-bfb8-e66e-887d-a0c1903658db/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/67/27/396727c7-3a22-6fbf-0f7e-814bb8c71214/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "c39d9ec51420",
@@ -18443,7 +18472,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=46"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=47"
     },
     {
       "id": "3ad3cbdc2046",
