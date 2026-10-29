@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "eea5f422ba42",
+      "url": "https://www.taito.co.jp/taitomilestones/vol_05",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "ダライアスII",
+      "headline": "海外版『ダライアスII』や『スペースインベーダー』を収録した、タイトーのコレクションタイトル『タイトーマイルストーン5』発売決定",
+      "description": "1978～1990年の個性派タイトルを収録したNintendo Switch™用ソフト『タイトーマイルストーン5』2027年1⽉28⽇発売決定！",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-10-29T03:06:40.000Z",
+      "addedAt": "2026-10-29T03:30:16.644Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release"
+      ],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/apps/img_260928_tms5_1200.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-10-29T03:30:16.644Z",
+      "ogFetchedAt": "2026-10-29T03:30:16.644Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "switch"
+      ]
+    },
+    {
       "id": "628cc11f4183",
       "url": "https://shueisha-games.com/games/bakudo/",
       "host": "shueisha-games.com",
@@ -953,7 +997,7 @@
       "headline": "文化祭で『モンハン』を体験!? ジンオウガ討伐謎解き、モンハン飯などが楽しめる「バンタン文化祭2026」が開催決定",
       "description": "バンタン文化祭2026は2026年11月14日(土)、東京・大阪・名古屋・福岡・札幌の全国5校で同時開催!人気ゲーム「モンスターハンター」との特別コラボレーションが実現し、在校生自らが企画・制作した体験型コンテンツが満載。事前予約はこちら…",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -2069,8 +2113,8 @@
       "points": null,
       "image": "https://indie.live-expo.games/cms/wp-content/uploads/ILE2024_ogp_1200x630_RE01.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-28T03:00:18.183Z",
-      "ogFetchedAt": "2026-10-28T03:00:18.183Z",
+      "checkedAt": "2026-10-29T03:30:16.644Z",
+      "ogFetchedAt": "2026-10-29T03:30:16.644Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -3276,8 +3320,8 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 5,
-      "checkedAt": "2026-10-28T03:00:18.183Z",
+      "metaAttempts": 6,
+      "checkedAt": "2026-10-29T03:30:16.644Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
@@ -9515,8 +9559,8 @@
       "points": null,
       "image": "https://www.veroplay.com/og/og-1200x630.v1.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-28T03:00:18.183Z",
-      "ogFetchedAt": "2026-10-28T03:00:18.183Z",
+      "checkedAt": "2026-10-29T03:30:16.644Z",
+      "ogFetchedAt": "2026-10-29T03:30:16.644Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -34480,6 +34524,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/008/G100858/20261007014/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/29/174222.html"
         }
       ],
       "tags": [

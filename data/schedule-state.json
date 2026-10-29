@@ -1064,7 +1064,7 @@
       "entry": null
     },
     "東京リベンジャーズ UNLIMITED": {
-      "at": "2026-10-26T03:00:33.208Z",
+      "at": "2026-10-29T03:30:32.083Z",
       "entry": {
         "trackId": "6698853161",
         "title": "東京リベンジャーズ UNLIMITED",
@@ -47949,7 +47949,7 @@
     },
     "モンハン": {
       "title": "モンハン",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T10:30:34.436Z"
     },
     "cutteridgeestate": {
@@ -49772,18 +49772,6 @@
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソリテアレルムズバンパイウズアンドウィアウルブズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135269",
-      "image": "https://img-eshop.cdn.nintendo.net/i/715f77bfeb74199640a8f91c353ac42bd811b2f2b8c08cc1c5003912d5da3094.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54535,6 +54523,18 @@
       "title": "アノマリス／ANOMALITH",
       "url": "https://www.cs.furyu.jp/anomalith/",
       "image": "https://www.cs.furyu.jp/anomalith/wp/wp-content/themes/anomalith_v1/assets/images/common/ogp.png?2026",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-29T03:30:31.195Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
       "platforms": [
         "mobile"
       ],

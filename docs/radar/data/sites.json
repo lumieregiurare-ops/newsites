@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T03:00:18.067Z",
+  "updatedAt": "2026-10-29T03:30:16.644Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1110,
+  "total": 1111,
   "regions": {
-    "jp": 913,
+    "jp": 914,
     "global": 197
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 393
+      "count": 394
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 35
+      "count": 36
     },
     {
       "id": "switch2",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eea5f422ba42",
+      "url": "https://www.taito.co.jp/taitomilestones/vol_05",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "ダライアスII",
+      "headline": "海外版『ダライアスII』や『スペースインベーダー』を収録した、タイトーのコレクションタイトル『タイトーマイルストーン5』発売決定",
+      "description": "1978～1990年の個性派タイトルを収録したNintendo Switch™用ソフト『タイトーマイルストーン5』2027年1⽉28⽇発売決定！",
+      "publishedAt": "2026-10-29T03:06:40.000Z",
+      "addedAt": "2026-10-29T03:30:16.644Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/apps/img_260928_tms5_1200.jpg"
+    },
     {
       "id": "628cc11f4183",
       "url": "https://shueisha-games.com/games/bakudo/",
@@ -23704,6 +23733,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/008/G100858/20261007014/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/29/174222.html"
         }
       ],
       "tags": [
