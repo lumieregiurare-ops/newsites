@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T00:30:35.234Z",
+  "updatedAt": "2026-10-29T01:00:28.241Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,6 +275,27 @@
   ],
   "prereg": [
     {
+      "id": "3112eeac605e",
+      "title": "MHO",
+      "url": "https://game8.jp/preregistration/808921",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-29T01:00:28.241Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "",
+      "description": "",
+      "source": "Game8",
+      "sourceUrl": "https://game8.jp/preregistration/808921",
+      "verified": false,
+      "officialKnown": false,
+      "trackId": ""
+    },
+    {
       "id": "aaa5411df493",
       "title": "モンハン",
       "url": "https://www.vantan.co.jp/special/bunkasai/",
@@ -433,34 +454,21 @@
       "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2295bca7a66",
-      "title": "桃源暗鬼 Crimson Inferno",
-      "url": "https://tougenanki-crimsoninferno.com/",
-      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-15T09:08:58.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
-      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
-      "appleId": "6476490037",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6476490037",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6476490037"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-29T01:00:28.241Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "MHO",
+      "url": "https://game8.jp/preregistration/808921",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-10-28T20:30:35.201Z",
       "type": "prereg_start",
@@ -516,18 +524,6 @@
       "title": "カスケード",
       "url": "https://store-jp.nintendo.com/item/software/D70010000138330",
       "image": "https://img-eshop.cdn.nintendo.net/i/8a9b07c7aac18ab0f18df731b0c9297185f88e342126f6297d85681f596407c5.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "MIX DUNK -KING OF BASKETBALL-",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000072505",
-      "image": "https://img-eshop.cdn.nintendo.net/i/580306d594fca5e470688594de6acc847d786ee6c5203c74af53579cb2cadad3.jpg",
       "platforms": [
         "switch"
       ],
