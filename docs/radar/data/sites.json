@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T09:00:16.965Z",
+  "updatedAt": "2026-10-29T09:30:19.947Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1118,
+  "total": 1119,
   "regions": {
-    "jp": 920,
+    "jp": 921,
     "global": 198
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 115
+      "count": 116
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 399
+      "count": 400
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 349
+      "count": 350
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bb1beee46236",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.gb",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "クッキーラン：オーブンブレイク",
+      "headline": "『クッキーラン：オーブンブレイク』サービス10周年！ 記念アップデートで「スイートアーカイブ」やマイクッキーが登場",
+      "description": "No.1キュートなランニングアクション!",
+      "publishedAt": "2026-10-29T09:10:00.000Z",
+      "addedAt": "2026-10-29T09:30:19.947Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/29/game/3146770.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "周年",
+        "iOS"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=s0-br30"
+    },
     {
       "id": "83f8470360e9",
       "url": "https://www.spike-chunsoft.co.jp/",
@@ -9014,7 +9048,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど256本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど257本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
@@ -15253,7 +15287,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639281880195667602"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639288008094499968"
     },
     {
       "id": "ec747cc06a3c",
