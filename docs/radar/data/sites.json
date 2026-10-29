@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-29T11:30:15.030Z",
+  "updatedAt": "2026-10-29T12:00:16.021Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1125,
+  "total": 1127,
   "regions": {
-    "jp": 927,
-    "global": 198
+    "jp": 928,
+    "global": 199
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 116
+      "count": 117
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 202
+      "count": 203
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 242
+      "count": 243
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 164
+      "count": 165
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 352
+      "count": 353
     },
     {
       "id": "browser",
@@ -121,17 +121,80 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
-    "Game*Spark",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c41f26df2c2d",
+      "url": "https://www.dontnod-bourse.com/en/financial-information/regulated-informations/?ID=ACTUS-0-100053",
+      "host": "dontnod-bourse.com",
+      "region": "global",
+      "title": "ライフ イズ ストレンジ",
+      "headline": "初代『ライフ イズ ストレンジ』など手掛けたDON’T NOD、資金難解消に向けた最大85名のレイオフ案に労組が懸念―新作「P14」制作は外注への大幅移行を計画か",
+      "description": "DON",
+      "publishedAt": "2026-10-29T12:00:03.000Z",
+      "addedAt": "2026-10-29T12:00:16.021Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/29/174253.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "824e5cb0d7d9",
+      "url": "https://apps.apple.com/jp/app/id6751485239",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "仮面ライダー DEFENSE WARRIORS",
+      "headline": "『仮面ライダー DEFENSE WARRIORS』1周年記念キャンペーンが10月28日より順次開催！ 「仮面ライダーギーツⅨ」が参戦",
+      "description": "AiiA Corporationの「仮面ライダー DEFENSE WARRIORS」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「仮面ライダー DEFENSE WARRIORS」に似…",
+      "publishedAt": "2026-10-29T11:40:00.000Z",
+      "addedAt": "2026-10-29T12:00:16.021Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/29/game/3147351.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "特設サイト",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/3d/1f/be3d1f95-dede-f5d3-eb7a-0ecdf79cb804/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "6d0b16eb2a2a",
       "url": "https://cgworld.jp/special/gamegraphicsjam/vol01/start.html",
@@ -2349,7 +2412,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261028113031"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261029114951"
     },
     {
       "id": "2f282a7a4a54",
@@ -10896,7 +10959,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=46"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=47"
     },
     {
       "id": "3fd841df8e29",
