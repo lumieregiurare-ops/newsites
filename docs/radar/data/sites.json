@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-29T04:30:17.220Z",
+  "updatedAt": "2026-10-29T05:00:17.552Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1114,
+  "total": 1117,
   "regions": {
-    "jp": 917,
-    "global": 197
+    "jp": 919,
+    "global": 198
   },
   "categories": [
     {
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 201
+      "count": 202
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 240
+      "count": 241
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 396
+      "count": 398
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 241
+      "count": 242
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 348
+      "count": 349
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 13
+      "count": 14
     },
     {
       "id": "vr",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
+    "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,95 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "670e5d3a8129",
+      "url": "https://p.eagate.573.jp/game/event/amusementexpo/2026/contents/index.html?title_id=jubeat",
+      "host": "p.eagate.573.jp",
+      "region": "jp",
+      "title": "jubeat",
+      "headline": "コナミの人気リズムゲーム『jubeat』シリーズ最新作『jubeat U’nit』（ユニット）稼働に向け鋭意制作中、新筐体も公開",
+      "description": "コナミアーケードゲームス「AMUSEMENT EXPO 2026」特設サイトです。出展タイトル、ブース紹介、ステージスケジュールなどの最新情報をお届けします。",
+      "publishedAt": "2026-10-29T04:38:22.000Z",
+      "addedAt": "2026-10-29T05:00:17.552Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610292f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://p.eagate.573.jp/game/event/amusementexpo/2026/img/share.jpg?v2"
+    },
+    {
+      "id": "4a916d12b056",
+      "url": "https://apps.apple.com/jp/app/id6826495318",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "UFO：米国政府公開文書",
+      "headline": "米政府のUFO公開資料を自分で調査！『UFO：米国政府公開文書』がiPhoneとApple TVでリリース",
+      "description": "HOBEECの「UFO：米国政府公開文書」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「UFO：米国政府公開文書」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-29T04:35:00.000Z",
+      "addedAt": "2026-10-29T05:00:17.552Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/29/game/3147725.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/3a/05/b93a05ff-4731-9cbe-aad6-96b38797fa50/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "5c441ea35a9b",
+      "url": "https://kirbycafe.jp/petit/",
+      "host": "kirbycafe.jp",
+      "region": "jp",
+      "title": "カービィカフェ PETIT",
+      "headline": "「カービィカフェ PETIT」初のホールケーキが11月11日より発売決定。クリームの上にちょこんと乗った“カービィ”がかわいすぎる",
+      "description": "カービィカフェでがんばるワドルディたちがとびきりのスイーツをつくりました。タルトやケーキ、さまざまなスイーツをテイクアウトでお楽しみいただけます。",
+      "publishedAt": "2026-10-29T04:34:46.000Z",
+      "addedAt": "2026-10-29T05:00:17.552Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029x"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kirbycafe.jp/imgs/ogp.jpg"
+    },
     {
       "id": "b387ccced8cb",
       "url": "https://tokusatsu-fc.jp/",
@@ -1571,10 +1660,10 @@
       "id": "841013db1d52",
       "url": "https://www.fulqrumpublishing.com/",
       "host": "fulqrumpublishing.com",
-      "region": "jp",
+      "region": "global",
       "title": "Stygian: Outer Gods",
       "headline": "クトゥルフ神話を題材にしたサバイバルホラー「Stygian: Outer Gods」がPC向けに正式リリース",
-      "description": "クトゥルフ神話を題材にしたサバイバルホラー「Stygian: Outer Gods」がPC向けに正式リリース",
+      "description": "Fulqrum Publishing Ltd. - The Official Website of Fulqrum Publishing Ltd.. Find information about your favourite games …",
       "publishedAt": "2026-10-27T03:00:43.000Z",
       "addedAt": "2026-10-27T03:30:16.206Z",
       "source": "4Gamer",
@@ -1594,7 +1683,7 @@
         "pc"
       ],
       "points": null,
-      "image": ""
+      "image": "https://www.fulqrumpublishing.com/img/logo-gray.png"
     },
     {
       "id": "db3a5b62c6d0",

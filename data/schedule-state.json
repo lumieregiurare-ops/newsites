@@ -3035,6 +3035,24 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/f1/a2/c2f1a2f3-82e9-25fa-27ab-1a016496fe2b/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "UFO 米国政府公開文書": {
+      "at": "2026-10-29T05:00:35.323Z",
+      "entry": {
+        "trackId": "6826495318",
+        "title": "UFO：米国政府公開文書",
+        "artist": "HOBEEC",
+        "genres": [
+          "エンターテインメント",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-10-27T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6826495318",
+        "sellerUrl": "https://www.hobeec.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/04/a2/1c04a2dc-cda8-933d-d0f9-63dde7ee57eb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -47949,7 +47967,7 @@
     },
     "モンハン": {
       "title": "モンハン",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T10:30:34.436Z"
     },
     "cutteridgeestate": {
@@ -49719,7 +49737,7 @@
     },
     "亰都ザナドゥ-桜花幻舞-": {
       "title": "亰都ザナドゥ -桜花幻舞-",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-29T01:30:34.777Z"
     },
     "balingosoundtrack": {
@@ -49809,34 +49827,41 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-10-29T04:30:42.250Z"
+    },
+    "cataclyzm": {
+      "title": "Cataclyzm",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T05:00:35.116Z"
+    },
+    "ourself": {
+      "title": "Ourself",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T05:00:35.116Z"
+    },
+    "shawarmahell": {
+      "title": "Shawarma Hell",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T05:00:35.116Z"
+    },
+    "wordcrack": {
+      "title": "WordCrack",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T05:00:35.116Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "デッキオブハウント",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000133912",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b2b70fcfaf84119d53c9bec437542d6e69864361c755fb4dac8a9a162fa6f1c1.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ドキドキ！制服モンタージュパズル ～放課後からオフィスまで～",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137472",
-      "image": "https://img-eshop.cdn.nintendo.net/i/86843b1c5a763becc7376f7ac5be6a49fc514da983c9ae0874f70b387302eb5c.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54579,6 +54604,32 @@
         "switch"
       ],
       "to": "2026年11月19日"
+    },
+    {
+      "at": "2026-10-29T05:00:35.116Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "亰都ザナドゥ -桜花幻舞-",
+      "url": "https://www.falcom.co.jp/kyoxana/",
+      "image": "https://www.falcom.co.jp/kyoxana/assets/og.jpg",
+      "platforms": [
+        "switch2",
+        "ps",
+        "pc"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-10-29T05:00:35.116Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "モンハン",
+      "url": "https://www.vantan.co.jp/special/bunkasai/",
+      "image": "https://www.vantan.co.jp/special/bunkasai/img/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
