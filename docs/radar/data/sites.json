@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-29T10:00:19.293Z",
+  "updatedAt": "2026-10-29T10:30:19.973Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1120,
+  "total": 1124,
   "regions": {
-    "jp": 921,
-    "global": 199
+    "jp": 926,
+    "global": 198
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 401
+      "count": 403
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 242
+      "count": 244
     },
     {
       "id": "official",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 43
+      "count": 44
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 36
+      "count": 37
     },
     {
       "id": "xbox",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 350
+      "count": 352
     },
     {
       "id": "browser",
@@ -122,16 +122,73 @@
   ],
   "sources": [
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
+    "App Store",
     "Game*Spark",
     "Inside",
-    "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a780d94d24e4",
+      "url": "https://alliance-arts.co.jp/villainess/",
+      "host": "alliance-arts.co.jp",
+      "region": "jp",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ",
+      "headline": "悪役令嬢がテーマのターン制ストラテジー「大悪逆令嬢 ストラテジーオブリリィ」，Switch2版とPS5版が12月3日に発売決定",
+      "description": "「大悪逆令嬢 ストラテジーオブリリィ」は〈悪逆令嬢〉スカーレット率いる革命軍を操作し新鋭空中戦艦に備わる配信機能を駆使して敵軍を翻弄するターンベースのシミュレーションゲームです。",
+      "publishedAt": "2026-10-29T10:01:51.000Z",
+      "addedAt": "2026-10-29T10:30:19.973Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105421/20261029041/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "points": null,
+      "image": "https://alliance-arts.co.jp/villainess/image/ogp_jp.jpg"
+    },
+    {
+      "id": "c57e2fe38c01",
+      "url": "https://www.entergram.co.jp/azurememoria/",
+      "host": "entergram.co.jp",
+      "region": "jp",
+      "title": "あじゅ〜るメモリア",
+      "headline": "VTuber・本阿弥あずささんが主演・監修のゲーム『あじゅ〜るメモリア』が2027年2月25日に発売決定。“あじゅ姉”と過ごす、ひと夏の初恋物語",
+      "description": "少年になったアナタとあじゅ姉が描く、ひと夏の初恋ストーリー。本阿弥あずさ 主演・監修 キミとつながるハートフル初恋ADV『あじゅ～るメモリア』公式サイト",
+      "publishedAt": "2026-10-29T10:00:47.000Z",
+      "addedAt": "2026-10-29T10:30:19.973Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.entergram.co.jp/azurememoria/assets/img/common/ogp.jpg"
+    },
     {
       "id": "264e472d5b04",
       "url": "https://playspiritcrossing.com/",
@@ -198,6 +255,72 @@
       "image": "https://play-lh.googleusercontent.com/dlSJyyapJ336pDW4NKNS1hs9LFhjOj-KWW-HlZDowCgGpEb51kYFLiuJIr9BVDJH5NNMfjXNAamysOebRCMFfdc=s0-br30"
     },
     {
+      "id": "21ca9ae52b97",
+      "url": "https://neptunecompany.kr/",
+      "host": "neptunecompany.kr",
+      "region": "global",
+      "title": "剣神ゼロ",
+      "headline": "Neptune Company / ストラテジー・ロールプレイング · App Store 新着",
+      "description": "넵튠(Neptune Corp.)은 대한민국의 모바일 게임 개발·퍼블리싱 및 애드테크 기업입니다.",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "addedAt": "2026-10-29T10:30:19.973Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6762593520"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://neptunecompany.kr/images/og-image.png"
+    },
+    {
+      "id": "624bc55ac00b",
+      "url": "https://apps.apple.com/jp/app/id6747732855",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ねこ宿日和",
+      "headline": "HONGKONG HEILI LIMITED / シミュレーション・カジュアル · App Store 新着",
+      "description": "HONGKONG HEILI LIMITEDの「ねこ宿日和」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ねこ宿日和」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "addedAt": "2026-10-29T10:30:19.973Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6747732855"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/f8/96/08f89668-ac42-e4e9-469d-180e70005187/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
       "id": "83f8470360e9",
       "url": "https://www.spike-chunsoft.co.jp/",
       "host": "spike-chunsoft.co.jp",
@@ -240,6 +363,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610292f"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105425/20261029042/"
         }
       ],
       "tags": [
@@ -5159,7 +5286,7 @@
       "id": "0be39aa584f0",
       "url": "https://totalmayhemgames.com/",
       "host": "totalmayhemgames.com",
-      "region": "global",
+      "region": "jp",
       "title": "We Were Here Tomorrow",
       "headline": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
       "description": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
@@ -21872,7 +21999,7 @@
       "id": "f57f2985f1c5",
       "url": "https://simzonegames.com/category/app-store/",
       "host": "simzonegames.com",
-      "region": "global",
+      "region": "jp",
       "title": "Mendazzle",
       "headline": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
       "description": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
@@ -34667,7 +34794,8 @@
         "スマホ",
         "iOS",
         "シミュレーション",
-        "カジノ"
+        "カジノ",
+        "エンターテインメント"
       ],
       "categories": [
         "campaign",
