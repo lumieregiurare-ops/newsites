@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:00:29.504Z",
+  "updatedAt": "2026-10-29T06:30:34.105Z",
   "platforms": [
     {
       "id": "switch",
@@ -141,6 +141,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261029h"
     },
     {
+      "id": "6a4ed2e6e764",
+      "title": "ダンガンロンパ",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.spike-chunsoft.co.jp/",
+      "image": "https://media.spike-chunsoft.co.jp/spchunwp/wp-content/uploads/2024/07/12171325/ogp.jpg",
+      "maker": "",
+      "headline": "『ダンガンロンパ』狛枝凪斗役・緒方恵美さんがMCの「ダンガンラジオ」が10年ぶりに復活！10月30日19時よりYouTubeなどで配信開始",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610292h"
+    },
+    {
       "id": "e9f10c727077",
       "title": "紅の砂漠",
       "date": "2026-10-30",
@@ -253,21 +268,6 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "d743133d93d7",
-      "title": "鉄道にっぽん！ RealPro",
-      "date": "2026-11-05",
-      "dateText": "2026年11月5日",
-      "sortKey": "2026-11-05",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.sonicpowered.co.jp/train/rp/hida/campaign/",
-      "image": "",
-      "maker": "",
-      "headline": "“実写映像”の鉄道ゲーム『鉄道にっぽん！ RealPro』のDLCが11月5日に配信決定。名古屋の地下鉄・リニモ・ゆとりーとラインを逆方向に運転できる",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610143c"
     }
   ],
   "prereg": [
@@ -460,6 +460,16 @@
   ],
   "changes": [
     {
+      "at": "2026-10-29T06:30:34.105Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ダンガンロンパ",
+      "url": "https://www.spike-chunsoft.co.jp/",
+      "image": "https://media.spike-chunsoft.co.jp/spchunwp/wp-content/uploads/2024/07/12171325/ogp.jpg",
+      "platforms": [],
+      "to": "2026年10月30日"
+    },
+    {
       "at": "2026-10-29T04:30:42.250Z",
       "type": "new",
       "label": "新規",
@@ -519,18 +529,6 @@
         "switch"
       ],
       "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "大悪逆令嬢 ストラテジーオブリリィ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
     }
   ]
 }

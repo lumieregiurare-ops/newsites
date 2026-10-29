@@ -1856,7 +1856,7 @@
       }
     },
     "燃えるなバズれ": {
-      "at": "2026-10-26T06:00:30.480Z",
+      "at": "2026-10-29T06:30:35.840Z",
       "entry": {
         "trackId": "6807805500",
         "title": "燃えるなバズれ 〜SNS炎上回避シミュレーター〜",
@@ -2881,7 +2881,7 @@
       "entry": null
     },
     "鳴潮": {
-      "at": "2026-10-26T06:30:33.394Z",
+      "at": "2026-10-29T06:30:34.483Z",
       "entry": {
         "trackId": "6475033368",
         "title": "鳴潮",
@@ -49907,21 +49907,25 @@
       "sortKey": "2026-10-29",
       "prereg": false,
       "firstSeen": "2026-10-29T06:00:29.504Z"
+    },
+    "rockburstdemo": {
+      "title": "Rockburst Demo",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T06:30:34.105Z"
+    },
+    "ダンガンロンパ": {
+      "title": "ダンガンロンパ",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-29T06:30:34.105Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ボクがメイド!? ヒミツのお給仕間違い探し",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137338",
-      "image": "https://img-eshop.cdn.nintendo.net/i/afd99dfb0944dc1fe54c773f5813c6d83b07ebf2cff52ec9019ec06070c321ab.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54678,6 +54682,16 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-29T06:30:34.105Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ダンガンロンパ",
+      "url": "https://www.spike-chunsoft.co.jp/",
+      "image": "https://media.spike-chunsoft.co.jp/spchunwp/wp-content/uploads/2024/07/12171325/ogp.jpg",
+      "platforms": [],
+      "to": "2026年10月30日"
     }
   ],
   "initialized": true,
