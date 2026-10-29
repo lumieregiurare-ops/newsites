@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:30:34.105Z",
+  "updatedAt": "2026-10-29T07:00:36.238Z",
   "platforms": [
     {
       "id": "switch",
@@ -293,6 +293,31 @@
       "trackId": ""
     },
     {
+      "id": "6fce58f3969f",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-28T04:00:03.000Z",
+      "releaseText": "2026年12月23日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "「デジモンカードゲーム」をスマホで遊べる「デジモンアリシオン」，事前登録受付を開始。ルールはほぼそのままで，本作限定の新規カードも登場",
+      "description": "デジモンカードゲームNEW PROJECT スマートフォン向けアプリ『デジモンアリシオン』始動！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/893/G089331/20261028008/",
+      "appleId": "6740988190",
+      "trackId": "6740988190",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6740988190",
+        "preorder": true,
+        "releaseDate": "2026-12-23T08:00:00Z"
+      }
+    },
+    {
       "id": "cf2c0d8da51f",
       "title": "人間奇想計画",
       "url": "http://ordinaryoddness.com/",
@@ -431,34 +456,33 @@
       "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "f2295bca7a66",
-      "title": "桃源暗鬼 Crimson Inferno",
-      "url": "https://tougenanki-crimsoninferno.com/",
-      "image": "https://event-fn.qpyou.cn/event/event/tougenanki/tougenanki_key_no_logo.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-15T09:08:58.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「桃源暗鬼 Crimson Inferno」，事前登録の受付を開始。主要キャラクターの戦闘シーンを確認できる最新映像も公開に",
-      "description": "事前登録者数の条件を満たすとプレゼントが増えていきます。今すぐ登録して豪華プレゼントを手に入れましょう。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089379/20261015034/",
-      "appleId": "6476490037",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6476490037",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6476490037"
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-29T07:00:36.238Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月23日"
+    },
+    {
+      "at": "2026-10-29T07:00:36.238Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Lilac ~side Wizard~",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000128159",
+      "image": "https://img-eshop.cdn.nintendo.net/i/8752576c266c78f0c9860ef55a9ffe20be0ad68e4a90d8cf7d6ee2042a8f048e.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
     {
       "at": "2026-10-29T06:30:34.105Z",
       "type": "new",
@@ -505,30 +529,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "世界のテーブルゲーム＆遊びコレクション60+",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137561",
-      "image": "https://img-eshop.cdn.nintendo.net/i/88be6ba3c4509ebdfbc46c73d9b5753886cd39392eab797f8e1df0c38f1ff705.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-10-28T17:00:43.778Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソングマスター",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131135",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f44010f8c36da523f371b29a5ccf1d002b536f33aa1f34875263043d8fc4587f.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
     }
   ]
 }
