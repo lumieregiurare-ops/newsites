@@ -883,7 +883,7 @@
       }
     },
     "パールインブルー": {
-      "at": "2026-10-15T04:30:32.011Z",
+      "at": "2026-10-29T04:30:47.166Z",
       "entry": null
     },
     "ファレイドリア": {
@@ -2177,7 +2177,7 @@
       "entry": null
     },
     "京都ルール": {
-      "at": "2026-10-26T04:30:31.587Z",
+      "at": "2026-10-29T04:30:45.798Z",
       "entry": {
         "trackId": "6807351775",
         "title": "京都ルール あなたは京都で生活できますか",
@@ -2444,7 +2444,7 @@
       "entry": null
     },
     "うめしわ": {
-      "at": "2026-10-26T04:30:30.019Z",
+      "at": "2026-10-29T04:30:44.223Z",
       "entry": {
         "trackId": "6807810259",
         "title": "うめしわ 〜サラリーマンとふしぎなおにぎり〜",
@@ -2727,7 +2727,7 @@
       }
     },
     "TokiMake": {
-      "at": "2026-10-26T04:00:31.843Z",
+      "at": "2026-10-29T04:30:42.765Z",
       "entry": {
         "trackId": "6808610064",
         "title": "TokiMake",
@@ -2740,7 +2740,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6808610064",
         "sellerUrl": "",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/4f/62/634f628d-a8d6-5e32-2896-5eed34ae5f38/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/78/9f/81789f68-3ce9-a795-0d63-252760321c68/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -5715,7 +5715,7 @@
       "dateText": "2026年10月29日",
       "date": "2026-10-29",
       "sortKey": "2026-10-29",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T05:58:17.195Z"
     },
     "アノマリス／anomalith『ゲームパッケージ風』バックパックセット": {
@@ -47949,7 +47949,7 @@
     },
     "モンハン": {
       "title": "モンハン",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-28T10:30:34.436Z"
     },
     "cutteridgeestate": {
@@ -49719,7 +49719,7 @@
     },
     "亰都ザナドゥ-桜花幻舞-": {
       "title": "亰都ザナドゥ -桜花幻舞-",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-29T01:30:34.777Z"
     },
     "balingosoundtrack": {
@@ -49793,21 +49793,25 @@
       "sortKey": "2026-10-29",
       "prereg": false,
       "firstSeen": "2026-10-29T04:00:29.035Z"
+    },
+    "resonanceoffate™/endofeternity™enhancedremaster": {
+      "title": "RESONANCE OF FATE™/END OF ETERNITY™ ENHANCED REMASTER",
+      "dateText": "2026年10月29日",
+      "date": "2026-10-29",
+      "sortKey": "2026-10-29",
+      "prereg": false,
+      "firstSeen": "2026-10-29T04:30:42.250Z"
+    },
+    "ぎゅわんぶらあ自己中心派": {
+      "title": "ぎゅわんぶらあ自己中心派",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-10-29T04:30:42.250Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "だらだら彼女の休日観察パズル",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137759",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a1a983004e315f8f9438c1c34e2a534744d9f5460dc4c6930fe628cdd047ee65.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月8日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -54563,6 +54567,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-10-29T04:30:42.250Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ぎゅわんぶらあ自己中心派",
+      "url": "https://gyuwanjiko.success-corp.co.jp/drump-wakarase/",
+      "image": "https://gyuwanjiko.success-corp.co.jp/wp-content/uploads/sites/89/2026/10/ogp.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月19日"
     }
   ],
   "initialized": true,

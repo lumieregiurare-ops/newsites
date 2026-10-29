@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T04:00:16.506Z",
+  "updatedAt": "2026-10-29T04:30:17.220Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1111,
+  "total": 1114,
   "regions": {
-    "jp": 914,
+    "jp": 917,
     "global": 197
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 394
+      "count": 396
     },
     {
       "id": "indie",
@@ -70,14 +70,14 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 163
+      "count": 164
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 36
+      "count": 37
     },
     {
       "id": "switch2",
@@ -132,6 +132,89 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b387ccced8cb",
+      "url": "https://tokusatsu-fc.jp/",
+      "host": "tokusatsu-fc.jp",
+      "region": "jp",
+      "title": "スーパー戦隊は終わらない",
+      "headline": "「スーパー戦隊」について東映の白倉Pが振り返る『スーパー戦隊は終わらない』予約スタート、目次など含めた詳細が公開。50年の歴史を誇る人気シリーズの休止、その“裏側”が明かされる",
+      "description": "ヒーローと過ごす、24時間×365日。『東映特撮ファンクラブ』仮面ライダーシリーズやスーパー戦隊シリーズ、さらにはメタルヒーローシリーズや不思議コメディーシリーズなど、東映がこれまで制作してきた膨大な特撮ヒーロー作品350タイトル以上が見…",
+      "publishedAt": "2026-10-29T04:26:04.000Z",
+      "addedAt": "2026-10-29T04:30:17.220Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tokusatsu-fc.jp/files/img/OG.jpg"
+    },
+    {
+      "id": "22464f03deef",
+      "url": "https://gyuwanjiko.success-corp.co.jp/drump-wakarase/",
+      "host": "gyuwanjiko.success-corp.co.jp",
+      "region": "jp",
+      "title": "ぎゅわんぶらあ自己中心派",
+      "headline": "片山まさゆき氏のマンガ『ぎゅわんぶらあ自己中心派』原作の麻雀ゲーム『ドランプ帝国をわからせろ！』11月19日に発売決定。クセ者雀士たちと卓を囲み、ドランプ帝国に立ち向かう",
+      "description": "Nintendo Switch用ソフト「ぎゅわんぶらあ自己中心派 ドランプ帝国をわからせろ！」の公式サイトです。",
+      "publishedAt": "2026-10-29T04:15:51.000Z",
+      "addedAt": "2026-10-29T04:30:17.220Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://gyuwanjiko.success-corp.co.jp/wp-content/uploads/sites/89/2026/10/ogp.jpg"
+    },
+    {
+      "id": "b0ffee3fa4d4",
+      "url": "https://www.compileheart.com/dokaponkingdom2/",
+      "host": "compileheart.com",
+      "region": "jp",
+      "title": "ドカポン",
+      "headline": "大人気“友情破壊”ゲーム『ドカポン』シリーズ最新作『ドカポンキングダム コネクト2』発売決定！オンラインで世界中の仲間を裏切れる",
+      "description": "ドカポンキングダム コネクト2",
+      "publishedAt": "2026-10-29T04:07:59.000Z",
+      "addedAt": "2026-10-29T04:30:17.220Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610292a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.compileheart.com/dokaponkingdom2/img/ogp.jpg"
+    },
     {
       "id": "eea5f422ba42",
       "url": "https://www.taito.co.jp/taitomilestones/vol_05",
@@ -1088,7 +1171,7 @@
       "region": "jp",
       "title": "Conan Exiles Enhanced",
       "headline": "「Conan Exiles Enhanced」のPS5版，XBOX Series X|S版と，「Aloft」のPS5版がリリース決定",
-      "description": "「Conan Exiles Enhanced」のPS5版，XBOX Series X|S版と，「Aloft」のPS5版がリリース決定",
+      "description": "英雄コナンの世界で繰り広げられるオンラインマルチプレイサバイバルゲーム",
       "publishedAt": "2026-10-28T02:52:02.000Z",
       "addedAt": "2026-10-28T03:00:18.183Z",
       "source": "4Gamer",
@@ -1109,7 +1192,7 @@
         "xbox"
       ],
       "points": null,
-      "image": ""
+      "image": "https://www.conanexiles.com/wp-content/uploads/sites/5/2022/09/conan-exiles-og.jpg"
     },
     {
       "id": "1a1de6e4de05",
@@ -11020,7 +11103,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/8f/5e/df8f5e28-811f-7def-a958-44c4aec8bc0f/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/36/69/7836697c-f74b-66dc-bd9a-b1f63107d314/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ba2c5bd274b3",
@@ -21104,7 +21187,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ux-ejIrT_m52drvB5PxhAYL82qrNM3ZZ6LXHJ2JxeVLFKGW537jws4eL_EWdqHuggh1R1Ps_ldTiLFtkXsX70u7if82Jo9PUXEnWgnGMJnigULYCRlEWRRGdjj4zObcXxQKxYndKW8z0OMNjIgzY8aFmBJOCK4Y_sYmJbhEKL3Nd3ELSSCkg5iS-yDE0jjZrbvrDKxpCYh5OD9_Qs8bTUq38XIffxGwaNZWuAANodYGW8=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uwrOUuV2tS8jNNBB36UY0H1G-X1FWet12QmxH3lX-bDCjoEbe5EEDyG14mRiS6-pQ8psEnTFH9gwTW0eyZJfVnPFEa92_aW8C0iiz4SfWUm-5R3XSRV6WYgNhjBQB9IMukieRer0bNS-SM1MQiuQkpHFrB3pW5qMuw1w9XrgnpHHWN6KjadVKJFtRxFluwueY_QC8LkbObGDGJSwOYWraB5sSR3hfIp_07mag-q-BAd_s=w1200-h630-p-k-no-nu"
     },
     {
       "id": "a1190e19c51b",
