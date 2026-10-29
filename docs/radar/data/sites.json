@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-10-29T00:00:17.621Z",
+  "updatedAt": "2026-10-29T00:30:17.815Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1103,
+  "total": 1104,
   "regions": {
     "jp": 907,
-    "global": 196
+    "global": 197
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 47
+      "count": 48
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 388
+      "count": 389
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 345
+      "count": 346
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7ff18ff1b616",
+      "url": "https://www.timistudios.com/games/monster-hunter",
+      "host": "timistudios.com",
+      "region": "global",
+      "title": "モンハン",
+      "headline": "『モンハン』新作『モンハンアウトランダーズ』正式サービス開始！スマホ向けながら本格的な狩猟体験が楽しめる注目のタイトル。プレイヤーは「冒険者」として、新モンスターの潜む島へと調査…",
+      "description": "A brand new open-world adventure in the iconic Monster Hunter franchise coming soon to mobile devices everywhere! Be re…",
+      "publishedAt": "2026-10-29T00:15:24.000Z",
+      "addedAt": "2026-10-29T00:30:17.815Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029i"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "b4f43796b733",
       "url": "https://www.brokewizards.com/",
