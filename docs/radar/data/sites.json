@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T02:00:16.683Z",
+  "updatedAt": "2026-10-29T02:30:17.830Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1108,
+  "total": 1110,
   "regions": {
-    "jp": 911,
+    "jp": 913,
     "global": 197
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 392
+      "count": 393
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 88
+      "count": 89
     },
     {
       "id": "media",
@@ -70,19 +70,19 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 162
+      "count": 163
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 34
+      "count": 35
     },
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 41
+      "count": 42
     },
     {
       "id": "ps",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 135
+      "count": 136
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
-    "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "628cc11f4183",
+      "url": "https://shueisha-games.com/games/bakudo/",
+      "host": "shueisha-games.com",
+      "region": "jp",
+      "title": "BAKUDO",
+      "headline": "学園SF×ボールスポーツのボスラッシュアクション「BAKUDO」，Switch2版を発表。学園生活や強敵とのバトルを描く新トレイラーも公開",
+      "description": "その身に宿る「BAKUDO」をぶちまけろ！勝つのは誰だ！？ルール無用の熱血バトル、開幕！「BAKUDO」は学園SF×ボールスポーツのボスラッシュアクション。BAKUDOの名門校に入学したユーリアに課されたのは、「十日以内に学園の頂点・澈日…",
+      "publishedAt": "2026-10-29T02:05:39.000Z",
+      "addedAt": "2026-10-29T02:30:17.830Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/053/G105393/20261029008/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://shueisha-games.com/wp-content/uploads/2025/06/a9e044074b0774acc76ab3ea0b99830f-1200x675.png"
+    },
+    {
+      "id": "92fd8d99d629",
+      "url": "https://www.studiotonemo.com/",
+      "host": "studiotonemo.com",
+      "region": "jp",
+      "title": "在りし日のわたし達へ",
+      "headline": "「在りし日のわたし達へ」，約2時間遊べる体験版を本日配信。2027年3月12日に無料早期アクセス開始。結末の一枚絵を先行公開する企画も",
+      "description": "「Studio To:NEMO」がお送りする新作インディノベルゲーム！ 在りし日のわたし達へ 2024年配信予定！ 価格：無料(PC)",
+      "publishedAt": "2026-10-29T02:00:00.000Z",
+      "addedAt": "2026-10-29T02:30:17.830Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/794/G079405/20261028048/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261029e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/6077bd_f10622c2d45345a7a39abcd4f8ebadf6~mv2.png/v1/fill/w_1440,h_810,al_c/6077bd_f10622c2d45345a7a39abcd4f8ebadf6~mv2.png"
+    },
     {
       "id": "d95c33a7f3bf",
       "url": "https://apps.apple.com/jp/app/id6747328897",
@@ -19194,6 +19257,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/29/172900.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261029m"
         }
       ],
       "tags": [
@@ -28248,7 +28315,7 @@
       "region": "jp",
       "title": "アーティス インパクト",
       "headline": "4,000枚以上のドットフレーム、 手描きピクセルで描かれる終末世界RPG『アーティス インパクト』スイッチパッケージ/ダウンロード版リリース！BitSummit大賞受賞の話題作",
-      "description": "メンテナンス",
+      "description": "AIに支配された終末世界… 記憶の断片を巡る、奇妙で心温まるアドベンチャーRPG「アーティス インパクト」がNintendo Switchで登場！",
       "publishedAt": "2026-09-17T01:05:03.000Z",
       "addedAt": "2026-09-17T03:51:46.413Z",
       "source": "Game*Spark",
@@ -28265,7 +28332,9 @@
         "event",
         "release"
       ],
-      "platforms": [],
+      "platforms": [
+        "switch"
+      ],
       "points": null,
       "image": "https://artisimpact.happinet-games.com/wp-content/themes/artisimpact/img/shareimg_ja.jpg"
     },
