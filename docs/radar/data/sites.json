@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T15:30:17.433Z",
+  "updatedAt": "2026-10-29T16:00:17.764Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1128,
+  "total": 1129,
   "regions": {
-    "jp": 929,
+    "jp": 930,
     "global": 199
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 404
+      "count": 405
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 45
+      "count": 46
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d7b116d1fcb5",
+      "url": "https://atari.com/products/godzilla-destroy-all-monsters-melee-remastered",
+      "host": "atari.com",
+      "region": "jp",
+      "title": "ゴジラ怪獣大乱闘",
+      "headline": "『ゴジラ怪獣大乱闘』リマスター、日本向けコンソール版のストアページが揃う―スイッチ2は少し遅れてリリースへ",
+      "description": "『ゴジラ怪獣大乱闘』リマスター、日本向けコンソール版のストアページが揃う―スイッチ2は少し遅れてリリースへ",
+      "publishedAt": "2026-10-29T15:30:02.000Z",
+      "addedAt": "2026-10-29T16:00:17.764Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/30/174265.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "71ad0ea004c5",
       "url": "https://www.theduskbloods.jp/",
