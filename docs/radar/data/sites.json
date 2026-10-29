@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-29T01:30:18.259Z",
+  "updatedAt": "2026-10-29T02:00:16.683Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1107,
+  "total": 1108,
   "regions": {
-    "jp": 910,
+    "jp": 911,
     "global": 197
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 391
+      "count": 392
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 87
+      "count": 88
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 240
+      "count": 241
     },
     {
       "id": "official",
@@ -82,12 +82,12 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 40
+      "count": 41
     },
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 35
+      "count": 36
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 134
+      "count": 135
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 347
+      "count": 348
     },
     {
       "id": "browser",
@@ -121,17 +121,51 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d95c33a7f3bf",
+      "url": "https://apps.apple.com/jp/app/id6747328897",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "BLEACH",
+      "headline": "『BLEACH』新作スマホゲーム「BLEACH Mirrors High」が10月28日にサービス開始！ 黒崎一護とルキアがもらえる",
+      "description": "Bandai Namco Entertainment Inc.の「BLEACH Mirrors High【ミラハイ】」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「BLEACH Mi…",
+      "publishedAt": "2026-10-29T01:10:00.000Z",
+      "addedAt": "2026-10-29T02:00:16.683Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/29/game/3147227.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/6d/6c/bf6d6c77-5b0b-0d66-ea26-5a6f8b82c15d/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "8bc9d191e40b",
       "url": "https://danmaku.jp/",
@@ -169,7 +203,7 @@
       "region": "jp",
       "title": "亰都ザナドゥ -桜花幻舞-",
       "headline": "「亰都ザナドゥ -桜花幻舞-」，体験版を本日配信開始。序幕から第1話まで，5〜6時間遊べる。製品版への引き継ぎにも対応",
-      "description": "「亰都ザナドゥ -桜花幻舞-」，体験版を本日配信開始。序幕から第1話まで，5〜6時間遊べる。製品版への引き継ぎにも対応",
+      "description": "亰都が首都になった現代日本を舞台に《適格者》として覚醒めた少年少女たちの異界・ザナドゥを巡る物語が幕を開ける――。『亰都ザナドゥ -桜花幻舞-』2026年7月16日 発売予定【Switch2・Switch・PS5・Steam】",
       "publishedAt": "2026-10-29T01:00:00.000Z",
       "addedAt": "2026-10-29T01:30:18.259Z",
       "source": "4Gamer",
@@ -191,9 +225,13 @@
         "prereg",
         "release"
       ],
-      "platforms": [],
+      "platforms": [
+        "switch2",
+        "ps",
+        "pc"
+      ],
       "points": null,
-      "image": ""
+      "image": "https://www.falcom.co.jp/kyoxana/assets/og.jpg"
     },
     {
       "id": "7ff18ff1b616",
@@ -23587,7 +23625,7 @@
       "region": "jp",
       "title": "アノマリス／ANOMALITH",
       "headline": "進化を続けた『アノマリス／ANOMALITH』は、いよいよ最終形態なのか？ 発売日迫る中、来場者に向けた試遊版に臨んだプレイレポ【TGS2026】",
-      "description": "昭和██年。日本。突如発生する異常空間を探索し、異形と戦い生き延びろ。少女が運命に立ち向かう、異常現象×サバイバルTPS（アノマリス ／ ANOMALITH）。2026年10月29日発売",
+      "description": "昭和██年。日本。突如発生する異常空間を探索し、異形と戦い生き延びろ。少女が運命に立ち向かう、異常現象×サバイバルTPS（アノマリス ／ ANOMALITH）。好評発売中",
       "publishedAt": "2026-09-23T10:30:03.000Z",
       "addedAt": "2026-09-23T14:30:16.197Z",
       "source": "Inside",
@@ -23611,7 +23649,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.cs.furyu.jp/anomalith/wp/wp-content/themes/anomalith_v1/assets/images/common/ogp.png?2026"
+      "image": "https://www.cs.furyu.jp/anomalith/wp/wp-content/themes/anomalith_v1/assets/images/common/ogp_release.png"
     },
     {
       "id": "e2a229a20d6a",
@@ -26429,7 +26467,7 @@
       "region": "jp",
       "title": "アソビ★まわり隊！",
       "headline": "ホロライブの新ユニット「アソビ★まわり隊！」のメンバーが公開。「FLOW GLOW」以来およそ2年ぶりの新ユニットで、百灯キョーコ・熱千めら・鈴鳴つづり・宙科そぴあが9月24日と…",
-      "description": "女性VTuberグループ「ホロライブ」、男性VTuberグループ「ホロスターズ」が所属するVTuber事務所「ホロライブプロダクション（hololive production）」の公式サイトです。",
+      "description": "女性VTuberグループ「ホロライブ」、男性VTuberグループ「ホロスターズ」が所属するVTuber事務所「ホロライブプロダクション（hololive production）」の公式サイトです。このページではsub11を掲載しています。",
       "publishedAt": "2026-09-18T09:48:30.000Z",
       "addedAt": "2026-09-18T13:59:10.166Z",
       "source": "電ファミニコゲーマー",
