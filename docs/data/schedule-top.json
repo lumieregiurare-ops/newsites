@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:00:32.576Z",
+  "updatedAt": "2026-10-30T08:30:35.408Z",
   "platforms": [
     {
       "id": "switch",
@@ -273,6 +273,31 @@
   ],
   "prereg": [
     {
+      "id": "4dcbdcd67f2b",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-30T08:20:00.000Z",
+      "releaseText": "2026年11月12日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "平成ヤンキー×転生×サバイバル！『ヤンキーサバイバー 転生したら平成ヤンキーだった件』事前登録開始、11月配信予定",
+      "description": "SEVEN NEXUS株式会社の「ヤンキーサバイバー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ヤンキーサバイバー」に似たゲームを見ることなどができます。",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
+      "appleId": "6778303469",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6778303469",
+        "preorder": true,
+        "releaseDate": "2026-11-12T08:00:00Z"
+      },
+      "trackId": "6778303469"
+    },
+    {
       "id": "3112eeac605e",
       "title": "MHO",
       "url": "https://game8.jp/preregistration/808921",
@@ -437,29 +462,33 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6758039748"
-    },
-    {
-      "id": "bc82a1364fe1",
-      "title": "冒険宿 なめこ亭",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
-      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-16T10:00:00.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『冒険宿 なめこ亭』×マルコメ「料亭の味」コラボ！ 「#なめコメ」投稿でカップみそ汁30個セットが当たる、10月15日から",
-      "description": "一皿の料理から始まる冒険。なめこたちが集う\"冒険宿\"を育てよう！",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-10-30T08:30:35.408Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月12日"
+    },
+    {
+      "at": "2026-10-30T08:30:35.408Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月12日"
+    },
     {
       "at": "2026-10-30T03:00:32.720Z",
       "type": "new",
@@ -503,30 +532,6 @@
       "title": "スタートダッシュアイテムセット",
       "url": "https://store-jp.nintendo.com/item/software/D70050000082336",
       "image": "https://img-eshop.cdn.nintendo.net/i/2d1cf130ae9b132403f979bb7808e371b2d833f11137e7df98a72c04478bde48.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "キャラクター衣装（３着）＆キャラクターエディットパーツセット（７点）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082333",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5e17dbabe01e4ec7d8006f2d6970fc7723576ac9b111b3e3c0fd28afaa1cb2fa.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "オリジナル兵装パーツセット（１３点）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082334",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a590f2c2f16db5d9d114ea6375392cc57b9093ab3f288763c15bf3c5d1af34da.jpg",
       "platforms": [
         "switch2"
       ],
