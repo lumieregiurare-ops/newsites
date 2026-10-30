@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T10:00:16.282Z",
+  "updatedAt": "2026-10-30T10:30:26.484Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1153,
+  "total": 1154,
   "regions": {
     "jp": 951,
-    "global": 202
+    "global": 203
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 248
+      "count": 249
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
     "Inside",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "27064593f12f",
+      "url": "https://am-expo.sega.jp/",
+      "host": "am-expo.sega.jp",
+      "region": "jp",
+      "title": "AMUSEMENT EXPO 2026",
+      "headline": "セガ フェイブ，「AMUSEMENT EXPO 2026」に出展するブースの情報第2弾を公開",
+      "description": "セガ フェイブ，「AMUSEMENT EXPO 2026」に出展するブースの情報第2弾を公開",
+      "publishedAt": "2026-10-30T10:09:08.000Z",
+      "addedAt": "2026-10-30T10:30:26.484Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261030037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "51584af824af",
       "url": "https://devlandmarketing.com/games-without-ai-showcase",
@@ -6166,7 +6193,7 @@
       "id": "0be39aa584f0",
       "url": "https://totalmayhemgames.com/",
       "host": "totalmayhemgames.com",
-      "region": "jp",
+      "region": "global",
       "title": "We Were Here Tomorrow",
       "headline": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
       "description": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
