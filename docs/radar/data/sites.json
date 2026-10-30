@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T22:00:16.851Z",
+  "updatedAt": "2026-10-30T22:30:18.603Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1159,
+  "total": 1160,
   "regions": {
-    "jp": 954,
+    "jp": 955,
     "global": 205
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 206
+      "count": 207
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 416
+      "count": 417
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 140
+      "count": 141
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "AppBank",
-    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0cd95f3b94a3",
+      "url": "https://raidenworks.jp/games/stellar-wing/",
+      "host": "raidenworks.jp",
+      "region": "jp",
+      "title": "STELLAR WING",
+      "headline": "200のパーツで機体を組み替え！宇宙戦闘機アクション『STELLAR WING』Steamにてリリース。敵母艦・宇宙生物を討伐",
+      "description": "4機編隊で敵母艦の砲塔・シールド発電機・コアを順に破壊する宇宙戦闘機シューター。200のパーツ、12のキャンペーン任務、10種の巨大機械生命体を狙う30の討伐、最大8人のオンライン協力討伐。2026年10月30日発売予定。",
+      "publishedAt": "2026-10-30T22:30:03.000Z",
+      "addedAt": "2026-10-30T22:30:18.603Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/31/174332.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://raidenworks.jp/og/stellar-wing.jpg"
+    },
     {
       "id": "046dced89fb8",
       "url": "https://www.charmgames.com/",
@@ -296,6 +326,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/30/174308.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/10/31/28519.html"
         }
       ],
       "tags": [
