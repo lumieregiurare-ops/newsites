@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T04:30:18.502Z",
+  "updatedAt": "2026-10-30T05:00:16.541Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1140,
+  "total": 1142,
   "regions": {
-    "jp": 938,
-    "global": 202
+    "jp": 941,
+    "global": 201
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 119
+      "count": 120
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 244
+      "count": 245
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 411
+      "count": 412
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 92
+      "count": 93
     },
     {
       "id": "media",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 138
+      "count": 139
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 356
+      "count": 357
     },
     {
       "id": "browser",
@@ -121,17 +121,79 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
-    "Game*Spark",
-    "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0f3c0470f7ee",
+      "url": "https://apps.apple.com/jp/app/id1632728038",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "うさぎしま",
+      "headline": "無人島にうさぎの楽園を作るまったり系ゲーム『うさぎしま』Steam版リリース！ スマホ版は全世界300万DL突破―PC向けには買い切りで登場",
+      "description": "studio rabbiko G.K.の「うさぎしま：癒しのうさぎゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「うさぎしま：癒しのうさぎゲーム」に似たゲームを見ることなどがで…",
+      "publishedAt": "2026-10-30T05:00:03.000Z",
+      "addedAt": "2026-10-30T05:00:16.541Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/30/174291.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/1d/8f/b21d8fbc-dd5a-0aa5-32aa-289e23daf2e9/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "fabea8efc033",
+      "url": "https://holosynq.hololivepro.com/",
+      "host": "holosynq.hololivepro.com",
+      "region": "jp",
+      "title": "ホロライブ ホロシンク",
+      "headline": "カバー、ファッションレーベル「ホロライブ ホロシンク」を発表！第1弾はVTuberグループ「FLOW GLOW」テーマのストリートウェア",
+      "description": "ホロライブプロダクションがプロデュースする新しいファッションレーベル「hololive - holoSynQ」。バーチャルカルチャーを日常着として毎日使える、ユースから大人世代の日常に自然に溶け込むアイテムを展開します。",
+      "publishedAt": "2026-10-30T04:45:03.000Z",
+      "addedAt": "2026-10-30T05:00:16.541Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/10/30/190087.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://holosynq.hololivepro.com/assets/img/common/og-image.png"
+    },
     {
       "id": "0f6434003e49",
       "url": "https://www.annapurnainteractive.com/ja/games/the-lost-wild",
@@ -23298,7 +23360,7 @@
       "id": "1e5540a622ce",
       "url": "https://cgdealers.com/",
       "host": "cgdealers.com",
-      "region": "global",
+      "region": "jp",
       "title": "Bullet Loop Repeat",
       "headline": "CGDealers Ltd / アクション・エンターテインメント · App Store 新着",
       "description": "Every real-world step powers your progress. Walk, craft, rebuild and survive.",
