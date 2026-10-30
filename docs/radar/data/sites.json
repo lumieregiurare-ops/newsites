@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T15:00:19.974Z",
+  "updatedAt": "2026-10-30T15:30:17.899Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1158,
+  "total": 1159,
   "regions": {
     "jp": 954,
-    "global": 204
+    "global": 205
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 415
+      "count": 416
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "046dced89fb8",
+      "url": "https://www.charmgames.com/",
+      "host": "charmgames.com",
+      "region": "global",
+      "title": "The Orphaned House",
+      "headline": "新作謎解きADV「The Orphaned House」が，ゲーム分野としては初となる“人間制作”の認証を取得。DLCやアプデでも基準順守を求められる",
+      "description": "新作謎解きADV「The Orphaned House」が，ゲーム分野としては初となる“人間制作”の認証を取得。DLCやアプデでも基準順守を求められる",
+      "publishedAt": "2026-10-30T15:15:43.000Z",
+      "addedAt": "2026-10-30T15:30:17.899Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/032/G103218/20261031001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "8bf61cf47bfe",
       "url": "https://kowloonsgate-suzaku.net/",
@@ -24370,7 +24397,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10302026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=10312026"
     },
     {
       "id": "33c0ff2f4868",
