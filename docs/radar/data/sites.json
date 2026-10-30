@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T10:30:26.484Z",
+  "updatedAt": "2026-10-30T11:00:17.204Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1154,
+  "total": 1155,
   "regions": {
     "jp": 951,
-    "global": 203
+    "global": 204
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 121
+      "count": 122
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 205
+      "count": 206
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 249
+      "count": 250
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 361
+      "count": 362
     },
     {
       "id": "browser",
@@ -132,6 +132,42 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bfcee5c00b17",
+      "url": "https://ryu-ga-gotoku-online.jp/",
+      "host": "ryu-ga-gotoku-online.jp",
+      "region": "jp",
+      "title": "龍が如く ONLINE",
+      "headline": "「龍が如く ONLINE」，8周年を記念したキャンペーンを開催",
+      "description": "『黄龍放浪記』最終章ついに配信！今はじめるとSSR郷田龍司必ずもらえる！『龍が如く ONLINE』公式サイト",
+      "publishedAt": "2026-10-30T10:34:49.000Z",
+      "addedAt": "2026-10-30T11:00:17.204Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/392/G039270/20261030041/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://ryu-ga-gotoku-online.jp/ogp.png"
+    },
     {
       "id": "27064593f12f",
       "url": "https://am-expo.sega.jp/",
@@ -22918,7 +22954,7 @@
       "id": "f57f2985f1c5",
       "url": "https://simzonegames.com/category/app-store/",
       "host": "simzonegames.com",
-      "region": "jp",
+      "region": "global",
       "title": "Mendazzle",
       "headline": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
       "description": "Muarij Mahmood Ramay / ロールプレイング · App Store 新着",
@@ -23550,7 +23586,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/96/6f/08966fe1-8f08-5ad8-1f1d-de79f0d0a7de/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/08/58/da08585e-4241-9fca-4041-69b84f5b3980/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9423ac293356",
