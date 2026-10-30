@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T05:30:15.807Z",
+  "updatedAt": "2026-10-30T06:00:16.211Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1143,
+  "total": 1144,
   "regions": {
-    "jp": 942,
+    "jp": 943,
     "global": 201
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 120
+      "count": 121
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 245
+      "count": 246
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 246
+      "count": 247
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 357
+      "count": 358
     },
     {
       "id": "browser",
@@ -121,17 +121,52 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "42babfa75905",
+      "url": "https://apps.apple.com/jp/app/id6479595079",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "セブンナイツ Re:BIRTH",
+      "headline": "『セブンナイツ Re:BIRTH』1.5周年前夜祭イベント開始！ 新キャラ「ジューダス」登場、「リー」覚醒も実装",
+      "description": "Netmarble Corporationの「セブンナイツ Re:BIRTH（セナリバ)」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「セブンナイツ Re:BIRTH（セナリバ)」に…",
+      "publishedAt": "2026-10-30T05:30:00.000Z",
+      "addedAt": "2026-10-30T06:00:16.211Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/30/game/3148707.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/6b/01/c66b01ea-f6ba-ecd9-81e9-fab4853f6c67/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "7823257060b3",
       "url": "https://www.ashesofthesingularity.com/",
