@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T23:00:35.851Z",
+  "updatedAt": "2026-10-30T23:30:30.133Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
       "appstoreSearch": 0,
-      "appstoreLookup": 0.4
+      "appstoreLookup": 0.8
     },
     "nintendo": 267,
     "steam": 300,
@@ -13,7 +13,7 @@
     "appstore": {
       "searched": 217,
       "matched": 133,
-      "preorder": 1,
+      "preorder": 2,
       "fromLists": 1,
       "unverified": 4,
       "lookedUp": 36
@@ -116,7 +116,7 @@
       "date": "2026-10-31",
       "dateText": "2026年10月31日",
       "sortKey": "2026-10-31",
-      "priority": 3.299,
+      "priority": 3.297,
       "platforms": [
         "pc"
       ],
@@ -132,7 +132,7 @@
       "date": "2026-10-31",
       "dateText": "2026年10月31日",
       "sortKey": "2026-10-31",
-      "priority": 3.191,
+      "priority": 3.19,
       "platforms": [
         "pc"
       ],
@@ -164,7 +164,7 @@
       "date": "2026-10-31",
       "dateText": "2026年10月31日",
       "sortKey": "2026-10-31",
-      "priority": 3.071,
+      "priority": 3.072,
       "platforms": [
         "pc"
       ],
@@ -196,7 +196,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.12,
+      "priority": 3.118,
       "platforms": [
         "pc"
       ],
@@ -212,7 +212,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.129,
+      "priority": 3.126,
       "platforms": [
         "pc"
       ],
@@ -228,7 +228,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.14,
+      "priority": 3.138,
       "platforms": [
         "pc"
       ],
@@ -244,7 +244,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.108,
+      "priority": 3.106,
       "platforms": [
         "pc"
       ],
@@ -260,7 +260,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.126,
+      "priority": 3.124,
       "platforms": [
         "pc"
       ],
@@ -276,7 +276,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.133,
+      "priority": 3.1310000000000002,
       "platforms": [
         "pc"
       ],
@@ -287,28 +287,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "b77fd58c0c65",
-      "title": "Dead Last",
-      "date": null,
-      "dateText": "2026年10月",
-      "sortKey": "2026-10-32",
-      "priority": 3.072,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/5323210/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323210/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "a5b884b6c0ea",
       "title": "Degen Idle",
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.134,
+      "priority": 3.132,
       "platforms": [
         "pc"
       ],
@@ -340,7 +324,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.114,
+      "priority": 3.112,
       "platforms": [
         "pc"
       ],
@@ -351,12 +335,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "203b7fe1a074",
+      "title": "Geostrategy",
+      "date": null,
+      "dateText": "2026年10月",
+      "sortKey": "2026-10-32",
+      "priority": 3.14,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5338610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "38711fbd94c2",
       "title": "HEAVENBREAK",
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.09,
+      "priority": 3.089,
       "platforms": [
         "pc"
       ],
@@ -367,28 +367,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "364453ab17fe",
-      "title": "INTUS",
-      "date": null,
-      "dateText": "2026年10月",
-      "sortKey": "2026-10-32",
-      "priority": 3.1,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4699020/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4699020/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "e0c73dfef818",
       "title": "LINETAIN",
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.121,
+      "priority": 3.1189999999999998,
       "platforms": [
         "pc"
       ],
@@ -420,7 +404,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.115,
+      "priority": 3.113,
       "platforms": [
         "pc"
       ],
@@ -436,7 +420,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.128,
+      "priority": 3.127,
       "platforms": [
         "pc"
       ],
@@ -452,7 +436,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.135,
+      "priority": 3.133,
       "platforms": [
         "pc"
       ],
@@ -468,7 +452,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.132,
+      "priority": 3.13,
       "platforms": [
         "pc"
       ],
@@ -500,7 +484,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.123,
+      "priority": 3.121,
       "platforms": [
         "pc"
       ],
@@ -516,7 +500,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.1390000000000002,
+      "priority": 3.137,
       "platforms": [
         "pc"
       ],
@@ -548,7 +532,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.087,
+      "priority": 3.086,
       "platforms": [
         "pc"
       ],
@@ -564,7 +548,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.109,
+      "priority": 3.107,
       "platforms": [
         "pc"
       ],
@@ -580,7 +564,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.112,
+      "priority": 3.11,
       "platforms": [
         "pc"
       ],
@@ -612,7 +596,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.127,
+      "priority": 3.125,
       "platforms": [
         "pc"
       ],
@@ -628,7 +612,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.122,
+      "priority": 3.12,
       "platforms": [
         "pc"
       ],
@@ -644,7 +628,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.098,
+      "priority": 3.097,
       "platforms": [
         "pc"
       ],
@@ -660,7 +644,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.116,
+      "priority": 3.114,
       "platforms": [
         "pc"
       ],
@@ -692,7 +676,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.118,
+      "priority": 3.117,
       "platforms": [
         "pc"
       ],
@@ -708,7 +692,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.105,
+      "priority": 3.102,
       "platforms": [
         "pc"
       ],
@@ -724,7 +708,7 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.125,
+      "priority": 3.123,
       "platforms": [
         "pc"
       ],
@@ -772,12 +756,28 @@
       "date": null,
       "dateText": "2026年10月",
       "sortKey": "2026-10-32",
-      "priority": 3.1310000000000002,
+      "priority": 3.129,
       "platforms": [
         "pc"
       ],
       "url": "https://store.steampowered.com/app/4021100/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4021100/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "8044bca434d9",
+      "title": "書界：AI対話ストーリーゲーム",
+      "date": null,
+      "dateText": "2026年10月",
+      "sortKey": "2026-10-32",
+      "priority": 3.1390000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5109340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109340/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -820,7 +820,7 @@
       "date": "2026-11-01",
       "dateText": "2026年11月1日",
       "sortKey": "2026-11-01",
-      "priority": 3.113,
+      "priority": 3.111,
       "platforms": [
         "pc"
       ],
@@ -836,7 +836,7 @@
       "date": "2026-11-01",
       "dateText": "2026年11月1日",
       "sortKey": "2026-11-01",
-      "priority": 3.081,
+      "priority": 3.08,
       "platforms": [
         "pc"
       ],
@@ -868,7 +868,7 @@
       "date": "2026-11-01",
       "dateText": "2026年11月1日",
       "sortKey": "2026-11-01",
-      "priority": 3.088,
+      "priority": 3.087,
       "platforms": [
         "pc"
       ],
@@ -900,7 +900,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.106,
+      "priority": 3.1,
       "platforms": [
         "pc"
       ],
@@ -948,7 +948,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.045,
+      "priority": 3.044,
       "platforms": [
         "pc"
       ],
@@ -964,7 +964,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.215,
+      "priority": 3.218,
       "platforms": [
         "pc"
       ],
@@ -1076,7 +1076,7 @@
       "date": "2026-11-02",
       "dateText": "2026年11月2日",
       "sortKey": "2026-11-02",
-      "priority": 3.089,
+      "priority": 3.09,
       "platforms": [
         "pc"
       ],
@@ -1158,7 +1158,7 @@
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
-      "priority": 3.267,
+      "priority": 3.271,
       "platforms": [
         "pc"
       ],
@@ -1368,7 +1368,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.192,
+      "priority": 3.181,
       "platforms": [
         "pc"
       ],
@@ -1464,7 +1464,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.076,
+      "priority": 3.075,
       "platforms": [
         "pc"
       ],
@@ -1604,7 +1604,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.1189999999999998,
+      "priority": 3.116,
       "platforms": [
         "pc"
       ],
@@ -2344,7 +2344,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.086,
+      "priority": 3.088,
       "platforms": [
         "pc"
       ],
@@ -3048,7 +3048,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.11,
+      "priority": 3.109,
       "platforms": [
         "pc"
       ],
@@ -3166,7 +3166,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.019,
+      "priority": 3.018,
       "platforms": [
         "pc"
       ],
@@ -3246,7 +3246,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.08,
+      "priority": 3.081,
       "platforms": [
         "pc"
       ],
@@ -3328,7 +3328,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.102,
+      "priority": 3.105,
       "platforms": [
         "pc"
       ],
@@ -3570,7 +3570,7 @@
       "date": "2026-11-12",
       "dateText": "2026年11月12日",
       "sortKey": "2026-11-12",
-      "priority": 3.097,
+      "priority": 3.098,
       "platforms": [
         "pc"
       ],
@@ -3586,7 +3586,7 @@
       "date": "2026-11-12",
       "dateText": "2026年11月12日",
       "sortKey": "2026-11-12",
-      "priority": 3.2640000000000002,
+      "priority": 3.285,
       "platforms": [
         "pc"
       ],
@@ -4425,7 +4425,7 @@
       "date": "2026-11-15",
       "dateText": "2026年11月15日",
       "sortKey": "2026-11-15",
-      "priority": 3.044,
+      "priority": 3.045,
       "platforms": [
         "pc"
       ],
@@ -5445,7 +5445,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.124,
+      "priority": 3.122,
       "platforms": [
         "pc"
       ],
@@ -5815,7 +5815,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.018,
+      "priority": 3.019,
       "platforms": [
         "pc"
       ],
@@ -5831,7 +5831,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.075,
+      "priority": 3.076,
       "platforms": [
         "pc"
       ],
@@ -8028,7 +8028,6 @@
       "description": "あなたの知識がド派手な一撃に変わる！クイズアクションRPG ウィズジェネレーションの公式サイトです。",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/036/G103653/20260912005/",
-      "appleId": "",
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6761871323",
         "preorder": true,
