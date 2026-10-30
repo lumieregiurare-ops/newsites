@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T02:30:17.626Z",
+  "updatedAt": "2026-10-30T03:00:16.897Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1134,
+  "total": 1136,
   "regions": {
-    "jp": 932,
+    "jp": 934,
     "global": 202
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 407
+      "count": 408
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 91
+      "count": 92
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 245
+      "count": 246
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 167
+      "count": 168
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 355
+      "count": 356
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "App Store",
-    "電ファミニコゲーマー",
     "AppBank",
+    "4Gamer",
+    "電ファミニコゲーマー",
+    "App Store",
     "Game*Spark",
     "Inside",
     "GameBusiness.jp",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bb243fb04a63",
+      "url": "https://apps.apple.com/jp/app/id6751259391",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "EXE ARENA",
+      "headline": "『EXE ARENA』が10月30日12時に正式サービス開始！ アプリは10月29日からダウンロード可能",
+      "description": "Bountykinds Solutions Inc.の「Exe Arena」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Exe Arena」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-30T02:30:00.000Z",
+      "addedAt": "2026-10-30T03:00:16.897Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/30/game/3148377.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/2e/5cce2e21-3b16-1466-d15b-41b87528bcd1/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "ee3416ca1a71",
       "url": "https://www.codeofthesavage.com/",
@@ -159,6 +193,33 @@
       "platforms": [],
       "points": null,
       "image": "https://static1.squarespace.com/static/5b00c79d3e2d09c2f95e2d4d/t/69cb9de0ba79f443cdf42095/1774951904429/Title-col.png?format=1500w"
+    },
+    {
+      "id": "666758ea2070",
+      "url": "https://www.kojimaproductions.jp/ja/deathstranding-animation-series-announcement",
+      "host": "kojimaproductions.jp",
+      "region": "jp",
+      "title": "デススト",
+      "headline": "『デススト』完全新作アニメーションシリーズ『DEATH STRANDING ISOLATIONS』最新映像が公開！2027年にディズニープラス「スター」にて独占配信",
+      "description": "Kojima Productions",
+      "publishedAt": "2026-10-30T02:04:58.000Z",
+      "addedAt": "2026-10-30T03:00:16.897Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2610302a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.kojimaproductions.jp/sites/default/files/2025-11/deathstrandingisolations_teaservisual_jpn16x9.jpg"
     },
     {
       "id": "258e3bf17e3e",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:30:39.185Z",
+  "updatedAt": "2026-10-30T03:00:32.720Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,23 @@
     }
   ],
   "releases": [
+    {
+      "id": "b45f95addd22",
+      "title": "EXE ARENA",
+      "date": "2026-10-30",
+      "dateText": "2026年10月30日",
+      "sortKey": "2026-10-30",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6751259391",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/2e/5cce2e21-3b16-1466-d15b-41b87528bcd1/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "『EXE ARENA』が10月30日12時に正式サービス開始！ アプリは10月29日からダウンロード可能",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148377.php"
+    },
     {
       "id": "6a4ed2e6e764",
       "title": "ダンガンロンパ",
@@ -252,21 +269,6 @@
       "headline": "『フットボールマネージャー27』11月11日に発売決定。地元クラブから世界有数の名門まで、好きなサッカーチームの監督になれる経営シミュレーションゲーム最新作",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261001n"
-    },
-    {
-      "id": "ca96f92ba2e5",
-      "title": "ポケモン",
-      "date": "2026-11-12",
-      "dateText": "2026年11月12日",
-      "sortKey": "2026-11-12",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.pokemon.co.jp/ex/omaroke/",
-      "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg",
-      "maker": "",
-      "headline": "『ポケモン』新作ボドゲ「お前、もしかしてロケット団？」11月12日に発売決定！TVCMには「アニポケ」のロケット団でおなじみ林原めぐみさん、三木眞一郎さん、犬山イヌコさんが声で出演",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610152g"
     }
   ],
   "prereg": [
@@ -459,6 +461,18 @@
   ],
   "changes": [
     {
+      "at": "2026-10-30T03:00:32.720Z",
+      "type": "new",
+      "label": "新規",
+      "title": "EXE ARENA",
+      "url": "https://apps.apple.com/jp/app/id6751259391",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/2e/5cce2e21-3b16-1466-d15b-41b87528bcd1/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月30日"
+    },
+    {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
       "label": "新規",
@@ -513,18 +527,6 @@
       "title": "オリジナル兵装パーツセット（１３点）",
       "url": "https://store-jp.nintendo.com/item/software/D70050000082334",
       "image": "https://img-eshop.cdn.nintendo.net/i/a590f2c2f16db5d9d114ea6375392cc57b9093ab3f288763c15bf3c5d1af34da.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "オフィシャルアートブック（デジタル版）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082332",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38a8b367152766855987e7c422506fdebfad9ad28905ac64c9351242e7c3b76c.jpg",
       "platforms": [
         "switch2"
       ],

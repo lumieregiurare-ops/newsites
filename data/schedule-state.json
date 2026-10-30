@@ -3093,6 +3093,24 @@
     "ゼルダの伝説 40周年 アニバーサリーエディション": {
       "at": "2026-10-30T00:26:20.200Z",
       "entry": null
+    },
+    "EXE ARENA": {
+      "at": "2026-10-30T03:00:33.018Z",
+      "entry": {
+        "trackId": "6751259391",
+        "title": "Exe Arena",
+        "artist": "Bountykinds Solutions Inc.",
+        "genres": [
+          "カード",
+          "ストラテジー"
+        ],
+        "releaseDate": "2026-10-29T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6751259391",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/ab/1c48abf4-3a9f-373f-4039-35588a42362b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -51707,21 +51725,73 @@
       "sortKey": "2026-10-30",
       "prereg": false,
       "firstSeen": "2026-10-30T02:30:39.185Z"
+    },
+    "exearena": {
+      "title": "EXE ARENA",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "inthatcase...": {
+      "title": "In that case...",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "jimothy'sadventure": {
+      "title": "Jimothy's Adventure",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "kickthewallet": {
+      "title": "Kick The Wallet",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "knick": {
+      "title": "Knick",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "lifelines": {
+      "title": "Lifelines",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "vorbitasmrdemo": {
+      "title": "VOrbit ASMR Demo",
+      "dateText": "2026年10月30日",
+      "date": "2026-10-30",
+      "sortKey": "2026-10-30",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
+    },
+    "reelrisk": {
+      "title": "Reel Risk",
+      "dateText": "2026年10月",
+      "date": null,
+      "sortKey": "2026-10-32",
+      "prereg": false,
+      "firstSeen": "2026-10-30T03:00:32.720Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-09-30T16:00:45.730Z",
-      "type": "new",
-      "label": "新規",
-      "title": "虚妄の箱庭 Cubic Cosmos",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000132788",
-      "image": "https://img-eshop.cdn.nintendo.net/i/dbb63d9aa0ba3ce93b3ab9d2abd31bf4d57b6b5316af607aedffb2fa46baa34a.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月15日"
-    },
     {
       "at": "2026-09-30T16:00:45.730Z",
       "type": "new",
@@ -56474,6 +56544,18 @@
         "switch2"
       ],
       "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-30T03:00:32.720Z",
+      "type": "new",
+      "label": "新規",
+      "title": "EXE ARENA",
+      "url": "https://apps.apple.com/jp/app/id6751259391",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/2e/5cce2e21-3b16-1466-d15b-41b87528bcd1/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年10月30日"
     }
   ],
   "initialized": true,
