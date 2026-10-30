@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T00:00:18.532Z",
+  "updatedAt": "2026-10-30T00:26:02.518Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1130,
+  "total": 1132,
   "regions": {
-    "jp": 930,
+    "jp": 932,
     "global": 200
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 117
+      "count": 118
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 405
+      "count": 406
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 90
+      "count": 91
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 166
+      "count": 167
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 46
+      "count": 47
     },
     {
       "id": "ps",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 353
+      "count": 354
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
+    "Game*Spark",
     "4Gamer",
     "App Store",
     "Inside",
@@ -132,6 +132,69 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3b60981d5e71",
+      "url": "https://pubg.com/ja/main",
+      "host": "pubg.com",
+      "region": "jp",
+      "title": "PUBG",
+      "headline": "『PUBG』実写ドラマシリーズ化が決定！企画・制作が「Netflix」にて進行中",
+      "description": "PUBG: BATTLEGROUNDSは、100人のプレイヤーが対戦するバトルロイヤルシューターです。マップ上にある武器やアイテムを駆使して最後の生存者となりましょう。今すぐ無料プレイ！",
+      "publishedAt": "2026-10-30T00:26:02.518Z",
+      "addedAt": "2026-10-30T00:26:02.518Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1672738"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg"
+    },
+    {
+      "id": "74fe35ab3303",
+      "url": "https://apps.apple.com/jp/app/id6736725704",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ゼルダの伝説 40周年 アニバーサリーエディション",
+      "headline": "「ゼルダの伝説 40周年 アニバーサリーエディション」のSwitch 2本体や周辺機器が10月29日発売！",
+      "description": "Nintendo Co., Ltd.の「Nintendo Today!」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Nintendo Today!」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-10-30T00:10:00.000Z",
+      "addedAt": "2026-10-30T00:26:02.518Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/30/game/3148255.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "switch2",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/c0/6b/afc06b98-e819-edae-154d-938ca5172d31/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "20737373163d",
       "url": "https://duneawakening.com/",
@@ -29737,7 +29800,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://one-or-eight.co.jp/img/logo.svg"
+      "image": "https://one-or-eight.co.jp/WRT/assets/img/imb_kv_bg_02.png"
     },
     {
       "id": "69321704808a",
