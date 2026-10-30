@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-30T02:00:17.093Z",
+  "updatedAt": "2026-10-30T02:30:17.626Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1133,
+  "total": 1134,
   "regions": {
-    "jp": 933,
-    "global": 200
+    "jp": 932,
+    "global": 202
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 135
+      "count": 136
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 406
+      "count": 407
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "4Gamer",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ee3416ca1a71",
+      "url": "https://www.codeofthesavage.com/",
+      "host": "codeofthesavage.com",
+      "region": "global",
+      "title": "ウルティマ",
+      "headline": "「ウルティマ」に影響を受けたRPG「Code of The Savage」，ウィッシュリスト3万件突破。体験版を20時間以上遊ぶ猛者も現れる",
+      "description": "An Ultima-inspired dark fantasy open-world RPG for Windows. Explore a handcrafted world with living NPC routines. Play …",
+      "publishedAt": "2026-10-30T02:05:21.000Z",
+      "addedAt": "2026-10-30T02:30:17.626Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105435/20261030004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/5b00c79d3e2d09c2f95e2d4d/t/69cb9de0ba79f443cdf42095/1774951904429/Title-col.png?format=1500w"
+    },
     {
       "id": "258e3bf17e3e",
       "url": "https://apps.apple.com/jp/app/id6783953753",
@@ -932,7 +960,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/6d/6c/bf6d6c77-5b0b-0d66-ea26-5a6f8b82c15d/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/38/54483848-f540-d90b-b63f-d9b956e64229/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8bc9d191e40b",
@@ -26232,7 +26260,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/52/04/8b52044e-4ef8-181e-2c9a-53e110cfbec3/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/cd/7d/d1cd7d4c-53de-198e-af6c-0f03898f26d2/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "627de1358f07",
@@ -27264,7 +27292,7 @@
       "region": "jp",
       "title": "アソビ★まわり隊！",
       "headline": "ホロライブの新ユニット「アソビ★まわり隊！」のメンバーが公開。「FLOW GLOW」以来およそ2年ぶりの新ユニットで、百灯キョーコ・熱千めら・鈴鳴つづり・宙科そぴあが9月24日と…",
-      "description": "女性VTuberグループ「ホロライブ」、男性VTuberグループ「ホロスターズ」が所属するVTuber事務所「ホロライブプロダクション（hololive production）」の公式サイトです。このページではsub11を掲載しています。",
+      "description": "女性VTuberグループ「ホロライブ」、男性VTuberグループ「ホロスターズ」が所属するVTuber事務所「ホロライブプロダクション（hololive production）」の公式サイトです。",
       "publishedAt": "2026-09-18T09:48:30.000Z",
       "addedAt": "2026-09-18T13:59:10.166Z",
       "source": "電ファミニコゲーマー",
@@ -27468,7 +27496,7 @@
       "id": "41738ddbfdbc",
       "url": "https://www.kemuriworld.com/home-jp/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
       "description": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
