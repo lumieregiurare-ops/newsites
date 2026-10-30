@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T03:00:16.897Z",
+  "updatedAt": "2026-10-30T03:30:15.713Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1136,
+  "total": 1138,
   "regions": {
-    "jp": 934,
+    "jp": 936,
     "global": 202
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 118
+      "count": 119
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 243
+      "count": 244
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 408
+      "count": 409
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 168
+      "count": 169
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b7f75d7f7c49",
+      "url": "https://www.residentevil.com/veronica/ja-jp/",
+      "host": "residentevil.com",
+      "region": "jp",
+      "title": "THE WORLD OF BIOHAZARD 30周年展",
+      "headline": "「THE WORLD OF BIOHAZARD 30周年展」発表会＆内覧会レポート。ドミトレスクの座像や等身大ウェスカーなど，迫力ある立体展示と趣向を凝らした演出が満載",
+      "description": "『バイオハザード RE:ベロニカ』は、2000年に発売された『バイオハザード コード：ベロニカ』を原作としたリメイク作品。原作での“体験“を大切にしながらも現代のプレイフィール、再構成されたストーリー、最新のグラフィックにより狂気と策謀、…",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "addedAt": "2026-10-30T03:30:15.713Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/013/G101397/20261030002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.residentevil.com/veronica/assets/images/share_ja-jp.jpg"
+    },
     {
       "id": "bb243fb04a63",
       "url": "https://apps.apple.com/jp/app/id6751259391",
@@ -492,6 +522,33 @@
       "platforms": [],
       "points": null,
       "image": "https://cgworld.jp/special/gamegraphicsjam/vol01/img/ogp.webp"
+    },
+    {
+      "id": "d587c357f33a",
+      "url": "https://p.eagate.573.jp/game/jubeat/beyond/",
+      "host": "p.eagate.573.jp",
+      "region": "jp",
+      "title": "jubeat",
+      "headline": "「jubeat」シリーズ最新作「jubeat U'nit」，鋭意制作中。「アミューズメント エキスポ 2026」で試遊可能",
+      "description": "もっとあそべる、キミのjubeat",
+      "publishedAt": "2026-10-29T10:16:19.000Z",
+      "addedAt": "2026-10-30T03:30:15.713Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105425/20261029042/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://p.eagate.573.jp/game/jubeat/beyond/top_banner/jubeat_sns.jpg"
     },
     {
       "id": "a780d94d24e4",
@@ -12623,6 +12680,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/036/G103670/20261010009/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/30/174285.html"
         }
       ],
       "tags": [
