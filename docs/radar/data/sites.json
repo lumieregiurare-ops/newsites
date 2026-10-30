@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-30T14:00:19.166Z",
+  "updatedAt": "2026-10-30T14:30:18.396Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1157,
+  "total": 1158,
   "regions": {
-    "jp": 953,
+    "jp": 954,
     "global": 204
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 95
+      "count": 96
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 252
+      "count": 253
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 363
+      "count": 364
     },
     {
       "id": "browser",
@@ -2776,6 +2776,40 @@
       ],
       "points": null,
       "image": "https://doghowl-site.fly.dev/og.png"
+    },
+    {
+      "id": "791edb3d66e0",
+      "url": "https://lab.global-gear.jp/",
+      "host": "lab.global-gear.jp",
+      "region": "jp",
+      "title": "もぐもぐ くしもり",
+      "headline": "GlobalGearLab Co. Ltd. / カジュアル・ファミリー · App Store 新着",
+      "description": "株式会社グローバルギアラボの会社概要とお問い合わせ窓口です。スマートフォンアプリ開発、国内外のアプリパブリッシング、ゲーム関連受託開発を手がけています。",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "addedAt": "2026-10-30T14:30:18.396Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6822588273"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "ファミリー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://lab.global-gear.jp/assets/img/icon-512.png"
     },
     {
       "id": "6a3740969365",
