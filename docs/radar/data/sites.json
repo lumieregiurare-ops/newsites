@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T03:00:17.007Z",
+  "updatedAt": "2026-10-31T03:30:16.496Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1160,
+  "total": 1161,
   "regions": {
-    "jp": 955,
+    "jp": 956,
     "global": 205
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 121
+      "count": 122
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 206
+      "count": 207
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 250
+      "count": 251
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 365
+      "count": 366
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Game*Spark",
     "4Gamer",
-    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "App Store",
@@ -132,6 +132,42 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "077b9ec1a657",
+      "url": "https://apps.apple.com/jp/app/id981760421",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ビーナスイレブンびびっど！",
+      "headline": "『ビーナスイレブンびびっど！』11周年キャンペーン詳報！ 新規衣装スカウトが11月4日から開催",
+      "description": "amazing Inc.の「ビーナスイレブンびびっど！」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ビーナスイレブンびびっど！」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-31T03:10:00.000Z",
+      "addedAt": "2026-10-31T03:30:16.496Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/31/game/3149833.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "特設サイト",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/a7/b4/77a7b4dc-7b65-6e28-4bd1-12e9ed2b5b67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg"
+    },
     {
       "id": "0cd95f3b94a3",
       "url": "https://raidenworks.jp/games/stellar-wing/",
