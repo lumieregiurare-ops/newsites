@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T05:00:16.444Z",
+  "updatedAt": "2026-10-31T05:30:15.969Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1161,
+  "total": 1162,
   "regions": {
     "jp": 956,
-    "global": 205
+    "global": 206
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 170
+      "count": 171
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "Game*Spark",
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3c35253deb89",
+      "url": "https://www.soulframe.com/ja",
+      "host": "soulframe.com",
+      "region": "jp",
+      "title": "Warframe",
+      "headline": "誰でも参加可能！『Warframe』開発陣の新作ファンタジーARPG『Soulframe』オープンプレリュード11月6日開始",
+      "description": "Digital Extremesがお届けする、新プロジェクト。行き進む道を共にし、素晴らしい世界を創造しましょう。",
+      "publishedAt": "2026-10-31T05:21:58.000Z",
+      "addedAt": "2026-10-31T05:30:15.969Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/31/174335.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www-static.soulframe.com/images/opengraph-image6.jpg"
+    },
     {
       "id": "077b9ec1a657",
       "url": "https://apps.apple.com/jp/app/id981760421",
@@ -23958,7 +23985,7 @@
       "id": "1e5540a622ce",
       "url": "https://cgdealers.com/",
       "host": "cgdealers.com",
-      "region": "jp",
+      "region": "global",
       "title": "Bullet Loop Repeat",
       "headline": "CGDealers Ltd / アクション・エンターテインメント · App Store 新着",
       "description": "Every real-world step powers your progress. Walk, craft, rebuild and survive.",
@@ -35177,6 +35204,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610313l"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/31/174334.html"
         }
       ],
       "tags": [
