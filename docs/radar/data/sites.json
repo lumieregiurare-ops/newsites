@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T11:30:15.551Z",
+  "updatedAt": "2026-10-31T12:00:18.807Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1164,
+  "total": 1165,
   "regions": {
-    "jp": 958,
+    "jp": 959,
     "global": 206
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 122
+      "count": 123
     },
     {
       "id": "campaign",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 96
+      "count": 97
     },
     {
       "id": "media",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "efdcd09ba482",
+      "url": "https://latent-one.co.jp/",
+      "host": "latent-one.co.jp",
+      "region": "jp",
+      "title": "プロセカ",
+      "headline": "『プロセカ』開発・運営に携わるColorful Paletteがアニメの企画・制作・プロデュースを行う子会社「株式会社LATENT ONE」を設立。同社が手がけた初の作品として『…",
+      "description": "LATENT ONEは「人生最高の1本となるアニメーションを新しい力で届け続ける」アニメ制作スタジオです。MVやオリジナル作品を手がけます。",
+      "publishedAt": "2026-10-31T11:58:10.000Z",
+      "addedAt": "2026-10-31T12:00:18.807Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261031q"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://latent-one.co.jp/assets/img/common/ogp.png"
+    },
     {
       "id": "c1497ec7755a",
       "url": "https://play.google.com/store/apps/details?id=com.stove.epic7.google",
