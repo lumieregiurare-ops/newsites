@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T09:00:17.565Z",
+  "updatedAt": "2026-10-31T09:30:17.454Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1163,
+  "total": 1164,
   "regions": {
-    "jp": 957,
+    "jp": 958,
     "global": 206
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 418
+      "count": 419
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 141
+      "count": 142
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 366
+      "count": 367
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "AppBank",
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c1497ec7755a",
+      "url": "https://play.google.com/store/apps/details?id=com.stove.epic7.google",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "エピックセブン",
+      "headline": "『エピックセブン』がSteamで正式サービス開始！ 新サーバー「ファウンドリ」もオープン",
+      "description": "PLAY THE ANIMATION 己の手で紡がれる至高のアニメRPG エピックセブン",
+      "publishedAt": "2026-10-31T09:30:00.000Z",
+      "addedAt": "2026-10-31T09:30:17.454Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/31/game/3150147.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/wL6DsSkRWI0TxT2ikzBXGvpp1w1L1IXqV5LlUUhhuVS3angPMPksWTzlDmwrcuX3Pd7Ei63kvv55Q5JyvM9_GME=s0-br30"
+    },
     {
       "id": "0af8de24b811",
       "url": "https://jp.finalfantasyxiv.com/lodestone/",
