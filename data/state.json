@@ -31653,11 +31653,12 @@
       "points": null,
       "image": "https://umamusume-miho.jp/assets/img/ogp.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-30T18:30:18.593Z",
+      "checkedAt": "2026-10-31T19:00:18.377Z",
       "ogFetchedAt": "2026-10-30T18:30:18.593Z",
       "ogDescription": true,
       "regionDetected": true,
-      "platforms": []
+      "platforms": [],
+      "metaError": "This operation was aborted"
     },
     {
       "id": "3bc41dcfbd96",
@@ -31697,8 +31698,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-30T18:30:18.593Z",
-      "ogFetchedAt": "2026-10-30T18:30:18.593Z",
+      "checkedAt": "2026-10-31T19:00:18.377Z",
+      "ogFetchedAt": "2026-10-31T19:00:18.377Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -31744,8 +31745,8 @@
       "points": null,
       "image": "https://upload-static.hoyoverse.com/hk4e/upload/fb/common.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-30T18:30:18.593Z",
-      "ogFetchedAt": "2026-10-30T18:30:18.593Z",
+      "checkedAt": "2026-10-31T19:00:18.377Z",
+      "ogFetchedAt": "2026-10-31T19:00:18.377Z",
       "ogDescription": true,
       "platforms": []
     },
@@ -32444,8 +32445,8 @@
       "points": null,
       "image": "https://www.sunrise-inc.co.jp/50th/assets/og/ogp3.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-10-30T18:30:18.593Z",
-      "ogFetchedAt": "2026-10-30T18:30:18.593Z",
+      "checkedAt": "2026-10-31T19:00:18.377Z",
+      "ogFetchedAt": "2026-10-31T19:00:18.377Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -51415,7 +51416,7 @@
       "headline": "「勝利の女神：NIKKE」，京都コラボ第2弾の特別アニメーションPVとテーマソングを公開。JR東海「推し旅」コラボ第2弾は9月11日に開始",
       "description": "スマートフォン向けアプリゲーム、背中で魅せるガンガールRPG『勝利の女神：NIKKE』の公式サイトです。11月4日正式リリース！",
       "article": {
-        "prereg": true,
+        "prereg": false,
         "preregEnded": false,
         "count": "",
         "reward": "",
