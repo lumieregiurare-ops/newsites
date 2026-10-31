@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T06:00:15.901Z",
+  "updatedAt": "2026-10-31T06:30:16.202Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1162,
+  "total": 1163,
   "regions": {
-    "jp": 956,
+    "jp": 957,
     "global": 206
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 138
+      "count": 139
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 417
+      "count": 418
     },
     {
       "id": "indie",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0af8de24b811",
+      "url": "https://jp.finalfantasyxiv.com/lodestone/",
+      "host": "jp.finalfantasyxiv.com",
+      "region": "jp",
+      "title": "FF14",
+      "headline": "『FF14』新拡張「白銀のワンダラー」は2027年2月23日発売！予約開始は11月4日から",
+      "description": "FINAL FANTASY XIV公式プレイヤーズサイト「The Lodestone」です。",
+      "publishedAt": "2026-10-31T06:15:03.000Z",
+      "addedAt": "2026-10-31T06:30:16.202Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/10/31/174338.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lds-img.finalfantasyxiv.com/h/B/y8FVep6qdB_JEGEpnUDEbYnMgM.png"
+    },
     {
       "id": "3c35253deb89",
       "url": "https://www.soulframe.com/ja",
