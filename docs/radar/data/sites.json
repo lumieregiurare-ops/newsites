@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-31T19:00:18.377Z",
+  "updatedAt": "2026-10-31T19:30:21.512Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1166,
+  "total": 1167,
   "regions": {
-    "jp": 959,
+    "jp": 960,
     "global": 207
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 207
+      "count": 208
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 251
+      "count": 252
     },
     {
       "id": "release",
@@ -125,10 +125,10 @@
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
+    "Appliv Games",
     "Inside",
     "App Store",
     "GameBusiness.jp",
-    "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
@@ -676,6 +676,34 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "b7884c8204b7",
+      "url": "https://techcronoss.com/",
+      "host": "techcronoss.com",
+      "region": "jp",
+      "title": "テクロノス",
+      "headline": "DMM GAMES『テクロノス』にて「シャルン」が新登場！ さらにイベントアトラクション「あつめて！ハロウィンキャンディ」も開催中！",
+      "description": "DMM GAMES×テクロス 4年ぶりの最新作！『神姫PROJECT』『あやかしランブル！』『れじぇくろ！』の魅力的なキャラたちが大集合！クロスヒロインRPG！",
+      "publishedAt": "2026-10-30T07:26:23.000Z",
+      "addedAt": "2026-10-31T19:30:21.512Z",
+      "source": "Appliv Games",
+      "sources": [
+        {
+          "name": "Appliv Games",
+          "url": "https://games.app-liv.jp/archives/592769"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://techcronoss.com/wordpress/wp-content/themes/techcronoss_v0/assets/images/common/ogp.jpg?v=3"
     },
     {
       "id": "7cf1741e36df",
