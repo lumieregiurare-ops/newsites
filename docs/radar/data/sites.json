@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T14:28:39.033Z",
+  "updatedAt": "2026-10-31T15:00:15.701Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1165,
+  "total": 1166,
   "regions": {
     "jp": 959,
-    "global": 206
+    "global": 207
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 419
+      "count": 420
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 253
+      "count": 254
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 367
+      "count": 368
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Inside",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eaaa257f512f",
+      "url": "https://apps.apple.com/us/app/id6822588273",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "もぐもぐ くしもり",
+      "headline": "串をくっつけて幻のレシピを目指せ！ マージパズル×お店経営『もぐもぐ くしもり』配信開始",
+      "description": "Download Nom nom Kushimori by GlobalGearLab Co. Ltd. on the App Store. See screenshots, ratings and reviews, user tips,…",
+      "publishedAt": "2026-10-31T14:30:00.000Z",
+      "addedAt": "2026-10-31T15:00:15.701Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/10/31/game/3150364.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/cd/66/b5cd6606-b28a-570a-09ef-8e099816b039/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "efdcd09ba482",
       "url": "https://latent-one.co.jp/",
