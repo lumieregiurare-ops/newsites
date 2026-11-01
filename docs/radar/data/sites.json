@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-01T04:00:16.390Z",
+  "updatedAt": "2026-11-01T04:30:16.404Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1167,
+  "total": 1168,
   "regions": {
     "jp": 961,
-    "global": 206
+    "global": 207
   },
   "categories": [
     {
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 22
+      "count": 23
     },
     {
       "id": "browser",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 254
+      "count": 255
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 141
+      "count": 142
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 366
+      "count": 367
     },
     {
       "id": "browser",
@@ -121,17 +121,52 @@
     }
   ],
   "sources": [
+    "App Store",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Appliv Games",
     "Inside",
-    "App Store",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "63b7338b5649",
+      "url": "https://rikegames.com/",
+      "host": "rikegames.com",
+      "region": "global",
+      "title": "Bills Must Be Paid",
+      "headline": "Rike Games / ストラテジー・シミュレーション · App Store 新着",
+      "description": "Play No Pain No Gain and Bills Must Be Paid. Indie games by Rike Games. Available on Steam, iOS, Android & free on web.…",
+      "publishedAt": "2026-11-01T04:30:26.291Z",
+      "addedAt": "2026-11-01T04:30:16.404Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6763063611"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "indie",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://rikegames.com/images/og-image.jpg"
+    },
     {
       "id": "eaaa257f512f",
       "url": "https://apps.apple.com/us/app/id6822588273",
