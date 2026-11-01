@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T10:00:16.969Z",
+  "updatedAt": "2026-11-01T10:30:17.150Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1169,
+  "total": 1170,
   "regions": {
-    "jp": 962,
+    "jp": 963,
     "global": 207
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 256
+      "count": 257
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 368
+      "count": 369
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "AppBank",
-    "Inside",
     "App Store",
+    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
@@ -166,6 +166,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "30c9ab50b91f",
+      "url": "https://picocraft.hachiware.app/",
+      "host": "picocraft.hachiware.app",
+      "region": "jp",
+      "title": "ピコクラフト: 採掘ローグライト",
+      "headline": "Hachiware, LLC. / カジュアル・アドベンチャー · App Store 新着",
+      "description": "ツルハシを振って掘り進む採掘・作業ゲーム。鉱石を集めて拠点を育て、地底に眠るコアをめざそう。",
+      "publishedAt": "2026-11-01T07:00:00.000Z",
+      "addedAt": "2026-11-01T10:30:17.150Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6820612711"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://picocraft.hachiware.app/og.png"
     },
     {
       "id": "3b3a733eff63",
@@ -10621,7 +10654,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど260本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど261本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
