@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T14:28:12.718Z",
+  "updatedAt": "2026-11-01T15:00:40.608Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,21 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "65c654b3258f",
-      "title": "NBA",
-      "date": "2026-11-01",
-      "dateText": "2026年11月1日",
-      "sortKey": "2026-11-01",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://space.bilibili.com/3690977239763588",
-      "image": "",
-      "maker": "",
-      "headline": "「NBA」コラボでガチる姿勢。中国発のバスケ×美少女育成ゲームがリリース！―日本未上陸の注目ゲーム3選【2026年11月1日】",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/11/01/190202.html"
-    },
     {
       "id": "ad13dc5134ff",
       "title": "農家は Replace() されました",
@@ -271,6 +256,21 @@
       "headline": "名画の模写で完成度を競い合う対戦型お絵かきゲーム「Sloppy Forgeries」，11月14日リリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/052/G105296/20261026021/"
+    },
+    {
+      "id": "62c528cef34f",
+      "title": "RPGツクールU2U",
+      "date": "2026-11-16",
+      "dateText": "2026年11月16日",
+      "sortKey": "2026-11-16",
+      "priority": 0,
+      "platforms": [],
+      "url": "http://u2u.rpgmakerofficial.com/",
+      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
+      "maker": "",
+      "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
     }
   ],
   "prereg": [
@@ -510,16 +510,6 @@
       "to": "2027年1月31日"
     },
     {
-      "at": "2026-11-01T06:30:34.649Z",
-      "type": "new",
-      "label": "新規",
-      "title": "NBA",
-      "url": "https://space.bilibili.com/3690977239763588",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月1日"
-    },
-    {
       "at": "2026-11-01T00:00:29.893Z",
       "type": "date_changed",
       "label": "発売日変更",
@@ -540,6 +530,19 @@
       "url": "https://www.sun-star-st.jp/items/bonbon_chiikawa/",
       "image": "",
       "platforms": [],
+      "from": "2026年10月",
+      "to": "2027年10月"
+    },
+    {
+      "at": "2026-11-01T00:00:29.893Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
       "from": "2026年10月",
       "to": "2027年10月"
     }
