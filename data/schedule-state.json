@@ -23460,9 +23460,9 @@
     },
     "肝試しオンライン": {
       "title": "肝試しオンライン",
-      "dateText": "2026年10月",
+      "dateText": "2027年10月",
       "date": null,
-      "sortKey": "2026-10-32",
+      "sortKey": "2027-10-32",
       "prereg": false,
       "firstSeen": "2026-10-01T08:30:43.344Z"
     },
@@ -32353,9 +32353,9 @@
     },
     "ウィンドランナーgo!": {
       "title": "ウィンドランナーGo!",
-      "dateText": "2026年10月",
+      "dateText": "2027年10月",
       "date": null,
-      "sortKey": "2026-10-32",
+      "sortKey": "2027-10-32",
       "prereg": false,
       "firstSeen": "2026-10-13T01:00:28.173Z"
     },
@@ -36442,9 +36442,9 @@
     },
     "ボンボンドロップシール": {
       "title": "ボンボンドロップシール",
-      "dateText": "2026年10月",
+      "dateText": "2027年10月",
       "date": null,
-      "sortKey": "2026-10-32",
+      "sortKey": "2027-10-32",
       "prereg": false,
       "firstSeen": "2026-10-16T08:00:43.300Z"
     },
@@ -59769,6 +59769,43 @@
       ],
       "from": "2026",
       "to": "2027"
+    },
+    {
+      "at": "2026-11-01T00:00:29.893Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ウィンドランナーGo!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
+      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年10月",
+      "to": "2027年10月"
+    },
+    {
+      "at": "2026-11-01T00:00:29.893Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ボンボンドロップシール",
+      "url": "https://www.sun-star-st.jp/items/bonbon_chiikawa/",
+      "image": "",
+      "platforms": [],
+      "from": "2026年10月",
+      "to": "2027年10月"
+    },
+    {
+      "at": "2026-11-01T00:00:29.893Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "肝試しオンライン",
+      "url": "https://kimodameshi-online.com/",
+      "image": "https://kimodameshi-online.com/og-image-ja.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "from": "2026年10月",
+      "to": "2027年10月"
     }
   ],
   "initialized": true,
