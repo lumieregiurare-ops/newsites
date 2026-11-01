@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:00:33.650Z",
+  "updatedAt": "2026-11-01T13:30:35.030Z",
   "platforms": [
     {
       "id": "switch",
@@ -468,6 +468,21 @@
   ],
   "changes": [
     {
+      "at": "2026-11-01T13:30:35.030Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "白銀の城",
+      "url": "https://apps.apple.com/us/app/id6758292278",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "from": "2027年1月31日",
+      "to": "2026年12月14日"
+    },
+    {
       "at": "2026-11-01T12:00:31.215Z",
       "type": "new",
       "label": "新規",
@@ -525,19 +540,6 @@
       "url": "https://www.sun-star-st.jp/items/bonbon_chiikawa/",
       "image": "",
       "platforms": [],
-      "from": "2026年10月",
-      "to": "2027年10月"
-    },
-    {
-      "at": "2026-11-01T00:00:29.893Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
       "from": "2026年10月",
       "to": "2027年10月"
     }
