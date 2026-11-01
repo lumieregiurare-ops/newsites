@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-01T15:00:15.847Z",
+  "updatedAt": "2026-11-01T15:30:16.899Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1172,
+  "total": 1173,
   "regions": {
-    "jp": 965,
+    "jp": 966,
     "global": 207
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 50
+      "count": 51
     },
     {
       "id": "prereg",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ff99257c3914",
+      "url": "https://www.rof-mao.com/",
+      "host": "rof-mao.com",
+      "region": "jp",
+      "title": "VTuberユニット・ROF-MAOが11月15日に再始動",
+      "headline": "VTuberユニット・ROF-MAOが11月15日に再始動！加賀美ハヤトさん、不破湊さん、甲斐田晴さんの3名で活動再開へ",
+      "description": "にじさんじ所属VTuberユニット『ROF-MAO』の公式ウェブサイト。",
+      "publishedAt": "2026-11-01T15:24:49.000Z",
+      "addedAt": "2026-11-01T15:30:16.899Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261102a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.rof-mao.com/og-image.png"
+    },
     {
       "id": "752e0066f8f6",
       "url": "https://bocchi.rocks/",
