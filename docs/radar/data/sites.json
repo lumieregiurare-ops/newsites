@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T12:00:17.325Z",
+  "updatedAt": "2026-11-01T12:30:19.644Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1171,
+  "total": 1172,
   "regions": {
-    "jp": 964,
+    "jp": 965,
     "global": 207
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 171
+      "count": 172
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "752e0066f8f6",
+      "url": "https://bocchi.rocks/",
+      "host": "bocchi.rocks",
+      "region": "jp",
+      "title": "映画ぼっち・ざ・ろっく！ 星のあしあと",
+      "headline": "『映画ぼっち・ざ・ろっく！ 星のあしあと』2027年公開へ！",
+      "description": "『映画ぼっち・ざ・ろっく！ 星のあしあと』2027年公開へ！",
+      "publishedAt": "2026-11-01T12:04:51.000Z",
+      "addedAt": "2026-11-01T12:30:19.644Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261101q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "275a08ac9314",
       "url": "https://apps.apple.com/jp/app/id6747958088",
