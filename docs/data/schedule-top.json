@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:00:36.971Z",
+  "updatedAt": "2026-11-01T06:30:34.649Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,21 @@
     }
   ],
   "releases": [
+    {
+      "id": "65c654b3258f",
+      "title": "NBA",
+      "date": "2026-11-01",
+      "dateText": "2026年11月1日",
+      "sortKey": "2026-11-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://space.bilibili.com/3690977239763588",
+      "image": "",
+      "maker": "",
+      "headline": "「NBA」コラボでガチる姿勢。中国発のバスケ×美少女育成ゲームがリリース！―日本未上陸の注目ゲーム3選【2026年11月1日】",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/01/190202.html"
+    },
     {
       "id": "ad13dc5134ff",
       "title": "農家は Replace() されました",
@@ -256,21 +271,6 @@
       "headline": "名画の模写で完成度を競い合う対戦型お絵かきゲーム「Sloppy Forgeries」，11月14日リリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/052/G105296/20261026021/"
-    },
-    {
-      "id": "62c528cef34f",
-      "title": "RPGツクールU2U",
-      "date": "2026-11-16",
-      "dateText": "2026年11月16日",
-      "sortKey": "2026-11-16",
-      "priority": 0,
-      "platforms": [],
-      "url": "http://u2u.rpgmakerofficial.com/",
-      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
-      "maker": "",
-      "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
     }
   ],
   "prereg": [
@@ -468,6 +468,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-01T06:30:34.649Z",
+      "type": "new",
+      "label": "新規",
+      "title": "NBA",
+      "url": "https://space.bilibili.com/3690977239763588",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月1日"
+    },
+    {
       "at": "2026-11-01T00:00:29.893Z",
       "type": "date_changed",
       "label": "発売日変更",
@@ -528,18 +538,6 @@
         "switch"
       ],
       "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-10-30T08:30:35.408Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年11月12日"
     }
   ]
 }

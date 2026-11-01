@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T06:00:16.693Z",
+  "updatedAt": "2026-11-01T06:30:21.870Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1167,
+  "total": 1168,
   "regions": {
-    "jp": 961,
+    "jp": 962,
     "global": 206
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 208
+      "count": 209
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 418
+      "count": 419
     },
     {
       "id": "indie",
@@ -121,17 +121,45 @@
     }
   ],
   "sources": [
+    "Inside",
     "App Store",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Appliv Games",
-    "Inside",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3b3a733eff63",
+      "url": "https://space.bilibili.com/3690977239763588",
+      "host": "space.bilibili.com",
+      "region": "jp",
+      "title": "NBA",
+      "headline": "「NBA」コラボでガチる姿勢。中国発のバスケ×美少女育成ゲームがリリース！―日本未上陸の注目ゲーム3選【2026年11月1日】",
+      "description": "「NBA」コラボでガチる姿勢。中国発のバスケ×美少女育成ゲームがリリース！―日本未上陸の注目ゲーム3選【2026年11月1日】",
+      "publishedAt": "2026-11-01T06:00:08.000Z",
+      "addedAt": "2026-11-01T06:30:21.870Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/01/190202.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "63b7338b5649",
       "url": "https://rikegames.com/",

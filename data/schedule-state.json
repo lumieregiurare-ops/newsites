@@ -2882,7 +2882,7 @@
       "entry": null
     },
     "鳴潮": {
-      "at": "2026-10-29T06:30:34.483Z",
+      "at": "2026-11-01T06:30:34.885Z",
       "entry": {
         "trackId": "6475033368",
         "title": "鳴潮",
@@ -55312,6 +55312,14 @@
       "sortKey": "2026-11-01",
       "prereg": false,
       "firstSeen": "2026-11-01T06:00:36.971Z"
+    },
+    "nba": {
+      "title": "NBA",
+      "dateText": "2026年11月1日",
+      "date": "2026-11-01",
+      "sortKey": "2026-11-01",
+      "prereg": false,
+      "firstSeen": "2026-11-01T06:30:34.649Z"
     }
   },
   "changeLog": [
@@ -59854,6 +59862,16 @@
       ],
       "from": "2026年10月",
       "to": "2027年10月"
+    },
+    {
+      "at": "2026-11-01T06:30:34.649Z",
+      "type": "new",
+      "label": "新規",
+      "title": "NBA",
+      "url": "https://space.bilibili.com/3690977239763588",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月1日"
     }
   ],
   "initialized": true,
