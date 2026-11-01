@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-01T11:30:17.391Z",
+  "updatedAt": "2026-11-01T12:00:17.325Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1170,
+  "total": 1171,
   "regions": {
-    "jp": 963,
+    "jp": 964,
     "global": 207
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 420
+      "count": 421
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 96
+      "count": 97
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 257
+      "count": 258
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 143
+      "count": 144
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 369
+      "count": 370
     },
     {
       "id": "browser",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "275a08ac9314",
+      "url": "https://apps.apple.com/jp/app/id6747958088",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "愛よさらば",
+      "headline": "お絵描きで謎を解くノベルゲーム『愛よさらば』Steamページ公開！ 2027年春にSteam版とiOS版が発売",
+      "description": "UZZ Inc.の「愛よさらば」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「愛よさらば」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-01T12:00:00.000Z",
+      "addedAt": "2026-11-01T12:00:17.325Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/01/game/3151082.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/80/a4/c580a440-8a67-2632-19bb-c25b4aefd48b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg"
+    },
     {
       "id": "12599c3efac9",
       "url": "https://apps.apple.com/us/app/id6758292278",

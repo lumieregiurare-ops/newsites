@@ -3074,7 +3074,7 @@
       }
     },
     "仮面ライダー DEFENSE WARRIORS": {
-      "at": "2026-10-29T12:00:30.103Z",
+      "at": "2026-11-01T12:00:32.804Z",
       "entry": {
         "trackId": "6751485239",
         "title": "仮面ライダー DEFENSE WARRIORS",
@@ -3256,6 +3256,25 @@
         "storeUrl": "https://apps.apple.com/jp/app/id6822588273",
         "sellerUrl": "https://lab.global-gear.jp/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/af/d2/c8afd24b-8e24-a70c-96de-8f1d4e6f7913/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "愛よさらば": {
+      "at": "2026-11-01T12:00:31.412Z",
+      "entry": {
+        "trackId": "6747958088",
+        "title": "愛よさらば",
+        "artist": "UZZ Inc.",
+        "genres": [
+          "アドベンチャー",
+          "カジュアル",
+          "グラフィック／デザイン"
+        ],
+        "releaseDate": "2025-08-08T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6747958088",
+        "sellerUrl": "https://aiyo.uzz.company/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/80/a4/c580a440-8a67-2632-19bb-c25b4aefd48b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -55387,6 +55406,22 @@
       "sortKey": "2026-11-04",
       "prereg": false,
       "firstSeen": "2026-11-01T11:30:30.630Z"
+    },
+    "onlyaxolotls": {
+      "title": "Only Axolotls",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-01T12:00:31.215Z"
+    },
+    "愛よさらば": {
+      "title": "愛よさらば",
+      "dateText": "2027年春",
+      "date": null,
+      "sortKey": "2027-04-33",
+      "prereg": false,
+      "firstSeen": "2026-11-01T12:00:31.215Z"
     }
   },
   "changeLog": [
@@ -59929,6 +59964,19 @@
         "mobile"
       ],
       "to": "2027年1月31日"
+    },
+    {
+      "at": "2026-11-01T12:00:31.215Z",
+      "type": "new",
+      "label": "新規",
+      "title": "愛よさらば",
+      "url": "https://apps.apple.com/jp/app/id6747958088",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/80/a4/c580a440-8a67-2632-19bb-c25b4aefd48b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2027年春"
     }
   ],
   "initialized": true,

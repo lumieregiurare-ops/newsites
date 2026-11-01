@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:30:30.630Z",
+  "updatedAt": "2026-11-01T12:00:31.215Z",
   "platforms": [
     {
       "id": "switch",
@@ -468,6 +468,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-01T12:00:31.215Z",
+      "type": "new",
+      "label": "新規",
+      "title": "愛よさらば",
+      "url": "https://apps.apple.com/jp/app/id6747958088",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/80/a4/c580a440-8a67-2632-19bb-c25b4aefd48b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg",
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "to": "2027年春"
+    },
+    {
       "at": "2026-11-01T10:00:29.007Z",
       "type": "date_fixed",
       "label": "発売日決定",
@@ -527,19 +540,6 @@
       ],
       "from": "2026年10月",
       "to": "2027年10月"
-    },
-    {
-      "at": "2026-10-31T07:00:28.067Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "The Duskbloods",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000096715",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1a0152b5a5f033a2055858886af3c931f22ed8f4400fc2673b7a225336f419cd.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026",
-      "to": "2027"
     }
   ]
 }
