@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T20:30:19.440Z",
+  "updatedAt": "2026-11-02T21:00:28.103Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1196,
+  "total": 1197,
   "regions": {
-    "jp": 981,
+    "jp": 982,
     "global": 215
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 213
+      "count": 214
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 432
+      "count": 433
     },
     {
       "id": "indie",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "41f5c562150f",
+      "url": "https://atari.com/products/thief-the-dark-project-remastered",
+      "host": "atari.com",
+      "region": "jp",
+      "title": "Thief",
+      "headline": "90年代ステルスアクション初代『Thief』のリマスター版発売日決定！完全新規のストーリーキャンペーンも収録",
+      "description": "90年代ステルスアクション初代『Thief』のリマスター版発売日決定！完全新規のストーリーキャンペーンも収録",
+      "publishedAt": "2026-11-02T21:00:02.000Z",
+      "addedAt": "2026-11-02T21:00:28.103Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/03/174418.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "79996c1e6a70",
       "url": "https://11bitstudios.com/games/frostpunk-2/",
