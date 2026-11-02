@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T11:00:27.545Z",
+  "updatedAt": "2026-11-02T11:30:46.081Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1188,
+  "total": 1191,
   "regions": {
-    "jp": 975,
-    "global": 213
+    "jp": 977,
+    "global": 214
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 140
+      "count": 141
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 427
+      "count": 428
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 173
+      "count": 174
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 48
+      "count": 49
     },
     {
       "id": "ps",
@@ -121,17 +121,100 @@
     }
   ],
   "sources": [
-    "Game*Spark",
-    "AppBank",
-    "Inside",
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
+    "AppBank",
+    "Game*Spark",
+    "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f974ebb0f1e6",
+      "url": "https://trickcal.com/patima/teaser",
+      "host": "trickcal.com",
+      "region": "global",
+      "title": "Trickcal Patima",
+      "headline": "トリッカル新作「Trickcal Patima」，第1回CBTの参加者を2027年第1四半期に募集予定。「グローバルサービスを任せられるパブリッシャ」を探し中",
+      "description": "트릭컬 파티마 — 곧 공개됩니다",
+      "publishedAt": "2026-11-02T11:04:41.000Z",
+      "addedAt": "2026-11-02T11:30:46.081Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/021/G102141/20261102046/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://trickcal.com/og/patima_teaser.png"
+    },
+    {
+      "id": "b88b6d55a442",
+      "url": "https://dorokusa.co.jp/",
+      "host": "dorokusa.co.jp",
+      "region": "jp",
+      "title": "DOROKUSA",
+      "headline": "加藤純一さんが発起人のストリーマー事務所「DOROKUSA」の切り抜きガイドラインが公開。切り抜き動画の投稿と、YouTubeでの収益化が可能に",
+      "description": "泥臭く、自由に、本当に楽しんでもらえる空間を作るためのストリーマーマネジメント会社です",
+      "publishedAt": "2026-11-02T11:00:45.000Z",
+      "addedAt": "2026-11-02T11:30:46.081Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611022j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "6d52e46dbdbc",
+      "url": "https://pikminbloom.com/pikmin4-campaign-info",
+      "host": "pikminbloom.com",
+      "region": "jp",
+      "title": "ピクミン4 Nintendo Switch 2 Edition",
+      "headline": "『ピクミン4 Nintendo Switch 2 Edition』体験版が配信開始！ Pikmin Bloomに新モード「ひみつの洞窟」も",
+      "description": "Play Pikmin 4 to earn the Pikmin 4 Oatchi-Rider Costume (Red) in the Pikmin Bloom smartphone app!",
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "addedAt": "2026-11-02T11:30:46.081Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/02/game/3152269.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://lh3.googleusercontent.com/upi1U3YtuOReyxoLcgee9zB6ZDuGfr_SkMbxvTbLbYk8Zt5hc7vbwckcECMLiNWbpqArD98RIgzq-VbAT13foTCoDjpZ0HdBKPns1GbMTfdE"
+    },
     {
       "id": "1c15d165833c",
       "url": "https://www.monstercrate.co/ichorous",
@@ -11463,7 +11546,7 @@
       "region": "jp",
       "title": "Desktop Mate",
       "headline": "「IA」がデスクトップで動き回る！『Desktop Mate』新DLCが本日10月15日より配信開始。好物の桜餅を嬉しそうに眺める仕草が超かわいい",
-      "description": "2026年11月1日、大田区産業プラザPiO 大展示ホールにて開催される、ARIA姉妹オンリー即売会「Ariaers Assort 2」の特設サイトです。",
+      "description": "2027年7月19日、川崎産業振興会館にて開催される、ARIA姉妹オンリー即売会「Ariaers Assort 3」の特設サイトです。",
       "publishedAt": "2026-10-15T03:00:23.000Z",
       "addedAt": "2026-10-15T05:30:17.860Z",
       "source": "電ファミニコゲーマー",
@@ -11477,13 +11560,13 @@
         "ゲーム"
       ],
       "categories": [
-        "event",
         "release",
-        "campaign"
+        "campaign",
+        "event"
       ],
       "platforms": [],
       "points": null,
-      "image": "https://ebi-cdn.kanade.party/site-settings/vitrina/ariaers-assort.2/ogp.jpg"
+      "image": "https://ebi-cdn.kanade.party/site-settings/vitrina/01M4RFZMTERKKNZ7CKDHS0P2DT/ogp.jpg"
     },
     {
       "id": "ea2a9c04738d",
@@ -19359,7 +19442,8 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
         "campaign",
