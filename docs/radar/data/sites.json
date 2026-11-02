@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T10:00:21.207Z",
+  "updatedAt": "2026-11-02T10:30:53.846Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1186,
+  "total": 1187,
   "regions": {
-    "jp": 973,
+    "jp": 974,
     "global": 213
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 212
+      "count": 213
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 373
+      "count": 374
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "AppBank",
     "Game*Spark",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9124f18f4c7b",
+      "url": "https://www.dragonquest.jp/walk/",
+      "host": "dragonquest.jp",
+      "region": "jp",
+      "title": "ドラゴンクエストウォーク",
+      "headline": "『ドラゴンクエストウォーク』にFFXIVコラボ登場！ メインストーリー第19章も追加",
+      "description": "スマホをもって、ぼうけんにでかけよう。",
+      "publishedAt": "2026-11-02T09:50:00.000Z",
+      "addedAt": "2026-11-02T10:30:53.846Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/02/game/3152383.php"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://cache-www.dragonquest.jp/walk/20260909/common/images/share/image_ogp.jpg"
+    },
     {
       "id": "20e8d2248afa",
       "url": "https://heart-ltd.jp/category/product/character/%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%82%b9%e3%83%b3%e3%82%b9%e3%83%b3/",
@@ -11136,7 +11165,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど261本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど262本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
