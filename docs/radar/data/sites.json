@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T17:30:19.058Z",
+  "updatedAt": "2026-11-02T18:00:16.673Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1195,
+  "total": 1196,
   "regions": {
-    "jp": 980,
+    "jp": 981,
     "global": 215
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 431
+      "count": 432
     },
     {
       "id": "indie",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "79996c1e6a70",
+      "url": "https://11bitstudios.com/games/frostpunk-2/",
+      "host": "11bitstudios.com",
+      "region": "jp",
+      "title": "フロストパンク2",
+      "headline": "『フロストパンク2』第3弾DLCが12月14日配信へ！猛吹雪を資源に変える新技術と謎の渓谷を描く最終拡張。シリーズは今後、未発表の新ジャンル作品などに注力",
+      "description": "『フロストパンク2』第3弾DLCが12月14日配信へ！猛吹雪を資源に変える新技術と謎の渓谷を描く最終拡張。シリーズは今後、未発表の新ジャンル作品などに注力",
+      "publishedAt": "2026-11-02T18:00:03.000Z",
+      "addedAt": "2026-11-02T18:00:16.673Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/03/174417.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "c142a000f2fc",
       "url": "https://a24jp.com/films/unicorn/",
