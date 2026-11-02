@@ -2548,7 +2548,7 @@
       }
     },
     "Fallout Shelter": {
-      "at": "2026-10-30T04:30:37.797Z",
+      "at": "2026-11-02T04:30:42.536Z",
       "entry": {
         "trackId": "991153141",
         "title": "Fallout Shelter",
@@ -2566,7 +2566,7 @@
       }
     },
     "デュエットナイトアビス": {
-      "at": "2026-10-30T04:30:39.173Z",
+      "at": "2026-11-02T04:30:43.942Z",
       "entry": {
         "trackId": "6744096826",
         "title": "デュエットナイトアビス",
@@ -2782,7 +2782,7 @@
       }
     },
     "Fallout": {
-      "at": "2026-10-30T04:30:34.893Z",
+      "at": "2026-11-02T04:30:39.657Z",
       "entry": {
         "trackId": "1476237088",
         "title": "Fallout Shelter Online",
@@ -2800,7 +2800,7 @@
       }
     },
     "ひなこい": {
-      "at": "2026-10-30T04:30:36.331Z",
+      "at": "2026-11-02T04:30:41.099Z",
       "entry": {
         "trackId": "1489909693",
         "title": "[日向坂46公式] ひなこい",
@@ -6309,9 +6309,9 @@
       "title": "白銀の城",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2027年1月31日",
-      "date": "2027-01-31",
-      "sortKey": "2027-01-31"
+      "dateText": "2026年12月14日",
+      "date": "2026-12-14",
+      "sortKey": "2026-12-14"
     },
     "bleachmirrorshigh": {
       "title": "BLEACH Mirrors High",
@@ -55806,6 +55806,14 @@
       "sortKey": "2026-11-02",
       "prereg": false,
       "firstSeen": "2026-11-02T04:00:39.467Z"
+    },
+    "colsword": {
+      "title": "Colsword",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T04:30:39.191Z"
     }
   },
   "changeLog": [
@@ -60405,6 +60413,21 @@
       ],
       "from": "2026年12月14日",
       "to": "2027年1月31日"
+    },
+    {
+      "at": "2026-11-02T04:30:39.191Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "白銀の城",
+      "url": "https://apps.apple.com/us/app/id6758292278",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "from": "2027年1月31日",
+      "to": "2026年12月14日"
     }
   ],
   "initialized": true,
