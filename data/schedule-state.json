@@ -849,7 +849,7 @@
       }
     },
     "Delta Force": {
-      "at": "2026-10-30T04:00:28.992Z",
+      "at": "2026-11-02T04:00:39.770Z",
       "entry": {
         "trackId": "6451399876",
         "title": "Delta Force: 2nd Anniversary",
@@ -895,7 +895,7 @@
       "entry": null
     },
     "ファイアーエムブレム ヒーローズ": {
-      "at": "2026-10-30T04:00:36.442Z",
+      "at": "2026-11-02T04:00:43.882Z",
       "entry": {
         "trackId": "1181774280",
         "title": "ファイアーエムブレム ヒーローズ - 戦略RPGの金字塔",
@@ -2237,7 +2237,7 @@
       "entry": null
     },
     "DropSOS 3人を帰そう": {
-      "at": "2026-10-30T04:00:33.598Z",
+      "at": "2026-11-02T04:00:42.479Z",
       "entry": {
         "trackId": "6816315864",
         "title": "DropSOS: 3人を帰そう",
@@ -2530,7 +2530,7 @@
       "entry": null
     },
     "農家は Replace() されました": {
-      "at": "2026-10-30T04:00:30.453Z",
+      "at": "2026-11-02T04:00:41.144Z",
       "entry": {
         "trackId": "6790322035",
         "title": "農家は Replace() されました",
@@ -6309,9 +6309,9 @@
       "title": "白銀の城",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2026年12月14日",
-      "date": "2026-12-14",
-      "sortKey": "2026-12-14"
+      "dateText": "2027年1月31日",
+      "date": "2027-01-31",
+      "sortKey": "2027-01-31"
     },
     "bleachmirrorshigh": {
       "title": "BLEACH Mirrors High",
@@ -55798,6 +55798,14 @@
       "sortKey": "2026-11-03",
       "prereg": false,
       "firstSeen": "2026-11-02T03:30:44.512Z"
+    },
+    "deadmarket": {
+      "title": "Dead Market",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T04:00:39.467Z"
     }
   },
   "changeLog": [
@@ -60382,6 +60390,21 @@
       ],
       "from": "2027年1月31日",
       "to": "2026年12月14日"
+    },
+    {
+      "at": "2026-11-02T04:00:39.467Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "白銀の城",
+      "url": "https://apps.apple.com/us/app/id6758292278",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "from": "2026年12月14日",
+      "to": "2027年1月31日"
     }
   ],
   "initialized": true,

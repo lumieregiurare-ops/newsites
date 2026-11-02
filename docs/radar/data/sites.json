@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T03:30:18.194Z",
+  "updatedAt": "2026-11-02T04:00:17.617Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1175,
+  "total": 1176,
   "regions": {
-    "jp": 964,
+    "jp": 965,
     "global": 211
   },
   "categories": [
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 20
+      "count": 21
     },
     {
       "id": "company",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "arcade",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Inside",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8aaeff6d5cd8",
+      "url": "https://take2of8b.pages.dev/",
+      "host": "take2of8b.pages.dev",
+      "region": "jp",
+      "title": "80億分の1",
+      "headline": "【無料】もし流行作『80億分の1』で死んだあとに異世界転生できたら？非公式ファン作品『80億分の、2回目』公開中―古竜や看板猫、剣の刺さった岩にも転生",
+      "description": "1回目の人生は、国連・WHO・世界銀行の統計どおりの確率で決まる。2回目は異世界で。1回目がハズレだった人ほど、強く生まれ変わる。無料・登録なし・約30分のブラウザゲーム。",
+      "publishedAt": "2026-11-02T03:45:03.000Z",
+      "addedAt": "2026-11-02T04:00:17.617Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/02/174381.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://take2of8b.pages.dev/og/og_ja.jpg"
+    },
     {
       "id": "49f97dc74419",
       "url": "https://products.voltage.co.jp/switch/",
