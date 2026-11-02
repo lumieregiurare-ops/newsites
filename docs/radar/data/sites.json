@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T06:30:19.279Z",
+  "updatedAt": "2026-11-02T07:00:18.008Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1180,
+  "total": 1182,
   "regions": {
-    "jp": 967,
+    "jp": 969,
     "global": 213
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 124
+      "count": 125
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 209
+      "count": 211
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 253
+      "count": 254
     },
     {
       "id": "release",
@@ -121,17 +121,74 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "23061b225ae4",
+      "url": "https://sp.pictlink.com/web/special/kuromi-watausa2",
+      "host": "sp.pictlink.com",
+      "region": "jp",
+      "title": "WataUsa2",
+      "headline": "フリュープリ機『WataUsa2』×サンリオがコラボ！ゴシックドレス姿のクロミと撮影できる期間限定デザインが登場",
+      "description": "＼12/1(火)まで！／『WataUsa2』×クロミ プリコラボ クロミと一緒に、とびきりかわいいプリを撮っちゃおう♪",
+      "publishedAt": "2026-11-02T06:50:02.000Z",
+      "addedAt": "2026-11-02T07:00:18.008Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/02/190248.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sp.pictlink.com/web/static/img/special/kuromi-watausa2/OGP_kuromi_watausa.png"
+    },
+    {
+      "id": "d317e4e4ee80",
+      "url": "https://5th-anniv.rof-mao.com/",
+      "host": "5th-anniv.rof-mao.com",
+      "region": "jp",
+      "title": "ROF-MAO",
+      "headline": "休止中のにじさんじ「ROF-MAO」、11月15日より活動再開へー渋谷で応援メッセージを貼る「背中を押そう！」キャンペーンも開催",
+      "description": "ROF-MAO結成5周年を記念して、3名のメンバーへのデジタル応援メッセージを大募集。これまでの感謝やこれからへの期待など、あなたの一言が5周年記念特別企画の一部としてメンバーに届けられます。",
+      "publishedAt": "2026-11-02T06:40:02.000Z",
+      "addedAt": "2026-11-02T07:00:18.008Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/02/190246.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://5th-anniv.rof-mao.com/ogp.jpg"
+    },
     {
       "id": "eabf8ac90510",
       "url": "https://aeruta.startgravity.jp/",
