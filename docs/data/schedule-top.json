@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:30:31.849Z",
+  "updatedAt": "2026-11-02T08:00:37.014Z",
   "platforms": [
     {
       "id": "switch",
@@ -368,31 +368,6 @@
       "trackId": ""
     },
     {
-      "id": "58159dbe365d",
-      "title": "農家は Replace() されました",
-      "url": "https://farmer.ateo.ch/",
-      "image": "https://farmer.ateo.ch/img/og_image.jpg",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "startedAt": "2026-10-21T02:39:03.000Z",
-      "releaseText": "2026年11月2日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "プログラミングで農場を自動化するゲーム『農家は Replace() されました』モバイル版が11月2日にリリース決定。Steam版は「圧倒的に好評」",
-      "description": "Program a drone. Automate a farm. Watch your code do the work. On iOS and Android.",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261021n",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6790322035",
-        "preorder": true,
-        "releaseDate": "2026-11-02T08:00:00Z"
-      },
-      "trackId": "6790322035"
-    },
-    {
       "id": "4c96c1d1eb2a",
       "title": "リラックマ ごゆるりパズル",
       "url": "https://jp.rilakkuma-puzzle.com/",
@@ -466,9 +441,44 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6758039748"
+    },
+    {
+      "id": "bc82a1364fe1",
+      "title": "冒険宿 なめこ亭",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
+      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-16T10:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "『冒険宿 なめこ亭』×マルコメ「料亭の味」コラボ！ 「#なめコメ」投稿でカップみそ汁30個セットが当たる、10月15日から",
+      "description": "一皿の料理から始まる冒険。なめこたちが集う\"冒険宿\"を育てよう！",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/16/game/3134094.php",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-02T08:00:37.014Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "白銀の城",
+      "url": "https://apps.apple.com/us/app/id6758292278",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "from": "2027年1月31日",
+      "to": "2026年12月14日"
+    },
     {
       "at": "2026-11-02T07:00:30.307Z",
       "type": "delayed",
@@ -483,18 +493,6 @@
       ],
       "from": "2026年12月14日",
       "to": "2027年1月31日"
-    },
-    {
-      "at": "2026-11-02T06:00:35.490Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "url": "https://galast.net/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年11月2日"
     },
     {
       "at": "2026-11-02T06:00:35.490Z",
