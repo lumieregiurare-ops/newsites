@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T13:00:19.646Z",
+  "updatedAt": "2026-11-02T13:30:18.170Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1191,
+  "total": 1193,
   "regions": {
-    "jp": 977,
+    "jp": 979,
     "global": 214
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 428
+      "count": 429
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 174
+      "count": 175
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 374
+      "count": 375
     },
     {
       "id": "browser",
@@ -122,16 +122,72 @@
   ],
   "sources": [
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6ba43917f2cf",
+      "url": "https://fuyouku.com/",
+      "host": "fuyouku.com",
+      "region": "jp",
+      "title": "フユウク",
+      "headline": "かしわぎつきこ氏原案の完全新作「フユウク」が2027年に発売へ。2097年のホッカイドーを少女とアンドロイドが旅する“ロードムービーADV”",
+      "description": "2097年 ー 雪に覆われ、かつての面影を失ったホッカイドー。少女とアンドロイドは、雪の下に眠る記憶と約束を辿り、あなたに会うため旅に出る。 何度目かの、そしてはじめての ホッカイドー旅が始まる。",
+      "publishedAt": "2026-11-02T13:05:56.000Z",
+      "addedAt": "2026-11-02T13:30:18.170Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105512/20261102058/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fuyouku.com/files/97/fkgame/ogp.png"
+    },
+    {
+      "id": "5d2c54dad3f1",
+      "url": "https://whispers.archosaur.com/?lang=jp",
+      "host": "whispers.archosaur.com",
+      "region": "jp",
+      "title": "コードネーム：神不言",
+      "headline": "『コードネーム：神不言』開発チームが明かす美麗キャラクター表現の秘密―眼球シェーダーや表情描写、モバイル向け最適化技術に迫るインタビュー公開",
+      "description": "Silent Whispers is a Multi-Platform Cinematic Love Adventure Game set in a fantasy metropolis, developed by Archosaur G…",
+      "publishedAt": "2026-11-02T12:50:02.000Z",
+      "addedAt": "2026-11-02T13:30:18.170Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/02/190282.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://whispers.archosaur.com/assets/img/share-tu.jpg"
+    },
     {
       "id": "f974ebb0f1e6",
       "url": "https://trickcal.com/patima/teaser",
@@ -32644,6 +32700,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/02/190279.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/02/174408.html"
         }
       ],
       "tags": [
