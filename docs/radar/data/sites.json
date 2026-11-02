@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T07:00:18.008Z",
+  "updatedAt": "2026-11-02T07:30:21.845Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1182,
+  "total": 1183,
   "regions": {
-    "jp": 969,
+    "jp": 970,
     "global": 213
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 211
+      "count": 212
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 254
+      "count": 255
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "907b7b6012e9",
+      "url": "https://www.karaokemanekineko.jp/",
+      "host": "karaokemanekineko.jp",
+      "region": "jp",
+      "title": "桃鉄",
+      "headline": "「カラオケまねきねこ」で『桃鉄』『スイカゲーム』のプレイ料金無料キャンペーンが開催。11月2日から11月30日までの期間限定",
+      "description": "飲食物の持ち込みがOKで、全国チェーン 店舗数日本最大級の、カラオケまねきねこ。行動目標に「新しいサービスの創造」「おもてなしの心の研磨」を掲げています。心配りの接客と驚きの新サービスを追求し、より多くの皆様に愛されるカラオケチェーンを目…",
+      "publishedAt": "2026-11-02T07:13:33.000Z",
+      "addedAt": "2026-11-02T07:30:21.845Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261102z"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://d1k5d0nneloh3k.cloudfront.net/wp-content/uploads/2025/11/19144910/ogimage.png"
+    },
     {
       "id": "23061b225ae4",
       "url": "https://sp.pictlink.com/web/special/kuromi-watausa2",
