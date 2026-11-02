@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T04:30:20.920Z",
+  "updatedAt": "2026-11-02T05:00:18.735Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1176,
+  "total": 1177,
   "regions": {
-    "jp": 965,
+    "jp": 966,
     "global": 211
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 422
+      "count": 423
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 370
+      "count": 371
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Inside",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b11f028234a7",
+      "url": "https://asokuro.com/miskatonic/",
+      "host": "asokuro.com",
+      "region": "jp",
+      "title": "ミスカトニック大学美術部",
+      "headline": "最大8人プレイの“クトゥルフ神話”お絵描きゲーム『ミスカトニック大学美術部』のiOS版が配信開始。ネクロノミコンに記載された“神話生物”の描写から挿絵を描いて当て合う",
+      "description": "「冒涜の泡をこぼしつづける、形のない混沌」……それ、どんな見た目！？ ミスカトニック大学美術部で、ネクロノミコンの挿絵を描いて当て合う、2〜8人のオンラインお絵描きゲーム。",
+      "publishedAt": "2026-11-02T04:30:38.000Z",
+      "addedAt": "2026-11-02T05:00:18.735Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261102n"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://asokuro.com/miskatonic/assets/ogp_ja.jpg"
+    },
     {
       "id": "8aaeff6d5cd8",
       "url": "https://take2of8b.pages.dev/",
