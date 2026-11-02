@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:00:32.595Z",
+  "updatedAt": "2026-11-02T05:30:27.290Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,23 @@
     }
   ],
   "releases": [
+    {
+      "id": "b1c2d8a448e1",
+      "title": "GALAST",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "maker": "",
+      "headline": "『GALAST』が11月2日15:00に正式サービス開始！ 将棋・麻雀・チェスなどを1本に集めたオンライン対戦ボードゲーム",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/11/02/game/3151853.php"
+    },
     {
       "id": "ad13dc5134ff",
       "title": "農家は Replace() されました",
@@ -256,24 +273,33 @@
       "headline": "名画の模写で完成度を競い合う対戦型お絵かきゲーム「Sloppy Forgeries」，11月14日リリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/052/G105296/20261026021/"
-    },
-    {
-      "id": "62c528cef34f",
-      "title": "RPGツクールU2U",
-      "date": "2026-11-16",
-      "dateText": "2026年11月16日",
-      "sortKey": "2026-11-16",
-      "priority": 0,
-      "platforms": [],
-      "url": "http://u2u.rpgmakerofficial.com/",
-      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
-      "maker": "",
-      "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
     }
   ],
   "prereg": [
+    {
+      "id": "d764c6142b84",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-02T04:55:00.000Z",
+      "releaseText": "2026年11月2日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "『GALAST』が11月2日15:00に正式サービス開始！ 将棋・麻雀・チェスなどを1本に集めたオンライン対戦ボードゲーム",
+      "description": "大富豪・リバーシ・将棋・チェス・囲碁・麻雀・UNO・ソリティア・ビリヤードなど、多彩な定番ゲームを収録。",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/11/02/game/3151853.php",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6744635653",
+        "preorder": true,
+        "releaseDate": "2026-11-02T08:00:00Z"
+      },
+      "trackId": "6744635653"
+    },
     {
       "id": "4dcbdcd67f2b",
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
@@ -439,34 +465,43 @@
         "releaseDate": "2027-03-31T07:00:00Z"
       },
       "trackId": "6760275408"
-    },
-    {
-      "id": "a194e704154b",
-      "title": "グリザイア 集結の百果",
-      "url": "https://grisaia-s100.com/",
-      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-16T10:48:51.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「グリザイア 集結の百果」の事前登録受付がApp StoreとGoogle Playで開始。「グリザイア」シリーズの15周年を記念したタイトル",
-      "description": "『グリザイア』シリーズ新作コンテンツ『グリザイア 集結の百果』は2026年リリース予定。事前登録受付中！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/037/G103778/20261016050/",
-      "appleId": "6758039748",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6758039748",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6758039748"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年11月2日"
+    },
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ツイステ",
+      "url": "https://www.disneyplus.com/ja-jp/explore/twisted-wonderland-the-animation",
+      "image": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg",
+      "platforms": [],
+      "to": "2026年12月23日"
+    },
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "new",
+      "label": "新規",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月2日"
+    },
     {
       "at": "2026-11-02T04:30:39.191Z",
       "type": "moved_up",
@@ -511,51 +546,6 @@
       ],
       "from": "2027年1月31日",
       "to": "2026年12月14日"
-    },
-    {
-      "at": "2026-11-02T01:30:34.663Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "白銀の城",
-      "url": "https://apps.apple.com/us/app/id6758292278",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "ps",
-        "pc",
-        "mobile"
-      ],
-      "from": "2026年12月14日",
-      "to": "2027年1月31日"
-    },
-    {
-      "at": "2026-11-02T00:00:31.233Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "白銀の城",
-      "url": "https://apps.apple.com/us/app/id6758292278",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "ps",
-        "pc",
-        "mobile"
-      ],
-      "from": "2027年1月31日",
-      "to": "2026年12月14日"
-    },
-    {
-      "at": "2026-11-01T23:30:32.675Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "白銀の城",
-      "url": "https://apps.apple.com/us/app/id6758292278",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "ps",
-        "pc",
-        "mobile"
-      ],
-      "from": "2026年12月14日",
-      "to": "2027年1月31日"
     }
   ]
 }

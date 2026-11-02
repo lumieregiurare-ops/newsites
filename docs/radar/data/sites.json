@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T05:00:18.735Z",
+  "updatedAt": "2026-11-02T05:30:15.127Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1177,
+  "total": 1179,
   "regions": {
-    "jp": 966,
-    "global": 211
+    "jp": 967,
+    "global": 212
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 423
+      "count": 425
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 371
+      "count": 372
     },
     {
       "id": "browser",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "AppBank",
     "Game*Spark",
     "4Gamer",
-    "AppBank",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,65 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "004a1e2d8839",
+      "url": "https://www.disneyplus.com/ja-jp/explore/twisted-wonderland-the-animation",
+      "host": "disneyplus.com",
+      "region": "global",
+      "title": "ツイステ",
+      "headline": "『ツイステ』新作アニメ『エピソード オブ サバナクロー』12月23日よりディズニープラスにて独占配信決定。怪訝な表情で身を構えるハーツラビュル寮生が描かれた最新ビジュアルも解禁",
+      "description": "Discover the latest news, updates, and exclusive content on Explore Disney+. Dive into behind-the-scenes features, upco…",
+      "publishedAt": "2026-11-02T05:06:11.000Z",
+      "addedAt": "2026-11-02T05:30:15.127Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261102s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg"
+    },
+    {
+      "id": "d764c6142b84",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "GALAST",
+      "headline": "『GALAST』が11月2日15:00に正式サービス開始！ 将棋・麻雀・チェスなどを1本に集めたオンライン対戦ボードゲーム",
+      "description": "大富豪・リバーシ・将棋・チェス・囲碁・麻雀・UNO・ソリティア・ビリヤードなど、多彩な定番ゲームを収録。",
+      "publishedAt": "2026-11-02T04:55:00.000Z",
+      "addedAt": "2026-11-02T05:30:15.127Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/02/game/3151853.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30"
+    },
     {
       "id": "b11f028234a7",
       "url": "https://asokuro.com/miskatonic/",

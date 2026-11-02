@@ -6311,7 +6311,7 @@
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "lumimaster（るぅみマスター）": {
@@ -55857,6 +55857,46 @@
       "sortKey": "2026-11-02",
       "prereg": false,
       "firstSeen": "2026-11-02T05:00:32.595Z"
+    },
+    "backyardbayou": {
+      "title": "Backyard Bayou",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T05:30:27.290Z"
+    },
+    "dave'shouse": {
+      "title": "Dave's House",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T05:30:27.290Z"
+    },
+    "galast": {
+      "title": "GALAST",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": true,
+      "firstSeen": "2026-11-02T05:30:27.290Z"
+    },
+    "king's:theeighttribes": {
+      "title": "King's : The Eight Tribes",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T05:30:27.290Z"
+    },
+    "ツイステ": {
+      "title": "ツイステ",
+      "dateText": "2026年12月23日",
+      "date": "2026-12-23",
+      "sortKey": "2026-12-23",
+      "prereg": false,
+      "firstSeen": "2026-11-02T05:30:27.290Z"
     }
   },
   "changeLog": [
@@ -60471,6 +60511,40 @@
       ],
       "from": "2027年1月31日",
       "to": "2026年12月14日"
+    },
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "new",
+      "label": "新規",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月2日"
+    },
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ツイステ",
+      "url": "https://www.disneyplus.com/ja-jp/explore/twisted-wonderland-the-animation",
+      "image": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg",
+      "platforms": [],
+      "to": "2026年12月23日"
+    },
+    {
+      "at": "2026-11-02T05:30:27.290Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月2日"
     }
   ],
   "initialized": true,
