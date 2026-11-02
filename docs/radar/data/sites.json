@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T10:30:53.846Z",
+  "updatedAt": "2026-11-02T11:00:27.545Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1187,
+  "total": 1188,
   "regions": {
-    "jp": 974,
+    "jp": 975,
     "global": 213
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 172
+      "count": 173
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "AppBank",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1c15d165833c",
+      "url": "https://www.monstercrate.co/ichorous",
+      "host": "monstercrate.co",
+      "region": "jp",
+      "title": "Ichorous",
+      "headline": "血飛沫舞う緻密ドット絵ローグライクアクション『Ichorous』クラファン開始！ デモ版も公開",
+      "description": "Ichorous is a blood-splattering roguelike about slaying grotesque enemies and using their blood to grow stronger.",
+      "publishedAt": "2026-11-02T10:45:02.000Z",
+      "addedAt": "2026-11-02T11:00:27.545Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/02/174399.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "9124f18f4c7b",
       "url": "https://www.dragonquest.jp/walk/",
