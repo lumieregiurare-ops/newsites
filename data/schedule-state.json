@@ -6309,9 +6309,9 @@
       "title": "白銀の城",
       "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z",
-      "dateText": "2026年12月14日",
-      "date": "2026-12-14",
-      "sortKey": "2026-12-14"
+      "dateText": "2027年1月31日",
+      "date": "2027-01-31",
+      "sortKey": "2027-01-31"
     },
     "bleachmirrorshigh": {
       "title": "BLEACH Mirrors High",
@@ -55710,6 +55710,14 @@
       "sortKey": "2026-11-05",
       "prereg": false,
       "firstSeen": "2026-11-02T01:00:38.858Z"
+    },
+    "perfectroute": {
+      "title": "Perfect Route",
+      "dateText": "2026年11月2日",
+      "date": "2026-11-02",
+      "sortKey": "2026-11-02",
+      "prereg": false,
+      "firstSeen": "2026-11-02T01:30:34.663Z"
     }
   },
   "changeLog": [
@@ -60264,6 +60272,21 @@
       ],
       "from": "2027年1月31日",
       "to": "2026年12月14日"
+    },
+    {
+      "at": "2026-11-02T01:30:34.663Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "白銀の城",
+      "url": "https://apps.apple.com/us/app/id6758292278",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "from": "2026年12月14日",
+      "to": "2027年1月31日"
     }
   ],
   "initialized": true,
