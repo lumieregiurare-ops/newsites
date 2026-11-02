@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T03:00:17.595Z",
+  "updatedAt": "2026-11-02T03:30:18.194Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1174,
+  "total": 1175,
   "regions": {
     "jp": 964,
-    "global": 210
+    "global": 211
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 421
+      "count": 422
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "49f97dc74419",
+      "url": "https://products.voltage.co.jp/switch/",
+      "host": "products.voltage.co.jp",
+      "region": "jp",
+      "title": "枷檻累々―うら黄泉照らす鬼灯夜―",
+      "headline": "イラストレーターにカズキヨネ氏を起用した完全新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」，2027年に発売決定",
+      "description": "イラストレーターにカズキヨネ氏を起用した完全新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」，2027年に発売決定",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "addedAt": "2026-11-02T03:30:18.194Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105426/20261029045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "94e28581483d",
       "url": "https://sunplusinc.jp/sakura-orchestra/",
@@ -28774,7 +28801,7 @@
       "id": "41738ddbfdbc",
       "url": "https://www.kemuriworld.com/home-jp/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
       "description": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
