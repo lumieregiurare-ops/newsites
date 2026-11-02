@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T02:30:17.235Z",
+  "updatedAt": "2026-11-02T03:00:17.595Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1173,
+  "total": 1174,
   "regions": {
-    "jp": 963,
+    "jp": 964,
     "global": 210
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 123
+      "count": 124
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 252
+      "count": 253
     },
     {
       "id": "release",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
     "Inside",
     "Game*Spark",
-    "4Gamer",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "94e28581483d",
+      "url": "https://sunplusinc.jp/sakura-orchestra/",
+      "host": "sunplusinc.jp",
+      "region": "jp",
+      "title": "サクラ大戦30周年記念オーケストラコンサート 〜継がれし旋律、華と共に〜",
+      "headline": "「サクラ大戦30周年記念オーケストラコンサート 〜継がれし旋律、華と共に〜」，2027年2月7日に開催決定",
+      "description": "「サクラ大戦30周年記念オーケストラコンサート 〜継がれし旋律、華と共に〜」，2027年2月7日に開催決定",
+      "publishedAt": "2026-11-02T02:45:49.000Z",
+      "addedAt": "2026-11-02T03:00:17.595Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999108/20261102004/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261102m"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "ff99257c3914",
       "url": "https://www.rof-mao.com/",
