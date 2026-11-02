@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-02T06:00:35.490Z",
+  "updatedAt": "2026-11-02T06:30:35.861Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
-      "appstoreSearch": 0.2,
-      "appstoreLookup": 0.1
+      "appstoreSearch": 4.4,
+      "appstoreLookup": 0.2
     },
     "nintendo": 267,
-    "steam": "error: HTTP 429 https://store.steampowered.com/search/results/?query&start=100&count=100&filter=popularcomingsoon&infinite=1&cc=jp&l=japanese",
+    "steam": 300,
     "news": 157,
     "appstore": {
-      "searched": 219,
-      "matched": 138,
+      "searched": 218,
+      "matched": 137,
       "preorder": 3,
       "fromLists": 1,
       "unverified": 4,
@@ -76,6 +76,806 @@
   },
   "releases": [
     {
+      "id": "b978e89fd27a",
+      "title": "20 Floors Down",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.176,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4780820/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780820/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "46055acdf4d0",
+      "title": "Aethyr Idle",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.144,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4843460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "896453296874",
+      "title": "Agent of Strange: Arrival",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.126,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4424740/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424740/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d219d8321733",
+      "title": "AI Digital Human Lab",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.08,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4180890/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180890/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a76fdb0a333b",
+      "title": "Ai-Breakout",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.202,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5405610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5405610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "387204da5144",
+      "title": "ANOMIA: Listening Post K-7",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.229,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5465860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3b3a32375d2c",
+      "title": "AUROK",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.295,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5270410/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5270410/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fa71bc668bc9",
+      "title": "Backyard Bayou",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.291,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3810780/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810780/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b0c7ac88d6fa",
+      "title": "Barely Alive",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.247,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2982710/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982710/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2ca3678040a1",
+      "title": "Beat For Speed",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.032,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4430260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4430260/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "826807c1c0ae",
+      "title": "Black Market Dealer",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.218,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4820800/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820800/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f7392717d522",
+      "title": "Blastlane Racers",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.113,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4398020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "daae91845ca3",
+      "title": "Blobby and the Milkshake",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2359999999999998,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5150470/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5150470/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "dd5897378255",
+      "title": "BOB LOGISTICS",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.076,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5009390/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009390/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5883bfbb7cb1",
+      "title": "BOB LOGISTICS Soundtrack",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2560000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5220560/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220560/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "067bfdf7e502",
+      "title": "BOOST VECTOR EX",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.014,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3832030/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3832030/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f5bc6fd9380e",
+      "title": "Brotato: Primal Dread",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.028,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4498220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498220/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1159394b5158",
+      "title": "Capy Farm",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.156,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4849560/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849560/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e23b0cda3616",
+      "title": "Castlepult",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.26,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2824980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824980/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fee0f5494a2d",
+      "title": "Cat Over Here!",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.165,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5031190/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5031190/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a0ff822b05ce",
+      "title": "Cellar Cleanup Simulator",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.143,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5013130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b5f8922e5927",
+      "title": "Cleanup Gone Wrong",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.21,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5456960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5456960/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d114497b660d",
+      "title": "Click to Obsolete",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.225,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4972790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0d2cce50fa7d",
+      "title": "Clicker Astro Planet 2",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.183,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4620670/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620670/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4cd91ada02b7",
+      "title": "Coldwater County",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.179,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4799360/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799360/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "449d3de964af",
+      "title": "Collapse Vector",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.252,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5051190/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051190/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "725a7b070ae7",
+      "title": "Colsword",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.282,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5053650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5053650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e592bf4b7f87",
+      "title": "Command-Ω Omega 2 Soundtrack",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.205,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5157650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5157650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "209755833133",
+      "title": "Cooking Carnage",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.238,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4887440/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4887440/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c3015a9950e1",
+      "title": "CrashOut",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.19,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5338200/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338200/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2b3310f60ab4",
+      "title": "Crime Podcast: Welcome to the Neighborhood",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.035,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4442840/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442840/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f7d66eb4a9fd",
+      "title": "Cubic Earth",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.093,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5379010/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5379010/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "896c568fd2e2",
+      "title": "Cutie Office",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.239,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5433850/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5433850/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "87c9d5d87e9d",
+      "title": "Dance of Drauganna",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.159,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4056920/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056920/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "13aa161b211c",
+      "title": "DashBreaker",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.263,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4878220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878220/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "bceec2e6b392",
+      "title": "Dave's House",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.288,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4534190/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534190/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b368c6a27313",
+      "title": "Dead Market",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.281,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4906610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ee25758aec0f",
+      "title": "Deal Flipper",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.14,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4819030/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819030/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "72a7af762c21",
+      "title": "Deskrot",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.206,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5389850/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5389850/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "884beceef220",
+      "title": "Dice Breakers",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.182,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4861080/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861080/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b1fde77513ad",
+      "title": "Directive 220",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.1310000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4596210/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596210/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "47aed96ddc9d",
+      "title": "Dreadmarch TD",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.293,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5365030/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365030/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ea5cfaadbb4a",
+      "title": "Drum Incremental",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.181,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4656440/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656440/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6b4219903ae2",
+      "title": "Dwarf the Dungeonist",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.268,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4586730/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586730/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "816584d707ac",
+      "title": "Ephemer",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.251,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5463750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5463750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ca3da38c3735",
+      "title": "European Truck Manager",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.121,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5323350/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5323350/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5b9dfee22c6f",
+      "title": "Extracto Proviso",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.231,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4562860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4854fe344a0b",
+      "title": "Feed The Forest",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.087,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4362170/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362170/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5474a22665c0",
+      "title": "Figure Me Out",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.017,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5313470/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5313470/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0a86087c23f0",
+      "title": "Food Delivery Simulator 2027 - Prologue",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.075,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3873120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "b1c2d8a448e1",
       "title": "GALAST",
       "date": "2026-11-02",
@@ -91,6 +891,1702 @@
       "headline": "『GALAST』が11月2日15:00に正式サービス開始！ 将棋・麻雀・チェスなどを1本に集めたオンライン対戦ボードゲーム",
       "source": "AppBank",
       "sourceUrl": "https://www.appbank.net/2026/11/02/game/3151853.php"
+    },
+    {
+      "id": "4d645747a316",
+      "title": "Galaxy Cube: Falling Blocks",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.24,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5371550/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371550/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "69c704809c88",
+      "title": "Goalcrest: Club Management Tycoon",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.17,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5019830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019830/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "46d14ea9f9a0",
+      "title": "Goats and Shrubs: Desktop Topiary",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.178,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5092480/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5092480/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "25b39deebef7",
+      "title": "Graveyard Cabin",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.157,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4659660/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659660/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "429c3a05c6a7",
+      "title": "GRAVHOUNDS",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.01,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2440760/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440760/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a80de80b902b",
+      "title": "Gridfire",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.197,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3787980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787980/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "180c927973fc",
+      "title": "Gunship Incremental",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.164,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5000980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000980/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "56e8fb0afb17",
+      "title": "Habet",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.092,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5333990/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5333990/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d12a34f151ac",
+      "title": "Have you seen my knife?",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.248,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5395140/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395140/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a4547c9ad456",
+      "title": "Hidden Gnomes",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.25,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4602050/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602050/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0ef8373c6ef0",
+      "title": "Hotel 13",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.123,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5046340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5046340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "647a71a3afce",
+      "title": "House Of Echoes",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.184,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4941280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4941280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0088310ed976",
+      "title": "Hunt The Ducks",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.233,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5135400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0645924ac44d",
+      "title": "Hunters Trial : One Breath",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.153,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4832770/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832770/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e2379e72a7f6",
+      "title": "Hush Piñata",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.259,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5059340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "431f013d4271",
+      "title": "IMMRAMA: Voyages of the Otherworlds",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.203,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4971780/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971780/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "583a4dd8e1c9",
+      "title": "Immune Response",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.226,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4889910/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889910/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "23a726cf3eb0",
+      "title": "Imperium",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.055,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4806180/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806180/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "eadffa8ad024",
+      "title": "Inside Job",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.161,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4736090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736090/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "66725c646c98",
+      "title": "IRON SOL",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.072,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5271880/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5271880/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9146cbb785cf",
+      "title": "Iron Void : Silent Space",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.163,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5038720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4e225293b42d",
+      "title": "Jeremy is Broke",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.18,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4748210/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748210/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4b4abd6b1cce",
+      "title": "JOINT LIABILITY",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.274,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5038400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "489955b3ab02",
+      "title": "Just Kill",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.174,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5184450/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184450/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9d84b478a636",
+      "title": "Just One Bite",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.245,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4347010/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347010/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f40fbb5df530",
+      "title": "Kart League Manager",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.151,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5345280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "829039434aaf",
+      "title": "Killer Aces Volleyball",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.098,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3780970/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3780970/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2e691c29ebd9",
+      "title": "King's : The Eight Tribes",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.289,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5256600/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256600/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c59e9da83aac",
+      "title": "Legend of Defenders - Halloween DLC",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.212,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5471750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5471750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fec7a83030b0",
+      "title": "Little Pagan Land",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.267,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5325180/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325180/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d5f9b100a67e",
+      "title": "LUCKY BLOCK",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.186,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5254750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5254750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "00f9451647bd",
+      "title": "Make the World Great Again",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.155,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4595460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "eeae03c1090b",
+      "title": "marblebuilds",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.132,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4285270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285270/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c271b54a68fd",
+      "title": "Mayday: The Survival Island",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.018,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/1686230/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1686230/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2bf662c54067",
+      "title": "Meow Time: cozy cat room",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.146,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4072400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d8601ead399e",
+      "title": "Minefield: Rupture",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.227,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5067830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5067830/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "da87df3e7f19",
+      "title": "MMO Simulator: ASCENSIONS",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.167,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5058380/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058380/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5aeff9915354",
+      "title": "MORTISCRIPT: Undead Auto Battler Demo",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.298,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5429640/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5429640/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "367e398546a9",
+      "title": "Mutualist",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2439999999999998,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5367990/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367990/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1cd4ee00915a",
+      "title": "MyDear.exe",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.127,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4255640/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255640/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fca2d2a8ded2",
+      "title": "Mystery IQ Test",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.235,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5434670/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5434670/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "27e7c8dd4432",
+      "title": "Nanoquarium",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.283,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4883060/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883060/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "bce43805c116",
+      "title": "NEVER TURN BACK",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.266,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4961110/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961110/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fcaa43e78d04",
+      "title": "Null Recall",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.198,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4260610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "60e3b3ca8163",
+      "title": "On Your Own: Survival Inventory",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.199,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3883110/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883110/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7a7f7d60d611",
+      "title": "Only Axolotls",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.23,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5205450/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5205450/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4eae8afbd923",
+      "title": "Only Mining",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.221,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4349420/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4349420/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7b40a9fd2563",
+      "title": "Perfect Route",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.271,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5014540/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014540/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7f5325e63a06",
+      "title": "Phantom Solace",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.223,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5433840/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5433840/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "884c1a45420f",
+      "title": "Pixel Motion Studio",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.168,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4896890/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896890/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e62553043419",
+      "title": "PlayCard Football",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.204,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5028910/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028910/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7efea9b61ff5",
+      "title": "President Club 27",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2800000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5424580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5424580/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b6764f63fc38",
+      "title": "Primal Heir: The Mortal Realm",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.276,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5194540/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5194540/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3951b0b3a231",
+      "title": "PrintMarket",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.299,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5435120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1e765b3b8d09",
+      "title": "Prison Anomaly",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.22,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4974130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4ca49a58dffd",
+      "title": "Relicta In Memoriam",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.253,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4536940/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536940/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9a5f8161ed52",
+      "title": "Roll to Riches",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.228,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4704530/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704530/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e23dfdb432f7",
+      "title": "Sabado",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.021,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4986750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ef2972ca6dcd",
+      "title": "Saddlebow",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.222,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5177220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5177220/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "88a8465a4c4c",
+      "title": "SAPU: Reborn",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.241,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5407580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5407580/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "391c26f501ee",
+      "title": "Search for Sol",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.257,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4397510/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397510/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d0e33a8ed77a",
+      "title": "Seedling",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.215,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/323880/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323880/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d994ca739cbd",
+      "title": "Shady Contractor",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.249,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5060600/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060600/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6ad7e347f757",
+      "title": "Shin'ai Rewritten",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.209,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4837000/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4837000/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e4bd3d02b24a",
+      "title": "ShootyCraft",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.169,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5008260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008260/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "64454e41eb0a",
+      "title": "Shwoop",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.185,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4029240/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4029240/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "327a9f997ea7",
+      "title": "Sidechain",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.296,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5365920/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365920/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4d7d6ac9f27f",
+      "title": "Silicon Sprint: Data Center Incremental",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.27,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5145270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145270/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "89427d1948d8",
+      "title": "Snack Attack",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.294,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5341630/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5341630/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c9859df45aa7",
+      "title": "Snot Pop!",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2640000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4916720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "30c8cc9400dc",
+      "title": "Sort My Comics !",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.152,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5062340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "00bce8936e1b",
+      "title": "Speed Goes Up",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.254,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5049860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "48c905840021",
+      "title": "Squadron 404",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.297,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4945780/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945780/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3e815e61372f",
+      "title": "Strike Wings",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.158,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4718360/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4718360/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2e50f185c454",
+      "title": "Subsomnia",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.285,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4559960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559960/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c85d153c62ea",
+      "title": "Survive The Apocalypse",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.279,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4693790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "40390aed7b47",
+      "title": "Table of War",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.175,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5060350/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5060350/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "60a39a0b8ab6",
+      "title": "The Arcane Archive",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.243,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5443280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "8638b654b3b8",
+      "title": "The Background Warrior",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.16,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4653200/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653200/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "51e9008a1129",
+      "title": "The case parking",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.275,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4749330/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749330/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "acc78267f810",
+      "title": "The Day I Became a Werewolf",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.211,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5037130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b3ae2bb7c147",
+      "title": "The Ice is Watching",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.201,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4367760/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367760/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b979bf6a3291",
+      "title": "The Last Ores",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.194,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4721020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4721020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "04589f3175ca",
+      "title": "The Omega Strain",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.273,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4952000/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952000/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "010dcac9922e",
+      "title": "The Returns Desk: A Cozy Library",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.2720000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5262310/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262310/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e57de13f17bd",
+      "title": "Tie Down",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.096,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4500020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4500020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a9b36e56ac80",
+      "title": "Trash City Turbo: Handling Demo",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.213,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4484260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484260/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "05886a60fe8e",
+      "title": "TRAUMATA",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.277,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3372040/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372040/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d07f159e1342",
+      "title": "Typenstein: A Symphony of Keys",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.258,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4683830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683830/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "dd15d0a97abc",
+      "title": "Verdant Requiem",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.112,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4744400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6c2e13faf519",
+      "title": "Verdreamia",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.255,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5055800/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5055800/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ad76bcf6dfea",
+      "title": "VOID PROFIT",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.081,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4687990/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687990/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d662a79e9220",
+      "title": "Wend",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.232,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4884610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b1ecade21f3c",
+      "title": "Where The Light Sleeps",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.286,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4990890/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990890/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5437e0580ac1",
+      "title": "WHO CHANGED IT?",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.234,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5167460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5167460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7b37ff347ab1",
+      "title": "Wizard’s Path: Palette of Spells",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.177,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4669130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4669130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d837ee12eecb",
+      "title": "Wurst and Glory",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.195,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4934020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c5f5adc0057c",
+      "title": "XENOFLEKT",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.278,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4620950/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4620950/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c66f099c36c6",
+      "title": "Zero Hero Demo",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.292,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2711710/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2711710/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "300366564fb2",
+      "title": "プリンコアイドル ベータ",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.111,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3684530/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3684530/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "66db3dac1a73",
+      "title": "英雄变美",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.193,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4947930/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947930/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "bd2598a7cad9",
+      "title": "楽園の採掘師",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.106,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4655130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "63e5627dc98c",
+      "title": "鉱夫はReplaceされました()_",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.059,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4521700/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521700/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "df5fc39618a3",
+      "title": "今じゃない、エイリアン！",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.147,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5045680/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045680/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "89854e733a69",
+      "title": "中古ゲームショップ シミュレーター",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.047,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3683940/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3683940/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6ff915abc517",
+      "title": "童話の掃除屋",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.12,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4764420/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764420/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "ad13dc5134ff",
@@ -111,19 +2607,532 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261021n"
     },
     {
-      "id": "5b1067591613",
+      "id": "53903a898d2f",
+      "title": "農家は Replace() されました サウンドトラック",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.242,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5447020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5447020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "08ceb3ab2e03",
+      "title": "放置ゲームセンター Corner Arcade",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.261,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4228450/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228450/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c811512961ae",
+      "title": "要塞英雄伝",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.027,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4740930/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4740930/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2f53e45d327f",
+      "title": "奶蛙坤坤大战外星人（不要对游戏过度解读，我自己都不知道自己想要表达什么）",
+      "date": "2026-11-02",
+      "dateText": "2026年11月2日",
+      "sortKey": "2026-11-02",
+      "priority": 3.217,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5432290/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432290/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3fac61261037",
+      "title": "「エコーズ オブ セントラル・パーク」DLC - ディビジョン2",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.166,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5109260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109260/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c6e1bdb0f461",
+      "title": "「エコーズ オブ セントラル・パーク」デラックスDLC - ディビジョン2",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.15,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5109220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109220/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d9d554865acb",
+      "title": "ArcheAge Chronicles",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3218230/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "107d39d40f77",
+      "title": "Astra Bestiary",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.136,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3529090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529090/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a0990af485ff",
+      "title": "Backdraft",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.086,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2218060/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218060/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "67a032aeee93",
+      "title": "Broken Rift: Dominion",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.138,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5122860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e397373d26f3",
+      "title": "Construction Store Simulator",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.208,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3891470/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891470/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f730eed35634",
+      "title": "Crown & Coin: The Hundred Years（百年戦争）",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.154,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4476270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476270/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2f7fe238358c",
+      "title": "Dead Sector",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.103,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4736470/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736470/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a09a867bb184",
+      "title": "Diecast",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.134,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2443590/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2443590/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a1cb19cbf5d3",
+      "title": "Dungeons & Dynasties",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.024,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5101960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101960/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "47fc0ab3c95b",
+      "title": "Fathom Reach",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.187,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4840010/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840010/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f5a69403c6c3",
+      "title": "Food Devils",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.062,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2861730/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861730/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c3d2b90a01e5",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.004,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4251460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "46be04378818",
+      "title": "HAVKER-MAN X",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.116,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3645540/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645540/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d6608c098fc3",
+      "title": "HOLD MY WHEEL",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.214,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4410360/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4410360/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "a38f4ab54c62",
+      "title": "Hollow",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.246,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4901160/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901160/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6549877b85fe",
+      "title": "How Empires Work",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.149,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4663730/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663730/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ad3d7c13a893",
+      "title": "Kick",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.133,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3760370/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3760370/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "88d7e458efe5",
+      "title": "Livin' the Cream: Ice Cream Simulator",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.095,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4621810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621810/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "99cfee10432d",
       "title": "Loftia",
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
       "priority": 0,
-      "platforms": [],
-      "url": "https://loftia.gg/",
-      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2320980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
       "maker": "",
-      "headline": "戦闘も競争もないライフシムMMO「Loftia」の早期アクセス版が11月3日に配信開始",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/973/G097300/20260918057/"
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6cab529b41cc",
+      "title": "Mycelarium",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.023,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5181520/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5181520/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f14f51b08166",
+      "title": "Pathos",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.219,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5062560/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062560/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2ad884ccf654",
+      "title": "Potato Please",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.036,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5266240/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "eee12e489482",
+      "title": "Ramen Shop Simulator",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.022,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3393720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6276710fd693",
+      "title": "The Clock the Queen and the Door on the Beach",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.188,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4556080/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556080/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3291e0dddf18",
+      "title": "The House Before",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.128,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/1779750/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1779750/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4990118f301d",
+      "title": "Traffic Architect",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.039,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5028050/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028050/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7d67addb61fe",
+      "title": "Undead Development 2",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.124,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/1587920/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587920/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "6690fb8e7d90",
@@ -144,6 +3153,358 @@
       "sourceUrl": "https://www.4gamer.net/games/050/G105084/20261016024/"
     },
     {
+      "id": "b1ce2a265181",
+      "title": "フレミング邸の殺人事件",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.011,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3758950/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3758950/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c04fbd1b13a9",
+      "title": "ボクボク",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.265,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4031280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1f160ebae0af",
+      "title": "修羅の殺陣",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.107,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/1892100/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892100/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3d421d4e9e2d",
+      "title": "生存者の錬金術",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.284,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4225280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "4341f8275d7f",
+      "title": "妹調教日記",
+      "date": "2026-11-03",
+      "dateText": "2026年11月3日",
+      "sortKey": "2026-11-03",
+      "priority": 3.051,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4286110/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286110/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "523a1b1aeae4",
+      "title": "ALTEREDBLOOD+ [AB+]",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.03,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4318080/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318080/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "890dfd8e6049",
+      "title": "Blood & Canvas: Bareknuckle Boxing",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.141,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4982860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4982860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c2c90033d804",
+      "title": "Camping Resort Simulator",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.196,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4952320/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952320/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c94375edc8e0",
+      "title": "Cozy Game Restoration",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.008,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3581230/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581230/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "52b91a1175ca",
+      "title": "Echo Mates",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.094,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5113760/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113760/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "60927de3e270",
+      "title": "FailRooms",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.048,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5217440/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217440/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d7681675da4e",
+      "title": "Horses of Hoofprint Bay",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.069,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3727090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3727090/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0e7e00614a75",
+      "title": "Hull Rupture",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.042,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4358660/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358660/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6efd037551b4",
+      "title": "Just Dying",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.2,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4646190/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646190/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3227e4bc7028",
+      "title": "just volleyball",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.001,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5037200/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1e477f217050",
+      "title": "Lost Host",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.118,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3273260/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3273260/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "836b1acf09f8",
+      "title": "Pionero Capital",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.101,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3275210/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3275210/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "c4702aeefcd5",
+      "title": "Plague Inc: The Board Game",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.115,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5283340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5283340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "406e70be074e",
+      "title": "Theos: Cities Of Myth",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.063,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3002130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3002130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "32ff36ffd0b9",
+      "title": "Total Blade: Mythology",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.056,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4427790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4427790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9524e74e38cd",
+      "title": "Warlapse",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.135,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4920680/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920680/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "082bc4874414",
+      "title": "WendyQuest: Legend of the Four Corner Stones",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.038,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3339970/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3339970/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "871c2b29e785",
       "title": "World of Warcraft: Forever",
       "date": "2026-11-04",
@@ -157,6 +3518,22 @@
       "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
+    },
+    {
+      "id": "c4d66141385c",
+      "title": "クライムライト／CRYMELIGHT",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.031,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3891160/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891160/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "b15112240c1e",
@@ -197,6 +3574,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "b75ee341aeb7",
+      "title": "夢幻桜楼閣",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.053,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2991310/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "36ade5878097",
       "title": "1x1 Street Football: mini soccer PvP",
       "date": "2026-11-05",
@@ -218,6 +3611,22 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "6319fc2e938a",
+      "title": "Airframe Ultra",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.083,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2522120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2522120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "beb29919f2f9",
@@ -388,6 +3797,70 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "32be4eee9088",
+      "title": "Civitas: World Simulator",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.137,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4904200/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904200/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3e889f42c68a",
+      "title": "Dirt Clicker",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.084,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4572120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1b213d9e52c5",
+      "title": "Dominus Gladiatus",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.026,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3572090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3572090/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e9ccd23e07f7",
+      "title": "Dungeon Munchies 2 餐癮地城：貳度救業",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.064,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/1460810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1460810/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "684c8910ba6c",
       "title": "EGGコンソール は〜りぃふぉっくす MSXスペシャル MSX",
       "date": "2026-11-05",
@@ -454,6 +3927,22 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "3f08a3ebb20e",
+      "title": "Gildoria - Organize a Dragon's Hoard",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.262,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5017810/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017810/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "2b9247f4d5e7",
@@ -657,6 +4146,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "b5a30cd9083a",
+      "title": "LYSSA: Goddess of Rage",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.037,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5096020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "2fda60ec4afc",
       "title": "Marvel's Guardians of the Galaxy: Encore Edition",
       "date": "2026-11-05",
@@ -679,21 +4184,69 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "0069d9789d4e",
+      "id": "f6361fc45f0f",
+      "title": "Meadgard",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.07,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2433560/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433560/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "846a93776528",
+      "title": "MUPO",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.29,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4146650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6feef16726ad",
       "title": "PAYDAY: Aces High",
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
       "priority": 0,
       "platforms": [
+        "pc",
         "vr"
       ],
-      "url": "https://www.paydaythegame.com/aceshigh/",
-      "image": "",
+      "url": "https://store.steampowered.com/app/3456660/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456660/header.jpg",
       "maker": "",
-      "headline": "今度の“ヤマ”にはVRで挑む。「PAYDAY: Aces High」，11月5日にリリース決定。最大4人で遊べる協力型クライムFPS最新作",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/993/G099310/20261027024/"
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6287b83b7d28",
+      "title": "PHUY",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.224,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4132280/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132280/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "53d32f276428",
@@ -741,6 +4294,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "ee2ca238b273",
+      "title": "SpellChain",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.079,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3573120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "4b04075e4fa4",
       "title": "The Slormancer",
       "date": "2026-11-05",
@@ -764,6 +4333,38 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "8bd16959ed8a",
+      "title": "The Winery - Winemaking Simulator",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.142,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4914970/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914970/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "022b96cb4018",
+      "title": "Underkeep",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.02,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2411200/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2411200/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "cc7fadf7e8ca",
       "title": "VALKYRIE TUNE：機械仕掛けのアイ",
       "date": "2026-11-05",
@@ -784,6 +4385,54 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "a961ea9508ba",
+      "title": "Wielders of the Essence",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.162,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3546610/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3546610/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9d16663b45c5",
+      "title": "WORKS: Motorsport Factory",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.102,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5119400/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5119400/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5a0b5272e242",
+      "title": "ZONE L.O.S.T.",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.06,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4420660/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420660/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "5eb3de7fb8e0",
@@ -830,6 +4479,38 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "2af1402859f6",
+      "title": "エスケープ・アカデミー2：バック・トゥ・スクール",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.074,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3296060/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296060/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9ef15ab0c2aa",
+      "title": "カウンティ・オブ・フォーチュン",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.015,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3204330/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204330/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "80728cf4711f",
@@ -1115,6 +4796,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "9a530ce85bbc",
+      "title": "リーナのお掃除物語",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.04,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3577020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3577020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "b6ed4ced47d1",
       "title": "意味がわかると不気味なマンガ 〜ーゾッとする意味怖謎解き都市伝説怪談ゲームー〜",
       "date": "2026-11-05",
@@ -1181,6 +4878,22 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "6b7566608540",
+      "title": "犬の夢",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.114,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4159350/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159350/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "dff582c7cb16",
@@ -1356,6 +5069,38 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "b5ffb2173106",
+      "title": "病能探偵",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.1,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3432860/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "2b67d1590976",
+      "title": "崩落の国",
+      "date": "2026-11-05",
+      "dateText": "2026年11月5日",
+      "sortKey": "2026-11-05",
+      "priority": 3.1390000000000002,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4139580/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4139580/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "f23d072eda5e",
       "title": "夢幻桜楼閣",
       "date": "2026-11-05",
@@ -1440,6 +5185,150 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "81e09dba7ade",
+      "title": "Carry On Together ～一緒に運ぼう～",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.016,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4776500/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776500/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "450b34a6391e",
+      "title": "Elven Huntress: Sunveil",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.05,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4725170/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725170/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ddb190d338e6",
+      "title": "Find The Needle",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.005,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5160800/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "7e23ff01cbea",
+      "title": "It's About Pirates",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.117,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4468540/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4468540/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0af99c8c7b4a",
+      "title": "Leviathan: Rhino",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.089,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4784510/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784510/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f313128cb80a",
+      "title": "Metro Anomaly",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.088,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4612650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1f099d1fe910",
+      "title": "PITH",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.189,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4775660/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775660/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "91c720933c56",
+      "title": "Pool of Radiance: Ruins of Myth Drannor",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.029,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4834760/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834760/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "573c7303a1d3",
+      "title": "Silk Collector: Tidy Up the Clothing Store!",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.145,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5285160/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285160/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "6caf91a3f47c",
       "title": "Stellar Blade™ コンプリートエディション",
       "date": "2026-11-06",
@@ -1461,6 +5350,22 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "3c90857c92b4",
+      "title": "キングマイン：ジオフロント",
+      "date": "2026-11-06",
+      "dateText": "2026年11月6日",
+      "sortKey": "2026-11-06",
+      "priority": 3.171,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4767130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "619c1c78d030",
@@ -1526,6 +5431,150 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "8b37ef86967a",
+      "title": "Casualties: Unknown",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.025,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4576490/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0198e82bcf1c",
+      "title": "DREADMOOR (ドレッドムア)",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.006,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3629430/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ed2c267efb0d",
+      "title": "Oboro no Ichi",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.125,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4559930/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559930/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "9359ad4453b4",
+      "title": "PeeVPee",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.034,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5086460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "ad8901e5fce1",
+      "title": "Safari-TV",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.041,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5118500/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3b85a10bbbf7",
+      "title": "Waifu Curator",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.287,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5182720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0a6c8444393c",
+      "title": "Worst Class Ever",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.009,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5175310/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "792ad7263db7",
+      "title": "スロットバウンド - Slotbound",
+      "date": "2026-11-09",
+      "dateText": "2026年11月9日",
+      "sortKey": "2026-11-09",
+      "priority": 3.148,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4459590/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "fb36a67e88b6",
+      "title": "Ashes of the Singularity II",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.071,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3499790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "ab7727e4a1c8",
       "title": "Booster Pack Heroes",
       "date": "2026-11-10",
@@ -1542,6 +5591,102 @@
       "headline": "パック開封×インクリメンタル『Booster Pack Heroes』11月10日発売決定！ Steam・iOS・Androidで同時配信",
       "source": "AppBank",
       "sourceUrl": "https://www.appbank.net/2026/09/28/game/3115905.php"
+    },
+    {
+      "id": "3764d895f25e",
+      "title": "DreamWorks Shrek 2 Remastered",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.007,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2523740/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523740/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "e7ddb461a36e",
+      "title": "Euro Truck Simulator 2 - Iceland",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.073,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3796990/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796990/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "57f0c921af35",
+      "title": "Football Manager 27",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.003,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4530370/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1323578ef4c7",
+      "title": "Hillthorn",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.216,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3504050/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504050/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "f08d6d80bd80",
+      "title": "Monster Train 2: The Punished",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.237,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4739980/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739980/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "3d1ac9235f3c",
+      "title": "Potion-making: Path of the Alchemist",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.091,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3710120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "fda597f5b866",
@@ -1590,6 +5735,38 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "d3a23c01b4f3",
+      "title": "Warhammer Survivors",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.013,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3669620/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6a69aeb3d667",
+      "title": "ストームフォージ",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.082,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2826790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2826790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "46aad71d3c37",
       "title": "テーブルゲームワールド CCFOLIA for Nintendo Switch 2",
       "date": "2026-11-10",
@@ -1612,19 +5789,100 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "ba5342656211",
+      "id": "45aa61000189",
+      "title": "ブースターパックヒーロー",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.122,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4618570/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "552baa0b7952",
+      "title": "色で仕分けるな",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.066,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4876650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "91f6d026345c",
+      "title": "勇者パーティはぜんめつしました。",
+      "date": "2026-11-10",
+      "dateText": "2026年11月10日",
+      "sortKey": "2026-11-10",
+      "priority": 3.052,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2638080/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "23e0ffce7115",
+      "title": "JOHN GLEEP",
+      "date": "2026-11-11",
+      "dateText": "2026年11月11日",
+      "sortKey": "2026-11-11",
+      "priority": 3.192,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4739500/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739500/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "de612d014e1c",
       "title": "Wall World Strategy",
       "date": "2026-11-11",
       "dateText": "2026年11月11日",
       "sortKey": "2026-11-11",
       "priority": 0,
-      "platforms": [],
-      "url": "https://alawar.com/games/wall-world-strategy",
-      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4218360/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218360/header.jpg",
       "maker": "",
-      "headline": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/052/G105259/20261023001/"
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "0adc61ab6aa4",
+      "title": "ファーム＆フィースト / Farm & Feast",
+      "date": "2026-11-11",
+      "dateText": "2026年11月11日",
+      "sortKey": "2026-11-11",
+      "priority": 3.099,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4521650/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521650/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "c03e43053fc7",
@@ -1661,6 +5919,22 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "3df5b429471a",
+      "title": "Euro Truck Simulator 2 - Coaches",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "priority": 3.13,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3809270/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "7a3a13254b7a",
@@ -1703,6 +5977,54 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "120ec0e5b410",
+      "title": "Main Sequence",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "priority": 3.077,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2487190/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "406bcaf8a045",
+      "title": "Malignus",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "priority": 3.09,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4672030/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5b64333aa20e",
+      "title": "One More Lawn",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "priority": 3.067,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5378110/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "b12c8c476134",
@@ -2289,6 +6611,22 @@
       "dateSource": "appstore"
     },
     {
+      "id": "049a6f64c91e",
+      "title": "レンデ社長！伝説のスキーリゾート経営",
+      "date": "2026-11-12",
+      "dateText": "2026年11月12日",
+      "sortKey": "2026-11-12",
+      "priority": 3.269,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4493130/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "42b636a670d8",
       "title": "怪獣ガールズ：モンスターを捕まえて恋に落ちろ (Kaiju Girls: Trap Giant Monsters & Fall in Love)",
       "date": "2026-11-12",
@@ -2422,6 +6760,70 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "4614d49f79b8",
+      "title": "DERELIKT",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.085,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3810510/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "95310472bc05",
+      "title": "Dice Hoarder",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.11,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3687090/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "cf6b9fbed3c1",
+      "title": "Drawquarium ドロークアリウム",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.012,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4045480/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "d97f1ef9ebb5",
+      "title": "HANDS OVER",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.019,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4661070/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "5530f29079dd",
       "title": "The Lost Pit",
       "date": "2026-11-13",
@@ -2443,6 +6845,38 @@
       "priority": 1,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "a61cb06ead96",
+      "title": "We March as One",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.1189999999999998,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5189160/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "6695ecc9636f",
+      "title": "ワロタ、俺の家のとなり魔王城www",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 3.105,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2860490/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "7d45a893b8f6",
@@ -2483,6 +6917,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "10b7b2b0d9a0",
+      "title": "Dungeonbound",
+      "date": "2026-11-15",
+      "dateText": "2026年11月15日",
+      "sortKey": "2026-11-15",
+      "priority": 3.058,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5200620/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "62c528cef34f",
       "title": "RPGツクールU2U",
       "date": "2026-11-16",
@@ -2496,6 +6946,38 @@
       "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
+    },
+    {
+      "id": "85a3cc5bccf6",
+      "title": "Spirit Crossing",
+      "date": "2026-11-16",
+      "dateText": "2026年11月16日",
+      "sortKey": "2026-11-16",
+      "priority": 3.104,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2321960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321960/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1f25576d9eaa",
+      "title": "Melvor Idle 2",
+      "date": "2026-11-17",
+      "dateText": "2026年11月17日",
+      "sortKey": "2026-11-17",
+      "priority": 3.078,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3218350/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "a3ab13f30e09",
@@ -2940,6 +7422,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "d94ebb2f8e4c",
+      "title": "Reshine",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "priority": 3.065,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4253570/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "5625387c552f",
       "title": "カスケード",
       "date": "2026-11-26",
@@ -3154,6 +7652,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "4a39181e955f",
+      "title": "ROB RUN",
+      "date": null,
+      "dateText": "2026年11月",
+      "sortKey": "2026-11-32",
+      "priority": 3.054,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4262460/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "46f0818e2370",
       "title": "かまいたちの夜",
       "date": null,
@@ -3237,7 +7751,8 @@
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
       "platforms": [
-        "switch2"
+        "switch2",
+        "pc"
       ],
       "url": "https://store-jp.nintendo.com/item/software/D70010000132961",
       "image": "https://img-eshop.cdn.nintendo.net/i/f667e8f36696c1c41226b8bca9395c924dd8c51a1960984bf6b73b88a1670196.jpg",
@@ -3435,6 +7950,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "ab2d4a88cba1",
+      "title": "Dumpster Gang",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "priority": 3.033,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2870790/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870790/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "144ddd261b9d",
       "title": "Fall Up ピョンピョン大冒険",
       "date": "2026-12-03",
@@ -3514,6 +8045,22 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "129ab1ca2ee0",
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "priority": 3.097,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2272360/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "af467fadb725",
@@ -3836,6 +8383,70 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "17329cedb21b",
+      "title": "Unharvest",
+      "date": "2026-12-07",
+      "dateText": "2026年12月7日",
+      "sortKey": "2026-12-07",
+      "priority": 3.057,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5138990/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138990/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "b3976c4f2207",
+      "title": "Never Be Alone",
+      "date": "2026-12-08",
+      "dateText": "2026年12月8日",
+      "sortKey": "2026-12-08",
+      "priority": 3.044,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2988120/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988120/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "33b3b1e948a3",
+      "title": "PUKEY GODDESS SHOT TRICK",
+      "date": "2026-12-08",
+      "dateText": "2026年12月8日",
+      "sortKey": "2026-12-08",
+      "priority": 3.046,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4150720/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "50ff75f3f93a",
+      "title": "ガンズ・オブ・エスカトン",
+      "date": "2026-12-08",
+      "dateText": "2026年12月8日",
+      "sortKey": "2026-12-08",
+      "priority": 3.207,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3734220/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3734220/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "be96db0c4ef6",
@@ -4596,6 +9207,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "45006171807f",
+      "title": "Frostrail",
+      "date": null,
+      "dateText": "2026年第4四半期",
+      "sortKey": "2026-12-31",
+      "priority": 3.049,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3517740/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517740/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "131e86125c86",
       "title": "REANIMAL: The Expanded World: Chapter 2",
       "date": "2026-12-31",
@@ -4766,6 +9393,22 @@
       "sourceUrl": "https://www.4gamer.net/games/891/G089129/20260915036/"
     },
     {
+      "id": "cd9cc9be11b5",
+      "title": "Dear Passengers",
+      "date": null,
+      "dateText": "2026年",
+      "sortKey": "2026-13-00",
+      "priority": 3.043,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4534960/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "ed546c330cb8",
       "title": "Armatus",
       "date": "2027-01-08",
@@ -4787,6 +9430,22 @@
       "priority": 2,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "45a717665761",
+      "title": "Mortuus",
+      "date": "2027-01-11",
+      "dateText": "2027年1月11日",
+      "sortKey": "2027-01-11",
+      "priority": 3.068,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/3680170/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3680170/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "193a4c203c9f",
@@ -5468,6 +10127,22 @@
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
+      "id": "f8b478a857b8",
+      "title": "Family Time",
+      "date": null,
+      "dateText": "2027年第1四半期",
+      "sortKey": "2027-03-31",
+      "priority": 3.109,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5072600/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5072600/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "706952e3894d",
       "title": "歴史の終わり",
       "date": null,
@@ -5779,27 +10454,6 @@
       "maker": "Activision",
       "genre": [
         "アドベンチャー"
-      ],
-      "price": null,
-      "status": "",
-      "priority": 2,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "1eb117a5a92c",
-      "title": "The Duskbloods",
-      "date": null,
-      "dateText": "2027",
-      "sortKey": "2027-13-00",
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000096715",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1a0152b5a5f033a2055858886af3c931f22ed8f4400fc2673b7a225336f419cd.jpg",
-      "maker": "フロム・ソフトウェア",
-      "genre": [
-        "アクション"
       ],
       "price": null,
       "status": "",
@@ -6995,19 +11649,6 @@
       "to": "2027年10月"
     },
     {
-      "at": "2026-10-31T07:00:28.067Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "The Duskbloods",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000096715",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1a0152b5a5f033a2055858886af3c931f22ed8f4400fc2673b7a225336f419cd.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026",
-      "to": "2027"
-    },
-    {
       "at": "2026-10-30T11:00:29.473Z",
       "type": "new",
       "label": "新規",
@@ -7517,6 +12158,18 @@
       "title": "Car Sales: Dream Cars",
       "url": "https://store-jp.nintendo.com/item/software/D70050000083481",
       "image": "https://img-eshop.cdn.nintendo.net/i/ed50d696a76fb9fceec25717694e512d0b88372a90127c83a7fcb2fabb385e49.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Car Sales Simulator 2026 DELUXE EDITION",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000041453",
+      "image": "https://img-eshop.cdn.nintendo.net/i/34b7c3d9c13c5fd37a32d3acd215840d8674efdeee5c6ab4c161745ed3d137ec.jpg",
       "platforms": [
         "switch"
       ],
