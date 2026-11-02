@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T15:00:18.489Z",
+  "updatedAt": "2026-11-02T15:30:16.773Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1192,
+  "total": 1195,
   "regions": {
-    "jp": 978,
-    "global": 214
+    "jp": 980,
+    "global": 215
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 429
+      "count": 431
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 175
+      "count": 176
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 374
+      "count": 376
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,97 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c142a000f2fc",
+      "url": "https://a24jp.com/films/unicorn/",
+      "host": "a24jp.com",
+      "region": "jp",
+      "title": "ユニコーンを轢いた",
+      "headline": "アリ・アスターが製作総指揮を務める新作映画『ユニコーンを轢いた』予告編＆ポスター2種が解禁。ユニコーンによる“地獄の復讐劇”が描かれる",
+      "description": "ニューヨークを拠点とする気鋭の独立系映画スタジオA24の日本版公式サイト。ハピネットファントム・スタジオが運営し、A24×HPS作品の最新情報をお伝えします。",
+      "publishedAt": "2026-11-02T15:12:12.000Z",
+      "addedAt": "2026-11-02T15:30:16.773Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611022p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://a24jp.com/wp-content/uploads/2026/08/DETH-OF-A-UNICORN%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%95%E8%AA%BF%E6%95%B4%E6%B8%88%E3%81%BF%EF%BC%89-1920x1080.jpg"
+    },
+    {
+      "id": "db31f858bb10",
+      "url": "https://play.google.com/store/apps/details?id=com.TheFarmerWasReplaced.TheFarmerWasReplaced",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "農家は Replace() されました",
+      "headline": "農場を“プログラミング”で自動化するゲーム『農家は Replace() されました』初の大型DLCが本日11月3日より配信。DLC収録のモバイル版も同日リリース",
+      "description": "Python風のコードで農場を自動化し、ドローンを地下へ送り込もう。",
+      "publishedAt": "2026-11-02T15:00:29.000Z",
+      "addedAt": "2026-11-02T15:30:16.773Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611032s"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/_ydAx6PydQi16nFkHOvkGDTK1MO3fMki2AcFLF7NNy5ge3MnjeV4PT0erLOGYqjZ6o5W2jeIb6tWjRda4Hi41Q=s0-br30"
+    },
+    {
+      "id": "08879620f289",
+      "url": "https://www.metaroot.ch/press-kit/the-farmer-was-replaced",
+      "host": "metaroot.ch",
+      "region": "global",
+      "title": "農家は Replace() されました",
+      "headline": "「農家は Replace() されました」の大型DLC「鉱夫はReplaceされました()_」が配信開始。スマホ版も同時に登場",
+      "description": "In The Farmer Was Replaced, program and optimize a drone to automate your farm. Collect resources, unlock better techno…",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "addedAt": "2026-11-02T15:30:16.773Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/952/G095288/20261102049/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "6ba43917f2cf",
       "url": "https://fuyouku.com/",
