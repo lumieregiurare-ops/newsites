@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-02T08:00:16.518Z",
+  "updatedAt": "2026-11-02T08:30:33.520Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1185,
+  "total": 1186,
   "regions": {
-    "jp": 972,
+    "jp": 973,
     "global": 213
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 139
+      "count": 140
     },
     {
       "id": "anniversary",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 98
+      "count": 99
     },
     {
       "id": "media",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "20e8d2248afa",
+      "url": "https://heart-ltd.jp/category/product/character/%e3%83%91%e3%83%9a%e3%83%83%e3%83%88%e3%82%b9%e3%83%b3%e3%82%b9%e3%83%b3/",
+      "host": "heart-ltd.jp",
+      "region": "jp",
+      "title": "パペットスンスン",
+      "headline": "「パペットスンスン」“チーズ”モチーフのチョコレートギフトが先行予約受付中！ポーチや缶など5商品、チョコデザインも可愛い",
+      "description": "株式会社ハートでは、子供たちが毎日の暮しの中で夢と遊びを身近に感じ、豊かな感性を育むように、楽しいお菓子を企画・開発・販売しております。",
+      "publishedAt": "2026-11-02T08:10:03.000Z",
+      "addedAt": "2026-11-02T08:30:33.520Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/02/190257.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://heart-ltd.jp/wp-content/uploads/2021/11/ogp.jpg"
+    },
     {
       "id": "9c56e550985d",
       "url": "https://pbz.s-game.com/m/ja-JP/",
