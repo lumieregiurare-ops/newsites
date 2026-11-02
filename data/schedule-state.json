@@ -3296,6 +3296,25 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/b8/31/71b8312c-92f5-8278-950a-7c41b3f68f14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "ギャラスト": {
+      "at": "2026-11-02T06:00:35.704Z",
+      "entry": {
+        "trackId": "6744635653",
+        "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+        "artist": "Eve-sense Inc.",
+        "genres": [
+          "エンターテインメント",
+          "カード",
+          "ボード"
+        ],
+        "releaseDate": "2026-11-02T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6744635653",
+        "sellerUrl": "https://galast.net/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -6311,7 +6330,7 @@
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "lumimaster（るぅみマスター）": {
@@ -55879,7 +55898,7 @@
       "dateText": "2026年11月2日",
       "date": "2026-11-02",
       "sortKey": "2026-11-02",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-11-02T05:30:27.290Z"
     },
     "king's:theeighttribes": {
@@ -55897,6 +55916,14 @@
       "sortKey": "2026-12-23",
       "prereg": false,
       "firstSeen": "2026-11-02T05:30:27.290Z"
+    },
+    "aeruta（アルタ）": {
+      "title": "Aeruta（アルタ）",
+      "dateText": "2026年12月24日",
+      "date": "2026-12-24",
+      "sortKey": "2026-12-24",
+      "prereg": false,
+      "firstSeen": "2026-11-02T06:00:35.490Z"
     }
   },
   "changeLog": [
@@ -60541,6 +60568,31 @@
       "title": "GALAST",
       "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
       "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月2日"
+    },
+    {
+      "at": "2026-11-02T06:00:35.490Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Aeruta（アルタ）",
+      "url": "https://aeruta.startgravity.jp/",
+      "image": "https://aeruta.startgravity.jp/wp-content/uploads/2026/07/images.jpeg",
+      "platforms": [
+        "switch",
+        "ps"
+      ],
+      "to": "2026年12月24日"
+    },
+    {
+      "at": "2026-11-02T06:00:35.490Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],

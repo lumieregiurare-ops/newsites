@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T05:30:15.127Z",
+  "updatedAt": "2026-11-02T06:00:18.288Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1179,
+  "total": 1180,
   "regions": {
     "jp": 967,
-    "global": 212
+    "global": 213
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 425
+      "count": 426
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 37
+      "count": 38
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 38
+      "count": 39
     },
     {
       "id": "xbox",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eabf8ac90510",
+      "url": "https://aeruta.startgravity.jp/",
+      "host": "aeruta.startgravity.jp",
+      "region": "jp",
+      "title": "Aeruta（アルタ）",
+      "headline": "「Aeruta（アルタ）」，PS5＆Switch向けパッケージ版の発売を延期。新たな発売日は12月24日",
+      "description": "世界を巻き込むパン革命、今、始まる！ 『Aeruta（アルタ）』は、ダンジョン探索と経営シミュレーションを組み合わせたハイブリッドアクションRPGゲームです。 キツネ耳の少女チャヤと一緒に勇者を目指す冒険に出よう！",
+      "publishedAt": "2026-11-02T05:32:08.000Z",
+      "addedAt": "2026-11-02T06:00:18.288Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/029/G102919/20261102014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "ps"
+      ],
+      "points": null,
+      "image": "https://aeruta.startgravity.jp/wp-content/uploads/2026/07/images.jpeg"
+    },
     {
       "id": "004a1e2d8839",
       "url": "https://www.disneyplus.com/ja-jp/explore/twisted-wonderland-the-animation",
@@ -4335,7 +4365,7 @@
       "id": "7da914cb11ef",
       "url": "https://playfulsystems.com/sloppy-forgeries/",
       "host": "playfulsystems.com",
-      "region": "jp",
+      "region": "global",
       "title": "Sloppy Forgeries",
       "headline": "名画の模写で完成度を競い合う対戦型お絵かきゲーム「Sloppy Forgeries」，11月14日リリース",
       "description": "A fast-paced competitive painting game. Butcher iconic masterpieces in one of the few drawing games that measures accur…",
@@ -8903,6 +8933,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261019t"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104118/20261102013/"
         }
       ],
       "tags": [

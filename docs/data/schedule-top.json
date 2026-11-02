@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T05:30:27.290Z",
+  "updatedAt": "2026-11-02T06:00:35.490Z",
   "platforms": [
     {
       "id": "switch",
@@ -75,20 +75,19 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261021n"
     },
     {
-      "id": "99cfee10432d",
+      "id": "5b1067591613",
       "title": "Loftia",
       "date": "2026-11-03",
       "dateText": "2026年11月3日",
       "sortKey": "2026-11-03",
       "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/2320980/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg",
+      "platforms": [],
+      "url": "https://loftia.gg/",
+      "image": "",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "戦闘も競争もないライフシムMMO「Loftia」の早期アクセス版が11月3日に配信開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/973/G097300/20260918057/"
     },
     {
       "id": "6690fb8e7d90",
@@ -124,21 +123,21 @@
       "sourceUrl": "https://www.4gamer.net/games/042/G104263/20260914024/"
     },
     {
-      "id": "6feef16726ad",
+      "id": "0069d9789d4e",
       "title": "PAYDAY: Aces High",
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
       "priority": 0,
       "platforms": [
-        "pc",
         "vr"
       ],
-      "url": "https://store.steampowered.com/app/3456660/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3456660/header.jpg",
+      "url": "https://www.paydaythegame.com/aceshigh/",
+      "image": "",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "今度の“ヤマ”にはVRで挑む。「PAYDAY: Aces High」，11月5日にリリース決定。最大4人で遊べる協力型クライムFPS最新作",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/993/G099310/20261027024/"
     },
     {
       "id": "d743133d93d7",
@@ -195,20 +194,19 @@
       "sourceUrl": "https://www.appbank.net/2026/09/28/game/3115905.php"
     },
     {
-      "id": "de612d014e1c",
+      "id": "ba5342656211",
       "title": "Wall World Strategy",
       "date": "2026-11-11",
       "dateText": "2026年11月11日",
       "sortKey": "2026-11-11",
       "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4218360/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218360/header.jpg",
+      "platforms": [],
+      "url": "https://alawar.com/games/wall-world-strategy",
+      "image": "",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/052/G105259/20261023001/"
     },
     {
       "id": "c03e43053fc7",
@@ -276,30 +274,6 @@
     }
   ],
   "prereg": [
-    {
-      "id": "d764c6142b84",
-      "title": "GALAST",
-      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
-      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-02T04:55:00.000Z",
-      "releaseText": "2026年11月2日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『GALAST』が11月2日15:00に正式サービス開始！ 将棋・麻雀・チェスなどを1本に集めたオンライン対戦ボードゲーム",
-      "description": "大富豪・リバーシ・将棋・チェス・囲碁・麻雀・UNO・ソリティア・ビリヤードなど、多彩な定番ゲームを収録。",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/02/game/3151853.php",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6744635653",
-        "preorder": true,
-        "releaseDate": "2026-11-02T08:00:00Z"
-      },
-      "trackId": "6744635653"
-    },
     {
       "id": "4dcbdcd67f2b",
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
@@ -465,20 +439,58 @@
         "releaseDate": "2027-03-31T07:00:00Z"
       },
       "trackId": "6760275408"
+    },
+    {
+      "id": "a194e704154b",
+      "title": "グリザイア 集結の百果",
+      "url": "https://grisaia-s100.com/",
+      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-16T10:48:51.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「グリザイア 集結の百果」の事前登録受付がApp StoreとGoogle Playで開始。「グリザイア」シリーズの15周年を記念したタイトル",
+      "description": "『グリザイア』シリーズ新作コンテンツ『グリザイア 集結の百果』は2026年リリース予定。事前登録受付中！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/037/G103778/20261016050/",
+      "appleId": "6758039748",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6758039748",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6758039748"
     }
   ],
   "changes": [
     {
-      "at": "2026-11-02T05:30:27.290Z",
+      "at": "2026-11-02T06:00:35.490Z",
       "type": "prereg_start",
       "label": "事前登録開始",
-      "title": "GALAST",
-      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
-      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
       "to": "App Store 2026年11月2日"
+    },
+    {
+      "at": "2026-11-02T06:00:35.490Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Aeruta（アルタ）",
+      "url": "https://aeruta.startgravity.jp/",
+      "image": "https://aeruta.startgravity.jp/wp-content/uploads/2026/07/images.jpeg",
+      "platforms": [
+        "switch",
+        "ps"
+      ],
+      "to": "2026年12月24日"
     },
     {
       "at": "2026-11-02T05:30:27.290Z",
@@ -531,21 +543,6 @@
       ],
       "from": "2026年12月14日",
       "to": "2027年1月31日"
-    },
-    {
-      "at": "2026-11-02T02:00:40.447Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "白銀の城",
-      "url": "https://apps.apple.com/us/app/id6758292278",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "ps",
-        "pc",
-        "mobile"
-      ],
-      "from": "2027年1月31日",
-      "to": "2026年12月14日"
     }
   ]
 }
