@@ -2709,7 +2709,7 @@
       }
     },
     "オクトパストラベラー 大陸の覇者": {
-      "at": "2026-10-31T13:30:33.518Z",
+      "at": "2026-11-03T13:30:35.425Z",
       "entry": {
         "trackId": "1438083823",
         "title": "オクトパストラベラー 大陸の覇者",
@@ -3386,6 +3386,14 @@
     },
     "ガルクラ": {
       "at": "2026-11-03T13:00:58.580Z",
+      "entry": null
+    },
+    "超かぐや姫！": {
+      "at": "2026-11-03T13:30:34.117Z",
+      "entry": null
+    },
+    "Stellar Blade": {
+      "at": "2026-11-03T13:30:36.797Z",
       "entry": null
     }
   },
@@ -58314,33 +58322,43 @@
       "title": "ガルクラ",
       "prereg": true,
       "firstSeen": "2026-11-03T13:00:47.372Z"
+    },
+    "泣キ魂": {
+      "title": "泣キ魂",
+      "dateText": "2026年11月3日",
+      "date": "2026-11-03",
+      "sortKey": "2026-11-03",
+      "prereg": false,
+      "firstSeen": "2026-11-03T13:30:33.895Z"
+    },
+    "forged:reconquest": {
+      "title": "Forged: Reconquest",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-11-03T13:30:33.895Z"
+    },
+    "neonrhythmplus": {
+      "title": "Neon Rhythm Plus",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-03T13:30:33.895Z"
+    },
+    "超かぐや姫！": {
+      "title": "超かぐや姫！",
+      "prereg": true,
+      "firstSeen": "2026-11-03T13:30:33.895Z"
+    },
+    "stellarblade": {
+      "title": "Stellar Blade",
+      "prereg": true,
+      "firstSeen": "2026-11-03T13:30:33.895Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-05T14:00:37.607Z",
-      "type": "new",
-      "label": "新規",
-      "title": "フロストパンク Frostpunk",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122351",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a4dcecec3f05cab6976b708b766e9482365e1376d1c9c07646273d5be6c45fc7.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月19日"
-    },
-    {
-      "at": "2026-10-05T14:00:37.607Z",
-      "type": "new",
-      "label": "新規",
-      "title": "フロストパンク: 強化拡張パック Frostpunk: All Expansions Pack",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000071093",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5259e0d87e7ededdd45a35e07629c9e2ef46af6730aa4725d10f08dcf6d27522.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月19日"
-    },
     {
       "at": "2026-10-05T14:00:37.607Z",
       "type": "new",
@@ -63113,6 +63131,31 @@
       "image": "https://gbc-firstriff.com/wp-content/themes/gbc-firstriff_teaser/assets/images/ogp-v5.jpg",
       "platforms": [
         "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-03T13:30:33.895Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "超かぐや姫！",
+      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
+      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-03T13:30:33.895Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Stellar Blade",
+      "url": "https://stellar-blade.com/ns2/jp/",
+      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg",
+      "platforms": [
+        "switch2",
+        "ps"
       ],
       "to": ""
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:00:20.355Z",
+  "updatedAt": "2026-11-03T13:30:18.789Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 149
+      "count": 151
     },
     {
       "id": "anniversary",
@@ -150,9 +150,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "event"
       ],
       "platforms": [],
@@ -4808,7 +4810,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261102124952"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261103132050"
     },
     {
       "id": "2f282a7a4a54",
@@ -27240,9 +27242,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [

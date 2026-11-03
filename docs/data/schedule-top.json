@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:00:47.372Z",
+  "updatedAt": "2026-11-03T13:30:33.895Z",
   "platforms": [
     {
       "id": "switch",
@@ -276,6 +276,26 @@
   ],
   "prereg": [
     {
+      "id": "9de44778d939",
+      "title": "超かぐや姫！",
+      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
+      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-03T12:30:19.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "『超かぐや姫！』無料オンラインライブのPV&ビジュアル解禁。かぐや&彩葉&ヤチヨの3人でイベントの最新情報を届ける「ツクヨミ感謝祭INFO」で発表、あの「ray」MVのアマテラス…",
+      "description": "『超かぐや姫！』オンラインライブイベント『ツクヨミ感謝祭』12月開催！YouTube＆VRChatにて無料配信。",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261103y",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "1be4a6a5f455",
       "title": "JockeyBox",
       "url": "https://apps.apple.com/jp/app/id6821326318",
@@ -423,30 +443,34 @@
         "releaseDate": "2026-11-12T08:00:00Z"
       },
       "trackId": "6778303469"
-    },
-    {
-      "id": "3112eeac605e",
-      "title": "MHO",
-      "url": "https://game8.jp/preregistration/808921",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-29T01:00:28.241Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/808921",
-      "verified": false,
-      "officialKnown": false,
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-03T13:30:33.895Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "Stellar Blade",
+      "url": "https://stellar-blade.com/ns2/jp/",
+      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg",
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-03T13:30:33.895Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "超かぐや姫！",
+      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
+      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-03T13:00:47.372Z",
       "type": "prereg_start",
@@ -490,30 +514,6 @@
       "title": "Phantom Blade Zero",
       "url": "https://pbz.s-game.com/m/ja-JP/",
       "image": "https://pbz.s-game.com/image/main.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "DOROKUSA",
-      "url": "https://dorokusa.co.jp/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ユニコーンを轢いた",
-      "url": "https://a24jp.com/films/unicorn/",
-      "image": "https://a24jp.com/wp-content/uploads/2026/08/DETH-OF-A-UNICORN%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%95%E8%AA%BF%E6%95%B4%E6%B8%88%E3%81%BF%EF%BC%89-1920x1080.jpg",
       "platforms": [
         "mobile"
       ],
