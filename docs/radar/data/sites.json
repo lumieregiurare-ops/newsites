@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T12:00:16.035Z",
+  "updatedAt": "2026-11-03T12:30:16.546Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1199,
+  "total": 1200,
   "regions": {
-    "jp": 984,
+    "jp": 985,
     "global": 215
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 139
+      "count": 140
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 435
+      "count": 436
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 258
+      "count": 259
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 375
+      "count": 376
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "AppBank",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1be4a6a5f455",
+      "url": "https://apps.apple.com/jp/app/id6821326318",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "JockeyBox",
+      "headline": "3D競馬ジョッキーゲーム『JockeyBox』が11月7日発売！ iPhone・iPad・Macで980円、予約受付中",
+      "description": "BOX LLC (Japan)の「JockeyBox - 競馬ジョッキーキャリアゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「JockeyBox - 競馬ジョッキーキャリアゲ…",
+      "publishedAt": "2026-11-03T12:00:00.000Z",
+      "addedAt": "2026-11-03T12:30:16.546Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/03/game/3152668.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c9/00/12c900c4-f01b-d7b9-dabd-ffc029e4ba14/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "c4cc6f657b0e",
       "url": "https://fragmentaryorder.com/",

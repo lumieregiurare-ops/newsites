@@ -759,7 +759,7 @@
       "entry": null
     },
     "三國志 覇道": {
-      "at": "2026-10-31T12:00:39.476Z",
+      "at": "2026-11-03T12:30:31.207Z",
       "entry": {
         "trackId": "1481318779",
         "title": "三國志 覇道",
@@ -3341,6 +3341,24 @@
     "覇王道": {
       "at": "2026-11-03T05:30:32.032Z",
       "entry": null
+    },
+    "JockeyBox": {
+      "at": "2026-11-03T12:30:29.820Z",
+      "entry": {
+        "trackId": "6821326318",
+        "title": "JockeyBox - 競馬ジョッキーキャリアゲーム",
+        "artist": "BOX LLC (Japan)",
+        "genres": [
+          "スポーツ",
+          "シミュレーション"
+        ],
+        "releaseDate": "2026-11-07T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6821326318",
+        "sellerUrl": "https://ipsbox-io.github.io/jockeybox-pages/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/0a/0c/620a0c93-6228-4943-f3ac-1cdcccba9d0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -58150,6 +58168,30 @@
       "sortKey": "2026-11-04",
       "prereg": false,
       "firstSeen": "2026-11-03T12:00:38.220Z"
+    },
+    "horsesofhoofprintbay-supporterpack": {
+      "title": "Horses of Hoofprint Bay - Supporter Pack",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-11-03T12:30:29.643Z"
+    },
+    "untoldcases-stillwaterlake": {
+      "title": "Untold Cases - Stillwater Lake",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-11-03T12:30:29.643Z"
+    },
+    "jockeybox": {
+      "title": "JockeyBox",
+      "dateText": "2026年11月7日",
+      "date": "2026-11-07",
+      "sortKey": "2026-11-07",
+      "prereg": true,
+      "firstSeen": "2026-11-03T12:30:29.643Z"
     }
   },
   "changeLog": [
@@ -62853,6 +62895,30 @@
         "switch"
       ],
       "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-11-03T12:30:29.643Z",
+      "type": "new",
+      "label": "新規",
+      "title": "JockeyBox",
+      "url": "https://apps.apple.com/jp/app/id6821326318",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c9/00/12c900c4-f01b-d7b9-dabd-ffc029e4ba14/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月7日"
+    },
+    {
+      "at": "2026-11-03T12:30:29.643Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "JockeyBox",
+      "url": "https://apps.apple.com/jp/app/id6821326318",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c9/00/12c900c4-f01b-d7b9-dabd-ffc029e4ba14/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月7日"
     }
   ],
   "initialized": true,
