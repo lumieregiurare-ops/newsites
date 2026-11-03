@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T07:30:20.536Z",
+  "updatedAt": "2026-11-03T08:00:27.998Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1198,
+  "total": 1199,
   "regions": {
-    "jp": 983,
+    "jp": 984,
     "global": 215
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 255
+      "count": 256
     },
     {
       "id": "release",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 21
+      "count": 22
     },
     {
       "id": "company",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "AppBank",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "4Gamer",
     "Inside",
     "App Store",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c4cc6f657b0e",
+      "url": "https://fragmentaryorder.com/",
+      "host": "fragmentaryorder.com",
+      "region": "jp",
+      "title": "タルコフ",
+      "headline": "『タルコフ』生みの親・ニキータ氏の新作SFシューター『Fragmentary Order』重大発表を予告！ゲームプレイトレイラーや先行アクセスプログラム詳細など含む生放送を11月…",
+      "description": "Fragmentary Order is realistic hardcore sci-fi multiplayer FPS exploring tactical combat simulation, survival, and risk…",
+      "publishedAt": "2026-11-03T07:35:54.000Z",
+      "addedAt": "2026-11-03T08:00:27.998Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/03/174436.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fragmentaryorder.com/images/og.png"
+    },
     {
       "id": "5fd37ab4bdaf",
       "url": "https://apps.apple.com/jp/app/id6761884801",
@@ -7827,7 +7855,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72tRxK9T6mY5sSzujPQJRfZ052Ki8P5anlQfEySbrxAzPUw8_R9DrREEEEyoEo-2Ogz9_VKHefKuPCxtgGTJWSgv0XDTO6MkvsEwA9GGTWO0fLcyttw3mrFrkw2HfNEnhK_0Vpz6QNx-wObjAnuOnELphxYSb1xYWzeIY5qHY4wYW-rkqR8MuzSOAHQT6A4=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uPzoBKfR01ThXVRTLgr2UXwP33fNMmRMkhJIHfxfSKUd2D87s36TLgktWu2VKy0Ro9lxG4Ytjx_31kFl-b_5KEJGqxkAN3NyH6d-tveGEFKK5-s7-6AiFXdzQb7xROiXVz8QQPcBhABWeoDB-OBemvHn5m-6lg2hBRlomJTdXrT2tNYvCennJ0JmolxfU=w16383"
     },
     {
       "id": "41b1b683c8f0",
