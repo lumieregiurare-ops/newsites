@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T01:00:18.311Z",
+  "updatedAt": "2026-11-03T01:30:17.531Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1196,
+  "total": 1197,
   "regions": {
-    "jp": 981,
+    "jp": 982,
     "global": 215
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 176
+      "count": 177
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "1a102a35fea9",
+      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
+      "host": "marvel.disney.co.jp",
+      "region": "jp",
+      "title": "アベンジャーズ／ドゥームズデイ",
+      "headline": "『アベンジャーズ／ドゥームズデイ』森川智之さんがドクター・ドゥームの日本版吹替に決定！ロバート・ダウニー・Jr.からの激励メッセージが公開",
+      "description": "2026年12月18日(金)日米同時公開『アベンジャーズ／ドゥームズデイ』公式サイト（Avengers: Doomsday）。待望のアベンジャーズ最新作。ロバート・ダウニー・Jr.が、悪の科学者ドクター・ドゥームとしてMCUに電撃復帰、ル…",
+      "publishedAt": "2026-11-03T01:08:22.000Z",
+      "addedAt": "2026-11-03T01:30:17.531Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261103j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lumiere-a.akamaihd.net/v1/images/poster_avengers-doomsday_03_15079e66.jpeg?region=0%2C0%2C540%2C810"
+    },
     {
       "id": "41f5c562150f",
       "url": "https://atari.com/products/thief-the-dark-project-remastered",
@@ -36480,7 +36507,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/96/d0/a596d0d5-a09b-799f-5153-551dda977567/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/81/48/4e814851-a7b1-d03d-8a6e-d9244d74e6ae/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "810450323c89",
