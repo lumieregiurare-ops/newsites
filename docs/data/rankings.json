@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:00:32.048Z",
+  "updatedAt": "2026-11-03T19:30:19.739Z",
   "boards": [
     {
       "id": "steam",
@@ -241,27 +241,27 @@
         },
         {
           "rank": 8,
-          "title": "ブロックブラスト (Block Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/d2/bc/b0d2bc6f-dd91-c7d0-d042-e8ac4374e886/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
-          "metric": "Hungry Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 9,
           "title": "Sand Blocks: Drop Puzzle",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/59/cb/c659cb87-b681-4be3-172d-569aec073029/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/sand-blocks-drop-puzzle/id6757140488",
           "metric": "Rollic Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "ブロックブラスト (Block Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/d2/bc/b0d2bc6f-dd91-c7d0-d042-e8ac4374e886/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
+          "metric": "Hungry Studio",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
