@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T07:00:17.954Z",
+  "updatedAt": "2026-11-03T07:30:20.536Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1197,
+  "total": 1198,
   "regions": {
-    "jp": 982,
+    "jp": 983,
     "global": 215
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 212
+      "count": 213
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 257
+      "count": 258
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 374
+      "count": 375
     },
     {
       "id": "browser",
@@ -3646,6 +3646,40 @@
       ],
       "points": null,
       "image": "https://warline.powerfantasygames.com/img/common/favicon/favicon.png"
+    },
+    {
+      "id": "d97c8f1c2cbb",
+      "url": "https://app.commseed.net/",
+      "host": "app.commseed.net",
+      "region": "jp",
+      "title": "パチスロ L 東京喰種",
+      "headline": "CommSeed Corporation / カジノ・エンターテインメント · App Store 新着",
+      "description": "コムシードが配信するパチンコ・パチスロ実機シミュレーションアプリの最新情報、キャンペーン、配信タイトルをご案内します。",
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "addedAt": "2026-11-03T07:30:20.536Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6785720250"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジノ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "campaign",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://app.commseed.net/asset/img/ogp.jpg"
     },
     {
       "id": "775eb6f083f0",
