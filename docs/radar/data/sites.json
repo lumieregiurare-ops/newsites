@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T12:30:16.546Z",
+  "updatedAt": "2026-11-03T13:00:20.355Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1200,
+  "total": 1201,
   "regions": {
-    "jp": 985,
+    "jp": 986,
     "global": 215
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 140
+      "count": 149
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 256
+      "count": 257
     },
     {
       "id": "release",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 49
+      "count": 48
     },
     {
       "id": "goods",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 177
+      "count": 173
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9de44778d939",
+      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
+      "host": "cho-kaguyahime.com",
+      "region": "jp",
+      "title": "超かぐや姫！",
+      "headline": "『超かぐや姫！』無料オンラインライブのPV&ビジュアル解禁。かぐや&彩葉&ヤチヨの3人でイベントの最新情報を届ける「ツクヨミ感謝祭INFO」で発表、あの「ray」MVのアマテラス…",
+      "description": "『超かぐや姫！』オンラインライブイベント『ツクヨミ感謝祭』12月開催！YouTube＆VRChatにて無料配信。",
+      "publishedAt": "2026-11-03T12:30:19.000Z",
+      "addedAt": "2026-11-03T13:00:20.355Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261103y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg"
+    },
     {
       "id": "1be4a6a5f455",
       "url": "https://apps.apple.com/jp/app/id6821326318",
@@ -244,10 +271,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [],
       "points": null,
@@ -327,10 +355,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [],
       "points": null,
@@ -361,9 +390,11 @@
         "ゲーム",
         "スマホ",
         "Android",
-        "iOS"
+        "iOS",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
@@ -509,10 +540,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [],
       "points": null,
@@ -681,12 +713,13 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release",
-        "company",
-        "media"
+        "company"
       ],
       "platforms": [],
       "points": null,
@@ -711,10 +744,12 @@
       ],
       "tags": [
         "ゲーム",
-        "特設サイト"
+        "特設サイト",
+        "事前登録"
       ],
       "categories": [
         "campaign",
+        "prereg",
         "event"
       ],
       "platforms": [],
@@ -826,9 +861,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [],
@@ -4974,7 +5011,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/608896088d59e418cfbbcd0dd4551ceb29832a05/capsule_616x353_alt_assets_10_japanese.jpg?t=1793351317"
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2124120/608896088d59e418cfbbcd0dd4551ceb29832a05/capsule_616x353_alt_assets_10_japanese.jpg?t=1793351317"
     },
     {
       "id": "cb5b9e49d7eb",
@@ -9981,9 +10018,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "anniversary",
         "event"
       ],
@@ -18984,13 +19023,18 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/05/188764.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/834/G083422/20261102040/"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [],
       "points": null,
