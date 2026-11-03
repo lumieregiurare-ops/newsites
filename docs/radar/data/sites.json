@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T05:00:16.916Z",
+  "updatedAt": "2026-11-03T05:30:18.497Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1198,
+  "total": 1199,
   "regions": {
-    "jp": 983,
+    "jp": 984,
     "global": 215
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 433
+      "count": 434
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 259
+      "count": 260
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 376
+      "count": 377
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Inside",
-    "AppBank",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5fd37ab4bdaf",
+      "url": "https://apps.apple.com/jp/app/id6761884801",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "覇王道 -英雄Re:CODE-",
+      "headline": "歴史英雄共闘RPG『覇王道 -英雄Re:CODE-』が11月2日リリース！ 最大10対10の連合抗争に挑戦",
+      "description": "sns-entertainmentの「覇王道-英雄Re:CODE-」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「覇王道-英雄Re:CODE-」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-03T05:00:00.000Z",
+      "addedAt": "2026-11-03T05:30:18.497Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/03/game/3152486.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/33/da/f333da94-7a83-d4b2-8024-3a902590cad6/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "1a102a35fea9",
       "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
