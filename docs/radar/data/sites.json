@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-03T04:00:16.621Z",
+  "updatedAt": "2026-11-03T04:30:17.820Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1197,
+  "total": 1198,
   "regions": {
     "jp": 983,
-    "global": 214
+    "global": 215
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 258
+      "count": 259
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 375
+      "count": 376
     },
     {
       "id": "browser",
@@ -532,6 +532,38 @@
       "platforms": [],
       "points": null,
       "image": "https://heart-ltd.jp/wp-content/uploads/2021/11/ogp.jpg"
+    },
+    {
+      "id": "93cb7cd86659",
+      "url": "http://iorama.studio/afoolserrand",
+      "host": "iorama.studio",
+      "region": "global",
+      "title": "A Fool's Errand",
+      "headline": "IORAMA AB / アクション · App Store 新着",
+      "description": "IORAMA AB / アクション · App Store 新着",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "addedAt": "2026-11-03T04:30:17.820Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6812658213"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://cdn.prod.website-files.com/6036be4d49d4d03cd028a976/6ae3157ba3f58c3df8fd501e_AFE_hero_002__.jpg"
     },
     {
       "id": "9c56e550985d",
