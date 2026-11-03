@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T22:00:19.794Z",
+  "updatedAt": "2026-11-03T22:30:18.510Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1201,
+  "total": 1203,
   "regions": {
-    "jp": 986,
+    "jp": 988,
     "global": 215
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 99
+      "count": 100
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 259
+      "count": 261
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 376
+      "count": 378
     },
     {
       "id": "browser",
@@ -121,17 +121,84 @@
     }
   ],
   "sources": [
+    "App Store",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "4Gamer",
     "Inside",
-    "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ccbcbb12104b",
+      "url": "https://colyinc.com/sparklink-stars",
+      "host": "colyinc.com",
+      "region": "jp",
+      "title": "ディズニー スパークリンク・スターズ",
+      "headline": "coly, Inc. / パズル・アドベンチャー · App Store 新着",
+      "description": "夢を叶えるスパークライダー育成ADV『ディズニー スパークリンク・スターズ』公式サイト",
+      "publishedAt": "2026-11-03T22:30:23.556Z",
+      "addedAt": "2026-11-03T22:30:18.510Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6760274605"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://colyinc.com/sparklink-stars/assets/img/icons/og-image.png"
+    },
+    {
+      "id": "df650bc1ecca",
+      "url": "https://apps.apple.com/jp/app/id6781944992",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "誰ガ為のアルケミスト ポートマスターズ",
+      "headline": "KMS.Inc / エンターテインメント・ロールプレイング · App Store 新着",
+      "description": "KMS.Incの「誰ガ為のアルケミスト ポートマスターズ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「誰ガ為のアルケミスト ポートマスターズ」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-03T22:30:23.556Z",
+      "addedAt": "2026-11-03T22:30:18.510Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6781944992"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/6c/72/8c6c7235-cad5-1507-82ce-9444fae1a92f/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "9de44778d939",
       "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
