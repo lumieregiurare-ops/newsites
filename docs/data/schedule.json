@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-03T20:00:42.821Z",
+  "updatedAt": "2026-11-03T20:30:36.455Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
       "appstoreSearch": 0,
-      "appstoreLookup": 0.7
+      "appstoreLookup": 0.1
     },
     "nintendo": 269,
     "steam": 300,
     "news": 161,
     "appstore": {
-      "searched": 231,
+      "searched": 224,
       "matched": 139,
       "preorder": 3,
       "fromLists": 0,
       "unverified": 4,
       "lookedUp": 36
     },
-    "prereg": 46,
+    "prereg": 39,
     "preregDropped": [
       {
         "title": "ツイステ",
@@ -117,7 +117,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.247,
+      "priority": 3.246,
       "platforms": [
         "pc"
       ],
@@ -165,7 +165,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.277,
+      "priority": 3.276,
       "platforms": [
         "pc"
       ],
@@ -229,7 +229,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.177,
+      "priority": 3.176,
       "platforms": [
         "pc"
       ],
@@ -261,7 +261,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.085,
+      "priority": 3.084,
       "platforms": [
         "pc"
       ],
@@ -293,7 +293,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.24,
+      "priority": 3.238,
       "platforms": [
         "pc"
       ],
@@ -373,7 +373,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.16,
+      "priority": 3.161,
       "platforms": [
         "pc"
       ],
@@ -501,7 +501,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.135,
+      "priority": 3.136,
       "platforms": [
         "pc"
       ],
@@ -619,6 +619,22 @@
       ],
       "url": "https://store.steampowered.com/app/4434580/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4434580/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "5f0c8d75171c",
+      "title": "DYING UNDER NIGHTFALL Demo",
+      "date": "2026-11-04",
+      "dateText": "2026年11月4日",
+      "sortKey": "2026-11-04",
+      "priority": 3.299,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/2467870/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467870/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -757,7 +773,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.13,
+      "priority": 3.1310000000000002,
       "platforms": [
         "pc"
       ],
@@ -1125,7 +1141,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.29,
+      "priority": 3.289,
       "platforms": [
         "pc"
       ],
@@ -1349,7 +1365,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.266,
+      "priority": 3.267,
       "platforms": [
         "pc"
       ],
@@ -1445,7 +1461,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.269,
+      "priority": 3.27,
       "platforms": [
         "pc"
       ],
@@ -1525,7 +1541,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.217,
+      "priority": 3.218,
       "platforms": [
         "pc"
       ],
@@ -1541,7 +1557,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.143,
+      "priority": 3.144,
       "platforms": [
         "pc"
       ],
@@ -1589,7 +1605,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.255,
+      "priority": 3.254,
       "platforms": [
         "pc"
       ],
@@ -1685,7 +1701,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.265,
+      "priority": 3.2640000000000002,
       "platforms": [
         "pc"
       ],
@@ -1712,28 +1728,12 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "ea982fe058c6",
-      "title": "Starshapes - Original Soundtrack",
-      "date": "2026-11-04",
-      "dateText": "2026年11月4日",
-      "sortKey": "2026-11-04",
-      "priority": 3.299,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4849710/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849710/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "94ca4cb990c2",
       "title": "Stellar Nursery",
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.245,
+      "priority": 3.2439999999999998,
       "platforms": [
         "pc"
       ],
@@ -1765,7 +1765,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.263,
+      "priority": 3.262,
       "platforms": [
         "pc"
       ],
@@ -1781,7 +1781,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.248,
+      "priority": 3.247,
       "platforms": [
         "pc"
       ],
@@ -1797,7 +1797,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.22,
+      "priority": 3.219,
       "platforms": [
         "pc"
       ],
@@ -1845,7 +1845,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.221,
+      "priority": 3.22,
       "platforms": [
         "pc"
       ],
@@ -1957,7 +1957,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.2640000000000002,
+      "priority": 3.263,
       "platforms": [
         "pc"
       ],
@@ -2069,7 +2069,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.268,
+      "priority": 3.269,
       "platforms": [
         "pc"
       ],
@@ -2117,7 +2117,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.254,
+      "priority": 3.255,
       "platforms": [
         "pc"
       ],
@@ -2266,7 +2266,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.218,
+      "priority": 3.217,
       "platforms": [
         "pc"
       ],
@@ -2314,7 +2314,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.238,
+      "priority": 3.237,
       "platforms": [
         "pc"
       ],
@@ -2330,7 +2330,7 @@
       "date": "2026-11-04",
       "dateText": "2026年11月4日",
       "sortKey": "2026-11-04",
-      "priority": 3.289,
+      "priority": 3.29,
       "platforms": [
         "pc"
       ],
@@ -2583,7 +2583,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.2439999999999998,
+      "priority": 3.245,
       "platforms": [
         "pc"
       ],
@@ -3042,7 +3042,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.276,
+      "priority": 3.277,
       "platforms": [
         "pc"
       ],
@@ -3125,7 +3125,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.267,
+      "priority": 3.268,
       "platforms": [
         "pc"
       ],
@@ -3507,7 +3507,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.246,
+      "priority": 3.248,
       "platforms": [
         "pc"
       ],
@@ -3562,7 +3562,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.083,
+      "priority": 3.082,
       "platforms": [
         "pc"
       ],
@@ -3680,7 +3680,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.065,
+      "priority": 3.064,
       "platforms": [
         "pc"
       ],
@@ -3774,7 +3774,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.011,
+      "priority": 3.01,
       "platforms": [
         "pc"
       ],
@@ -4173,7 +4173,7 @@
       "date": "2026-11-05",
       "dateText": "2026年11月5日",
       "sortKey": "2026-11-05",
-      "priority": 3.239,
+      "priority": 3.24,
       "platforms": [
         "pc"
       ],
@@ -4494,7 +4494,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.01,
+      "priority": 3.011,
       "platforms": [
         "pc"
       ],
@@ -4590,7 +4590,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.27,
+      "priority": 3.265,
       "platforms": [
         "pc"
       ],
@@ -4868,7 +4868,7 @@
       "date": "2026-11-06",
       "dateText": "2026年11月6日",
       "sortKey": "2026-11-06",
-      "priority": 3.237,
+      "priority": 3.239,
       "platforms": [
         "pc"
       ],
@@ -4933,7 +4933,7 @@
       "date": "2026-11-09",
       "dateText": "2026年11月9日",
       "sortKey": "2026-11-09",
-      "priority": 3.219,
+      "priority": 3.221,
       "platforms": [
         "pc"
       ],
@@ -5077,7 +5077,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.049,
+      "priority": 3.048,
       "platforms": [
         "pc"
       ],
@@ -5111,7 +5111,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.116,
+      "priority": 3.115,
       "platforms": [
         "pc"
       ],
@@ -5175,7 +5175,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.107,
+      "priority": 3.108,
       "platforms": [
         "pc"
       ],
@@ -5317,7 +5317,7 @@
       "date": "2026-11-10",
       "dateText": "2026年11月10日",
       "sortKey": "2026-11-10",
-      "priority": 3.084,
+      "priority": 3.083,
       "platforms": [
         "pc"
       ],
@@ -5381,7 +5381,7 @@
       "date": "2026-11-11",
       "dateText": "2026年11月11日",
       "sortKey": "2026-11-11",
-      "priority": 3.117,
+      "priority": 3.116,
       "platforms": [
         "pc"
       ],
@@ -6179,7 +6179,7 @@
       "date": "2026-11-12",
       "dateText": "2026年11月12日",
       "sortKey": "2026-11-12",
-      "priority": 3.115,
+      "priority": 3.117,
       "platforms": [
         "pc"
       ],
@@ -6328,7 +6328,7 @@
       "date": "2026-11-13",
       "dateText": "2026年11月13日",
       "sortKey": "2026-11-13",
-      "priority": 3.064,
+      "priority": 3.065,
       "platforms": [
         "pc"
       ],
@@ -7615,7 +7615,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.082,
+      "priority": 3.085,
       "platforms": [
         "pc"
       ],
@@ -8759,7 +8759,7 @@
       "date": null,
       "dateText": "2026年第4四半期",
       "sortKey": "2026-12-31",
-      "priority": 3.048,
+      "priority": 3.049,
       "platforms": [
         "pc"
       ],
@@ -9749,7 +9749,7 @@
       "date": null,
       "dateText": "2027年第1四半期",
       "sortKey": "2027-03-31",
-      "priority": 3.176,
+      "priority": 3.177,
       "platforms": [
         "pc"
       ],
@@ -10179,26 +10179,6 @@
   ],
   "prereg": [
     {
-      "id": "9de44778d939",
-      "title": "超かぐや姫！",
-      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
-      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-03T12:30:19.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『超かぐや姫！』無料オンラインライブのPV&ビジュアル解禁。かぐや&彩葉&ヤチヨの3人でイベントの最新情報を届ける「ツクヨミ感謝祭INFO」で発表、あの「ray」MVのアマテラス…",
-      "description": "『超かぐや姫！』オンラインライブイベント『ツクヨミ感謝祭』12月開催！YouTube＆VRChatにて無料配信。",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261103y",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "1be4a6a5f455",
       "title": "JockeyBox",
       "url": "https://apps.apple.com/jp/app/id6821326318",
@@ -10221,86 +10201,6 @@
         "releaseDate": "2026-11-07T08:00:00Z"
       },
       "trackId": "6821326318"
-    },
-    {
-      "id": "1a102a35fea9",
-      "title": "アベンジャーズ／ドゥームズデイ",
-      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
-      "image": "https://lumiere-a.akamaihd.net/v1/images/poster_avengers-doomsday_03_15079e66.jpeg?region=0%2C0%2C540%2C810",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-03T01:08:22.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『アベンジャーズ／ドゥームズデイ』森川智之さんがドクター・ドゥームの日本版吹替に決定！ロバート・ダウニー・Jr.からの激励メッセージが公開",
-      "description": "2026年12月18日(金)日米同時公開『アベンジャーズ／ドゥームズデイ』公式サイト（Avengers: Doomsday）。待望のアベンジャーズ最新作。ロバート・ダウニー・Jr.が、悪の科学者ドクター・ドゥームとしてMCUに電撃復帰、ル…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261103j",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
-      "id": "c142a000f2fc",
-      "title": "ユニコーンを轢いた",
-      "url": "https://a24jp.com/films/unicorn/",
-      "image": "https://a24jp.com/wp-content/uploads/2026/08/DETH-OF-A-UNICORN%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%95%E8%AA%BF%E6%95%B4%E6%B8%88%E3%81%BF%EF%BC%89-1920x1080.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-02T15:12:12.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "アリ・アスターが製作総指揮を務める新作映画『ユニコーンを轢いた』予告編＆ポスター2種が解禁。ユニコーンによる“地獄の復讐劇”が描かれる",
-      "description": "ニューヨークを拠点とする気鋭の独立系映画スタジオA24の日本版公式サイト。ハピネットファントム・スタジオが運営し、A24×HPS作品の最新情報をお伝えします。",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2611022p",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
-      "id": "b88b6d55a442",
-      "title": "DOROKUSA",
-      "url": "https://dorokusa.co.jp/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-02T11:00:45.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "加藤純一さんが発起人のストリーマー事務所「DOROKUSA」の切り抜きガイドラインが公開。切り抜き動画の投稿と、YouTubeでの収益化が可能に",
-      "description": "泥臭く、自由に、本当に楽しんでもらえる空間を作るためのストリーマーマネジメント会社です",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2611022j",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
-      "id": "9c56e550985d",
-      "title": "Phantom Blade Zero",
-      "url": "https://pbz.s-game.com/m/ja-JP/",
-      "image": "https://pbz.s-game.com/image/main.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-02T07:31:18.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "【大盛況】注目の新作アクションゲーム『Phantom Blade Zero』売上本数「400万本」を突破。10月29日の発売から“わずか72時間”で達成",
-      "description": "S-Gameが自社開発・パブリッシングで提供する、Unreal Engine 5を採用した暗黒武侠アクションアドベンチャー。 プレイヤーは心臓に深刻な傷を負った剣客に扮する。残りわずか66日の命で、刃飛び交う血みどろの戦場を駆け抜け、武林…",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261102y",
-      "appleId": "",
-      "trackId": ""
     },
     {
       "id": "907b7b6012e9",
@@ -10488,26 +10388,6 @@
         "releaseDate": "2027-03-31T07:00:00Z"
       },
       "trackId": "6760275408"
-    },
-    {
-      "id": "50f2d95d815b",
-      "title": "アイカツスターズ！",
-      "url": "https://www.aikatsu.net/aikatsustars_movie_progress/",
-      "image": "https://www.aikatsu.net/aikatsustars_movie_progress/img/og.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-17T08:20:55.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『アイカツスターズ！』の新作映画『星々のProgress』が2027年1月22日に公開決定！卒業を控えたゆめたちが、世界のトップアイドルが集うライブへ",
-      "description": "『アイカツスターズ！ ～星々のProgress～』 準備はいい？最強のワクワク10周年☆ 2027年初春公開！",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261017g",
-      "appleId": "",
-      "trackId": ""
     },
     {
       "id": "a194e704154b",
@@ -10953,27 +10833,6 @@
       "trackId": ""
     },
     {
-      "id": "463824f6c08e",
-      "title": "Stellar Blade",
-      "url": "https://stellar-blade.com/ns2/jp/",
-      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "startedAt": "2026-09-21T08:46:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "スイッチ2版『Stellar Blade』PS5とのグラフィック比較を海外YouTubeチャンネルが公開。スイッチ2も基本60fpsで健闘",
-      "description": "『STELLAR BLADE COMPLETE EDITION』が2026年11月6日、Nintendo Switch 2で発売。今すぐ予約！",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/21/172606.html",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "746f82ff8dbb",
       "title": "Sanrio Kawaii Me Live!",
       "url": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/",
@@ -11222,91 +11081,6 @@
   ],
   "changes": [
     {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Stellar Blade",
-      "url": "https://stellar-blade.com/ns2/jp/",
-      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "アイカツスターズ！",
-      "url": "https://www.aikatsu.net/aikatsustars_movie_progress/",
-      "image": "https://www.aikatsu.net/aikatsustars_movie_progress/img/og.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Phantom Blade Zero",
-      "url": "https://pbz.s-game.com/m/ja-JP/",
-      "image": "https://pbz.s-game.com/image/main.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "DOROKUSA",
-      "url": "https://dorokusa.co.jp/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ユニコーンを轢いた",
-      "url": "https://a24jp.com/films/unicorn/",
-      "image": "https://a24jp.com/wp-content/uploads/2026/08/DETH-OF-A-UNICORN%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%95%E8%AA%BF%E6%95%B4%E6%B8%88%E3%81%BF%EF%BC%89-1920x1080.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "アベンジャーズ／ドゥームズデイ",
-      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
-      "image": "https://lumiere-a.akamaihd.net/v1/images/poster_avengers-doomsday_03_15079e66.jpeg?region=0%2C0%2C540%2C810",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T20:00:42.821Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "超かぐや姫！",
-      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
-      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
       "at": "2026-11-03T15:00:30.569Z",
       "type": "new",
       "label": "新規",
@@ -11342,31 +11116,6 @@
       "to": "2027年3月4日"
     },
     {
-      "at": "2026-11-03T13:30:33.895Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Stellar Blade",
-      "url": "https://stellar-blade.com/ns2/jp/",
-      "image": "https://stellar-blade.com/ns2/assets/images/main/bg_hero.jpg",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:30:33.895Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "超かぐや姫！",
-      "url": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/",
-      "image": "https://www.cho-kaguyahime.com/tsukuyomi-kansha-sai/assets/og/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
       "at": "2026-11-03T13:00:47.372Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -11382,69 +11131,9 @@
       "at": "2026-11-03T13:00:47.372Z",
       "type": "prereg_start",
       "label": "事前登録開始",
-      "title": "アイカツスターズ！",
-      "url": "https://www.aikatsu.net/aikatsustars_movie_progress/",
-      "image": "https://www.aikatsu.net/aikatsustars_movie_progress/img/og.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
       "title": "桃鉄",
       "url": "https://www.karaokemanekineko.jp/",
       "image": "https://d1k5d0nneloh3k.cloudfront.net/wp-content/uploads/2025/11/19144910/ogimage.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "Phantom Blade Zero",
-      "url": "https://pbz.s-game.com/m/ja-JP/",
-      "image": "https://pbz.s-game.com/image/main.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "DOROKUSA",
-      "url": "https://dorokusa.co.jp/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ユニコーンを轢いた",
-      "url": "https://a24jp.com/films/unicorn/",
-      "image": "https://a24jp.com/wp-content/uploads/2026/08/DETH-OF-A-UNICORN%EF%BC%88%E6%98%8E%E3%82%8B%E3%81%95%E8%AA%BF%E6%95%B4%E6%B8%88%E3%81%BF%EF%BC%89-1920x1080.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-03T13:00:47.372Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "アベンジャーズ／ドゥームズデイ",
-      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
-      "image": "https://lumiere-a.akamaihd.net/v1/images/poster_avengers-doomsday_03_15079e66.jpeg?region=0%2C0%2C540%2C810",
       "platforms": [
         "mobile"
       ],
@@ -11970,6 +11659,174 @@
         "switch2"
       ],
       "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ソングマスター",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000131135",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f44010f8c36da523f371b29a5ccf1d002b536f33aa1f34875263043d8fc4587f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
+      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "カスケード",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138330",
+      "image": "https://img-eshop.cdn.nintendo.net/i/8a9b07c7aac18ab0f18df731b0c9297185f88e342126f6297d85681f596407c5.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "MIX DUNK -KING OF BASKETBALL-",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000072505",
+      "image": "https://img-eshop.cdn.nintendo.net/i/580306d594fca5e470688594de6acc847d786ee6c5203c74af53579cb2cadad3.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "MagicalCharming!",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140286",
+      "image": "https://img-eshop.cdn.nintendo.net/i/77a421ceb91958314dbbe04184093e8dfeb8cdf14ba97b5afdb06558470cef1d.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Fortune Avenue",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138621",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6d1c0760b383cc4cd77d9146341b182fde7bc4c78d2ba8f9e55426151b0face1.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ぎゅわんぶらあ自己中心派ドランプ帝国をわからせろ！",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000124138",
+      "image": "https://img-eshop.cdn.nintendo.net/i/39fc4134d1377cab575532f9095be3c29b7455d951e75f82e1cb4ca6319b6af6.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月19日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "猫 vs ネット：ミーム大戦 ボーイズ (Cats vs Internet: Rise of the Memes Boys)",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000120043",
+      "image": "https://img-eshop.cdn.nintendo.net/i/de869a2dc0433fb366d4f60a115bf0495dd547e82bcdf18f5fb087c3733f0375.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "猫 vs ネット：ミーム大戦 ガールズ (Cats vs Internet: Rise of the Memes Girls)",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000120015",
+      "image": "https://img-eshop.cdn.nintendo.net/i/03f987d14703214c60290f6ed19f7a5f168ff3d82d389e1ac2c4243148e56bfe.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "怪獣ボーイズ：モンスターを捕まえて恋に落ちろ (Kaiju Boys: Trap Giant Monsters & Fall in Love)",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000129296",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f62b7c2e06b3379cc3e373a0a5f33f285bdd3a6f1206f9e9a2c0735b64a7fe1a.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "怪獣ガールズ：モンスターを捕まえて恋に落ちろ (Kaiju Girls: Trap Giant Monsters & Fall in Love)",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000129290",
+      "image": "https://img-eshop.cdn.nintendo.net/i/60e830bdd5cb3683825ffbca3dd8ff28a9e1ce064c99f657e050cb3f0cd09398.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ウチのペット事情 Vol.2",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138340",
+      "image": "https://img-eshop.cdn.nintendo.net/i/aba134b857bf5732db80b947a90689b0b6e4d3b2bd821fd6abbae662510052dc.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "両面反転パズル",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000139862",
+      "image": "https://img-eshop.cdn.nintendo.net/i/f2ff51ef2d45883bde56f8c6c6683c940003dffd76fd7c2df823bbb807392626.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
+    },
+    {
+      "at": "2026-10-28T17:00:43.778Z",
+      "type": "new",
+      "label": "新規",
+      "title": "美女コーデチェック 今日の服装これで正解？",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000138027",
+      "image": "https://img-eshop.cdn.nintendo.net/i/ed990fa98b957b1c3904ca5da36f1dcc56a247315acc05c2dc946d2e8500aef8.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年11月5日"
     }
   ],
   "platforms": [
