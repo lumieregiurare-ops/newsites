@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-04T16:30:19.046Z",
+  "updatedAt": "2026-11-04T17:00:18.808Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1218,
+  "total": 1219,
   "regions": {
     "jp": 1001,
-    "global": 217
+    "global": 218
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 262
+      "count": 263
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 381
+      "count": 382
     },
     {
       "id": "browser",
@@ -123,11 +123,11 @@
   "sources": [
     "4Gamer",
     "電ファミニコゲーマー",
+    "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "Inside",
     "Game*Spark",
-    "App Store",
     "AppBank",
     "minimal.gallery"
   ],
@@ -249,6 +249,39 @@
       "platforms": [],
       "points": null,
       "image": "https://cdn.kdkw.jp/cover_1000/322610/322610000203.webp"
+    },
+    {
+      "id": "44d804feef18",
+      "url": "http://www.yunbu.me/",
+      "host": "yunbu.me",
+      "region": "global",
+      "title": "熱血大作戦！- 三国志キングダムRPG",
+      "headline": "FW GAME / アドベンチャー・ロールプレイング · App Store 新着",
+      "description": "FW GAME / アドベンチャー・ロールプレイング · App Store 新着",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "addedAt": "2026-11-04T17:00:18.808Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6779548466"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "894e5d5c2593",
