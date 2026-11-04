@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-04T01:00:16.430Z",
+  "updatedAt": "2026-11-04T01:30:16.870Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1205,
+  "total": 1206,
   "regions": {
-    "jp": 990,
+    "jp": 991,
     "global": 215
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 51
+      "count": 52
     },
     {
       "id": "prereg",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 48
+      "count": 49
     },
     {
       "id": "goods",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "App Store",
     "AppBank",
     "4Gamer",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f5873a40be24",
+      "url": "https://impachi.games/ja/everbrink/",
+      "host": "impachi.games",
+      "region": "jp",
+      "title": "アナザーエデン",
+      "headline": "『アナザーエデン』『ハーヴェステラ』プロデューサーが手がける新作『エバーブリンク』発表。毎ターン崩れる浮島で生き延び、敵拠点を落とす4Xローグライクデッキビルダー",
+      "description": "『アナザーエデン』『ハーヴェステラ』プロデューサーが手がける新作『エバーブリンク』発表。毎ターン崩れる浮島で生き延び、敵拠点を落とす4Xローグライクデッキビルダー",
+      "publishedAt": "2026-11-04T01:00:05.000Z",
+      "addedAt": "2026-11-04T01:30:16.870Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261104i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0e374fc0d973",
       "url": "https://brigandine-abyss.happinet-games.com/",
@@ -30242,7 +30270,7 @@
       "region": "jp",
       "title": "GTA6",
       "headline": "『GTA6』サウンドトラックがゲームと同日リリース決定！うち6曲の先行配信も開始",
-      "description": "レオナイダの放送メディアから厳選されたラジオ局や、『Grand Theft Auto VI: The Album』のシングルなどを視聴しよう。",
+      "description": "サウンドトラックとスコアからのシングルや、一部のゲーム内ラジオ局のサンプルを聴こう。まもなく登場のレコードやCDのプレオーダーもチェック。",
       "publishedAt": "2026-09-17T15:57:50.000Z",
       "addedAt": "2026-09-17T23:48:36.427Z",
       "source": "Game*Spark",
@@ -30265,7 +30293,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?nrpYjD-X9qCVdRWtREDg1"
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?4K_5qVU-H-Ah55_aIE8bv"
     },
     {
       "id": "fabd6a1df6f3",
