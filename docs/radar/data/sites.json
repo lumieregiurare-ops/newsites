@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-04T03:00:31.287Z",
+  "updatedAt": "2026-11-04T03:30:16.744Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1208,
+  "total": 1210,
   "regions": {
-    "jp": 993,
+    "jp": 995,
     "global": 215
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 52
+      "count": 53
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 151
+      "count": 152
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 258
+      "count": 259
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 23
+      "count": 25
     },
     {
       "id": "browser",
@@ -121,17 +121,78 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "App Store",
     "AppBank",
-    "4Gamer",
     "Appliv Games",
-    "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cf9f9307ffcb",
+      "url": "https://indiedevconf.jp/",
+      "host": "indiedevconf.jp",
+      "region": "jp",
+      "title": "文字遊戯",
+      "headline": "インディーゲーム開発者向けカンファレンス「Indie Developers Conference 2026」11月28日開催―チケット予約開始、『文字遊戯』日本語化の舞台裏など第…",
+      "description": "Indie Developers Conference 2026",
+      "publishedAt": "2026-11-04T03:30:03.000Z",
+      "addedAt": "2026-11-04T03:30:16.744Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/04/28541.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "indie",
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://indiedevconf.jp/assets/img/ogp.png"
+    },
+    {
+      "id": "d9ce12badf09",
+      "url": "https://www.takaratomy.co.jp/products/games/",
+      "host": "takaratomy.co.jp",
+      "region": "jp",
+      "title": "ENJOYN GAMES",
+      "headline": "タカラトミー，インディーゲームの新ブランド「ENJOYN GAMES」を始動。第1弾は「人狼バーガー」など3作品",
+      "description": "ENJOYN GAMES（エンジョインゲームズ）の公式サイト。アソビから、「縁」が生まれる。思わず誰かに話したくなるようなゲームを、クリエイターとともに世界へ。タイトル情報・ニュースのほか、協業や取材のご相談も受け付けています。",
+      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "addedAt": "2026-11-04T03:30:16.744Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/941/G094178/20261104005/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261104r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.takaratomy.co.jp/products/games/wordpress/wp-content/themes/gamestone/assets/common/img/ogp.png"
+    },
     {
       "id": "c619d228950c",
       "url": "https://www.dragonsdogma.com/2/ja-jp/officialpawn/",
@@ -258,6 +319,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261104u"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/393/G039338/20261104004/"
         }
       ],
       "tags": [
@@ -28187,7 +28252,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?nrpYjD-X9qCVdRWtREDg1"
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?4K_5qVU-H-Ah55_aIE8bv"
     },
     {
       "id": "2e16a23209ce",
