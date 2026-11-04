@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T23:00:27.953Z",
+  "updatedAt": "2026-11-04T23:30:17.039Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1219,
+  "total": 1220,
   "regions": {
-    "jp": 1001,
+    "jp": 1002,
     "global": 218
   },
   "categories": [
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 22
+      "count": 23
     },
     {
       "id": "company",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0d18e8c067a5",
+      "url": "https://fragmentaryorder.com/about",
+      "host": "fragmentaryorder.com",
+      "region": "jp",
+      "title": "タルコフ",
+      "headline": "『タルコフ』生みの親が手がける新作FPS『Fragmentary Order』約14分間のプレイ映像が公開。2251年の太陽系で、クローンを遠隔操作して戦う",
+      "description": "Fragmentary Order is realistic hardcore sci-fi multiplayer FPS exploring tactical combat simulation, survival, and risk…",
+      "publishedAt": "2026-11-04T23:23:34.000Z",
+      "addedAt": "2026-11-04T23:30:17.039Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261105d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fragmentaryorder.com/images/og.png"
+    },
     {
       "id": "ddff6b3ca3e9",
       "url": "https://misketgames.com/",
