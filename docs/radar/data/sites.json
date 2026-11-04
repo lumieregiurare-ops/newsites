@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-04T04:30:15.706Z",
+  "updatedAt": "2026-11-04T05:00:16.512Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1211,
+  "total": 1213,
   "regions": {
-    "jp": 996,
-    "global": 215
+    "jp": 997,
+    "global": 216
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 217
+      "count": 218
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 261
+      "count": 262
     },
     {
       "id": "official",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "GameBusiness.jp",
     "4Gamer",
+    "GameBusiness.jp",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e906279ab151",
+      "url": "https://www.konami.com/games/tenipuri/dokisaba/jp/ja/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "ドキサバ",
+      "headline": "「ドキサバ」，20％オフセールを開催。「テニスの王子様」のキャラクターと無人島で過ごす恋愛ゲーム",
+      "description": "テニスの王子様 ぎゅ～っと！ ドキドキサバイバル Tie break ♡ game",
+      "publishedAt": "2026-11-04T04:59:20.000Z",
+      "addedAt": "2026-11-04T05:00:16.512Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/947/G094705/20261104017/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.konami.com/games/tenipuri/s/img/dokisaba/dokisaba_share.jpg"
+    },
+    {
+      "id": "a203d4384e1f",
+      "url": "http://www.razer.com/",
+      "host": "razer.com",
+      "region": "global",
+      "title": "Razer Raiju V3 Pro Signature Edition",
+      "headline": "マグネシウム合金ボディのゲームパッド「Razer Raiju V3 Pro Signature Edition」が発表に。初回販売は世界限定1337台のみ",
+      "description": "Cutting-edge technology✅ Excellent engineering✅ Sustainable✅ Shop Razer",
+      "publishedAt": "2026-11-04T04:33:59.000Z",
+      "addedAt": "2026-11-04T05:00:16.512Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G002318/20261104016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.razerzone.com/eeimages/banners/razer-logo-facebook-og.png"
+    },
     {
       "id": "cf9f9307ffcb",
       "url": "https://indiedevconf.jp/",
@@ -16927,6 +16982,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/04/174451.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/04/190344.html"
         }
       ],
       "tags": [
