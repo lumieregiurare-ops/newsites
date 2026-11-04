@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:00:32.812Z",
+  "updatedAt": "2026-11-04T12:30:45.974Z",
   "platforms": [
     {
       "id": "switch",
@@ -208,6 +208,21 @@
       "dateSource": "appstore"
     },
     {
+      "id": "afa5b82df8b7",
+      "title": "Hot Meals Fast Wheels",
+      "date": "2026-11-13",
+      "dateText": "2026年11月13日",
+      "sortKey": "2026-11-13",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://misketgames.com/",
+      "image": "https://misketgames.com/transparent_logo.png",
+      "maker": "",
+      "headline": "フードトラックに乗り込み，ハプニングに対応しながら注文をこなそう。4人協力クッキングシム「Hot Meals Fast Wheels」，11月13日に発売決定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/012/G101299/20261104054/"
+    },
+    {
       "id": "7d45a893b8f6",
       "title": "Sloppy Forgeries",
       "date": "2026-11-14",
@@ -254,23 +269,6 @@
       "headline": "仲間と釣りや家づくりを楽しむコージーMMO「クロスランド」，Switch2 / Switch / PC向けに11月17日発売決定",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/054/G105423/20261029040/"
-    },
-    {
-      "id": "14b5ec9f8350",
-      "title": "ムーンライト・ピークス",
-      "date": "2026-11-17",
-      "dateText": "2026年11月17日",
-      "sortKey": "2026-11-17",
-      "priority": 0,
-      "platforms": [
-        "ps"
-      ],
-      "url": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/",
-      "image": "https://www.cloudedleopardent.com/game/moonlightpeaks/jp/assets/ogp.jpg",
-      "maker": "",
-      "headline": "“ヴァンパイア”としてスローライフを満喫するゲーム『ムーンライト・ピークス』PS5版が11月17日に発売決定。狼男や魔女が暮らす不思議な街で、魔法作物の栽培や住民との交流を楽しめる",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261028s"
     }
   ],
   "prereg": [
@@ -462,6 +460,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-04T12:30:45.974Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Hot Meals Fast Wheels",
+      "url": "https://misketgames.com/",
+      "image": "https://misketgames.com/transparent_logo.png",
+      "platforms": [],
+      "to": "2026年11月13日"
+    },
+    {
       "at": "2026-11-04T10:00:36.075Z",
       "type": "new",
       "label": "新規",
@@ -518,16 +526,6 @@
       "image": "https://cdn.kdkw.jp/cover_1000/322610/322610000203.webp",
       "platforms": [],
       "to": "2027年1月21日"
-    },
-    {
-      "at": "2026-11-03T15:00:30.569Z",
-      "type": "new",
-      "label": "新規",
-      "title": "続ポートピア連続殺人事件:忘却の埋葬",
-      "url": "https://gmodecorp.com/cs/portpia",
-      "image": "https://storage.googleapis.com/production-os-assets/assets/68634da7-c2b9-4b01-827b-a94db558c61b",
-      "platforms": [],
-      "to": "2027年3月4日"
     }
   ]
 }

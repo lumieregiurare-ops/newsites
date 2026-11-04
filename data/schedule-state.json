@@ -1083,7 +1083,7 @@
       }
     },
     "ガーディアンテイルズ": {
-      "at": "2026-11-01T12:30:45.143Z",
+      "at": "2026-11-04T12:30:51.945Z",
       "entry": {
         "trackId": "1454154803",
         "title": "ガーディアンテイルズ",
@@ -1120,7 +1120,7 @@
       }
     },
     "プチプラネット": {
-      "at": "2026-11-01T12:30:43.721Z",
+      "at": "2026-11-04T12:30:50.518Z",
       "entry": {
         "trackId": "6776621908",
         "title": "プチプラネット",
@@ -1729,7 +1729,7 @@
       }
     },
     "ソニックランブル パーティ": {
-      "at": "2026-11-01T12:30:39.681Z",
+      "at": "2026-11-04T12:30:46.281Z",
       "entry": {
         "trackId": "6511215584",
         "title": "ソニックランブル パーティ",
@@ -1747,7 +1747,7 @@
       }
     },
     "ドラゴンビレッジ3": {
-      "at": "2026-11-01T12:30:42.397Z",
+      "at": "2026-11-04T12:30:49.078Z",
       "entry": {
         "trackId": "6499562253",
         "title": "ドラゴンビレッジ3",
@@ -1760,7 +1760,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6499562253",
         "sellerUrl": "https://www.highbrow.com/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/86/56/ed865642-60b0-2729-e22b-a3c38dfab029/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/aa/df/c6aadf16-a937-2b0b-8d0a-6e34bdb18659/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -2471,7 +2471,7 @@
       "entry": null
     },
     "リラックマ ごゆるりパズル": {
-      "at": "2026-11-01T12:30:41.033Z",
+      "at": "2026-11-04T12:30:47.653Z",
       "entry": {
         "trackId": "6807266067",
         "title": "リラックマ ごゆるりパズル",
@@ -59758,21 +59758,49 @@
       "sortKey": "2026-11-05",
       "prereg": false,
       "firstSeen": "2026-11-04T12:00:32.812Z"
+    },
+    "camera5": {
+      "title": "Camera 5",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-11-04T12:30:45.974Z"
+    },
+    "turffight": {
+      "title": "TURF FIGHT",
+      "dateText": "2026年11月4日",
+      "date": "2026-11-04",
+      "sortKey": "2026-11-04",
+      "prereg": false,
+      "firstSeen": "2026-11-04T12:30:45.974Z"
+    },
+    "countertargetsclicker": {
+      "title": "Counter Targets Clicker",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-04T12:30:45.974Z"
+    },
+    "theunremembered": {
+      "title": "THE UNREMEMBERED",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-04T12:30:45.974Z"
+    },
+    "hotmealsfastwheels": {
+      "title": "Hot Meals Fast Wheels",
+      "dateText": "2026年11月13日",
+      "date": "2026-11-13",
+      "sortKey": "2026-11-13",
+      "prereg": false,
+      "firstSeen": "2026-11-04T12:30:45.974Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-07T16:00:34.133Z",
-      "type": "new",
-      "label": "新規",
-      "title": "不思議な図書館",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129853",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f3f09ea1bb54bab6460c4fd13e18bbf09e2582f7403febc92528b0a48bec7db6.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月15日"
-    },
     {
       "at": "2026-10-07T16:00:34.133Z",
       "type": "new",
@@ -64557,6 +64585,16 @@
         "switch2"
       ],
       "to": "2027年2月19日"
+    },
+    {
+      "at": "2026-11-04T12:30:45.974Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Hot Meals Fast Wheels",
+      "url": "https://misketgames.com/",
+      "image": "https://misketgames.com/transparent_logo.png",
+      "platforms": [],
+      "to": "2026年11月13日"
     }
   ],
   "initialized": true,

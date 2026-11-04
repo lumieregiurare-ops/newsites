@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-04T12:00:17.433Z",
+  "updatedAt": "2026-11-04T12:30:18.771Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1217,
+  "total": 1218,
   "regions": {
     "jp": 1001,
-    "global": 216
+    "global": 217
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 440
+      "count": 441
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ddff6b3ca3e9",
+      "url": "https://misketgames.com/",
+      "host": "misketgames.com",
+      "region": "global",
+      "title": "Hot Meals Fast Wheels",
+      "headline": "フードトラックに乗り込み，ハプニングに対応しながら注文をこなそう。4人協力クッキングシム「Hot Meals Fast Wheels」，11月13日に発売決定",
+      "description": "Creating fun, chaotic, and highly engaging interactive experiences.",
+      "publishedAt": "2026-11-04T12:18:35.000Z",
+      "addedAt": "2026-11-04T12:30:18.771Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/012/G101299/20261104054/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://misketgames.com/transparent_logo.png"
+    },
     {
       "id": "9467c2880122",
       "url": "http://p5t.jp/",
