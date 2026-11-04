@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T03:30:16.744Z",
+  "updatedAt": "2026-11-04T04:00:15.366Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1210,
+  "total": 1211,
   "regions": {
-    "jp": 995,
+    "jp": 996,
     "global": 215
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 152
+      "count": 153
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 216
+      "count": 217
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 379
+      "count": 380
     },
     {
       "id": "browser",
@@ -160,6 +160,39 @@
       "platforms": [],
       "points": null,
       "image": "https://indiedevconf.jp/assets/img/ogp.png"
+    },
+    {
+      "id": "1c14e46c5d06",
+      "url": "https://sangokushi-senkiban-landing.qookkagames.jp/transmission/landing-page/lktsktavy2hf",
+      "host": "sangokushi-senkiban-landing.qookkagames.jp",
+      "region": "jp",
+      "title": "三國志 戦棋版",
+      "headline": "「三國志 戦棋版」には，部隊を1マスずつ動かすSRPGの楽しさが詰まっている。FFTコラボも発表された，オフライン先行試遊会【PR】",
+      "description": "『三國志14』公式ライセンス！盤上で天下を争うSRPG×SLGモバイルゲームーー事前登録好評受付中！",
+      "publishedAt": "2026-11-04T03:30:00.000Z",
+      "addedAt": "2026-11-04T04:00:15.366Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/045/G104580/20261028011/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "d9ce12badf09",
