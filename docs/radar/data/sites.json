@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T02:30:18.659Z",
+  "updatedAt": "2026-11-04T03:00:31.287Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1206,
+  "total": 1208,
   "regions": {
-    "jp": 991,
+    "jp": 993,
     "global": 215
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 215
+      "count": 216
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 257
+      "count": 258
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 437
+      "count": 438
     },
     {
       "id": "indie",
@@ -122,16 +122,71 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "Inside",
     "Game*Spark",
     "App Store",
     "AppBank",
     "4Gamer",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c619d228950c",
+      "url": "https://www.dragonsdogma.com/2/ja-jp/officialpawn/",
+      "host": "dragonsdogma.com",
+      "region": "jp",
+      "title": "ダンジョン飯",
+      "headline": "『ダンジョン飯』×『ドラゴンズドグマ 2：ダークアリズン』コラボが本日11月4日より開催。「ライオス」「マルシル」をイメージした公式ポーンと衣装が登場",
+      "description": "王道ファンタジー世界が舞台のオープンワールドアクションの続編がついに登場！",
+      "publishedAt": "2026-11-04T02:50:51.000Z",
+      "addedAt": "2026-11-04T03:00:31.287Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261104s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.dragonsdogma.com/2/assets/images/common/share.png"
+    },
+    {
+      "id": "587253ac8185",
+      "url": "https://www.bandai.co.jp/candy/products/2026/4570117934179000.html",
+      "host": "bandai.co.jp",
+      "region": "jp",
+      "title": "ゴジラ 大怪獣集結シールウエハース",
+      "headline": "「ゴジラ 大怪獣集結シールウエハース」が発売決定！ ゴジラ作品から人気怪獣たちがラインナップ",
+      "description": "バンダイ キャンディ事業部が運営する“食品・おかし”の情報サイト",
+      "publishedAt": "2026-11-04T02:40:02.000Z",
+      "addedAt": "2026-11-04T03:00:31.287Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/04/190331.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/HBc/000000496034KJsyni7i6UEU4FfkvdkXytGuGg2MJMTgDHBc.jpg"
+    },
     {
       "id": "f5873a40be24",
       "url": "https://impachi.games/ja/everbrink/",
@@ -16770,6 +16825,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261008e"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/04/174451.html"
         }
       ],
       "tags": [
