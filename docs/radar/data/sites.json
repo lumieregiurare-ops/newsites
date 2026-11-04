@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T09:00:16.809Z",
+  "updatedAt": "2026-11-04T09:30:18.124Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1215,
+  "total": 1216,
   "regions": {
-    "jp": 999,
+    "jp": 1000,
     "global": 216
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 218
+      "count": 219
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 261
+      "count": 262
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 380
+      "count": 381
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Appliv Games",
-    "4Gamer",
     "GameBusiness.jp",
     "Inside",
     "Game*Spark",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0bb5355bf0ba",
+      "url": "https://mabinogimobile.nexon.co.jp/",
+      "host": "mabinogimobile.nexon.co.jp",
+      "region": "jp",
+      "title": "マビノギモバイル",
+      "headline": "「マビノギモバイル」とTVアニメ「【推しの子】」のコラボイベントがスタート",
+      "description": "スマホで、ほのぼのファンタジーライフ！「マビノギモバイル」公式サイト。",
+      "publishedAt": "2026-11-04T09:16:23.000Z",
+      "addedAt": "2026-11-04T09:30:18.124Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/387/G038732/20261104030/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.nexon.co.jp/mabinogimobile/common/ogpcard.png"
+    },
     {
       "id": "d8406e8831a6",
       "url": "https://www.kadokawa.co.jp/product/322610000203/",
@@ -637,6 +670,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/03/174436.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/998/G099842/20261104031/"
         }
       ],
       "tags": [
@@ -27238,6 +27275,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/260923h"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105533/20261104026/"
         }
       ],
       "tags": [
