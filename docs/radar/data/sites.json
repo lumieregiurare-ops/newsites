@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:30:18.739Z",
+  "updatedAt": "2026-11-04T07:00:15.120Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 153
+      "count": 154
     },
     {
       "id": "anniversary",
@@ -443,6 +443,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6760274605"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G100854/20261104020/"
         }
       ],
       "tags": [
@@ -450,9 +454,12 @@
         "スマホ",
         "iOS",
         "パズル",
-        "アドベンチャー"
+        "アドベンチャー",
+        "事前登録",
+        "Android"
       ],
       "categories": [
+        "prereg",
         "company",
         "goods"
       ],

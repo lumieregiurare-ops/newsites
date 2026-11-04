@@ -451,7 +451,14 @@
       "title": "ディズニー スパークリンク・スターズ",
       "headline": "coly, Inc. / パズル・アドベンチャー · App Store 新着",
       "description": "夢を叶えるスパークライダー育成ADV『ディズニー スパークリンク・スターズ』公式サイト",
-      "article": null,
+      "article": {
+        "prereg": true,
+        "preregEnded": false,
+        "count": "事前登録者数が100万人",
+        "reward": "",
+        "ios": "6760274605",
+        "android": "com.colyinc.sparklinkstars"
+      },
       "publishedAt": "2026-11-03T22:30:23.556Z",
       "addedAt": "2026-11-03T22:30:18.510Z",
       "source": "App Store",
@@ -460,6 +467,10 @@
         {
           "name": "App Store",
           "url": "https://apps.apple.com/jp/app/id6760274605"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G100854/20261104020/"
         }
       ],
       "tags": [
@@ -467,10 +478,13 @@
         "スマホ",
         "iOS",
         "パズル",
-        "アドベンチャー"
+        "アドベンチャー",
+        "事前登録",
+        "Android"
       ],
       "phCategories": [],
       "categories": [
+        "prereg",
         "company",
         "goods"
       ],
