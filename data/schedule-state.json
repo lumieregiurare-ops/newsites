@@ -1211,7 +1211,7 @@
       }
     },
     "イナズマイレブン クロス": {
-      "at": "2026-11-01T08:00:35.699Z",
+      "at": "2026-11-04T08:30:41.283Z",
       "entry": {
         "trackId": "6756994116",
         "title": "イナズマイレブン クロス",
@@ -59510,21 +59510,33 @@
       "sortKey": "2026-11-06",
       "prereg": false,
       "firstSeen": "2026-11-04T08:00:35.151Z"
+    },
+    "huntedwithin:terminalrust": {
+      "title": "Hunted Within: Terminal Rust",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-04T08:30:40.954Z"
+    },
+    "typemehome": {
+      "title": "Type Me Home",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-04T08:30:40.954Z"
+    },
+    "ペルソナマガジン": {
+      "title": "ペルソナマガジン",
+      "dateText": "2027年1月21日",
+      "date": "2027-01-21",
+      "sortKey": "2027-01-21",
+      "prereg": false,
+      "firstSeen": "2026-11-04T08:30:40.954Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-07T16:00:34.133Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Shockwave Triggers",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000116481",
-      "image": "https://img-eshop.cdn.nintendo.net/i/d0665f15c0ab3923a401819fd201246cae80d7d01e3f2e78282bf38e92c6d03d.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月15日"
-    },
     {
       "at": "2026-10-07T16:00:34.133Z",
       "type": "new",
@@ -64311,6 +64323,16 @@
         "ps"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-04T08:30:40.954Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ペルソナマガジン",
+      "url": "https://www.kadokawa.co.jp/product/322610000203/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322610/322610000203.webp",
+      "platforms": [],
+      "to": "2027年1月21日"
     }
   ],
   "initialized": true,

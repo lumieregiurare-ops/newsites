@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T08:00:17.175Z",
+  "updatedAt": "2026-11-04T08:30:18.125Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1214,
+  "total": 1215,
   "regions": {
-    "jp": 998,
+    "jp": 999,
     "global": 216
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 126
+      "count": 127
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 438
+      "count": 439
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 144
+      "count": 145
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Appliv Games",
     "4Gamer",
     "GameBusiness.jp",
-    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d8406e8831a6",
+      "url": "https://www.kadokawa.co.jp/product/322610000203/",
+      "host": "kadokawa.co.jp",
+      "region": "jp",
+      "title": "ペルソナマガジン",
+      "headline": "『ペルソナマガジン』約3年ぶりに復活、2027年1月21日に発売へ！15周年を迎える今号では、『ペルソナ4 リバイバル』を総力特集",
+      "description": "雑誌・ムック「ペルソナマガジン #2027 REVIVAL」のあらすじ、最新情報をKADOKAWA公式サイトより。ペルソナマガジン最新号",
+      "publishedAt": "2026-11-04T08:11:43.000Z",
+      "addedAt": "2026-11-04T08:30:18.125Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611042o"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.kdkw.jp/cover_1000/322610/322610000203.webp"
+    },
     {
       "id": "894e5d5c2593",
       "url": "https://www.shadow-garden-mog.jp/4th-anniversary-news/",
@@ -4008,6 +4037,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/28/174191.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611042k"
         }
       ],
       "tags": [
@@ -8330,7 +8363,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uPzoBKfR01ThXVRTLgr2UXwP33fNMmRMkhJIHfxfSKUd2D87s36TLgktWu2VKy0Ro9lxG4Ytjx_31kFl-b_5KEJGqxkAN3NyH6d-tveGEFKK5-s7-6AiFXdzQb7xROiXVz8QQPcBhABWeoDB-OBemvHn5m-6lg2hBRlomJTdXrT2tNYvCennJ0JmolxfU=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sYnTiqf21f3FZdRFxB3mJJkGCC1st2YMZ1Ox101pGeWo0adcXEqXY5Yf3kktuHKkojRunP__D_mXfGSWECJ39ghLKxyIuuNoSvgwP9og5KhzW3Jj6lRlMmrRWOxJxHva-vzJkBYzKNjkOWatUDQIrNmnJbRYSCDplrYF1bY8FG9P5-qrkOdsclMdH1PoU=w16383"
     },
     {
       "id": "41b1b683c8f0",
@@ -8339,7 +8372,7 @@
       "region": "jp",
       "title": "PROTOCOL: NOAH",
       "headline": "5日間を繰り返すビジュアルノベル「PROTOCOL: NOAH」，11月の発売に向けてティザーサイトを公開。13本のエンディングのうち9本は「デスエンド」",
-      "description": "繰り返す死（絶望）の先にあるものは、誰が為の希望か―――",
+      "description": "シンエンスタジオのSteam向けビジュアルノベルADV。繰り返す死（絶望）の先にあるものは、誰が為の希望か――2026年11月発売予定。",
       "publishedAt": "2026-10-21T05:10:19.000Z",
       "addedAt": "2026-10-21T05:30:17.542Z",
       "source": "4Gamer",
@@ -8357,7 +8390,9 @@
         "teaser",
         "release"
       ],
-      "platforms": [],
+      "platforms": [
+        "pc"
+      ],
       "points": null,
       "image": "https://sinenstudio.co.jp/games/noah/assets/ogp.webp?v=12"
     },
@@ -8386,7 +8421,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1793496334341"
+      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1793778871847"
     },
     {
       "id": "1a653bf2bf0a",
