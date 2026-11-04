@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-04T07:00:15.120Z",
+  "updatedAt": "2026-11-04T07:30:20.166Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1213,
+  "total": 1214,
   "regions": {
-    "jp": 997,
+    "jp": 998,
     "global": 216
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 125
+      "count": 126
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 260
+      "count": 261
     },
     {
       "id": "release",
@@ -121,6 +121,7 @@
     }
   ],
   "sources": [
+    "Appliv Games",
     "4Gamer",
     "GameBusiness.jp",
     "電ファミニコゲーマー",
@@ -128,10 +129,38 @@
     "Game*Spark",
     "App Store",
     "AppBank",
-    "Appliv Games",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "894e5d5c2593",
+      "url": "https://www.shadow-garden-mog.jp/4th-anniversary-news/",
+      "host": "shadow-garden-mog.jp",
+      "region": "jp",
+      "title": "カゲマス",
+      "headline": "『カゲマス』4周年イベント直前！総力決戦〜phase0〜開催！ 新キャラクターのガチャチケット獲得のチャンス！ 陰の恩寵ガチャ開催！",
+      "description": "陰の実力者になりたくて！アニメ×ゲーム公開生放送が2026年11月28日に開催決定！",
+      "publishedAt": "2026-11-04T07:27:00.000Z",
+      "addedAt": "2026-11-04T07:30:20.166Z",
+      "source": "Appliv Games",
+      "sources": [
+        {
+          "name": "Appliv Games",
+          "url": "https://games.app-liv.jp/archives/592833"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.shadow-garden-mog.jp/wp-content/uploads/ogp-4th-anniversary-news-2.jpg"
+    },
     {
       "id": "e906279ab151",
       "url": "https://www.konami.com/games/tenipuri/dokisaba/jp/ja/",
@@ -6091,7 +6120,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/22/61/0222613b-7dde-e3ec-cb3b-4a74152dbe93/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e1/a0/56e1a093-0415-b4ef-1843-3622e4ca0e9c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8fd164ec8709",
