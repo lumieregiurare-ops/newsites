@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:00:20.248Z",
+  "updatedAt": "2026-11-05T22:30:19.377Z",
   "boards": [
     {
       "id": "steam",
@@ -150,27 +150,27 @@
       "items": [
         {
           "rank": 1,
-          "title": "ディズニー スパークリンク・スターズ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/d1/d2/c5d1d2a9-aca4-7b59-73ce-d04b2ef567b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
-          "metric": "coly, Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 2,
           "title": "モンスターハンターアウトランダーズ",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
           "metric": "Level Infinite",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 2,
+          "title": "ディズニー スパークリンク・スターズ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/d1/d2/c5d1d2a9-aca4-7b59-73ce-d04b2ef567b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
+          "metric": "coly, Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
