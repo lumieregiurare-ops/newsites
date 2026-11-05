@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:30:30.169Z",
+  "updatedAt": "2026-11-05T05:00:45.146Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,32 @@
   ],
   "prereg": [
     {
+      "id": "a2ca0f77d38b",
+      "title": "崩壊：ネクサスアニマ",
+      "url": "https://hoyo.link/gXA5dV4eK",
+      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-05T04:41:10.000Z",
+      "releaseText": "2027年4月1日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "HoYoverse新作『崩壊：ネクサスアニマ』2027年春正式リリース！ファイナルCBTも11月25日より開催決定",
+      "description": "Recruitment for the Final Closed Beta for the brand-new open-world creature-catching adventure RPG from HoYoverse, Honk…",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/11/05/174505.html",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6745814650",
+        "preorder": true,
+        "releaseDate": "2027-04-01T07:00:00Z"
+      },
+      "announcedText": "2027年春正式リリース",
+      "trackId": "6745814650"
+    },
+    {
       "id": "1be4a6a5f455",
       "title": "JockeyBox",
       "url": "https://apps.apple.com/jp/app/id6821326318",
@@ -427,34 +453,43 @@
         "releaseDate": "2027-01-27T08:00:00Z"
       },
       "trackId": "6807266067"
-    },
-    {
-      "id": "067c26a4a876",
-      "title": "ハイキュー!! ALL Challengers",
-      "url": "https://haikyu-allchallengers.jp/",
-      "image": "https://haikyu-allchallengers.jp/wp-content/uploads/2026/10/OGP.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-20T10:00:03.000Z",
-      "releaseText": "2027年3月31日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『ハイキュー!! ALL Challengers』事前登録開始！34名以上の選手を育てて、自分だけの“頂”を目指す新作育成シミュレーション",
-      "description": "スマートフォン向けゲーム『ハイキュー!! ALL Challengers』の公式サイトです。",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/20/189570.html",
-      "appleId": "6760275408",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6760275408",
-        "preorder": true,
-        "releaseDate": "2027-03-31T07:00:00Z"
-      },
-      "trackId": "6760275408"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-05T05:00:45.146Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "崩壊：ネクサスアニマ",
+      "url": "https://hoyo.link/gXA5dV4eK",
+      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年4月1日"
+    },
+    {
+      "at": "2026-11-05T05:00:45.146Z",
+      "type": "new",
+      "label": "新規",
+      "title": "崩壊：ネクサスアニマ",
+      "url": "https://hoyo.link/gXA5dV4eK",
+      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg",
+      "platforms": [],
+      "to": "2027年4月1日"
+    },
+    {
+      "at": "2026-11-05T05:00:45.146Z",
+      "type": "new",
+      "label": "新規",
+      "title": "DELIVERY MUST COMPLETE",
+      "url": "https://linktr.ee/deliverymustcomplete",
+      "image": "https://linktr.ee/og/image/deliverymustcomplete.jpg",
+      "platforms": [
+        "arcade"
+      ],
+      "to": "2027年初頭"
+    },
     {
       "at": "2026-11-05T01:30:26.202Z",
       "type": "new",
@@ -491,42 +526,6 @@
         "switch"
       ],
       "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-04T17:00:47.247Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ぴよっとぷらねっと",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000104582",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5ba349ad57c4f4cf9541b5d9bb25be75fdf24ed389d1e67ff16b51ced95a3d4a.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-11-04T17:00:47.247Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ペットに恋した俺：モンスターからアニマル娘を守れ (My Pet Seduced Me: Save Animal Girls from the Monster)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000123141",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c8a1b214337213bc6da4caa5fe3eb0504987c8c60849f755b09bce26677e671d.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-11-04T17:00:47.247Z",
-      "type": "new",
-      "label": "新規",
-      "title": "心霊写真検証室 〜あなたには見えますか？〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139465",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f97fb491c6e77d4248e26be50b0eeb2b22892620343be004656ee307af624ca0.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月12日"
     }
   ]
 }

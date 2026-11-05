@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-05T04:30:14.927Z",
+  "updatedAt": "2026-11-05T05:00:21.976Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1222,
+  "total": 1225,
   "regions": {
-    "jp": 1004,
-    "global": 218
+    "jp": 1006,
+    "global": 219
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 154
+      "count": 156
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 264
+      "count": 266
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 442
+      "count": 445
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 382
+      "count": 383
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 14
+      "count": 15
     },
     {
       "id": "vr",
@@ -121,17 +121,113 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d58b2a446683",
+      "url": "https://linktr.ee/deliverymustcomplete",
+      "host": "linktr.ee",
+      "region": "global",
+      "title": "DELIVERY MUST COMPLETE",
+      "headline": "セル画調で描かれた空を高速で駆け巡るローグライク空戦ゲーム『DELIVERY MUST COMPLETE』体験版を2027年初頭にリリース。『DMC』と『エースコンバット』の影響…",
+      "description": "Acelike Roguelike with SSSTYLE. Cut across cel-shaded, action-packed, arcade-paced dogfights as you fly, fight, and upg…",
+      "publishedAt": "2026-11-05T04:47:53.000Z",
+      "addedAt": "2026-11-05T05:00:21.976Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261105q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://linktr.ee/og/image/deliverymustcomplete.jpg"
+    },
+    {
+      "id": "cbb3725f2ab0",
+      "url": "https://hna.hoyoverse.com/ja-jp",
+      "host": "hna.hoyoverse.com",
+      "region": "jp",
+      "title": "崩壊：ネクサスアニマ",
+      "headline": "新作RPG「崩壊：ネクサスアニマ」，2027年春にリリース決定。「ファイナルβテスト」の開催も明らかに",
+      "description": "HoYoverse最新作、アニマと冒険するRPG『崩壊：ネクサスアニマ』ファイナルβテスト参加者募集中！2027年春、正式リリース予定！",
+      "publishedAt": "2026-11-05T04:46:31.000Z",
+      "addedAt": "2026-11-05T05:00:21.976Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/940/G094046/20261105016/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg"
+    },
+    {
+      "id": "a2ca0f77d38b",
+      "url": "https://hoyo.link/gXA5dV4eK",
+      "host": "hoyo.link",
+      "region": "jp",
+      "title": "崩壊：ネクサスアニマ",
+      "headline": "HoYoverse新作『崩壊：ネクサスアニマ』2027年春正式リリース！ファイナルCBTも11月25日より開催決定",
+      "description": "Recruitment for the Final Closed Beta for the brand-new open-world creature-catching adventure RPG from HoYoverse, Honk…",
+      "publishedAt": "2026-11-05T04:41:10.000Z",
+      "addedAt": "2026-11-05T05:00:21.976Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/05/174505.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/05/190399.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg"
+    },
     {
       "id": "6e93fb0bfb46",
       "url": "https://gstar.webzen.co.kr/",
