@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T07:30:17.377Z",
+  "updatedAt": "2026-11-05T08:00:16.524Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1229,
+  "total": 1230,
   "regions": {
-    "jp": 1010,
+    "jp": 1011,
     "global": 219
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 262
+      "count": 263
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 383
+      "count": 384
     },
     {
       "id": "browser",
@@ -3594,6 +3594,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "cce856fc181d",
+      "url": "https://apps.apple.com/jp/app/id6812355209",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "漢字でGOGO!",
+      "headline": "Ren Takahashi / 教育・単語 · App Store 新着",
+      "description": "Ren Takahashiの「漢字でGOGO!」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「漢字でGOGO!」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "addedAt": "2026-11-05T08:00:16.524Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6812355209"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "教育",
+        "単語"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/e3/e9/68e3e92c-73cc-8ed1-d515-2130691d4df0/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "83f8470360e9",
@@ -26004,7 +26037,7 @@
       "region": "global",
       "title": "JayPlay",
       "headline": "JayPlay / エンターテインメント・トリビア · App Store 新着",
-      "description": "Deine Leute. Ein Code. Los geht",
+      "description": "Deine Leute. Dein Spiel. Zwölf Spiele für dich und deine Freunde, auf der Couch oder von zuhause.",
       "publishedAt": "2026-09-24T07:00:18.000Z",
       "addedAt": "2026-09-25T18:00:18.193Z",
       "source": "App Store",
