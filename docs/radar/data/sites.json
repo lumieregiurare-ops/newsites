@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T10:00:26.965Z",
+  "updatedAt": "2026-11-05T10:30:16.201Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1233,
+  "total": 1234,
   "regions": {
-    "jp": 1014,
+    "jp": 1015,
     "global": 219
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 268
+      "count": 269
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eb7d6116b634",
+      "url": "https://kinpri.com/yec/",
+      "host": "kinpri.com",
+      "region": "jp",
+      "title": "キンプリ",
+      "headline": "『キンプリ』新作CGライブを引っさげ復活上映へ！4DX各種効果を“煌めきマシマシ”にしたラージフォーマット上映も開始へ",
+      "description": "プリズムショー、その原点へー 202_v25.6.27(Fri)君とつながるROAD SHOW",
+      "publishedAt": "2026-11-05T10:11:58.000Z",
+      "addedAt": "2026-11-05T10:30:16.201Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611052s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kinpri.com/ogp_v2.jpg"
+    },
     {
       "id": "4828bbb34890",
       "url": "https://teamninja-studio.com/doa6/lastround/jp/",
