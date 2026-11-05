@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-05T02:30:16.204Z",
+  "updatedAt": "2026-11-05T02:59:35.243Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1221,
+  "total": 1222,
   "regions": {
-    "jp": 1003,
+    "jp": 1004,
     "global": 218
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 53
+      "count": 54
     },
     {
       "id": "prereg",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 220
+      "count": 221
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 263
+      "count": 264
     },
     {
       "id": "release",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "6e93fb0bfb46",
+      "url": "https://gstar.webzen.co.kr/",
+      "host": "gstar.webzen.co.kr",
+      "region": "global",
+      "title": "G-STAR 2026",
+      "headline": "Webzen，「G-STAR 2026」特設サイトをオープン。「ディフェンスゲームの暴君になった：LAST STAGE」を試遊出展し，「MU THEOS」のティザー映像も公開予定",
+      "description": "지스타 2026 웹젠과 함께하세요!",
+      "publishedAt": "2026-11-05T02:18:40.000Z",
+      "addedAt": "2026-11-05T02:59:35.243Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/032/G103244/20261105002/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト",
+        "特設サイト"
+      ],
+      "categories": [
+        "teaser",
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://mimage.webzen.kr/gstar/share-v2026.jpg"
+    },
     {
       "id": "28a6f6fdabe9",
       "url": "https://odencat.com/bakemono/ja",
@@ -32764,7 +32795,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
