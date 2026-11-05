@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T18:00:16.220Z",
+  "updatedAt": "2026-11-05T18:30:19.799Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1238,
+  "total": 1239,
   "regions": {
-    "jp": 1018,
+    "jp": 1019,
     "global": 220
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 450
+      "count": 451
     },
     {
       "id": "indie",
@@ -158,6 +158,33 @@
       "platforms": [],
       "points": null,
       "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?iRdAxhfxNIpElE2Uro9Fj"
+    },
+    {
+      "id": "fbcfdb5b22ae",
+      "url": "https://www.ubisoft.com/ja-jp/game/assassins-creed/",
+      "host": "ubisoft.com",
+      "region": "jp",
+      "title": "アサシン クリード ヴァルハラ",
+      "headline": "『アサシン クリード ヴァルハラ』先日発表された「ニューゲーム＋」や装備強化上限の引き上げ等を含むアプデが配信開始",
+      "description": "「アサシン クリード」公式ウェブサイト - ゲーム、限定商品、書籍、コレクション、パートナーシップなど、すべてをご紹介！",
+      "publishedAt": "2026-11-05T14:55:51.000Z",
+      "addedAt": "2026-11-05T18:30:19.799Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/05/174539.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/338OWx0jNPuD4hYNj3WFS9/94f21727b3f69010fad89ee9ac9f0393/AssassinsCreed_Visual_AllAssassins.jpg"
     },
     {
       "id": "9c6b21da53b3",
@@ -27028,7 +27055,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11052026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11062026"
     },
     {
       "id": "33c0ff2f4868",
