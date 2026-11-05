@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-05T11:30:18.129Z",
+  "updatedAt": "2026-11-05T12:00:18.628Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1235,
+  "total": 1236,
   "regions": {
     "jp": 1016,
-    "global": 219
+    "global": 220
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 448
+      "count": 449
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9c6b21da53b3",
+      "url": "https://lightyearfrontier.com/",
+      "host": "lightyearfrontier.com",
+      "region": "global",
+      "title": "Lightyear Frontier",
+      "headline": "オープンワールド農業ゲーム「Lightyear Frontier」，本日正式リリース。過去最大の難題に挑み，物語の壮大なフィナーレを見届けよう",
+      "description": "Settle on a beautiful, new planet in the Lightyear Frontier. Begin your farming adventure as you build a farm, plant & …",
+      "publishedAt": "2026-11-05T11:30:37.000Z",
+      "addedAt": "2026-11-05T12:00:18.628Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/637/G063740/20261105057/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lightyearfrontier.com/wp-content/uploads/2023/12/Banner_Image.webp"
+    },
     {
       "id": "58d178b13882",
       "url": "https://foolnight.com/",
