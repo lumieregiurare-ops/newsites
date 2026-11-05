@@ -61469,21 +61469,25 @@
       "sortKey": "2026-12-09",
       "prereg": false,
       "firstSeen": "2026-11-05T07:00:31.967Z"
+    },
+    "airframeultra-soundtrack": {
+      "title": "Airframe Ultra - Soundtrack",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-05T07:30:31.639Z"
+    },
+    "damonandbaby:riseoftheoracle": {
+      "title": "DAMON and BABY:RISE OF THE ORACLE",
+      "dateText": "2027年2月18日",
+      "date": "2027-02-18",
+      "sortKey": "2027-02-18",
+      "prereg": false,
+      "firstSeen": "2026-11-05T07:30:31.639Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-12T23:30:35.265Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ノーマンズスカイ",
-      "url": "https://www.nomanssky.com/2026/10/no-mans-sky-ios/",
-      "image": "https://www.nomanssky.com/media/mi2dimzv/homepage-next-2560-1180.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月29日"
-    },
     {
       "at": "2026-10-13T01:00:28.173Z",
       "type": "new",
@@ -66271,6 +66275,16 @@
         "switch2"
       ],
       "to": "2026年12月9日"
+    },
+    {
+      "at": "2026-11-05T07:30:31.639Z",
+      "type": "new",
+      "label": "新規",
+      "title": "DAMON and BABY:RISE OF THE ORACLE",
+      "url": "https://www.arcsystemworks.jp/damonandbaby/",
+      "image": "https://www.arcsystemworks.jp/damonandbaby/ogp_jp.png",
+      "platforms": [],
+      "to": "2027年2月18日"
     }
   ],
   "initialized": true,

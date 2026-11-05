@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T07:00:16.267Z",
+  "updatedAt": "2026-11-05T07:30:17.377Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1225,
+  "total": 1229,
   "regions": {
-    "jp": 1006,
+    "jp": 1010,
     "global": 219
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 222
+      "count": 223
     },
     {
       "id": "event",
@@ -40,12 +40,12 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 446
+      "count": 447
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 25
+      "count": 26
     },
     {
       "id": "browser",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 173
+      "count": 174
     }
   ],
   "platforms": [
@@ -132,6 +132,114 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bdf8c7d04411",
+      "url": "https://www.arcsystemworks.jp/damonandbaby/",
+      "host": "arcsystemworks.jp",
+      "region": "jp",
+      "title": "DAMON and BABY:RISE OF THE ORACLE",
+      "headline": "「DAMON and BABY:RISE OF THE ORACLE」，2027年2月18日に発売決定。ゲーム本編に加えてエクストラストーリーも楽しめるパッケージ版",
+      "description": "『DAMON and BABY（デイモン&ベイビー）』の公式サイト。ガンアクションと探索が融合した新感覚アクションアドベンチャー。心温まる\"子連れ魔王\"の冒険活劇。",
+      "publishedAt": "2026-11-05T07:23:02.000Z",
+      "addedAt": "2026-11-05T07:30:17.377Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105573/20261105027/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.arcsystemworks.jp/damonandbaby/ogp_jp.png"
+    },
+    {
+      "id": "741a778e30fc",
+      "url": "https://girls-und-panzer-finale.jp/202610-article-mini/",
+      "host": "girls-und-panzer-finale.jp",
+      "region": "jp",
+      "title": "ガールズ＆パンツァー",
+      "headline": "『ガールズ＆パンツァー』新作コンシューマーゲームが11月14日に発表へ。『シュタインズ・ゲート』などで知られるMAGES.とタッグを組む",
+      "description": "『ガールズ＆パンツァー』新作コンシューマーゲームが11月14日に発表へ。『シュタインズ・ゲート』などで知られるMAGES.とタッグを組む",
+      "publishedAt": "2026-11-05T07:16:52.000Z",
+      "addedAt": "2026-11-05T07:30:17.377Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611052g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://girls-und-panzer-finale.jp/iaY7mRf2zJ/wp-content/uploads/2023/04/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81.png"
+    },
+    {
+      "id": "430077f038f7",
+      "url": "https://amongthewaves.com/",
+      "host": "amongthewaves.com",
+      "region": "jp",
+      "title": "Among the Waves",
+      "headline": "神なる子を宿した妊婦が主役の哲学的メトロイドヴァニア『Among the Waves』デモ版公開！",
+      "description": "An author-driven, philosophical indie metroidvania by seven devs.",
+      "publishedAt": "2026-11-05T07:15:03.000Z",
+      "addedAt": "2026-11-05T07:30:17.377Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/05/174510.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.tildacdn.com/tild6162-6237-4237-b336-323532363932/store_capsule_header.png"
+    },
+    {
+      "id": "66ef212ac25a",
+      "url": "https://nbc-ohmycafe.ltr-online.com/",
+      "host": "nbc-ohmycafe.ltr-online.com",
+      "region": "jp",
+      "title": "ナイトメアー・ビフォア・クリスマス",
+      "headline": "「ナイトメアー・ビフォア・クリスマス」スペシャルカフェが期間限定でオープン。「ジャック」のシチューや「サリー」の花占いパフェなどが登場",
+      "description": "「ナイトメアー・ビフォア・クリスマス」スペシャルカフェが期間限定でオープン。「ジャック」のシチューや「サリー」の花占いパフェなどが登場",
+      "publishedAt": "2026-11-05T07:03:56.000Z",
+      "addedAt": "2026-11-05T07:30:17.377Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611052c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://seat-images.groobee.com/nbc-ohmycafe/JmUdMuYud3bx7tKkkzzuvVhqGnsnfui7xTR96IyB.png"
+    },
     {
       "id": "3124e8d9b9be",
       "url": "https://www.secondmaze.com/falling-apart-official",
