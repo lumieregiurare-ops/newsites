@@ -671,7 +671,7 @@
       "entry": null
     },
     "セガNET麻雀 MJ": {
-      "at": "2026-11-02T06:30:36.086Z",
+      "at": "2026-11-05T07:00:32.254Z",
       "entry": {
         "trackId": "666206963",
         "title": "セガNET麻雀 MJ",
@@ -690,7 +690,7 @@
       }
     },
     "雨のちハレ女": {
-      "at": "2026-11-02T06:30:40.311Z",
+      "at": "2026-11-05T07:00:36.574Z",
       "entry": {
         "trackId": "6760698900",
         "title": "雨のちハレ女",
@@ -1894,7 +1894,7 @@
       }
     },
     "ホロライブ麻雀": {
-      "at": "2026-11-02T06:30:38.873Z",
+      "at": "2026-11-05T07:00:35.138Z",
       "entry": {
         "trackId": "6762111285",
         "title": "ホロライブ麻雀 -ホロじゃん-",
@@ -3131,7 +3131,7 @@
       }
     },
     "セブンナイツ Re BIRTH": {
-      "at": "2026-11-02T06:30:37.473Z",
+      "at": "2026-11-05T07:00:33.660Z",
       "entry": {
         "trackId": "6479595079",
         "title": "セブンナイツ Re:BIRTH（セナリバ)",
@@ -61453,22 +61453,25 @@
       "title": "テクロノス",
       "prereg": true,
       "firstSeen": "2026-11-05T06:30:35.960Z"
+    },
+    "sonacraft–instrumentrepair": {
+      "title": "SonaCraft – Instrument Repair",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-05T07:00:31.967Z"
+    },
+    "追加コンテンツ第2弾「どきどきデコレーション」": {
+      "title": "追加コンテンツ第2弾「どきどきデコレーション」",
+      "dateText": "2026年12月9日",
+      "date": "2026-12-09",
+      "sortKey": "2026-12-09",
+      "prereg": false,
+      "firstSeen": "2026-11-05T07:00:31.967Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-12T16:00:36.236Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.3「イーファ＆ウェネーフィカ」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000071343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/61f465dcd88826762bb2a8326836aaba2a179ed4555e86a6d0f18a683a7fb07e.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年10月31日",
-      "to": "2026年10月15日"
-    },
     {
       "at": "2026-10-12T23:30:35.265Z",
       "type": "new",
@@ -66256,6 +66259,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-05T07:00:31.967Z",
+      "type": "new",
+      "label": "新規",
+      "title": "追加コンテンツ第2弾「どきどきデコレーション」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000072883",
+      "image": "https://img-eshop.cdn.nintendo.net/i/df17a3b96f74418b8a4874496dd5ea8048dc28ebd4320386e20d29514d92a93c.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月9日"
     }
   ],
   "initialized": true,
