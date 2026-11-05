@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-05T05:30:16.856Z",
+  "updatedAt": "2026-11-05T06:00:16.671Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1225,
+  "total": 1226,
   "regions": {
     "jp": 1006,
-    "global": 219
+    "global": 220
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 445
+      "count": 446
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 146
+      "count": 147
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 383
+      "count": 384
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3124e8d9b9be",
+      "url": "https://www.secondmaze.com/falling-apart-official",
+      "host": "secondmaze.com",
+      "region": "global",
+      "title": "Falling Apart",
+      "headline": "催眠療法によって，自らの崩壊した精神世界に入り込むポイント＆クリックADV「Falling Apart」，体験版配信開始",
+      "description": "Follow the Meaning is a surreal point-and-click puzzle adventure game now available on PC and mobile, developed by HiKi…",
+      "publishedAt": "2026-11-05T05:44:54.000Z",
+      "addedAt": "2026-11-05T06:00:16.671Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/007/G100784/20261105019/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/62c2c354c4437d4f57d1aeff/t/6a03944e91d74f643199916c/1778619470861/second+maze+origins.png?format=1500w"
+    },
     {
       "id": "d58b2a446683",
       "url": "https://linktr.ee/deliverymustcomplete",
