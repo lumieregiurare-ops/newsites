@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T16:00:19.836Z",
+  "updatedAt": "2026-11-05T16:30:20.055Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1237,
+  "total": 1238,
   "regions": {
-    "jp": 1017,
+    "jp": 1018,
     "global": 220
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 269
+      "count": 270
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 449
+      "count": 450
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 264
+      "count": 265
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 385
+      "count": 386
     },
     {
       "id": "browser",
@@ -799,6 +799,41 @@
         "ロールプレイング"
       ],
       "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0392161011b4",
+      "url": "https://mycari.pages.dev/",
+      "host": "mycari.pages.dev",
+      "region": "jp",
+      "title": "マイキャリ｜野球シミュレーションゲーム",
+      "headline": "Yudai Yodogawa / シミュレーション・スポーツ · App Store 新着",
+      "description": "小学生からメジャーリーグまで、あなただけのキャリアを歩もう。野球人生ゲーム、マイキャリ。2026年10月リリース予定。",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "addedAt": "2026-11-05T16:30:20.055Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6809578554"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "categories": [
+        "event",
+        "release",
         "goods"
       ],
       "platforms": [
