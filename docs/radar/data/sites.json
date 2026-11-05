@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-05T09:30:17.961Z",
+  "updatedAt": "2026-11-05T10:00:26.965Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1232,
+  "total": 1233,
   "regions": {
-    "jp": 1013,
+    "jp": 1014,
     "global": 219
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 54
+      "count": 55
     },
     {
       "id": "prereg",
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 128
+      "count": 129
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 447
+      "count": 448
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4828bbb34890",
+      "url": "https://teamninja-studio.com/doa6/lastround/jp/",
+      "host": "teamninja-studio.com",
+      "region": "jp",
+      "title": "DEAD OR ALIVE 6 Last Round",
+      "headline": "「DEAD OR ALIVE 6 Last Round」，みなとの新コスチューム4着を収録したDLC第18弾を配信開始。シリーズ30周年記念の無料アップデートも予告",
+      "description": "「DEAD OR ALIVE」シリーズ再始動！戦いはより激しく、美しくーー『DEAD OR ALIVE 6 Last Round』が6月25日に登場！『DEAD OR ALIVE 6』に、最新ハードウェアに合わせた対応や追加アップデートを…",
+      "publishedAt": "2026-11-05T09:33:38.000Z",
+      "addedAt": "2026-11-05T10:00:26.965Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/983/G098342/20261105037/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://teamninja-studio.com/doa6/lastround/assets/img/common/og_jp.jpg"
+    },
     {
       "id": "43ca9828b8fb",
       "url": "https://ryu-ga-gotoku.com/campaign/kankonsousai/?venue=yokohama",
@@ -17555,7 +17585,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.takaratomy.co.jp/products/nijisanji-7colors/common/images/og.jpg"
+      "image": "https://www.takaratomy.co.jp/fb.png"
     },
     {
       "id": "b009e6ac2475",
