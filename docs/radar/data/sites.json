@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T01:00:20.731Z",
+  "updatedAt": "2026-11-05T01:30:14.973Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1220,
+  "total": 1221,
   "regions": {
-    "jp": 1002,
+    "jp": 1003,
     "global": 218
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 441
+      "count": 442
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 40
+      "count": 41
     },
     {
       "id": "xbox",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 145
+      "count": 146
     },
     {
       "id": "mobile",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "28a6f6fdabe9",
+      "url": "https://odencat.com/bakemono/ja",
+      "host": "odencat.com",
+      "region": "jp",
+      "title": "メグとばけもの",
+      "headline": "泣けば世界を終わらせてしまう少女を守り抜くゲーム『メグとばけもの』PS5版が2027年の3月2日に発売決定。Steamレビュー「圧倒的に好評」のヒット作",
+      "description": "少女が泣くと世界が終わる - メグとばけものロイの物語",
+      "publishedAt": "2026-11-05T01:17:39.000Z",
+      "addedAt": "2026-11-05T01:30:14.973Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261105h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://odencat.com/bakemono/img/Websiteogpja.jpg"
+    },
     {
       "id": "0d18e8c067a5",
       "url": "https://fragmentaryorder.com/about",

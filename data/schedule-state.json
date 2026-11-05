@@ -61254,21 +61254,25 @@
       "sortKey": "2026-11-12",
       "prereg": false,
       "firstSeen": "2026-11-05T01:00:39.412Z"
+    },
+    "thegoddesstoldme:stealthatloafofbread": {
+      "title": "THE GODDESS TOLD ME: Steal That Loaf of Bread",
+      "dateText": "2026年11月5日",
+      "date": "2026-11-05",
+      "sortKey": "2026-11-05",
+      "prereg": false,
+      "firstSeen": "2026-11-05T01:30:26.202Z"
+    },
+    "メグとばけもの": {
+      "title": "メグとばけもの",
+      "dateText": "2027年3月2日",
+      "date": "2027-03-02",
+      "sortKey": "2027-03-02",
+      "prereg": false,
+      "firstSeen": "2026-11-05T01:30:26.202Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-11T06:30:29.092Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "深鳶",
-      "url": "https://www.taptap.cn/app/582728?os=android",
-      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-11T21:00:28.853Z",
       "type": "prereg_start",
@@ -66057,6 +66061,19 @@
         "switch"
       ],
       "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-11-05T01:30:26.202Z",
+      "type": "new",
+      "label": "新規",
+      "title": "メグとばけもの",
+      "url": "https://odencat.com/bakemono/ja",
+      "image": "https://odencat.com/bakemono/img/Websiteogpja.jpg",
+      "platforms": [
+        "ps",
+        "pc"
+      ],
+      "to": "2027年3月2日"
     }
   ],
   "initialized": true,
