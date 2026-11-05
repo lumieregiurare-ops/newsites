@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T15:30:25.282Z",
+  "updatedAt": "2026-11-05T16:00:19.836Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1236,
+  "total": 1237,
   "regions": {
-    "jp": 1016,
+    "jp": 1017,
     "global": 220
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 448
+      "count": 449
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "32e112d44825",
+      "url": "https://www.rockstargames.com/VI/launch-gallery",
+      "host": "rockstargames.com",
+      "region": "jp",
+      "title": "GTA6",
+      "headline": "『GTA6』新スクリーンショット一挙公開！迫る発売を前にバイスシティの雰囲気を堪能",
+      "description": "アメリカ、バイスシティ。ジェイソンとルシアは、自分たちの人生には常に向かい風が吹いていることを自覚していた。しかし、簡単にこなせると思われた仕事に失敗した二人は、いつしかアメリカでどこよりも陽当たりのいい街の暗部で、レオナイダ州全土に広が…",
+      "publishedAt": "2026-11-05T15:39:51.000Z",
+      "addedAt": "2026-11-05T16:00:19.836Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174541.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?iRdAxhfxNIpElE2Uro9Fj"
+    },
     {
       "id": "9c6b21da53b3",
       "url": "https://lightyearfrontier.com/",
