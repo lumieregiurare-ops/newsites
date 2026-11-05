@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:30:17.514Z",
+  "updatedAt": "2026-11-05T14:00:26.784Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 223
+      "count": 224
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 449
+      "count": 448
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 99
+      "count": 100
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 263
+      "count": 264
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 175
+      "count": 174
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 146
+      "count": 145
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 384
+      "count": 385
     },
     {
       "id": "browser",
@@ -1240,6 +1240,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c9/00/12c900c4-f01b-d7b9-dabd-ffc029e4ba14/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "7ae81498dc3e",
+      "url": "https://sobosuba.games/ja/",
+      "host": "sobosuba.games",
+      "region": "jp",
+      "title": "sobosuba",
+      "headline": "Shenzhen Taizhi Wansi Technology Co., Ltd. / パズル・カジュアル · App Store 新着",
+      "description": "sobosuba: Jelly Mergeで、ぷるぷるの数字をスライド、発射、合体。上のレールでの合体や狙い方、左右のスイッチのルールを紹介。買い切りで、広告もアプリ内課金もありません。",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "addedAt": "2026-11-05T14:00:26.784Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6829470634"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sobosuba.games/assets/app-icon.png"
     },
     {
       "id": "c4cc6f657b0e",
@@ -5904,7 +5938,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261104140044"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261105134748"
     },
     {
       "id": "2f282a7a4a54",
@@ -7431,12 +7465,13 @@
         "スマホ",
         "Android",
         "事前登録",
-        "iOS"
+        "iOS",
+        "特設サイト"
       ],
       "categories": [
         "prereg",
-        "event",
-        "release"
+        "campaign",
+        "event"
       ],
       "platforms": [
         "mobile"
@@ -7893,35 +7928,6 @@
       "platforms": [],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "75f4a4299d92",
-      "url": "https://minstrel-official.com/works-game.html",
-      "host": "minstrel-official.com",
-      "region": "jp",
-      "title": "義妹生活 Days with My Lo-Fi Sister",
-      "headline": "作業用ADV「義妹生活 Days with My Lo-Fi Sister」，Steamストアページを公開。綾瀬沙季とビデオ通話をしながら勉強や仕事の時間を過ごす",
-      "description": "Minstrelのゲーム作品。立体音響で物語を「歩く」体験へ。",
-      "publishedAt": "2026-10-22T10:37:17.000Z",
-      "addedAt": "2026-10-23T10:00:15.250Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/052/G105257/20261022042/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "points": null,
-      "image": "https://minstrel-official.com/assets/img/common/ogp_v2.jpg"
     },
     {
       "id": "46fe56d3ca3c",
