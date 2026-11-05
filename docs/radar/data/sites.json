@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T11:00:20.933Z",
+  "updatedAt": "2026-11-05T11:30:18.129Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1234,
+  "total": 1235,
   "regions": {
-    "jp": 1015,
+    "jp": 1016,
     "global": 219
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 174
+      "count": 175
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "58d178b13882",
+      "url": "https://foolnight.com/",
+      "host": "foolnight.com",
+      "region": "jp",
+      "title": "フールナイト",
+      "headline": "アニメ『フールナイト』キービジュアルやメインPV、追加キャストなどの最新情報が一挙公開。OPはTempalay、EDはNowlu氏が担当",
+      "description": "サンライズ×シャフトの初タッグが贈る、未来が現在を映すディストピア×ヒューマンドラマ。2026年11月26日Netflix世界独占配信！",
+      "publishedAt": "2026-11-05T11:00:11.000Z",
+      "addedAt": "2026-11-05T11:30:18.129Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611052p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.foolnight.com/assets/images/common/common/ogp_03.png"
+    },
     {
       "id": "eb7d6116b634",
       "url": "https://kinpri.com/yec/",
@@ -1480,6 +1507,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/02/174410.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/003/G100323/20261105048/"
         }
       ],
       "tags": [
@@ -12787,7 +12818,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど264本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど265本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
@@ -19041,7 +19072,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639288008094499968"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639293235319257699"
     },
     {
       "id": "ec747cc06a3c",
