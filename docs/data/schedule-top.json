@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:00:31.225Z",
+  "updatedAt": "2026-11-05T06:30:35.960Z",
   "platforms": [
     {
       "id": "switch",
@@ -364,6 +364,26 @@
       "trackId": "6778303469"
     },
     {
+      "id": "b7884c8204b7",
+      "title": "テクロノス",
+      "url": "https://techcronoss.com/",
+      "image": "https://techcronoss.com/wordpress/wp-content/themes/techcronoss_v0/assets/images/common/ogp.jpg?v=3",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-30T07:26:23.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "DMM GAMES『テクロノス』にて「シャルン」が新登場！ さらにイベントアトラクション「あつめて！ハロウィンキャンディ」も開催中！",
+      "description": "DMM GAMES×テクロス 4年ぶりの最新作！『神姫PROJECT』『あやかしランブル！』『れじぇくろ！』の魅力的なキャラたちが大集合！クロスヒロインRPG！",
+      "source": "Appliv Games",
+      "sourceUrl": "https://games.app-liv.jp/archives/592769",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "3112eeac605e",
       "title": "MHO",
       "url": "https://game8.jp/preregistration/808921",
@@ -428,34 +448,21 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/kikakuthetower/2610212b",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "4c96c1d1eb2a",
-      "title": "リラックマ ごゆるりパズル",
-      "url": "https://jp.rilakkuma-puzzle.com/",
-      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-20T10:08:29.000Z",
-      "releaseText": "2027年1月27日",
-      "releaseSource": "appstore",
-      "count": "事前登録者数が3万人",
-      "reward": "",
-      "headline": "「リラックマ ごゆるりパズル」，2027年初頭のリリースに向けて事前登録の受付を開始。着せ替えや部屋の模様替えも楽しめる3マッチパズル",
-      "description": "リラックマたちとのんびり遊ぶ3マッチパズル。事前登録受付中。",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/051/G105170/20261020034/",
-      "appleId": "6807266067",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6807266067",
-        "preorder": true,
-        "releaseDate": "2027-01-27T08:00:00Z"
-      },
-      "trackId": "6807266067"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-05T06:30:35.960Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "テクロノス",
+      "url": "https://techcronoss.com/",
+      "image": "https://techcronoss.com/wordpress/wp-content/themes/techcronoss_v0/assets/images/common/ogp.jpg?v=3",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-05T05:00:45.146Z",
       "type": "prereg_start",
@@ -510,18 +517,6 @@
       "title": "Roombattle ルームバトル",
       "url": "https://store-jp.nintendo.com/item/software/D70010000131054",
       "image": "https://img-eshop.cdn.nintendo.net/i/e74e090cf906ec232444dab0ce782fca3fb79ef43284b37c036c3a314518b830.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-04T17:00:47.247Z",
-      "type": "new",
-      "label": "新規",
-      "title": "LarsGadiel ラースガディエル",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000141166",
-      "image": "https://img-eshop.cdn.nintendo.net/i/0ae8bbd74a28106bd99ea0deeb9ca43a1619ad8493cf52616e92e12ddfd494dc.jpg",
       "platforms": [
         "switch"
       ],
