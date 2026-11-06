@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T05:00:17.513Z",
+  "updatedAt": "2026-11-06T05:30:17.035Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1246,
+  "total": 1247,
   "regions": {
-    "jp": 1024,
+    "jp": 1025,
     "global": 222
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 453
+      "count": 454
     },
     {
       "id": "indie",
@@ -318,6 +318,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/06/174541.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/06/190452.html"
         }
       ],
       "tags": [
@@ -356,6 +360,33 @@
       "platforms": [],
       "points": null,
       "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/338OWx0jNPuD4hYNj3WFS9/94f21727b3f69010fad89ee9ac9f0393/AssassinsCreed_Visual_AllAssassins.jpg"
+    },
+    {
+      "id": "b4beddc634e9",
+      "url": "https://konfagames.com/",
+      "host": "konfagames.com",
+      "region": "jp",
+      "title": "Hull Rupture",
+      "headline": "人類の復讐のため，エイリアンの襲撃に耐えながら宇宙船を動かし続ける。基地運営型ローグライトタワーディフェンス「Hull Rupture」，配信開始",
+      "description": "人類の復讐のため，エイリアンの襲撃に耐えながら宇宙船を動かし続ける。基地運営型ローグライトタワーディフェンス「Hull Rupture」，配信開始",
+      "publishedAt": "2026-11-05T12:16:18.000Z",
+      "addedAt": "2026-11-06T05:30:17.035Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105588/20261105060/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
     },
     {
       "id": "9c6b21da53b3",
