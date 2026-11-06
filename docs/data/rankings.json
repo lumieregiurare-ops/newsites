@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T14:30:18.652Z",
+  "updatedAt": "2026-11-06T15:00:21.539Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（11/05 比）",
+      "note": "Steam の同時接続数ランキング（11/06 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -132,9 +132,9 @@
           "url": "https://store.steampowered.com/app/252490/",
           "metric": "同時接続 148,713人",
           "delta": {
-            "kind": "up",
-            "label": "+7",
-            "value": 7
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（11/05 比）",
+      "note": "App Store（日本）の無料ゲームランキング（11/06 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -155,9 +155,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
           "metric": "Level Infinite",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -168,9 +168,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
           "metric": "coly, Inc.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -207,9 +207,9 @@
           "url": "https://apps.apple.com/jp/app/cutie-sort-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%89%B2%E5%88%86%E3%81%91%E3%82%B2%E3%83%BC%E3%83%A0/id6796547048",
           "metric": "Ladaneta Games",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/bleach-mirrors-high-%E3%83%9F%E3%83%A9%E3%83%8F%E3%82%A4/id6747328897",
           "metric": "Bandai Namco Entertainment Inc.",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,8 +259,8 @@
           "url": "https://apps.apple.com/jp/app/%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0-past-floor/id6804630049",
           "metric": "Jammsworks Inc.",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
+            "kind": "same",
+            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
