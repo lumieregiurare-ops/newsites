@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T02:00:17.027Z",
+  "updatedAt": "2026-11-06T02:30:17.862Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1242,
+  "total": 1243,
   "regions": {
-    "jp": 1021,
+    "jp": 1022,
     "global": 221
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 224
+      "count": 225
     },
     {
       "id": "event",
@@ -121,6 +121,7 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "AppBank",
     "4Gamer",
@@ -128,10 +129,36 @@
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
-    "Inside",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "ced0dae1886c",
+      "url": "https://www.manhattanportage.co.jp/",
+      "host": "manhattanportage.co.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "『ポケモン』×「マンハッタンポーテージ」コラボにリザードンたち4匹が仲間入り！バック全12アイテムがラインナップ、オンライン販売は本日11月6日12時から",
+      "description": "『ポケモン』×「マンハッタンポーテージ」コラボにリザードンたち4匹が仲間入り！バック全12アイテムがラインナップ、オンライン販売は本日11月6日12時から",
+      "publishedAt": "2026-11-06T02:10:02.000Z",
+      "addedAt": "2026-11-06T02:30:17.862Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/06/190439.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "fbbf867151bb",
       "url": "https://www.akuparagames.com/game/airframe-ultra/",
@@ -31445,7 +31472,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?4K_5qVU-H-Ah55_aIE8bv"
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?chy1UYn-EncQQwpG7SQkV"
     },
     {
       "id": "fabd6a1df6f3",
