@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T14:00:18.426Z",
+  "updatedAt": "2026-11-06T14:30:16.985Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1256,
+  "total": 1258,
   "regions": {
-    "jp": 1030,
+    "jp": 1032,
     "global": 226
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 273
+      "count": 274
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 177
+      "count": 178
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 147
+      "count": 148
     },
     {
       "id": "mobile",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d7feb765a95b",
+      "url": "https://www.pokemon-card.com/",
+      "host": "pokemon-card.com",
+      "region": "jp",
+      "title": "北斗の拳",
+      "headline": "「北斗の拳」の原哲夫氏が描く「マキシの熱血」SARが公開。「ポケカ」新パック「ハドウシーカー」の収録カード情報が明らかに",
+      "description": "ポケモンカードゲームの遊びかた、商品、イベント情報などをお届けする公式サイト。",
+      "publishedAt": "2026-11-06T14:19:10.000Z",
+      "addedAt": "2026-11-06T14:30:16.985Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/256/G025620/20261106055/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402"
+    },
     {
       "id": "8df8d7c4fea1",
       "url": "https://apps.apple.com/jp/app/id1672017627",
@@ -6526,7 +6553,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261105134748"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261106143031"
     },
     {
       "id": "2f282a7a4a54",
@@ -8549,6 +8576,35 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "75f4a4299d92",
+      "url": "https://minstrel-official.com/works-game.html",
+      "host": "minstrel-official.com",
+      "region": "jp",
+      "title": "義妹生活 Days with My Lo-Fi Sister",
+      "headline": "作業用ADV「義妹生活 Days with My Lo-Fi Sister」，Steamストアページを公開。綾瀬沙季とビデオ通話をしながら勉強や仕事の時間を過ごす",
+      "description": "Minstrelのゲーム作品。立体音響で物語を「歩く」体験へ。",
+      "publishedAt": "2026-10-22T10:37:17.000Z",
+      "addedAt": "2026-10-23T10:00:15.250Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/052/G105257/20261022042/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://minstrel-official.com/assets/img/common/ogp_v2.jpg"
     },
     {
       "id": "46fe56d3ca3c",
@@ -17103,7 +17159,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/84/57/54845787-7e87-95c6-b1b9-1dfa7a4b16ca/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/2e/c8/752ec83d-6d99-0397-7245-09c6efe756c3/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "79d559bd596f",
