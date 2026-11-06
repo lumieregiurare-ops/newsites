@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T12:00:17.348Z",
+  "updatedAt": "2026-11-06T12:30:16.942Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1256,
+  "total": 1257,
   "regions": {
-    "jp": 1030,
+    "jp": 1031,
     "global": 226
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 230
+      "count": 231
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 272
+      "count": 273
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 101
+      "count": 102
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 389
+      "count": 390
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
-    "AppBank",
     "4Gamer",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8df8d7c4fea1",
+      "url": "https://apps.apple.com/jp/app/id1672017627",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "信長の野望 出陣",
+      "headline": "『信長の野望 出陣』「天下争覇 第7期」開催！ 上田城紅葉まつりコラボは11月6日から",
+      "description": "KOEI TECMO GAMES CO., LTD.の「信長の野望 出陣」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「信長の野望 出陣」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-06T12:20:00.000Z",
+      "addedAt": "2026-11-06T12:30:16.942Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/06/game/3156824.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/d6/0e/1dd60ed3-9756-c984-823b-c0bfd1d27d73/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "45fdcbf76e91",
       "url": "https://denfami.jp/novel/outou/",
