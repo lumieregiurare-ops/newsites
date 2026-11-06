@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T10:30:18.970Z",
+  "updatedAt": "2026-11-06T11:00:18.022Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1254,
+  "total": 1255,
   "regions": {
-    "jp": 1028,
+    "jp": 1029,
     "global": 226
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 228
+      "count": 229
     },
     {
       "id": "event",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "Game*Spark",
     "AppBank",
     "4Gamer",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "45fdcbf76e91",
+      "url": "https://denfami.jp/novel/outou/",
+      "host": "denfami.jp",
+      "region": "jp",
+      "title": "428",
+      "headline": "『428』で知られるイシイジロウ氏、なんと“日本酒”コラボ。原作・執筆を手がけた『桜桃探偵舎』の美しいイラストが描かれたボトルが登場",
+      "description": "『428 〜封鎖された渋谷で〜』イシイジロウが贈る、歴史IFミステリー×文豪バディ小説『桜桃探偵舎 太宰治と檀一雄の事件簿』を、電ファミニコゲーマーで特別連載。舞台は戦後、GHQ占領下の闇。かつての遊び「探偵」を再開した太宰と檀を待ってい…",
+      "publishedAt": "2026-11-06T10:56:08.000Z",
+      "addedAt": "2026-11-06T11:00:18.022Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611062k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://denfami.jp/novel/outou/assets/images/ogp_02.jpg"
+    },
     {
       "id": "c56d244d52c6",
       "url": "https://jp.puma.com/jp/ja/select/tamagotchi",
