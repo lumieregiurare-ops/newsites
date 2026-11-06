@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:30:20.127Z",
+  "updatedAt": "2026-11-06T05:00:17.513Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 226
+      "count": 227
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 266
+      "count": 265
     },
     {
       "id": "official",
@@ -15689,12 +15689,13 @@
         "スマホ",
         "iOS",
         "事前登録",
-        "Android"
+        "Android",
+        "特設サイト"
       ],
       "categories": [
         "prereg",
-        "company",
-        "goods"
+        "campaign",
+        "company"
       ],
       "platforms": [
         "mobile"
