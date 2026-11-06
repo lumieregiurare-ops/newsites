@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-05T23:30:16.541Z",
+  "updatedAt": "2026-11-06T00:00:16.773Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1240,
+  "total": 1241,
   "regions": {
-    "jp": 1020,
+    "jp": 1021,
     "global": 220
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 452
+      "count": 453
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 386
+      "count": 387
     },
     {
       "id": "browser",
@@ -122,13 +122,13 @@
   ],
   "sources": [
     "Game*Spark",
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "Inside",
-    "AppBank",
     "minimal.gallery"
   ],
   "items": [
@@ -158,6 +158,37 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "a77323ebe302",
+      "url": "https://play.google.com/store/apps/details?id=com.techfirstleaders.androidxr.spatialslash",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "Spatial Slash!",
+      "headline": "Android XR対応グラス「XREAL AURA」向けARアクション『Spatial Slash!』がGoogle Playで無料配信開始",
+      "description": "現実空間に現れたモンスターをひたすら斬りまくる、空間コンピューティング時代の爽快アクションゲーム！",
+      "publishedAt": "2026-11-05T23:30:00.000Z",
+      "addedAt": "2026-11-06T00:00:16.773Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/06/game/3155636.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/FE-Lk9AoVxZBJAsOob6mm88jPFlSbbR4u2sSMs4C2SZuF8l3P1Z6rGRkhoxRH908pNIs4uTY6tQZOl1Sd0YrVJc=s0-br30"
     },
     {
       "id": "32e112d44825",
