@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-06T03:00:16.692Z",
+  "updatedAt": "2026-11-06T03:30:17.753Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1243,
+  "total": 1244,
   "regions": {
     "jp": 1022,
-    "global": 221
+    "global": 222
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 174
+      "count": 175
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "72ad0a9ef813",
+      "url": "https://www.sega.jp/game/detail/football-manager-2027/",
+      "host": "sega.jp",
+      "region": "jp",
+      "title": "FM26",
+      "headline": "『FM26』を240時間遊んだ僕が最新作『Football Manager 27』で感動したこと。UI改善と試合の進化で直感的にカリスマ監督になれる、いちばん遊びやすい『FM』に…",
+      "description": "『FM26』を240時間遊んだ僕が最新作『Football Manager 27』で感動したこと。UI改善と試合の進化で直感的にカリスマ監督になれる、いちばん遊びやすい『FM』になっていた",
+      "publishedAt": "2026-11-06T03:05:13.000Z",
+      "addedAt": "2026-11-06T03:30:17.753Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261106g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "ced0dae1886c",
       "url": "https://www.manhattanportage.co.jp/",
@@ -33465,7 +33492,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
