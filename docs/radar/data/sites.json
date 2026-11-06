@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-06T08:00:16.897Z",
+  "updatedAt": "2026-11-06T08:30:15.984Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1249,
+  "total": 1250,
   "regions": {
     "jp": 1025,
-    "global": 224
+    "global": 225
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 176
+      "count": 177
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f844bbe58a04",
+      "url": "https://www.massiveeffect.ca/",
+      "host": "massiveeffect.ca",
+      "region": "global",
+      "title": "マスエフェクト",
+      "headline": "『マスエフェクト』『ドラゴンエイジ』など生んだBioWareの歴史と最後の日々までを記録―約2年前から撮影の長編ドキュメンタリー映画が2027年公開予定",
+      "description": "『マスエフェクト』『ドラゴンエイジ』など生んだBioWareの歴史と最後の日々までを記録―約2年前から撮影の長編ドキュメンタリー映画が2027年公開予定",
+      "publishedAt": "2026-11-06T08:30:03.000Z",
+      "addedAt": "2026-11-06T08:30:15.984Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174573.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/6a277acc2369435586480d21/t/6a3192b34690b822a086bb2e/1781633715152/Asset+12%402x-8.png?format=1500w"
+    },
     {
       "id": "bdf2cd7e4fa2",
       "url": "https://tinogamez.com/en",
