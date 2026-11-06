@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T09:30:19.696Z",
+  "updatedAt": "2026-11-06T10:00:15.978Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1252,
+  "total": 1254,
   "regions": {
-    "jp": 1026,
+    "jp": 1028,
     "global": 226
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 227
+      "count": 228
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 271
+      "count": 272
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "Inside",
     "AppBank",
     "4Gamer",
     "App Store",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "c56d244d52c6",
+      "url": "https://jp.puma.com/jp/ja/select/tamagotchi",
+      "host": "jp.puma.com",
+      "region": "jp",
+      "title": "プーマ",
+      "headline": "「プーマ」×「たまごっち」のコラボがオシャレ！双方のロゴなどを組み合わせた特別なデザイン",
+      "description": "「プーマ」×「たまごっち」のコラボがオシャレ！双方のロゴなどを組み合わせた特別なデザイン",
+      "publishedAt": "2026-11-06T10:00:03.000Z",
+      "addedAt": "2026-11-06T10:00:15.978Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/06/190471.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "45baa3940cf4",
+      "url": "https://www.jvcmusic.co.jp/psl2027/",
+      "host": "jvcmusic.co.jp",
+      "region": "jp",
+      "title": "ペルソナ",
+      "headline": "『ペルソナ』大規模音楽ライブ「PERSONA SUPER LIVE 2027 -全ての人の魂の願い-」はシリーズ最新作『ペルソナ4 リバイバル』が主軸に。2027年3月19日から…",
+      "description": "「PERSONA SUPER LIVE 2027 -全ての人の魂の願い-」2027年3月19・20・21日3Days開催！「佐々木詩織」「Lyn」「高橋あず美」「Lotus Juice」「川村ゆみ」「藤田真由美」「喜多修平」による共演、バ…",
+      "publishedAt": "2026-11-06T09:29:47.000Z",
+      "addedAt": "2026-11-06T10:00:15.978Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611062h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.jvcmusic.co.jp/psl2027/images/og-image.jpg"
+    },
     {
       "id": "a3062f3862c9",
       "url": "https://acorniagame.com/",
