@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T03:30:17.753Z",
+  "updatedAt": "2026-11-06T04:00:18.464Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1244,
+  "total": 1246,
   "regions": {
-    "jp": 1022,
+    "jp": 1024,
     "global": 222
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 225
+      "count": 226
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 270
+      "count": 271
     },
     {
       "id": "release",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 23
+      "count": 24
     },
     {
       "id": "company",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "Game*Spark",
     "AppBank",
     "4Gamer",
     "App Store",
@@ -132,6 +132,61 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "370ad2aaa78e",
+      "url": "https://fragmentaryorder.com/about-prime-batch",
+      "host": "fragmentaryorder.com",
+      "region": "jp",
+      "title": "Fragmentary Order",
+      "headline": "“宇宙タルコフ”こと『Fragmentary Order』早期アクセスQ&Aが公開―有料先行アクセス「Prime Batch」向けアルファテストはまもなく開催とニキータ氏",
+      "description": "Fragmentary Order is realistic hardcore sci-fi multiplayer FPS exploring tactical combat simulation, survival, and risk…",
+      "publishedAt": "2026-11-06T04:00:03.000Z",
+      "addedAt": "2026-11-06T04:00:18.464Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174560.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fragmentaryorder.com/images/og.png"
+    },
+    {
+      "id": "ce70a8f57b81",
+      "url": "https://tamagotchi-official.com/jp/series/original/item/01_1829/",
+      "host": "tamagotchi-official.com",
+      "region": "jp",
+      "title": "たまごっち",
+      "headline": "【！？】『たまごっち』が『ストレンジャー・シングス』とまさかのコラボ。パッケージでは「まめっち」がデモゴルゴン風に",
+      "description": "初代「たまごっち」の欧米版、『Original Tamagotchi』より、Netflixシリーズ「ストレンジャー・シングス 未知の世界」とのコラボレーションバージョンが登場！Ne",
+      "publishedAt": "2026-11-06T03:58:32.000Z",
+      "addedAt": "2026-11-06T04:00:18.464Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261106o"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tamagotchi-official.com/tamagotchi/jp/product/2026/11/05/UrUEFZd45qMvHpyx/1.jpeg"
+    },
     {
       "id": "72ad0a9ef813",
       "url": "https://www.sega.jp/game/detail/football-manager-2027/",
@@ -201,6 +256,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/06/174549.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/040/G104056/20261106011/"
         }
       ],
       "tags": [
