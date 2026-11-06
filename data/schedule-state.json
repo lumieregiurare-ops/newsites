@@ -1540,7 +1540,7 @@
       "entry": null
     },
     "FingerLaserX": {
-      "at": "2026-11-03T09:30:30.592Z",
+      "at": "2026-11-06T09:30:40.772Z",
       "entry": {
         "trackId": "6474999801",
         "title": "FingerLaserX",
@@ -2673,7 +2673,7 @@
       }
     },
     "バンドリ！ ガールズバンドパーティ！": {
-      "at": "2026-11-03T09:30:29.280Z",
+      "at": "2026-11-06T09:30:39.413Z",
       "entry": {
         "trackId": "1195834442",
         "title": "バンドリ！ ガールズバンドパーティ！",
@@ -2687,7 +2687,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id1195834442",
         "sellerUrl": "https://bang-dream.bushimo.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/66/98/e1669846-f809-0f4a-cdd3-0ba31c40a3b5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/5b/d4/b75bd4fa-97b3-9dc5-45c4-4f789eb6a092/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -63809,33 +63809,41 @@
       "sortKey": "2026-11-16",
       "prereg": false,
       "firstSeen": "2026-11-06T09:00:31.588Z"
+    },
+    "battlerunesofmetalaria": {
+      "title": "Battle Runes of Metalaria",
+      "dateText": "2026年11月7日",
+      "date": "2026-11-07",
+      "sortKey": "2026-11-07",
+      "prereg": false,
+      "firstSeen": "2026-11-06T09:30:39.097Z"
+    },
+    "holocozy": {
+      "title": "HoloCozy",
+      "dateText": "2026年11月13日",
+      "date": "2026-11-13",
+      "sortKey": "2026-11-13",
+      "prereg": false,
+      "firstSeen": "2026-11-06T09:30:39.097Z"
+    },
+    "デモンキルデモン": {
+      "title": "デモンキルデモン",
+      "dateText": "2027年2月25日",
+      "date": "2027-02-25",
+      "sortKey": "2027-02-25",
+      "prereg": false,
+      "firstSeen": "2026-11-06T09:30:39.097Z"
+    },
+    "アコルニア:ミラーワールド": {
+      "title": "アコルニア:ミラーワールド",
+      "dateText": "2027年春",
+      "date": null,
+      "sortKey": "2027-04-33",
+      "prereg": false,
+      "firstSeen": "2026-11-06T09:30:39.097Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-13T01:00:28.173Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月23日"
-    },
-    {
-      "at": "2026-10-13T10:00:31.107Z",
-      "type": "new",
-      "label": "新規",
-      "title": "かまいたちの夜",
-      "url": "https://zakuzaku-game.com/rd/",
-      "image": "",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年11月"
-    },
     {
       "at": "2026-10-13T11:00:28.021Z",
       "type": "prereg_start",
@@ -68609,6 +68617,28 @@
         "switch2"
       ],
       "to": "2026年11月12日"
+    },
+    {
+      "at": "2026-11-06T09:30:39.097Z",
+      "type": "new",
+      "label": "新規",
+      "title": "デモンキルデモン",
+      "url": "https://demonkill.jp/",
+      "image": "https://demonkill.jp/share/images/ogp.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年2月25日"
+    },
+    {
+      "at": "2026-11-06T09:30:39.097Z",
+      "type": "new",
+      "label": "新規",
+      "title": "アコルニア:ミラーワールド",
+      "url": "https://acorniagame.com/",
+      "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg",
+      "platforms": [],
+      "to": "2027年春"
     }
   ],
   "initialized": true,

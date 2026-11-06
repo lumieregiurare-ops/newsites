@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-06T09:00:17.879Z",
+  "updatedAt": "2026-11-06T09:30:19.696Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1250,
+  "total": 1252,
   "regions": {
-    "jp": 1025,
-    "global": 225
+    "jp": 1026,
+    "global": 226
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 454
+      "count": 456
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 266
+      "count": 267
     },
     {
       "id": "official",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 146
+      "count": 147
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "Inside",
     "AppBank",
     "4Gamer",
@@ -132,6 +132,67 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a3062f3862c9",
+      "url": "https://acorniagame.com/",
+      "host": "acorniagame.com",
+      "region": "global",
+      "title": "アコルニア:ミラーワールド",
+      "headline": "「お菓子屋経営」と「見下ろし型アクション」が融合したゲーム『アコルニア:ミラーワールド』が2027年春に発売決定。お菓子をお皿に盛り付けてお客さんに提供するか、敵に弾丸として撃つ…",
+      "description": "A bake-and-brawl management adventure game! Run your shop in one dimension, fight angry spirits in the other. Your spec…",
+      "publishedAt": "2026-11-06T09:00:21.000Z",
+      "addedAt": "2026-11-06T09:30:19.696Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611062c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg"
+    },
+    {
+      "id": "2e519d36d2a9",
+      "url": "https://demonkill.jp/",
+      "host": "demonkill.jp",
+      "region": "jp",
+      "title": "デモンキルデモン",
+      "headline": "ディストピアDRPG『デモンキルデモン』Steam/PS移植版が2027年2月25日に発売決定！死した級友を蘇生し異界の迷宮へ挑む",
+      "description": "ディストピア・ダンジョン・ＲＰＧ『デモンキルデモン～黄泉1984～』公式サイト。地下探行士“幽閉”事件から5年。再び、黄泉に轟く闇が牙をむく。生き延びるために、仲間の死体を蘇生して戦え！",
+      "publishedAt": "2026-11-06T09:00:08.000Z",
+      "addedAt": "2026-11-06T09:30:19.696Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/06/174576.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611062d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://demonkill.jp/share/images/ogp.jpg"
+    },
     {
       "id": "f844bbe58a04",
       "url": "https://www.massiveeffect.ca/",
@@ -9453,7 +9514,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72sSVu_-loegtUEe3Qa9igyzPKRPqE2U5bDuHSH7EJNBli7Rm2OSMeUItjGWgZPM5qRJ1BxQ9rOjKWt7xgeXKCxU_uJD3ywjYqzcdJjgZQr2ApFTp3Zh5V6qr76lNJ6A50Sc9Uuy4_jdahp3lfcWYG66OT8rnd-owK58vvARgUxsPAl4sbzcEwaBWSZVu4k=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uoohwwn61LTP2gKwQjaoqAhzw5O14cdNz920yZWEOTj3LHABkIvcJsbUXk_pZwsU_070ozYFK3bTCFEM8hxVLiWeSmt3JRcIxUJ-ABDdFv-tcA23-L-bmo6ig7-My62O8ovjGLntRrbpIQ2G8NEN9djCml3ug5PJoopS5bTfkKqIMNWO01oFfR8UBabsU=w16383"
     },
     {
       "id": "41b1b683c8f0",

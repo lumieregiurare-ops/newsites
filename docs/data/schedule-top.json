@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T09:00:31.588Z",
+  "updatedAt": "2026-11-06T09:30:39.097Z",
   "platforms": [
     {
       "id": "switch",
@@ -454,6 +454,28 @@
   ],
   "changes": [
     {
+      "at": "2026-11-06T09:30:39.097Z",
+      "type": "new",
+      "label": "新規",
+      "title": "アコルニア:ミラーワールド",
+      "url": "https://acorniagame.com/",
+      "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg",
+      "platforms": [],
+      "to": "2027年春"
+    },
+    {
+      "at": "2026-11-06T09:30:39.097Z",
+      "type": "new",
+      "label": "新規",
+      "title": "デモンキルデモン",
+      "url": "https://demonkill.jp/",
+      "image": "https://demonkill.jp/share/images/ogp.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年2月25日"
+    },
+    {
       "at": "2026-11-05T16:00:32.066Z",
       "type": "new",
       "label": "新規",
@@ -498,28 +520,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-11-05T05:00:45.146Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "崩壊：ネクサスアニマ",
-      "url": "https://hoyo.link/gXA5dV4eK",
-      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2027年4月1日"
-    },
-    {
-      "at": "2026-11-05T05:00:45.146Z",
-      "type": "new",
-      "label": "新規",
-      "title": "崩壊：ネクサスアニマ",
-      "url": "https://hoyo.link/gXA5dV4eK",
-      "image": "https://fastcdn.hoyoverse.com/mi18n/abc_global/m20260911hy2hf2xwxs/upload/e73e89de73c157c397d79308e2212780_7539477038074762987.jpg",
-      "platforms": [],
-      "to": "2027年4月1日"
     }
   ]
 }
