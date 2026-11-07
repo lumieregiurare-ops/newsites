@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-07T07:00:16.992Z",
+  "updatedAt": "2026-11-07T07:30:17.009Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1264,
+  "total": 1266,
   "regions": {
     "jp": 1037,
-    "global": 227
+    "global": 229
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 55
+      "count": 56
     },
     {
       "id": "prereg",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 268
+      "count": 270
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 151
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 393
+      "count": 395
     },
     {
       "id": "browser",
@@ -576,6 +576,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/7f/1e/987f1ef4-49eb-320b-ea5d-731b573b79f5/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "2e2fc71e4434",
+      "url": "https://www.mobentertainment.com/",
+      "host": "mobentertainment.com",
+      "region": "global",
+      "title": "Poppy Playtime Chapter 5",
+      "headline": "Mob Entertainment, Inc / アドベンチャー・パズル · App Store 新着",
+      "description": "Mob Entertainment, Inc / アドベンチャー・パズル · App Store 新着",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "addedAt": "2026-11-07T07:30:17.009Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6788134172"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "bdf2cd7e4fa2",
@@ -16081,6 +16114,41 @@
       ],
       "points": null,
       "image": "https://foliesapp.com/og-image.png"
+    },
+    {
+      "id": "23892e6eeeaf",
+      "url": "https://namyunwoo.github.io/saltpilgrim/salt-pilgrim/",
+      "host": "namyunwoo.github.io",
+      "region": "global",
+      "title": "SALT PILGRIM",
+      "headline": "YUNWOO NAM / ロールプレイング・カード · App Store 新着",
+      "description": "A 1-bit deckbuilding roguelike. Out now on the App Store and Google Play; Steam coming soon.",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "addedAt": "2026-11-07T07:30:17.009Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6819187251"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "カード"
+      ],
+      "categories": [
+        "teaser",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://namyunwoo.github.io/saltpilgrim/img/sp/moment05.png"
     },
     {
       "id": "2815a185e1da",
