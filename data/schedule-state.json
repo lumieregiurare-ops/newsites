@@ -1064,7 +1064,7 @@
       "entry": null
     },
     "東京リベンジャーズ UNLIMITED": {
-      "at": "2026-11-04T03:30:46.041Z",
+      "at": "2026-11-07T04:00:35.491Z",
       "entry": {
         "trackId": "6698853161",
         "title": "東京リベンジャーズ UNLIMITED",
@@ -3465,6 +3465,25 @@
     "ラチェクラ": {
       "at": "2026-11-07T02:00:30.701Z",
       "entry": null
+    },
+    "スマスロ リコリス リコイル": {
+      "at": "2026-11-07T04:00:34.158Z",
+      "entry": {
+        "trackId": "6823027426",
+        "title": "[777Real]スマスロ リコリス・リコイル",
+        "artist": "Sammy Networks Co., Ltd.",
+        "genres": [
+          "カジノ",
+          "エンターテインメント",
+          "シミュレーション"
+        ],
+        "releaseDate": "2026-11-11T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6823027426",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/fb/29/00fb298d-2317-eb82-078b-653bb0e31b32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -65191,33 +65210,17 @@
       "sortKey": "2026-11-07",
       "prereg": false,
       "firstSeen": "2026-11-07T02:00:30.464Z"
+    },
+    "スマスロリコリス・リコイル": {
+      "title": "スマスロ リコリス・リコイル",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": true,
+      "firstSeen": "2026-11-07T04:00:33.959Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-13T11:00:28.021Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月14日"
-    },
-    {
-      "at": "2026-10-13T12:30:31.130Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月14日"
-    },
     {
       "at": "2026-10-13T13:30:28.128Z",
       "type": "prereg_start",
@@ -69989,6 +69992,30 @@
       "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg",
       "platforms": [],
       "to": "2027年春"
+    },
+    {
+      "at": "2026-11-07T04:00:33.959Z",
+      "type": "new",
+      "label": "新規",
+      "title": "スマスロ リコリス・リコイル",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0241",
+      "image": "https://play-lh.googleusercontent.com/gVm2tQDDOr7fNrpw1bhY6nJiEaXQ9-wmEO2KqUS4QsTlF0JHzo_EMNXR6pz8SMf5Kl4oBxQbdIUK0ikM-hq9Rw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月11日"
+    },
+    {
+      "at": "2026-11-07T04:00:33.959Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "スマスロ リコリス・リコイル",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0241",
+      "image": "https://play-lh.googleusercontent.com/gVm2tQDDOr7fNrpw1bhY6nJiEaXQ9-wmEO2KqUS4QsTlF0JHzo_EMNXR6pz8SMf5Kl4oBxQbdIUK0ikM-hq9Rw=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月11日"
     }
   ],
   "initialized": true,

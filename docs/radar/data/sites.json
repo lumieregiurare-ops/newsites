@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-07T03:30:17.054Z",
+  "updatedAt": "2026-11-07T04:00:16.584Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1262,
+  "total": 1263,
   "regions": {
-    "jp": 1034,
-    "global": 228
+    "jp": 1036,
+    "global": 227
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 157
+      "count": 158
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 391
+      "count": 392
     },
     {
       "id": "browser",
@@ -122,11 +122,11 @@
   ],
   "sources": [
     "Inside",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
     "4Gamer",
-    "AppBank",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
@@ -158,6 +158,39 @@
       "platforms": [],
       "points": null,
       "image": "https://godzillafes.com/img/ogp.png"
+    },
+    {
+      "id": "b592b79d3b1e",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0241",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "スマスロ リコリス・リコイル",
+      "headline": "『スマスロ リコリス・リコイル』アプリの事前登録が開始！ 「777Real」で11月10日配信予定",
+      "description": "『スマスロ リコリス・リコイル』が登場",
+      "publishedAt": "2026-11-07T03:30:00.000Z",
+      "addedAt": "2026-11-07T04:00:16.584Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/07/game/3157509.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/gVm2tQDDOr7fNrpw1bhY6nJiEaXQ9-wmEO2KqUS4QsTlF0JHzo_EMNXR6pz8SMf5Kl4oBxQbdIUK0ikM-hq9Rw=s0-br30"
     },
     {
       "id": "6d22011332b1",
@@ -34021,7 +34054,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
