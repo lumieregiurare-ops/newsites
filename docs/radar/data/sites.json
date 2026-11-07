@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-07T09:30:16.255Z",
+  "updatedAt": "2026-11-07T10:00:17.858Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1268,
+  "total": 1269,
   "regions": {
-    "jp": 1039,
+    "jp": 1040,
     "global": 229
   },
   "categories": [
@@ -20,17 +20,17 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 158
+      "count": 159
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 129
+      "count": 130
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 231
+      "count": 232
     },
     {
       "id": "event",
@@ -147,6 +147,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261107k"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105632/20261106044/"
         }
       ],
       "tags": [
@@ -158,6 +162,37 @@
       "platforms": [],
       "points": null,
       "image": "https://lunareverse.com/ogp_jp.jpg"
+    },
+    {
+      "id": "8f14cf75c3b5",
+      "url": "https://ikemen.cybird.ne.jp/lp/15thnewtitle/",
+      "host": "ikemen.cybird.ne.jp",
+      "region": "jp",
+      "title": "イケメンシリーズ",
+      "headline": "「イケメンシリーズ」，15周年を記念した新作を2027年内にリリース決定。公式特設サイトと特報PVを公開",
+      "description": "サイバードが贈る大人気女性向け乙女・恋愛ゲーム「イケメンシリーズ」から、15周年を記念した『イケメンヴィラン』『イケメン戦国 永縁』に次ぐ最新作が2027年にリリース決定！特典が貰える事前登録も受付中！",
+      "publishedAt": "2026-11-07T09:30:00.000Z",
+      "addedAt": "2026-11-07T10:00:17.858Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105625/20261106035/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "周年"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ikemen.cybird.ne.jp/wp-content/themes/ikemen/images/lp/15thnewtitle/ogp.webp"
     },
     {
       "id": "0444da9a5de0",
@@ -9956,7 +9991,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72uoohwwn61LTP2gKwQjaoqAhzw5O14cdNz920yZWEOTj3LHABkIvcJsbUXk_pZwsU_070ozYFK3bTCFEM8hxVLiWeSmt3JRcIxUJ-ABDdFv-tcA23-L-bmo6ig7-My62O8ovjGLntRrbpIQ2G8NEN9djCml3ug5PJoopS5bTfkKqIMNWO01oFfR8UBabsU=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72vcjKmtiKGujbqkrac9YeGY5UDjLNTkKpmTzb3E6Cv5g_oYMTtVIuWqea-pWNm296mIRCmCEaneUHFNRH83yPc6eRaNhPf40F8Dg9KhEDW6PuO8kQ-NaE6wq6QnSz7CBKDMV0rGUx0DQyPfnEcfVcUKQqte3H2KSruvH8lh2KgD2oEvh_nWxFXApfYJaIQ=w16383"
     },
     {
       "id": "41b1b683c8f0",
@@ -10014,7 +10049,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1793778871847"
+      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1794032402472"
     },
     {
       "id": "1a653bf2bf0a",
