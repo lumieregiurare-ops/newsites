@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:30:15.486Z",
+  "updatedAt": "2026-11-07T00:00:15.306Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 102
+      "count": 103
     },
     {
       "id": "media",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 149
+      "count": 150
     },
     {
       "id": "mobile",
@@ -1891,7 +1891,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/8d/58/ea8d58cb-3974-657a-6479-b036b3faa985/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/7b/1e/b27b1e81-b840-232d-a6fe-d5f8fdf2f67a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9de44778d939",
@@ -37091,7 +37091,7 @@
       "region": "jp",
       "title": "メイプルストーリー",
       "headline": "「メイプルストーリー」，学校が舞台の23周年イベントを9月16日から開催",
-      "description": "大人気イベント「夜のサーカス団」が今年も開催！そして自分のキャラクターアバターが自動でイラスト化される「カスタムイラスト」システムや、イベント「ルシードの神秘的な庭園」「イェティの夜」も登場するよ。メイプルストーリー2026年10月28日…",
+      "description": "育てて、しゃべって、協力して、冒険する！ みんなのオンラインRPG「メイプルストーリー」の公式サイト。株式会社ネクソンが運営するPCオンラインゲームです。",
       "publishedAt": "2026-09-11T11:43:38.000Z",
       "addedAt": "2026-09-14T06:11:38.156Z",
       "source": "4Gamer",
@@ -37107,11 +37107,14 @@
       ],
       "categories": [
         "anniversary",
-        "event"
+        "event",
+        "company"
       ],
-      "platforms": [],
+      "platforms": [
+        "pc"
+      ],
       "points": null,
-      "image": "https://static.nexon.co.jp/maplestory/ver2021/campaign/twitter_card/midnightcarnival2026/ogpcard.png"
+      "image": "https://static.nexon.co.jp/maplestory/ver2017/campaign/twitter_card/twittershare_191218_potal.png"
     },
     {
       "id": "4b36512e3753",
