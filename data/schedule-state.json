@@ -3073,7 +3073,7 @@
       }
     },
     "仮面ライダー DEFENSE WARRIORS": {
-      "at": "2026-11-04T12:00:34.340Z",
+      "at": "2026-11-07T12:30:40.970Z",
       "entry": {
         "trackId": "6751485239",
         "title": "仮面ライダー DEFENSE WARRIORS",
@@ -3259,7 +3259,7 @@
       }
     },
     "愛よさらば": {
-      "at": "2026-11-04T12:00:32.991Z",
+      "at": "2026-11-07T12:30:39.566Z",
       "entry": {
         "trackId": "6747958088",
         "title": "愛よさらば",
@@ -3502,6 +3502,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7a/28/a77a2805-7282-7aa7-c965-cdcbad9e0093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "ガールズバンドクライ": {
+      "at": "2026-11-07T12:30:38.207Z",
+      "entry": null
     }
   },
   "titles": {
@@ -65276,21 +65280,14 @@
       "sortKey": "2026-11-09",
       "prereg": false,
       "firstSeen": "2026-11-07T12:00:26.417Z"
+    },
+    "ガールズバンドクライ": {
+      "title": "ガールズバンドクライ",
+      "prereg": true,
+      "firstSeen": "2026-11-07T12:30:37.933Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-13T15:00:28.736Z",
-      "type": "new",
-      "label": "新規",
-      "title": "スパイダー：エージェント8",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134766",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5cc60c65759f9955bae9d43bd2e17bf0550be4232f43759c0b62ce20612866a7.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2027年2月11日"
-    },
     {
       "at": "2026-10-14T00:00:32.731Z",
       "type": "prereg_start",
@@ -70072,6 +70069,18 @@
       "image": "https://ikemen.cybird.ne.jp/wp-content/themes/ikemen/images/lp/15thnewtitle/ogp.webp",
       "platforms": [],
       "to": "2027年内"
+    },
+    {
+      "at": "2026-11-07T12:30:37.933Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ガールズバンドクライ",
+      "url": "https://gbc-firstriff.com/magazine/",
+      "image": "https://gbc-firstriff.com/wp-content/uploads/2026/11/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

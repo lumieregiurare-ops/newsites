@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:00:26.417Z",
+  "updatedAt": "2026-11-07T12:30:37.933Z",
   "platforms": [
     {
       "id": "switch",
@@ -273,6 +273,26 @@
   ],
   "prereg": [
     {
+      "id": "196783029ded",
+      "title": "ガールズバンドクライ",
+      "url": "https://gbc-firstriff.com/magazine/",
+      "image": "https://gbc-firstriff.com/wp-content/uploads/2026/11/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-07T12:00:34.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "『ガールズバンドクライ』完全新作ゲーム『ガルリフ』のゲーム情報が公開、路上からアリーナまで駆け上がるガールズロックRPG。ハイクオリティな3Dモデルとともに「トゲナシトゲアリ」ら…",
+      "description": "『ガールズバンドクライ First Riff（ガルリフ）』が分かる総合情報マガジン",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/261107a",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "b592b79d3b1e",
       "title": "スマスロ リコリス・リコイル",
       "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0241",
@@ -434,29 +454,21 @@
         "preorder": true,
         "releaseDate": "2026-12-23T08:00:00Z"
       }
-    },
-    {
-      "id": "cf2c0d8da51f",
-      "title": "人間奇想計画",
-      "url": "http://ordinaryoddness.com/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-21T03:00:43.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
-      "description": "新たな“怪異都市”オープンワールドRPG『人間奇想計画』の世界が奇妙でおもしろすぎる…！「不穏」も爆盛りで考察が止まらない22分の映像が公開",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/kikakuthetower/2610212b",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-07T12:30:37.933Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ガールズバンドクライ",
+      "url": "https://gbc-firstriff.com/magazine/",
+      "image": "https://gbc-firstriff.com/wp-content/uploads/2026/11/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-07T10:00:32.872Z",
       "type": "new",
@@ -512,18 +524,6 @@
         "pc"
       ],
       "to": "2027年2月25日"
-    },
-    {
-      "at": "2026-11-05T16:00:32.066Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Harold Halibut",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118238",
-      "image": "https://img-eshop.cdn.nintendo.net/i/10e051ad4e98ca3e0bdb79da3463a21ca4cf434b33c1d57152ec7d0a357aac71.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月12日"
     }
   ]
 }
