@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:30:54.806Z",
+  "updatedAt": "2026-11-07T15:00:30.022Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,23 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "51114a7bc7d7",
-      "title": "JockeyBox",
-      "date": "2026-11-07",
-      "dateText": "2026年11月7日",
-      "sortKey": "2026-11-07",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/id6821326318",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/c9/00/12c900c4-f01b-d7b9-dabd-ffc029e4ba14/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "3D競馬ジョッキーゲーム『JockeyBox』が11月7日発売！ iPhone・iPad・Macで980円、予約受付中",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/03/game/3152668.php"
-    },
     {
       "id": "ab7727e4a1c8",
       "title": "Booster Pack Heroes",
@@ -269,6 +252,23 @@
       "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+    },
+    {
+      "id": "d4c9f9d72471",
+      "title": "恐応研式 恐怖診断",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://hinanlab.com/games/fear-diagnosis/",
+      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg?v=68428c8126",
+      "maker": "",
+      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/052/G105221/20261021037/"
     }
   ],
   "prereg": [
@@ -458,6 +458,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-07T15:00:30.022Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Petal Runner",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000135476",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6e41fb7c8754c9dd183e0ffa1ad950fe43e673162a0a1a938f07b0c56483f0d3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年3月8日"
+    },
+    {
       "at": "2026-11-07T12:30:37.933Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -512,18 +524,6 @@
       "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg",
       "platforms": [],
       "to": "2027年春"
-    },
-    {
-      "at": "2026-11-06T09:30:39.097Z",
-      "type": "new",
-      "label": "新規",
-      "title": "デモンキルデモン",
-      "url": "https://demonkill.jp/",
-      "image": "https://demonkill.jp/share/images/ogp.jpg",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2027年2月25日"
     }
   ]
 }

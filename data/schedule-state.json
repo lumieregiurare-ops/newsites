@@ -65293,21 +65293,25 @@
       "sortKey": "2026-11-09",
       "prereg": false,
       "firstSeen": "2026-11-07T14:00:33.394Z"
+    },
+    "murmuresdemo": {
+      "title": "murmures Demo",
+      "dateText": "2026年11月9日",
+      "date": "2026-11-09",
+      "sortKey": "2026-11-09",
+      "prereg": false,
+      "firstSeen": "2026-11-07T15:00:30.022Z"
+    },
+    "petalrunner": {
+      "title": "Petal Runner",
+      "dateText": "2027年3月8日",
+      "date": "2027-03-08",
+      "sortKey": "2027-03-08",
+      "prereg": false,
+      "firstSeen": "2026-11-07T15:00:30.022Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T00:00:32.731Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "LSD",
-      "url": "https://itch.io/jam/lsdjam-2026",
-      "image": "https://img.itch.zone/aW1nLzMwNzk5MDgxLnBuZw==/original/Be%2FXYj.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-14T00:00:32.731Z",
       "type": "prereg_start",
@@ -70089,6 +70093,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-07T15:00:30.022Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Petal Runner",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000135476",
+      "image": "https://img-eshop.cdn.nintendo.net/i/6e41fb7c8754c9dd183e0ffa1ad950fe43e673162a0a1a938f07b0c56483f0d3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年3月8日"
     }
   ],
   "initialized": true,
