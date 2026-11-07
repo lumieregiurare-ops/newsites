@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-07T09:00:15.224Z",
+  "updatedAt": "2026-11-07T09:30:16.255Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1267,
+  "total": 1268,
   "regions": {
-    "jp": 1038,
+    "jp": 1039,
     "global": 229
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 180
+      "count": 181
     }
   ],
   "platforms": [
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "AppBank",
-    "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "57cc83563091",
+      "url": "https://lunareverse.com/",
+      "host": "lunareverse.com",
+      "region": "jp",
+      "title": "LunaReverse",
+      "headline": "「魔法使い」が悪魔になり果てる“復讐劇”を描く新作ゲーム『LunaReverse』発表。「イケメンシリーズ」サイバードとアニプレックスが初タッグ",
+      "description": "新作コンソールゲームプロジェクト『LunaReverse(ルナリバース)』",
+      "publishedAt": "2026-11-07T09:30:08.000Z",
+      "addedAt": "2026-11-07T09:30:16.255Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261107k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lunareverse.com/ogp_jp.jpg"
+    },
     {
       "id": "0444da9a5de0",
       "url": "https://www.maru-jan.com/",
