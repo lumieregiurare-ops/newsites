@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-07T08:30:15.401Z",
+  "updatedAt": "2026-11-07T09:00:15.224Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1266,
+  "total": 1267,
   "regions": {
-    "jp": 1037,
+    "jp": 1038,
     "global": 229
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 179
+      "count": 180
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 395
+      "count": 396
     },
     {
       "id": "browser",
@@ -121,17 +121,46 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
-    "4Gamer",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0444da9a5de0",
+      "url": "https://www.maru-jan.com/",
+      "host": "maru-jan.com",
+      "region": "jp",
+      "title": "Maru-Jan",
+      "headline": "オンライン麻雀「Maru-Jan」への不正アクセスによる個人情報の流出をシグナルトークが発表",
+      "description": "22ǯ����ˤ�ؤ륪��饤�����������Maru-Jan��Windows�ǤϤ������Mac��iOS��Android�ˤ��б����ꥢ�������Ű���ɵᤷ��Maru-Jan��ޤ���̵���Ǥ������…",
+      "publishedAt": "2026-11-07T08:45:29.000Z",
+      "addedAt": "2026-11-07T09:00:15.224Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/015/G001524/20261107002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "488cb562476e",
       "url": "https://godzillafes.com/",
