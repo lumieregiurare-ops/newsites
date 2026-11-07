@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-07T03:00:18.286Z",
+  "updatedAt": "2026-11-07T03:30:17.054Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1261,
+  "total": 1262,
   "regions": {
-    "jp": 1033,
+    "jp": 1034,
     "global": 228
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 274
+      "count": 275
     },
     {
       "id": "release",
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
     "4Gamer",
     "AppBank",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "488cb562476e",
+      "url": "https://godzillafes.com/",
+      "host": "godzillafes.com",
+      "region": "jp",
+      "title": "フェス・ゴジラ",
+      "headline": "“もうひとつの新作ゴジラ”にファン熱狂！…過去最大規模となった「フェス・ゴジラ」新作バトル映像が3日間で52万再生を記録。次回作以降に登場する新怪獣も発表されて期待感高まる!!【…",
+      "description": "ゴジラフェス開催決定！【参加無料】2026年11月3日(火・祝)TAKANAWA GATEWAY CITYにて開催！詳細は後日発表。ご期待ください！",
+      "publishedAt": "2026-11-07T03:30:03.000Z",
+      "addedAt": "2026-11-07T03:30:17.054Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/07/190508.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://godzillafes.com/img/ogp.png"
+    },
     {
       "id": "6d22011332b1",
       "url": "https://www.rangerrumble.com/",
