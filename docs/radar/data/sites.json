@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-08T06:30:16.032Z",
+  "updatedAt": "2026-11-08T07:00:16.184Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1272,
+  "total": 1273,
   "regions": {
-    "jp": 1043,
+    "jp": 1044,
     "global": 229
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 181
+      "count": 182
     }
   ],
   "platforms": [
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 15
+      "count": 16
     },
     {
       "id": "vr",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "4Gamer",
     "AppBank",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e5539907254f",
+      "url": "https://mariokart-acgpdx.bngames.net/",
+      "host": "mariokart-acgpdx.bngames.net",
+      "region": "jp",
+      "title": "太鼓の達人",
+      "headline": "「ALL․Net」「Aime」メンテナンスについての続報が発表。『太鼓の達人』や『ガンダムEXVS.2』などバンダイナムコの対象タイトルが試験的に稼働を再開",
+      "description": "ハチャメチャレースがヒートアップ！！ ぜんぶ新しくなった！ 『マリオカート アーケードグランプリ デラックス』",
+      "publishedAt": "2026-11-08T06:51:43.000Z",
+      "addedAt": "2026-11-08T07:00:16.184Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261108f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "arcade"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "9b313eedf389",
       "url": "https://space.bilibili.com/3493129372043601",
