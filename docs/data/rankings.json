@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T01:30:17.202Z",
+  "updatedAt": "2026-11-08T02:00:20.074Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
-          "title": "ディズニー スパークリンク・スターズ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
-          "metric": "coly, Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
           "title": "Warline: スナイパー",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
           "metric": "Powerfantasy",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "ディズニー スパークリンク・スターズ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
+          "metric": "coly, Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
