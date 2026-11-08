@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-08T08:00:15.880Z",
+  "updatedAt": "2026-11-08T08:30:16.474Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1275,
   "regions": {
-    "jp": 1044,
+    "jp": 1046,
     "global": 229
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 457
+      "count": 458
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 182
+      "count": 183
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 151
+      "count": 152
     },
     {
       "id": "mobile",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
-    "Inside",
     "4Gamer",
+    "Inside",
     "AppBank",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "70a8c0876888",
+      "url": "https://pianoglow.com/ja",
+      "host": "pianoglow.com",
+      "region": "jp",
+      "title": "Piano Glow",
+      "headline": "オンラインマルチ対応のピアノ演奏アプリ『Piano Glow』正式版がSteamで発売中。MIDIファイルをPCのキーボードで演奏できる形に変換する機能を搭載",
+      "description": "PianoGlowはトレーニング、フォーリングノーツ、チャットを備えたマルチプレイヤーピアノゲームです。QWERTYキーボードまたはデジタルピアノで演奏！サブスク不要で、ずっと使えます。",
+      "publishedAt": "2026-11-08T08:29:29.000Z",
+      "addedAt": "2026-11-08T08:30:16.474Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261108g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://pianoglow.com/img/og-image.jpg"
+    },
+    {
+      "id": "ebc00b104bb9",
+      "url": "https://products.voltage.co.jp/kakanruirui/",
+      "host": "products.voltage.co.jp",
+      "region": "jp",
+      "title": "枷檻累々―うら黄泉照らす鬼灯夜―",
+      "headline": "新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」の初報映像が公開。和風ダークファンタジーの世界と5人の登場キャラクターを紹介",
+      "description": "新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」の初報映像が公開。和風ダークファンタジーの世界と5人の登場キャラクターを紹介",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "addedAt": "2026-11-08T08:30:16.474Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/054/G105426/20261105038/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "e5539907254f",
       "url": "https://mariokart-acgpdx.bngames.net/",
@@ -4910,7 +4966,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/6b/74/596b745a-e700-530c-9f2e-f3d3b53a8947/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/b2/77/37b277ea-3560-03b4-3a2c-a175ee911214/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "83f8470360e9",
@@ -8653,7 +8709,7 @@
       "region": "jp",
       "title": "TokiMake",
       "headline": "ノベルゲームを読んだ後はキャラとチャット！『TokiMake』iOS版とWeb版が10月21日リリース",
-      "description": "Xross Road, Inc.の「TokiMake」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「TokiMake」に似たゲームを見ることなどができます。",
+      "description": "Xross Road, Inc.の「TokiMake - フルボイスで遊ぶノベルゲーム＆チャット」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「TokiMake - フルボイスで遊ぶ…",
       "publishedAt": "2026-10-23T03:45:00.000Z",
       "addedAt": "2026-10-23T04:00:16.523Z",
       "source": "AppBank",
@@ -8677,7 +8733,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/53/a0/e853a01e-22aa-9596-eb1a-f6f97819167c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/0e/76/3d0e76e5-20b4-3e94-b220-938457a6f3ce/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "20fd28aebc7b",
@@ -26281,7 +26337,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uesQgxXpPxau5BnsDV5FjqNqJw6SKt2IpFH1nEDCn-yGhGFCEGBy69mZULcjxomRRRY07ZzoVKkC8ERO4FAGsPr6W616v6YMp_mZUiaC9Sa-cwjNxJP-9usEDKaB0Yf9Mb_5OFtZficjtaQGG5ps0vhe0HGX3HlaXI5ybEsrPbWLym_WCrWddzhMx-tCg9MieJkQsGBji8uM8U0rykO3Jt6L41oOIjn0J1_eH8gvc1A7A=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_si0mOxjp4f3ttRpP84ZlyR5P9vfJlrt0AEoU26h2bdXC50L-bspugGHuRIfIJMFTs_oyAolkUK_PcvmNP9apip28isO9n5SGSG_BFP0PmJFDqn8tzSLLZqAIEWx5B_VCeVIyQmWZF3K94d3st9rCNWWR8ZPKOAnj3T7nFISvqyp-HJnCSh_iidaXwtzD0zwcO_Ys7bRpfeoXN-gKQuZlf_qw3nXuvtaMl4fcpsU9JLjcE=w1200-h630-p-k-no-nu"
     },
     {
       "id": "a1190e19c51b",
