@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-08T18:30:15.604Z",
+  "updatedAt": "2026-11-08T19:00:16.244Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1276,
   "regions": {
-    "jp": 1046,
+    "jp": 1047,
     "global": 229
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 275
+      "count": 276
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 104
+      "count": 105
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 271
+      "count": 272
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 399
+      "count": 400
     },
     {
       "id": "browser",
@@ -123,9 +123,9 @@
   "sources": [
     "電ファミニコゲーマー",
     "4Gamer",
+    "App Store",
     "Inside",
     "AppBank",
-    "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
@@ -187,6 +187,41 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "f572922b72ae",
+      "url": "https://www.bandainamcoent.co.jp/",
+      "host": "bandainamcoent.co.jp",
+      "region": "jp",
+      "title": "キン肉マン マッスルタッグマッチ令和復活編",
+      "headline": "Bandai Namco Entertainment Inc. / スポーツ・エンターテインメント · App Store 新着",
+      "description": "バンダイナムコエンターテインメントの公式サイトです。スマートフォン向けゲームアプリや家庭用ゲーム、ライブ、イベントなど、多彩なエンターテインメントをお届けしています。",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "addedAt": "2026-11-08T19:00:16.244Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6775757720"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "event",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.bandainamcoent.co.jp/img/common/ogp.png?20260212"
     },
     {
       "id": "e5539907254f",
