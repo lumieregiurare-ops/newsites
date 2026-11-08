@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:00:31.054Z",
+  "updatedAt": "2026-11-08T15:30:30.302Z",
   "platforms": [
     {
       "id": "switch",
@@ -458,6 +458,22 @@
   ],
   "changes": [
     {
+      "at": "2026-11-08T15:30:30.302Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ヒロアカUR",
+      "url": "https://mhaur.bn-ent.net/",
+      "image": "https://mhaur.bn-ent.net/ogp.jpg?2610",
+      "platforms": [
+        "switch",
+        "ps",
+        "xbox",
+        "pc",
+        "mobile"
+      ],
+      "to": "App Store 2027年2月6日"
+    },
+    {
       "at": "2026-11-07T15:00:30.022Z",
       "type": "new",
       "label": "新規",
@@ -514,16 +530,6 @@
         "mobile"
       ],
       "to": "2026年11月11日"
-    },
-    {
-      "at": "2026-11-06T09:30:39.097Z",
-      "type": "new",
-      "label": "新規",
-      "title": "アコルニア:ミラーワールド",
-      "url": "https://acorniagame.com/",
-      "image": "https://a.storyblok.com/f/294446953277709/1687x945/1f9d39ba48/acornia-homepage-v3-meta.jpg",
-      "platforms": [],
-      "to": "2027年春"
     }
   ]
 }

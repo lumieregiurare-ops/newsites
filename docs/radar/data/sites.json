@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:00:16.569Z",
+  "updatedAt": "2026-11-08T15:30:15.605Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 161
+      "count": 162
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 398
+      "count": 399
     },
     {
       "id": "browser",
@@ -476,7 +476,8 @@
         "スマホ",
         "iOS",
         "スポーツ",
-        "シミュレーション"
+        "シミュレーション",
+        "レーシング"
       ],
       "categories": [
         "goods"
@@ -24334,16 +24335,23 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
-        "campaign"
+        "campaign",
+        "prereg"
       ],
       "platforms": [
         "switch",
         "ps",
         "xbox",
-        "pc"
+        "pc",
+        "mobile"
       ],
       "points": null,
       "image": "https://mhaur.bn-ent.net/ogp.jpg?2610"

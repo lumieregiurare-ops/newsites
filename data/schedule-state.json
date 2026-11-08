@@ -3510,6 +3510,10 @@
     "ガデテル": {
       "at": "2026-11-08T06:00:27.641Z",
       "entry": null
+    },
+    "ヒロアカUR": {
+      "at": "2026-11-08T15:30:30.536Z",
+      "entry": null
     }
   },
   "titles": {
@@ -23550,7 +23554,7 @@
     },
     "キン肉マンマッスルタッグマッチ": {
       "title": "キン肉マン マッスルタッグマッチ",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-01T06:30:31.386Z"
     },
     "autochart": {
@@ -65409,21 +65413,22 @@
       "sortKey": "2026-11-09",
       "prereg": false,
       "firstSeen": "2026-11-08T15:00:31.054Z"
+    },
+    "bladedodger": {
+      "title": "Blade Dodger",
+      "dateText": "2026年11月9日",
+      "date": "2026-11-09",
+      "sortKey": "2026-11-09",
+      "prereg": false,
+      "firstSeen": "2026-11-08T15:30:30.302Z"
+    },
+    "ヒロアカur": {
+      "title": "ヒロアカUR",
+      "prereg": true,
+      "firstSeen": "2026-11-08T15:30:30.302Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T00:00:32.731Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月14日"
-    },
     {
       "at": "2026-10-14T02:30:30.286Z",
       "type": "prereg_start",
@@ -70205,6 +70210,22 @@
         "switch2"
       ],
       "to": "2027年3月8日"
+    },
+    {
+      "at": "2026-11-08T15:30:30.302Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ヒロアカUR",
+      "url": "https://mhaur.bn-ent.net/",
+      "image": "https://mhaur.bn-ent.net/ogp.jpg?2610",
+      "platforms": [
+        "switch",
+        "ps",
+        "xbox",
+        "pc",
+        "mobile"
+      ],
+      "to": "2027年2月6日"
     }
   ],
   "initialized": true,
