@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-08T05:30:16.476Z",
+  "updatedAt": "2026-11-08T06:00:16.081Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1271,
+  "total": 1272,
   "regions": {
-    "jp": 1042,
+    "jp": 1043,
     "global": 229
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 160
+      "count": 161
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 397
+      "count": 398
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "AppBank",
     "App Store",
     "Game*Spark",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9b313eedf389",
+      "url": "https://space.bilibili.com/3493129372043601",
+      "host": "space.bilibili.com",
+      "region": "jp",
+      "title": "ガデテル",
+      "headline": "『ガデテル』の農場経営ゲーが「QQ」にてCBT実施、スマホ向けソウルライク『FYORA’S SOULS』も配信日決定―日本未上陸の注目ゲーム3選【2026年11月8日】",
+      "description": "『ガデテル』の農場経営ゲーが「QQ」にてCBT実施、スマホ向けソウルライク『FYORA’S SOULS』も配信日決定―日本未上陸の注目ゲーム3選【2026年11月8日】",
+      "publishedAt": "2026-11-08T06:00:03.000Z",
+      "addedAt": "2026-11-08T06:00:16.081Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/08/190553.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "196783029ded",
       "url": "https://gbc-firstriff.com/magazine/",
