@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-08T22:30:15.577Z",
+  "updatedAt": "2026-11-08T23:00:18.008Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1276,
+  "total": 1277,
   "regions": {
-    "jp": 1047,
+    "jp": 1048,
     "global": 229
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 162
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 400
+      "count": 401
     },
     {
       "id": "browser",
@@ -132,6 +132,39 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "e908fc2fe658",
+      "url": "https://mhaur.bn-ent.net/mobile/jp/",
+      "host": "mhaur.bn-ent.net",
+      "region": "jp",
+      "title": "ヒロアカ",
+      "headline": "『ヒロアカ』のバトロワがモバイルに。『僕のヒーローアカデミア ULTRA RUMBLE モバイル』が発表、3人1組・最大24人の戦いがスマホでも遊べる",
+      "description": "アプリゲーム「僕のヒーローアカデミア ULTRA RUMBLE モバイル」公式サイト！",
+      "publishedAt": "2026-11-08T22:34:58.000Z",
+      "addedAt": "2026-11-08T23:00:18.008Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109b"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://mhaur.bn-ent.net/mobile/jp/ogp.png"
+    },
     {
       "id": "70a8c0876888",
       "url": "https://pianoglow.com/ja",
