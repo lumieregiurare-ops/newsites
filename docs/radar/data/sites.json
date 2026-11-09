@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T09:00:19.975Z",
+  "updatedAt": "2026-11-09T09:30:17.984Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1291,
   "regions": {
-    "jp": 1057,
+    "jp": 1059,
     "global": 232
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 280
+      "count": 281
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 185
+      "count": 186
     }
   ],
   "platforms": [
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "AppBank",
     "App Store",
     "Inside",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9be231974873",
+      "url": "https://pathofexile2.com/jp",
+      "host": "pathofexile2.com",
+      "region": "jp",
+      "title": "Path of Exile 2",
+      "headline": "「Path of Exile 2」，新クラス「シャドウ」と新リーグ「Conquerors of Wraeclast」を発表。軍勢を率いる攻城戦も登場",
+      "description": "「Path of Exile 2」，新クラス「シャドウ」と新リーグ「Conquerors of Wraeclast」を発表。軍勢を率いる攻城戦も登場",
+      "publishedAt": "2026-11-09T09:12:38.000Z",
+      "addedAt": "2026-11-09T09:30:17.984Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/486/G048642/20261109020/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "6548213ff2da",
+      "url": "https://www.marv.jp/special/p5-the-stage_1/index.html",
+      "host": "marv.jp",
+      "region": "jp",
+      "title": "ペルソナ5",
+      "headline": "【無料】『ペルソナ5』舞台4作の無料公開が決定！YouTubeにて1作品ごと1週間の期間限定",
+      "description": "「PERSONA5 the Stage」公式サイト",
+      "publishedAt": "2026-11-09T09:10:04.000Z",
+      "addedAt": "2026-11-09T09:30:17.984Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611092k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://p5-the-stage.jp/images/myogp.jpg"
+    },
     {
       "id": "8098200027c9",
       "url": "https://harahime.jp/",
