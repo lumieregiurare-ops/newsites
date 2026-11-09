@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T09:30:17.984Z",
+  "updatedAt": "2026-11-09T10:00:18.472Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1291,
+  "total": 1292,
   "regions": {
-    "jp": 1059,
+    "jp": 1060,
     "global": 232
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 463
+      "count": 464
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 403
+      "count": 404
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "AppBank",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8e9e48e0eacd",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.muscletagmatch",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "キン肉マン マッスルタッグマッチ 令和復活編",
+      "headline": "『キン肉マン マッスルタッグマッチ 令和復活編』が11月9日配信開始！ 参戦超人は50人、Bluetooth対戦にも対応",
+      "description": "伝説のアクションゲームが令和に蘇る！",
+      "publishedAt": "2026-11-09T09:30:00.000Z",
+      "addedAt": "2026-11-09T10:00:18.472Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/09/game/3159562.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/3-MiIIe2Tbh715sdLGk941ePqxeCvbwJR0QWpTlVqlRlEFvHTZ38SAvveB93dVT6-Fog3h5lhlAVceAX1arU2g=s0-br30"
+    },
     {
       "id": "9be231974873",
       "url": "https://pathofexile2.com/jp",
@@ -4586,7 +4618,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/4c/03/104c0384-d127-cc11-8e1b-489edae47b67/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/c9/01/66c90132-4f24-6dc6-c957-ce272f86caf1/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "4352e4a73efd",
