@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T07:30:54.264Z",
+  "updatedAt": "2026-11-09T08:00:27.066Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1288,
+  "total": 1289,
   "regions": {
-    "jp": 1056,
+    "jp": 1057,
     "global": 232
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 49
+      "count": 50
     },
     {
       "id": "ps",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 154
     },
     {
       "id": "mobile",
@@ -634,6 +634,36 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "e1cb36fb517e",
+      "url": "https://game.shochiku.co.jp/ja/games/algorithm-prescription/",
+      "host": "game.shochiku.co.jp",
+      "region": "jp",
+      "title": "Algorithm Prescription",
+      "headline": "沼系恋愛ビジュアルノベル「Algorithm Prescription」，Switch 2とSteamで2028年に発売へ。白皙氏描き下ろしの立ち絵も公開",
+      "description": "あなたと堕ちる。恋さえも処方される世界で",
+      "publishedAt": "2026-11-07T23:00:00.000Z",
+      "addedAt": "2026-11-09T08:00:27.066Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/982/G098281/20261107003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://game.shochiku.co.jp/ja/wp-content/uploads/sites/2/2026/04/main_capsule_ja.png"
     },
     {
       "id": "196783029ded",
@@ -23513,6 +23543,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/09/174646.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/09/190607.html"
         }
       ],
       "tags": [
