@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T03:00:15.577Z",
+  "updatedAt": "2026-11-09T03:30:16.348Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1282,
+  "total": 1284,
   "regions": {
-    "jp": 1052,
+    "jp": 1054,
     "global": 230
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 234
+      "count": 235
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 277
+      "count": 278
     },
     {
       "id": "release",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 24
+      "count": 25
     },
     {
       "id": "company",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 49
+      "count": 50
     },
     {
       "id": "goods",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 184
+      "count": 185
     }
   ],
   "platforms": [
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9dfa5b38a2b3",
+      "url": "https://www.dragonquest.jp/",
+      "host": "dragonquest.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』シリーズ新作『ドラゴンクエストRPG 魔界樹と導かれし島』いきなり発表！！ 11月10日20時からアナウンストレーラーを公開へ",
+      "description": "ドラゴンクエストの最新情報をドラパラで配信中！ドラゴンクエストシリーズの公式サイト",
+      "publishedAt": "2026-11-09T03:19:32.000Z",
+      "addedAt": "2026-11-09T03:30:16.348Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cache-www.dragonquest.jp/img/common/ogp2019.png"
+    },
+    {
+      "id": "6d457a326e32",
+      "url": "https://escape.id/platform0",
+      "host": "escape.id",
+      "region": "jp",
+      "title": "異常度診断",
+      "headline": "自分の“異常度”がわかる「異常度診断」が公開中。「奥から誰かの声がする穴」など不穏すぎる質問に二択（？）で回答、“異常な回答”をすると、何かがわかるかもしれない。あなたは何％異常…",
+      "description": "東急線沿線に現れる、さまざまな［異常］を調査せよ。街を巡り、各地に仕掛けられた謎を解き明かす“異日常”ミステリー体験。周遊型謎解きイベント『0番ホームの掲示板 ―異常調査にご協力ください―』、2026年10月2日より開催。",
+      "publishedAt": "2026-11-09T03:18:08.000Z",
+      "addedAt": "2026-11-09T03:30:16.348Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "browser",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://escape.id/platform0/images/ogp_pf0.jpg"
+    },
     {
       "id": "a00b26e3214c",
       "url": "https://www.darksouls.jp/detail_ds2_sotfs.html",
@@ -297,6 +353,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261109b"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105589/20261105059/"
         }
       ],
       "tags": [
@@ -304,10 +364,12 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "特設サイト"
       ],
       "categories": [
-        "prereg"
+        "prereg",
+        "campaign"
       ],
       "platforms": [
         "mobile"
@@ -23305,6 +23367,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261001z"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/09/174646.html"
         }
       ],
       "tags": [

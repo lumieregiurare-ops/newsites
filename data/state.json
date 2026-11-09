@@ -1,6 +1,93 @@
 {
   "items": [
     {
+      "id": "9dfa5b38a2b3",
+      "url": "https://www.dragonquest.jp/",
+      "host": "dragonquest.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』シリーズ新作『ドラゴンクエストRPG 魔界樹と導かれし島』いきなり発表！！ 11月10日20時からアナウンストレーラーを公開へ",
+      "description": "ドラゴンクエストの最新情報をドラパラで配信中！ドラゴンクエストシリーズの公式サイト",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-09T03:19:32.000Z",
+      "addedAt": "2026-11-09T03:30:16.348Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "official"
+      ],
+      "points": null,
+      "image": "https://cache-www.dragonquest.jp/img/common/ogp2019.png",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-09T03:30:16.348Z",
+      "ogFetchedAt": "2026-11-09T03:30:16.348Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
+      "id": "6d457a326e32",
+      "url": "https://escape.id/platform0",
+      "host": "escape.id",
+      "region": "jp",
+      "title": "異常度診断",
+      "headline": "自分の“異常度”がわかる「異常度診断」が公開中。「奥から誰かの声がする穴」など不穏すぎる質問に二択（？）で回答、“異常な回答”をすると、何かがわかるかもしれない。あなたは何％異常者？",
+      "description": "東急線沿線に現れる、さまざまな［異常］を調査せよ。街を巡り、各地に仕掛けられた謎を解き明かす“異日常”ミステリー体験。周遊型謎解きイベント『0番ホームの掲示板 ―異常調査にご協力ください―』、2026年10月2日より開催。",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-09T03:18:08.000Z",
+      "addedAt": "2026-11-09T03:30:16.348Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "event",
+        "browser",
+        "media"
+      ],
+      "points": null,
+      "image": "https://escape.id/platform0/images/ogp_pf0.jpg",
+      "metaAttempts": 1,
+      "linkUrl": "https://escape.id/platform0#test",
+      "checkedAt": "2026-11-09T03:30:16.348Z",
+      "ogFetchedAt": "2026-11-09T03:30:16.348Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "a00b26e3214c",
       "url": "https://www.darksouls.jp/detail_ds2_sotfs.html",
       "host": "darksouls.jp",
@@ -249,6 +336,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261109b"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/055/G105589/20261105059/"
         }
       ],
       "tags": [
@@ -256,11 +347,13 @@
         "事前登録",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "特設サイト"
       ],
       "phCategories": [],
       "categories": [
-        "prereg"
+        "prereg",
+        "campaign"
       ],
       "points": null,
       "image": "https://mhaur.bn-ent.net/mobile/jp/ogp.png",
@@ -34119,7 +34212,7 @@
       "headline": "『キン肉マン マッスルタッグマッチ』がスマホアプリになって復活。事前登録と追加超人を決める「キン肉マン超人総選挙2026」が開始",
       "description": "キン肉マン マッスルタッグマッチ 令和復活編 DLはこちら→App Store：https://apps.apple.com/jp/app/id6775757720?mt=8 GooglePlay: https://play.google…",
       "article": {
-        "prereg": true,
+        "prereg": false,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -34134,6 +34227,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261001z"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/09/174646.html"
         }
       ],
       "tags": [
