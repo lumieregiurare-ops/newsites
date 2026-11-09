@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T02:00:18.398Z",
+  "updatedAt": "2026-11-09T02:30:21.001Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1279,
+  "total": 1280,
   "regions": {
-    "jp": 1049,
+    "jp": 1050,
     "global": 230
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 272
+      "count": 273
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 401
+      "count": 402
     },
     {
       "id": "browser",
@@ -121,17 +121,52 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "Inside",
-    "AppBank",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "46f70e43f860",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.heroacaur_jp",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "僕のヒーローアカデミア ULTRA RUMBLE モバイル",
+      "headline": "『僕のヒーローアカデミア ULTRA RUMBLE モバイル』配信決定！ App Store／Google Playで事前登録開始",
+      "description": "\"個性\"を駆使して戦う3人チームアップバトルロイヤル！",
+      "publishedAt": "2026-11-09T02:00:00.000Z",
+      "addedAt": "2026-11-09T02:30:21.001Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/09/game/3159207.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "事前登録",
+        "iOS"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/cq5HDes7FiGAud_5g5kvPEXyx6FSHW9jqwjXp8s8LaMzomIDskZ3RBo9aPM3Skl4Vkr84CJ98zwyLRrIMmEqBA=s0-br30"
+    },
     {
       "id": "b2e404755ea5",
       "url": "https://milkidelivery.carrd.co/",
@@ -36145,7 +36180,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72utbkYC6z06zM7V7vCWcIpsUbufFGn7JmPyN1a16iGPw6Xuj9pFN1HHrOt_OT4nnxeQh6f4WMf-ZQGUCnl_bklfUEkjgXPii3Eybcb5uIOD_rvQhoRkB0iJYTbBsm2ITqwamC8pR1yG9-haFzF39Susqzly0f7g5SAUEFMyjE0wGB8CARXITja3Yvyc=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdqZn6IOoKMP6o-6Pc0n1Tcqi_xdGq1Gcc6M27Nvz5pf83IgYFAjlh5QACZBTs1HJGm-ZZ9I36kWAOyaNOYhL1FqggZ2p7WkmHFKWSbCTh434-MoEDvto2gYOBOJ4lkGH89qHWSh7u4z5pXqbvMSciz6p-VQSvWEojFnK7dDm4u8LhIzIZcIWb4A41H=w16383"
     },
     {
       "id": "7f727450ced7",
