@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:30:42.655Z",
+  "updatedAt": "2026-11-09T15:00:37.510Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,23 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "5f19660a59cc",
-      "title": "キン肉マン マッスルタッグマッチ 令和復活編",
-      "date": "2026-11-09",
-      "dateText": "2026年11月9日",
-      "sortKey": "2026-11-09",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.muscletagmatch",
-      "image": "https://play-lh.googleusercontent.com/3-MiIIe2Tbh715sdLGk941ePqxeCvbwJR0QWpTlVqlRlEFvHTZ38SAvveB93dVT6-Fog3h5lhlAVceAX1arU2g=s0-br30",
-      "maker": "",
-      "headline": "『キン肉マン マッスルタッグマッチ 令和復活編』が11月9日配信開始！ 参戦超人は50人、Bluetooth対戦にも対応",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/09/game/3159562.php"
-    },
     {
       "id": "ab7727e4a1c8",
       "title": "Booster Pack Heroes",
@@ -271,6 +254,21 @@
       "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
       "announcedText": "2026年11月",
       "dateSource": "appstore"
+    },
+    {
+      "id": "e67cb55c9b01",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://helagame.com/",
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "maker": "",
+      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
     }
   ],
   "prereg": [
@@ -460,18 +458,6 @@
   ],
   "changes": [
     {
-      "at": "2026-11-09T10:00:30.027Z",
-      "type": "new",
-      "label": "新規",
-      "title": "キン肉マン マッスルタッグマッチ 令和復活編",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.muscletagmatch",
-      "image": "https://play-lh.googleusercontent.com/3-MiIIe2Tbh715sdLGk941ePqxeCvbwJR0QWpTlVqlRlEFvHTZ38SAvveB93dVT6-Fog3h5lhlAVceAX1arU2g=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年11月9日"
-    },
-    {
       "at": "2026-11-09T05:30:42.963Z",
       "type": "delayed",
       "label": "発売延期",
@@ -533,6 +519,18 @@
         "switch2"
       ],
       "to": "2027年3月8日"
+    },
+    {
+      "at": "2026-11-07T12:30:37.933Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ガールズバンドクライ",
+      "url": "https://gbc-firstriff.com/magazine/",
+      "image": "https://gbc-firstriff.com/wp-content/uploads/2026/11/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:30:20.225Z",
+  "updatedAt": "2026-11-09T15:00:19.897Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 165
+      "count": 166
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 282
+      "count": 283
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 106
+      "count": 105
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 274
+      "count": 273
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 405
+      "count": 404
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d0bc650bd958",
+      "url": "https://www.seaofremnants.com/jp/",
+      "host": "seaofremnants.com",
+      "region": "jp",
+      "title": "第五人格",
+      "headline": "『第五人格』開発元の新作海洋ローグライク『シーオブレムナンツ』12月4日よりCBT開催決定―海賊と海軍が交錯する最新PVも公開",
+      "description": "『シーオブレムナンツ』(Sea of Remnants)は、ビジュアルが圧巻の海洋ファンタジー・オープンワールドRPGです。あなたは個性豊かな木偶の仲間たちを集め、巧みなチーム連携を駆使しながら、刻一刻と変化する神秘の世界を航海していきま…",
+      "publishedAt": "2026-11-09T14:54:23.000Z",
+      "addedAt": "2026-11-09T15:00:19.897Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/09/174678.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.seaofremnants.com/pc/gw/20260529140703/img/share_jp_600_0d982c1a.png"
+    },
     {
       "id": "93aabb6271c3",
       "url": "https://janfuda.onrender.com/",
@@ -2972,40 +3000,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/ac/e6/d0ace660-8f15-7424-d8f0-6d54f57a12a3/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "7ae81498dc3e",
-      "url": "https://sobosuba.games/ja/",
-      "host": "sobosuba.games",
-      "region": "jp",
-      "title": "sobosuba",
-      "headline": "Shenzhen Taizhi Wansi Technology Co., Ltd. / パズル・カジュアル · App Store 新着",
-      "description": "sobosuba: Jelly Mergeで、ぷるぷるの数字をスライド、発射、合体。上のレールでの合体や狙い方、左右のスイッチのルールを紹介。買い切りで、広告もアプリ内課金もありません。",
-      "publishedAt": "2026-11-03T08:00:00.000Z",
-      "addedAt": "2026-11-05T14:00:26.784Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6829470634"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "パズル",
-        "カジュアル"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://sobosuba.games/assets/app-icon.png"
     },
     {
       "id": "cb6051fd3c9b",
@@ -7703,7 +7697,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261108150030"
+      "image": "https://game.shochiku.co.jp/wp-content/themes/game-shochiku_renewal/assets/images/common/ogp.png?20261109144639"
     },
     {
       "id": "2f282a7a4a54",
