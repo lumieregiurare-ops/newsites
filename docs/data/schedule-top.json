@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T05:00:37.147Z",
+  "updatedAt": "2026-11-09T05:30:42.963Z",
   "platforms": [
     {
       "id": "switch",
@@ -123,25 +123,6 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/2610152g"
     },
     {
-      "id": "ad55fcb91d0b",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "date": "2026-11-12",
-      "dateText": "2026年11月12日",
-      "sortKey": "2026-11-12",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "平成ヤンキー×転生×サバイバル！『ヤンキーサバイバー 転生したら平成ヤンキーだった件』事前登録開始、11月配信予定",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
-      "announcedText": "2026年11月",
-      "dateSource": "appstore"
-    },
-    {
       "id": "afa5b82df8b7",
       "title": "Hot Meals Fast Wheels",
       "date": "2026-11-13",
@@ -254,6 +235,25 @@
       "headline": "片山まさゆき氏のマンガ『ぎゅわんぶらあ自己中心派』原作の麻雀ゲーム『ドランプ帝国をわからせろ！』11月19日に発売決定。クセ者雀士たちと卓を囲み、ドランプ帝国に立ち向かう",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261029w"
+    },
+    {
+      "id": "ad55fcb91d0b",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "date": "2026-11-19",
+      "dateText": "2026年11月19日",
+      "sortKey": "2026-11-19",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "平成ヤンキー×転生×サバイバル！『ヤンキーサバイバー 転生したら平成ヤンキーだった件』事前登録開始、11月配信予定",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
+      "announcedText": "2026年11月",
+      "dateSource": "appstore"
     },
     {
       "id": "e67cb55c9b01",
@@ -373,7 +373,7 @@
         "mobile"
       ],
       "startedAt": "2026-10-30T08:20:00.000Z",
-      "releaseText": "2026年11月12日",
+      "releaseText": "2026年11月19日",
       "releaseSource": "appstore",
       "count": "",
       "reward": "",
@@ -385,7 +385,7 @@
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6778303469",
         "preorder": true,
-        "releaseDate": "2026-11-12T08:00:00Z"
+        "releaseDate": "2026-11-19T08:00:00Z"
       },
       "trackId": "6778303469"
     },
@@ -458,6 +458,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-09T05:30:42.963Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月12日",
+      "to": "2026年11月19日"
+    },
+    {
       "at": "2026-11-09T04:00:34.005Z",
       "type": "new",
       "label": "新規",
@@ -518,16 +531,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-11-07T10:00:32.872Z",
-      "type": "new",
-      "label": "新規",
-      "title": "イケメンシリーズ",
-      "url": "https://ikemen.cybird.ne.jp/lp/15thnewtitle/",
-      "image": "https://ikemen.cybird.ne.jp/wp-content/themes/ikemen/images/lp/15thnewtitle/ogp.webp",
-      "platforms": [],
-      "to": "2027年内"
     }
   ]
 }

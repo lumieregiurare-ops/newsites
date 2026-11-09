@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-09T05:00:16.030Z",
+  "updatedAt": "2026-11-09T05:30:25.891Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1287,
+  "total": 1288,
   "regions": {
-    "jp": 1055,
+    "jp": 1056,
     "global": 232
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 56
+      "count": 57
     },
     {
       "id": "prereg",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 279
+      "count": 280
     },
     {
       "id": "release",
@@ -132,6 +132,34 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8098200027c9",
+      "url": "https://harahime.jp/",
+      "host": "harahime.jp",
+      "region": "jp",
+      "title": "原宿ヒメゴトハウス",
+      "headline": "カワイイ殺し屋7人によるハイテンポギャグアニメ「原宿ヒメゴトハウス」が始動。AGF2026にブース出展も",
+      "description": "原宿ヒメゴトハウス 公式サイト。STORY・CAST・ABOUT・MUSIC・SNS情報を掲載。",
+      "publishedAt": "2026-11-09T05:18:31.000Z",
+      "addedAt": "2026-11-09T05:30:25.891Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105650/20261109008/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://harahime.jp/assets/img/ogp.jpg"
+    },
     {
       "id": "f248693d29cf",
       "url": "https://ro3global.com/ja/",
