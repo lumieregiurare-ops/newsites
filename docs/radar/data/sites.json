@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-09T04:30:15.850Z",
+  "updatedAt": "2026-11-09T05:00:16.030Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1285,
+  "total": 1287,
   "regions": {
     "jp": 1055,
-    "global": 230
+    "global": 232
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 165
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 278
+      "count": 279
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "App Store",
     "Inside",
     "Appliv Games",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f248693d29cf",
+      "url": "https://ro3global.com/ja/",
+      "host": "ro3global.com",
+      "region": "jp",
+      "title": "ラグナロクオンライン３",
+      "headline": "「ラグナロクオンライン３」，日本でのフォーカスグループテスト参加者を募集。12月19日，20日に都内で開催。応募は11月23日23：59まで",
+      "description": "原作独自の特徴的な要素を継承しつつ、現代的なアートスタイルへ刷新された MMORPG『ラグナロクオンライン』のナンバリングタイトルがついに日本上陸。",
+      "publishedAt": "2026-11-09T04:39:21.000Z",
+      "addedAt": "2026-11-09T05:00:16.030Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/983/G098371/20261109010/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ef4001e9c905",
+      "url": "https://www.cthulhukeeper.com/",
+      "host": "cthulhukeeper.com",
+      "region": "global",
+      "title": "The Rising Cult",
+      "headline": "「The Rising Cult」，年内にクローズドβテストを計画。邪神を信奉する教団を率い，警察や敵対教団を恐怖で屈服させるタクティカルストラテジー",
+      "description": "Build your underground cult lair, summon eldritch horrors, and embark on stealth missions in this stealth tactics & hor…",
+      "publishedAt": "2026-11-09T04:32:41.000Z",
+      "addedAt": "2026-11-09T05:00:16.030Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/884/G088422/20261109009/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.cthulhukeeper.com/og-image.jpg"
+    },
     {
       "id": "ac9a88431eaf",
       "url": "https://www.enunionteam.com/ja/ironwake/",
@@ -2421,7 +2475,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/HBc/000000496034KJsyni7i6UEU4FfkvdkXytGuGg2MJMTgDHBc.jpg"
+      "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/x0k/000000496822xIuxK0cF7ZIym84DFA8UeKLfLHNKSxmDrx0k.jpg"
     },
     {
       "id": "f5873a40be24",
@@ -34754,7 +34808,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
