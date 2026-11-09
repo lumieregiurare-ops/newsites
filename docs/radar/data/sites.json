@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T10:00:18.472Z",
+  "updatedAt": "2026-11-09T10:30:17.539Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1292,
+  "total": 1293,
   "regions": {
-    "jp": 1060,
+    "jp": 1061,
     "global": 232
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 464
+      "count": 465
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 105
+      "count": 106
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 273
+      "count": 274
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 404
+      "count": 405
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "Inside",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "3f2f07aec5bc",
+      "url": "https://apps.apple.com/jp/app/id6775757720",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "キン肉マン マッスルタッグマッチ",
+      "headline": "1985年発売の『キン肉マン マッスルタッグマッチ』がスマホ向けに復活し配信開始。参戦超人数が8名から50名に大幅アップ",
+      "description": "Bandai Namco Entertainment Inc.の「キン肉マン マッスルタッグマッチ令和復活編」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「キン肉マン マッスルタッグ…",
+      "publishedAt": "2026-11-09T10:09:33.000Z",
+      "addedAt": "2026-11-09T10:30:17.539Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611092u"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/33/47/77334726-c38f-9fa1-11ed-985a133dbd1f/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "8e9e48e0eacd",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.muscletagmatch",
@@ -10709,7 +10743,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdF2vbW_TDGx-ak4Fp6nW-r3RBmVksrLborePKl5GkAwNrsXTrhxA3k6CIyWds2W0gHBZdLxLtYZP_Prb46-NGH9-1HlwuFL9TLLdSC2FYWDr2uVJ71GcS3gsrUhqEEVw7w55ed6l-j_25r6JClcHscxLh-L4akaJNsG8kiWCKlo7sIatASrNiZJ6SrnrA=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdVX_pWwVSuOfZbWB5pWWqzVt-2k8TAtS6NbnfZeVvHyPxKYEjHDb_roIuGV0rGxwJ5n51660vgTFg65Qh5njLAnUlP8RoUCzwqtDtf29xsHmVYYM0TgsiHkmbELzZWygkk6PHJnjUapDImSn1qb5Cp6KIh2hN0X5CQyQGEn2jZWgCHGsDfAQHQ4OgRImI=w16383"
     },
     {
       "id": "41b1b683c8f0",
@@ -10740,7 +10774,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://sinenstudio.co.jp/games/noah/assets/ogp.webp?v=12"
+      "image": "https://sinenstudio.co.jp/games/noah/assets/ogp.jpg?v=13"
     },
     {
       "id": "39ca9eee7fdf",
@@ -23633,6 +23667,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/09/190607.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104685/20261109032/"
         }
       ],
       "tags": [
