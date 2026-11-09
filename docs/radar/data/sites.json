@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T02:30:21.001Z",
+  "updatedAt": "2026-11-09T03:00:15.577Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1280,
+  "total": 1282,
   "regions": {
-    "jp": 1050,
+    "jp": 1052,
     "global": 230
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 233
+      "count": 234
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 276
+      "count": 277
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 460
+      "count": 461
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 402
+      "count": 403
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "AppBank",
     "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "App Store",
     "Inside",
@@ -132,6 +132,65 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a00b26e3214c",
+      "url": "https://www.darksouls.jp/detail_ds2_sotfs.html",
+      "host": "darksouls.jp",
+      "region": "jp",
+      "title": "ダークソウル",
+      "headline": "【50％オフ】『ダークソウル』3部作がPSストアにて50％オフで購入できるセール開催中！年越し火継ぎにピッタリなタイミング",
+      "description": "DARK SOULS (ダークソウル) シリーズオフィシャルウェブサイトです。各シリーズの情報をお届けします。",
+      "publishedAt": "2026-11-09T02:31:32.000Z",
+      "addedAt": "2026-11-09T03:00:15.577Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261109r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "01e18ceb8d4f",
+      "url": "https://play.google.com/store/apps/details?id=com.newstory.Boxingvr",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "Fit Beat Combat",
+      "headline": "「Fit Beat Combat」Android XR版が配信開始！ XREAL AURA向けボクシングフィットネス",
+      "description": "Android XR 向け没入型複合現実ボクシングワークアウトで、リズムに合わせてパンチを繰り出そう。",
+      "publishedAt": "2026-11-09T02:30:00.000Z",
+      "addedAt": "2026-11-09T03:00:15.577Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/09/game/3159227.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/4p4hrKb4rWFqChlWC6jX6YcB9lZcm1K0egSYCLgOHQ2ammhNj_tIiGd3sh_GBb8CHES7BfKgDZ8U3g4d3Z_u=s0-br30"
+    },
     {
       "id": "46f70e43f860",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.heroacaur_jp",
@@ -8941,6 +9000,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261023b"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/09/174643.html"
         }
       ],
       "tags": [
