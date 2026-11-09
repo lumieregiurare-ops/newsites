@@ -1345,11 +1345,11 @@
       }
     },
     "Booster Pack Heroes": {
-      "at": "2026-10-26T01:30:30.656Z",
+      "at": "2026-11-09T02:00:39.877Z",
       "entry": null
     },
     "Paleokin": {
-      "at": "2026-10-26T02:00:28.082Z",
+      "at": "2026-11-09T02:00:41.396Z",
       "entry": null
     },
     "スライドブロックde懸賞": {
@@ -65565,21 +65565,41 @@
       "sortKey": "2026-11-09",
       "prereg": false,
       "firstSeen": "2026-11-09T01:30:27.935Z"
+    },
+    "billionthsoul": {
+      "title": "Billionth Soul",
+      "dateText": "2026年11月9日",
+      "date": "2026-11-09",
+      "sortKey": "2026-11-09",
+      "prereg": false,
+      "firstSeen": "2026-11-09T02:00:39.543Z"
+    },
+    "bouncemetry": {
+      "title": "Bouncemetry",
+      "dateText": "2026年11月9日",
+      "date": "2026-11-09",
+      "sortKey": "2026-11-09",
+      "prereg": false,
+      "firstSeen": "2026-11-09T02:00:39.543Z"
+    },
+    "marchandconquer": {
+      "title": "March and Conquer",
+      "dateText": "2026年11月9日",
+      "date": "2026-11-09",
+      "sortKey": "2026-11-09",
+      "prereg": false,
+      "firstSeen": "2026-11-09T02:00:39.543Z"
+    },
+    "ミルキィの牛乳屋さん": {
+      "title": "ミルキィの牛乳屋さん",
+      "dateText": "2026年11月18日",
+      "date": "2026-11-18",
+      "sortKey": "2026-11-18",
+      "prereg": false,
+      "firstSeen": "2026-11-09T02:00:39.543Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T02:30:30.286Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "千年の旅ELF",
-      "url": "https://www.sentabijp.com/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/be/9d/2ebe9d1a-cec0-6a7b-c116-fcb1ab254b7a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年10月14日"
-    },
     {
       "at": "2026-10-14T03:30:30.540Z",
       "type": "new",
@@ -70365,6 +70385,18 @@
         "mobile"
       ],
       "to": "2027年2月6日"
+    },
+    {
+      "at": "2026-11-09T02:00:39.543Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ミルキィの牛乳屋さん",
+      "url": "https://milkidelivery.carrd.co/",
+      "image": "https://milkidelivery.carrd.co/assets/images/card.jpg?v=adf63e80",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年11月18日"
     }
   ],
   "initialized": true,
