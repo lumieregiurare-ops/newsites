@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-09T22:00:16.844Z",
+  "updatedAt": "2026-11-09T22:30:18.548Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1296,
+  "total": 1298,
   "regions": {
-    "jp": 1065,
-    "global": 231
+    "jp": 1066,
+    "global": 232
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 105
+      "count": 106
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 273
+      "count": 274
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 186
+      "count": 187
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 404
+      "count": 405
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "81aca3f067a1",
+      "url": "https://alawar.com/games/beholder-4",
+      "host": "alawar.com",
+      "region": "global",
+      "title": "Beholder 4",
+      "headline": "シリーズ最新作「Beholder 4」が発表。国家に忠実な若手職員を装い，地下組織を支援する“二重スパイ”アドベンチャーゲーム",
+      "description": "Live a double life in Beholder 4. Spy on Ministry officials, sabotage the State, aid the resistance, and make choices t…",
+      "publishedAt": "2026-11-09T22:00:00.000Z",
+      "addedAt": "2026-11-09T22:30:18.548Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105682/20261110002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d0bc650bd958",
       "url": "https://www.seaofremnants.com/jp/",
@@ -3037,6 +3064,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/92/bc/b092bcad-7aed-0b61-2cb3-7443206dc156/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "daaae4b219cc",
+      "url": "https://topdeck.games/sobo/ja/",
+      "host": "topdeck.games",
+      "region": "jp",
+      "title": "Sobo: ゼリー合体パズル",
+      "headline": "Shenzhen Taizhi Wansi Technology Co., Ltd. / パズル・カジュアル · App Store 新着",
+      "description": "Sobo Jelly Mergeで、ぷるぷるの数字をスライド、発射、合体。上のレールでの合体や狙い方、左右のスイッチのルールを紹介。買い切りで、広告もアプリ内課金もありません。",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "addedAt": "2026-11-09T22:30:18.548Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6829470634"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://topdeck.games/sobo/assets/app-icon.png"
     },
     {
       "id": "c4cc6f657b0e",
@@ -9557,7 +9618,7 @@
       "region": "global",
       "title": "Wall World Strategy",
       "headline": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
-      "description": "Build and lead a colony on the surface of an endless Wall. Manage resources and your people, develop new technologies, …",
+      "description": "Build a colony on the Endless Wall in Wall World Strategy. Manage resources, explore hidden depths, develop technology,…",
       "publishedAt": "2026-10-22T15:18:44.000Z",
       "addedAt": "2026-10-22T15:30:20.806Z",
       "source": "4Gamer",
