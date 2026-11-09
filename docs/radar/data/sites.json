@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T11:00:23.952Z",
+  "updatedAt": "2026-11-09T11:30:19.540Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1294,
+  "total": 1295,
   "regions": {
-    "jp": 1062,
+    "jp": 1063,
     "global": 232
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 465
+      "count": 466
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 41
+      "count": 42
     },
     {
       "id": "xbox",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "Game*Spark",
     "App Store",
     "Inside",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "70fdb4f74cc0",
+      "url": "http://persona5.jp/",
+      "host": "persona5.jp",
+      "region": "jp",
+      "title": "PERSONA5 the Stage",
+      "headline": "舞台「PERSONA5 the Stage」，11月14日から期間限定で無料公開",
+      "description": "ペルソナシリーズナンバリング最新作『ペルソナ５』 PS4新価格版 好評発売中！",
+      "publishedAt": "2026-11-09T11:04:23.000Z",
+      "addedAt": "2026-11-09T11:30:19.540Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/272/G027222/20261109040/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://persona5.jp/resources/img/ogp.jpg"
+    },
     {
       "id": "884fd2037b4a",
       "url": "https://murashgaming.co.jp/",
