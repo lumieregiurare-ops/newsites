@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:30:38.200Z",
+  "updatedAt": "2026-11-10T04:00:37.732Z",
   "platforms": [
     {
       "id": "switch",
@@ -454,6 +454,32 @@
   ],
   "changes": [
     {
+      "at": "2026-11-10T04:00:37.732Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.5「アシュティア＆ヴィクト」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000071345",
+      "image": "https://img-eshop.cdn.nintendo.net/i/2dfc24e99e1c0c16bea04b00592b8fae50295a4b55c702e5d8f2fe6d0f5b56cc.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-11-10T04:00:37.732Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.4「イスカ＆クロード」",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000071344",
+      "image": "https://img-eshop.cdn.nintendo.net/i/07320ec6a62eb9537d7c9842ec0bb235fc827f152e470a5aec9889a6c96d05ff.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年11月30日",
+      "to": "2026年11月12日"
+    },
+    {
       "at": "2026-11-10T03:30:38.200Z",
       "type": "new",
       "label": "新規",
@@ -500,34 +526,6 @@
       "image": "",
       "platforms": [],
       "to": "2027年2月16日"
-    },
-    {
-      "at": "2026-11-09T02:00:39.543Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ミルキィの牛乳屋さん",
-      "url": "https://milkidelivery.carrd.co/",
-      "image": "https://milkidelivery.carrd.co/assets/images/card.jpg?v=adf63e80",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2026年11月18日"
-    },
-    {
-      "at": "2026-11-08T15:30:30.302Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ヒロアカUR",
-      "url": "https://mhaur.bn-ent.net/",
-      "image": "https://mhaur.bn-ent.net/ogp.jpg?2610",
-      "platforms": [
-        "switch",
-        "ps",
-        "xbox",
-        "pc",
-        "mobile"
-      ],
-      "to": "App Store 2027年2月6日"
     }
   ]
 }
