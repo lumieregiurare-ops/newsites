@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:00:19.294Z",
+  "updatedAt": "2026-11-10T07:30:18.458Z",
   "boards": [
     {
       "id": "steam",
@@ -228,27 +228,27 @@
         },
         {
           "rank": 7,
-          "title": "ディズニー スパークリンク・スターズ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
-          "metric": "coly, Inc.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
           "title": "Supermarket chaos to order",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/00/52/a90052cd-fc41-e47c-d577-fb70b056dc07/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/supermarket-chaos-to-order/id6790139777",
           "metric": "Warlock Arts",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
+          "title": "ディズニー スパークリンク・スターズ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
+          "metric": "coly, Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
