@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-10T09:00:22.509Z",
+  "updatedAt": "2026-11-10T09:30:19.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1305,
+  "total": 1308,
   "regions": {
-    "jp": 1072,
-    "global": 233
+    "jp": 1074,
+    "global": 234
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 57
+      "count": 58
     },
     {
       "id": "prereg",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 235
+      "count": 237
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 284
+      "count": 286
     },
     {
       "id": "release",
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 106
+      "count": 107
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 51
+      "count": 52
     },
     {
       "id": "goods",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 42
+      "count": 43
     },
     {
       "id": "xbox",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "App Store",
     "Game*Spark",
     "Inside",
@@ -132,6 +132,95 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0b765654349b",
+      "url": "https://evenrealities.com/",
+      "host": "evenrealities.com",
+      "region": "global",
+      "title": "スマ",
+      "headline": "スマートグラスのEven Realitiesがブラックフライデー＆クリスマスキャンペーンを開催。アクセサリーが最大半額に",
+      "description": "Wearable technology designed for your everyday life. Explore smart glasses and accessories that enhance your capabiliti…",
+      "publishedAt": "2026-11-10T09:17:06.000Z",
+      "addedAt": "2026-11-10T09:30:19.040Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999902/20261110034/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.sanity.io/images/wfyhg2qw/production/fa29f360026bf5c4e080b217180e646d580402f3-1200x630.jpg"
+    },
+    {
+      "id": "dd97c9634274",
+      "url": "https://13sar.jp/",
+      "host": "13sar.jp",
+      "region": "jp",
+      "title": "十三機兵防衛圏",
+      "headline": "【50％オフ】『十三機兵防衛圏』がPSストアにて50％オフの「3839円」で購入できるセール開催中！ヴァニラウェア開発の傑作アドベンチャーゲーム",
+      "description": "アトラス×ヴァニラウェアによる新たな挑戦は、“十三人”の主人公によるドラマチックアドベンチャー。80年代の世界を舞台に、少年少女は「機兵」と呼ばれるロボットに乗り込み、避けられぬ破滅の運命と戦う群像劇を、PS4で体験せよ！2019年11月…",
+      "publishedAt": "2026-11-10T09:11:22.000Z",
+      "addedAt": "2026-11-10T09:30:19.040Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611102r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://13sar.jp/resources/img/ogp_1128.jpg"
+    },
+    {
+      "id": "74c9f58b737e",
+      "url": "https://dddistortion-games.com/jp",
+      "host": "dddistortion-games.com",
+      "region": "jp",
+      "title": "NIGHTMARE OPERATOR",
+      "headline": "「NIGHTMARE OPERATOR」のパブリッシャが集英社ゲームズに決定。新たなキービジュアルとティザートレイラーも解禁",
+      "description": "DDDistortion is a Tokyo-based independent game development studio. We are passionate about creating chilling new worlds…",
+      "publishedAt": "2026-11-10T09:00:00.000Z",
+      "addedAt": "2026-11-10T09:30:19.040Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/903/G090342/20261109044/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "ティザーサイト"
+      ],
+      "categories": [
+        "teaser",
+        "company",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://localhost:3000/jp/opengraph-image.png?4405ad945cd5b9da"
+    },
     {
       "id": "9240b51e75c1",
       "url": "https://www.takaratomy.co.jp/company/onetakaratomy/",
@@ -27308,7 +27397,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_si0mOxjp4f3ttRpP84ZlyR5P9vfJlrt0AEoU26h2bdXC50L-bspugGHuRIfIJMFTs_oyAolkUK_PcvmNP9apip28isO9n5SGSG_BFP0PmJFDqn8tzSLLZqAIEWx5B_VCeVIyQmWZF3K94d3st9rCNWWR8ZPKOAnj3T7nFISvqyp-HJnCSh_iidaXwtzD0zwcO_Ys7bRpfeoXN-gKQuZlf_qw3nXuvtaMl4fcpsU9JLjcE=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uUgfvIyAl2gH3TFKqCWx-mDn42VsXL_FFgk1Sg_k4vHjaxTyrBxpC4Ar_6S9YaCZbAL4jM9il6J9g3butaqDuqSumWnEc0wT2NMJBX9i5dflG2oYKd38kIP8lKYAPGrj5btCtHCtTj-oJsad12hvbict_7BZpcgVOe5b4DBR9NR15KfOeVaoWphpOK_6tbLyjf82ZgQmbWDVcvDKFpUwXjd_Sb8hvdJNTVCq7Ik9o8EXU=w1200-h630-p-k-no-nu"
     },
     {
       "id": "a1190e19c51b",
