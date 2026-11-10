@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-10T00:30:18.467Z",
+  "updatedAt": "2026-11-10T01:00:19.470Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1298,
+  "total": 1299,
   "regions": {
     "jp": 1066,
-    "global": 232
+    "global": 233
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 105
+      "count": 106
     },
     {
       "id": "media",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "246120231cbd",
+      "url": "https://www.take2games.com/ir",
+      "host": "take2games.com",
+      "region": "global",
+      "title": "GTA6",
+      "headline": "『GTA6』予約は当初の想定をはるかに上回るペースで、ついに開発完了！親会社CEOは「次に来るもの」に言及。オンラインかアプデか新作か…",
+      "description": "The Investor Relations website contains information about Take-Two Interactive Software, Inc.'s business for stockholde…",
+      "publishedAt": "2026-11-10T00:43:24.000Z",
+      "addedAt": "2026-11-10T01:00:19.470Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/10/174688.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://images.ctfassets.net/wn7ipiv9ue5v/5pdZg8ju76AQPhgDDwP7f2/85c82aa572e714ca61ec6ed4d836841e/Frame_92__1_.jpg?w=&h=630&fm=&q="
+    },
     {
       "id": "81aca3f067a1",
       "url": "https://alawar.com/games/beholder-4",
