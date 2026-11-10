@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T11:00:18.424Z",
+  "updatedAt": "2026-11-10T11:30:18.874Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1311,
+  "total": 1313,
   "regions": {
-    "jp": 1077,
+    "jp": 1079,
     "global": 234
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 167
+      "count": 168
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 286
+      "count": 287
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 188
+      "count": 189
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 409
+      "count": 410
     },
     {
       "id": "browser",
@@ -121,17 +121,74 @@
     }
   ],
   "sources": [
-    "AppBank",
     "4Gamer",
+    "Inside",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Game*Spark",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "aac2d3fa738c",
+      "url": "https://dqrpg.dragonquest.jp/",
+      "host": "dqrpg.dragonquest.jp",
+      "region": "jp",
+      "title": "ドラゴンクエストRPG　魔界樹と導かれし島",
+      "headline": "「ドラゴンクエストRPG 魔界樹と導かれし島」，クローズドβテストを12月8日から15日まで開催。テスター2万5000人の募集を開始",
+      "description": "あの頃の冒険を、その手で。",
+      "publishedAt": "2026-11-10T11:18:26.000Z",
+      "addedAt": "2026-11-10T11:30:18.874Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105640/20261109024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cache-www.dragonquest.jp/dqrpg/root/20261105/common/images/jp/common/ogp.jpg"
+    },
+    {
+      "id": "85dd20cc2b8b",
+      "url": "https://dqrpg.dragonquest.jp/cbt/",
+      "host": "dqrpg.dragonquest.jp",
+      "region": "jp",
+      "title": "ドラゴンクエストRPG 魔界樹と導かれし島",
+      "headline": "ドラクエの新作スマホアプリ『ドラゴンクエストRPG 魔界樹と導かれし島』トレイラー公開！自由にマップを探索し、モンスターとコマンドバトルで戦う王道スタイル",
+      "description": "ドラクエの新作スマホアプリ『ドラゴンクエストRPG 魔界樹と導かれし島』トレイラー公開！自由にマップを探索し、モンスターとコマンドバトルで戦う王道スタイル",
+      "publishedAt": "2026-11-10T11:09:46.000Z",
+      "addedAt": "2026-11-10T11:30:18.874Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/10/190694.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://cache-www.dragonquest.jp/dqrpg/root/20261105/common/images/jp/common/ogp.jpg"
+    },
     {
       "id": "2d53200a68f4",
       "url": "https://apps.apple.com/jp/app/id6829341651",
@@ -6850,11 +6907,18 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611102p"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/442/G044288/20261110043/"
         }
       ],
       "tags": [
         "ゲーム",
-        "事前登録"
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
       ],
       "categories": [
         "prereg",
