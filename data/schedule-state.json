@@ -233,7 +233,7 @@
       }
     },
     "白銀の城": {
-      "at": "2026-11-07T21:00:30.388Z",
+      "at": "2026-11-10T21:00:32.622Z",
       "entry": {
         "trackId": "6758292278",
         "title": "白銀の城",
@@ -483,7 +483,7 @@
       }
     },
     "GALAST": {
-      "at": "2026-11-07T21:00:29.019Z",
+      "at": "2026-11-10T21:00:31.142Z",
       "entry": {
         "trackId": "6744635653",
         "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -493,8 +493,8 @@
           "カード",
           "ボード"
         ],
-        "releaseDate": "2026-11-02T08:00:00Z",
-        "isPreorder": false,
+        "releaseDate": "2026-11-13T08:00:00Z",
+        "isPreorder": true,
         "storeUrl": "https://apps.apple.com/jp/app/id6744635653",
         "sellerUrl": "https://galast.net/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
@@ -56215,7 +56215,7 @@
       "dateText": "2026年11月2日",
       "date": "2026-11-02",
       "sortKey": "2026-11-02",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-11-02T05:30:27.290Z"
     },
     "king's:theeighttribes": {
@@ -69408,21 +69408,33 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-10T20:30:31.971Z"
+    },
+    "hopeinthecitysoundtrack": {
+      "title": "Hope in the City Soundtrack",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-11-10T21:00:30.833Z"
+    },
+    "imperialgrace-artbook": {
+      "title": "Imperial Grace - Artbook",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-11-10T21:00:30.833Z"
+    },
+    "swirltogether": {
+      "title": "Swirl Together",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-11-10T21:00:30.833Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "あそんでおぼえる はじめての漢字",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134564",
-      "image": "https://img-eshop.cdn.nintendo.net/i/dab79bbc91841bbd75da97d68ef4bd18bfab2288318405b97aa5ba030ef7dd49.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
     {
       "at": "2026-10-14T16:00:37.277Z",
       "type": "new",
@@ -74211,6 +74223,18 @@
       "image": "https://sakunagames.com/assets/images/ogp.jpg?v=2",
       "platforms": [],
       "to": "2027年3月11日"
+    },
+    {
+      "at": "2026-11-10T21:00:30.833Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST",
+      "url": "https://play.google.com/store/apps/details?id=com.eve.galast",
+      "image": "https://play-lh.googleusercontent.com/Z5ypmxR5wtHv82zp0IQRboZHz6SuN5yBeHLjmTqN1VI1u_VfpmxABYdk5tCXRMv5nd5m69iukYMEzAziAtpdqA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月13日"
     }
   ],
   "initialized": true,
