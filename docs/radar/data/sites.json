@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T07:30:16.459Z",
+  "updatedAt": "2026-11-10T08:00:20.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1303,
+  "total": 1304,
   "regions": {
-    "jp": 1070,
+    "jp": 1071,
     "global": 233
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 470
+      "count": 471
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 406
+      "count": 407
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 16
+      "count": 17
     },
     {
       "id": "vr",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "App Store",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "AppBank",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "235d8525792d",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.gapoli.a0001",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "スマスロ リコリス・リコイル",
+      "headline": "『スマスロ リコリス・リコイル』がオンラインゲームセンター『GAPOLI』に登場！ 11月10日配信開始",
+      "description": "無料から遊べる｢ゲーセンアプリ｣で楽しくお小遣い稼ぎしよう！メダルゲーム･パチンコ･カジノなど80種類以上のゲームで貯めたコインが値引きポイントに！",
+      "publishedAt": "2026-11-10T07:10:00.000Z",
+      "addedAt": "2026-11-10T08:00:20.040Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/10/game/3160103.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/lDLaTj4_m3-iZDNiL_6hsJ1VH1Bo3yI91__K9jTELUoa_hYvSPMNZnDNkhjCms4ynCmlPNYgZQUCaqeFcwru=s0-br30"
+    },
     {
       "id": "21e869e3e61a",
       "url": "https://www.medarotsha.jp/classics_plus/",
