@@ -2957,7 +2957,7 @@
       }
     },
     "時渡り": {
-      "at": "2026-10-27T03:30:36.070Z",
+      "at": "2026-11-10T03:30:40.265Z",
       "entry": null
     },
     "デジモンカードゲーム": {
@@ -3032,7 +3032,7 @@
       "entry": null
     },
     "BLEACH": {
-      "at": "2026-11-07T03:00:35.966Z",
+      "at": "2026-11-10T03:30:38.726Z",
       "entry": {
         "trackId": "6747328897",
         "title": "BLEACH Mirrors High【ミラハイ】",
@@ -67629,21 +67629,17 @@
       "sortKey": "2026-11-10",
       "prereg": false,
       "firstSeen": "2026-11-10T03:00:33.274Z"
+    },
+    "メダロットクラシックスプラス": {
+      "title": "メダロット クラシックス プラス",
+      "dateText": "2026年12月",
+      "date": null,
+      "sortKey": "2026-12-32",
+      "prereg": false,
+      "firstSeen": "2026-11-10T03:30:38.200Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T11:00:33.146Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "重兵装型女子高生",
-      "url": "https://www.juheiso-game.jp/",
-      "image": "https://www.juheiso-game.jp/assets/images/common/img_ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-14T11:30:44.304Z",
       "type": "new",
@@ -72427,6 +72423,19 @@
         "switch2"
       ],
       "to": "2026年12月7日"
+    },
+    {
+      "at": "2026-11-10T03:30:38.200Z",
+      "type": "new",
+      "label": "新規",
+      "title": "メダロット クラシックス プラス",
+      "url": "https://www.medarotsha.jp/classics_plus/",
+      "image": "https://www.medarotsha.jp/classics_plus/images/og-image.png",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年12月"
     }
   ],
   "initialized": true,

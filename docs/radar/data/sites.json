@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T03:00:18.709Z",
+  "updatedAt": "2026-11-10T03:30:19.787Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1301,
+  "total": 1302,
   "regions": {
-    "jp": 1067,
+    "jp": 1068,
     "global": 234
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 468
+      "count": 469
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 37
+      "count": 38
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 154
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "App Store",
     "4Gamer",
+    "App Store",
     "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "21e869e3e61a",
+      "url": "https://www.medarotsha.jp/classics_plus/",
+      "host": "medarotsha.jp",
+      "region": "jp",
+      "title": "メダロット クラシックス プラス",
+      "headline": "「メダロット クラシックス プラス」，Steam版が12月に発売決定。シリーズ初のSteam展開で，過去作8タイトルをまとめて楽しめる",
+      "description": "メダロット クラシックス プラス 2017年発売のニンテンドー3DS版に3タイトル（ナビ、G、弐CORE）をプラスしたNintendo Switch版登場！",
+      "publishedAt": "2026-11-10T03:12:34.000Z",
+      "addedAt": "2026-11-10T03:30:19.787Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105685/20261110005/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.medarotsha.jp/classics_plus/images/og-image.png"
+    },
     {
       "id": "5c868d880aaa",
       "url": "https://www.fundaygames.dk/bph",
@@ -208,6 +238,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/10/174688.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/10/190652.html"
         }
       ],
       "tags": [
@@ -266,6 +300,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/915/G091599/20261110001/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261110m"
         }
       ],
       "tags": [
@@ -685,7 +723,7 @@
       "region": "jp",
       "title": "Fit Beat Combat",
       "headline": "「Fit Beat Combat」Android XR版が配信開始！ XREAL AURA向けボクシングフィットネス",
-      "description": "Android XR 向け没入型複合現実ボクシングワークアウトで、リズムに合わせてパンチを繰り出そう。",
+      "description": "音楽に合わせてパンチ＆回避。いつもの空間で楽しむ、Android XRのMRボクシングフィットネス。",
       "publishedAt": "2026-11-09T02:30:00.000Z",
       "addedAt": "2026-11-09T03:00:15.577Z",
       "source": "AppBank",
@@ -707,7 +745,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://play-lh.googleusercontent.com/4p4hrKb4rWFqChlWC6jX6YcB9lZcm1K0egSYCLgOHQ2ammhNj_tIiGd3sh_GBb8CHES7BfKgDZ8U3g4d3Z_u=s0-br30"
+      "image": "https://play-lh.googleusercontent.com/t5c4IRgOZpDBkZEmlvfZA316Ir-GGJwvK2lyH_EDmt45afctOzEhhtqehSSVcqrfK6w4UA4iwuODi01tCrYAcQ=s0-br30"
     },
     {
       "id": "46f70e43f860",

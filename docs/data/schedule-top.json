@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:00:33.274Z",
+  "updatedAt": "2026-11-10T03:30:38.200Z",
   "platforms": [
     {
       "id": "switch",
@@ -454,6 +454,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-10T03:30:38.200Z",
+      "type": "new",
+      "label": "新規",
+      "title": "メダロット クラシックス プラス",
+      "url": "https://www.medarotsha.jp/classics_plus/",
+      "image": "https://www.medarotsha.jp/classics_plus/images/og-image.png",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年12月"
+    },
+    {
       "at": "2026-11-09T16:00:41.710Z",
       "type": "new",
       "label": "新規",
@@ -515,18 +528,6 @@
         "mobile"
       ],
       "to": "App Store 2027年2月6日"
-    },
-    {
-      "at": "2026-11-07T15:00:30.022Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Petal Runner",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135476",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6e41fb7c8754c9dd183e0ffa1ad950fe43e673162a0a1a938f07b0c56483f0d3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年3月8日"
     }
   ]
 }
