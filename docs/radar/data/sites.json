@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-10T19:00:17.506Z",
+  "updatedAt": "2026-11-10T19:30:17.393Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1316,
+  "total": 1318,
   "regions": {
     "jp": 1081,
-    "global": 235
+    "global": 237
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 472
+      "count": 473
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 278
+      "count": 280
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 154
+      "count": 155
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 411
+      "count": 413
     },
     {
       "id": "browser",
@@ -121,17 +121,50 @@
     }
   ],
   "sources": [
+    "App Store",
     "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
-    "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a27abd806f5a",
+      "url": "https://ungodlygame.com/",
+      "host": "ungodlygame.com",
+      "region": "global",
+      "title": "UnGodly アンゴッドリー",
+      "headline": "Azra Games / エンターテインメント・アクション · App Store 新着",
+      "description": "Fight the Nethermaw in UnGodly, a free-to-play dark fantasy RPG. Collect Primals and battle through real-time combat on…",
+      "publishedAt": "2026-11-10T19:30:23.335Z",
+      "addedAt": "2026-11-10T19:30:17.393Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6740617332"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://ungodlygame.com/wp-content/uploads/2026/06/UnGodly_Key_Art_TM_16x9-1024x576.png"
+    },
     {
       "id": "334f39de6fdc",
       "url": "https://arkheron.com/ja_JP/",
@@ -922,6 +955,41 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/15/47/d4154717-6378-9dd0-afc2-fa4b60503c84/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "d6908755f776",
+      "url": "https://sobosuba.com/",
+      "host": "sobosuba.com",
+      "region": "global",
+      "title": "sobosuba",
+      "headline": "Michael Richard Bryant / パズル・カジュアル · App Store 新着",
+      "description": "An ultra-squishy merge game by keepeetron. Free demo on Steam, free to try on iPhone.",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "addedAt": "2026-11-10T19:30:17.393Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6802116433"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sobosuba.com/media/og.jpg"
     },
     {
       "id": "8098200027c9",
