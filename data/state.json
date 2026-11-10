@@ -1,6 +1,49 @@
 {
   "items": [
     {
+      "id": "344a3a1ecde8",
+      "url": "https://shueisha-games.com/",
+      "host": "shueisha-games.com",
+      "region": "jp",
+      "title": "NIGHTMARE OPERATOR",
+      "headline": "近未来の東京で妖怪を狩るローポリ調のホラーゲーム『NIGHTMARE OPERATOR』沢城みゆきさん演じる主人公「ミーシャ」のボイスが初公開",
+      "description": "集英社ゲームズは出版とゲーム、2つのエンタメ業界が越境して生まれた会社です。",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-10T12:18:57.000Z",
+      "addedAt": "2026-11-10T12:30:19.823Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611102z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "teaser"
+      ],
+      "points": null,
+      "image": "https://shueisha-games.com/wp-content/uploads/2023/07/fab9e052b5611fd3f5f8d2f016aab749.png",
+      "metaAttempts": 1,
+      "linkUrl": "https://shueisha-games.com/news/20261110_nightmare-operator/",
+      "checkedAt": "2026-11-10T12:30:19.823Z",
+      "ogFetchedAt": "2026-11-10T12:30:19.823Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "aac2d3fa738c",
       "url": "https://dqrpg.dragonquest.jp/",
       "host": "dqrpg.dragonquest.jp",
@@ -71,6 +114,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/10/190694.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/10/174719.html"
         }
       ],
       "tags": [
@@ -21551,9 +21598,9 @@
       "headline": "「PUBG」，高級自動車ブランド「ベントレー」とコラボ",
       "description": "PUBG: BATTLEGROUNDSは、100人のプレイヤーが対戦するバトルロイヤルシューターです。マップ上にある武器やアイテムを駆使して最後の生存者となりましょう。今すぐ無料プレイ！",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
-        "count": "",
+        "count": "事前登録者数は1400万人",
         "reward": "",
         "ios": "",
         "android": ""
@@ -21569,10 +21616,14 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "周年",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
+        "anniversary",
+        "prereg",
         "campaign"
       ],
       "points": null,
