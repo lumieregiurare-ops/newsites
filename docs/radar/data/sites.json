@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T08:30:19.442Z",
+  "updatedAt": "2026-11-10T09:00:22.509Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1304,
+  "total": 1305,
   "regions": {
-    "jp": 1071,
+    "jp": 1072,
     "global": 233
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 130
+      "count": 129
     },
     {
       "id": "campaign",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 187
+      "count": 188
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
     "App Store",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9240b51e75c1",
+      "url": "https://www.takaratomy.co.jp/company/onetakaratomy/",
+      "host": "takaratomy.co.jp",
+      "region": "jp",
+      "title": "タカラトミ",
+      "headline": "タカラトミーがロゴマークの刷新を発表、2027年4月1日より本格運用を開始。ロゴの変更は2006年にタカラトミーが誕生して以降初",
+      "description": "世代を超えて「アソビ」のワクワクを世界へ。新しいロゴマークとともに進む「ONE TAKARATOMY」。このサイトではタカラトミーがブランドに込めた想いや目指す未来をご紹介しています。",
+      "publishedAt": "2026-11-10T08:46:03.000Z",
+      "addedAt": "2026-11-10T09:00:22.509Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611102g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.takaratomy.co.jp/company/onetakaratomy/img/img_ogp.jpg"
+    },
     {
       "id": "235d8525792d",
       "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.gapoli.a0001",
@@ -5880,7 +5907,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/b2/77/37b277ea-3560-03b4-3a2c-a175ee911214/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/2b/dc/c32bdca1-3b57-ba14-21c8-bddb6ace8259/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "83f8470360e9",
@@ -8906,7 +8933,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/e1/a0/56e1a093-0415-b4ef-1843-3622e4ca0e9c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1a/b6/00/1ab600e5-6970-9fea-19a8-d782ae2884be/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8fd164ec8709",
@@ -8915,7 +8942,7 @@
       "region": "jp",
       "title": "Delta Force",
       "headline": "『Delta Force』が「池ハロ2026」に初出展！ コスプレ撮影会やスペシャルステージを実施 10月31日・11月1日開催",
-      "description": "Level Infiniteの「Delta Force: 2nd Anniversary」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Delta Force: 2nd Annive…",
+      "description": "Level Infiniteの「Delta Force」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Delta Force」に似たゲームを見ることなどができます。",
       "publishedAt": "2026-10-24T03:15:00.000Z",
       "addedAt": "2026-10-24T03:30:16.743Z",
       "source": "AppBank",
@@ -8933,14 +8960,13 @@
       ],
       "categories": [
         "event",
-        "anniversary",
         "goods"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/50/79/d8507917-3c07-cc56-106a-cf2e7b9dcabf/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/9c/cc/df9ccc99-7c15-2b26-3127-f106c0b93ab1/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "34e83086a07e",
@@ -17501,7 +17527,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/12/34/58123424-6591-f303-fe65-9041e217fce6/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/2d/a3/382da3ac-775d-7150-6df6-e5d2dd4aeb9d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "de25fcb5c2c4",
