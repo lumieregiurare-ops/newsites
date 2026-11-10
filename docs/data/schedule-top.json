@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T04:30:39.401Z",
+  "updatedAt": "2026-11-10T05:00:37.584Z",
   "platforms": [
     {
       "id": "switch",
@@ -254,19 +254,19 @@
       "dateSource": "appstore"
     },
     {
-      "id": "e67cb55c9b01",
-      "title": "Hela: ちいさなねずみと魔法の森",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
+      "id": "9c2c1ca58124",
+      "title": "TEMPPAL: OVERGEARED",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
       "priority": 0,
       "platforms": [],
-      "url": "https://helagame.com/",
-      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
       "maker": "",
-      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+      "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
     }
   ],
   "prereg": [
@@ -313,6 +313,26 @@
         "releaseDate": "2026-11-10T08:00:00Z"
       },
       "trackId": "6823027426"
+    },
+    {
+      "id": "276bfa8236d0",
+      "title": "TEMPPAL: OVERGEARED",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-06T11:07:48.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
+      "description": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/",
+      "appleId": "",
+      "trackId": ""
     },
     {
       "id": "a2ca0f77d38b",
@@ -425,34 +445,31 @@
       "verified": false,
       "officialKnown": false,
       "trackId": ""
-    },
-    {
-      "id": "6fce58f3969f",
-      "title": "デジモンカードゲーム",
-      "url": "https://www.digimon-alysion.com/",
-      "image": "https://www.digimon-alysion.com/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-28T04:00:03.000Z",
-      "releaseText": "2026年12月23日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "「デジモンカードゲーム」をスマホで遊べる「デジモンアリシオン」，事前登録受付を開始。ルールはほぼそのままで，本作限定の新規カードも登場",
-      "description": "デジモンカードゲームNEW PROJECT スマートフォン向けアプリ『デジモンアリシオン』始動！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089331/20261028008/",
-      "appleId": "6740988190",
-      "trackId": "6740988190",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6740988190",
-        "preorder": true,
-        "releaseDate": "2026-12-23T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-10T05:00:37.584Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "TEMPPAL: OVERGEARED",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-10T05:00:37.584Z",
+      "type": "new",
+      "label": "新規",
+      "title": "TEMPPAL: OVERGEARED",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月26日"
+    },
     {
       "at": "2026-11-10T04:00:37.732Z",
       "type": "moved_up",
@@ -503,29 +520,6 @@
         "switch2"
       ],
       "to": "2026年12月7日"
-    },
-    {
-      "at": "2026-11-09T05:30:42.963Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年11月12日",
-      "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-11-09T04:00:34.005Z",
-      "type": "new",
-      "label": "新規",
-      "title": "IRONWAKE",
-      "url": "https://www.enunionteam.com/ja/ironwake/",
-      "image": "",
-      "platforms": [],
-      "to": "2027年2月16日"
     }
   ]
 }

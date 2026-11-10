@@ -1708,7 +1708,7 @@
       "entry": null
     },
     "ラストオリジン": {
-      "at": "2026-11-07T05:00:33.328Z",
+      "at": "2026-11-10T05:00:39.267Z",
       "entry": {
         "trackId": "1469855842",
         "title": "ラストオリジン",
@@ -3589,6 +3589,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/65/62/0565626c-9305-aeaa-81c2-9b094817cb38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "TEMPPAL OVERGEARED": {
+      "at": "2026-11-10T05:00:37.778Z",
+      "entry": null
     }
   },
   "titles": {
@@ -67669,33 +67673,41 @@
       "sortKey": "2026-11-10",
       "prereg": false,
       "firstSeen": "2026-11-10T04:30:39.401Z"
+    },
+    "amusementfactory": {
+      "title": "Amusement Factory",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-11-10T05:00:37.584Z"
+    },
+    "potion-making:pathofthealchemistsoundtrack": {
+      "title": "Potion-making: Path of the Alchemist Soundtrack",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-11-10T05:00:37.584Z"
+    },
+    "shadey'squest": {
+      "title": "Shadey's Quest",
+      "dateText": "2026年11月10日",
+      "date": "2026-11-10",
+      "sortKey": "2026-11-10",
+      "prereg": false,
+      "firstSeen": "2026-11-10T05:00:37.584Z"
+    },
+    "temppal:overgeared": {
+      "title": "TEMPPAL: OVERGEARED",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": true,
+      "firstSeen": "2026-11-10T05:00:37.584Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Bottle Logic Puzzle",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138971",
-      "image": "https://img-eshop.cdn.nintendo.net/i/75a48afa626b500ada7cc90e6ddc292c91721bcc952cc95ef404e6ddbe2a1f37.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Chico's Delivery",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000128605",
-      "image": "https://img-eshop.cdn.nintendo.net/i/557532e5ef7efbe73b2ca03930311280854b424a9fc48e2c6e54945c5245accc.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
     {
       "at": "2026-10-14T16:00:37.277Z",
       "type": "new",
@@ -72474,6 +72486,28 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-11-10T05:00:37.584Z",
+      "type": "new",
+      "label": "新規",
+      "title": "TEMPPAL: OVERGEARED",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月26日"
+    },
+    {
+      "at": "2026-11-10T05:00:37.584Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "TEMPPAL: OVERGEARED",
+      "url": "https://temppal.nexon.com/reservation",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

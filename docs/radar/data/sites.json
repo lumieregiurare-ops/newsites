@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T04:30:19.771Z",
+  "updatedAt": "2026-11-10T05:00:18.843Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1302,
+  "total": 1303,
   "regions": {
-    "jp": 1068,
+    "jp": 1069,
     "global": 234
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 166
+      "count": 167
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 469
+      "count": 470
     },
     {
       "id": "indie",
@@ -1391,6 +1391,35 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/d6/0e/1dd60ed3-9756-c984-823b-c0bfd1d27d73/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "276bfa8236d0",
+      "url": "https://temppal.nexon.com/reservation",
+      "host": "temppal.nexon.com",
+      "region": "global",
+      "title": "TEMPPAL: OVERGEARED",
+      "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
+      "description": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
+      "publishedAt": "2026-11-06T11:07:48.000Z",
+      "addedAt": "2026-11-10T05:00:18.843Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/056/G105636/20261106046/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
     },
     {
       "id": "45fdcbf76e91",
@@ -2928,7 +2957,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/x0k/000000496822xIuxK0cF7ZIym84DFA8UeKLfLHNKSxmDrx0k.jpg"
+      "image": "https://www.bandai.co.jp/candy/published/bnc_files/product/EME/00000049688257KxfJbILAIiWVCUfrCNWjegYAHZmxYblEME.jpg"
     },
     {
       "id": "f5873a40be24",
@@ -35302,7 +35331,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
