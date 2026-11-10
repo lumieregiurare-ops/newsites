@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:30:32.504Z",
+  "updatedAt": "2026-11-10T15:00:35.987Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,42 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "ab7727e4a1c8",
-      "title": "Booster Pack Heroes",
-      "date": "2026-11-10",
-      "dateText": "2026年11月10日",
-      "sortKey": "2026-11-10",
-      "priority": 0,
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/id6801113954",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/03/9f/ee039fbb-d7b0-cede-ac89-5660a4fec3f6/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "パック開封×インクリメンタル『Booster Pack Heroes』11月10日発売決定！ Steam・iOS・Androidで同時配信",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/09/28/game/3115905.php"
-    },
-    {
-      "id": "a84dfb3363d8",
-      "title": "スマスロ リコリス・リコイル",
-      "date": "2026-11-10",
-      "dateText": "2026年11月10日",
-      "sortKey": "2026-11-10",
-      "priority": 0,
-      "platforms": [
-        "mobile",
-        "arcade"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.gapoli.a0001",
-      "image": "https://play-lh.googleusercontent.com/lDLaTj4_m3-iZDNiL_6hsJ1VH1Bo3yI91__K9jTELUoa_hYvSPMNZnDNkhjCms4ynCmlPNYgZQUCaqeFcwru=s0-br30",
-      "maker": "",
-      "headline": "『スマスロ リコリス・リコイル』がオンラインゲームセンター『GAPOLI』に登場！ 11月10日配信開始",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/10/game/3160103.php"
-    },
     {
       "id": "de612d014e1c",
       "title": "Wall World Strategy",
@@ -268,6 +232,38 @@
       "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
+    },
+    {
+      "id": "e67cb55c9b01",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://helagame.com/",
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "maker": "",
+      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+    },
+    {
+      "id": "d4c9f9d72471",
+      "title": "恐応研式 恐怖診断",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://hinanlab.com/games/fear-diagnosis/",
+      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg?v=68428c8126",
+      "maker": "",
+      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/052/G105221/20261021037/"
     }
   ],
   "prereg": [
@@ -451,6 +447,42 @@
   ],
   "changes": [
     {
+      "at": "2026-11-10T15:00:35.987Z",
+      "type": "new",
+      "label": "新規",
+      "title": "さくなばーす",
+      "url": "https://sakunagames.com/",
+      "image": "https://sakunagames.com/assets/images/ogp.jpg?v=2",
+      "platforms": [],
+      "to": "2027年3月11日"
+    },
+    {
+      "at": "2026-11-10T15:00:35.987Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "SULFUR",
+      "url": "https://indietechgames.neoscorp.jp/sulfur/index.html",
+      "image": "https://indietechgames.neoscorp.jp/sulfur/images/ogp.jpg",
+      "platforms": [
+        "switch",
+        "ps"
+      ],
+      "from": "2026年10月28日",
+      "to": "2027年3月11日"
+    },
+    {
+      "at": "2026-11-10T15:00:35.987Z",
+      "type": "new",
+      "label": "新規",
+      "title": "HOT WHEELS™ Infinite Rush - F1® Car Collection Pack",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000078755",
+      "image": "https://img-eshop.cdn.nintendo.net/i/48794608add6e216e98d852fd4d533e1e233d6b3fe75c3464810b3f8b775cbd4.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年3月11日"
+    },
+    {
       "at": "2026-11-10T05:00:37.584Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -484,44 +516,6 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-11-10T04:00:37.732Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "アナザーエデン ビギンズ - 追加キャラクターパックVol.4「イスカ＆クロード」",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000071344",
-      "image": "https://img-eshop.cdn.nintendo.net/i/07320ec6a62eb9537d7c9842ec0bb235fc827f152e470a5aec9889a6c96d05ff.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年11月30日",
-      "to": "2026年11月12日"
-    },
-    {
-      "at": "2026-11-10T03:30:38.200Z",
-      "type": "new",
-      "label": "新規",
-      "title": "メダロット クラシックス プラス",
-      "url": "https://www.medarotsha.jp/classics_plus/",
-      "image": "https://www.medarotsha.jp/classics_plus/images/og-image.png",
-      "platforms": [
-        "switch",
-        "pc"
-      ],
-      "to": "2026年12月"
-    },
-    {
-      "at": "2026-11-09T16:00:41.710Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Mouse Work",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000115535",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8472683dbf4f414f2b187ff0eb7b8a8dedcbffd1ef64067a6593d0fae0f207f6.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月7日"
     }
   ]
 }
