@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T02:00:19.335Z",
+  "updatedAt": "2026-11-10T02:30:16.680Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1300,
+  "total": 1301,
   "regions": {
-    "jp": 1066,
+    "jp": 1067,
     "global": 234
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 283
+      "count": 284
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 26
+      "count": 27
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "App Store",
-    "Game*Spark",
     "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "AppBank",
     "Inside",
@@ -164,6 +164,34 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "afada36c4cca",
+      "url": "https://www.retrogamesummit.com/",
+      "host": "retrogamesummit.com",
+      "region": "jp",
+      "title": "RETRO GAME SUMMIT Lv.6",
+      "headline": "レトロゲーム文化を未来へつなぐ「RETRO GAME SUMMIT Lv.6」開催。ディープな同人誌からレトロゲーム機で動作する新作，ゲーム大会までレトロゲーム満載の1日",
+      "description": "レトロゲームを未来に繋げる。子どもから大人まで楽しめる展示即売会、ステージ、コスプレ、ゲーム大会のイベント。",
+      "publishedAt": "2026-11-10T02:00:00.000Z",
+      "addedAt": "2026-11-10T02:30:16.680Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999110/20261109030/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "indie"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.retrogamesummit.com/assets/RGS_banner.png"
     },
     {
       "id": "246120231cbd",
