@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T13:30:19.126Z",
+  "updatedAt": "2026-11-10T14:00:20.637Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1315,
+  "total": 1316,
   "regions": {
-    "jp": 1080,
+    "jp": 1081,
     "global": 235
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 277
+      "count": 278
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 410
+      "count": 411
     },
     {
       "id": "browser",
@@ -889,6 +889,39 @@
       "platforms": [],
       "points": null,
       "image": "https://p5-the-stage.jp/images/myogp.jpg"
+    },
+    {
+      "id": "f3bee35cbc3f",
+      "url": "https://apps.apple.com/jp/app/id6830704697",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "TERRIGEAR",
+      "headline": "HIROYUKI KANNARI / ストラテジー・アクション · App Store 新着",
+      "description": "HIROYUKI KANNARIの「TERRIGEAR」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「TERRIGEAR」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "addedAt": "2026-11-10T14:00:20.637Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6830704697"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/15/47/d4154717-6378-9dd0-afc2-fa4b60503c84/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8098200027c9",
