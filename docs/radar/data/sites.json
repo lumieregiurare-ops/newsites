@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T22:00:20.199Z",
+  "updatedAt": "2026-11-11T22:30:20.553Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1334,
+  "total": 1335,
   "regions": {
-    "jp": 1093,
+    "jp": 1094,
     "global": 241
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 132
+      "count": 133
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 240
+      "count": 241
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 480
+      "count": 481
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 420
+      "count": 421
     },
     {
       "id": "browser",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fdb6b5687044",
+      "url": "https://apps.apple.com/jp/app/id6744029320",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Thronefall 不屈の王国",
+      "headline": "200万本突破で「圧倒的に好評」の手軽で奥深い王国建設＆防衛ACT『Thronefall 不屈の王国』最後のドワーフ王として決死の戦いに挑む初のDLC「Craaghelm」発売―…",
+      "description": "Doghowl Games Ltd.の「Thronefall - A Little Kingdom」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Thronefall - A Lit…",
+      "publishedAt": "2026-11-11T22:30:02.000Z",
+      "addedAt": "2026-11-11T22:30:20.553Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174772.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/c7/d6/b1c7d68b-bcb2-0559-7d32-c72bcf429807/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "d05813c81a23",
       "url": "https://www.headcrash.games/",
