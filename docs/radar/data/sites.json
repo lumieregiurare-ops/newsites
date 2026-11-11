@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T03:00:20.007Z",
+  "updatedAt": "2026-11-11T03:30:22.644Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1321,
+  "total": 1322,
   "regions": {
-    "jp": 1082,
+    "jp": 1083,
     "global": 239
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 189
+      "count": 190
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 416
+      "count": 417
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "App Store",
     "Inside",
     "AppBank",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "57d9dfb24763",
+      "url": "http://www.iodata.jp/",
+      "host": "iodata.jp",
+      "region": "jp",
+      "title": "GCFX",
+      "headline": "IOデータの比較的安価なシリーズ「GCFX」から300Hz表示対応の24.5インチ液晶ディスプレイが発表に",
+      "description": "スマホ・TV・パソコン周辺機器の総合メーカー アイオーデータ（I-O DATA）の公式サイトです。NAS、ハードディスク、液晶、Wi-Fi、ネットワークカメラなどの情報をご覧いただけます。",
+      "publishedAt": "2026-11-11T03:15:01.000Z",
+      "addedAt": "2026-11-11T03:30:22.644Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/278/G027801/20261111011/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "115d6b372c2b",
       "url": "https://apps.apple.com/jp/app/id507096696",
