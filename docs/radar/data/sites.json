@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T16:30:27.491Z",
+  "updatedAt": "2026-11-11T17:00:18.968Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1333,
+  "total": 1334,
   "regions": {
-    "jp": 1092,
+    "jp": 1093,
     "global": 241
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 290
+      "count": 291
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 282
+      "count": 283
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 419
+      "count": 420
     },
     {
       "id": "browser",
@@ -1193,6 +1193,40 @@
       ],
       "points": null,
       "image": "https://janfuda.onrender.com/static/og.jpg"
+    },
+    {
+      "id": "2fa0aa4685a5",
+      "url": "https://tsuribiyori.sato-taku.fish/",
+      "host": "tsuribiyori.sato-taku.fish",
+      "region": "jp",
+      "title": "つりびより -ほのぼの本格釣りゲーム-",
+      "headline": "Takuma Satoh / ロールプレイング・教育 · App Store 新着",
+      "description": "実在の魚250種以上、21の釣法、九匹の主。近くの友達と釣り大会も。ピクセルで描いた、のんびり釣りの旅ゲーム（iPhone・iPad）。",
+      "publishedAt": "2026-11-09T11:18:01.000Z",
+      "addedAt": "2026-11-11T17:00:18.968Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821886776"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング",
+        "教育"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://tsuribiyori.sato-taku.fish/assets/ui/og.jpg"
     },
     {
       "id": "70fdb4f74cc0",
