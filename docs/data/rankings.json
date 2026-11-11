@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:00:20.264Z",
+  "updatedAt": "2026-11-11T16:30:29.268Z",
   "boards": [
     {
       "id": "steam",
@@ -202,27 +202,27 @@
         },
         {
           "rank": 5,
-          "title": "Warline: スナイパー",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
-          "metric": "Powerfantasy",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 6,
           "title": "Cutie Sort - かわいい色分けゲーム",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f7/92/3ff79260-99e6-3b3b-d482-31ad3fe7f811/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/cutie-sort-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%89%B2%E5%88%86%E3%81%91%E3%82%B2%E3%83%BC%E3%83%A0/id6796547048",
           "metric": "Ladaneta Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 6,
+          "title": "Warline: スナイパー",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
+          "metric": "Powerfantasy",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
@@ -241,27 +241,27 @@
         },
         {
           "rank": 8,
-          "title": "ディズニー スパークリンク・スターズ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
-          "metric": "coly, Inc.",
+          "title": "Bus Traffic Fever!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
+          "metric": "GOODROID,Inc.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+3",
+            "value": 3
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 9,
-          "title": "にゃんこ大戦争",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/fd/b7/0ffdb7df-c61c-0254-2f87-38612ce00ca8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E5%A4%A7%E6%88%A6%E4%BA%89/id547145938",
-          "metric": "ponos corporation",
+          "title": "ディズニー スパークリンク・スターズ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/6d/e1/216de1b7-4ee4-54a9-7382-058a17ead4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AF-%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA/id6760274605",
+          "metric": "coly, Inc.",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
