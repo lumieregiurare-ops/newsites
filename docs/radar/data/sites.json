@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T04:30:19.387Z",
+  "updatedAt": "2026-11-11T05:00:17.309Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1323,
+  "total": 1324,
   "regions": {
-    "jp": 1083,
+    "jp": 1084,
     "global": 240
   },
   "categories": [
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 53
+      "count": 54
     },
     {
       "id": "goods",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 156
+      "count": 157
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "28d7805324bc",
+      "url": "https://manichi.net/kageki/",
+      "host": "manichi.net",
+      "region": "jp",
+      "title": "歌劇裁判",
+      "headline": "検事と弁護人が推理を歌でぶつけ合う法廷ADV「歌劇裁判」，Steamストアページを公開。証言の矛盾を突き，集めた言葉で真相の歌詞を作る",
+      "description": "矛盾を暴き、真相の歌詞を推理せよ。証言のウソを見抜き、証拠品で突き崩し、集めた言葉で組み立てた推理を検事に歌い返す、PC（Steam）の法廷ミステリー・推理ゲーム。殺人の罪に問われた人気配信者を、記憶をなくした新米弁護士が弁護する。第1話…",
+      "publishedAt": "2026-11-11T04:56:20.000Z",
+      "addedAt": "2026-11-11T05:00:17.309Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/057/G105733/20261111014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://manichi.net/kageki/og.jpg?v=20261026d"
+    },
     {
       "id": "306490c10b6f",
       "url": "https://aurochdigital.com/warhammer-survivors",
