@@ -685,7 +685,7 @@
       "entry": null
     },
     "セガNET麻雀 MJ": {
-      "at": "2026-11-08T07:00:33.784Z",
+      "at": "2026-11-11T07:00:34.114Z",
       "entry": {
         "trackId": "666206963",
         "title": "セガNET麻雀 MJ",
@@ -699,7 +699,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id666206963",
         "sellerUrl": "http://sega-mj.com/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/97/5d/d9975d44-b24c-0caf-7942-d706b12bd587/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/18/c9/c818c9a1-b602-a543-b107-bbd3bd6f7358/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -3311,7 +3311,7 @@
       }
     },
     "ギャラスト": {
-      "at": "2026-11-08T06:30:38.648Z",
+      "at": "2026-11-11T07:00:35.531Z",
       "entry": {
         "trackId": "6744635653",
         "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
@@ -3321,8 +3321,8 @@
           "カード",
           "ボード"
         ],
-        "releaseDate": "2026-11-02T08:00:00Z",
-        "isPreorder": false,
+        "releaseDate": "2026-11-13T08:00:00Z",
+        "isPreorder": true,
         "storeUrl": "https://apps.apple.com/jp/app/id6744635653",
         "sellerUrl": "https://galast.net/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
@@ -6672,7 +6672,7 @@
     },
     "galast（ギャラスト）-オンライン対戦ボードゲーム": {
       "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "lumimaster（るぅみマスター）": {
@@ -56240,7 +56240,7 @@
       "dateText": "2026年11月2日",
       "date": "2026-11-02",
       "sortKey": "2026-11-02",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-11-02T05:30:27.290Z"
     },
     "king's:theeighttribes": {
@@ -69753,21 +69753,25 @@
       "sortKey": "2026-11-12",
       "prereg": false,
       "firstSeen": "2026-11-11T06:30:28.263Z"
+    },
+    "687daysonmars-firststeps": {
+      "title": "687 Days on Mars - First Steps",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-11T07:00:33.777Z"
+    },
+    "linkloop": {
+      "title": "Link Loop",
+      "dateText": "2026年11月17日",
+      "date": "2026-11-17",
+      "sortKey": "2026-11-17",
+      "prereg": false,
+      "firstSeen": "2026-11-11T07:00:33.777Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソリテアレルムズホラー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000135275",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9c097de5beb20905fc8f69e31db15240ca45a929435ebd93d59789d0e9b2a0dd.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
     {
       "at": "2026-10-14T16:00:37.277Z",
       "type": "new",
@@ -74557,6 +74561,18 @@
       ],
       "from": "2026年11月10日",
       "to": "2026年11月18日"
+    },
+    {
+      "at": "2026-11-11T07:00:33.777Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "GALAST（ギャラスト）- オンライン対戦ボードゲーム",
+      "url": "https://galast.net/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/fa/c3c6fabb-36db-a4a8-f982-4336a90729cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月13日"
     }
   ],
   "initialized": true,

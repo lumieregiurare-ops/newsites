@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:30:15.212Z",
+  "updatedAt": "2026-11-11T07:00:18.620Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -8,8 +8,8 @@
   },
   "total": 1324,
   "regions": {
-    "jp": 1084,
-    "global": 240
+    "jp": 1085,
+    "global": 239
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 475
+      "count": 476
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 281
+      "count": 280
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 418
+      "count": 417
     },
     {
       "id": "browser",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "0ff60bf2d2d4",
+      "url": "https://www.eveonline.com/ja",
+      "host": "eveonline.com",
+      "region": "jp",
+      "title": "EVE Online",
+      "headline": "「EVE Online」，拡張コンテンツ「Fractured Skies」をリリース。「EVE Vanguard」では，いつでもプレイできる有料アルファ版の配信がスタート",
+      "description": "史上最大のスペースゲームEVE Onlineで、自由に遊ぼう。無料のスペースMMOをダウンロードして、オンラインでプレイしよう。",
+      "publishedAt": "2026-11-11T06:29:55.000Z",
+      "addedAt": "2026-11-11T07:00:18.620Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/004/G000412/20261111022/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://images.ctfassets.net/7lhcm73ukv5p/7trTdMVBY3C8mxM0FsxsW1/456d9ed22e4133aeb8857b49d530f114/Web_Meta_Image_JA_1200x630.png"
+    },
     {
       "id": "28d7805324bc",
       "url": "https://manichi.net/kageki/",
@@ -41076,39 +41103,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/72/4f/f2724f6f-e3b3-5590-8eee-39631598ad1a/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "c8d8213ad545",
-      "url": "https://www.rustylake.com/",
-      "host": "rustylake.com",
-      "region": "global",
-      "title": "Servant of the Lake",
-      "headline": "Rusty Lake / アドベンチャー・パズル · App Store 新着",
-      "description": "Are you ready to solve Rusty Lake",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
-      "addedAt": "2026-09-14T06:11:38.156Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/servant-of-the-lake/id6748751735"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "アドベンチャー",
-        "パズル"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     }
   ]
 }
