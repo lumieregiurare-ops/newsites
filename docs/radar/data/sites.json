@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-11T23:30:19.407Z",
+  "updatedAt": "2026-11-11T23:58:08.427Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1336,
+  "total": 1337,
   "regions": {
     "jp": 1094,
-    "global": 242
+    "global": 243
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 60
+      "count": 61
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 481
+      "count": 482
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 113
+      "count": 114
     },
     {
       "id": "media",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 159
+      "count": 160
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "App Store",
@@ -132,6 +132,37 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "81ff07770bf3",
+      "url": "https://www.kedy.games/",
+      "host": "kedy.games",
+      "region": "global",
+      "title": "Pure Skill",
+      "headline": "ヒットボックス拡大、エイムボット、ウォールハックなどの「チート」が使いまくれるFPS『Pure Skill』の体験版がSteamで配信中。敵を倒すたびに入るクレジットで、さらにチ…",
+      "description": "Kedy Games, independent game studio behind Rentlord and Agrivore. Oreloop, Pure Skill, LOOTMOB and Kingcrop coming soon…",
+      "publishedAt": "2026-11-11T23:30:45.000Z",
+      "addedAt": "2026-11-11T23:58:08.427Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261112k"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://kedy.games/og.png"
+    },
     {
       "id": "fdb6b5687044",
       "url": "https://apps.apple.com/jp/app/id6744029320",
