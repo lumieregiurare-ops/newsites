@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-11T15:00:20.114Z",
+  "updatedAt": "2026-11-11T15:30:21.741Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1332,
+  "total": 1333,
   "regions": {
     "jp": 1092,
-    "global": 240
+    "global": 241
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 190
+      "count": 191
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 158
+      "count": 159
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "d05813c81a23",
+      "url": "https://www.headcrash.games/",
+      "host": "headcrash.games",
+      "region": "global",
+      "title": "Lawless - Malta 2050",
+      "headline": "新作オープンワールドクライムACT『Lawless - Malta 2050』Steamストアページ公開―2050年のマルタを舞台に成り上がる",
+      "description": "The sea is dead. The corporations own the islands. You own nothing. Yet. Coming early 2027 to Windows, macOS and Linux.",
+      "publishedAt": "2026-11-11T15:30:03.000Z",
+      "addedAt": "2026-11-11T15:30:21.741Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174767.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://headcrash.games/assets/img/og-lawless.jpg"
+    },
     {
       "id": "199d98fa7310",
       "url": "https://apps.apple.com/jp/app/id6752607219",
@@ -5539,7 +5568,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/77/ab/b077ab2a-9607-ec07-1a3e-44e6c31d7558/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/bc/04/a8bc0434-cef7-2aaa-bcd5-4e6ee41ccb62/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "bfcee5c00b17",
