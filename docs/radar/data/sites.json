@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T11:30:18.450Z",
+  "updatedAt": "2026-11-11T12:00:17.384Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1330,
+  "total": 1331,
   "regions": {
-    "jp": 1089,
+    "jp": 1090,
     "global": 241
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 478
+      "count": 479
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "AppBank",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "4cdd78cbfc6d",
+      "url": "https://ksb0.com/ksbgames/kinoseirpg/",
+      "host": "ksb0.com",
+      "region": "jp",
+      "title": "ネタバレが激しすぎるRPG",
+      "headline": "【無料】『ネタバレが激しすぎるRPG』開発の新作『気のせいすぎるRPG』が本日11月11日より配信開始。訳が分からなくなる気がする",
+      "description": "このＲＰＧ……気のせいすぎるっ……！「恐ろしき魔王が復活した気がするので、そなたたちに倒してほしい気がするのだ。」国王は勇者たちに命じた気がした。勇者ハロルドたちは、確かに魔王を倒した方がいい気がしてきた……「お前は本当に勇者なのか？ そ…",
+      "publishedAt": "2026-11-11T11:42:51.000Z",
+      "addedAt": "2026-11-11T12:00:17.384Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611113r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ksb0.com/wp-content/themes/cocoon-master/screenshot.jpg"
+    },
     {
       "id": "f1b31d67e968",
       "url": "http://www.ncsoft.jp/lineage/",
@@ -572,7 +599,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cache-www.dragonquest.jp/dqrpg/root/20261105/common/images/jp/common/ogp.jpg"
+      "image": "https://cache-www.dragonquest.jp/dqrpg/root/20261111b/common/images/jp/common/ogp.jpg"
     },
     {
       "id": "85dd20cc2b8b",
@@ -605,7 +632,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://cache-www.dragonquest.jp/dqrpg/root/20261105/common/images/jp/common/ogp.jpg"
+      "image": "https://cache-www.dragonquest.jp/dqrpg/cbt/20261105/common/images/jp/ogp.jpg"
     },
     {
       "id": "2d53200a68f4",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:30:35.058Z",
+  "updatedAt": "2026-11-11T12:00:35.500Z",
   "platforms": [
     {
       "id": "switch",
@@ -40,20 +40,34 @@
   ],
   "releases": [
     {
-      "id": "de612d014e1c",
+      "id": "ba5342656211",
       "title": "Wall World Strategy",
       "date": "2026-11-11",
       "dateText": "2026年11月11日",
       "sortKey": "2026-11-11",
       "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4218360/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218360/header.jpg",
+      "platforms": [],
+      "url": "https://alawar.com/games/wall-world-strategy",
+      "image": "",
       "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+      "headline": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/052/G105259/20261023001/"
+    },
+    {
+      "id": "aad0d2bcd4a8",
+      "title": "ネタバレが激しすぎるRPG",
+      "date": "2026-11-11",
+      "dateText": "2026年11月11日",
+      "sortKey": "2026-11-11",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://ksb0.com/ksbgames/kinoseirpg/",
+      "image": "https://ksb0.com/wp-content/themes/cocoon-master/screenshot.jpg",
+      "maker": "",
+      "headline": "【無料】『ネタバレが激しすぎるRPG』開発の新作『気のせいすぎるRPG』が本日11月11日より配信開始。訳が分からなくなる気がする",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2611113r"
     },
     {
       "id": "c03e43053fc7",
@@ -250,21 +264,6 @@
       "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
       "announcedText": "2026年11月",
       "dateSource": "appstore"
-    },
-    {
-      "id": "9c2c1ca58124",
-      "title": "TEMPPAL: OVERGEARED",
-      "date": "2026-11-26",
-      "dateText": "2026年11月26日",
-      "sortKey": "2026-11-26",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://temppal.nexon.com/reservation",
-      "image": "",
-      "maker": "",
-      "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
     }
   ],
   "prereg": [
@@ -443,6 +442,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-11T12:00:35.500Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ネタバレが激しすぎるRPG",
+      "url": "https://ksb0.com/ksbgames/kinoseirpg/",
+      "image": "https://ksb0.com/wp-content/themes/cocoon-master/screenshot.jpg",
+      "platforms": [],
+      "to": "2026年11月11日"
+    },
+    {
       "at": "2026-11-11T11:30:35.058Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -497,20 +506,6 @@
       "url": "https://sakunagames.com/",
       "image": "https://sakunagames.com/assets/images/ogp.jpg?v=2",
       "platforms": [],
-      "to": "2027年3月11日"
-    },
-    {
-      "at": "2026-11-10T15:00:35.987Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "SULFUR",
-      "url": "https://indietechgames.neoscorp.jp/sulfur/index.html",
-      "image": "https://indietechgames.neoscorp.jp/sulfur/images/ogp.jpg",
-      "platforms": [
-        "switch",
-        "ps"
-      ],
-      "from": "2026年10月28日",
       "to": "2027年3月11日"
     }
   ]
