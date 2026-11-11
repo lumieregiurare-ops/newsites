@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T11:00:17.464Z",
+  "updatedAt": "2026-11-11T11:30:18.450Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1329,
+  "total": 1330,
   "regions": {
-    "jp": 1088,
+    "jp": 1089,
     "global": 241
   },
   "categories": [
@@ -20,17 +20,17 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 170
+      "count": 172
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 131
+      "count": 132
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 239
+      "count": 240
     },
     {
       "id": "event",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,38 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f1b31d67e968",
+      "url": "http://www.ncsoft.jp/lineage/",
+      "host": "ncsoft.jp",
+      "region": "jp",
+      "title": "PURPLEコイン",
+      "headline": "エヌシージャパン，創立25周年記念特設サイトを公開。総額100万円分の「PURPLEコイン」が当たる記念生放送を11月20日に配信",
+      "description": "「リネージュ」は、気軽に始められる無料オンラインRPGです。伝統的なファンタジー世界で、新たな出会いと冒険があなたを待っています！",
+      "publishedAt": "2026-11-11T11:12:50.000Z",
+      "addedAt": "2026-11-11T11:30:18.450Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/001/G000189/20261111045/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "周年",
+        "事前登録"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static.ncsoft.jp/renew/l1/ogImg.jpg"
+    },
     {
       "id": "13a60cbddcfe",
       "url": "https://peaky-hikers.com/",
@@ -3376,9 +3408,11 @@
         "ゲーム",
         "iOS",
         "Android",
-        "スマホ"
+        "スマホ",
+        "事前登録"
       ],
       "categories": [
+        "prereg",
         "campaign",
         "event"
       ],
@@ -13164,6 +13198,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/?p=1678436"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/11/190778.html"
         }
       ],
       "tags": [

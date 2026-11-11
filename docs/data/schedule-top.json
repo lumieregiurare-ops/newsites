@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:00:48.849Z",
+  "updatedAt": "2026-11-11T11:30:35.058Z",
   "platforms": [
     {
       "id": "switch",
@@ -269,6 +269,26 @@
   ],
   "prereg": [
     {
+      "id": "f1b31d67e968",
+      "title": "PURPLEコイン",
+      "url": "http://www.ncsoft.jp/lineage/",
+      "image": "https://static.ncsoft.jp/renew/l1/ogImg.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-11T11:12:50.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "エヌシージャパン，創立25周年記念特設サイトを公開。総額100万円分の「PURPLEコイン」が当たる記念生放送を11月20日に配信",
+      "description": "「リネージュ」は、気軽に始められる無料オンラインRPGです。伝統的なファンタジー世界で、新たな出会いと冒険があなたを待っています！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/001/G000189/20261111045/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "196783029ded",
       "title": "ガールズバンドクライ",
       "url": "https://gbc-firstriff.com/magazine/",
@@ -419,34 +439,21 @@
       "verified": false,
       "officialKnown": false,
       "trackId": ""
-    },
-    {
-      "id": "6fce58f3969f",
-      "title": "デジモンカードゲーム",
-      "url": "https://www.digimon-alysion.com/",
-      "image": "https://www.digimon-alysion.com/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-28T04:00:03.000Z",
-      "releaseText": "2026年12月23日",
-      "releaseSource": "appstore",
-      "count": "事前登録者数が20万人",
-      "reward": "",
-      "headline": "「デジモンカードゲーム」をスマホで遊べる「デジモンアリシオン」，事前登録受付を開始。ルールはほぼそのままで，本作限定の新規カードも登場",
-      "description": "デジモンカードゲームNEW PROJECT スマートフォン向けアプリ『デジモンアリシオン』始動！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/893/G089331/20261028008/",
-      "appleId": "6740988190",
-      "trackId": "6740988190",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6740988190",
-        "preorder": true,
-        "releaseDate": "2026-12-23T08:00:00Z"
-      }
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-11T11:30:35.058Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PURPLEコイン",
+      "url": "http://www.ncsoft.jp/lineage/",
+      "image": "https://static.ncsoft.jp/renew/l1/ogImg.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-11T07:30:38.351Z",
       "type": "new",
@@ -504,18 +511,6 @@
         "ps"
       ],
       "from": "2026年10月28日",
-      "to": "2027年3月11日"
-    },
-    {
-      "at": "2026-11-10T15:00:35.987Z",
-      "type": "new",
-      "label": "新規",
-      "title": "HOT WHEELS™ Infinite Rush - F1® Car Collection Pack",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000078755",
-      "image": "https://img-eshop.cdn.nintendo.net/i/48794608add6e216e98d852fd4d533e1e233d6b3fe75c3464810b3f8b775cbd4.jpg",
-      "platforms": [
-        "switch2"
-      ],
       "to": "2027年3月11日"
     }
   ]

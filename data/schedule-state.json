@@ -1668,7 +1668,7 @@
       "entry": null
     },
     "三國志 戦棋版": {
-      "at": "2026-11-08T11:30:27.590Z",
+      "at": "2026-11-11T11:30:36.873Z",
       "entry": {
         "trackId": "6757841977",
         "title": "三國志 戦棋版",
@@ -2294,7 +2294,7 @@
       "entry": null
     },
     "さわる物理": {
-      "at": "2026-11-08T11:30:31.872Z",
+      "at": "2026-11-11T11:30:41.133Z",
       "entry": {
         "trackId": "6799868337",
         "title": "さわる物理 ― 高校物理を実験で覚える",
@@ -2613,7 +2613,7 @@
       "entry": null
     },
     "リトルキティ ビッグシティ": {
-      "at": "2026-11-08T11:30:30.465Z",
+      "at": "2026-11-11T11:30:39.799Z",
       "entry": {
         "trackId": "6760796215",
         "title": "リトルキティ・ビッグシティ",
@@ -3330,7 +3330,7 @@
       }
     },
     "ドラゴンクエストウォーク": {
-      "at": "2026-11-08T11:30:29.035Z",
+      "at": "2026-11-11T11:30:38.355Z",
       "entry": {
         "trackId": "1439417234",
         "title": "ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム",
@@ -3344,7 +3344,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id1439417234",
         "sellerUrl": "https://www.dragonquest.jp/walk/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/5b/18/465b18e9-d89a-f5c4-5ff0-32b42ec682c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/f4/26/64f42668-6922-92e2-1415-3987e6b62ad5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -3657,6 +3657,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/69/16/5a6916fb-9333-89b5-0238-d3621bb63225/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "PURPLEコイン": {
+      "at": "2026-11-11T11:30:35.414Z",
+      "entry": null
     }
   },
   "titles": {
@@ -70041,21 +70045,46 @@
       "sortKey": "2026-11-12",
       "prereg": false,
       "firstSeen": "2026-11-11T11:00:48.849Z"
+    },
+    "777勇者〜時に抗う者〜": {
+      "title": "777勇者 〜時に抗う者〜",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-11T11:30:35.058Z"
+    },
+    "badstudentlove": {
+      "title": "BAD STUDENT LOVE",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-11T11:30:35.058Z"
+    },
+    "deadboot": {
+      "title": "DEADBOOT",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-11T11:30:35.058Z"
+    },
+    "vizier": {
+      "title": "Vizier",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-11T11:30:35.058Z"
+    },
+    "purpleコイン": {
+      "title": "PURPLEコイン",
+      "prereg": true,
+      "firstSeen": "2026-11-11T11:30:35.058Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "メガネ女子のゆるゆるまちがいさがし",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138420",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f74838d31ed300ca4e27d76d8a18d85809194590f4583d070457de490c278f16.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
     {
       "at": "2026-10-14T16:00:37.277Z",
       "type": "new",
@@ -74843,6 +74872,18 @@
       "image": "https://cdn.kdkw.jp/cover_1000/322603/322603000600.webp",
       "platforms": [],
       "to": "2026年11月11日"
+    },
+    {
+      "at": "2026-11-11T11:30:35.058Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PURPLEコイン",
+      "url": "http://www.ncsoft.jp/lineage/",
+      "image": "https://static.ncsoft.jp/renew/l1/ogImg.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
