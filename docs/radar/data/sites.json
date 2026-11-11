@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T12:30:18.269Z",
+  "updatedAt": "2026-11-11T13:00:18.604Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1331,
+  "total": 1332,
   "regions": {
-    "jp": 1090,
+    "jp": 1091,
     "global": 241
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 289
+      "count": 290
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 479
+      "count": 480
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 281
+      "count": 282
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 157
+      "count": 158
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 418
+      "count": 419
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "Game*Spark",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,41 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "199d98fa7310",
+      "url": "https://apps.apple.com/jp/app/id6752607219",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "自分だけのゲ",
+      "headline": "自分だけのゲーム部屋が作れる。Steamライブラリにあるゲームを飾って、手に取って、起動できる部屋作りシムが正式リリース―採れたて！本日のSteam注目ゲーム11選【2026年1…",
+      "description": "Auroch Digital Ltdの「Warhammer Survivors」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Warhammer Survivors」に似たゲームを見…",
+      "publishedAt": "2026-11-11T13:00:03.000Z",
+      "addedAt": "2026-11-11T13:00:18.604Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/11/174761.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/4b/37/b44b37dc-2683-18d7-b257-98bcec07bfa5/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "4cdd78cbfc6d",
       "url": "https://ksb0.com/ksbgames/kinoseirpg/",
