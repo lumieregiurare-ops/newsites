@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:00:33.777Z",
+  "updatedAt": "2026-11-11T07:30:38.351Z",
   "platforms": [
     {
       "id": "switch",
@@ -69,6 +69,21 @@
       "headline": "『フットボールマネージャー27』11月11日に発売決定。地元クラブから世界有数の名門まで、好きなサッカーチームの監督になれる経営シミュレーションゲーム最新作",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261001n"
+    },
+    {
+      "id": "5930eb315a31",
+      "title": "真・女神転生V",
+      "date": "2026-11-11",
+      "dateText": "2026年11月11日",
+      "sortKey": "2026-11-11",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.kadokawa.co.jp/product/322603000600/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322603/322603000600.webp",
+      "maker": "",
+      "headline": "『真・女神転生V』および『V Vengeance』のアートが結集した公式設定画集が本日11月11日発売。初公開情報満載のファン必携アイテム",
+      "source": "電ファミニコゲーマー",
+      "sourceUrl": "https://news.denfaminicogamer.jp/news/2611112q"
     },
     {
       "id": "ca96f92ba2e5",
@@ -250,21 +265,6 @@
       "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
-    },
-    {
-      "id": "e67cb55c9b01",
-      "title": "Hela: ちいさなねずみと魔法の森",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://helagame.com/",
-      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
-      "maker": "",
-      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
     }
   ],
   "prereg": [
@@ -448,6 +448,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-11T07:30:38.351Z",
+      "type": "new",
+      "label": "新規",
+      "title": "真・女神転生V",
+      "url": "https://www.kadokawa.co.jp/product/322603000600/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322603/322603000600.webp",
+      "platforms": [],
+      "to": "2026年11月11日"
+    },
+    {
       "at": "2026-11-11T07:00:33.777Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -507,18 +517,6 @@
         "switch2"
       ],
       "to": "2027年3月11日"
-    },
-    {
-      "at": "2026-11-10T05:00:37.584Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "TEMPPAL: OVERGEARED",
-      "url": "https://temppal.nexon.com/reservation",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }

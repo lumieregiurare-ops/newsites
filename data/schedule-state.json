@@ -704,7 +704,7 @@
       }
     },
     "雨のちハレ女": {
-      "at": "2026-11-08T07:30:32.396Z",
+      "at": "2026-11-11T07:30:41.573Z",
       "entry": {
         "trackId": "6760698900",
         "title": "雨のちハレ女",
@@ -1908,7 +1908,7 @@
       }
     },
     "ホロライブ麻雀": {
-      "at": "2026-11-08T07:30:30.926Z",
+      "at": "2026-11-11T07:30:40.158Z",
       "entry": {
         "trackId": "6762111285",
         "title": "ホロライブ麻雀 -ホロじゃん-",
@@ -3145,7 +3145,7 @@
       }
     },
     "セブンナイツ Re BIRTH": {
-      "at": "2026-11-08T07:30:29.509Z",
+      "at": "2026-11-11T07:30:38.699Z",
       "entry": {
         "trackId": "6479595079",
         "title": "セブンナイツ Re:BIRTH（セナリバ)",
@@ -69769,21 +69769,25 @@
       "sortKey": "2026-11-17",
       "prereg": false,
       "firstSeen": "2026-11-11T07:00:33.777Z"
+    },
+    "stasisprotocoldemo": {
+      "title": "STASIS PROTOCOL Demo",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-11-11T07:30:38.351Z"
+    },
+    "真・女神転生v": {
+      "title": "真・女神転生V",
+      "dateText": "2026年11月11日",
+      "date": "2026-11-11",
+      "sortKey": "2026-11-11",
+      "prereg": false,
+      "firstSeen": "2026-11-11T07:30:38.351Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-14T16:00:37.277Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ベッジーウォーフェアホーンティドハーベスト",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000113729",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e983cb59959040cbc10b72224590c4a57d30fc0b579808af339deb8390006976.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月22日"
-    },
     {
       "at": "2026-10-14T16:00:37.277Z",
       "type": "new",
@@ -74573,6 +74577,16 @@
         "mobile"
       ],
       "to": "2026年11月13日"
+    },
+    {
+      "at": "2026-11-11T07:30:38.351Z",
+      "type": "new",
+      "label": "新規",
+      "title": "真・女神転生V",
+      "url": "https://www.kadokawa.co.jp/product/322603000600/",
+      "image": "https://cdn.kdkw.jp/cover_1000/322603/322603000600.webp",
+      "platforms": [],
+      "to": "2026年11月11日"
     }
   ],
   "initialized": true,

@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-11T07:00:18.620Z",
+  "updatedAt": "2026-11-11T07:30:16.573Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1324,
+  "total": 1327,
   "regions": {
-    "jp": 1085,
-    "global": 239
+    "jp": 1086,
+    "global": 241
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 59
+      "count": 60
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 476
+      "count": 478
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 280
+      "count": 281
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 417
+      "count": 418
     },
     {
       "id": "browser",
@@ -121,17 +121,72 @@
     }
   ],
   "sources": [
-    "4Gamer",
+    "Game*Spark",
     "電ファミニコゲーマー",
+    "4Gamer",
     "App Store",
     "Inside",
     "AppBank",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "7d00115d726f",
+      "url": "https://www.playsignsoflife.com/",
+      "host": "playsignsoflife.com",
+      "region": "global",
+      "title": "Signs of Life",
+      "headline": "約12年の早期アクセスを経てSFサバイバルサンドボックス『Signs of Life』が正式リリース！",
+      "description": "A 2D sci-fi survival game about getting stranded on an alien planet, then figuring out what happened.",
+      "publishedAt": "2026-11-11T07:30:02.000Z",
+      "addedAt": "2026-11-11T07:30:16.573Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/11/174748.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.playsignsoflife.com/assets/social-card.png?v=5a3fded85d79"
+    },
+    {
+      "id": "38fd51b9d1af",
+      "url": "https://www.kadokawa.co.jp/product/322603000600/",
+      "host": "kadokawa.co.jp",
+      "region": "jp",
+      "title": "真・女神転生V",
+      "headline": "『真・女神転生V』および『V Vengeance』のアートが結集した公式設定画集が本日11月11日発売。初公開情報満載のファン必携アイテム",
+      "description": "コミック「真・女神転生V / V Vengeance 公式設定画集」のあらすじ、最新情報をKADOKAWA公式サイトより。『真・女神転生V』と『真・女神転生V Vengeance』の画集が登場",
+      "publishedAt": "2026-11-11T07:27:38.000Z",
+      "addedAt": "2026-11-11T07:30:16.573Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611112q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.kdkw.jp/cover_1000/322603/322603000600.webp"
+    },
     {
       "id": "0ff60bf2d2d4",
       "url": "https://www.eveonline.com/ja",
@@ -5912,7 +5967,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/2e/5cce2e21-3b16-1466-d15b-41b87528bcd1/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/57/9d/aa579d72-f135-fc6f-463e-6ccf41816dfb/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ee3416ca1a71",
@@ -7586,6 +7641,39 @@
       ],
       "points": null,
       "image": "https://app.commseed.net/asset/img/ogp.jpg"
+    },
+    {
+      "id": "bdc16d55fc4c",
+      "url": "https://apps.apple.com/jp/app/id6825610973",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ASTRA TACTICS",
+      "headline": "Seungwoo Lee / ストラテジー・ロールプレイング · App Store 新着",
+      "description": "Seungwoo Leeの「ASTRA TACTICS」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ASTRA TACTICS」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-10-28T07:00:00.000Z",
+      "addedAt": "2026-11-11T07:30:16.573Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6825610973"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/f3/b06ff3da-9f9e-2ef8-9c24-84153c1760cf/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "775eb6f083f0",
@@ -33628,7 +33716,7 @@
       "id": "41738ddbfdbc",
       "url": "https://www.kemuriworld.com/home-jp/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
       "description": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
