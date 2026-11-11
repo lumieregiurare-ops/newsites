@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-11T09:00:19.543Z",
+  "updatedAt": "2026-11-11T09:30:21.164Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1327,
+  "total": 1329,
   "regions": {
-    "jp": 1086,
+    "jp": 1088,
     "global": 241
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 238
+      "count": 239
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 288
+      "count": 289
     },
     {
       "id": "release",
@@ -121,17 +121,71 @@
     }
   ],
   "sources": [
-    "Game*Spark",
+    "Inside",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "4Gamer",
     "App Store",
-    "Inside",
     "AppBank",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "13a60cbddcfe",
+      "url": "https://peaky-hikers.com/",
+      "host": "peaky-hikers.com",
+      "region": "jp",
+      "title": "ぐんま特使",
+      "headline": "VTuber初の「ぐんま特使」に夫婦VTuberユニット「ピーキーハイカーズ」が就任！新米6.3トン完売や伊香保温泉20施設コラボなど地域密着で活動、11月13日に委嘱式を実施",
+      "description": "演劇特化型であり群馬県のご当地VTuberでもあるPeakyHikersの公式ウェブサイトです。",
+      "publishedAt": "2026-11-11T09:30:02.000Z",
+      "addedAt": "2026-11-11T09:30:21.164Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/11/190764.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://peaky-hikers.com/wp-content/uploads/2023/05/ce21f50b3f4d240b9b147fba9c347aea-1-e1685890450115.jpg"
+    },
+    {
+      "id": "82f1702ab8e4",
+      "url": "https://realdgame.jp/s/mahjong/",
+      "host": "realdgame.jp",
+      "region": "jp",
+      "title": "リアル脱出ゲーム",
+      "headline": "“暴走する麻雀AI”から脱出する「リアル脱出ゲーム」が開催決定。麻雀の知識は一切不要",
+      "description": "異色の 麻雀×謎解き エンターテインメント。あらゆる麻雀道具が、謎解きの鍵となる！ 牌を並べて、揃えて、卓上の謎を解き明かせ！",
+      "publishedAt": "2026-11-11T09:00:57.000Z",
+      "addedAt": "2026-11-11T09:30:21.164Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611112v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://realdgame.jp/s/mahjong/assets/img/ogp_img.jpg"
+    },
     {
       "id": "7d00115d726f",
       "url": "https://www.playsignsoflife.com/",
@@ -18246,7 +18300,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/2d/a3/382da3ac-775d-7150-6df6-e5d2dd4aeb9d/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/ac/35/8dac3513-76b8-f0bc-d0b2-4367e3d2c690/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "de25fcb5c2c4",
