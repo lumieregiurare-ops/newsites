@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-11T01:30:19.859Z",
+  "updatedAt": "2026-11-11T02:00:19.731Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1319,
+  "total": 1321,
   "regions": {
-    "jp": 1081,
-    "global": 238
+    "jp": 1082,
+    "global": 239
   },
   "categories": [
     {
@@ -25,27 +25,27 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 130
+      "count": 131
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 237
+      "count": 238
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 287
+      "count": 288
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 473
+      "count": 474
     },
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 27
+      "count": 28
     },
     {
       "id": "browser",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 111
+      "count": 112
     },
     {
       "id": "media",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 155
+      "count": 156
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 414
+      "count": 415
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "App Store",
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "App Store",
     "Inside",
     "AppBank",
     "Game*Spark",
@@ -132,6 +132,71 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "115d6b372c2b",
+      "url": "https://apps.apple.com/jp/app/id507096696",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ウィザードリィ",
+      "headline": "【最大85％オフ】『ウィザードリィ』シリーズ45周年を記念した大型セール開催！『6～8』バンドルが85％オフの「222円」に",
+      "description": "59Studio.の「Wizardry外伝〜戦闘の監獄〜」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Wizardry外伝〜戦闘の監獄〜」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-11T01:48:50.000Z",
+      "addedAt": "2026-11-11T02:00:19.731Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261111q"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/4f/4e/874f4e28-6e21-e273-61bc-4ec499023a64/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.jpg"
+    },
+    {
+      "id": "1514dff2bbad",
+      "url": "https://www.teamjunkfish.com/",
+      "host": "teamjunkfish.com",
+      "region": "global",
+      "title": "Wilderdark",
+      "headline": "異形と化した恐竜たちがはびこる島で，遠征隊の消息を追う。新作サバイバルホラー「Wilderdark」がSteamで発売。11月18日まで20％オフ",
+      "description": "Junkfish are a Scottish BAFTA nominated indie game development studio with a passion for creating unique, innovative an…",
+      "publishedAt": "2026-11-11T01:39:16.000Z",
+      "addedAt": "2026-11-11T02:00:19.731Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/057/G105724/20261111003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "indie",
+        "company"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png/v1/fill/w_434,h_356,al_c/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png"
+    },
     {
       "id": "a27abd806f5a",
       "url": "https://ungodlygame.com/",
@@ -5045,7 +5110,7 @@
       "region": "jp",
       "title": "STELLAR WING",
       "headline": "200のパーツで機体を組み替え！宇宙戦闘機アクション『STELLAR WING』Steamにてリリース。敵母艦・宇宙生物を討伐",
-      "description": "4機編隊で敵母艦の砲塔・シールド発電機・コアを順に破壊する宇宙戦闘機シューター。200のパーツ、12のキャンペーン任務、10種の巨大機械生命体を狙う30の討伐、最大8人のオンライン協力討伐。2026年10月30日発売予定。",
+      "description": "4機編隊で敵母艦の砲塔・シールド発電機・コアを順に破壊する宇宙戦闘機シューター。200のパーツ、12のキャンペーン任務、10種の巨大機械生命体を狙う30の討伐、最大8人のオンライン協力討伐。Steam で発売中。",
       "publishedAt": "2026-10-30T22:30:03.000Z",
       "addedAt": "2026-10-30T22:30:18.603Z",
       "source": "Game*Spark",
@@ -8297,7 +8362,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn.mos.cms.futurecdn.net/F633A98o7F2CABs46JkQkc-1920-80.jpg"
+      "image": "https://cdn.mos.cms.futurecdn.net/9CL3J54XYwDTtoSMTJFfg8-1920-80.jpg"
     },
     {
       "id": "07f6885d2397",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:30:34.145Z",
+  "updatedAt": "2026-11-11T02:00:40.027Z",
   "platforms": [
     {
       "id": "switch",
@@ -167,6 +167,23 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261028s"
     },
     {
+      "id": "467ccb2eb43e",
+      "title": "Wilderdark",
+      "date": "2026-11-18",
+      "dateText": "2026年11月18日",
+      "sortKey": "2026-11-18",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://www.teamjunkfish.com/",
+      "image": "https://static.wixstatic.com/media/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png/v1/fill/w_434,h_356,al_c/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png",
+      "maker": "",
+      "headline": "異形と化した恐竜たちがはびこる島で，遠征隊の消息を追う。新作サバイバルホラー「Wilderdark」がSteamで発売。11月18日まで20％オフ",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/057/G105724/20261111003/"
+    },
+    {
       "id": "9b7ac9a69a75",
       "title": "ミルキィの牛乳屋さん",
       "date": "2026-11-18",
@@ -248,23 +265,6 @@
       "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
-    },
-    {
-      "id": "d4c9f9d72471",
-      "title": "恐応研式 恐怖診断",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
-      "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://hinanlab.com/games/fear-diagnosis/",
-      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg?v=68428c8126",
-      "maker": "",
-      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/052/G105221/20261021037/"
     }
   ],
   "prereg": [
@@ -447,6 +447,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-11T02:00:40.027Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "Wilderdark",
+      "url": "https://www.teamjunkfish.com/",
+      "image": "https://static.wixstatic.com/media/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png/v1/fill/w_434,h_356,al_c/437ee4_927682e82803444ebc49578bc3baaac1~mv2.png",
+      "platforms": [
+        "pc"
+      ],
+      "from": "2026年11月10日",
+      "to": "2026年11月18日"
+    },
+    {
       "at": "2026-11-10T21:00:30.833Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -505,16 +518,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-11-10T05:00:37.584Z",
-      "type": "new",
-      "label": "新規",
-      "title": "TEMPPAL: OVERGEARED",
-      "url": "https://temppal.nexon.com/reservation",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月26日"
     }
   ]
 }
