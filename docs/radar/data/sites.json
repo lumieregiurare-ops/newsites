@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T09:00:19.183Z",
+  "updatedAt": "2026-11-12T09:30:17.690Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1357,
+  "total": 1360,
   "regions": {
-    "jp": 1108,
+    "jp": 1111,
     "global": 249
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 245
+      "count": 246
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 296
+      "count": 297
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 192
+      "count": 193
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 423
+      "count": 424
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
+    "Inside",
     "4Gamer",
     "App Store",
     "AppBank",
@@ -132,6 +132,93 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "742b65b8fd48",
+      "url": "https://experience.co.jp/sale/",
+      "host": "experience.co.jp",
+      "region": "jp",
+      "title": "黄泉ヲ裂ク華",
+      "headline": "エクスペリエンス『黄泉ヲ裂ク華』が1,232円！スイッチ向けDRPG4作が最大80%オフ。『デモンキルデモン』PS版パッケージ予約もスタート",
+      "description": "ダンジョンRPGフェア2026",
+      "publishedAt": "2026-11-12T09:05:02.000Z",
+      "addedAt": "2026-11-12T09:30:17.690Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174796.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261112a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://experience.co.jp/wp-content/themes/understrap-child/img/sale/bg-drpg_sale-lg.jpg"
+    },
+    {
+      "id": "248c3a2df144",
+      "url": "https://event.mecchachameleon.game/",
+      "host": "event.mecchachameleon.game",
+      "region": "jp",
+      "title": "めっちゃカメレオン",
+      "headline": "『めっちゃカメレオン』のリアルイベントが東京・神保町の書泉グランデにて開催決定。棚やサインに“擬態”した約40体のカメレオンを探し出す",
+      "description": "本屋で、本気のかくれんぼ。書泉グランデ（神保町）の本棚にまぎれたカメレオンを、スマホのカメラで探す30分のゲーム。2026年11月20日金曜日から。",
+      "publishedAt": "2026-11-12T09:00:50.000Z",
+      "addedAt": "2026-11-12T09:30:17.690Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611123u"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://event.mecchachameleon.game/og.png"
+    },
+    {
+      "id": "1970837eae74",
+      "url": "https://heartandhurt.asmik-ace.co.jp/",
+      "host": "heartandhurt.asmik-ace.co.jp",
+      "region": "jp",
+      "title": "鍋に弾丸を受けながら",
+      "headline": "アニメ『鍋に弾丸を受けながら』主人公役は内田秀さんと水中雅章さんのWキャストに決定。本人の目に映る“美少女”と現実の“おじさん”を2人で演じ分ける",
+      "description": "アニメ『鍋に弾丸を受けながら』主人公役は内田秀さんと水中雅章さんのWキャストに決定。本人の目に映る“美少女”と現実の“おじさん”を2人で演じ分ける",
+      "publishedAt": "2026-11-12T09:00:50.000Z",
+      "addedAt": "2026-11-12T09:30:17.690Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611123b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "cf236ad2a1d3",
       "url": "https://www.jins.com/jp/collabo/pokepeace/",
@@ -9334,7 +9421,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/f3/28/57f328e1-4541-261a-bb6e-60f0475dccee/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/07/ed/d907eda2-a45c-c033-1a9e-24aa0831c4a8/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "adc0f0b5d710",
