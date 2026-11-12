@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:30:30.972Z",
+  "updatedAt": "2026-11-12T13:00:35.964Z",
   "platforms": [
     {
       "id": "switch",
@@ -268,6 +268,32 @@
   ],
   "prereg": [
     {
+      "id": "5b99f8770663",
+      "title": "ロールコール",
+      "url": "https://apps.apple.com/jp/app/id6792681102",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/1b/9c/051b9c0f-3f92-52c6-f975-94357921c982/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-12T12:35:00.000Z",
+      "releaseText": "2026年12月1日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "学園戦略SRPG『ロールコール』12月1日配信！ 事前登録・予約注文を受付中",
+      "description": "FANTAGの「ロールコール」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ロールコール」に似たゲームを見ることなどができます。",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/11/12/game/3163024.php",
+      "appleId": "6792681102",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6792681102",
+        "preorder": true,
+        "releaseDate": "2026-12-01T08:00:00Z"
+      },
+      "announcedText": "12月1日配信",
+      "trackId": "6792681102"
+    },
+    {
       "id": "f1b31d67e968",
       "title": "PURPLEコイン",
       "url": "http://www.ncsoft.jp/lineage/",
@@ -417,30 +443,21 @@
       "sourceUrl": "https://games.app-liv.jp/archives/592769",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "3112eeac605e",
-      "title": "MHO",
-      "url": "https://game8.jp/preregistration/808921",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-29T01:00:28.241Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "",
-      "description": "",
-      "source": "Game8",
-      "sourceUrl": "https://game8.jp/preregistration/808921",
-      "verified": false,
-      "officialKnown": false,
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-12T13:00:35.964Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ロールコール",
+      "url": "https://apps.apple.com/jp/app/id6792681102",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/1b/9c/051b9c0f-3f92-52c6-f975-94357921c982/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月1日"
+    },
     {
       "at": "2026-11-12T07:30:34.134Z",
       "type": "new",
@@ -495,18 +512,6 @@
         "switch2"
       ],
       "to": "2027年1月28日"
-    },
-    {
-      "at": "2026-11-11T17:00:39.577Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Where the Heart Rests",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000125139",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5a6bc602c49cfc368c0e56bf43d79bc4d191c4fd6e639a67d2fe804d2af99620.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月4日"
     }
   ]
 }
