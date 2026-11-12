@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T08:30:16.441Z",
+  "updatedAt": "2026-11-12T09:00:19.183Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1355,
+  "total": 1357,
   "regions": {
-    "jp": 1106,
+    "jp": 1108,
     "global": 249
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 244
+      "count": 245
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 295
+      "count": 296
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 493
+      "count": 494
     },
     {
       "id": "indie",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 422
+      "count": 423
     },
     {
       "id": "browser",
@@ -132,6 +132,66 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cf236ad2a1d3",
+      "url": "https://www.jins.com/jp/collabo/pokepeace/",
+      "host": "jins.com",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "JINS×「ポケピース」コラボアイウエアが発売決定！ピカチュウ、ポッチャマ、ピチュー＆マホミルなど可愛い『ポケモン』全7種",
+      "description": "JINS×「ポケピース」コラボアイウエアが発売決定！ピカチュウ、ポッチャマ、ピチュー＆マホミルなど可愛い『ポケモン』全7種",
+      "publishedAt": "2026-11-12T09:00:03.000Z",
+      "addedAt": "2026-11-12T09:00:19.183Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190837.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "9b653958606d",
+      "url": "https://www.suzukacircuit.jp/f1/",
+      "host": "suzukacircuit.jp",
+      "region": "jp",
+      "title": "ウマ娘",
+      "headline": "『ウマ娘』が「F1日本グランプリ」初のファウンディングパートナーに就任。鈴鹿サーキット「130R」の命名権も取得し、新名称は“Umamusume 130R”に決定",
+      "description": "【F1日本グランプリ】鈴鹿サーキットで開催される、世界最高峰の自動車レース。選ばれし22人のドライバーが駆け抜ける鈴鹿サーキット。F1日本グランプリは4月11日決勝。",
+      "publishedAt": "2026-11-12T08:44:40.000Z",
+      "addedAt": "2026-11-12T09:00:19.183Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611123g"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.suzukacircuit.jp/f1/common/images/img_fb.jpg"
+    },
     {
       "id": "80ff25b9c4f2",
       "url": "https://fultonjapan.com/pages/puyopuyo35th-alarmclock",
