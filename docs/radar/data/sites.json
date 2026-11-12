@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T02:00:15.680Z",
+  "updatedAt": "2026-11-12T02:30:16.916Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1337,
+  "total": 1338,
   "regions": {
-    "jp": 1094,
+    "jp": 1095,
     "global": 243
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 191
+      "count": 192
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 160
+      "count": 161
     },
     {
       "id": "mobile",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "bce2fcda2cdf",
+      "url": "https://linktr.ee/onionsoupinteractive",
+      "host": "linktr.ee",
+      "region": "jp",
+      "title": "BLIND x FOLD",
+      "headline": "“完全目隠し”で銃を撃ち合う対戦ゲーム『BLIND x FOLD』Steamストアページ公開。音を頼りに1丁の銃と6発の弾丸で相手を倒せ",
+      "description": "“完全目隠し”で銃を撃ち合う対戦ゲーム『BLIND x FOLD』Steamストアページ公開。音を頼りに1丁の銃と6発の弾丸で相手を倒せ",
+      "publishedAt": "2026-11-12T02:05:09.000Z",
+      "addedAt": "2026-11-12T02:30:16.916Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261112s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "81ff07770bf3",
       "url": "https://www.kedy.games/",
