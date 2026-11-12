@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T20:30:17.811Z",
+  "updatedAt": "2026-11-12T21:00:18.951Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1368,
+  "total": 1369,
   "regions": {
-    "jp": 1116,
+    "jp": 1117,
     "global": 252
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 173
+      "count": 174
     },
     {
       "id": "anniversary",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 163
+      "count": 164
     },
     {
       "id": "mobile",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
-    "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "321868af0f2d",
+      "url": "https://cinder-city.com/",
+      "host": "cinder-city.com",
+      "region": "jp",
+      "title": "シンダーシティ（CINDER CITY）",
+      "headline": "オープンワールドで自由に共闘！PvE・TPS『シンダーシティ（CINDER CITY）』日本からも参加可能なアルファテストが12月4日開始―参加者募集中",
+      "description": "CINDER CITY Global Steam Wishlist & Official Discord Now Live",
+      "publishedAt": "2026-11-12T21:00:03.000Z",
+      "addedAt": "2026-11-12T21:00:18.951Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/13/174817.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/marketing-platform/files/19f216388bb-1ff8c728-9b20-47e4-aef2-b3810561cbf3"
+    },
     {
       "id": "f4a43fd9fd98",
       "url": "https://mediumraregames.com/algolemeth/",
@@ -41631,7 +41660,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/94/bd/7e94bde5-c477-ebcb-7970-9d8082a72e9c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f3/ef/3ff3ef7c-e531-51b0-8520-0ce3dea0d825/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ad75bad92792",
