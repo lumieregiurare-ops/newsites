@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T07:30:18.922Z",
+  "updatedAt": "2026-11-12T08:00:20.201Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1353,
+  "total": 1355,
   "regions": {
-    "jp": 1104,
+    "jp": 1106,
     "global": 249
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 136
+      "count": 137
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 491
+      "count": 493
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 284
+      "count": 285
     },
     {
       "id": "official",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "App Store",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "80ff25b9c4f2",
+      "url": "https://fultonjapan.com/pages/puyopuyo35th-alarmclock",
+      "host": "fultonjapan.com",
+      "region": "jp",
+      "title": "ぷよぷよ",
+      "headline": "ばよえ～ん『ぷよぷよ』アルルの“連鎖ボイス”で起こしてくれる「目覚まし時計」が発売決定！ 35周年記念「ムーンフェイズ腕時計」は、限定1,991点",
+      "description": "『ぷよぷよ』35周年記念 だいれんさ CLOCK&TIMERプロジェクト",
+      "publishedAt": "2026-11-12T07:50:02.000Z",
+      "addedAt": "2026-11-12T08:00:20.201Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190832.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://fultonjapan.com/cdn/shop/files/logo500_500_9_f10dd03d-d2d4-491d-b3ea-987d78573390.png?v=1759903819"
+    },
+    {
+      "id": "3b531617513d",
+      "url": "https://tamashiiweb.com/item/16186/",
+      "host": "tamashiiweb.com",
+      "region": "jp",
+      "title": "カービィのエアライダー",
+      "headline": "『カービィのエアライダー』「ドラグーン」の超合金フィギュアが発売決定！3つのパーツに分離できゲーム中の合体シーンも再現可能",
+      "description": "魂ウェブの超合金 カービィ＆ドラグーンのページです。『カービィのエアライダー』より伝説のエアライドマシン「ドラグーン」が超合金で登場！",
+      "publishedAt": "2026-11-12T07:37:40.000Z",
+      "addedAt": "2026-11-12T08:00:20.201Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tamashiiweb.com/storage/images/products/thumbnail/dba7e8c4-87e3-4520-80a7-0c827ba45abd.webp"
+    },
     {
       "id": "8a8c8fe2f5ce",
       "url": "https://www.hj-tongari-trpg.com/",
