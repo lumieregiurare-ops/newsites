@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T11:30:17.319Z",
+  "updatedAt": "2026-11-12T12:00:18.526Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1363,
+  "total": 1364,
   "regions": {
-    "jp": 1113,
+    "jp": 1114,
     "global": 250
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 495
+      "count": 496
     },
     {
       "id": "indie",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "22c2b84c06b6",
+      "url": "https://www.takaratomy.co.jp/products/kirby/",
+      "host": "takaratomy.co.jp",
+      "region": "jp",
+      "title": "星のカービィ",
+      "headline": "『星のカービィ』玩具「星のカービィ クレーンゲーム」 の発売日が変更にーミニお菓子箱やカプセルなどを入れて遊べる",
+      "description": "タカラトミーの「星のカービィ」のおもちゃがたくさん！",
+      "publishedAt": "2026-11-12T11:45:02.000Z",
+      "addedAt": "2026-11-12T12:00:18.526Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190851.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.takaratomy.co.jp/products/kirby/img/ogp01.webp"
+    },
     {
       "id": "07d15dda6b7f",
       "url": "https://apps.apple.com/jp/app/id1242186587",
@@ -5060,7 +5087,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/92/bc/b092bcad-7aed-0b61-2cb3-7443206dc156/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/00/43/41004394-b0e5-9fef-1217-278ed586f6cc/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "daaae4b219cc",
@@ -31605,7 +31632,7 @@
       "region": "global",
       "title": "Kingdom Rush 6: Genesis TD",
       "headline": "Ironhide S.A. / ストラテジー・エンターテインメント · App Store 新着",
-      "description": "Defend the past to change the future.",
+      "description": "Kingdom Rush 6: Genesis is a singleplayer, offline medieval fantasy tower defense strategy game. Play on iOS, Android a…",
       "publishedAt": "2026-09-23T19:31:06.129Z",
       "addedAt": "2026-09-23T19:30:56.565Z",
       "source": "App Store",
