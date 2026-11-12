@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-12T05:30:16.361Z",
+  "updatedAt": "2026-11-12T06:00:17.706Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1347,
+  "total": 1348,
   "regions": {
     "jp": 1100,
-    "global": 247
+    "global": 248
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 135
+      "count": 136
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 242
+      "count": 243
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 292
+      "count": 293
     },
     {
       "id": "release",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fe16a48cc356",
+      "url": "https://limbuscompany.jp/",
+      "host": "limbuscompany.jp",
+      "region": "jp",
+      "title": "WePlay 2026",
+      "headline": "今年で10周年の節目を迎える中国・上海のゲームイベント「WePlay 2026」。来週末の開催に向けて追加情報が公開された",
+      "description": "今年で10周年の節目を迎える中国・上海のゲームイベント「WePlay 2026」。来週末の開催に向けて追加情報が公開された",
+      "publishedAt": "2026-11-12T05:32:58.000Z",
+      "addedAt": "2026-11-12T06:00:17.706Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/606/G060611/20261112014/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "eee8d7b6af85",
       "url": "https://www.crocs.co.jp/c/collections/pokemon",
@@ -28815,9 +28844,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
+        "campaign",
         "release"
       ],
       "platforms": [],
@@ -32103,7 +32134,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/ed/a9/b3eda9e5-4603-88a7-70e3-c3baf06eb9d3/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/de/22/01de221a-05ef-cb0b-bea4-f3d0750736b3/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "334cbc29db18",
@@ -36734,7 +36765,7 @@
       "id": "90a0d099f168",
       "url": "https://www.kemuriworld.com/",
       "host": "kemuriworld.com",
-      "region": "jp",
+      "region": "global",
       "title": "KEMURI",
       "headline": "【最大3人】妖怪ハンターとなるパルクールアクションゲーム『KEMURI』の新映像が公開。カオスな街を縦横無尽に疾走するパルクールと、妖怪と戦うド派手なアクションが映される",
       "description": "KEMURI summons you into a realm where the unpredictable meets the extraordinary in an urban jungle where mysterious cre…",
