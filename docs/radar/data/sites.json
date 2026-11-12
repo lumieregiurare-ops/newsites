@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-12T03:30:16.504Z",
+  "updatedAt": "2026-11-12T04:00:16.067Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1343,
+  "total": 1346,
   "regions": {
-    "jp": 1097,
-    "global": 246
+    "jp": 1099,
+    "global": 247
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 62
+      "count": 63
     },
     {
       "id": "prereg",
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 133
+      "count": 134
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 241
+      "count": 242
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 291
+      "count": 292
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Game*Spark",
     "Inside",
     "App Store",
     "AppBank",
@@ -132,6 +132,89 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "9ccf7183da19",
+      "url": "https://www.weplaymore.com/japanese",
+      "host": "weplaymore.com",
+      "region": "global",
+      "title": "Slay the Spire",
+      "headline": "『Slay the Spire』やProject Moonの開発者が来場する「WePlay Expo 2026」会場コンテンツ追加発表。『Rusty Lake』『DbD』開発者も",
+      "description": "『Slay the Spire』やProject Moonの開発者が来場する「WePlay Expo 2026」会場コンテンツ追加発表。『Rusty Lake』『DbD』開発者も",
+      "publishedAt": "2026-11-12T04:00:03.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174784.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "acff7dcc02ea",
+      "url": "https://jp.finalfantasy.com/40th/",
+      "host": "jp.finalfantasy.com",
+      "region": "jp",
+      "title": "FF40周年記念展",
+      "headline": "「セフィロス」が“見返り美人”に！？『FF40周年記念展』が重要文化財とコラボ発表",
+      "description": "2027年に誕生40周年を迎える『ファイナルファンタジー』シリーズ。40周年の最新情報はこちらの特設ページでチェックしよう！",
+      "publishedAt": "2026-11-12T03:40:48.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122i"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://jp.finalfantasy.com/40th/common/OGP-ja.jpg"
+    },
+    {
+      "id": "d835a47b62b2",
+      "url": "https://sakuna-game.com/kokorowa/",
+      "host": "sakuna-game.com",
+      "region": "jp",
+      "title": "天穂のサクナヒメ",
+      "headline": "『天穂のサクナヒメ』の家庭用向けゲーム最新作『サクナヒメ外伝 ココロワと想世の歯車』新映像が公開！サクナヒメの活躍後の世界を舞台に、発明神ココロワヒメと心をもつ機巧「竹雛」との物…",
+      "description": "「天穂のサクナヒメ」シリーズ・コンシューマ向けゲーム最新作『サクナヒメ外伝 ココロワと想世の歯車』の公式ティザーサイト",
+      "publishedAt": "2026-11-12T03:18:47.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sakuna-game.com/kokorowa/share/images/ogp2.jpg"
+    },
     {
       "id": "38d850293ba3",
       "url": "https://science.nasa.gov/mission/voyager/voyager-1/",
@@ -40708,7 +40791,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/15/dc/c315dc9d-9980-95d5-e345-fa0cbab6a1f4/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/29/fc/bd29fc61-731b-7fac-2586-298aa25317bf/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "7ce0f28da9f3",

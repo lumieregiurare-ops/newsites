@@ -1,6 +1,133 @@
 {
   "items": [
     {
+      "id": "9ccf7183da19",
+      "url": "https://www.weplaymore.com/japanese",
+      "host": "weplaymore.com",
+      "region": "global",
+      "title": "Slay the Spire",
+      "headline": "『Slay the Spire』やProject Moonの開発者が来場する「WePlay Expo 2026」会場コンテンツ追加発表。『Rusty Lake』『DbD』開発者も",
+      "description": "『Slay the Spire』やProject Moonの開発者が来場する「WePlay Expo 2026」会場コンテンツ追加発表。『Rusty Lake』『DbD』開発者も",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-12T04:00:03.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "Game*Spark",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174784.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "event"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
+      "id": "acff7dcc02ea",
+      "url": "https://jp.finalfantasy.com/40th/",
+      "host": "jp.finalfantasy.com",
+      "region": "jp",
+      "title": "FF40周年記念展",
+      "headline": "「セフィロス」が“見返り美人”に！？『FF40周年記念展』が重要文化財とコラボ発表",
+      "description": "2027年に誕生40周年を迎える『ファイナルファンタジー』シリーズ。40周年の最新情報はこちらの特設ページでチェックしよう！",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-12T03:40:48.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122i"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "phCategories": [],
+      "categories": [
+        "anniversary",
+        "campaign"
+      ],
+      "points": null,
+      "image": "https://jp.finalfantasy.com/40th/common/OGP-ja.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
+      "id": "d835a47b62b2",
+      "url": "https://sakuna-game.com/kokorowa/",
+      "host": "sakuna-game.com",
+      "region": "jp",
+      "title": "天穂のサクナヒメ",
+      "headline": "『天穂のサクナヒメ』の家庭用向けゲーム最新作『サクナヒメ外伝 ココロワと想世の歯車』新映像が公開！サクナヒメの活躍後の世界を舞台に、発明神ココロワヒメと心をもつ機巧「竹雛」との物語が描かれる",
+      "description": "「天穂のサクナヒメ」シリーズ・コンシューマ向けゲーム最新作『サクナヒメ外伝 ココロワと想世の歯車』の公式ティザーサイト",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-12T03:18:47.000Z",
+      "addedAt": "2026-11-12T04:00:16.067Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "teaser"
+      ],
+      "points": null,
+      "image": "https://sakuna-game.com/kokorowa/share/images/ogp2.jpg",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "38d850293ba3",
       "url": "https://science.nasa.gov/mission/voyager/voyager-1/",
       "host": "science.nasa.gov",
@@ -876,8 +1003,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -1635,8 +1762,8 @@
       "points": null,
       "image": "https://www.medarotsha.jp/classics_plus/images/og-image.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -2508,8 +2635,8 @@
       "points": null,
       "image": "https://cache-www.dragonquest.jp/img/common/ogp2019.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2553,8 +2680,8 @@
       "image": "https://escape.id/platform0/images/ogp_pf0.jpg",
       "metaAttempts": 1,
       "linkUrl": "https://escape.id/platform0#test",
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2596,8 +2723,8 @@
       "points": null,
       "image": "",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": []
@@ -2640,8 +2767,8 @@
       "points": null,
       "image": "https://play-lh.googleusercontent.com/t5c4IRgOZpDBkZEmlvfZA316Ir-GGJwvK2lyH_EDmt45afctOzEhhtqehSSVcqrfK6w4UA4iwuODi01tCrYAcQ=s0-br30",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -3404,8 +3531,8 @@
       "points": null,
       "image": "https://static.wixstatic.com/media/a0fa23_d219e2c3b2ab4e1aa08675cfe0078b51%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a0fa23_d219e2c3b2ab4e1aa08675cfe0078b51%7Emv2.png",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "regionDetected": true,
       "platforms": [
         "mobile"
@@ -5226,8 +5353,8 @@
       "points": null,
       "image": "https://odencat.com/bakemono/img/Websiteogpja.jpg",
       "metaAttempts": 1,
-      "checkedAt": "2026-11-11T03:30:22.644Z",
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "checkedAt": "2026-11-12T04:00:16.067Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
@@ -59574,13 +59701,13 @@
       "points": null,
       "image": "https://cdn-os.qookkagames.com/xfu/qookka/4qprc0sbgb/m2g/home.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
       ],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "61335cbc7611",
@@ -59618,11 +59745,11 @@
       "points": null,
       "image": "https://cms-res.jx.ruyi.cn/2026-09-07/image/1788778794596-20260907185941.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "ceed964bd919",
@@ -59669,16 +59796,16 @@
         "goods"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/15/dc/c315dc9d-9980-95d5-e345-fa0cbab6a1f4/Placeholder.mill/1200x630wa.jpg",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/29/fc/bd29fc61-731b-7fac-2586-298aa25317bf/Placeholder.mill/1200x630wa.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile",
         "arcade"
       ],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "7ce0f28da9f3",
@@ -59725,14 +59852,14 @@
       "points": null,
       "image": "https://www.mintrock.et/img/logo_img.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
       ],
       "linkUrl": "https://www.mintrock.et/jp/game/game.php#dave",
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "aaf9ee10dcfe",
@@ -59777,14 +59904,14 @@
       "points": null,
       "image": "https://mkadvertising7e8d0ade760.wpcomstaging.com/wp-content/uploads/2026/06/og_jp.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "pc",
         "mobile"
       ],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "65fa39dfd82c",
@@ -59823,10 +59950,10 @@
       "points": null,
       "image": "https://www.konami.com/games/silenthill/f/s/img/share_img_en.jpg?=v2",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "regionDetected": true,
       "platforms": [],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "a75ba51741ab",
@@ -59925,13 +60052,13 @@
       "points": null,
       "image": "https://nikke-jp.com/pc/ossweb-img/og_image.jpg",
       "metaAttempts": 1,
-      "ogFetchedAt": "2026-11-11T03:30:22.644Z",
+      "ogFetchedAt": "2026-11-12T04:00:16.067Z",
       "ogDescription": true,
       "regionDetected": true,
       "platforms": [
         "mobile"
       ],
-      "checkedAt": "2026-11-11T03:30:22.644Z"
+      "checkedAt": "2026-11-12T04:00:16.067Z"
     },
     {
       "id": "3349762a076e",
