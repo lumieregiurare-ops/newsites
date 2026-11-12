@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:30:34.176Z",
+  "updatedAt": "2026-11-12T07:00:13.631Z",
   "platforms": [
     {
       "id": "switch",
@@ -221,6 +221,21 @@
       "dateSource": "appstore"
     },
     {
+      "id": "ae4f1d697479",
+      "title": "ポケモン東京ばな奈",
+      "date": "2026-11-21",
+      "dateText": "2026年11月21日",
+      "sortKey": "2026-11-21",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.tokyobanana.jp/products/banana_pokemon.html",
+      "image": "https://www.tokyobanana.jp/assets/img/banana_pokemon/og.jpg",
+      "maker": "",
+      "headline": "「ポケモン東京ばな奈」新作トートバッグセットが11月21日発売！ピカチュウ＆イーブイを大胆デザイン、付箋プレゼントキャンペーンも実施",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/12/190826.html"
+    },
+    {
       "id": "9c2c1ca58124",
       "title": "TEMPPAL: OVERGEARED",
       "date": "2026-11-26",
@@ -249,23 +264,6 @@
       "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
-    },
-    {
-      "id": "d4c9f9d72471",
-      "title": "恐応研式 恐怖診断",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
-      "priority": 0,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://hinanlab.com/games/fear-diagnosis/",
-      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg?v=68428c8126",
-      "maker": "",
-      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/052/G105221/20261021037/"
     }
   ],
   "prereg": [
@@ -444,6 +442,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-12T07:00:13.631Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ポケモン東京ばな奈",
+      "url": "https://www.tokyobanana.jp/products/banana_pokemon.html",
+      "image": "https://www.tokyobanana.jp/assets/img/banana_pokemon/og.jpg",
+      "platforms": [],
+      "to": "2026年11月21日"
+    },
+    {
       "at": "2026-11-12T03:30:33.495Z",
       "type": "new",
       "label": "新規",
@@ -503,18 +511,6 @@
         "switch"
       ],
       "to": "2026年11月26日"
-    },
-    {
-      "at": "2026-11-11T17:00:39.577Z",
-      "type": "new",
-      "label": "新規",
-      "title": "プールサイドで始まる 水着美女と真夏の間違い探し",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140274",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b5a0e008721c0fb909d880510cd4a141b1056c192c8be25587142a0224230bd2.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月19日"
     }
   ]
 }

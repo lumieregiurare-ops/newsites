@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T06:30:16.782Z",
+  "updatedAt": "2026-11-12T06:59:58.211Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1350,
+  "total": 1351,
   "regions": {
-    "jp": 1102,
+    "jp": 1103,
     "global": 248
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 243
+      "count": 244
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 488
+      "count": 489
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "Inside",
+    "Game*Spark",
     "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "cdcc4bd87342",
+      "url": "https://www.tokyobanana.jp/products/banana_pokemon.html",
+      "host": "tokyobanana.jp",
+      "region": "jp",
+      "title": "ポケモン東京ばな奈",
+      "headline": "「ポケモン東京ばな奈」新作トートバッグセットが11月21日発売！ピカチュウ＆イーブイを大胆デザイン、付箋プレゼントキャンペーンも実施",
+      "description": "ポケモンたちが東京ばな奈になった!?可愛い「ポケモン東京ばな奈」が誕⽣。",
+      "publishedAt": "2026-11-12T06:45:02.000Z",
+      "addedAt": "2026-11-12T06:59:58.211Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190826.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.tokyobanana.jp/assets/img/banana_pokemon/og.jpg"
+    },
     {
       "id": "09a0b2c75320",
       "url": "https://www.voidmaw.com/othercrown",
