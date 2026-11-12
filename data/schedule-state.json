@@ -1495,7 +1495,7 @@
       "entry": null
     },
     "ブラウンダスト2": {
-      "at": "2026-11-09T03:00:37.740Z",
+      "at": "2026-11-12T03:30:33.797Z",
       "entry": {
         "trackId": "1299021478",
         "title": "ブラウンダスト",
@@ -71778,19 +71778,33 @@
       "sortKey": "2026-11-17",
       "prereg": false,
       "firstSeen": "2026-11-12T03:00:36.618Z"
+    },
+    "epicballssmashing": {
+      "title": "Epic Balls Smashing",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-12T03:30:33.495Z"
+    },
+    "idleofthedead—scavenger'sbackpack": {
+      "title": "Idle of the Dead — Scavenger's Backpack",
+      "dateText": "2026年11月12日",
+      "date": "2026-11-12",
+      "sortKey": "2026-11-12",
+      "prereg": false,
+      "firstSeen": "2026-11-12T03:30:33.495Z"
+    },
+    "なら☆こい〜古代人なれど恋したひ〜": {
+      "title": "なら☆こい 〜古代人なれど恋したひ〜",
+      "dateText": "2026年12月17日",
+      "date": "2026-12-17",
+      "sortKey": "2026-12-17",
+      "prereg": false,
+      "firstSeen": "2026-11-12T03:30:33.495Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-16T03:30:31.373Z",
-      "type": "new",
-      "label": "新規",
-      "title": "4DEAD",
-      "url": "https://creatorslab.kodansha.co.jp/products/3802/",
-      "image": "https://creatorslab.kodansha.co.jp/wp-content/uploads/2025/09/4DEADKV.png",
-      "platforms": [],
-      "to": "2027年1月"
-    },
     {
       "at": "2026-10-16T05:00:37.680Z",
       "type": "new",
@@ -76585,6 +76599,19 @@
         "switch2"
       ],
       "to": "2027年1月28日"
+    },
+    {
+      "at": "2026-11-12T03:30:33.495Z",
+      "type": "new",
+      "label": "新規",
+      "title": "なら☆こい 〜古代人なれど恋したひ〜",
+      "url": "https://nara-koi.cyberstep.com/",
+      "image": "https://nara-koi.cyberstep.com/ogimage/twitterCard261112.jpg",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年12月17日"
     }
   ],
   "initialized": true,
