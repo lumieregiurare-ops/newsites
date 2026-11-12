@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T04:00:16.067Z",
+  "updatedAt": "2026-11-12T04:30:16.513Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1346,
+  "total": 1347,
   "regions": {
-    "jp": 1099,
+    "jp": 1100,
     "global": 247
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 134
+      "count": 135
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 487
+      "count": 488
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "Game*Spark",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "eee8d7b6af85",
+      "url": "https://www.crocs.co.jp/c/collections/pokemon",
+      "host": "crocs.co.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "クロックス×『ポケモン』30周年コレクション第2弾が11月17日発売！ピカチュウ、ゲンガー、プリンの個性を表現した全4アイテム",
+      "description": "クロックス×『ポケモン』30周年コレクション第2弾が11月17日発売！ピカチュウ、ゲンガー、プリンの個性を表現した全4アイテム",
+      "publishedAt": "2026-11-12T04:15:02.000Z",
+      "addedAt": "2026-11-12T04:30:16.513Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190813.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "9ccf7183da19",
       "url": "https://www.weplaymore.com/japanese",
