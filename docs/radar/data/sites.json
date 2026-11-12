@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T17:00:26.421Z",
+  "updatedAt": "2026-11-12T17:30:18.601Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1367,
+  "total": 1368,
   "regions": {
-    "jp": 1115,
+    "jp": 1116,
     "global": 252
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 498
+      "count": 499
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 55
+      "count": 56
     },
     {
       "id": "goods",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 162
+      "count": 163
     },
     {
       "id": "mobile",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f4a43fd9fd98",
+      "url": "https://mediumraregames.com/algolemeth/",
+      "host": "mediumraregames.com",
+      "region": "jp",
+      "title": "Algolemeth",
+      "headline": "行動をプログラムしたゴーレムでダンジョンを攻略するRPG「Algolemeth」，発売日が2027年1月26日に決定。戦闘も探索も全自動",
+      "description": "ゴーレムの行動をビジュアルプログラミングで制御し、全自動でダンジョンを攻略するRPG。Steam体験版配信中！",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "addedAt": "2026-11-12T17:30:18.601Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/724/G072455/20261112028/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://mediumraregames.com/assets/img/algolemeth-keyart-logo.png"
+    },
     {
       "id": "71dd83be17ff",
       "url": "https://elderscrolls.bethesda.net/",
@@ -13708,7 +13738,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ce/91/f4ce9104-08ac-1030-6ca4-70076e1133f1/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/11/20/a51120f8-36e7-d84b-82b7-cf31e859af4d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "c1fa2b0edf28",
@@ -16700,7 +16730,7 @@
       "region": "jp",
       "title": "さわる物理",
       "headline": "月が落ちてくる世界を物理で修理！ 高校物理ゲーム『さわる物理』がiOS／Android向けに10月13日配信開始",
-      "description": "公式の値を指でいじると動きが変わる。高校物理の全公式を実験で確かめ、入試80問を解いて採点する学習アプリ。",
+      "description": "公式を指でいじると動きが変わる。物語で法則を発見し、壊れた世界を物理で直す。高校物理の全113単元を遊んで身につける学習アプリ。",
       "publishedAt": "2026-10-15T08:45:00.000Z",
       "addedAt": "2026-10-15T09:00:15.376Z",
       "source": "AppBank",

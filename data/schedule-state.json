@@ -73160,21 +73160,25 @@
       "sortKey": "2026-11-18",
       "prereg": false,
       "firstSeen": "2026-11-12T17:00:43.489Z"
+    },
+    "thefriendlymonster": {
+      "title": "The Friendly Monster",
+      "dateText": "2026年11月13日",
+      "date": "2026-11-13",
+      "sortKey": "2026-11-13",
+      "prereg": false,
+      "firstSeen": "2026-11-12T17:30:35.685Z"
+    },
+    "algolemeth": {
+      "title": "Algolemeth",
+      "dateText": "2027年1月26日",
+      "date": "2027-01-26",
+      "sortKey": "2027-01-26",
+      "prereg": false,
+      "firstSeen": "2026-11-12T17:30:35.685Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-16T10:00:39.194Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "冒険宿 なめこ亭",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.beeworks.nameko.tei",
-      "image": "https://play-lh.googleusercontent.com/4TwuxFt37IzaUwL-InmDmfk3dyzlHldRm05h7IJwANdtSEnXxMh4HIcKeG7CfVViMhpHl8-gVLV5mSfAVNz2=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-16T11:00:32.094Z",
       "type": "prereg_start",
@@ -77967,6 +77971,18 @@
       "platforms": [],
       "from": "2026年11月12日",
       "to": "2026年11月17日"
+    },
+    {
+      "at": "2026-11-12T17:30:35.685Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Algolemeth",
+      "url": "https://mediumraregames.com/algolemeth/",
+      "image": "https://mediumraregames.com/assets/img/algolemeth-keyart-logo.png",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年1月26日"
     }
   ],
   "initialized": true,
