@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T11:00:17.610Z",
+  "updatedAt": "2026-11-12T11:30:17.319Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1362,
+  "total": 1363,
   "regions": {
-    "jp": 1112,
+    "jp": 1113,
     "global": 250
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 246
+      "count": 247
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 297
+      "count": 298
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 115
+      "count": 116
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 425
+      "count": 426
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "Inside",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "07d15dda6b7f",
+      "url": "https://apps.apple.com/jp/app/id1242186587",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "アズレン",
+      "headline": "『アズレン』×「2.5次元の誘惑」コラボがスタート！イベント報酬で「リリサ」「美花莉」が加入、チェシャー＆オイゲンのコスプレ着せ替えも",
+      "description": "Yostar, Inc.の「アズールレーン」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「アズールレーン」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-12T11:30:02.000Z",
+      "addedAt": "2026-11-12T11:30:17.319Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190850.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/61/98/df61986f-4864-2ed0-1ea0-9e0eea4654ff/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "abf7c1539c3a",
       "url": "https://playism.com/game/million-depth/",
@@ -12902,7 +12936,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQc8Hvme-Joh13J4ypyZXmd6hkw7EmeT6-AsqEgah33QGWBu0E4i7cNUFHEJh4cMRjvV3gbPcR-4QrfRvtNaKX_GhInBGzarQhe7_SjT1AoAjP0a7WZThexx5O_nVFTdjiDcBwkmdLlmKeAch6xptwsJ_NcTiOuElhotMnqmy2ijEIRqELLjfX9YoiIYDCA=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeqYtuuRxzPEOv6kh2O4aZgsq37PNXq4OnvARQlqmjN5rczcH-6f2vVDRB3QAwVWKuZecLoC_5I-VktWEvrY2wmGmXqyAR_eAVEhPl5xME1vJxX29oaWylMP_Jovo6bAG0e47eQ4l8GfaC8rTbU1yBin_u8qtLYlyM2tja4UOoB3Z0B8LcWDN-YQpJX5zY=w16383"
     },
     {
       "id": "41b1b683c8f0",
@@ -12960,7 +12994,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1794100061062"
+      "image": "https://cerebralvalley.ai/api/e/og/built-with-claude-japan2026?v=1794400365446"
     },
     {
       "id": "1a653bf2bf0a",
