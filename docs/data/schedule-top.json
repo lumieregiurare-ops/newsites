@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:30:37.221Z",
+  "updatedAt": "2026-11-12T15:00:29.808Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,21 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "ca96f92ba2e5",
-      "title": "ポケモン",
-      "date": "2026-11-12",
-      "dateText": "2026年11月12日",
-      "sortKey": "2026-11-12",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.pokemon.co.jp/ex/omaroke/",
-      "image": "https://www.pokemon.co.jp/ex/omaroke/assets/og/og.jpg",
-      "maker": "",
-      "headline": "『ポケモン』新作ボドゲ「お前、もしかしてロケット団？」11月12日に発売決定！TVCMには「アニポケ」のロケット団でおなじみ林原めぐみさん、三木眞一郎さん、犬山イヌコさんが声で出演",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/2610152g"
-    },
     {
       "id": "ddc529331795",
       "title": "Hot Meals Fast Wheels",
@@ -264,6 +249,21 @@
       "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
+    },
+    {
+      "id": "e67cb55c9b01",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://helagame.com/",
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "maker": "",
+      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
     }
   ],
   "prereg": [
@@ -447,6 +447,17 @@
   ],
   "changes": [
     {
+      "at": "2026-11-12T15:00:29.808Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ポケモン",
+      "url": "https://www.crocs.co.jp/c/collections/pokemon",
+      "image": "",
+      "platforms": [],
+      "from": "2026年11月12日",
+      "to": "2026年11月17日"
+    },
+    {
       "at": "2026-11-12T13:00:35.964Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -500,18 +511,6 @@
         "pc"
       ],
       "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-11-11T17:00:39.577Z",
-      "type": "new",
-      "label": "新規",
-      "title": "グリム・ガーディアンズ サーヴァント・オブ・ザ・ダーク",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a43cfdbcb6d6c2aaf8321dfe9f4732432edf81e4cd736606dbaae9cb18324882.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027年1月28日"
     }
   ]
 }
