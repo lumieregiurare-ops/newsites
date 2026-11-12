@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-12T14:00:19.972Z",
+  "updatedAt": "2026-11-12T14:30:20.760Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1365,
+  "total": 1367,
   "regions": {
-    "jp": 1115,
-    "global": 250
+    "jp": 1116,
+    "global": 251
   },
   "categories": [
     {
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 136
+      "count": 137
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 247
+      "count": 248
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 497
+      "count": 498
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 54
+      "count": 55
     },
     {
       "id": "goods",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "AppBank",
     "Inside",
+    "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,63 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "71dd83be17ff",
+      "url": "https://elderscrolls.bethesda.net/",
+      "host": "elderscrolls.bethesda.net",
+      "region": "global",
+      "title": "The Elder Scrolls V: Skyrim",
+      "headline": "「The Elder Scrolls V: Skyrim」，認定クリエイターの5作品を収録した15周年記念のMODバンドル「Anniversary Creation Bundle…",
+      "description": "The official site for the award-winning RPG series - The Elder Scrolls.",
+      "publishedAt": "2026-11-12T14:19:40.000Z",
+      "addedAt": "2026-11-12T14:30:20.760Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/590/G059016/20261112058/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "656daa900d5e",
+      "url": "https://www.pokemon.co.jp/info/2026/11/261112_gm01.html",
+      "host": "pokemon.co.jp",
+      "region": "jp",
+      "title": "ポケモンZA",
+      "headline": "『ポケモンZA』色違いのゼルネアスをもらえる「あいことば」が公開！12月10日には第2弾として「色違いのイベルタル」もプレゼント",
+      "description": "対象の期間中、『Pokémon LEGENDS Z-A』と『ぽこ あ ポケモン』のゲーム内であいことばを入力すると、「ふしぎなおくりもの」をプレゼント！『Pokémon LEGENDS Z-A』では色違いのゼルネアス・イベルタルが、『ぽこ…",
+      "publishedAt": "2026-11-12T14:18:35.000Z",
+      "addedAt": "2026-11-12T14:30:20.760Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190852.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.pokemon.co.jp/PostImages/76c2f4c55fc41193ed4d641d7c7b5c6d5e2281be.jpg"
+    },
     {
       "id": "fb207041c4bb",
       "url": "https://www.nyanko-tcg.com/",
@@ -2380,7 +2437,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/95/18/139518ad-46a2-d862-46cb-bf1e6277a25a/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f5/5b/3ff55b51-486e-8884-94ae-6ba8c983fdef/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "d6908755f776",
@@ -3284,7 +3341,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/d6/0e/1dd60ed3-9756-c984-823b-c0bfd1d27d73/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/00/01/7700010d-7372-e7db-714a-20174339829c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "276bfa8236d0",
