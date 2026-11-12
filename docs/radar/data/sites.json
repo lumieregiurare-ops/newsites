@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T06:00:17.706Z",
+  "updatedAt": "2026-11-12T06:30:16.782Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1348,
+  "total": 1350,
   "regions": {
-    "jp": 1100,
+    "jp": 1102,
     "global": 248
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 293
+      "count": 294
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 114
+      "count": 115
     },
     {
       "id": "media",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "Inside",
     "Game*Spark",
+    "Inside",
+    "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
     "AppBank",
@@ -132,6 +132,60 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "09a0b2c75320",
+      "url": "https://www.voidmaw.com/othercrown",
+      "host": "voidmaw.com",
+      "region": "jp",
+      "title": "Othercrown",
+      "headline": "スロットマシンでモンスターを召喚！ 悪役視点のデッキ構築型オートバトル・ローグライト『Othercrown』発表",
+      "description": "Voidmaw is a one-person game studio.",
+      "publishedAt": "2026-11-12T06:30:03.000Z",
+      "addedAt": "2026-11-12T06:30:16.782Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174788.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://i.imgur.com/QHYTfGa.png"
+    },
+    {
+      "id": "e03a1a84ab81",
+      "url": "https://modelia.yojihan.com/",
+      "host": "modelia.yojihan.com",
+      "region": "jp",
+      "title": "MODELIA",
+      "headline": "プラモデル専用の展示・フリマサービス「MODELIA」β版公開―完成品を預けて撮影・保管・販売まで一括で任せる「おまかせ投稿」も",
+      "description": "模型作品を見つけ、投稿・販売できる場所。",
+      "publishedAt": "2026-11-12T06:10:02.000Z",
+      "addedAt": "2026-11-12T06:30:16.782Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/12/190824.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://modelia.yojihan.com/share-card.png"
+    },
     {
       "id": "fe16a48cc356",
       "url": "https://limbuscompany.jp/",
@@ -6684,7 +6738,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/63/88/b863889b-1331-cd5b-2eb7-28d55e8cc70f/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/81/26/4f81267a-9ab8-16c4-49b4-ab624228430c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3b60981d5e71",
@@ -32758,7 +32812,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=52"
+      "image": "https://www.konami.com/games/castlevania/belmonts_curse/s/images/sns_castlevania_bc2.jpg?v=53"
     },
     {
       "id": "700813e361b3",
