@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-12T10:00:19.036Z",
+  "updatedAt": "2026-11-12T10:30:16.820Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1360,
+  "total": 1362,
   "regions": {
-    "jp": 1111,
-    "global": 249
+    "jp": 1112,
+    "global": 250
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 494
+      "count": 495
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 285
+      "count": 286
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 40
+      "count": 41
     },
     {
       "id": "switch2",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 424
+      "count": 425
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,35 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "abf7c1539c3a",
+      "url": "https://playism.com/game/million-depth/",
+      "host": "playism.com",
+      "region": "jp",
+      "title": "Million Depth",
+      "headline": "「Million Depth」，Switch向け体験版を配信開始。本編3ルートのうち「αルート」を最後までプレイ可能。製品版へのセーブデータ引き継ぎにも対応",
+      "description": "少女モマは、“キミ”という人物を追い求めて100万階層の地底世界「ミリオンデプス」に墜ちていく――自分だけの武装をクラフトし、思考する時間停止バトルに挑め。並行世界が交差する“深層墜下アクションストラテジー”。…",
+      "publishedAt": "2026-11-12T10:03:58.000Z",
+      "addedAt": "2026-11-12T10:30:16.820Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105808/20261112036/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://playism.com/wp-content/uploads/2024/08/01_keyart.png"
+    },
     {
       "id": "742b65b8fd48",
       "url": "https://experience.co.jp/sale/",
@@ -1036,6 +1065,39 @@
       "image": "https://realdgame.jp/s/mahjong/assets/img/ogp_img.jpg"
     },
     {
+      "id": "8143766d88ee",
+      "url": "https://www.monsterhunter.com/mhpuzzlef/",
+      "host": "monsterhunter.com",
+      "region": "global",
+      "title": "モンスターハンターパズル アイルーアイランド いつまでも版",
+      "headline": "CAPCOM / カジュアル・パズル · App Store 新着",
+      "description": "Welcome to the official Hunter Puzzles: Felyne Isles Furever website! An all new Monster Hunter puzzle game for mobile …",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "addedAt": "2026-11-12T10:30:16.820Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6754314772"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.monsterhunter.com/mhpuzzlef/assets/images/share_en.png"
+    },
+    {
       "id": "7d00115d726f",
       "url": "https://www.playsignsoflife.com/",
       "host": "playsignsoflife.com",
@@ -1572,7 +1634,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://localhost:3000/jp/opengraph-image.png?4405ad945cd5b9da"
+      "image": "https://localhost:3000/jp/opengraph-image.png?e91b4904cf4c2055"
     },
     {
       "id": "9240b51e75c1",
@@ -29042,7 +29104,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uUgfvIyAl2gH3TFKqCWx-mDn42VsXL_FFgk1Sg_k4vHjaxTyrBxpC4Ar_6S9YaCZbAL4jM9il6J9g3butaqDuqSumWnEc0wT2NMJBX9i5dflG2oYKd38kIP8lKYAPGrj5btCtHCtTj-oJsad12hvbict_7BZpcgVOe5b4DBR9NR15KfOeVaoWphpOK_6tbLyjf82ZgQmbWDVcvDKFpUwXjd_Sb8hvdJNTVCq7Ik9o8EXU=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sc5s5uRJeyPzDsEb6Wzd5OfzUilsXdk86URnzJvCHpnxN6Mh_zvBI8073GGB7LeQPrfgianwtTKn7sODtqmeGalCXLPQWDZlrKtvi0kYMKQ9qpNE646ggXj3ni4jMhuSM1PDHpo4ZCqXnXU_72Yk-m_MEdzH4oQnBVjZAf4yjtP4PxknHYImX3mBKR_zbk08RjLLF08NH7101APO3rRMbysmVgdO2kaKj9yGJMOprPI48=w1200-h630-p-k-no-nu"
     },
     {
       "id": "a1190e19c51b",
@@ -35260,6 +35322,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/12/190817.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/12/174799.html"
         }
       ],
       "tags": [
