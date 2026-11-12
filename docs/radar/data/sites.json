@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T13:00:21.429Z",
+  "updatedAt": "2026-11-12T13:30:18.417Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 137
+      "count": 136
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 496
+      "count": 497
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Inside",
-    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fb207041c4bb",
+      "url": "https://www.nyanko-tcg.com/",
+      "host": "nyanko-tcg.com",
+      "region": "jp",
+      "title": "にゃんこ大戦争",
+      "headline": "人気タワーディフェンス「にゃんこ大戦争」がカードゲームに。新作TCG「にゃんこ・ザ・カードゲーム」が2027年3月26日発売へ",
+      "description": "『にゃんこ大戦争』のわちゃわちゃバトルがトレーディングカードゲームで味わえる！",
+      "publishedAt": "2026-11-12T13:26:45.000Z",
+      "addedAt": "2026-11-12T13:30:18.417Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105814/20261112057/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nyanko-tcg.com/assets/images/ogp.jpg"
+    },
     {
       "id": "5b99f8770663",
       "url": "https://apps.apple.com/jp/app/id6792681102",
@@ -11319,33 +11346,6 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/78/20/ea78204e-6d10-a786-4eab-f860692cf6cc/Placeholder.mill/1200x630wa.jpg"
     },
     {
-      "id": "482fbb461f90",
-      "url": "https://www.tohotheater.jp/campaign/godzillaminuszero-goods.html",
-      "host": "tohotheater.jp",
-      "region": "jp",
-      "title": "ゴジラ-0.0",
-      "headline": "お値段17,800円！映画「ゴジラ-0.0」公開記念ポップコーンボックスが数量限定販売へ、迫力の顔デザインドリンクカップも",
-      "description": "お値段17,800円！映画「ゴジラ-0.0」公開記念ポップコーンボックスが数量限定販売へ、迫力の顔デザインドリンクカップも",
-      "publishedAt": "2026-10-23T07:30:02.000Z",
-      "addedAt": "2026-10-23T07:30:21.028Z",
-      "source": "Inside",
-      "sources": [
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/23/189701.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "anniversary"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "14749f4ba628",
       "url": "https://www.takahashishoten.co.jp/zannen/?srsltid=AYCX9vKHkD1JrXHdgG-UQNsrGlVv058EgT70lTC85RAa-4779Ob_9FWQ",
       "host": "takahashishoten.co.jp",
@@ -16828,7 +16828,7 @@
       "region": "jp",
       "title": "ことば橋 - 言葉で橋をかける",
       "headline": "CURRY CROQUETTE / 単語・パズル · App Store 新着",
-      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど271本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
+      "description": "無料で遊べるブラウザゲームの「よりみちゲーム」。盤上遊び・トランプ・花札・和の遊び・パズル・学び・ことば・反射・アクション・サイコロ・運・ちょいゲーなど272本。登録不要で、スマホ・タブレット・パソコンからすぐに遊べます。",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "addedAt": "2026-10-18T05:30:17.892Z",
       "source": "App Store",
@@ -23122,7 +23122,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639293235319257699"
+      "image": "https://s1.pearlcdn.com/JP/Upload/Manager/MetaTag/401fe05988f20260903082620144.jpg?v=639300158618133832"
     },
     {
       "id": "ec747cc06a3c",
