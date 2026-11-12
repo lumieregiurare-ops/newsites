@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-12T06:59:58.211Z",
+  "updatedAt": "2026-11-12T07:30:18.922Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1351,
+  "total": 1353,
   "regions": {
-    "jp": 1103,
-    "global": 248
+    "jp": 1104,
+    "global": 249
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 63
+      "count": 64
     },
     {
       "id": "prereg",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 294
+      "count": 295
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 489
+      "count": 491
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "App Store",
     "AppBank",
     "Appliv Games",
@@ -132,6 +132,62 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "8a8c8fe2f5ce",
+      "url": "https://www.hj-tongari-trpg.com/",
+      "host": "hj-tongari-trpg.com",
+      "region": "jp",
+      "title": "とんがり帽子のアトリエ",
+      "headline": "『とんがり帽子のアトリエ』のTRPGが2027年に発売決定。原作・白浜鴎氏描き下ろしのメインビジュアルが11月14日開催のTRPGサミットにて初公開",
+      "description": "白浜鴎による人気コミック『とんがり帽子のアトリエ』（講談社刊）がTRPGに。ホビージャパンより2027年発売予定。現在制作進行中。",
+      "publishedAt": "2026-11-12T07:21:37.000Z",
+      "addedAt": "2026-11-12T07:30:18.922Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611123a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "teaser",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "416f1ca631e5",
+      "url": "https://www.scrapmagazine.com/s/detectivex3/",
+      "host": "scrapmagazine.com",
+      "region": "jp",
+      "title": "地図にない島",
+      "headline": "SCRAPによる“本格犯罪捜査ゲーム”新作『地図にない島』が12月2日に発売決定。リアルな捜査資料をもとに事件を解決へ導く「DETECTIVE X」シリーズ第3弾",
+      "description": "DETECTIVE X CASE FILE #3『地図にない島』の公式サイト。累計発行部数20万部を突破した、道尾秀介 × SCRAP の最強タッグがおくる最新作！あなたがたどり着いた推理の先には、心揺さぶられる真実が待っている。シリーズ…",
+      "publishedAt": "2026-11-12T07:00:12.000Z",
+      "addedAt": "2026-11-12T07:30:18.922Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611122q"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.scrapmagazine.com/s/detectivex3/img/og-img.jpg"
+    },
     {
       "id": "cdcc4bd87342",
       "url": "https://www.tokyobanana.jp/products/banana_pokemon.html",
@@ -1408,6 +1464,40 @@
       ],
       "points": null,
       "image": "https://static1.squarespace.com/static/54104f62e4b0c1ca62ebb56f/t/609bbc640d8f1a3d2149fc6f/1620819044241/Auroch+Digital+logo.png?format=1500w"
+    },
+    {
+      "id": "a0870e9a807e",
+      "url": "https://www.plaium.com/",
+      "host": "plaium.com",
+      "region": "global",
+      "title": "マジックマッチ (Magic Match)",
+      "headline": "BY4M STUDIO CO.,LTD. / アドベンチャー・パズル · App Store 新着",
+      "description": "PLAIUM - 대중적으로 사랑받는 고품질의 게임을 서비스합니다.",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "addedAt": "2026-11-12T07:30:18.922Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6786589102"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "パズル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "235d8525792d",
@@ -41880,40 +41970,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/fe/65/e2fe6519-7d5e-f781-f541-173c697f0263/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "76ae1cc4db31",
-      "url": "https://apps.apple.com/jp/app/id6761354266",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "スマスロ 攻殻機動隊",
-      "headline": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
-      "description": "Sammy Networks Co., Ltd.の「スマスロ 攻殻機動隊」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「スマスロ 攻殻機動隊」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-08-14T07:00:00.000Z",
-      "addedAt": "2026-09-24T09:00:17.008Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6761354266"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "エンターテインメント",
-        "カジノ"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/72/4f/f2724f6f-e3b3-5590-8eee-39631598ad1a/Placeholder.mill/1200x630wa.jpg"
     }
   ]
 }
