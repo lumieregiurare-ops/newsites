@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T04:00:21.765Z",
+  "updatedAt": "2026-11-13T04:30:16.041Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1374,
+  "total": 1375,
   "regions": {
-    "jp": 1121,
+    "jp": 1122,
     "global": 253
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 194
+      "count": 195
     }
   ],
   "platforms": [
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "f5ad92f1bc88",
+      "url": "https://www.nhk.or.jp/kouhaku/index.html",
+      "host": "nhk.or.jp",
+      "region": "jp",
+      "title": "NHK紅白歌合戦",
+      "headline": "第77回「NHK紅白歌合戦」に「Ado」「YOASOBI」「Vaundy」らが出場決定！",
+      "description": "紅白公式サイト！最新情報、出演者情報、注目の特別企画、見どころに加え、舞台裏やコメント動画も。紅白がもっと楽しくなる情報が満載！ #NHK紅白",
+      "publishedAt": "2026-11-13T04:29:43.000Z",
+      "addedAt": "2026-11-13T04:30:16.041Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261113y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nhk.or.jp/kouhaku/assets/kouhaku2026.png"
+    },
     {
       "id": "fdd1091cd3d8",
       "url": "https://www.stupidipixel.com/splatchinko/",
