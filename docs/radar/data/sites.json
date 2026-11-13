@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-11-13T06:30:18.900Z",
+  "updatedAt": "2026-11-13T07:00:18.693Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1326,
+  "total": 1331,
   "regions": {
-    "jp": 1080,
+    "jp": 1085,
     "global": 246
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 61
+      "count": 62
     },
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 167
+      "count": 169
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 129
+      "count": 130
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 287
+      "count": 288
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 488
+      "count": 491
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 182
+      "count": 183
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 416
+      "count": 419
     },
     {
       "id": "browser",
@@ -430,6 +430,62 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/2c/34/f92c341a-644c-43f3-5e24-f8dc799e5c81/Placeholder.mill/1200x630wa.jpg"
     },
     {
+      "id": "51a0bafeab2d",
+      "url": "https://fablethegame.com/ja",
+      "host": "fablethegame.com",
+      "region": "jp",
+      "title": "Fable",
+      "headline": "自分の選択が人生を左右するファンタジーRPG『Fable』、地域の英雄と不気味な森を調査する新映像が公開。弓矢と魔法を用いた戦闘シーンも披露",
+      "description": "Fable is an immersive open-world action-RPG where each choice shapes your journey, reputation is everything, and fairyt…",
+      "publishedAt": "2026-11-12T22:13:08.000Z",
+      "addedAt": "2026-11-13T07:00:18.693Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261113f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://pgfableweqzl6jpbr734gosa.blob.core.windows.net/blobpgfablewe-qzl6jpbr734go/uploads/large_holland_hero_16x9_b28c45c830.png"
+    },
+    {
+      "id": "3bca2b9d4d65",
+      "url": "https://yu-gi-oh.jp/",
+      "host": "yu-gi-oh.jp",
+      "region": "jp",
+      "title": "OCG",
+      "headline": "連載30周年記念の「遊☆戯☆王ジャンプ」が発売！応募者全員サービスには『OCG』特別パックも、新たな「バスター・ブレイダー」などを収録",
+      "description": "連載30周年記念の「遊☆戯☆王ジャンプ」が発売！応募者全員サービスには『OCG』特別パックも、新たな「バスター・ブレイダー」などを収録",
+      "publishedAt": "2026-11-12T21:25:02.000Z",
+      "addedAt": "2026-11-13T07:00:18.693Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/13/190858.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "321868af0f2d",
       "url": "https://cinder-city.com/",
       "host": "cinder-city.com",
@@ -613,6 +669,38 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/1b/9c/051b9c0f-3f92-52c6-f975-94357921c982/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "286ad75c6e58",
+      "url": "https://segafcchampions.sega.com/ja/",
+      "host": "segafcchampions.sega.com",
+      "region": "jp",
+      "title": "サカつくTV ハーフタイムSP'26冬",
+      "headline": "「サカつくTV ハーフタイムSP'26冬」，11月19日に配信決定",
+      "description": "サッカークラブ育成シミュレーションゲームの金字塔「サカつく」が最新作として帰ってきた！基本プレイ無料で全世界に向けてクロスプラットフォームで展開！全権監督としてローカルクラブから、世界を目指せ！",
+      "publishedAt": "2026-11-12T11:54:10.000Z",
+      "addedAt": "2026-11-13T07:00:18.693Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/915/G091522/20261112052/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://segafcchampions.sega.com/assets/official/img/ja/ogp.jpg?ver07"
     },
     {
       "id": "22c2b84c06b6",
@@ -39931,6 +40019,41 @@
       "image": "https://oboromuramasakaikitan.marv.jp/assets/img/ogp.jpg?09"
     },
     {
+      "id": "4878d7b86722",
+      "url": "https://shangfro7c.netmarble.com/",
+      "host": "shangfro7c.netmarble.com",
+      "region": "jp",
+      "title": "シャングリラ・フロンティア～七つの最強種～",
+      "headline": "「シャングリラ・フロンティア～七つの最強種～」，事前登録をApp StoreやGoogle Playなどで受付中。TGS 2026のステージイベント情報も公開に",
+      "description": "シャングリラ・フロンティア～七つの最強種～ 公式ティザーサイト",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "addedAt": "2026-11-13T07:00:18.693Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G099198/20260914010/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "event",
+        "teaser"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg"
+    },
+    {
       "id": "09171898f87d",
       "url": "https://pokemongo.com/ja/",
       "host": "pokemongo.com",
@@ -40738,6 +40861,40 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/10/d9/7110d928-bfa0-7530-d590-e97e9cd4f7ac/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "14fc1dc947cd",
+      "url": "https://bang-dream-on.bushimo.jp/",
+      "host": "bang-dream-on.bushimo.jp",
+      "region": "jp",
+      "title": "BanG Dream! Our Notes",
+      "headline": "「BanG Dream! Our Notes」，事前登録者数が150万人を達成。リリース日決定特番は9月13日21：00から配信予定",
+      "description": "奏でよう、私たちの音 MyGO!!!!! Ave Mujicaからはじまる ５つのバンドの物語 バンドリ！プロジェクト 新作モバイルゲーム「バンドリ！アワーノーツ」公式サイト",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "addedAt": "2026-11-13T07:00:18.693Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/974/G097456/20260904005/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://bang-dream-on.bushimo.jp/wordpress/wp-content/themes/bang-dream-on_prod/assets/images/common/ogp.webp?20260913"
     },
     {
       "id": "d10f93a61f26",
