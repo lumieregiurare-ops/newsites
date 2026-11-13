@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:00:38.717Z",
+  "updatedAt": "2026-11-13T08:30:35.474Z",
   "platforms": [
     {
       "id": "switch",
@@ -402,32 +402,6 @@
       "trackId": ""
     },
     {
-      "id": "12599c3efac9",
-      "title": "白銀の城",
-      "url": "https://apps.apple.com/us/app/id6758292278",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/de/f2/6bdef282-05cb-e75e-d5a3-ea43883e04f2/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "ps",
-        "pc",
-        "mobile"
-      ],
-      "startedAt": "2026-11-01T10:00:00.000Z",
-      "releaseText": "2026年12月14日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "『白銀の城』が12月14日に全世界同時リリース！ PC・PS5・iOS・Androidに対応",
-      "description": "Download Silver Palace by ELEMENTA GAMES PTE. LTD. on the App Store. See screenshots, ratings and reviews, user tips, a…",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/01/game/3150980.php",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6758292278",
-        "preorder": true,
-        "releaseDate": "2026-12-14T08:00:00Z"
-      },
-      "trackId": "6758292278"
-    },
-    {
       "id": "4dcbdcd67f2b",
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
       "url": "https://apps.apple.com/jp/app/id6778303469",
@@ -451,9 +425,53 @@
         "releaseDate": "2026-11-19T08:00:00Z"
       },
       "trackId": "6778303469"
+    },
+    {
+      "id": "b7884c8204b7",
+      "title": "テクロノス",
+      "url": "https://techcronoss.com/",
+      "image": "https://techcronoss.com/wordpress/wp-content/themes/techcronoss_v0/assets/images/common/ogp.jpg?v=3",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-10-30T07:26:23.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "DMM GAMES『テクロノス』にて「シャルン」が新登場！ さらにイベントアトラクション「あつめて！ハロウィンキャンディ」も開催中！",
+      "description": "DMM GAMES×テクロス 4年ぶりの最新作！『神姫PROJECT』『あやかしランブル！』『れじぇくろ！』の魅力的なキャラたちが大集合！クロスヒロインRPG！",
+      "source": "Appliv Games",
+      "sourceUrl": "https://games.app-liv.jp/archives/592769",
+      "appleId": "",
+      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-13T08:30:35.474Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-13T08:30:35.474Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ラグナロク：アドベンチャーズ",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-13T07:00:37.109Z",
       "type": "prereg_start",
@@ -499,29 +517,6 @@
         "pc"
       ],
       "to": "2027年1月26日"
-    },
-    {
-      "at": "2026-11-12T15:00:29.808Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ポケモン",
-      "url": "https://www.crocs.co.jp/c/collections/pokemon",
-      "image": "",
-      "platforms": [],
-      "from": "2026年11月12日",
-      "to": "2026年11月17日"
-    },
-    {
-      "at": "2026-11-12T13:00:35.964Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "ロールコール",
-      "url": "https://apps.apple.com/jp/app/id6792681102",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/1b/9c/051b9c0f-3f92-52c6-f975-94357921c982/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月1日"
     }
   ]
 }

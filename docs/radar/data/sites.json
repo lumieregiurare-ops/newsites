@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T08:00:20.618Z",
+  "updatedAt": "2026-11-13T08:30:17.906Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1322,
+  "total": 1314,
   "regions": {
-    "jp": 1076,
-    "global": 246
+    "jp": 1070,
+    "global": 244
   },
   "categories": [
     {
@@ -20,27 +20,27 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 168
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 130
+      "count": 125
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 244
+      "count": 238
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 286
+      "count": 283
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 490
+      "count": 485
     },
     {
       "id": "indie",
@@ -50,22 +50,22 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 24
+      "count": 23
     },
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 117
+      "count": 118
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 56
+      "count": 55
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 278
+      "count": 277
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 157
+      "count": 155
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 413
+      "count": 412
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 17
+      "count": 16
     },
     {
       "id": "vr",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "App Store",
@@ -131,6 +131,61 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "a7ebccfc67af",
+      "url": "https://kaze-tsugu.com/",
+      "host": "kaze-tsugu.com",
+      "region": "jp",
+      "title": "風を継ぐもの",
+      "headline": "「Live2D技術」を用いた新選組アニメ『風を継ぐもの』TV版キービジュアルが解禁。U-NEXTほかでの配信も決定",
+      "description": "「Live2D技術」を用いた新選組アニメ『風を継ぐもの』TV版キービジュアルが解禁。U-NEXTほかでの配信も決定",
+      "publishedAt": "2026-11-13T08:20:54.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611132j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "941ce9dfaf84",
+      "url": "https://www.tv-asahi.co.jp/lvsp/",
+      "host": "tv-asahi.co.jp",
+      "region": "jp",
+      "title": "ルパンレンジャーVSパトレンジャー",
+      "headline": "「クリスマスにはシャケを食え！」サモーンのクリスマスケーキが予約受付スタート。『ルパンレンジャーVSパトレンジャー』からヒーロー7人ではなく、幹部級でもない1話限りの一般怪人をラ…",
+      "description": "テレビ朝日「快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー」公式ホームページ",
+      "publishedAt": "2026-11-13T08:06:52.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611132g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.tv-asahi.co.jp/lvsp/OG.jpg"
+    },
     {
       "id": "9b82050ccef2",
       "url": "https://global.yamaha-motor.com/jp/showroom/yeb/events/zenless-collab/",
@@ -146,6 +201,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/13/190901.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/13/174834.html"
         }
       ],
       "tags": [
@@ -9436,7 +9495,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/f3/b06ff3da-9f9e-2ef8-9c24-84153c1760cf/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/02/a7/2e02a7a6-da15-2509-35af-4f9f75d2e7d2/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "775eb6f083f0",
@@ -39887,102 +39946,6 @@
       "image": "https://public.cdn.cdpr.app/thewitcher/website/home/og-image-home-diww7fkwnzl.jpg"
     },
     {
-      "id": "025060811184",
-      "url": "https://www.darksouls.jp/detail_ds3.html",
-      "host": "darksouls.jp",
-      "region": "jp",
-      "title": "ダークソウル",
-      "headline": "【50％オフ】PSストアにて『ダークソウル』3部作が50％オフとなるセールが開催中。『デモンズソウル』リメイク版も50％オフ",
-      "description": "DARK SOULS (ダークソウル) シリーズオフィシャルウェブサイトです。各シリーズの情報をお届けします。",
-      "publishedAt": "2026-09-14T07:48:31.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609142o"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "campaign",
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
-      "id": "dc5432ea131a",
-      "url": "https://worldofwarcraft.blizzard.com/en-gb/forever/",
-      "host": "worldofwarcraft.blizzard.com",
-      "region": "jp",
-      "title": "World of Warcraft: Forever",
-      "headline": "「World of Warcraft: Forever」発表。レベル60をベースに拡張し続ける「Classic+」の決定版が11月4日に正式サービス開始",
-      "description": "Take your first steps in an untamed frontier shaped by warring factions and rich with untold perils and unseen mystery.",
-      "publishedAt": "2026-09-14T07:45:15.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/042/G104263/20260914024/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt766f7698aedb7b7f/6a9bc5882437ed5612d4878f/Open_Graph_-_Camelot.jpg"
-    },
-    {
-      "id": "07bb185e8d2a",
-      "url": "https://bluenova-thegame.com/jp/",
-      "host": "bluenova-thegame.com",
-      "region": "jp",
-      "title": "B.L.U.E. NOVA",
-      "headline": "【基本無料】仲間と無限にぶっ放せ！ガンホー、近未来舞台の最大30人協力型PvE共闘TPS『B.L.U.E. NOVA』Steamで2027年リリースへ",
-      "description": "基本プレイ無料の共闘弾幕シューター『B.L.U.E. NOVA（ブルーノヴァ）』公式サイトです。「ヒーロー」×「アーマー」で最強の自分を構築し、仲間と挑む爽快共闘アクション！",
-      "publishedAt": "2026-09-14T07:45:03.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/14/172230.html"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/042/G104273/20260914032/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609143e"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/23/189709.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "points": null,
-      "image": "https://bluenova-thegame.com/_materials/img/common/ogp.jpg"
-    },
-    {
       "id": "4878d7b86722",
       "url": "https://shangfro7c.netmarble.com/",
       "host": "shangfro7c.netmarble.com",
@@ -40182,241 +40145,20 @@
       "image": ""
     },
     {
-      "id": "c954aba865f9",
-      "url": "https://uta.macross.site/",
-      "host": "uta.macross.site",
+      "id": "31657f85ed93",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "host": "ragnarokadv.gungho.jp",
       "region": "jp",
-      "title": "歌マクロス",
-      "headline": "「歌マクロス」復活を目指すクラウドファンディング，受付開始から約1時間半で目標額を達成。ストレッチゴールの詳細は後日発表予定",
-      "description": "「マクロス」シリーズの名曲とともに、歴代の歌姫やパイロットたちが登場する超時空リズムゲーム『歌マクロス』の公式サイト。全機、行くぞ！ 突撃ラブハート！",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/039/G103946/20260910063/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://uta.macross.site/ogp.jpg"
-    },
-    {
-      "id": "266a49f753b5",
-      "url": "https://pubgmobile.jp/",
-      "host": "pubgmobile.jp",
-      "region": "jp",
-      "title": "PUBG MOBILE",
-      "headline": "「PUBG MOBILE」，高級車ブランド「Lincoln」とのコラボを開始",
-      "description": "PUBG MOBILE 公式サイト基本プレイ無料！100人同時対戦のバトルロイヤルシューター『PUBG MOBILE』公式サイト。最大4人の仲間と協力するマルチプレイのSQUAD、2人の連携が重要なDUO、自分1人の緊張感に溢れるSOLO…",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/402/G040281/20260910035/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "campaign"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://pubgmobile.jp/wp-content/uploads/PUBG_Mobile_Simple_White@64.png"
-    },
-    {
-      "id": "8e253fe35e9d",
-      "url": "https://www.gamecity.ne.jp/zero/crimson-re/jp/",
-      "host": "gamecity.ne.jp",
-      "region": "jp",
-      "title": "零 ～紅い蝶～",
-      "headline": "「零 ～紅い蝶～」，シリーズ25周年を記念して受注が行われる「射影機プロップレプリカ スペシャルセット」の内容を公開",
-      "description": "2003年に発売された「零」シリーズ2作目、和風ホラー『零 ～紅い蝶～』のフルリメイクが発売決定！ 怨霊がさまよう廃村に迷い込んだ双子の姉妹が、ありえないものを写し、封じ込めるカメラ 「射影機（しゃえいき）」を使って幽霊達と戦いながらスト…",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/945/G094551/20260910055/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "周年"
-      ],
-      "categories": [
-        "anniversary",
-        "release",
-        "goods"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.gamecity.ne.jp/zero/crimson-re/assets/img/jp/og.jpg"
-    },
-    {
-      "id": "ed7812a77458",
-      "url": "https://milestone.it/games/hot-wheels-infinite-rush/",
-      "host": "milestone.it",
-      "region": "global",
-      "title": "HOT WHEELS Infinite Rush",
-      "headline": "ミニカーで世界を冒険し，4つの島でさまざまなレースにチャレンジ。「HOT WHEELS Infinite Rush」，本日リリース",
-      "description": "OFFICIAL HOT WHEELS™ Race, drift and boost your way through a Hot Wheels™ -sized world where limits fade into the rearv…",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/013/G101371/20260910054/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://milestone.it/wp-content/uploads/2026/06/logo-image.webp"
-    },
-    {
-      "id": "dd00cb43890b",
-      "url": "https://treeofsavior-neverland.qookkagames.com/prism-lymfypub/",
-      "host": "treeofsavior-neverland.qookkagames.com",
-      "region": "jp",
-      "title": "ツリーオブセイヴァー：ネバーランド",
-      "headline": "「ツリーオブセイヴァー：ネバーランド」で「10日間遊び放題サーバー」が本日オープン。市村龍太郎氏の公式インタビューを紹介【PR】",
-      "description": "時空を超え、愛の冒険へ！新規プレイヤーに70連ガチャ＋金色衣装4点セットプレゼント！世界に繋がり、みんなで冒険するRPG『ツリーオブセイヴァー：ネバーランド』 ここでは、ロマンチックな樹縁式典を挙げ、仲間やサーバー全体のプレイヤーから祝福…",
+      "title": "ラグナロク：アドベンチャーズ",
+      "headline": "「ラグナロク：アドベンチャーズ」，魅力を紹介するPVを公開。事前登録特典に「ゆめかわポリンヘアのレシピ」などのアイテムを追加",
+      "description": "片手でサクサク遊べる！『ラグナロクオンライン（RO）』のカジュアルRPG、『ラグアド』が登場！職業・モンスター・カード・ペット・衣装など、お馴染みの要素が満載！オートバトルで手軽に、深く、ミッドガルドの冒険を楽しもう！",
       "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
       "source": "4Gamer",
       "sources": [
         {
           "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/757/G075754/20260909016/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ",
-        "周年"
-      ],
-      "categories": [
-        "anniversary",
-        "campaign"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://cdn-os.qookkagames.com/xfu/qookka/4qprc0sbgb/m2g/home.jpg"
-    },
-    {
-      "id": "61335cbc7611",
-      "url": "https://wmy.yueranhudong.com/",
-      "host": "wmy.yueranhudong.com",
-      "region": "jp",
-      "title": "未眠野",
-      "headline": "協力プレイを重視し，物理と化学の相互作用で攻略法を生み出すオープンワールドRPG「未眠野」発表，PVも披露",
-      "description": "万物都在回应，世界没有答案。 《未眠野》是一款以物理 × 化学双引擎为核心驱动的万物交互开放世界 RPG。 在这片名为未眠野的广阔大地与海洋中，神秘的“哈扎珥物质”带来未知异变。你将依托人类前沿技术，以万物连锁反应为法则，在文明的遗骸间追…",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/040/G104081/20260909035/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "media"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://cms-res.jx.ruyi.cn/2026-09-07/image/1788778794596-20260907185941.jpg"
-    },
-    {
-      "id": "ceed964bd919",
-      "url": "https://apps.apple.com/jp/app/id6749604300",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "くにおくんのサバイバーズ・オブ・ザ・デッド",
-      "headline": "「くにおくんのサバイバーズ・オブ・ザ・デッド」，Apple Arcade専用タイトルとして10月1日にリリース",
-      "description": "ARC SYSTEM WORKSの「くにおくんのサバイバーズ・オブ・ザ・デッド」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「くにおくんのサバイバーズ・オブ・ザ・デッド」に似たゲーム…",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/040/G104079/20260909033/"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/27/172814.html"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/27/188336.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS"
-      ],
-      "categories": [
-        "release",
-        "goods"
-      ],
-      "platforms": [
-        "mobile",
-        "arcade"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/29/fc/bd29fc61-731b-7fac-2586-298aa25317bf/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "7ce0f28da9f3",
-      "url": "https://www.mintrock.et/jp/game/game.php",
-      "host": "mintrock.et",
-      "region": "jp",
-      "title": "デイヴ・ザ・ダイバー",
-      "headline": "「デイヴ・ザ・ダイバー」の累計販売本数が1000万本を突破。9月17日にはスマホ版もリリース",
-      "description": "WE CRAFT BRAND-NEW FUN FOR THE GALAXY | MINTROCKETは宇宙一愉快で斬新なゲームを作るスタジオです",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/635/G063598/20260909031/"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/10/09/173393.html"
+          "url": "https://www.4gamer.net/games/033/G103301/20260909020/"
         }
       ],
       "tags": [
@@ -40427,79 +40169,13 @@
         "スマホ"
       ],
       "categories": [
-        "prereg",
-        "release"
+        "prereg"
       ],
       "platforms": [
         "mobile"
       ],
       "points": null,
-      "image": "https://www.mintrock.et/img/logo_img.jpg"
-    },
-    {
-      "id": "aaf9ee10dcfe",
-      "url": "https://wizardry.info/daphne/",
-      "host": "wizardry.info",
-      "region": "jp",
-      "title": "Wizardry Variants Daphne",
-      "headline": "「Wizardry Variants Daphne」，東京ゲームショウ2026の出展内容が一部公開に。ダンジョンでの冒険を体感できる大型展示やフォトスポットを用意",
-      "description": "スマートフォン、PC向け3DダンジョンRPGゲーム『Wizardry Variants Daphne -ウィザードリィ ヴァリアンツ ダフネ- （ウィズダフネ）』の公式サイトです。絶え間なく押し寄せる危険に溺れ、リスクを嗜み、勝利を貪れ。…",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/540/G054095/20260909019/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ",
-        "特設サイト",
-        "周年"
-      ],
-      "categories": [
-        "campaign",
-        "anniversary",
-        "event"
-      ],
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://mkadvertising7e8d0ade760.wpcomstaging.com/wp-content/uploads/2026/06/og_jp.jpg"
-    },
-    {
-      "id": "65fa39dfd82c",
-      "url": "https://www.konami.com/games/silenthill/f/",
-      "host": "konami.com",
-      "region": "global",
-      "title": "SILENT HILL f",
-      "headline": "「SILENT HILL f」×「都市伝説解体センター」，コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開",
-      "description": "「SILENT HILL f」×「都市伝説解体センター」，コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/664/G066418/20260909003/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "campaign",
-        "browser"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.konami.com/games/silenthill/f/s/img/share_img_en.jpg?=v2"
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg"
     },
     {
       "id": "a75ba51741ab",
@@ -40536,120 +40212,6 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/f3/ef/3ff3ef7c-e531-51b0-8520-0ce3dea0d825/Placeholder.mill/1200x630wa.jpg"
     },
     {
-      "id": "ad75bad92792",
-      "url": "https://nikke-jp.com/",
-      "host": "nikke-jp.com",
-      "region": "jp",
-      "title": "勝利の女神：NIKKE",
-      "headline": "「勝利の女神：NIKKE」，京都コラボ第2弾の特別アニメーションPVとテーマソングを公開。JR東海「推し旅」コラボ第2弾は9月11日に開始",
-      "description": "スマートフォン向けアプリゲーム、背中で魅せるガンガールRPG『勝利の女神：NIKKE』の公式サイトです。11月4日正式リリース！",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/456/G045622/20260908055/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/261023w"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/26/189876.html"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/10/30/174301.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ",
-        "周年",
-        "事前登録"
-      ],
-      "categories": [
-        "anniversary",
-        "prereg",
-        "campaign"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://nikke-jp.com/pc/ossweb-img/og_image.jpg"
-    },
-    {
-      "id": "3349762a076e",
-      "url": "https://pjsekai.sega.jp/",
-      "host": "pjsekai.sega.jp",
-      "region": "jp",
-      "title": "プロセカ",
-      "headline": "「プロセカ」，白石杏が歌う「PaIII.SENSATION」のソロ2DMVが公開に",
-      "description": "セガ×Colorful Paletteが贈る、スマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』の公式サイト",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/476/G047609/20260908046/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/interview/2610023p"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ",
-        "周年",
-        "特設サイト"
-      ],
-      "categories": [
-        "anniversary",
-        "campaign"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://pjsekai.sega.jp/assets/img/ogp.png"
-    },
-    {
-      "id": "c8e6fa31b91b",
-      "url": "https://playism.com/game/idol-manager-virtual-venture/",
-      "host": "playism.com",
-      "region": "jp",
-      "title": "PLAYISM GAME SHOW TGS 2026 Preview",
-      "headline": "「PLAYISM GAME SHOW TGS 2026 Preview」最新情報まとめ。2本の完全新規タイトルが発表され，話題作のコンシューマ版も登場決定",
-      "description": "アイドルの光と闇を描いた経営シミュレーションゲーム『アイドルマネージャー』の最新作が登場。今度の主役はバーチャルストリーマー！新興ストリーマー事務所のマネージャーとしてタレントをスカウトし、スタッフを育成して最高の事務所を目指そう。…",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "addedAt": "2026-09-14T08:07:21.557Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/005/G100531/20260908059/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://playism.com/wp-content/uploads/2026/04/IdolManagerVV_keyart_1920x1080.png"
-    },
-    {
       "id": "45cb05892fa0",
       "url": "https://apps.apple.com/jp/app/id6802539506",
       "host": "apps.apple.com",
@@ -40683,6 +40245,39 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/23/e4/0823e442-0d3d-ba7c-133e-217018d3d253/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "6964e1d57769",
+      "url": "https://silverpalace.elementagames.com/ja-jp",
+      "host": "silverpalace.elementagames.com",
+      "region": "jp",
+      "title": "白銀の城",
+      "headline": "「白銀の城」，グローバル事前登録を受付中。ヴィクトリア朝様式の大都市を舞台に，事件を調査・推理しながら怪物と戦うオープンワールドRPG",
+      "description": "フェリアーナ3年。探偵はここに戻ってきた。シルバニアは繁栄と衰退の狭間に揺れ、現実と寓話が混じり合っている。 交際、調査、判断、戦闘——引き金を引いた「その真実」を突き止めるとき、あなたは、己と他者の運命を決する。",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/908/G090896/20260907040/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg"
     },
     {
       "id": "9af74bf2bf2a",
@@ -40853,6 +40448,155 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/1c/74/b61c747d-cee3-287c-fb6d-dc902346a318/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "65b2fbe7e779",
+      "url": "https://apps.apple.com/jp/app/id6803370140",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ブラックチャンネル ブレイズロード",
+      "headline": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
+      "description": "Plott,Inc.の「ブラックチャンネル ブレイズロード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブラックチャンネル ブレイズロード」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/037/G103798/20260901015/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/73/c4/4573c48c-c6de-6b18-8b53-0ea0219a0025/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "b6f8b2b689cd",
+      "url": "https://bleach-mh.bn-ent.net/",
+      "host": "bleach-mh.bn-ent.net",
+      "region": "jp",
+      "title": "BLEACH Mirrors High",
+      "headline": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
+      "description": "死神（きみ）が斬りひらく、未だ見ぬ物語「BLEACH Mirrors High」公式サイト",
+      "publishedAt": "2026-08-31T00:00:00.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/970/G097078/20260831002/"
+        },
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6747328897"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ",
+        "エンターテインメント",
+        "アクション"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://bleach-mh.bn-ent.net/ogp/ogp-ja-0a955d37.jpg"
+    },
+    {
+      "id": "08fade7d2b1f",
+      "url": "https://azurpromilia.jp/",
+      "host": "azurpromilia.jp",
+      "region": "jp",
+      "title": "アズールプロミリア",
+      "headline": "「アズールプロミリア」，事前登録者数がグローバルで2000万人を突破。App StoreとGoogle Playでの事前登録も可能に",
+      "description": "星霊と旅するファンタジーワールドRPG『アズールプロミリア』（Azur Promilia）。当サイトでは、登場キャラクターや星霊「キボ」世界観、事前登録情報などの最新情報をお届けします。",
+      "publishedAt": "2026-08-25T00:00:00.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/784/G078489/20260825025/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/13/174828.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/13/190891.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/poster-DpxSqA-Y.jpg"
+    },
+    {
+      "id": "49957b1853a1",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "host": "hpgames.jp",
+      "region": "jp",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "headline": "「シノビNEXUS -閃乱カグラ-」，Android版の事前登録をGoogle Playで受付中",
+      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "addedAt": "2026-11-13T08:30:17.906Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/029/G102956/20260817028/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png"
     },
     {
       "id": "e9d00e6142bc",

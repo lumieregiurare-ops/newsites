@@ -6777,7 +6777,7 @@
     },
     "ラグナロク：アドベンチャーズ": {
       "title": "ラグナロク：アドベンチャーズ",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "白銀の城": {
@@ -6800,7 +6800,7 @@
     },
     "シノビnexus-閃乱カグラ-": {
       "title": "シノビNEXUS -閃乱カグラ-",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "ディズニースパークリンク・スターズ": {
@@ -74252,35 +74252,17 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-13T08:00:38.717Z"
+    },
+    "don’tdrop!!": {
+      "title": "Don’t  Drop!!",
+      "dateText": "2026年11月15日",
+      "date": "2026-11-15",
+      "sortKey": "2026-11-15",
+      "prereg": false,
+      "firstSeen": "2026-11-13T08:30:35.474Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-18T15:00:31.783Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000114055",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9fd7f1e04700a7840b1d4ff27fe3b584bff903578969b4485a6d9b383808e76c.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2027年2月16日"
-    },
-    {
-      "at": "2026-10-18T15:00:31.783Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックスアップグレード",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077483",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c7f3a46b50e33bfd12c9c90151768b5c8b929c9c93adda4812eb987df5128d40.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "to": "2027年2月16日"
-    },
     {
       "at": "2026-10-18T15:00:31.783Z",
       "type": "new",
@@ -79053,6 +79035,30 @@
       "title": "シャングリラ・フロンティア～七つの最強種～",
       "url": "https://shangfro7c.netmarble.com/",
       "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-13T08:30:35.474Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "ラグナロク：アドベンチャーズ",
+      "url": "https://ragnarokadv.gungho.jp/",
+      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-13T08:30:35.474Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS -閃乱カグラ-",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
       "platforms": [
         "mobile"
       ],
