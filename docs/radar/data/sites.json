@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T01:00:15.580Z",
+  "updatedAt": "2026-11-13T01:30:14.524Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1370,
+  "total": 1371,
   "regions": {
-    "jp": 1118,
+    "jp": 1119,
     "global": 252
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 300
+      "count": 301
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 499
+      "count": 500
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 164
+      "count": 165
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Game*Spark",
-    "4Gamer",
     "Inside",
     "電ファミニコゲーマー",
     "App Store",
@@ -132,6 +132,36 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fdc277dd038e",
+      "url": "https://sangokushi-bond.com/ja",
+      "host": "sangokushi-bond.com",
+      "region": "jp",
+      "title": "三国志BOND",
+      "headline": "三国志の武将を率いて戦うオートバトラー「三国志BOND」，無料版をSteamで配信開始。使用できる軍師などに制限はあるが，対人戦大会にも参加可能",
+      "description": "三国志の武将を率いて戦うオートバトラー「三国志BOND」，無料版をSteamで配信開始。使用できる軍師などに制限はあるが，対人戦大会にも参加可能",
+      "publishedAt": "2026-11-13T01:00:00.000Z",
+      "addedAt": "2026-11-13T01:30:14.524Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/008/G100845/20261112043/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "5334c8d6e058",
       "url": "https://apps.apple.com/jp/app/id6443597557",
