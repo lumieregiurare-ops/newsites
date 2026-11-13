@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T08:30:17.906Z",
+  "updatedAt": "2026-11-13T09:00:18.242Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1314,
+  "total": 1316,
   "regions": {
-    "jp": 1070,
-    "global": 244
+    "jp": 1073,
+    "global": 243
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 238
+      "count": 240
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 283
+      "count": 285
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 412
+      "count": 413
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Inside",
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "Game*Spark",
@@ -131,6 +131,34 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "caa50577f95a",
+      "url": "https://yokohama-landmark.jp/lp/winterholiday2026/",
+      "host": "yokohama-landmark.jp",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』『FF』でお馴染みのモンスターがお出迎え！ 巨大なツリーも展示の横浜・みなとみらい「Winter Holiday 2026 ～DQ×FFが織りなす冬のファンタジー～」…",
+      "description": "「ドラゴンクエスト」と「ファイナルファンタジー」。それぞれの世界で語り継がれてきた冒険の物語が、 この冬、みなとみらいで初のコラボを実現。スライムやチョコボをはじめとした世代を超えて愛されてきた キャラクターたちが、横浜ランドマークタワー…",
+      "publishedAt": "2026-11-13T09:00:03.000Z",
+      "addedAt": "2026-11-13T09:00:18.242Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/13/190907.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://yokohama-landmark.jp/lp/winterholiday2026/img/ogimage.jpg"
+    },
     {
       "id": "a7ebccfc67af",
       "url": "https://kaze-tsugu.com/",
@@ -365,6 +393,42 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/11/8a/20118a33-2cfd-10bf-a0e6-573853802827/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "266a49f753b5",
+      "url": "https://pubgmobile.jp/",
+      "host": "pubgmobile.jp",
+      "region": "jp",
+      "title": "PUBG MOBILE",
+      "headline": "「PUBG MOBILE」，VTuber・博衣こよりとのコラボイベントが開幕",
+      "description": "PUBG MOBILE 公式サイト基本プレイ無料！100人同時対戦のバトルロイヤルシューター『PUBG MOBILE』公式サイト。最大4人の仲間と協力するマルチプレイのSQUAD、2人の連携が重要なDUO、自分1人の緊張感に溢れるSOLO…",
+      "publishedAt": "2026-11-13T04:32:00.000Z",
+      "addedAt": "2026-11-13T09:00:18.242Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/402/G040281/20261113013/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/13/190906.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://pubgmobile.jp/wp-content/uploads/PUBG_Mobile_Simple_White@64.png"
     },
     {
       "id": "f5ad92f1bc88",
@@ -35527,7 +35591,7 @@
       "id": "41738ddbfdbc",
       "url": "https://www.kemuriworld.com/home-jp/",
       "host": "kemuriworld.com",
-      "region": "global",
+      "region": "jp",
       "title": "KEMURI",
       "headline": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
       "description": "新作アクションアドベンチャー「KEMURI」，Steamストアページを開設。妖怪ハンターたちの姿や街の様子を確認できる新たなトレイラーも公開に",
