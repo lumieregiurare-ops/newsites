@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T05:30:16.072Z",
+  "updatedAt": "2026-11-13T06:00:17.463Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1376,
+  "total": 1377,
   "regions": {
     "jp": 1123,
-    "global": 253
+    "global": 254
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 502
+      "count": 503
     },
     {
       "id": "indie",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "4Gamer",
     "Inside",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,33 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "b489c029da73",
+      "url": "https://www.everquestlegends.com/home",
+      "host": "everquestlegends.com",
+      "region": "global",
+      "title": "EverQuest Legends",
+      "headline": "EverQuestの現代版「EverQuest Legends」初の拡張パック「Rulers of Kunark」が12月8日にリリース決定",
+      "description": "EverQuest Legends",
+      "publishedAt": "2026-11-13T05:39:48.000Z",
+      "addedAt": "2026-11-13T06:00:17.463Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/993/G099328/20261113018/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "a3f03f6c0bba",
       "url": "https://apps.apple.com/us/app/id6825222264",
@@ -42287,7 +42314,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/81/48/4e814851-a7b1-d03d-8a6e-d9244d74e6ae/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/51/0c/af510cfb-fc0f-6c3c-2282-feeebb5dc36a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "810450323c89",
@@ -42390,7 +42417,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/75/e2/3775e230-7d8d-3cdf-faff-9488e9b325b9/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/73/c4/4573c48c-c6de-6b18-8b53-0ea0219a0025/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b6f8b2b689cd",

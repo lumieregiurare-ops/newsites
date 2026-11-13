@@ -2473,7 +2473,7 @@
       "entry": null
     },
     "うめしわ": {
-      "at": "2026-11-10T06:00:35.211Z",
+      "at": "2026-11-13T06:00:37.329Z",
       "entry": {
         "trackId": "6807810259",
         "title": "うめしわ 〜サラリーマンとふしぎなおにぎり〜",
@@ -2756,7 +2756,7 @@
       }
     },
     "TokiMake": {
-      "at": "2026-11-10T06:00:33.785Z",
+      "at": "2026-11-13T06:00:35.897Z",
       "entry": {
         "trackId": "6808610064",
         "title": "TokiMake - フルボイスで遊ぶノベルゲーム＆チャット",
@@ -74052,21 +74052,33 @@
       "sortKey": "2026-11-16",
       "prereg": false,
       "firstSeen": "2026-11-13T05:00:31.466Z"
+    },
+    "tinychef": {
+      "title": "Tiny Chef",
+      "dateText": "2026年11月14日",
+      "date": "2026-11-14",
+      "sortKey": "2026-11-14",
+      "prereg": false,
+      "firstSeen": "2026-11-13T06:00:35.678Z"
+    },
+    "howmanyticketsdoesittaketowinthelottery?": {
+      "title": "How Many Tickets Does It Take To Win The Lottery?",
+      "dateText": "2026年11月15日",
+      "date": "2026-11-15",
+      "sortKey": "2026-11-15",
+      "prereg": false,
+      "firstSeen": "2026-11-13T06:00:35.678Z"
+    },
+    "everquestlegends": {
+      "title": "EverQuest Legends",
+      "dateText": "2026年12月8日",
+      "date": "2026-12-08",
+      "sortKey": "2026-12-08",
+      "prereg": false,
+      "firstSeen": "2026-11-13T06:00:35.678Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-16T11:00:32.094Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "グリザイア 集結の百果",
-      "url": "https://grisaia-s100.com/",
-      "image": "https://grisaia-s100.com/asset/pc/pjgs_ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-17T16:00:27.969Z",
       "type": "moved_up",
@@ -78859,6 +78871,16 @@
         "pc"
       ],
       "to": "2027年1月26日"
+    },
+    {
+      "at": "2026-11-13T06:00:35.678Z",
+      "type": "new",
+      "label": "新規",
+      "title": "EverQuest Legends",
+      "url": "https://www.everquestlegends.com/home",
+      "image": "",
+      "platforms": [],
+      "to": "2026年12月8日"
     }
   ],
   "initialized": true,
