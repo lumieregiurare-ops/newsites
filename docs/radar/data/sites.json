@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T13:00:19.452Z",
+  "updatedAt": "2026-11-13T13:30:16.853Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1310,
+  "total": 1311,
   "regions": {
-    "jp": 1067,
+    "jp": 1068,
     "global": 243
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 168
+      "count": 169
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 283
+      "count": 284
     },
     {
       "id": "release",
@@ -1481,6 +1481,34 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "bace02931b6a",
+      "url": "https://playdarkmachine.com/",
+      "host": "playdarkmachine.com",
+      "region": "jp",
+      "title": "DARK MACHINE THE GAME",
+      "headline": "メカアクションシューティング「DARK MACHINE THE GAME」，テクニカルβテストを12月18日から開催。機体を乗り換えながら最大7対7で戦う",
+      "description": "『DARK MACHINE THE GAME』は最大7vs7のチームで戦うメカアクションシューティング。小型から中型、そして大型へ、3つのサイズの機体の進化<シフトアップ>で戦況を操れ。​戦略的思考と爽快感が融合する戦場を支配せよ。",
+      "publishedAt": "2026-11-12T04:11:01.000Z",
+      "addedAt": "2026-11-13T13:30:16.853Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/840/G084058/20261112010/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://playdarkmachine.com/og_image.png"
     },
     {
       "id": "9ccf7183da19",
