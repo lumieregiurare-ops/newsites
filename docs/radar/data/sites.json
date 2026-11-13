@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T04:30:16.041Z",
+  "updatedAt": "2026-11-13T05:00:15.841Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1375,
+  "total": 1376,
   "regions": {
-    "jp": 1122,
+    "jp": 1123,
     "global": 253
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 501
+      "count": 502
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 118
+      "count": 119
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 288
+      "count": 289
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 429
+      "count": 430
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "AppBank",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
     "Inside",
@@ -132,6 +132,40 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "a3f03f6c0bba",
+      "url": "https://apps.apple.com/us/app/id6825222264",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Gravemark",
+      "headline": "縦持ち片手のダークファンタジーハクスラ『Gravemark』iOS版がApp Storeで配信開始！ Android版に続き基本プレイ無料",
+      "description": "Download Gravemark by Tokyo hammock Co.,Ltd. on the App Store. See screenshots, ratings and reviews, user tips, and mor…",
+      "publishedAt": "2026-11-13T04:55:00.000Z",
+      "addedAt": "2026-11-13T05:00:15.841Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/13/game/3164690.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/11/8a/20118a33-2cfd-10bf-a0e6-573853802827/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "f5ad92f1bc88",
       "url": "https://www.nhk.or.jp/kouhaku/index.html",
