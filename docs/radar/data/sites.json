@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T07:30:18.881Z",
+  "updatedAt": "2026-11-13T08:00:20.618Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1328,
+  "total": 1322,
   "regions": {
-    "jp": 1082,
+    "jp": 1076,
     "global": 246
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 169
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 245
+      "count": 244
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 491
+      "count": 490
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 118
+      "count": 117
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 279
+      "count": 278
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 419
+      "count": 413
     },
     {
       "id": "browser",
@@ -121,16 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "9b82050ccef2",
+      "url": "https://global.yamaha-motor.com/jp/showroom/yeb/events/zenless-collab/",
+      "host": "global.yamaha-motor.com",
+      "region": "jp",
+      "title": "ゼンゼロ",
+      "headline": "『ゼンゼロ』のコラボバイク「XSR900 GP」も展示ー横浜みなとみらい「Yamaha E-Ride Base」がリニューアル！ ファン垂涎の展示など見どころ満載【イベントレポー…",
+      "description": "Yamaha E-Ride Baseで、都市ファンタジーアクションRPG「『ゼンレスゾーンゼロ』とヤマハ発動機によるスペシャルコラボ展を開催！",
+      "publishedAt": "2026-11-13T08:00:03.000Z",
+      "addedAt": "2026-11-13T08:00:20.618Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/13/190901.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://global.yamaha-motor.com/jp/showroom/yeb/events/zenless-collab/img/ogp.jpg"
+    },
     {
       "id": "175d2c816c7e",
       "url": "https://www.gungho.co.jp/",
@@ -39955,35 +39983,6 @@
       "image": "https://bluenova-thegame.com/_materials/img/common/ogp.jpg"
     },
     {
-      "id": "7404ba664970",
-      "url": "https://www.nhn-playart.com/tgs26/",
-      "host": "nhn-playart.com",
-      "region": "jp",
-      "title": "LINE：ディズニー ツムツム",
-      "headline": "NHN PlayArtが東京ゲームショウ2026に出展！『LINE：ディズニー ツムツム』など豪華7タイトルにわたる各ブースの詳細を発表!!",
-      "description": "NHN PlayArtの東京ゲームショウ2026特設WEBページです。",
-      "publishedAt": "2026-09-14T07:33:17.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "Appliv Games",
-      "sources": [
-        {
-          "name": "Appliv Games",
-          "url": "https://games.app-liv.jp/archives/590708"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "特設サイト"
-      ],
-      "categories": [
-        "campaign",
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.nhn-playart.com/tgs26/assets/images/tgs/common/og-image.png"
-    },
-    {
       "id": "4878d7b86722",
       "url": "https://shangfro7c.netmarble.com/",
       "host": "shangfro7c.netmarble.com",
@@ -40296,43 +40295,6 @@
       "platforms": [],
       "points": null,
       "image": "https://milestone.it/wp-content/uploads/2026/06/logo-image.webp"
-    },
-    {
-      "id": "31657f85ed93",
-      "url": "https://ragnarokadv.gungho.jp/",
-      "host": "ragnarokadv.gungho.jp",
-      "region": "jp",
-      "title": "ラグナロク：アドベンチャーズ",
-      "headline": "「ラグナロク：アドベンチャーズ」，魅力を紹介するPVを公開。事前登録特典に「ゆめかわポリンヘアのレシピ」などのアイテムを追加",
-      "description": "片手でサクサク遊べる！『ラグナロクオンライン（RO）』のカジュアルRPG、『ラグアド』が登場！職業・モンスター・カード・ペット・衣装など、お馴染みの要素が満載！オートバトルで手軽に、深く、ミッドガルドの冒険を楽しもう！",
-      "publishedAt": "2026-09-09T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/033/G103301/20260909020/"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/28/189957.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg"
     },
     {
       "id": "dd00cb43890b",
@@ -40723,51 +40685,6 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/23/e4/0823e442-0d3d-ba7c-133e-217018d3d253/Placeholder.mill/1200x630wa.jpg"
     },
     {
-      "id": "6964e1d57769",
-      "url": "https://silverpalace.elementagames.com/ja-jp/",
-      "host": "silverpalace.elementagames.com",
-      "region": "jp",
-      "title": "白銀の城",
-      "headline": "「白銀の城」，グローバル事前登録を受付中。ヴィクトリア朝様式の大都市を舞台に，事件を調査・推理しながら怪物と戦うオープンワールドRPG",
-      "description": "フェリアーナ3年。探偵はここに戻ってきた。シルバニアは繁栄と衰退の狭間に揺れ、現実と寓話が混じり合っている。 交際、調査、判断、戦闘——引き金を引いた「その真実」を突き止めるとき、あなたは、己と他者の運命を決する。",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/908/G090896/20260907040/"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/31/190148.html"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2610313l"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/10/31/174334.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://s.elementagames.com/uploads/file/20260624/3ae4043903b25b0ac443b70209ce4c06.jpg"
-    },
-    {
       "id": "9af74bf2bf2a",
       "url": "https://apps.apple.com/jp/app/id6778029370",
       "host": "apps.apple.com",
@@ -40936,173 +40853,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/1c/74/b61c747d-cee3-287c-fb6d-dc902346a318/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "65b2fbe7e779",
-      "url": "https://apps.apple.com/jp/app/id6803370140",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "ブラックチャンネル ブレイズロード",
-      "headline": "登録者数130万人超のYouTubeアニメをゲーム化。スマホ向け放置系RPG「ブラックチャンネル ブレイズロード」，9月14日にリリース",
-      "description": "Plott,Inc.の「ブラックチャンネル ブレイズロード」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ブラックチャンネル ブレイズロード」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/037/G103798/20260901015/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "事前登録",
-        "Android"
-      ],
-      "categories": [
-        "prereg",
-        "release",
-        "company"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/73/c4/4573c48c-c6de-6b18-8b53-0ea0219a0025/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "b6f8b2b689cd",
-      "url": "https://bleach-mh.bn-ent.net/",
-      "host": "bleach-mh.bn-ent.net",
-      "region": "jp",
-      "title": "BLEACH Mirrors High",
-      "headline": "「BLEACH Mirrors High」，事前登録受付を開始。50万人達成で，★3「[死神代行]黒崎一護」，★3「[十三番隊副隊長]朽木ルキア」が手に入る",
-      "description": "死神（きみ）が斬りひらく、未だ見ぬ物語「BLEACH Mirrors High」公式サイト",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/970/G097078/20260831002/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2610273c"
-        },
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6747328897"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/28/190000.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ",
-        "エンターテインメント",
-        "アクション"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://bleach-mh.bn-ent.net/ogp/ogp-ja-0a955d37.jpg"
-    },
-    {
-      "id": "08fade7d2b1f",
-      "url": "https://azurpromilia.jp/",
-      "host": "azurpromilia.jp",
-      "region": "jp",
-      "title": "アズールプロミリア",
-      "headline": "「アズールプロミリア」，事前登録者数がグローバルで2000万人を突破。App StoreとGoogle Playでの事前登録も可能に",
-      "description": "星霊と旅するファンタジーワールドRPG『アズールプロミリア』（Azur Promilia）。当サイトでは、登場キャラクターや星霊「キボ」世界観、事前登録情報などの最新情報をお届けします。",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/784/G078489/20260825025/"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/10/23/189684.html"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/10/23/173982.html"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/261023x"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ",
-        "特設サイト"
-      ],
-      "categories": [
-        "prereg",
-        "campaign",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/poster-DpxSqA-Y.jpg"
-    },
-    {
-      "id": "49957b1853a1",
-      "url": "https://hpgames.jp/shinovi-nexus/",
-      "host": "hpgames.jp",
-      "region": "jp",
-      "title": "シノビNEXUS -閃乱カグラ-",
-      "headline": "「シノビNEXUS -閃乱カグラ-」，Android版の事前登録をGoogle Playで受付中",
-      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "addedAt": "2026-09-14T07:37:16.033Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/029/G102956/20260817028/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2610073f"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png"
     },
     {
       "id": "e9d00e6142bc",
