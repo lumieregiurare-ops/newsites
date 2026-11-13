@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-13T14:30:23.309Z",
+  "updatedAt": "2026-11-13T15:00:20.608Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（11/12 比）",
+      "note": "Steam の同時接続数ランキング（11/13 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -28,9 +28,9 @@
           "url": "https://store.steampowered.com/app/570/",
           "metric": "同時接続 729,589人",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -41,9 +41,9 @@
           "url": "https://store.steampowered.com/app/578080/",
           "metric": "同時接続 718,335人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -132,9 +132,9 @@
           "url": "https://store.steampowered.com/app/1867240/",
           "metric": "同時接続 170,559人",
           "delta": {
-            "kind": "up",
-            "label": "+15",
-            "value": 15
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（11/12 比）",
+      "note": "App Store（日本）の無料ゲームランキング（11/13 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -220,9 +220,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
           "metric": "Powerfantasy",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,8 +246,8 @@
           "url": "https://apps.apple.com/jp/app/ungodly-%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC/id6740617332",
           "metric": "Azra Games",
           "delta": {
-            "kind": "new",
-            "label": "NEW",
+            "kind": "same",
+            "label": "–",
             "value": 0
           },
           "deltaNote": "前日比"
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
           "metric": "GOODROID,Inc.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
