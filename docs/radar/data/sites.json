@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T23:00:19.640Z",
+  "updatedAt": "2026-11-13T23:30:16.085Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1331,
+  "total": 1332,
   "regions": {
-    "jp": 1078,
+    "jp": 1079,
     "global": 253
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 283
+      "count": 284
     },
     {
       "id": "release",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "App Store",
     "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
-    "電ファミニコゲーマー",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "c4561c7a558d",
+      "url": "https://lolesports.com/ja-JP/",
+      "host": "lolesports.com",
+      "region": "jp",
+      "title": "LoL",
+      "headline": "『LoL』の世界大会「Worlds」が日本で開催決定！！「Worlds 2027」のスイスステージを名古屋で実施へ",
+      "description": "The best place to watch LoL Esports and earn rewards!",
+      "publishedAt": "2026-11-13T23:00:27.000Z",
+      "addedAt": "2026-11-13T23:30:16.085Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261114a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "e7555bed1c97",
       "url": "https://apps.apple.com/jp/app/id6812787190",
@@ -710,7 +737,7 @@
       "region": "global",
       "title": "Abyssal World: Fisch-Abenteuer",
       "headline": "Darius Waldemar Gonschior / カジュアル・シミュレーション · App Store 新着",
-      "description": "Darius Waldemar Gonschior / カジュアル・シミュレーション · App Store 新着",
+      "description": "App-Entwicklung & individuelle Softwarelösungen aus Neuss. Eigene Apps: Ordela, Rivello und mehrere Spiele.",
       "publishedAt": "2026-11-13T08:00:00.000Z",
       "addedAt": "2026-11-13T22:30:18.057Z",
       "source": "App Store",
@@ -734,7 +761,7 @@
         "mobile"
       ],
       "points": null,
-      "image": ""
+      "image": "https://gonsoft-labs.de/assets/og-image.png"
     },
     {
       "id": "26675b3b5a6c",
