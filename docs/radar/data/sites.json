@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T07:00:18.693Z",
+  "updatedAt": "2026-11-13T07:30:18.881Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1331,
+  "total": 1328,
   "regions": {
-    "jp": 1085,
+    "jp": 1082,
     "global": 246
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 288
+      "count": 286
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 280
+      "count": 279
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 36
+      "count": 35
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 41
+      "count": 40
     },
     {
       "id": "xbox",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,37 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "175d2c816c7e",
+      "url": "https://www.gungho.co.jp/",
+      "host": "gungho.co.jp",
+      "region": "jp",
+      "title": "ラグナロク：ニューワールド",
+      "headline": "「ラグナロク：ニューワールド」，2027年上半期に日本国内でサービス開始。シリーズ初のシームレスなオープンワールドを採用したMMORPG",
+      "description": "ガンホー・オンライン・エンターテイメント株式会社の公式ウェブサイトです。会社情報、スマートフォンゲーム、コンソールゲーム、PCオンラインゲームの事業内容、株主・投資家情報、採用情報、ニュースリリースをご覧いただけます。",
+      "publishedAt": "2026-11-13T07:19:53.000Z",
+      "addedAt": "2026-11-13T07:30:18.881Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105823/20261113025/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.gungho.co.jp/_materials/images/common/logo/logo-gungho-og.png"
+    },
     {
       "id": "49affb934ab2",
       "url": "https://www.hitonodenwaten.com/",
@@ -39953,72 +39984,6 @@
       "image": "https://www.nhn-playart.com/tgs26/assets/images/tgs/common/og-image.png"
     },
     {
-      "id": "5f3891a17ebe",
-      "url": "https://japan-kakurenbo.com/",
-      "host": "japan-kakurenbo.com",
-      "region": "jp",
-      "title": "“無人島”を舞台に大人100人が全力でかくれんぼをする参加型イベントが10月31日より開催",
-      "headline": "“無人島”を舞台に大人100人が全力でかくれんぼをする参加型イベントが10月31日より開催。BBQやドカン風呂、イカダづくりなども楽しめる究極のアウトドア体験",
-      "description": "日本かくれんぼ協会ホームページ",
-      "publishedAt": "2026-09-14T07:15:28.000Z",
-      "addedAt": "2026-09-14T07:16:43.025Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609142f"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://japan-kakurenbo.com/wp/wp-content/uploads/2019/04/logo.jpg"
-    },
-    {
-      "id": "0c264c90964b",
-      "url": "https://oboromuramasakaikitan.marv.jp/",
-      "host": "oboromuramasakaikitan.marv.jp",
-      "region": "jp",
-      "title": "朧村正怪奇譚",
-      "headline": "和風アクションRPG『朧村正怪奇譚』2027年2月4日発売決定！ 最新映像「朧流遊戯伝」も公開",
-      "description": "ヴァニラウェア×マーベラスが贈る絢爛絵巻和風アクションRPG『朧村正怪奇譚』公式サイト。Nintendo Switch™ 2 / Nintendo Switch™ / PlayStation®5 / Steam®向けに2027年2月4日（…",
-      "publishedAt": "2026-09-14T03:55:00.000Z",
-      "addedAt": "2026-09-14T07:06:30.587Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/14/game/3102865.php"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/015/G101549/20260910024/"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/interview/261021o"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "switch",
-        "ps",
-        "pc"
-      ],
-      "points": null,
-      "image": "https://oboromuramasakaikitan.marv.jp/assets/img/ogp.jpg?09"
-    },
-    {
       "id": "4878d7b86722",
       "url": "https://shangfro7c.netmarble.com/",
       "host": "shangfro7c.netmarble.com",
@@ -40052,33 +40017,6 @@
       ],
       "points": null,
       "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg"
-    },
-    {
-      "id": "09171898f87d",
-      "url": "https://pokemongo.com/ja/",
-      "host": "pokemongo.com",
-      "region": "jp",
-      "title": "ポケモン GO",
-      "headline": "『ポケモン GO』のリアルイベントが仙台とメキシコシティで同時開催！ 11月6日から東北を周遊できる「ワイルドエリア」開催",
-      "description": "地域のポケモントレーナーたちと一緒に、イベントに参加しよう！ 一緒にチャレンジに挑戦したり、ポケモンを捕まえたり、楽しい体験を共有しましょう。",
-      "publishedAt": "2026-09-13T22:45:00.000Z",
-      "addedAt": "2026-09-14T07:06:30.587Z",
-      "source": "AppBank",
-      "sources": [
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/14/game/3102024.php"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://lh3.googleusercontent.com/RyQzi0GT1DQpUc6X62nhd1R7pSRXfU4X4J3rA8qTakzh5yeYW9OPKIWEyyHo0wOmy3yHS5lVzYj0snN8ZRWYKX_oRgGXRqGW4Z8W"
     },
     {
       "id": "a3a18983ba8e",
@@ -40895,40 +40833,6 @@
       ],
       "points": null,
       "image": "https://bang-dream-on.bushimo.jp/wordpress/wp-content/themes/bang-dream-on_prod/assets/images/common/ogp.webp?20260913"
-    },
-    {
-      "id": "d10f93a61f26",
-      "url": "https://funjoysmith.com/",
-      "host": "funjoysmith.com",
-      "region": "jp",
-      "title": "Tap Block Out: Color Puzzle",
-      "headline": "Funsmith(Beijing) Technology Co., Ltd / カジュアル・パズル · App Store 新着",
-      "description": "Funsmith(Beijing) Technology Co., Ltd / カジュアル・パズル · App Store 新着",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "addedAt": "2026-09-14T07:16:43.025Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/tap-block-out-color-puzzle/id6798072890"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジュアル",
-        "パズル"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "249f422e7697",
