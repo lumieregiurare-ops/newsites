@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-12T23:30:17.703Z",
+  "updatedAt": "2026-11-13T00:00:20.621Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1369,
+  "total": 1370,
   "regions": {
-    "jp": 1117,
+    "jp": 1118,
     "global": 252
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 137
+      "count": 138
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 299
+      "count": 300
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 116
+      "count": 117
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 427
+      "count": 428
     },
     {
       "id": "browser",
@@ -121,10 +121,10 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Game*Spark",
     "4Gamer",
     "Inside",
-    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
@@ -132,6 +132,41 @@
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "5334c8d6e058",
+      "url": "https://apps.apple.com/jp/app/id6443597557",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "スターセイヴァー",
+      "headline": "『スターセイヴァー』1周年記念アップデートを実施！ 最大200回分の無料観測とSSR「執行者：ギーレ」を獲得できる記念イベントも開催",
+      "description": "Studio B Side Co., Ltdの「スターセイヴァー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「スターセイヴァー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-12T23:30:00.000Z",
+      "addedAt": "2026-11-13T00:00:20.621Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/13/game/3163315.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年",
+        "Android"
+      ],
+      "categories": [
+        "anniversary",
+        "event",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/2c/34/f92c341a-644c-43f3-5e24-f8dc799e5c81/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "321868af0f2d",
       "url": "https://cinder-city.com/",
@@ -26534,7 +26569,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1794291572"
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1794458778"
     },
     {
       "id": "ee9753ded30e",
