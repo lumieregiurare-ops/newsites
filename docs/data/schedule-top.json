@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:30:41.822Z",
+  "updatedAt": "2026-11-13T16:00:36.158Z",
   "platforms": [
     {
       "id": "switch",
@@ -252,19 +252,19 @@
       "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/"
     },
     {
-      "id": "e67cb55c9b01",
-      "title": "Hela: ちいさなねずみと魔法の森",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
+      "id": "0924eb499f81",
+      "title": "モンスターハンター",
+      "date": "2026-11-27",
+      "dateText": "2026年11月27日",
+      "sortKey": "2026-11-27",
       "priority": 0,
       "platforms": [],
-      "url": "https://helagame.com/",
-      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "url": "https://www.capcom.co.jp/amusement/game/shop/date",
+      "image": "",
       "maker": "",
-      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+      "headline": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/991/G999111/20261114001/"
     }
   ],
   "prereg": [
@@ -448,6 +448,16 @@
   ],
   "changes": [
     {
+      "at": "2026-11-13T16:00:36.158Z",
+      "type": "new",
+      "label": "新規",
+      "title": "モンスターハンター",
+      "url": "https://www.capcom.co.jp/amusement/game/shop/date",
+      "image": "",
+      "platforms": [],
+      "to": "2026年11月27日"
+    },
+    {
       "at": "2026-11-13T08:30:35.474Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -504,18 +514,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年12月8日"
-    },
-    {
-      "at": "2026-11-12T17:30:35.685Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Algolemeth",
-      "url": "https://mediumraregames.com/algolemeth/",
-      "image": "https://mediumraregames.com/assets/img/algolemeth-keyart-logo.png",
-      "platforms": [
-        "pc"
-      ],
-      "to": "2027年1月26日"
     }
   ]
 }

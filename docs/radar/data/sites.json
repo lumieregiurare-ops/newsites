@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-13T15:30:22.282Z",
+  "updatedAt": "2026-11-13T16:00:19.144Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1312,
+  "total": 1313,
   "regions": {
-    "jp": 1068,
+    "jp": 1069,
     "global": 244
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 181
+      "count": 182
     }
   ],
   "platforms": [
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "0f9b8434120a",
+      "url": "https://www.capcom.co.jp/amusement/game/shop/date",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "モンスターハンター",
+      "headline": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
+      "description": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
+      "publishedAt": "2026-11-13T15:38:41.000Z",
+      "addedAt": "2026-11-13T16:00:19.144Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999111/20261114001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "b92e1032f20e",
       "url": "https://apps.apple.com/us/app/id6823547743",
