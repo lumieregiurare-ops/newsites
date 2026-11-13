@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T03:00:16.053Z",
+  "updatedAt": "2026-11-13T03:30:17.409Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1373,
+  "total": 1374,
   "regions": {
     "jp": 1121,
-    "global": 252
+    "global": 253
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 193
+      "count": 194
     }
   ],
   "platforms": [
@@ -121,17 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp",
     "minimal.gallery"
   ],
   "items": [
+    {
+      "id": "fdd1091cd3d8",
+      "url": "https://www.stupidipixel.com/splatchinko/",
+      "host": "stupidipixel.com",
+      "region": "global",
+      "title": "スプラット・パチンコ",
+      "headline": "“惑星破壊パチンコ”で「宇宙規模の脳汁」がでまくるローグライク新作『スプラット・パチンコ』でドーパミンが止まらない…！銀河にあの「キュイン キュイン！」音がこだまし、光速で時間が…",
+      "description": "Press kit for SPLATCHINKO, a chaotic pachinko roguelite by Stupidi Pixel.",
+      "publishedAt": "2026-11-13T03:00:15.000Z",
+      "addedAt": "2026-11-13T03:30:17.409Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261113c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "09b48061a090",
       "url": "https://apps.apple.com/jp/app/id6743462069",
@@ -274,6 +301,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/13/174817.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/668/G066861/20261113008/"
         }
       ],
       "tags": [
@@ -21161,6 +21192,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/09/188999.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105815/20261113006/"
         }
       ],
       "tags": [
@@ -36259,6 +36294,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/18/172489.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261113r"
         }
       ],
       "tags": [
