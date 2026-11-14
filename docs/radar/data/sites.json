@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-14T04:30:18.624Z",
+  "updatedAt": "2026-11-14T05:00:15.110Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1331,
+  "total": 1340,
   "regions": {
-    "jp": 1078,
-    "global": 253
+    "jp": 1080,
+    "global": 260
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 120
+      "count": 123
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 299
+      "count": 308
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 156
+      "count": 157
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 436
+      "count": 445
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 16
+      "count": 17
     },
     {
       "id": "vr",
@@ -444,6 +444,139 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "aa8ddb24b277",
+      "url": "https://recogol.com/",
+      "host": "recogol.com",
+      "region": "global",
+      "title": "RecoGol",
+      "headline": "Pinilla LLC / スポーツ・スポーツ · App Store 新着",
+      "description": "Efsanevi futbol anlarını yeniden yaşa, hafızanı test et ve arkadaşlarına meydan oku.",
+      "publishedAt": "2026-11-13T20:47:40.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833661536"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "スポーツ"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://recogol.com/assets/og-image.jpg"
+    },
+    {
+      "id": "5d4686a1de3d",
+      "url": "https://boostvillage.success-3.com/",
+      "host": "boostvillage.success-3.com",
+      "region": "global",
+      "title": "BoostVillage",
+      "headline": "Maksym Kozak / シミュレーション・カジュアル · App Store 新着",
+      "description": "BoostVillage: an arcade village game for iPhone. Six lands, four bosses, no ads, no internet needed.",
+      "publishedAt": "2026-11-13T20:45:49.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6826610338"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "4bc2b3623575",
+      "url": "https://apps.apple.com/jp/app/id6789907520",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Jarana: Impostor & Party Games",
+      "headline": "Miguel Angel Lopez Segura / ファミリー・単語 · App Store 新着",
+      "description": "Miguel Angel Lopez Seguraの「Jarana: Impostor & Party Games」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Jarana: Im…",
+      "publishedAt": "2026-11-13T20:29:52.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6789907520"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "単語"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/b3/85/78b385c7-94c1-b403-eb29-cc9d7460e5d9/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "0d0b7ba5e329",
+      "url": "https://apps.apple.com/jp/app/id6828555049",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "dotMaze: Remember the path",
+      "headline": "Andrea Pontrandolfi / パズル・カジュアル · App Store 新着",
+      "description": "Andrea Pontrandolfiの「dotMaze: Remember the path」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「dotMaze: Remember th…",
+      "publishedAt": "2026-11-13T19:44:17.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828555049"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/cd/d5/e9cdd568-38a9-f68b-fbfc-302770ea394c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0f9b8434120a",
@@ -1147,6 +1280,174 @@
       ],
       "points": null,
       "image": "https://vacabalogames.com/assets/brand/vaca-logo-512.png"
+    },
+    {
+      "id": "851094273c74",
+      "url": "https://www.icetypeplatypistudios.com/",
+      "host": "icetypeplatypistudios.com",
+      "region": "global",
+      "title": "Grandma's Tavern: Pinochle",
+      "headline": "Travis Luttrull / ボード・カード · App Store 新着",
+      "description": "Ice-Type Platypi Studios is making The Lost Entries, a first-person psychological horror game for PC. Also play Grid Co…",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833809987"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ボード",
+        "カード"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/6aab3af96a1a4a2ba301b5eb/t/6ab9d04ce4ad183822a3dd35/1790562380670/studio-logo.png?format=1500w"
+    },
+    {
+      "id": "9381822b5227",
+      "url": "https://bettercore.app/visual-connect/",
+      "host": "bettercore.app",
+      "region": "global",
+      "title": "Visual Connect: Picture Puzzle",
+      "headline": "Hoa Hung Nguyen / パズル · App Store 新着",
+      "description": "A relaxed picture puzzle from BetterCore Labs. Explore Visual Connect, support and privacy information.",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832170652"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "9a9af296ba5f",
+      "url": "https://fivefour.games/",
+      "host": "fivefour.games",
+      "region": "global",
+      "title": "Jawless Fish Races",
+      "headline": "FiveFour Games / 教育・トリビア · App Store 新着",
+      "description": "A small studio building the games we want to play, starting with Bombseeker and a four-game series set in Aldia.",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6823285963"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "教育",
+        "トリビア"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fd9627f136f0",
+      "url": "https://owlidea.github.io/slingshire/",
+      "host": "owlidea.github.io",
+      "region": "global",
+      "title": "Slingshire",
+      "headline": "Owlidea / パズル・ストラテジー · App Store 新着",
+      "description": "Owlidea / パズル・ストラテジー · App Store 新着",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832535285"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "916f9fb2e646",
+      "url": "https://acteurstudio.gobc.fr/",
+      "host": "acteurstudio.gobc.fr",
+      "region": "global",
+      "title": "Acteur Studio",
+      "headline": "Colin Champdavoine / ファミリー・エンターテインメント · App Store 新着",
+      "description": "Une phrase banale, cinq émotions à jouer. Jeu d",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T05:00:15.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833492527"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "175d2c816c7e",
