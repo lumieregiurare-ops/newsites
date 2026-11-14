@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T23:30:16.085Z",
+  "updatedAt": "2026-11-14T00:00:19.373Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1332,
+  "total": 1333,
   "regions": {
     "jp": 1079,
-    "global": 253
+    "global": 254
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 284
+      "count": 285
     },
     {
       "id": "release",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "8c65a7c74c76",
+      "url": "https://thegameawards.com/faq",
+      "host": "thegameawards.com",
+      "region": "global",
+      "title": "The Game Awards 2026",
+      "headline": "世界的なゲーム表彰イベント「The Game Awards 2026」のノミネート作品は日本時間11月18日午前2時に発表へ。特番がライブ配信予定。X上では早くも今年のGOTY候…",
+      "description": "The global celebration of video games. Streams live on all platforms.",
+      "publishedAt": "2026-11-13T23:57:32.000Z",
+      "addedAt": "2026-11-14T00:00:19.373Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261114d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://assets.thegameawards.com/2026/08/56601a04-2026_tga_keyart_16x9-copy-scaled-1.webp"
+    },
     {
       "id": "c4561c7a558d",
       "url": "https://lolesports.com/ja-JP/",
