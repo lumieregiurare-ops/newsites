@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-14T15:00:17.291Z",
+  "updatedAt": "2026-11-14T15:30:16.804Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1322,
+  "total": 1323,
   "regions": {
-    "jp": 1061,
+    "jp": 1062,
     "global": 261
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 165
     },
     {
       "id": "anniversary",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 152
+      "count": 153
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 443
+      "count": 444
     },
     {
       "id": "browser",
@@ -40286,6 +40286,37 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "40d20f49aa9a",
+      "url": "https://g123.jp/game/scimagic?lang=ja",
+      "host": "g123.jp",
+      "region": "jp",
+      "title": "サイマジック 魔法世界のバグ、科学で直します！",
+      "headline": "「サイマジック 魔法世界のバグ、科学で直します！」，ゲームプラットフォーム「G123」でサービス決定。事前登録の受付もスタート",
+      "description": "「サイマジック 魔法世界のバグ、科学で直します！」は、科学の原理で魔法を強化して戦うG123発の完全オリジナルローグライクRPG。魔法使いが異端視される世界で、仲間とともに窮地を突破しよう。会員登録・ダウンロードなしでスマホ・PCから無料…",
+      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "addedAt": "2026-11-14T15:30:16.804Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104312/20260915049/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/74e898bc41f8e1cd029e7e1113ff51f41b2ac3054a03f3d83bbec037.png"
     },
     {
       "id": "4878d7b86722",
