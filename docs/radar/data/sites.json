@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-14T00:30:16.942Z",
+  "updatedAt": "2026-11-14T01:02:51.043Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1330,
+  "total": 1331,
   "regions": {
-    "jp": 1076,
+    "jp": 1077,
     "global": 254
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 487
+      "count": 488
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
-    "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,37 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "0f5613a724f5",
+      "url": "https://girls-und-panzer.mages.co.jp/",
+      "host": "girls-und-panzer.mages.co.jp",
+      "region": "jp",
+      "title": "ガールズ＆パンツァー 白熱！麻雀タッグバトルです！",
+      "headline": "「ガールズ＆パンツァー 白熱！麻雀タッグバトルです！」，2027年内に発売。公式サイトと特報ムービーも公開に",
+      "description": "2027年発売予定",
+      "publishedAt": "2026-11-14T00:30:00.000Z",
+      "addedAt": "2026-11-14T01:02:51.043Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105833/20261113043/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261114c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://girls-und-panzer.mages.co.jp/common/img/ogimage.jpg?20261029"
+    },
     {
       "id": "8c65a7c74c76",
       "url": "https://thegameawards.com/faq",
