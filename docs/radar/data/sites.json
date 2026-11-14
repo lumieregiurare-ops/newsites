@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-14T10:28:44.056Z",
+  "updatedAt": "2026-11-14T11:00:16.529Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1325,
+  "total": 1333,
   "regions": {
-    "jp": 1064,
-    "global": 261
+    "jp": 1070,
+    "global": 263
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 279
+      "count": 280
     },
     {
       "id": "release",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 54
+      "count": 55
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 305
+      "count": 313
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 438
+      "count": 446
     },
     {
       "id": "browser",
@@ -122,8 +122,8 @@
   ],
   "sources": [
     "4Gamer",
-    "電ファミニコゲーマー",
     "App Store",
+    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -220,6 +220,72 @@
       "image": "https://girls-und-panzer.mages.co.jp/common/img/ogimage.jpg?20261029"
     },
     {
+      "id": "eb2be5a3e506",
+      "url": "https://www.lasergarage.jp/",
+      "host": "lasergarage.jp",
+      "region": "jp",
+      "title": "覆面パト24",
+      "headline": "Yuya Hasegawa / シミュレーション · App Store 新着",
+      "description": "車好き、道路好き、ドライブ好きのための総合サイト。航空写真でたどる「道路の昔と今」、合流ゲーム、車で行ける範囲が分かる「どこいけマップ」、ナンバープレートキーホルダー。",
+      "publishedAt": "2026-11-14T00:01:04.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834148980"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.lasergarage.jp/img/keyholder.jpg"
+    },
+    {
+      "id": "b4f50e3f5423",
+      "url": "https://apps.apple.com/jp/app/id6833735300",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Word Clue: Guess the Story",
+      "headline": "Nguyen Tai Khang / 単語・パズル · App Store 新着",
+      "description": "Nguyen Tai Khangの「Word Clue: Guess the Story」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Word Clue: Guess the St…",
+      "publishedAt": "2026-11-13T23:58:41.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833735300"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/87/79/07877932-e05e-e334-841e-0d25099160e8/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
       "id": "8c65a7c74c76",
       "url": "https://thegameawards.com/faq",
       "host": "thegameawards.com",
@@ -245,6 +311,70 @@
       "platforms": [],
       "points": null,
       "image": "https://assets.thegameawards.com/2026/08/56601a04-2026_tga_keyart_16x9-copy-scaled-1.webp"
+    },
+    {
+      "id": "47927589a384",
+      "url": "https://apps.apple.com/jp/app/id6834335859",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Tidecraft Spin",
+      "headline": "Clint Neal Ellsworth / ゲーム · App Store 新着",
+      "description": "Clint Neal Ellsworthの「Tidecraft Spin」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Tidecraft Spin」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-11-13T23:38:06.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834335859"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/fa/2a/0dfa2a4b-f7d6-fafd-c86c-dcf4b0d8aa49/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "532887a60da4",
+      "url": "https://emberlight-site.vercel.app/",
+      "host": "emberlight-site.vercel.app",
+      "region": "jp",
+      "title": "烬灯行",
+      "headline": "RUI LI / アドベンチャー・アクション · App Store 新着",
+      "description": "烬灯行（Emberlight）是一款 iPhone 和 iPad 上的横版像素动作游戏：长夜里，夺回七盏灯。",
+      "publishedAt": "2026-11-13T23:17:26.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833678949"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "c4561c7a558d",
@@ -471,6 +601,106 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "e03bad6e1374",
+      "url": "https://giot.wtf/aie/glazy",
+      "host": "giot.wtf",
+      "region": "global",
+      "title": "Glazy: ドーナツ積み上げゲーム",
+      "headline": "imam huseyin ozdamar / アクション・カジュアル · App Store 新着",
+      "description": "One tap drops the donut onto the candy stick. 1,000 levels in eight sweet worlds.",
+      "publishedAt": "2026-11-13T22:28:33.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833725018"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://giot.wtf/aie/glazy/opengraph-image?a64448ef2f797b95"
+    },
+    {
+      "id": "754e2576f411",
+      "url": "https://darvengames.com/Christmas-Elf",
+      "host": "darvengames.com",
+      "region": "global",
+      "title": "Christmas Elf",
+      "headline": "Steven Woods / ファミリー・ストラテジー · App Store 新着",
+      "description": "Steven Woods / ファミリー・ストラテジー · App Store 新着",
+      "publishedAt": "2026-11-13T22:27:49.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6770237946"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "815c0a8234bd",
+      "url": "https://apps.apple.com/jp/app/id6832833493",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Golf Swing Simulator",
+      "headline": "Khanh Phan Van / スポーツ・シミュレーション · App Store 新着",
+      "description": "Khanh Phan Vanの「Golf Swing Simulator」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Golf Swing Simulator」に似たゲームを見るこ…",
+      "publishedAt": "2026-11-13T22:15:42.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832833493"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "シミュレーション"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/55/17/b85517cf-aa87-3887-4dfe-7abd4adb9d47/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "aa8ddb24b277",
@@ -1475,6 +1705,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "80f0961a9e6e",
+      "url": "https://apps.apple.com/jp/app/id6830382177",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Hearthhold: Tower Defense",
+      "headline": "Okan Yedibela / ストラテジー・カジュアル · App Store 新着",
+      "description": "Okan Yedibelaの「Hearthhold: Tower Defense」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Hearthhold: Tower Defense」に…",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "addedAt": "2026-11-14T11:00:16.529Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6830382177"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/8f/95/148f95fc-8225-3270-a341-39fe91790837/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "175d2c816c7e",
