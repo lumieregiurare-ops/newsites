@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-14T19:00:27.119Z",
+  "updatedAt": "2026-11-14T19:30:24.098Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1323,
+  "total": 1324,
   "regions": {
     "jp": 1062,
-    "global": 261
+    "global": 262
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 312
+      "count": 313
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 444
+      "count": 445
     },
     {
       "id": "browser",
@@ -22854,6 +22854,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "3b5627a88bde",
+      "url": "https://toastie.fun/",
+      "host": "toastie.fun",
+      "region": "global",
+      "title": "Toastie: ホットサンド作りゲーム",
+      "headline": "Tomasz Szykulski / カジュアル・シミュレーション · App Store 新着",
+      "description": "Build it. Press it. Serve it. On the App Store for iPhone and iPad.",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "addedAt": "2026-11-14T19:30:24.098Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6813841355"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://toastie.fun/assets/og-card.jpg?v=1006a"
     },
     {
       "id": "1b3cc750e6aa",
