@@ -3632,7 +3632,7 @@
       "entry": null
     },
     "Warhammer Survivors": {
-      "at": "2026-11-11T04:00:29.628Z",
+      "at": "2026-11-14T04:00:36.923Z",
       "entry": {
         "trackId": "6752607219",
         "title": "Warhammer Survivors",
@@ -3753,6 +3753,25 @@
         "storeUrl": "https://apps.apple.com/jp/app/id6823547743",
         "sellerUrl": "https://lab.global-gear.jp/",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/42/45/e8424537-8ff0-ddbe-c656-220a03ab73e6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "雀皇麻雀2": {
+      "at": "2026-11-14T04:00:35.473Z",
+      "entry": {
+        "trackId": "6814084715",
+        "title": "雀皇麻雀2",
+        "artist": "SAIL HONGKONG LIMITED",
+        "genres": [
+          "エンターテインメント",
+          "ボード",
+          "カジノ"
+        ],
+        "releaseDate": "2026-12-01T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6814084715",
+        "sellerUrl": "https://new.mjking.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/8f/e0/958fe0a0-3c85-eac7-ea16-6665acfebf00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -75711,19 +75730,14 @@
       "sortKey": "2026-11-16",
       "prereg": false,
       "firstSeen": "2026-11-14T03:00:38.406Z"
+    },
+    "雀皇麻雀2": {
+      "title": "雀皇麻雀2",
+      "prereg": true,
+      "firstSeen": "2026-11-14T04:00:35.109Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-20T02:00:29.126Z",
-      "type": "new",
-      "label": "新規",
-      "title": "RPGツクールU2U",
-      "url": "http://u2u.rpgmakerofficial.com/",
-      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
-      "platforms": [],
-      "to": "2026年11月16日"
-    },
     {
       "at": "2026-10-20T08:30:31.694Z",
       "type": "new",
@@ -80514,6 +80528,18 @@
       "image": "https://girls-und-panzer.mages.co.jp/common/img/ogimage.jpg?20261029",
       "platforms": [],
       "to": "2027年内"
+    },
+    {
+      "at": "2026-11-14T04:00:35.109Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "雀皇麻雀2",
+      "url": "https://new.mjking.jp/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/8f/e0/958fe0a0-3c85-eac7-ea16-6665acfebf00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月1日"
     }
   ],
   "initialized": true,
