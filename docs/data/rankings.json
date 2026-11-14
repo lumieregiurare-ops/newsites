@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:00:17.117Z",
+  "updatedAt": "2026-11-14T07:30:17.656Z",
   "boards": [
     {
       "id": "steam",
@@ -150,40 +150,40 @@
       "items": [
         {
           "rank": 1,
-          "title": "[777Real]スマスロ リコリス・リコイル",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/fb/29/00fb298d-2317-eb82-078b-653bb0e31b32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/777real-%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9-%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB/id6823027426",
-          "metric": "Sammy Networks Co., Ltd.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 2,
           "title": "モンスターハンターアウトランダーズ",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
           "metric": "Level Infinite",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
           },
           "deltaNote": "前日比"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Meowdoku!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/8d/f3/a38df3ae-b984-a8f6-4a54-ee48e4074dbc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 3,
+          "title": "[777Real]スマスロ リコリス・リコイル",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/fb/29/00fb298d-2317-eb82-078b-653bb0e31b32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/777real-%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9-%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB/id6823027426",
+          "metric": "Sammy Networks Co., Ltd.",
+          "delta": {
+            "kind": "down",
+            "label": "-2",
+            "value": -2
           },
           "deltaNote": "前日比"
         },
@@ -241,27 +241,27 @@
         },
         {
           "rank": 8,
-          "title": "Bus Traffic Fever!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
-          "metric": "GOODROID,Inc.",
-          "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 9,
           "title": "Warline: スナイパー",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
           "metric": "Powerfantasy",
           "delta": {
             "kind": "down",
-            "label": "-2",
-            "value": -2
+            "label": "-1",
+            "value": -1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "Bus Traffic Fever!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
+          "metric": "GOODROID,Inc.",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
