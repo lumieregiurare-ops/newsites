@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-14T22:00:16.842Z",
+  "updatedAt": "2026-11-14T22:30:17.008Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1324,
+  "total": 1325,
   "regions": {
-    "jp": 1062,
+    "jp": 1063,
     "global": 262
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 276
+      "count": 277
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 483
+      "count": 484
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,34 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "2edbf60fe1fe",
+      "url": "https://www.leagueoflegends.com/ja-jp/",
+      "host": "leagueoflegends.com",
+      "region": "jp",
+      "title": "LoL",
+      "headline": "『LoL』の超大規模アップデート『League of Legends New Dawn』が発表！新クライアントをリリースし、サモナーズリフトのビジュアルは大刷新",
+      "description": "リーグ・オブ・レジェンドはチームベースのストラテジーゲームで、140体以上のチャンピオンの中から使用するチャンピオンを選べます。今すぐ無料で始めましょう。",
+      "publishedAt": "2026-11-14T22:03:55.000Z",
+      "addedAt": "2026-11-14T22:30:17.008Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261115b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
+    },
     {
       "id": "f6fa4c9c11ea",
       "url": "https://contents.gendagigo.jp/gigo-neosnack",
