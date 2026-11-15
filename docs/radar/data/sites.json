@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:30:16.157Z",
+  "updatedAt": "2026-11-15T04:00:19.095Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 119
+      "count": 120
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 325
+      "count": 326
     },
     {
       "id": "official",
@@ -4205,7 +4205,7 @@
       "region": "jp",
       "title": "英雄伝説 界の軌跡",
       "headline": "日本ファルコム，2026年9月期決算を発表。売上高・各利益が過去最高を更新。2027年9月期には「英雄伝説 界の軌跡」の完結編を発売予定",
-      "description": "日本ファルコム，2026年9月期決算を発表。売上高・各利益が過去最高を更新。2027年9月期には「英雄伝説 界の軌跡」の完結編を発売予定",
+      "description": "ソフト開発、販売などを行う日本ファルコム株式会社の公式ウェブサイトです。開発タイトルの情報サイトや通販、メールマガジンなどさまざまなサービスを紹介しています。",
       "publishedAt": "2026-11-11T00:00:00.000Z",
       "addedAt": "2026-11-15T03:00:14.932Z",
       "source": "4Gamer",
@@ -4219,11 +4219,13 @@
         "ゲーム"
       ],
       "categories": [
-        "release"
+        "release",
+        "company",
+        "goods"
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://www.falcom.co.jp/page/wp-content/themes/falcom2022/assets/og.jpg"
     },
     {
       "id": "a27abd806f5a",
