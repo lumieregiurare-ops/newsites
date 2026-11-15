@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T14:30:23.300Z",
+  "updatedAt": "2026-11-15T15:00:19.223Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（11/14 比）",
+      "note": "Steam の同時接続数ランキング（11/15 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -93,9 +93,9 @@
           "url": "https://store.steampowered.com/app/1422450/",
           "metric": "同時接続 217,723人",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -106,9 +106,9 @@
           "url": "https://store.steampowered.com/app/2868840/",
           "metric": "同時接続 200,329人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（11/14 比）",
+      "note": "App Store（日本）の無料ゲームランキング（11/15 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -181,9 +181,9 @@
           "url": "https://apps.apple.com/jp/app/bus-fever-party-%E3%83%90%E3%82%B9%E6%B8%8B%E6%BB%9E%E8%84%B1%E5%87%BA/id6746743297",
           "metric": "Lumi Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -194,9 +194,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -207,9 +207,9 @@
           "url": "https://apps.apple.com/jp/app/777real-%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%AD-%E3%83%AA%E3%82%B3%E3%83%AA%E3%82%B9-%E3%83%AA%E3%82%B3%E3%82%A4%E3%83%AB/id6823027426",
           "metric": "Sammy Networks Co., Ltd.",
           "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
           "metric": "Powerfantasy",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -246,9 +246,9 @@
           "url": "https://apps.apple.com/jp/app/pok%C3%A9mon-go/id1094591345",
           "metric": "Scopely Explore, Inc.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -259,9 +259,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
           "metric": "Hungry Studio",
           "delta": {
-            "kind": "up",
-            "label": "+3",
-            "value": 3
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
           "metric": "Microfun Limited",
           "delta": {
-            "kind": "up",
-            "label": "+4",
-            "value": 4
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }
