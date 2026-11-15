@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-15T01:30:16.764Z",
+  "updatedAt": "2026-11-15T02:00:16.224Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1316,
+  "total": 1330,
   "regions": {
-    "jp": 1055,
-    "global": 261
+    "jp": 1058,
+    "global": 272
   },
   "categories": [
     {
@@ -50,12 +50,12 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 23
+      "count": 24
     },
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 119
+      "count": 120
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 312
+      "count": 326
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 442
+      "count": 456
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "arcade",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "App Store",
     "電ファミニコゲーマー",
     "4Gamer",
-    "App Store",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,73 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "f6ead33addcb",
+      "url": "https://pigknightgames.com/games/pitling/",
+      "host": "pigknightgames.com",
+      "region": "global",
+      "title": "Pitling: ポケットパズル",
+      "headline": "Christoph Minnameier / パズル · App Store 新着",
+      "description": "Christoph Minnameier / パズル · App Store 新着",
+      "publishedAt": "2026-11-15T02:00:26.687Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821845434"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "47b425c0d644",
+      "url": "https://cityconflict.com/",
+      "host": "cityconflict.com",
+      "region": "global",
+      "title": "City Conflict: Global Wars",
+      "headline": "Brian Breloer / ストラテジー・ロールプレイング · App Store 新着",
+      "description": "Spiele CityConflict kostenlos! Das beste Multiplayer-Strategiespiel im Browser. Baue dein Imperium auf und erobere die …",
+      "publishedAt": "2026-11-15T02:00:26.687Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6830859835"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://cityconflict.com/img/og-image.jpg"
+    },
     {
       "id": "2edbf60fe1fe",
       "url": "https://www.leagueoflegends.com/ja-jp/",
@@ -160,6 +227,106 @@
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     },
     {
+      "id": "727167f92b0a",
+      "url": "https://realvirtuality.app/",
+      "host": "realvirtuality.app",
+      "region": "global",
+      "title": "Hooder One",
+      "headline": "NickDegs LLC / ストラテジー・シミュレーション · App Store 新着",
+      "description": "RealVirtuality by NickDegs — an iOS studio. Hooder, Move Log, Hush, From Plane with Love and upcoming games: simulation…",
+      "publishedAt": "2026-11-14T18:32:52.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833357493"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://realvirtuality.app/media/hooder-city.jpg"
+    },
+    {
+      "id": "0be97445127c",
+      "url": "https://billwoo.itch.io/rise-of-the-penguins-gb",
+      "host": "billwoo.itch.io",
+      "region": "global",
+      "title": "Rise of the Penguins GB",
+      "headline": "Justin Mah / アクション・エンターテインメント · App Store 新着",
+      "description": "A penguin platformer with a variety of challenging enemies along the journey",
+      "publishedAt": "2026-11-14T17:07:39.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6817442187"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://img.itch.zone/aW1nLzE3OTc4NTU1LnBuZw==/original/8Szymy.png"
+    },
+    {
+      "id": "d3ad0ac6de76",
+      "url": "https://apps.apple.com/jp/app/id6832400660",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Lower Mainland Lockdown",
+      "headline": "TIMOTHY JAMES TULLOCH / レーシング・エンターテインメント · App Store 新着",
+      "description": "TIMOTHY JAMES TULLOCHの「Lower Mainland Lockdown」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Lower Mainland Lockdo…",
+      "publishedAt": "2026-11-14T16:45:14.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832400660"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/8c/bf/ba8cbfcf-dc41-c59a-9a54-4de4c5ecaab5/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
       "id": "f6fa4c9c11ea",
       "url": "https://contents.gendagigo.jp/gigo-neosnack",
       "host": "contents.gendagigo.jp",
@@ -185,6 +352,302 @@
       "platforms": [],
       "points": null,
       "image": "https://storage.googleapis.com/production-os-assets/assets/189183a2-fa30-4116-81e7-5fdda8ae6418"
+    },
+    {
+      "id": "43b85823c1e8",
+      "url": "https://alittlemiddle.truecraftstudio.co/",
+      "host": "alittlemiddle.truecraftstudio.co",
+      "region": "global",
+      "title": "A Little Middle",
+      "headline": "Raif Ozdogan / パズル・カジュアル · App Store 新着",
+      "description": "Combine tiles on a handcrafted wooden board. Place every figure right in the center of its cushion region and leave no …",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6824056770"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://alittlemiddle.truecraftstudio.co/assets/og-image.png"
+    },
+    {
+      "id": "6ad36f03957f",
+      "url": "https://appsthrum.com/adventthrum/",
+      "host": "appsthrum.com",
+      "region": "global",
+      "title": "Adventthrum",
+      "headline": "Dachverband Legasthenie Deutschland e.V. / パズル・ファミリー · App Store 新着",
+      "description": "24 Türchen, 24 kleine Spiele, 24 Rentier-Videos als Belohnung. Kostenlos, ohne Werbung, ohne Konto.",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834656695"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ファミリー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://appsthrum.com/adventthrum/assets/og.jpg?v=20261114b"
+    },
+    {
+      "id": "f4993f2b01df",
+      "url": "https://antycoon.com/",
+      "host": "antycoon.com",
+      "region": "global",
+      "title": "Antycoon",
+      "headline": "jeremy arciszewski / ストラテジー・エンターテインメント · App Store 新着",
+      "description": "Creuse, construis, survis aux orages et conquiers la colline. Gratuit sur l",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834116671"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://antycoon.com/s/hero.jpg"
+    },
+    {
+      "id": "a32d4e8fd45a",
+      "url": "https://apps.apple.com/jp/app/id6818166058",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Aplomb: Balance Puzzle",
+      "headline": "Memat BUL GAK / カジュアル・パズル · App Store 新着",
+      "description": "Memat BUL GAKの「Aplomb: Balance Puzzle」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Aplomb: Balance Puzzle」に似たゲームを…",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6818166058"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/e8/4d/d1e84d87-a68d-9b26-a683-ecc42cc5279b/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "694b31476808",
+      "url": "http://www.gcimagine.com/",
+      "host": "gcimagine.com",
+      "region": "global",
+      "title": "ARIA: Space Frontier",
+      "headline": "Gary Cox / エンターテインメント・ストラテジー · App Store 新着",
+      "description": "Gary Cox / エンターテインメント・ストラテジー · App Store 新着",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6816525969"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "74cc3af992d4",
+      "url": "https://binblitz.app/",
+      "host": "binblitz.app",
+      "region": "global",
+      "title": "Arman the Trash Panda",
+      "headline": "The NFC Mint LLC / ファミリー・カジュアル · App Store 新着",
+      "description": "Sort falling garbage into the correct bins while Arman swaps bin types and laughs at all of your misses when you inevit…",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833369760"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://binblitz.app/img/og-image.png"
+    },
+    {
+      "id": "3802757c81ef",
+      "url": "https://apps.apple.com/jp/app/id6828091276",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Arrowly: Arrow Puzzle",
+      "headline": "Walid ATMANI / パズル · App Store 新着",
+      "description": "Walid ATMANIの「Arrowly: Arrow Puzzle」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Arrowly: Arrow Puzzle」に似たゲームを見るこ…",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828091276"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/6b/14/656b14fb-f4f4-851c-2e4f-5ed22bd28798/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "902ed70b18ae",
+      "url": "https://nandinipatel7499-stack.github.io/nandinipatel/",
+      "host": "nandinipatel7499-stack.github.io",
+      "region": "global",
+      "title": "Arrow Puzzle Escape: 矢印パズル",
+      "headline": "Nandini Patel / パズル・カジュアル · App Store 新着",
+      "description": "Nandini Patel - Independent iOS App Developer. Explore my portfolio of innovative mobile applications on the App Store.",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6822848974"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "856ee7af33c4",
+      "url": "https://parismitaglobalsolutions.com/apps/arrow-stitch/",
+      "host": "parismitaglobalsolutions.com",
+      "region": "global",
+      "title": "Arrow Stitch: Cozy Untangle",
+      "headline": "parismita gupta / カジュアル・パズル · App Store 新着",
+      "description": "Tap a thread with a clear path to pull it free, then sew the picture you untangled into a cozy gift. Free on Android an…",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "addedAt": "2026-11-15T02:00:16.224Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828024719"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://parismitaglobalsolutions.com/apps/arrow-stitch/assets/og-image.jpg"
     },
     {
       "id": "4790ae8c30fc",
@@ -4492,6 +4955,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611092u"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/15/174886.html"
         }
       ],
       "tags": [
