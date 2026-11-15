@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T22:00:24.968Z",
+  "updatedAt": "2026-11-15T22:30:16.455Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1308,
+  "total": 1309,
   "regions": {
-    "jp": 1039,
+    "jp": 1040,
     "global": 269
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 271
+      "count": 272
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 466
+      "count": 467
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 327
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 454
+      "count": 455
     },
     {
       "id": "browser",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "電ファミニコゲーマー",
+    "App Store",
     "Inside",
     "4Gamer",
-    "App Store",
     "AppBank",
     "Game*Spark",
     "Appliv Games",
@@ -159,6 +159,40 @@
       "platforms": [],
       "points": null,
       "image": "https://gkmas-halfanniv2026.idolmaster-official.jp/assets/img/top/top_ogp.png"
+    },
+    {
+      "id": "5cc59d176420",
+      "url": "https://developerkerukeru.github.io/soft-tennis-spark-website/",
+      "host": "developerkerukeru.github.io",
+      "region": "jp",
+      "title": "SOFT TENNIS SPARK",
+      "headline": "Ko Keruma / スポーツ · App Store 新着",
+      "description": "SOFT TENNIS SPARKはiPhone向けの3Dソフトテニスゲーム。フリック操作でショットを打ち分け、練習・大会・2人のシングルス・4人のダブルスを楽しめます。基本プレイ無料予定。現在リリース準備中です。",
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "addedAt": "2026-11-15T22:30:16.455Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6806596060"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://developerkerukeru.github.io/soft-tennis-spark-website/images/share.jpg"
     },
     {
       "id": "d8de0cb6f5a3",
