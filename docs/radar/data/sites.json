@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T05:30:15.668Z",
+  "updatedAt": "2026-11-15T06:00:16.393Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1328,
+  "total": 1329,
   "regions": {
-    "jp": 1056,
+    "jp": 1057,
     "global": 272
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 165
     },
     {
       "id": "anniversary",
@@ -121,16 +121,44 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
-    "Inside",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "d8de0cb6f5a3",
+      "url": "https://space.bilibili.com/696791303",
+      "host": "space.bilibili.com",
+      "region": "jp",
+      "title": "VIRTUAL CIRCLE",
+      "headline": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
+      "description": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
+      "publishedAt": "2026-11-15T06:00:03.000Z",
+      "addedAt": "2026-11-15T06:00:16.393Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/15/190991.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "97b75a7a7478",
       "url": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/discover",

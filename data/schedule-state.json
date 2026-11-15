@@ -2951,7 +2951,7 @@
       "entry": null
     },
     "デジモンカードゲーム": {
-      "at": "2026-11-12T05:30:36.525Z",
+      "at": "2026-11-15T06:00:33.309Z",
       "entry": {
         "trackId": "1503434138",
         "title": "デジモンカードゲーム　ティーチングアプリ",
@@ -3209,7 +3209,7 @@
       }
     },
     "ビーナスイレブンびびっど！": {
-      "at": "2026-11-12T05:30:35.106Z",
+      "at": "2026-11-15T06:00:31.896Z",
       "entry": {
         "trackId": "981760421",
         "title": "ビーナスイレブンびびっど！",
@@ -3774,6 +3774,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/8f/e0/958fe0a0-3c85-eac7-ea16-6665acfebf00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "VIRTUAL CIRCLE": {
+      "at": "2026-11-15T06:00:30.463Z",
+      "entry": null
     }
   },
   "titles": {
@@ -75863,19 +75867,14 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-15T04:00:37.404Z"
+    },
+    "virtualcircle": {
+      "title": "VIRTUAL CIRCLE",
+      "prereg": true,
+      "firstSeen": "2026-11-15T06:00:30.105Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-20T08:30:31.694Z",
-      "type": "new",
-      "label": "新規",
-      "title": "トロピコ7",
-      "url": "https://kalypsomedia.co.jp/tropico7/",
-      "image": "",
-      "platforms": [],
-      "to": "2027年1月28日"
-    },
     {
       "at": "2026-10-20T10:00:36.262Z",
       "type": "new",
@@ -80668,6 +80667,18 @@
         "mobile"
       ],
       "to": "2026年12月1日"
+    },
+    {
+      "at": "2026-11-15T06:00:30.105Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "VIRTUAL CIRCLE",
+      "url": "https://space.bilibili.com/696791303",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
