@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T12:00:15.550Z",
+  "updatedAt": "2026-11-15T12:30:17.531Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1317,
+  "total": 1318,
   "regions": {
-    "jp": 1047,
+    "jp": 1048,
     "global": 270
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 115
+      "count": 116
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 229
+      "count": 230
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 271
+      "count": 272
     },
     {
       "id": "release",
@@ -121,16 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "App Store",
-    "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "6bc478542b88",
+      "url": "https://gkmas-halfanniv2026.idolmaster-official.jp/",
+      "host": "gkmas-halfanniv2026.idolmaster-official.jp",
+      "region": "jp",
+      "title": "学マス",
+      "headline": "『学マス』氷渡香名江（CV：安倍彩野夏）のライブシーンが公開！竹内アンナさんが作詞・作曲を手がけた新曲「メタモルフォーゼ」がお披露目",
+      "description": "「学園アイドルマスター（学マス）」2.5周年を記念した「氷渡 香名江」の特設サイトです。",
+      "publishedAt": "2026-11-15T12:07:47.000Z",
+      "addedAt": "2026-11-15T12:30:17.531Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261115r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://gkmas-halfanniv2026.idolmaster-official.jp/assets/img/top/top_ogp.png"
+    },
     {
       "id": "d8de0cb6f5a3",
       "url": "https://space.bilibili.com/696791303",
