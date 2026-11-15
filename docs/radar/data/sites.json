@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-15T03:00:14.932Z",
+  "updatedAt": "2026-11-15T03:30:16.157Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1327,
+  "total": 1328,
   "regions": {
-    "jp": 1055,
+    "jp": 1056,
     "global": 272
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 176
+      "count": 177
     }
   ],
   "platforms": [
@@ -87,17 +87,17 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 38
+      "count": 39
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 17
+      "count": 18
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 151
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
-    "4Gamer",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,37 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "97b75a7a7478",
+      "url": "https://www.ubisoft.com/ja-jp/game/rainbow-six/siege/game-info/discover",
+      "host": "ubisoft.com",
+      "region": "jp",
+      "title": "レインボーシックス シージ",
+      "headline": "「レインボーシックス シージ」Year11 Season4の情報が公開。Docのリマスターやランクマッチのマッチメイキング改修などを予定。貴重なスキンを獲得できるチャンスも",
+      "description": "最高峰タクティカルFPSの注目ポイントをチェックしましょう。PC、PS5、PS4、Xbox Series X/S、Xbox Oneでプレイ可能な、5v5で行われる攻撃vs防衛のゲームプレイと激しい近接戦闘に飛び込み、何百万人ものプレイヤー…",
+      "publishedAt": "2026-11-15T03:00:00.000Z",
+      "addedAt": "2026-11-15T03:30:16.157Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/902/G090227/20261115001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6CSuHgcdAcvxcEWU6AzJqc/776b4189b4d2d20e87f6c8937374fae7/r6-siege-x-meta-image.jpg"
+    },
     {
       "id": "f6ead33addcb",
       "url": "https://pigknightgames.com/games/pitling/",
