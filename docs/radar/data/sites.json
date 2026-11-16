@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T00:00:17.765Z",
+  "updatedAt": "2026-11-16T00:30:23.808Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1306,
+  "total": 1307,
   "regions": {
-    "jp": 1037,
+    "jp": 1038,
     "global": 269
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 119
+      "count": 120
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 327
     },
     {
       "id": "official",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 36
+      "count": 37
     },
     {
       "id": "xbox",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 147
+      "count": 148
     },
     {
       "id": "mobile",
@@ -1609,6 +1609,37 @@
       ],
       "points": null,
       "image": "https://play-lh.googleusercontent.com/mxZopTIp_kzRe8WQFIc5M_d15m0ickWz8iC1SUlCeM8ceoxyODloY0jTB7KtTpVNOs0N-FZPu2NaMEaHjWXT1g=s0-br30"
+    },
+    {
+      "id": "d4e8e2447322",
+      "url": "https://www.level5.co.jp/",
+      "host": "level5.co.jp",
+      "region": "jp",
+      "title": "レイトン教授と蒸気の新世界",
+      "headline": "『レイトン教授と蒸気の新世界』PS5・Steam向けダウンロード版の予約販売が開始。シリーズの楽曲を収録した「デジタルサウンドトラック」が予約特典に",
+      "description": "株式会社レベルファイブ企業サイト。製品情報、会社情報、採用情報のご紹介。",
+      "publishedAt": "2026-11-13T12:23:26.000Z",
+      "addedAt": "2026-11-16T00:30:23.808Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611132t"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "ps",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.level5.co.jp/assets/img/shared/ogp.jpg"
     },
     {
       "id": "ad75bad92792",
