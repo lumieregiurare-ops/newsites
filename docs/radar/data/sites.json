@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T04:00:15.842Z",
+  "updatedAt": "2026-11-16T04:30:16.179Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1292,
+  "total": 1293,
   "regions": {
-    "jp": 1023,
+    "jp": 1024,
     "global": 269
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 166
+      "count": 167
     }
   ],
   "platforms": [
@@ -2877,6 +2877,33 @@
       "platforms": [],
       "points": null,
       "image": "https://pgfableweqzl6jpbr734gosa.blob.core.windows.net/blobpgfablewe-qzl6jpbr734go/uploads/large_holland_hero_16x9_b28c45c830.png"
+    },
+    {
+      "id": "41ee53feb171",
+      "url": "https://www.dragonquest.jp/monsters4/",
+      "host": "dragonquest.jp",
+      "region": "jp",
+      "title": "ドラゴンクエストモンスターズ4",
+      "headline": "「ドラゴンクエストモンスターズ4」，冒険序盤の詳細を公開。ビアンカとフローラのどちらかを主人公に選択。モンスターの配合やカレキ地方の探索も紹介",
+      "description": "『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』の公式サイトです。",
+      "publishedAt": "2026-11-12T22:00:00.000Z",
+      "addedAt": "2026-11-16T04:30:16.179Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/010/G101055/20261105050/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.dragonquest.jp/monsters4/_assets/img/common/sns.png?260910"
     },
     {
       "id": "3bca2b9d4d65",
