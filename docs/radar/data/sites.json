@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T13:00:20.240Z",
+  "updatedAt": "2026-11-16T13:30:18.495Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1290,
+  "total": 1291,
   "regions": {
-    "jp": 1020,
+    "jp": 1021,
     "global": 270
   },
   "categories": [
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 122
+      "count": 123
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 52
+      "count": 53
     },
     {
       "id": "goods",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 146
+      "count": 147
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 460
+      "count": 461
     },
     {
       "id": "browser",
@@ -131,6 +131,36 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "4bbcdea6a146",
+      "url": "https://unity.com/ja",
+      "host": "unity.com",
+      "region": "jp",
+      "title": "5万ドル",
+      "headline": "Unity、ゲーム開発者に「5万ドル」を助成する新プログラムを発表。専門家のサポートや業界とのコネクション、PRまで手厚く支援",
+      "description": "世界をリードする 3D ゲームエンジンである Unity を使って開発、展開、成長しましょう。モバイルからPC、コンソール、XRまで、すべての主要プラットフォーム向けにビルドし、プレイヤーを獲得し、ゲームをMonetizeし、産業用アプリ…",
+      "publishedAt": "2026-11-16T13:00:53.000Z",
+      "addedAt": "2026-11-16T13:30:18.495Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611162c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/9a58ef0b0a39424aaf70dd4c30539b477ae54697-1200x630.png"
+    },
     {
       "id": "e71b91bad32b",
       "url": "https://about.mercari.com/",
@@ -14009,7 +14039,8 @@
         "スマホ",
         "iOS",
         "カジノ",
-        "エンターテインメント"
+        "エンターテインメント",
+        "シミュレーション"
       ],
       "categories": [
         "company",
@@ -19513,7 +19544,7 @@
       "region": "global",
       "title": "ルーンスケープ：ドラゴンワイルズ",
       "headline": "【最大4人】ファンタジー世界を生き抜くオープンワールドサバイバルゲーム『ルーンスケープ：ドラゴンワイルズ』2027年以降のロードマップを公開。新ストーリーや新スキル「祈り」が12…",
-      "description": "Graph is a Japan-based company specializing in game publishing, PR, and marketing. We bring indie and AAA games from ar…",
+      "description": "Graph is a Japan-based game publisher specializing in publishing, PR, and marketing. We bring indie and AAA games from …",
       "publishedAt": "2026-10-16T03:00:59.000Z",
       "addedAt": "2026-10-16T03:30:17.441Z",
       "source": "電ファミニコゲーマー",
@@ -19527,7 +19558,8 @@
         "ゲーム"
       ],
       "categories": [
-        "indie"
+        "indie",
+        "company"
       ],
       "platforms": [],
       "points": null,
