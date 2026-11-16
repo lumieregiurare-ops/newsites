@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:00:34.267Z",
+  "updatedAt": "2026-11-16T08:30:35.075Z",
   "platforms": [
     {
       "id": "switch",
@@ -224,6 +224,21 @@
       "sourceUrl": "https://www.inside-games.jp/article/2026/11/12/190826.html"
     },
     {
+      "id": "10dff8dd0abe",
+      "title": "ドラクエ",
+      "date": "2026-11-23",
+      "dateText": "2026年11月23日",
+      "sortKey": "2026-11-23",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.nissin.com/jp/company/",
+      "image": "https://www.nissin.com/assets/images/common/og.png",
+      "maker": "",
+      "headline": "『ドラクエ』の魔王が、日清ラ王とコラボ！「日清マ王 大魔王味噌」11月23日発売―「はぐれメタルブランケット付きセット」や「ゾーマのフタ止めアクスタ」も",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/16/191045.html"
+    },
+    {
       "id": "9c2c1ca58124",
       "title": "TEMPPAL: OVERGEARED",
       "date": "2026-11-26",
@@ -252,21 +267,6 @@
       "headline": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/991/G999111/20261114001/"
-    },
-    {
-      "id": "e67cb55c9b01",
-      "title": "Hela: ちいさなねずみと魔法の森",
-      "date": "2026-12-01",
-      "dateText": "2026年12月1日",
-      "sortKey": "2026-12-01",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://helagame.com/",
-      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
-      "maker": "",
-      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
     }
   ],
   "prereg": [
@@ -444,6 +444,17 @@
   ],
   "changes": [
     {
+      "at": "2026-11-16T08:30:35.075Z",
+      "type": "date_fixed",
+      "label": "発売日決定",
+      "title": "ドラクエ",
+      "url": "https://www.nissin.com/jp/company/",
+      "image": "https://www.nissin.com/assets/images/common/og.png",
+      "platforms": [],
+      "from": "2026年11月",
+      "to": "2026年11月23日"
+    },
+    {
       "at": "2026-11-16T06:30:29.119Z",
       "type": "new",
       "label": "新規",
@@ -503,18 +514,6 @@
       ],
       "from": "2026年11月7日",
       "to": "2026年11月"
-    },
-    {
-      "at": "2026-11-15T06:00:30.105Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "VIRTUAL CIRCLE",
-      "url": "https://space.bilibili.com/696791303",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T08:00:18.418Z",
+  "updatedAt": "2026-11-16T08:30:17.501Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1295,
+  "total": 1297,
   "regions": {
-    "jp": 1025,
+    "jp": 1027,
     "global": 270
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 226
+      "count": 228
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 265
+      "count": 266
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 119
+      "count": 120
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 328
+      "count": 329
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 455
+      "count": 456
     },
     {
       "id": "browser",
@@ -121,16 +121,79 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
+    "Inside",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "App Store",
-    "Inside",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "fa27af862f36",
+      "url": "https://apps.apple.com/jp/app/id1136991505",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "バイオハザード レクイエム",
+      "headline": "『バイオハザード レクイエム』デラックス版が「30%オフ」で購入できるセール開催中。PSストアにて「9990円→6993円」とお得に",
+      "description": "CAPCOMの「逆転裁判４」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「逆転裁判４」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-16T08:21:22.000Z",
+      "addedAt": "2026-11-16T08:30:17.501Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261116w"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/1e/d0/d71ed0ae-0e0a-ecc7-f619-1131eb951a64/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.jpg"
+    },
+    {
+      "id": "361640d8d753",
+      "url": "https://www.nissin.com/jp/company/",
+      "host": "nissin.com",
+      "region": "jp",
+      "title": "ドラクエ",
+      "headline": "『ドラクエ』の魔王が、日清ラ王とコラボ！「日清マ王 大魔王味噌」11月23日発売―「はぐれメタルブランケット付きセット」や「ゾーマのフタ止めアクスタ」も",
+      "description": "日清食品グループのIR情報やサステナビリティへの取り組み、採用情報などの企業情報をご覧いただけます。",
+      "publishedAt": "2026-11-16T08:05:02.000Z",
+      "addedAt": "2026-11-16T08:30:17.501Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/16/191045.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release",
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.nissin.com/assets/images/common/og.png"
+    },
     {
       "id": "cf21451a70cc",
       "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.yam0026",
