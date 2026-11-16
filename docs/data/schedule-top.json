@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T09:30:33.900Z",
+  "updatedAt": "2026-11-16T10:00:33.777Z",
   "platforms": [
     {
       "id": "switch",
@@ -271,6 +271,28 @@
   ],
   "prereg": [
     {
+      "id": "fc9d5e8514b7",
+      "title": "アイルレイダー",
+      "url": "https://g123.jp/game/island",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/26ceedcdac551980e770b30c6733dae76317cfa60b0487eb9945309c.png",
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "startedAt": "2026-11-16T09:55:34.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "海洋戦略ゲーム「アイルレイダー」，G123で事前登録受付を開始",
+      "description": "『アイルレイダー』は、海に浮かぶ島を拡張し、大砲を自由に配置・強化して敵と戦う戦略バトルゲームです。大砲の配置を工夫し、戦力差を覆して勝利を目指しましょう！ダウンロード不要・基本プレイ無料で、スマホやPCのブラウザから手軽に楽しめます。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/058/G105873/20261116022/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "d8de0cb6f5a3",
       "title": "VIRTUAL CIRCLE",
       "url": "https://space.bilibili.com/696791303",
@@ -420,29 +442,23 @@
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261107k",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "276bfa8236d0",
-      "title": "TEMPPAL: OVERGEARED",
-      "url": "https://temppal.nexon.com/reservation",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-06T11:07:48.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
-      "description": "「TEMPPAL: OVERGEARED」，11月26日に韓国，台湾，香港，マカオでリリース",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/056/G105636/20261106046/",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-16T10:00:33.777Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アイルレイダー",
+      "url": "https://g123.jp/game/island",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/26ceedcdac551980e770b30c6733dae76317cfa60b0487eb9945309c.png",
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-16T08:30:35.075Z",
       "type": "date_fixed",
@@ -501,19 +517,6 @@
         "mobile"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-11-16T03:30:35.135Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "JockeyBox",
-      "url": "https://play.google.com/store/apps/details?id=com.ipsbox.jockeybox",
-      "image": "https://play-lh.googleusercontent.com/q7zKOV2XS6hVBAbSZZQH0xs6KZYUTYQlhMjyJ7b7wumQiix1oFNrB4Qhr4MGJ1elf4MTMD7XL26Goo4aA2ROtg=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年11月7日",
-      "to": "2026年11月"
     }
   ]
 }

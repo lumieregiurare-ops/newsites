@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T09:30:18.035Z",
+  "updatedAt": "2026-11-16T10:00:20.013Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1286,
+  "total": 1287,
   "regions": {
-    "jp": 1015,
+    "jp": 1016,
     "global": 271
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -97,17 +97,17 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 145
+      "count": 146
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 456
+      "count": 457
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "arcade",
@@ -121,16 +121,48 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "fc9d5e8514b7",
+      "url": "https://g123.jp/game/island",
+      "host": "g123.jp",
+      "region": "jp",
+      "title": "アイルレイダー",
+      "headline": "海洋戦略ゲーム「アイルレイダー」，G123で事前登録受付を開始",
+      "description": "『アイルレイダー』は、海に浮かぶ島を拡張し、大砲を自由に配置・強化して敵と戦う戦略バトルゲームです。大砲の配置を工夫し、戦力差を覆して勝利を目指しましょう！ダウンロード不要・基本プレイ無料で、スマホやPCのブラウザから手軽に楽しめます。",
+      "publishedAt": "2026-11-16T09:55:34.000Z",
+      "addedAt": "2026-11-16T10:00:20.013Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105873/20261116022/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/26ceedcdac551980e770b30c6733dae76317cfa60b0487eb9945309c.png"
+    },
     {
       "id": "072cfb4969b8",
       "url": "https://apps.apple.com/jp/app/id6741469353",

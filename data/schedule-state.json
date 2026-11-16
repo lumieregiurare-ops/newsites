@@ -1229,7 +1229,7 @@
       }
     },
     "イナズマイレブン クロス": {
-      "at": "2026-11-13T09:30:38.002Z",
+      "at": "2026-11-16T10:00:37.087Z",
       "entry": {
         "trackId": "6756994116",
         "title": "イナズマイレブン クロス",
@@ -3490,7 +3490,7 @@
       }
     },
     "Maru": {
-      "at": "2026-11-13T09:30:36.623Z",
+      "at": "2026-11-16T10:00:35.690Z",
       "entry": {
         "trackId": "816142637",
         "title": "Maru-Jan App",
@@ -3808,6 +3808,10 @@
     },
     "バイオハザード レクイエム": {
       "at": "2026-11-16T08:30:35.315Z",
+      "entry": null
+    },
+    "アイルレイダー": {
+      "at": "2026-11-16T10:00:34.008Z",
       "entry": null
     }
   },
@@ -76561,22 +76565,78 @@
       "sortKey": "2026-11-17",
       "prereg": false,
       "firstSeen": "2026-11-16T09:30:33.900Z"
+    },
+    "greenguygoesgrapplingdemo": {
+      "title": "Green Guy Goes Grappling Demo",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "herooftheguitar": {
+      "title": "Hero Of The Guitar",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "hopfalldemo": {
+      "title": "Hopfall Demo",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "sir,wehaveapitproblem!demo": {
+      "title": "Sir, We Have a Pit Problem! Demo",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "あみだキュウ": {
+      "title": "あみだキュウ",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "レバレッジ不動産シミュレーター": {
+      "title": "レバレッジ不動産シミュレーター",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "爽玩大卡组": {
+      "title": "爽玩大卡组",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "pickynumbers": {
+      "title": "Picky Numbers",
+      "dateText": "2026年11月17日",
+      "date": "2026-11-17",
+      "sortKey": "2026-11-17",
+      "prereg": false,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
+    },
+    "アイルレイダー": {
+      "title": "アイルレイダー",
+      "prereg": true,
+      "firstSeen": "2026-11-16T10:00:33.777Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T03:00:33.773Z",
-      "type": "new",
-      "label": "新規",
-      "title": "農家は Replace() されました",
-      "url": "https://farmer.ateo.ch/",
-      "image": "https://farmer.ateo.ch/img/og_image.jpg",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": "2026年11月2日"
-    },
     {
       "at": "2026-10-21T03:00:33.773Z",
       "type": "prereg_start",
@@ -81368,6 +81428,20 @@
       "platforms": [],
       "from": "2026年11月",
       "to": "2026年11月23日"
+    },
+    {
+      "at": "2026-11-16T10:00:33.777Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アイルレイダー",
+      "url": "https://g123.jp/game/island",
+      "image": "https://platform-ik.g123.jp/g123/production-ctw-box/game-box/preview/26ceedcdac551980e770b30c6733dae76317cfa60b0487eb9945309c.png",
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
