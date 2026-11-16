@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-16T08:30:17.501Z",
+  "updatedAt": "2026-11-16T09:00:17.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1297,
+  "total": 1299,
   "regions": {
-    "jp": 1027,
-    "global": 270
+    "jp": 1028,
+    "global": 271
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 266
+      "count": 267
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 463
+      "count": 464
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 24
+      "count": 25
     },
     {
       "id": "company",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 51
+      "count": 52
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 329
+      "count": 330
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 456
+      "count": 457
     },
     {
       "id": "browser",
@@ -121,16 +121,78 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "AppBank",
     "4Gamer",
     "App Store",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "072cfb4969b8",
+      "url": "https://apps.apple.com/jp/app/id6741469353",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "サカつく2026",
+      "headline": "『サカつく2026』最強監督決定戦が12月6日開催！ セガ大崎本社で観覧エントリー受付中",
+      "description": "SEGA CORPORATIONの「プロサッカークラブをつくろう！」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「プロサッカークラブをつくろう！」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-16T08:55:00.000Z",
+      "addedAt": "2026-11-16T09:00:17.040Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/16/game/3167660.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/f6/38/aef6388a-0911-3682-2618-489eb6fefb95/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "1071eb471159",
+      "url": "https://cyber.mp/",
+      "host": "cyber.mp",
+      "region": "global",
+      "title": "サイバーパンク2077",
+      "headline": "『サイバーパンク2077』マルチプレイヤーMod「CyberMP」オープンベータ版リリース！フレンドとともにナイトシティへ…",
+      "description": "The ultimate multiplayer experience for Cyberpunk 2077. Play with your friends, explore Night City together and develop…",
+      "publishedAt": "2026-11-16T08:45:03.000Z",
+      "addedAt": "2026-11-16T09:00:17.040Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/16/174922.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "browser",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "fa27af862f36",
       "url": "https://apps.apple.com/jp/app/id1136991505",
@@ -146,6 +208,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261116w"
+        },
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/16/game/3167604.php"
         }
       ],
       "tags": [
@@ -12115,7 +12181,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/b9/b3/58b9b30d-9309-1de9-e20c-7ac0e2b90c02/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/69/ce/b969cee6-048b-51f4-7568-b4be5a612cda/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "775eb6f083f0",
