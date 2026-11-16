@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T11:30:16.154Z",
+  "updatedAt": "2026-11-16T12:00:14.844Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1290,
   "regions": {
-    "jp": 1019,
+    "jp": 1020,
     "global": 270
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 121
+      "count": 122
     },
     {
       "id": "media",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "e71b91bad32b",
+      "url": "https://about.mercari.com/",
+      "host": "about.mercari.com",
+      "region": "jp",
+      "title": "メルカリ",
+      "headline": "「メルカリ」「駿河屋」が米国に合弁会社「Mercari Surugaya Inc.」の設立を発表。日本発のエンタメ・ホビー商品の買取・仕入れおよび販売を行う",
+      "description": "「メルカリ」「駿河屋」が米国に合弁会社「Mercari Surugaya Inc.」の設立を発表。日本発のエンタメ・ホビー商品の買取・仕入れおよび販売を行う",
+      "publishedAt": "2026-11-16T11:52:27.000Z",
+      "addedAt": "2026-11-16T12:00:14.844Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611162g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "c64b85445d7b",
       "url": "https://apps.apple.com/jp/app/id6743342428",
