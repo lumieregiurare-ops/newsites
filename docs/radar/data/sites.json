@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T07:00:18.710Z",
+  "updatedAt": "2026-11-16T07:30:19.692Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1294,
+  "total": 1295,
   "regions": {
-    "jp": 1024,
+    "jp": 1025,
     "global": 270
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 327
+      "count": 328
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 454
+      "count": 455
     },
     {
       "id": "browser",
@@ -289,6 +289,39 @@
       ],
       "points": null,
       "image": "https://developerkerukeru.github.io/soft-tennis-spark-website/images/share.jpg"
+    },
+    {
+      "id": "6ec3bd886451",
+      "url": "https://dgjam.com/knightdragonss/",
+      "host": "dgjam.com",
+      "region": "jp",
+      "title": "ナイト・アンド・ドラゴン外伝",
+      "headline": "Chiori Nakagawa / カジュアル・アクション · App Store 新着",
+      "description": "Just another DGJAM site",
+      "publishedAt": "2026-11-15T08:00:00.000Z",
+      "addedAt": "2026-11-16T07:30:19.692Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6763747722"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://dgjam.com/knightdragonss/wp-content/uploads/sites/7/2026/10/ogp.png"
     },
     {
       "id": "d8de0cb6f5a3",
