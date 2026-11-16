@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-16T11:00:20.999Z",
+  "updatedAt": "2026-11-16T11:30:16.154Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1288,
+  "total": 1289,
   "regions": {
-    "jp": 1018,
+    "jp": 1019,
     "global": 270
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 165
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 120
+      "count": 121
     },
     {
       "id": "media",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 459
+      "count": 460
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "AppBank",
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
@@ -131,6 +131,41 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "c64b85445d7b",
+      "url": "https://apps.apple.com/jp/app/id6743342428",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "聖痕のアルテミスト",
+      "headline": "ローグライトTD RPG『聖痕のアルテミスト』が12月15日配信決定！ 事前登録開始、鈴代紗弓・本多真梨子ら声優陣も発表",
+      "description": "合同会社Instansysの「聖痕のアルテミスト」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「聖痕のアルテミスト」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-16T11:20:00.000Z",
+      "addedAt": "2026-11-16T11:30:16.154Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/16/game/3168035.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e7/76/83e776c9-105a-3746-f160-3a283048c7bf/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "fc9d5e8514b7",
       "url": "https://g123.jp/game/island",
@@ -1281,7 +1316,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/fa/2a/0dfa2a4b-f7d6-fafd-c86c-dcf4b0d8aa49/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/57/ca/ab57ca37-699c-371e-02a0-831b45453f07/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "532887a60da4",
@@ -2719,7 +2754,7 @@
       "region": "jp",
       "title": "Hearthhold: Tower Defense",
       "headline": "Okan Yedibela / ストラテジー・カジュアル · App Store 新着",
-      "description": "Okan Yedibelaの「Hearthhold: Tower Defense」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Hearthhold: Tower Defense」に…",
+      "description": "Okan Yedibelaの「Hearthhold：城を守るタワーディフェンス」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Hearthhold：城を守るタワーディフェンス」に似た…",
       "publishedAt": "2026-11-13T08:00:00.000Z",
       "addedAt": "2026-11-14T11:00:16.529Z",
       "source": "App Store",
@@ -2743,7 +2778,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/8f/95/148f95fc-8225-3270-a341-39fe91790837/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/4b/6a/ef4b6aa8-8f8e-dc6f-2432-8248712d8708/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "175d2c816c7e",

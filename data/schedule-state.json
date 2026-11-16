@@ -1999,7 +1999,7 @@
       "entry": null
     },
     "プロジェクトセカイ": {
-      "at": "2026-11-13T11:00:37.151Z",
+      "at": "2026-11-16T11:30:41.993Z",
       "entry": {
         "trackId": "1489932710",
         "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
@@ -3585,7 +3585,7 @@
       "entry": null
     },
     "なんかつらい": {
-      "at": "2026-11-13T11:00:34.369Z",
+      "at": "2026-11-16T11:30:40.579Z",
       "entry": {
         "trackId": "6829341651",
         "title": "なんかつらい",
@@ -3597,7 +3597,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6829341651",
         "sellerUrl": "https://nankatsurai.dke-corp.jp/news",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/a3/84/bfa384b1-4ec0-8f3d-5f52-a513e635cb35/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/47/74/804774b9-2580-97d9-42d7-1dcb0ee635bf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -3813,6 +3813,24 @@
     "アイルレイダー": {
       "at": "2026-11-16T10:00:34.008Z",
       "entry": null
+    },
+    "聖痕のアルテミスト": {
+      "at": "2026-11-16T11:30:39.183Z",
+      "entry": {
+        "trackId": "6743342428",
+        "title": "聖痕のアルテミスト",
+        "artist": "合同会社Instansys",
+        "genres": [
+          "ストラテジー",
+          "ロールプレイング"
+        ],
+        "releaseDate": "2026-12-15T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6743342428",
+        "sellerUrl": "https://ultemist.jp/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/22/7c/37227ce1-ecb9-7d06-288d-9ebf6736a02c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -76698,34 +76716,33 @@
       "sortKey": "2026-11-16",
       "prereg": false,
       "firstSeen": "2026-11-16T11:00:33.499Z"
+    },
+    "whoframedthecat?": {
+      "title": "Who Framed The Cat?",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T11:30:38.924Z"
+    },
+    "fpsvault": {
+      "title": "FPS Vault",
+      "dateText": "2026年11月18日",
+      "date": "2026-11-18",
+      "sortKey": "2026-11-18",
+      "prereg": false,
+      "firstSeen": "2026-11-16T11:30:38.924Z"
+    },
+    "聖痕のアルテミスト": {
+      "title": "聖痕のアルテミスト",
+      "dateText": "2026年12月15日",
+      "date": "2026-12-15",
+      "sortKey": "2026-12-15",
+      "prereg": true,
+      "firstSeen": "2026-11-16T11:30:38.924Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T03:00:33.773Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "農家は Replace() されました",
-      "url": "https://farmer.ateo.ch/",
-      "image": "https://farmer.ateo.ch/img/og_image.jpg",
-      "platforms": [
-        "pc",
-        "mobile"
-      ],
-      "to": "2026年11月2日"
-    },
-    {
-      "at": "2026-10-21T03:30:29.864Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "人間奇想計画",
-      "url": "http://ordinaryoddness.com/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-21T07:00:34.831Z",
       "type": "prereg_start",
@@ -81506,6 +81523,30 @@
         "browser"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-16T11:30:38.924Z",
+      "type": "new",
+      "label": "新規",
+      "title": "聖痕のアルテミスト",
+      "url": "https://apps.apple.com/jp/app/id6743342428",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e7/76/83e776c9-105a-3746-f160-3a283048c7bf/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-11-16T11:30:38.924Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "聖痕のアルテミスト",
+      "url": "https://apps.apple.com/jp/app/id6743342428",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e7/76/83e776c9-105a-3746-f160-3a283048c7bf/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月15日"
     }
   ],
   "initialized": true,
