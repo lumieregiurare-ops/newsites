@@ -2462,7 +2462,7 @@
       "entry": null
     },
     "うめしわ": {
-      "at": "2026-11-13T06:00:37.329Z",
+      "at": "2026-11-16T06:30:32.200Z",
       "entry": {
         "trackId": "6807810259",
         "title": "うめしわ 〜サラリーマンとふしぎなおにぎり〜",
@@ -2476,7 +2476,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6807810259",
         "sellerUrl": "https://snaplace-corp.jp/fungame/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/53/4d/e7534d17-fb75-f516-12e6-6d4f893af58c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/00/31/260031d2-9c4f-2e89-4411-3a161141fbd2/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -2745,7 +2745,7 @@
       }
     },
     "TokiMake": {
-      "at": "2026-11-13T06:00:35.897Z",
+      "at": "2026-11-16T06:30:30.776Z",
       "entry": {
         "trackId": "6808610064",
         "title": "TokiMake - フルボイスで遊ぶノベルゲーム＆チャット",
@@ -3786,6 +3786,25 @@
     "LunaReverse": {
       "at": "2026-11-16T04:00:33.219Z",
       "entry": null
+    },
+    "パチスロ鉄拳2nd": {
+      "at": "2026-11-16T06:30:29.362Z",
+      "entry": {
+        "trackId": "1544705245",
+        "title": "[グリパチ]パチスロ鉄拳2nd",
+        "artist": "CommSeed Corporation",
+        "genres": [
+          "シミュレーション",
+          "カジノ",
+          "エンターテインメント"
+        ],
+        "releaseDate": "2022-03-24T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1544705245",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/6e/8d/556e8dd9-c420-3cb3-80b7-51b629f740ce/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -76314,23 +76333,25 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-16T06:00:33.844Z"
+    },
+    "パチスロ鉄拳2nd": {
+      "title": "パチスロ鉄拳2nd",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T06:30:29.119Z"
+    },
+    "vice:magiccitymayhem": {
+      "title": "Vice: Magic City Mayhem",
+      "dateText": "2026年11月18日",
+      "date": "2026-11-18",
+      "sortKey": "2026-11-18",
+      "prereg": false,
+      "firstSeen": "2026-11-16T06:30:29.119Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-20T15:00:32.436Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ストライカーズ1945",
-      "url": "https://edia-game.com/psikyo",
-      "image": "https://static.wixstatic.com/media/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_01d8789be5da470489f555fe3e530e07~mv2.jpg",
-      "platforms": [
-        "switch2",
-        "ps",
-        "arcade"
-      ],
-      "to": "2027年2月18日"
-    },
     {
       "at": "2026-10-20T15:30:32.103Z",
       "type": "new",
@@ -81124,6 +81145,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-16T06:30:29.119Z",
+      "type": "new",
+      "label": "新規",
+      "title": "パチスロ鉄拳2nd",
+      "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.yam0026",
+      "image": "https://play-lh.googleusercontent.com/2CCIKyct_fwHYFYExmfyIZLH4vol6co36RgQOZBC8XMPttJZ_zlMDJc7Twx6lTNE0BjhIfLPyeH5w6_n0huL7A=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月16日"
     }
   ],
   "initialized": true,
