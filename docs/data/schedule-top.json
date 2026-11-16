@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T14:30:32.120Z",
+  "updatedAt": "2026-11-16T15:00:35.776Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,38 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "62c528cef34f",
-      "title": "RPGツクールU2U",
-      "date": "2026-11-16",
-      "dateText": "2026年11月16日",
-      "sortKey": "2026-11-16",
-      "priority": 0,
-      "platforms": [],
-      "url": "http://u2u.rpgmakerofficial.com/",
-      "image": "https://u2u.rpgmakerofficial.com/images/ogp.ja.png",
-      "maker": "",
-      "headline": "「RPGツクールU2U」，マップ制作をいち早く試せるP2Dマップエディタ体験版が登場。本日から11月16日までの期間限定公開",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/993/G099342/20261019045/"
-    },
-    {
-      "id": "0347007029f7",
-      "title": "パチスロ鉄拳2nd",
-      "date": "2026-11-16",
-      "dateText": "2026年11月16日",
-      "sortKey": "2026-11-16",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.yam0026",
-      "image": "https://play-lh.googleusercontent.com/2CCIKyct_fwHYFYExmfyIZLH4vol6co36RgQOZBC8XMPttJZ_zlMDJc7Twx6lTNE0BjhIfLPyeH5w6_n0huL7A=s0-br30",
-      "maker": "",
-      "headline": "『パチスロ鉄拳2nd』が「スロパチスピリット」に登場！ 11月16日からアプリ配信開始",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/16/game/3167344.php"
-    },
     {
       "id": "a3ab13f30e09",
       "title": "クロスランド",
@@ -267,6 +235,38 @@
       "headline": "「モンスターハンター」のボウリングが登場。カプコン作品をテーマにした遊具が盛りだくさんの「MIRAINO イオンモール伊達店」が11月27日にオープン",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/991/G999111/20261114001/"
+    },
+    {
+      "id": "e67cb55c9b01",
+      "title": "Hela: ちいさなねずみと魔法の森",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://helagame.com/",
+      "image": "https://pgdhl-static.prod-my.games/web/sharing/en.jpg",
+      "maker": "",
+      "headline": "ねずみ視点の最大4人マルチ対応、心温まるオープンワールドADV『Hela: ちいさなねずみと魔法の森』松竹ゲームズより日本展開決定！発売は12月1日",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/09/28/172841.html"
+    },
+    {
+      "id": "d4c9f9d72471",
+      "title": "恐応研式 恐怖診断",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://hinanlab.com/games/fear-diagnosis/",
+      "image": "https://hinanlab.com/games/fear-diagnosis/img/og.jpg?v=68428c8126",
+      "maker": "",
+      "headline": "恐怖診断の結果をもとに，プレイヤー専用のステージが組み立てられる。ホラーADV「恐応研式 恐怖診断」発表，2026年12月1日に発売予定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/052/G105221/20261021037/"
     }
   ],
   "prereg": [
@@ -501,24 +501,24 @@
       "to": "2026年11月23日"
     },
     {
-      "at": "2026-11-16T06:30:29.119Z",
-      "type": "new",
-      "label": "新規",
-      "title": "パチスロ鉄拳2nd",
-      "url": "https://play.google.com/store/apps/details?id=com.spiridge.ss.yam0026",
-      "image": "https://play-lh.googleusercontent.com/2CCIKyct_fwHYFYExmfyIZLH4vol6co36RgQOZBC8XMPttJZ_zlMDJc7Twx6lTNE0BjhIfLPyeH5w6_n0huL7A=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年11月16日"
-    },
-    {
       "at": "2026-11-16T04:00:31.733Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "PROJECT SIGN：Astraea",
       "url": "https://sin-of-astraea.com/",
       "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-16T04:00:31.733Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "LunaReverse",
+      "url": "https://lunareverse.com/",
+      "image": "https://lunareverse.com/ogp_jp.jpg",
       "platforms": [
         "mobile"
       ],
