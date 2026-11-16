@@ -2361,7 +2361,7 @@
       }
     },
     "PROJECT SIGN Astraea": {
-      "at": "2026-10-16T03:00:36.947Z",
+      "at": "2026-11-16T04:00:34.924Z",
       "entry": null
     },
     "おせちプリンセス": {
@@ -3777,6 +3777,14 @@
     },
     "VIRTUAL CIRCLE": {
       "at": "2026-11-15T06:00:30.463Z",
+      "entry": null
+    },
+    "枷檻累々―うら黄泉照らす鬼灯夜―": {
+      "at": "2026-11-16T04:00:31.887Z",
+      "entry": null
+    },
+    "LunaReverse": {
+      "at": "2026-11-16T04:00:33.219Z",
       "entry": null
     }
   },
@@ -12428,7 +12436,7 @@
     },
     "俺だけレベルアップな件：karma": {
       "title": "俺だけレベルアップな件：KARMA",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-09-17T14:33:21.785Z"
     },
     "窗台世界（sillworld）demo": {
@@ -36664,7 +36672,7 @@
     },
     "projectsign：astraea": {
       "title": "PROJECT SIGN：Astraea",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-16T03:00:36.757Z"
     },
     "frogsjumptogether": {
@@ -76240,45 +76248,27 @@
       "sortKey": "2026-11-16",
       "prereg": false,
       "firstSeen": "2026-11-16T03:00:31.650Z"
+    },
+    "hoppernaut": {
+      "title": "Hoppernaut",
+      "dateText": "2026年11月16日",
+      "date": "2026-11-16",
+      "sortKey": "2026-11-16",
+      "prereg": false,
+      "firstSeen": "2026-11-16T04:00:31.733Z"
+    },
+    "枷檻累々―うら黄泉照らす鬼灯夜―": {
+      "title": "枷檻累々―うら黄泉照らす鬼灯夜―",
+      "prereg": true,
+      "firstSeen": "2026-11-16T04:00:31.733Z"
+    },
+    "lunareverse": {
+      "title": "LunaReverse",
+      "prereg": true,
+      "firstSeen": "2026-11-16T04:00:31.733Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-20T10:30:37.463Z",
-      "type": "new",
-      "label": "新規",
-      "title": "リラックマ ごゆるりパズル",
-      "url": "https://jp.rilakkuma-puzzle.com/",
-      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2027年1月27日"
-    },
-    {
-      "at": "2026-10-20T10:30:37.463Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "リラックマ ごゆるりパズル",
-      "url": "https://jp.rilakkuma-puzzle.com/",
-      "image": "https://jp.rilakkuma-puzzle.com/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2027年1月27日"
-    },
-    {
-      "at": "2026-10-20T15:00:32.436Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Fangtopia 幽玄ユートピア",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122120",
-      "image": "https://img-eshop.cdn.nintendo.net/i/59f820b88d31c7ae382dd95c86f97aa8ba1f2037141fad2e4e6345064ff91c06.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月27日"
-    },
     {
       "at": "2026-10-20T15:00:32.436Z",
       "type": "new",
@@ -81050,6 +81040,42 @@
       ],
       "from": "2026年11月7日",
       "to": "2026年11月"
+    },
+    {
+      "at": "2026-11-16T04:00:31.733Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "枷檻累々―うら黄泉照らす鬼灯夜―",
+      "url": "https://products.voltage.co.jp/kakanruirui/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-16T04:00:31.733Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "LunaReverse",
+      "url": "https://lunareverse.com/",
+      "image": "https://lunareverse.com/ogp_jp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-16T04:00:31.733Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "PROJECT SIGN：Astraea",
+      "url": "https://sin-of-astraea.com/",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
