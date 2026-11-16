@@ -58614,9 +58614,9 @@
     },
     "jockeybox": {
       "title": "JockeyBox",
-      "dateText": "2026年11月7日",
-      "date": "2026-11-07",
-      "sortKey": "2026-11-07",
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-03T12:30:29.643Z"
     },
@@ -76244,16 +76244,6 @@
   },
   "changeLog": [
     {
-      "at": "2026-10-20T10:00:36.262Z",
-      "type": "new",
-      "label": "新規",
-      "title": "FF14",
-      "url": "https://lp.roland.jp/bridgecast_gamingdevice/bridgecast_ff/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年12月12日"
-    },
-    {
       "at": "2026-10-20T10:30:37.463Z",
       "type": "new",
       "label": "新規",
@@ -81047,6 +81037,19 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-16T03:30:35.135Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "JockeyBox",
+      "url": "https://play.google.com/store/apps/details?id=com.ipsbox.jockeybox",
+      "image": "https://play-lh.googleusercontent.com/q7zKOV2XS6hVBAbSZZQH0xs6KZYUTYQlhMjyJ7b7wumQiix1oFNrB4Qhr4MGJ1elf4MTMD7XL26Goo4aA2ROtg=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月7日",
+      "to": "2026年11月"
     }
   ],
   "initialized": true,

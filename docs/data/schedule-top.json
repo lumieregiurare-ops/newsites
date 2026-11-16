@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T03:00:31.650Z",
+  "updatedAt": "2026-11-16T03:30:35.135Z",
   "platforms": [
     {
       "id": "switch",
@@ -450,6 +450,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-16T03:30:35.135Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "JockeyBox",
+      "url": "https://play.google.com/store/apps/details?id=com.ipsbox.jockeybox",
+      "image": "https://play-lh.googleusercontent.com/q7zKOV2XS6hVBAbSZZQH0xs6KZYUTYQlhMjyJ7b7wumQiix1oFNrB4Qhr4MGJ1elf4MTMD7XL26Goo4aA2ROtg=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月7日",
+      "to": "2026年11月"
+    },
+    {
       "at": "2026-11-15T06:00:30.105Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -500,18 +513,6 @@
       "title": "ラグナロク：アドベンチャーズ",
       "url": "https://ragnarokadv.gungho.jp/",
       "image": "https://ragnarokadv.gungho.jp/_materials/img/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-13T07:00:37.109Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "シャングリラ・フロンティア～七つの最強種～",
-      "url": "https://shangfro7c.netmarble.com/",
-      "image": "https://sgimage.netmarble.com/images/netmarble/sf7/20260316/esba1773629845146.jpg",
       "platforms": [
         "mobile"
       ],
