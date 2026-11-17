@@ -1791,7 +1791,7 @@
       "entry": null
     },
     "それはマナー違反ですよ！": {
-      "at": "2026-11-14T09:00:30.243Z",
+      "at": "2026-11-17T09:00:35.069Z",
       "entry": {
         "trackId": "6807328098",
         "title": "それはマナー違反ですよ！",
@@ -1805,7 +1805,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6807328098",
         "sellerUrl": "https://snaplace-corp.jp/fungame/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/28/a8/bc28a8aa-850f-5d42-3fba-8a552820113f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/e2/d4/b2e2d454-502a-5d42-0753-e012b5d65cdc/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -1893,7 +1893,7 @@
       }
     },
     "タワマンヒエラルキー": {
-      "at": "2026-11-14T08:30:43.291Z",
+      "at": "2026-11-17T09:00:32.264Z",
       "entry": {
         "trackId": "6807807615",
         "title": "タワマンヒエラルキー 〜48階の365日〜",
@@ -1907,7 +1907,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6807807615",
         "sellerUrl": "https://snaplace-corp.jp/fungame/#why",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fe/53/f1fe5379-c946-0bb1-6de8-50be298355b7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/59/3b/a9593b85-c67a-874a-6d8e-16f9d6d34350/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -2277,7 +2277,7 @@
       "entry": null
     },
     "アークナイツ エンドフィールド": {
-      "at": "2026-11-14T09:00:28.895Z",
+      "at": "2026-11-17T09:00:33.648Z",
       "entry": {
         "trackId": "6752642477",
         "title": "アークナイツ：エンドフィールド",
@@ -8927,9 +8927,9 @@
     },
     "dlccharacter\"ラオコーン\"": {
       "title": "DLC Character \"ラオコーン\"",
-      "dateText": "2026年12月31日",
-      "date": "2026-12-31",
-      "sortKey": "2026-12-31",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
@@ -78366,18 +78366,6 @@
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
       "label": "新規",
-      "title": "BURGGEIST for Nintendo Switch 2",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000134743",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6468c12cfb25534da8a65d5004ed1f5ab732846ac0acd4a31f4ce1215f48166d.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年10月27日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
       "title": "10歳からはじめる！はじめましてプログラミングクイズ〜論理的思考力が鍛えられるIQパターンクイズ〜",
       "url": "https://store-jp.nintendo.com/item/software/D70010000137520",
       "image": "https://img-eshop.cdn.nintendo.net/i/80d52562cce6ac57cfa8cab649cfea7d43643a451c1c9a15cb3feb3975761934.jpg",
@@ -83164,6 +83152,19 @@
       "image": "https://estella.studio/images/estella-og.jpg",
       "platforms": [],
       "to": "2027年1月29日"
+    },
+    {
+      "at": "2026-11-17T09:00:32.119Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "DLC Character \"ラオコーン\"",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000079175",
+      "image": "https://img-eshop.cdn.nintendo.net/i/93034b784dc307c7ff8754345ec9e16225371e5cd68d4896e33a8a7e8964f0c3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年11月19日"
     }
   ],
   "initialized": true,

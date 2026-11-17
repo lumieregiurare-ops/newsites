@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:30:35.059Z",
+  "updatedAt": "2026-11-17T09:00:32.119Z",
   "platforms": [
     {
       "id": "switch",
@@ -452,6 +452,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-17T09:00:32.119Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "DLC Character \"ラオコーン\"",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000079175",
+      "image": "https://img-eshop.cdn.nintendo.net/i/93034b784dc307c7ff8754345ec9e16225371e5cd68d4896e33a8a7e8964f0c3.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年11月19日"
+    },
+    {
       "at": "2026-11-17T06:00:32.658Z",
       "type": "new",
       "label": "新規",
@@ -506,18 +519,6 @@
         "mobile"
       ],
       "to": "App Store 2026年12月15日"
-    },
-    {
-      "at": "2026-11-16T11:30:38.924Z",
-      "type": "new",
-      "label": "新規",
-      "title": "聖痕のアルテミスト",
-      "url": "https://apps.apple.com/jp/app/id6743342428",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e7/76/83e776c9-105a-3746-f160-3a283048c7bf/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年12月15日"
     }
   ]
 }
