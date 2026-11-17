@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T02:30:16.367Z",
+  "updatedAt": "2026-11-17T03:00:18.156Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1275,
   "regions": {
-    "jp": 1002,
-    "global": 271
+    "jp": 1003,
+    "global": 272
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 221
+      "count": 222
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 453
+      "count": 454
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 147
+      "count": 148
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "Game*Spark",
     "Inside",
     "App Store",
@@ -131,6 +131,62 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "30affa19b31e",
+      "url": "https://kniv.studio/high-roller-penny/",
+      "host": "kniv.studio",
+      "region": "global",
+      "title": "ハイローラーペニー",
+      "headline": "パチンコ風ローグライク「ハイローラーペニー」，発売日が2027年1月12日に決定。バニーガールに誘拐された借金持ちが，デスゲームに挑む",
+      "description": "A pachinko-inspired roguelike. Build your best board, chase legendary scores, and play for your life. Steam demo availa…",
+      "publishedAt": "2026-11-17T02:50:04.000Z",
+      "addedAt": "2026-11-17T03:00:18.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/046/G104653/20261117002/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://kniv.studio/assets/images/high-roller-penny/capsule.jpg"
+    },
+    {
+      "id": "e6d10dc4200d",
+      "url": "https://tk8.tekken-official.jp/",
+      "host": "tk8.tekken-official.jp",
+      "region": "jp",
+      "title": "鉄拳8",
+      "headline": "「鉄拳8」，カンガルーの親子「ロジャーJr.」の一般アクセスを開始。NIKEとのコラボアイテムも登場",
+      "description": "GET READY FOR THE NEXT BATTLE. 鉄拳シリーズ最新作『TEKKEN 8』公式サイト。",
+      "publishedAt": "2026-11-17T02:49:26.000Z",
+      "addedAt": "2026-11-17T03:00:18.156Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/657/G065722/20261117005/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://tk8.tekken-official.jp/ogp.jpg"
+    },
     {
       "id": "4bbcdea6a146",
       "url": "https://unity.com/ja",
@@ -8498,7 +8554,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/44/3f/5e443f5a-8ffa-0492-57d9-50bd410f05c2/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/a1/e9/00a1e969-7118-bb66-e65f-22575bece8eb/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9de44778d939",

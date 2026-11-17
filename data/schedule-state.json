@@ -78184,21 +78184,25 @@
       "sortKey": "2026-11-18",
       "prereg": false,
       "firstSeen": "2026-11-17T02:30:29.089Z"
+    },
+    "kuroshio:neonblood": {
+      "title": "KUROSHIO: Neon Blood",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T03:00:34.777Z"
+    },
+    "ハイローラーペニー": {
+      "title": "ハイローラーペニー",
+      "dateText": "2027年1月12日",
+      "date": "2027-01-12",
+      "sortKey": "2027-01-12",
+      "prereg": false,
+      "firstSeen": "2026-11-17T03:00:34.777Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T07:30:32.293Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "PAYDAY: The Heist",
-      "url": "https://www.paydaythegame.com/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-21T10:00:31.135Z",
       "type": "prereg_start",
@@ -82991,6 +82995,18 @@
         "switch2"
       ],
       "to": "2026年12月9日"
+    },
+    {
+      "at": "2026-11-17T03:00:34.777Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ハイローラーペニー",
+      "url": "https://kniv.studio/high-roller-penny/",
+      "image": "https://kniv.studio/assets/images/high-roller-penny/capsule.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年1月12日"
     }
   ],
   "initialized": true,

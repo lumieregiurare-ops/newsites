@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T02:30:29.089Z",
+  "updatedAt": "2026-11-17T03:00:34.777Z",
   "platforms": [
     {
       "id": "switch",
@@ -452,6 +452,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-17T03:00:34.777Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ハイローラーペニー",
+      "url": "https://kniv.studio/high-roller-penny/",
+      "image": "https://kniv.studio/assets/images/high-roller-penny/capsule.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年1月12日"
+    },
+    {
       "at": "2026-11-16T16:00:42.360Z",
       "type": "new",
       "label": "新規",
@@ -511,18 +523,6 @@
       "platforms": [],
       "from": "2026年11月",
       "to": "2026年11月23日"
-    },
-    {
-      "at": "2026-11-16T04:00:31.733Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "PROJECT SIGN：Astraea",
-      "url": "https://sin-of-astraea.com/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
