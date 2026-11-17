@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T09:30:17.713Z",
+  "updatedAt": "2026-11-17T10:00:16.919Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1284,
+  "total": 1285,
   "regions": {
-    "jp": 1008,
+    "jp": 1009,
     "global": 276
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 155
+      "count": 156
     }
   ],
   "platforms": [
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "dc8861895d78",
+      "url": "https://visual-arts.jp/tester/",
+      "host": "visual-arts.jp",
+      "region": "jp",
+      "title": "ビジュアルア",
+      "headline": "ビジュアルアーツ，新作タイトルのテストプレイヤーを募集。Key作品のプレイ経験が豊富で造詣の深い人を歓迎",
+      "description": "ビジュアルアーツ，新作タイトルのテストプレイヤーを募集。Key作品のプレイ経験が豊富で造詣の深い人を歓迎",
+      "publishedAt": "2026-11-17T09:36:50.000Z",
+      "addedAt": "2026-11-17T10:00:16.919Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999905/20261117041/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "701b4ef24903",
       "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/jojo",
@@ -38860,7 +38887,7 @@
       "region": "jp",
       "title": "カタシロ",
       "headline": "「最大6人」で“すべてがうまくいく未来”を体験するイベント「思考実験展#002」が本日より開催。脚本はTRPG『カタシロ』のディズム氏が担当",
-      "description": "2026年9月18日より、東京・飯田橋にて開催。迷うことも、後悔することもない\"すべてがうまくいく未来の世界\"を歩く、約70分の\"じぶん没入体験\"。脚本はディズム。",
+      "description": "過去、累計2万人以上を動員した『思考実験展』の最新作が名古屋で開催決定！『思考実験展』とは、 「もしも別の世界に行けたなら、あなたはどう生きるのか？」 その思考を実験していく新たな体験型エンターテイメントです。ただの展示ではなく“もしもの…",
       "publishedAt": "2026-09-18T09:00:07.000Z",
       "addedAt": "2026-09-18T13:59:10.166Z",
       "source": "電ファミニコゲーマー",
@@ -38878,7 +38905,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://shikoujikkenten.com/002-tokyo/assets/og/ogp.png"
+      "image": "https://shikoujikkenten.com/002-nagoya/assets/og/ogp.png"
     },
     {
       "id": "717bbcc956c8",
