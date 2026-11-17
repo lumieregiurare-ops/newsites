@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T17:00:21.351Z",
+  "updatedAt": "2026-11-17T17:30:17.116Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1270,
+  "total": 1271,
   "regions": {
-    "jp": 999,
+    "jp": 1000,
     "global": 271
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 154
+      "count": 155
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "7deafbe07bbd",
+      "url": "https://thegameawards.com/",
+      "host": "thegameawards.com",
+      "region": "jp",
+      "title": "GTA6",
+      "headline": "「The Game Awards 2026」今年のノミネート作品が発表！ 『GTA6』『バイオハザード レクイエム』『時のオカリナ』リメイクなどそうそうたるメンツ",
+      "description": "「The Game Awards 2026」今年のノミネート作品が発表！ 『GTA6』『バイオハザード レクイエム』『時のオカリナ』リメイクなどそうそうたるメンツ",
+      "publishedAt": "2026-11-17T17:09:39.000Z",
+      "addedAt": "2026-11-17T17:30:17.116Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261118d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "dc8861895d78",
       "url": "https://visual-arts.jp/tester/",
