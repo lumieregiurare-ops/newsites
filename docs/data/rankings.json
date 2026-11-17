@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:00:21.989Z",
+  "updatedAt": "2026-11-17T07:30:21.320Z",
   "boards": [
     {
       "id": "steam",
@@ -254,27 +254,27 @@
         },
         {
           "rank": 9,
-          "title": "にゃんこ大戦争",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f8/ca/fcf8ca71-9ebe-8cac-f65a-97cc3bb6ebb2/AppIcon-1x_U007epad-0-1-85-220-0.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E5%A4%A7%E6%88%A6%E4%BA%89/id547145938",
-          "metric": "ponos corporation",
-          "delta": {
-            "kind": "down",
-            "label": "-2",
-            "value": -2
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 10,
           "title": "Warline: スナイパー",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
           "metric": "Powerfantasy",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 10,
+          "title": "マジックソート (Magic Sort!)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/5f/74/a65f7480-26b5-450b-a216-987d1dd43543/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%82%BD%E3%83%BC%E3%83%88-magic-sort/id6499209744",
+          "metric": "Grand Games A.Ş.",
+          "delta": {
+            "kind": "up",
+            "label": "+4",
+            "value": 4
           },
           "deltaNote": "前日比"
         }
