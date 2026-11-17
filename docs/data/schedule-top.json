@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:00:32.119Z",
+  "updatedAt": "2026-11-17T09:30:35.310Z",
   "platforms": [
     {
       "id": "switch",
@@ -347,7 +347,7 @@
         "mobile"
       ],
       "startedAt": "2026-11-14T03:38:53.000Z",
-      "releaseText": "2026年12月1日",
+      "releaseText": "2027年1月7日",
       "releaseSource": "appstore",
       "count": "",
       "reward": "",
@@ -359,7 +359,7 @@
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6814084715",
         "preorder": true,
-        "releaseDate": "2026-12-01T08:00:00Z"
+        "releaseDate": "2027-01-07T08:00:00Z"
       },
       "trackId": "6814084715"
     },
@@ -452,6 +452,30 @@
   ],
   "changes": [
     {
+      "at": "2026-11-17T09:30:35.310Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月23日"
+    },
+    {
+      "at": "2026-11-17T09:30:35.310Z",
+      "type": "new",
+      "label": "新規",
+      "title": "コマンドス オリジンズ デラックスエディション",
+      "url": "https://kalypsomedia.co.jp/commandos-origins/",
+      "image": "",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
       "at": "2026-11-17T09:00:32.119Z",
       "type": "moved_up",
       "label": "発売日前倒し",
@@ -495,30 +519,6 @@
         "pc"
       ],
       "to": "2027年1月12日"
-    },
-    {
-      "at": "2026-11-16T16:00:42.360Z",
-      "type": "new",
-      "label": "新規",
-      "title": "『ライダーズ リパブリック』プレミアムエディション",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041640",
-      "image": "https://img-eshop.cdn.nintendo.net/i/4d8c281bcd840d377123c1e28223a548ecf46a954993ba73b6ba555803b3d816.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月9日"
-    },
-    {
-      "at": "2026-11-16T11:30:38.924Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "聖痕のアルテミスト",
-      "url": "https://apps.apple.com/jp/app/id6743342428",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e7/76/83e776c9-105a-3746-f160-3a283048c7bf/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月15日"
     }
   ]
 }

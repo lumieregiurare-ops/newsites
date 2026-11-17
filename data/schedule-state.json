@@ -48579,7 +48579,7 @@
     },
     "デジモンカードゲーム": {
       "title": "デジモンカードゲーム",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T04:30:35.428Z"
     },
     "ロックマン:デュアルオーバーライド": {
@@ -78359,33 +78359,65 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-17T08:30:35.059Z"
+    },
+    "battlebirds": {
+      "title": "Battle Birds",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "fantasycampbuilder": {
+      "title": "Fantasy Camp Builder",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "killyouagain": {
+      "title": "Kill You Again",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "meowinkstidyorelse": {
+      "title": "Meowinks Tidy or Else",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "squircle": {
+      "title": "Squircle",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "今が底値です。お嬢様": {
+      "title": "今が底値です。お嬢様",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
+    },
+    "コマンドスオリジンズデラックスエディション": {
+      "title": "コマンドス オリジンズ デラックスエディション",
+      "dateText": "2026年12月15日",
+      "date": "2026-12-15",
+      "sortKey": "2026-12-15",
+      "prereg": false,
+      "firstSeen": "2026-11-17T09:30:35.310Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "10歳からはじめる！はじめましてプログラミングクイズ〜論理的思考力が鍛えられるIQパターンクイズ〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137520",
-      "image": "https://img-eshop.cdn.nintendo.net/i/80d52562cce6ac57cfa8cab649cfea7d43643a451c1c9a15cb3feb3975761934.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Capsule Arcade",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139343",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38dcdf04d707549b6858b83c777be8188b2ecc64fb558b4339421859af14a3af.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -83165,6 +83197,30 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年11月19日"
+    },
+    {
+      "at": "2026-11-17T09:30:35.310Z",
+      "type": "new",
+      "label": "新規",
+      "title": "コマンドス オリジンズ デラックスエディション",
+      "url": "https://kalypsomedia.co.jp/commandos-origins/",
+      "image": "",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2026年12月15日"
+    },
+    {
+      "at": "2026-11-17T09:30:35.310Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月23日"
     }
   ],
   "initialized": true,

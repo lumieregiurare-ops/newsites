@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T09:00:14.588Z",
+  "updatedAt": "2026-11-17T09:30:17.713Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1280,
+  "total": 1284,
   "regions": {
-    "jp": 1004,
+    "jp": 1008,
     "global": 276
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 224
+      "count": 225
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 261
+      "count": 262
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 461
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 41
+      "count": 42
     },
     {
       "id": "ps",
@@ -121,16 +121,126 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
-    "電ファミニコゲーマー",
-    "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "701b4ef24903",
+      "url": "https://www.gu-global.com/jp/ja/feature/contents/collaboration/jojo",
+      "host": "gu-global.com",
+      "region": "jp",
+      "title": "ジョジョ",
+      "headline": "アニメ「ジョジョ」から、“宿敵”が揃い踏み！GUコラボ全7種のデザインを一気にチェック",
+      "description": "アニメ「ジョジョ」から、“宿敵”が揃い踏み！GUコラボ全7種のデザインを一気にチェック",
+      "publishedAt": "2026-11-17T09:10:03.000Z",
+      "addedAt": "2026-11-17T09:30:17.713Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/17/191116.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "a4c9b53d0e0a",
+      "url": "https://kalypsomedia.co.jp/commandos-origins/",
+      "host": "kalypsomedia.co.jp",
+      "region": "jp",
+      "title": "コマンドス オリジンズ デラックスエディション",
+      "headline": "「コマンドス オリジンズ デラックスエディション」，Switch2向けに12月15日配信決定。Joy-Con 2のマウス操作や2人協力プレイに対応",
+      "description": "ALARM! The legendary real-time tactics franchise returns: Commandos: Origins brings you back to the very first missions…",
+      "publishedAt": "2026-11-17T09:07:37.000Z",
+      "addedAt": "2026-11-17T09:30:17.713Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/059/G105909/20261117037/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "76cb1ee8ae71",
+      "url": "https://www.daiyonkyokai.net/",
+      "host": "daiyonkyokai.net",
+      "region": "jp",
+      "title": "Project:ZIP",
+      "headline": "「第四境界」の完全新作ARG『Project:ZIP』は今後半年以内にスタート。第四境界がこれまでにリリースしてきたどのシリーズとも異なる「Windows専用」のARG",
+      "description": "我々「第四境界」は、現実と仮想の間の曖昧な領域に物語を紡ぎ出すクリエイター集団です。ARG（代替現実ゲーム）と呼ばれる“物語が日常を侵蝕する体験“を生み出します。",
+      "publishedAt": "2026-11-17T09:00:56.000Z",
+      "addedAt": "2026-11-17T09:30:17.713Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611172d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.daiyonkyokai.net/wp/wp-content/themes/daiyon-portal/assets/images/common/common/ogp.jpg"
+    },
+    {
+      "id": "d1b4d94b9626",
+      "url": "https://champchime.com/",
+      "host": "champchime.com",
+      "region": "jp",
+      "title": "チャンプチャイムチョコレート",
+      "headline": "“口”にできないチョコレート店『チャンプチャイムチョコレート』初のグリーティングイベントの詳細が公開。11月21日～23日に有楽町マルイで開催",
+      "description": "口にしてはいけないチョコレート展──Champ Chime Chocolate（チャンプチャイムチョコレート）、2026年4月10日より銀座にて開催。",
+      "publishedAt": "2026-11-17T09:00:56.000Z",
+      "addedAt": "2026-11-17T09:30:17.713Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611172p"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://champchime.com/opengraph-image.png?opengraph-image.0lybq5aioladp.png"
+    },
     {
       "id": "6ac16571ca13",
       "url": "https://flywaygames.com/game/ascend-to-zero",
