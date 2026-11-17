@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T10:00:16.919Z",
+  "updatedAt": "2026-11-17T10:30:21.110Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1285,
+  "total": 1286,
   "regions": {
-    "jp": 1009,
+    "jp": 1010,
     "global": 276
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 325
+      "count": 326
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 458
+      "count": 459
     },
     {
       "id": "browser",
@@ -5857,6 +5857,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "bf90652ce0cc",
+      "url": "https://snoopypark.jp/",
+      "host": "snoopypark.jp",
+      "region": "jp",
+      "title": "スヌーピー ゲームズ ～サクッと脳トレパズル",
+      "headline": "TV TOKYO Communications Corporation / カジュアル・パズル · App Store 新着",
+      "description": "スヌーピーのLINEコンテンツや最新グッズなどを紹介。ニュース配信、グッズ、スタンプ、絵文字、きせかえ、アプリ、ゲームのご紹介。",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "addedAt": "2026-11-17T10:30:21.110Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6797800901"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://snoopypark.jp/fpark/assets/img/park_icon.png"
     },
     {
       "id": "235d8525792d",
