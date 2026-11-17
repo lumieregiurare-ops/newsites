@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T08:00:15.947Z",
+  "updatedAt": "2026-11-17T08:30:21.041Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1286,
+  "total": 1287,
   "regions": {
-    "jp": 1010,
+    "jp": 1011,
     "global": 276
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 159
+      "count": 160
     }
   ],
   "platforms": [
@@ -87,17 +87,17 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 36
+      "count": 37
     },
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 12
+      "count": 13
     },
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 151
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "AppBank",
-    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "App Store",
@@ -131,6 +131,37 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "4b36512e3753",
+      "url": "https://crazytaxi-asia.sega.com/worldtour/ja/",
+      "host": "crazytaxi-asia.sega.com",
+      "region": "jp",
+      "title": "クレイジータクシー：ワールドツアー",
+      "headline": "「クレイジータクシー：ワールドツアー」，インドマップの情報とトレイラーが公開に。「ストーリーモード」などでプレイ可能な5つめの都市",
+      "description": "全世界で人気を博したドライビングアクションゲーム『クレイジータクシー』シリーズの完全新作『クレイジータクシー：ワールドツアー』を、XBOX Series X|S／XBOX on PC／PC（Steam）／PlayStation®5／Nin…",
+      "publishedAt": "2026-11-17T08:03:20.000Z",
+      "addedAt": "2026-11-17T08:30:21.041Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/014/G101452/20261117031/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "ps",
+        "xbox",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://crazytaxi-asia.sega.com/worldtour/ja/ogp.jpg"
+    },
     {
       "id": "c7d26244965e",
       "url": "https://www.gameworkers.co.uk/ai-manifesto/",
