@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T03:00:18.156Z",
+  "updatedAt": "2026-11-17T03:30:17.461Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1278,
   "regions": {
-    "jp": 1003,
-    "global": 272
+    "jp": 1005,
+    "global": 273
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 222
+      "count": 224
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 158
+      "count": 159
     }
   ],
   "platforms": [
@@ -131,6 +131,88 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "00e80838bf52",
+      "url": "https://nba2k.jp/",
+      "host": "nba2k.jp",
+      "region": "jp",
+      "title": "NBA 2K27",
+      "headline": "「NBA 2K27」に「GTA6」のバイスシティを再現したパークが登場。ロスサントスとの対抗戦や限定衣装など，大型コラボのトレイラー公開",
+      "description": "「NBA 2K27」に「GTA6」のバイスシティを再現したパークが登場。ロスサントスとの対抗戦や限定衣装など，大型コラボのトレイラー公開",
+      "publishedAt": "2026-11-17T03:23:11.000Z",
+      "addedAt": "2026-11-17T03:30:17.461Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/039/G103968/20261117008/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "71c8f380a8ae",
+      "url": "https://www.ea.com/games/ufc/ufc-6",
+      "host": "ea.com",
+      "region": "global",
+      "title": "EA SPORTS UFC 6",
+      "headline": "「EA SPORTS UFC 6」，拡張パック「PRIDE FC」を12月12日に配信。桜庭，ミルコ，ヒョードルらが登場するトレイラーも公開に",
+      "description": "Play PRIDE FC® in EA SPORTS UFC® 6 on December 11.",
+      "publishedAt": "2026-11-17T03:06:42.000Z",
+      "addedAt": "2026-11-17T03:30:17.461Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/023/G102323/20261117007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://drop-assets.ea.com/images/4Xl9kq3FdIE6AlqWCJGBP8/f04e6bcd00bd3db2f692286e5a57c3b9/EAS_UFC6-PrideExpansion_ULT_KeyArt_RGB_16-9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.6856770833333333,yPosition=0.4546296296296296"
+    },
+    {
+      "id": "dd00cb43890b",
+      "url": "https://treeofsavior-neverland.qookkagames.com/prism-lymfypub/",
+      "host": "treeofsavior-neverland.qookkagames.com",
+      "region": "jp",
+      "title": "ツリーオブセイヴァー：ネバーランド",
+      "headline": "「ツリーオブセイヴァー：ネバーランド」と「ウルトラマン」シリーズのコラボイベントが2026年11月26日に開幕【PR】",
+      "description": "時空を超え、愛の冒険へ！新規プレイヤーに70連ガチャ＋金色衣装4点セットプレゼント！世界に繋がり、みんなで冒険するRPG『ツリーオブセイヴァー：ネバーランド』 ここでは、ロマンチックな樹縁式典を挙げ、仲間やサーバー全体のプレイヤーから祝福…",
+      "publishedAt": "2026-11-17T03:00:00.000Z",
+      "addedAt": "2026-11-17T03:30:17.461Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/757/G075754/20261116017/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn-os.qookkagames.com/xfu/qookka/4qprc0sbgb/m2g/home.jpg"
+    },
     {
       "id": "30affa19b31e",
       "url": "https://kniv.studio/high-roller-penny/",

@@ -2041,7 +2041,7 @@
       }
     },
     "虫ストライクZ": {
-      "at": "2026-11-14T03:00:38.729Z",
+      "at": "2026-11-17T03:30:33.118Z",
       "entry": {
         "trackId": "6810581977",
         "title": "虫ストライクZ",
@@ -2055,7 +2055,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6810581977",
         "sellerUrl": "https://morimirai-ikimono.com/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ef/3d/aeef3d63-ef7e-116f-b36f-a55e90cf187a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/9f/04/809f0452-a120-bce9-355e-f212173b0776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -78200,21 +78200,25 @@
       "sortKey": "2027-01-12",
       "prereg": false,
       "firstSeen": "2026-11-17T03:00:34.777Z"
+    },
+    "abovepar": {
+      "title": "Above Par",
+      "dateText": "2026年11月18日",
+      "date": "2026-11-18",
+      "sortKey": "2026-11-18",
+      "prereg": false,
+      "firstSeen": "2026-11-17T03:30:32.864Z"
+    },
+    "easportsufc6": {
+      "title": "EA SPORTS UFC 6",
+      "dateText": "2026年12月12日",
+      "date": "2026-12-12",
+      "sortKey": "2026-12-12",
+      "prereg": false,
+      "firstSeen": "2026-11-17T03:30:32.864Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T10:00:31.135Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "PROJECT SIGN：Astraea",
-      "url": "https://sin-of-astraea.com/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
     {
       "at": "2026-10-21T10:30:37.607Z",
       "type": "new",
@@ -83007,6 +83011,16 @@
         "pc"
       ],
       "to": "2027年1月12日"
+    },
+    {
+      "at": "2026-11-17T03:30:32.864Z",
+      "type": "new",
+      "label": "新規",
+      "title": "EA SPORTS UFC 6",
+      "url": "https://www.ea.com/games/ufc/ufc-6",
+      "image": "https://drop-assets.ea.com/images/4Xl9kq3FdIE6AlqWCJGBP8/f04e6bcd00bd3db2f692286e5a57c3b9/EAS_UFC6-PrideExpansion_ULT_KeyArt_RGB_16-9_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.6856770833333333,yPosition=0.4546296296296296",
+      "platforms": [],
+      "to": "2026年12月12日"
     }
   ],
   "initialized": true,
