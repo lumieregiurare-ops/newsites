@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T04:30:17.352Z",
+  "updatedAt": "2026-11-17T05:00:17.308Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1279,
+  "total": 1281,
   "regions": {
-    "jp": 1006,
-    "global": 273
+    "jp": 1007,
+    "global": 274
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 455
+      "count": 457
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 148
+      "count": 150
     },
     {
       "id": "mobile",
@@ -131,6 +131,66 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "4ddbf3a13354",
+      "url": "https://www.mikimaki.site/lp/ikekan/",
+      "host": "mikimaki.site",
+      "region": "jp",
+      "title": "イケ勘 - イケメンになるかどうか勘で付き合うゲーム -",
+      "headline": "イケメンにするか，そのままにしておくかを選べる乙女ゲーム「イケ勘 - イケメンになるかどうか勘で付き合うゲーム -」，Steamで配信開始",
+      "description": "イケメンにするか，そのままにしておくかを選べる乙女ゲーム「イケ勘 - イケメンになるかどうか勘で付き合うゲーム -」，Steamで配信開始",
+      "publishedAt": "2026-11-17T04:58:07.000Z",
+      "addedAt": "2026-11-17T05:00:17.308Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105889/20261117018/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "261d1635d817",
+      "url": "https://polishedgames.com/games/here-comes-the-horde/",
+      "host": "polishedgames.com",
+      "region": "global",
+      "title": "ヒア・カムズ・ザ・ホード",
+      "headline": "「ヒア・カムズ・ザ・ホード」，Steamで配信開始。数万体ものユニットが激突する，大規模戦闘が魅力のオートバトラー",
+      "description": "Gather vast armies. Defend your castle. Wage battles with tens of thousands of units. Available on Steam.",
+      "publishedAt": "2026-11-17T04:45:53.000Z",
+      "addedAt": "2026-11-17T05:00:17.308Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/058/G105888/20261117016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://polishedgames.com/assets/images/here-comes-the-horde/og-here-comes-the-horde-keyart-20261013.jpg"
+    },
     {
       "id": "7e00ad181aff",
       "url": "https://www.konami.com/games/momotetsu/2/",
