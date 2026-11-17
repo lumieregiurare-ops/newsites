@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T05:30:15.018Z",
+  "updatedAt": "2026-11-17T06:00:18.462Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1281,
+  "total": 1282,
   "regions": {
     "jp": 1007,
-    "global": 274
+    "global": 275
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 457
+      "count": 458
     },
     {
       "id": "indie",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "0c8105568f36",
+      "url": "https://estella.studio/",
+      "host": "estella.studio",
+      "region": "global",
+      "title": "Estella",
+      "headline": "八角形のレーンを使った3Dリズムゲーム「Estella」，早期アクセス版のリリース日が2027年1月29日に決定。最大32人でスコアを競える",
+      "description": "Follow the golden comet through the cosmos, exploring extraordinary stories and uncovering ancient mysteries.",
+      "publishedAt": "2026-11-17T05:40:16.000Z",
+      "addedAt": "2026-11-17T06:00:18.462Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/903/G090387/20261117015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://estella.studio/images/estella-og.jpg"
+    },
     {
       "id": "4ddbf3a13354",
       "url": "https://www.mikimaki.site/lp/ikekan/",
