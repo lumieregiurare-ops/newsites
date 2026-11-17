@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T22:00:18.422Z",
+  "updatedAt": "2026-11-17T22:30:18.014Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1271,
+  "total": 1272,
   "regions": {
     "jp": 1000,
-    "global": 271
+    "global": 272
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "ac76831fc5f7",
+      "url": "https://www.kineticgames.co.uk/",
+      "host": "kineticgames.co.uk",
+      "region": "global",
+      "title": "Phasmophobia",
+      "headline": "幽霊調査ホラーゲーム『Phasmophobia』大型アプデが11月24日にリリース決定。幽霊に頼んでドアやスイッチを動かしてもらえる新要素が追加",
+      "description": "We create the games we want to play—worlds built with care, tension, and personality. If it thrills us, challenges us, …",
+      "publishedAt": "2026-11-17T22:05:12.000Z",
+      "addedAt": "2026-11-17T22:30:18.014Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261118f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "7deafbe07bbd",
       "url": "https://thegameawards.com/",
@@ -18343,6 +18370,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611172a"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/18/28729.html"
         }
       ],
       "tags": [
