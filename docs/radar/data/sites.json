@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T04:00:19.112Z",
+  "updatedAt": "2026-11-17T04:30:17.352Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1278,
+  "total": 1279,
   "regions": {
-    "jp": 1005,
+    "jp": 1006,
     "global": 273
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 454
+      "count": 455
     },
     {
       "id": "indie",
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 40
+      "count": 41
     },
     {
       "id": "ps",
@@ -131,6 +131,35 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "7e00ad181aff",
+      "url": "https://www.konami.com/games/momotetsu/2/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "桃太郎電鉄2",
+      "headline": "「桃太郎電鉄2」，Switch2向け体験版を配信開始。東日本編と西日本編から選べるほか，最大4人での対戦も楽しめる",
+      "description": "桃太郎電鉄２ ～あなたの町も きっとある～ 公式サイトです。すごろくパーティーゲームの決定版 『桃太郎電鉄』 の最新作！サイコロふって、東も西も遊びつくせ！2025年11月13日(木)発売！",
+      "publishedAt": "2026-11-17T04:03:36.000Z",
+      "addedAt": "2026-11-17T04:30:17.352Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/933/G093329/20261117010/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch2"
+      ],
+      "points": null,
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611170340"
+    },
     {
       "id": "00e80838bf52",
       "url": "https://nba2k.jp/",
