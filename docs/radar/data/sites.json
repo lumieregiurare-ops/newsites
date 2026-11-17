@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-17T07:30:19.780Z",
+  "updatedAt": "2026-11-17T08:00:15.947Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1283,
+  "total": 1286,
   "regions": {
-    "jp": 1008,
-    "global": 275
+    "jp": 1010,
+    "global": 276
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 115
+      "count": 116
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 224
+      "count": 225
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 260
+      "count": 262
     },
     {
       "id": "release",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 35
+      "count": 36
     },
     {
       "id": "xbox",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 457
+      "count": 458
     },
     {
       "id": "browser",
@@ -121,16 +121,105 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
-    "AppBank",
-    "Game*Spark",
     "Inside",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "c7d26244965e",
+      "url": "https://www.gameworkers.co.uk/ai-manifesto/",
+      "host": "gameworkers.co.uk",
+      "region": "global",
+      "title": "“生成AI”関連の共同マニフェストを欧州のゲ",
+      "headline": "“生成AI”関連の共同マニフェストを欧州のゲーム労組などが公開―可能な限り使用を避ける＆プレイヤーは生成AI未使用の作品を応援しようと提言",
+      "description": "Generative AI (GenAI) is harming the games industry, its workers and the games they produce. If we do nothing, this har…",
+      "publishedAt": "2026-11-17T08:00:03.000Z",
+      "addedAt": "2026-11-17T08:00:15.947Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/17/174967.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gameworkers.co.uk/wp-content/uploads/2021/06/IWGB_GW_Logo_Horizontal_BlueBG.png"
+    },
+    {
+      "id": "dfd5ee7f1f91",
+      "url": "https://play.google.com/store/apps/details?id=tokyo.plott.teipenwors",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "テイペンウォーズ",
+      "headline": "「テイペンウォーズ」が3周年！ 新英畜「抵抗竜騎士ペンギン」登場、「英畜道場」「英畜組合」も追加",
+      "description": "あの人気YouTubeCh「テイコウペンギン」が放置ゲーム化",
+      "publishedAt": "2026-11-17T07:40:00.000Z",
+      "addedAt": "2026-11-17T08:00:15.947Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/17/game/3168643.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/WXvGRRfLZFdf5PxTOXqjA0GIzoUibNWm-o9t-md3Zlmm_MYErRvQFcruFgDsw7AYQl3y7UQr57rPwUwhfw8sE_U=s0-br30"
+    },
+    {
+      "id": "da7f2ccb58c2",
+      "url": "https://3goo.co.jp/product/testdriveunlimitedsolarcrown/",
+      "host": "3goo.co.jp",
+      "region": "jp",
+      "title": "Test Drive Unlimited: Solar Crown",
+      "headline": "PS5版「Test Drive Unlimited: Solar Crown」×「頭文字D」コラボを開催中。高橋啓介仕様のRX-7や，峠で1対1の勝負に挑む新モードが登場",
+      "description": "PS5版「Test Drive Unlimited: Solar Crown」×「頭文字D」コラボを開催中。高橋啓介仕様のRX-7や，峠で1対1の勝負に挑む新モードが登場",
+      "publishedAt": "2026-11-17T07:32:55.000Z",
+      "addedAt": "2026-11-17T08:00:15.947Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/566/G056694/20261117030/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "32b10ab64788",
       "url": "https://www.g-housen.co.jp/",
