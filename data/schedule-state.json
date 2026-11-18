@@ -3228,7 +3228,7 @@
       }
     },
     "エピックセブン": {
-      "at": "2026-11-15T11:00:43.610Z",
+      "at": "2026-11-18T11:30:33.356Z",
       "entry": {
         "trackId": "1322399438",
         "title": "エピックセブン",
@@ -3888,6 +3888,10 @@
     },
     "年間プレイまとめ": {
       "at": "2026-11-18T09:30:35.226Z",
+      "entry": null
+    },
+    "オトメイト コネクト": {
+      "at": "2026-11-18T11:30:31.963Z",
       "entry": null
     }
   },
@@ -79427,21 +79431,30 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-18T11:00:33.346Z"
+    },
+    "beetleislanddemo": {
+      "title": "Beetle Island Demo",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-18T11:30:31.707Z"
+    },
+    "resortarchitect": {
+      "title": "Resort Architect",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-18T11:30:31.707Z"
+    },
+    "オトメイトコネクト": {
+      "title": "オトメイト コネクト",
+      "prereg": true,
+      "firstSeen": "2026-11-18T11:30:31.707Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Supermarket Simulator",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000130095",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2e09a54d9a63d37b2249dd444076dc2a4a6add68e7733ba5b4228eef6fe4764f.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月12日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -84237,6 +84250,18 @@
       ],
       "from": "2026年11月19日",
       "to": "2027年2月11日"
+    },
+    {
+      "at": "2026-11-18T11:30:31.707Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "オトメイト コネクト",
+      "url": "https://www.otomate-p.jp/",
+      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

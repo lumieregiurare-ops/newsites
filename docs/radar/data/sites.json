@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T11:00:17.116Z",
+  "updatedAt": "2026-11-18T11:30:16.965Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1278,
+  "total": 1279,
   "regions": {
-    "jp": 1006,
+    "jp": 1007,
     "global": 272
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
@@ -131,6 +131,35 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "80f0dd6de116",
+      "url": "https://www.otomate-p.jp/",
+      "host": "otomate-p.jp",
+      "region": "jp",
+      "title": "オトメイト コネクト",
+      "headline": "オトメイトの最新情報を紹介する番組「オトメイト コネクト」第5回，12月2日18：00に公開",
+      "description": "アイディアファクトリーの女性向けゲームブランド「オトメイト」のポータルサイトです。オトメイトからのお知らせ、ゲーム、イベント情報などをお届けします。",
+      "publishedAt": "2026-11-18T11:00:26.000Z",
+      "addedAt": "2026-11-18T11:30:16.965Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/570/G057029/20261118040/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg"
+    },
     {
       "id": "3c6de4a047dc",
       "url": "https://www.atlus.co.jp/raidou/",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:00:33.346Z",
+  "updatedAt": "2026-11-18T11:30:31.707Z",
   "platforms": [
     {
       "id": "switch",
@@ -266,6 +266,26 @@
   ],
   "prereg": [
     {
+      "id": "80f0dd6de116",
+      "title": "オトメイト コネクト",
+      "url": "https://www.otomate-p.jp/",
+      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-18T11:00:26.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "オトメイトの最新情報を紹介する番組「オトメイト コネクト」第5回，12月2日18：00に公開",
+      "description": "アイディアファクトリーの女性向けゲームブランド「オトメイト」のポータルサイトです。オトメイトからのお知らせ、ゲーム、イベント情報などをお届けします。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/570/G057029/20261118040/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "2fb65f26bde8",
       "title": "クイズアクションRPG ウィズジェネレーション",
       "url": "https://wiz-generation.com/",
@@ -428,29 +448,21 @@
       "sourceUrl": "https://www.4gamer.net/games/001/G000189/20261111045/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "ebc00b104bb9",
-      "title": "枷檻累々―うら黄泉照らす鬼灯夜―",
-      "url": "https://products.voltage.co.jp/kakanruirui/",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-08T08:00:00.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」の初報映像が公開。和風ダークファンタジーの世界と5人の登場キャラクターを紹介",
-      "description": "新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」の初報映像が公開。和風ダークファンタジーの世界と5人の登場キャラクターを紹介",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/054/G105426/20261105038/",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-18T11:30:31.707Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "オトメイト コネクト",
+      "url": "https://www.otomate-p.jp/",
+      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-18T08:30:29.312Z",
       "type": "delayed",
@@ -515,19 +527,6 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年12月1日"
-    },
-    {
-      "at": "2026-11-18T02:00:47.010Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年11月19日",
-      "to": "2026年11月25日"
     }
   ]
 }
