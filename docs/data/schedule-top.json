@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T02:00:47.010Z",
+  "updatedAt": "2026-11-18T02:30:32.079Z",
   "platforms": [
     {
       "id": "switch",
@@ -108,6 +108,25 @@
       "sourceUrl": "https://www.4gamer.net/games/915/G091522/20261112052/"
     },
     {
+      "id": "ad55fcb91d0b",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "date": "2026-11-19",
+      "dateText": "2026年11月19日",
+      "sortKey": "2026-11-19",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "平成ヤンキー×転生×サバイバル！『ヤンキーサバイバー 転生したら平成ヤンキーだった件』事前登録開始、11月配信予定",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
+      "announcedText": "2026年11月",
+      "dateSource": "appstore"
+    },
+    {
       "id": "ae4f1d697479",
       "title": "ポケモン東京ばな奈",
       "date": "2026-11-21",
@@ -151,25 +170,6 @@
       "headline": "幽霊調査ホラーゲーム『Phasmophobia』大型アプデが11月24日にリリース決定。幽霊に頼んでドアやスイッチを動かしてもらえる新要素が追加",
       "source": "電ファミニコゲーマー",
       "sourceUrl": "https://news.denfaminicogamer.jp/news/261118f"
-    },
-    {
-      "id": "ad55fcb91d0b",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "date": "2026-11-25",
-      "dateText": "2026年11月25日",
-      "sortKey": "2026-11-25",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "平成ヤンキー×転生×サバイバル！『ヤンキーサバイバー 転生したら平成ヤンキーだった件』事前登録開始、11月配信予定",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/10/30/game/3148868.php",
-      "announcedText": "2026年11月",
-      "dateSource": "appstore"
     },
     {
       "id": "9c2c1ca58124",
@@ -447,6 +447,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-18T02:30:32.079Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月25日",
+      "to": "2026年11月19日"
+    },
+    {
       "at": "2026-11-18T02:00:47.010Z",
       "type": "moved_up",
       "label": "発売日前倒し",
@@ -502,18 +515,6 @@
       "title": "レイマン レジェンド リトールド - 妖精ベティラコスチューム",
       "url": "https://store-jp.nintendo.com/item/software/D70050000073213",
       "image": "https://img-eshop.cdn.nintendo.net/i/7687504fc62d75ea72bc36dda626be061f09f73a70b4fd1a6fd429568c2497ed.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-17T16:00:42.406Z",
-      "type": "new",
-      "label": "新規",
-      "title": "レイマン レジェンド リトールド - レトロハンターコスチューム",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000073209",
-      "image": "https://img-eshop.cdn.nintendo.net/i/facce5414a1ebe05e536cd6a501c771d6920aedef6cb1914c2349d735b33dc9a.jpg",
       "platforms": [
         "switch2"
       ],

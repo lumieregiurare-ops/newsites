@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-18T02:00:26.152Z",
+  "updatedAt": "2026-11-18T02:30:16.556Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1271,
+  "total": 1269,
   "regions": {
-    "jp": 999,
-    "global": 272
+    "jp": 998,
+    "global": 271
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 256
+      "count": 255
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 123
+      "count": 122
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 154
+      "count": 153
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 42
+      "count": 41
     },
     {
       "id": "ps",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
+    "Inside",
     "4Gamer",
     "Game*Spark",
     "AppBank",
@@ -131,6 +131,35 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "e5eb23232413",
+      "url": "https://www.riotgames.com/ja/",
+      "host": "riotgames.com",
+      "region": "jp",
+      "title": "VALORANT",
+      "headline": "『VALORANT』『リーグ・オブ・レジェンド』などのゲーム内通貨の価格改定が12月9日に実施へ。11月25日から2週間は購入時ボーナスが2倍になるキャンペーンも開催",
+      "description": "『VALORANT』『リーグ・オブ・レジェンド』などのゲーム内通貨の価格改定が12月9日に実施へ。11月25日から2週間は購入時ボーナスが2倍になるキャンペーンも開催",
+      "publishedAt": "2026-11-18T02:30:16.556Z",
+      "addedAt": "2026-11-18T02:30:16.556Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1685665"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.riotgames.com/assets/img/meta/04fa9e7e9b64fc21382fba33a1f436c2/meta-icon-1000x1000.jpg"
+    },
     {
       "id": "528e7c6fa99d",
       "url": "https://www.streetfighter.com/6/",
@@ -38484,91 +38513,6 @@
       "image": "https://www.transportfever3.com/wp-content/uploads/2025/05/is_coming_news_header_image.jpg"
     },
     {
-      "id": "2a59e9298e38",
-      "url": "https://rakuen-tsuiho-r.com/",
-      "host": "rakuen-tsuiho-r.com",
-      "region": "jp",
-      "title": "楽園追放 心のレゾナンス",
-      "headline": "劇場アニメ『楽園追放 心のレゾナンス』が「防衛省サイバーコンテスト」とコラボ決定。佐倉綾⾳さんや早⾒沙織さん、⻘⼭吉能さん、天城サリーさん、諸星すみれさんなどが出演する完成披露上…",
-      "description": "水島精二×虚淵玄 再び－ 『楽園追放』のその先の物語を描く 新たなる続編。『楽園追放 心のレゾナンス』2026年11月13日公開。",
-      "publishedAt": "2026-09-19T02:00:37.000Z",
-      "addedAt": "2026-09-19T02:21:52.741Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260919c"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "campaign",
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://rakuen-tsuiho-r.com/ogp.jpg"
-    },
-    {
-      "id": "5cfe7b4d0780",
-      "url": "https://gravityga.jp/",
-      "host": "gravityga.jp",
-      "region": "jp",
-      "title": "ラグナロクオンライン",
-      "headline": "『ラグナロクオンライン』新作も！？韓国文化を“空気読み”、冒険者の書類をさばいて、パン屋を経営！TGSで遊べる個性派ゲームを一足先に体験 【試遊会レポ】",
-      "description": "グラビティゲームアライズ株式会社",
-      "publishedAt": "2026-09-19T01:10:03.000Z",
-      "addedAt": "2026-09-19T02:21:52.741Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/19/172526.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event",
-        "company"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
-      "id": "b8ae01495d72",
-      "url": "https://system3.com/",
-      "host": "system3.com",
-      "region": "global",
-      "title": "Putty",
-      "headline": "1990年代のカオスすぎるアクションゲーム『Putty』シリーズがNintendo Switch 2向けに復活した新作『Putty World』試遊レポート。「なぜ今、復活させる…",
-      "description": "Welcome to System3. Synonymous with the history of video games, our contribution to modern day gaming could be taken fo…",
-      "publishedAt": "2026-09-19T01:00:22.000Z",
-      "addedAt": "2026-09-19T02:21:52.741Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/kikakuthetower/260919z"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [
-        "switch2"
-      ],
-      "points": null,
-      "image": "https://system3.com/wp-content/uploads/2024/05/OG.jpg"
-    },
-    {
       "id": "ed3bb588f2f7",
       "url": "https://play-plant.com/",
       "host": "play-plant.com",
@@ -39098,7 +39042,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/aa/c9/04aac9ed-558f-e11e-8fb5-a30a5600e0b1/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/fe/64/52fe64a5-fefb-76c8-7c28-ee5f4d76cb21/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "14fc1dc947cd",

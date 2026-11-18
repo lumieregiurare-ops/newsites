@@ -53070,9 +53070,9 @@
     },
     "ヤンキーサバイバー転生したら平成ヤンキーだった件": {
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "dateText": "2026年11月25日",
-      "date": "2026-11-25",
-      "sortKey": "2026-11-25",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
       "prereg": true,
       "firstSeen": "2026-10-30T08:30:35.408Z"
     },
@@ -79223,21 +79223,17 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-18T02:00:47.010Z"
+    },
+    "evilmaiden:thenoblewarriorandthedemonarmor": {
+      "title": "Evil Maiden: The Noble Warrior and the Demon Armor",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-18T02:30:32.079Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "巨匠たちの美術史〜19世紀フランス名画検定〜",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139023",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38b822475bf9ef8d0ce5a48631b85ec58aa3070e9e3ff6a50bfeec27cdbb9b7a.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -84030,6 +84026,19 @@
       ],
       "from": "2026年12月31日",
       "to": "2026年12月1日"
+    },
+    {
+      "at": "2026-11-18T02:30:32.079Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月25日",
+      "to": "2026年11月19日"
     }
   ],
   "initialized": true,
