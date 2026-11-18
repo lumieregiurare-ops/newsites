@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T09:00:22.024Z",
+  "updatedAt": "2026-11-18T09:30:18.497Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1278,
   "regions": {
-    "jp": 1001,
+    "jp": 1005,
     "global": 273
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 222
+      "count": 223
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 256
+      "count": 259
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 459
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 323
+      "count": 324
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 149
+      "count": 150
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 456
+      "count": 457
     },
     {
       "id": "browser",
@@ -122,15 +122,131 @@
   ],
   "sources": [
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
-    "Inside",
     "Game*Spark",
     "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "3c6de4a047dc",
+      "url": "https://www.atlus.co.jp/raidou/",
+      "host": "atlus.co.jp",
+      "region": "jp",
+      "title": "RAIDOU Remastered",
+      "headline": "「RAIDOU Remastered」，「真・女神転生」「ペルソナ」シリーズなどが特別価格に。アトラス，「Black Friday Sale」を開催中",
+      "description": "アトラスの名作「デビルサマナー葛葉ライドウ 対 超力兵団」がリマスターとして堂々復活！「RAIDOU Remastered: 超力兵団奇譚」好評発売中！",
+      "publishedAt": "2026-11-18T09:23:34.000Z",
+      "addedAt": "2026-11-18T09:30:18.497Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/895/G089589/20261118029/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.atlus.co.jp/raidou/resources/img/ogp_v2.jpg"
+    },
+    {
+      "id": "119c3e0d833d",
+      "url": "https://emou.net/danganlive2026/",
+      "host": "emou.net",
+      "region": "jp",
+      "title": "ダンガンロンパ",
+      "headline": "「ダンガンロンパ」シリーズの音楽を楽しめる「ダンガンライブ2026」，12月20日に東京で開催。緒方恵美さんが歌唱，高田雅史氏が演奏。内田 彩さんも出演",
+      "description": "「ダンガンロンパ」シリーズの音楽を楽しめる「ダンガンライブ2026」，12月20日に東京で開催。緒方恵美さんが歌唱，高田雅史氏が演奏。内田 彩さんも出演",
+      "publishedAt": "2026-11-18T09:17:32.000Z",
+      "addedAt": "2026-11-18T09:30:18.497Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999109/20261118028/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "403350b8a815",
+      "url": "https://www.onepiece-cardgame.com/",
+      "host": "onepiece-cardgame.com",
+      "region": "jp",
+      "title": "ONE PIECEカードゲーム",
+      "headline": "『ONE PIECEカードゲーム』禁止・制限カード改定発表―登場したばかりの「ジュエリー・ボニー」と「ルフィ／ロー」の“禁止ペア”を追加",
+      "description": "「ONE PIECE（ワンピース）カードゲーム」公式サイト。最新カード情報、新商品、イベントや大会のお知らせ、ルールやQ&Aなど、ワンピカードの情報満載！カードゲームの“新時代”へ、出航だ！！",
+      "publishedAt": "2026-11-18T09:15:02.000Z",
+      "addedAt": "2026-11-18T09:30:18.497Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/18/191185.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.onepiece-cardgame.com/ogp.png"
+    },
+    {
+      "id": "b6704e1a399e",
+      "url": "https://apps.apple.com/jp/app/id6756201875",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "年間プレイまとめ",
+      "headline": "今年遊んだゲームを機種をまたいで振り返る「年間プレイまとめ」をゲーム記録アプリ「PlayNavi」が公開。Steamやスクショから“今年の1本や“ベスト9”をシェア、登録なしでも…",
+      "description": "PlayNavi Labの「PlayNavi - 素敵なゲームに出会えるアプリ」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「PlayNavi - 素敵なゲームに出会えるアプリ」に似…",
+      "publishedAt": "2026-11-18T09:00:27.000Z",
+      "addedAt": "2026-11-18T09:30:18.497Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611182x"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/6a/06/816a06cf-66c0-4b65-6a27-d139cad5b7a3/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "83132537c21a",
       "url": "https://www.bluey.tv/play/happy-snaps/",
