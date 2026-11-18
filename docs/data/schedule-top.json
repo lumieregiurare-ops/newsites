@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:00:39.830Z",
+  "updatedAt": "2026-11-18T08:30:29.312Z",
   "platforms": [
     {
       "id": "switch",
@@ -452,6 +452,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-18T08:30:29.312Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ソコボム",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137825",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9109b97779a0fbe1cb85cbabd8854792d13b41e1567ef0bbd7353e874add2495.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年11月19日",
+      "to": "2027年2月11日"
+    },
+    {
       "at": "2026-11-18T04:30:35.230Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -491,6 +504,20 @@
     },
     {
       "at": "2026-11-18T02:00:47.010Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "DLC 1",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076689",
+      "image": "https://img-eshop.cdn.nintendo.net/i/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年12月1日"
+    },
+    {
+      "at": "2026-11-18T02:00:47.010Z",
       "type": "delayed",
       "label": "発売延期",
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
@@ -501,28 +528,6 @@
       ],
       "from": "2026年11月19日",
       "to": "2026年11月25日"
-    },
-    {
-      "at": "2026-11-17T22:30:33.545Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Phasmophobia",
-      "url": "https://www.kineticgames.co.uk/",
-      "image": "",
-      "platforms": [],
-      "to": "2026年11月24日"
-    },
-    {
-      "at": "2026-11-17T15:00:33.952Z",
-      "type": "new",
-      "label": "新規",
-      "title": "戦刃アレスタ",
-      "url": "https://m2stg.com/senxin-aleste-cs/",
-      "image": "https://m2stg.com/senxin-aleste-cs/assets/img/ogp.jpg",
-      "platforms": [
-        "ps"
-      ],
-      "to": "2027年3月18日"
     }
   ]
 }

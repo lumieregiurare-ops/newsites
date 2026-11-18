@@ -49775,9 +49775,9 @@
     },
     "楽園追放-thestellarangel-": {
       "title": "楽園追放 -The Stellar Angel-",
-      "dateText": "2026年11月25日",
-      "date": "2026-11-25",
-      "sortKey": "2026-11-25",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
       "prereg": false,
       "firstSeen": "2026-10-28T16:00:39.081Z"
     },
@@ -60921,9 +60921,9 @@
     },
     "ソコボム": {
       "title": "ソコボム",
-      "dateText": "2026年11月19日",
-      "date": "2026-11-19",
-      "sortKey": "2026-11-19",
+      "dateText": "2027年2月11日",
+      "date": "2027-02-11",
+      "sortKey": "2027-02-11",
       "prereg": false,
       "firstSeen": "2026-11-04T16:00:48.430Z"
     },
@@ -79375,21 +79375,17 @@
       "sortKey": "2026-11-18",
       "prereg": false,
       "firstSeen": "2026-11-18T08:00:39.830Z"
+    },
+    "nightmareconquest": {
+      "title": "Nightmare Conquest",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-18T08:30:29.312Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "秘密の富豪恋愛：禁断の欲望イケメン (Billionaire Secret Affaire: Forbidden Desire Boys)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000127180",
-      "image": "https://img-eshop.cdn.nintendo.net/i/8d1f6ce4c7426da68e1199bf14da4ba3d59900e0afcee6187848866332ed9d75.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -84184,6 +84180,19 @@
         "mobile"
       ],
       "to": "2027年2月14日"
+    },
+    {
+      "at": "2026-11-18T08:30:29.312Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ソコボム",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137825",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9109b97779a0fbe1cb85cbabd8854792d13b41e1567ef0bbd7353e874add2495.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年11月19日",
+      "to": "2027年2月11日"
     }
   ],
   "initialized": true,
