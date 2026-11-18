@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T04:30:17.380Z",
+  "updatedAt": "2026-11-18T05:00:16.461Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1274,
   "regions": {
-    "jp": 1000,
+    "jp": 1001,
     "global": 273
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 460
+      "count": 461
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "31606d771f97",
+      "url": "https://grandgameawards.com/",
+      "host": "grandgameawards.com",
+      "region": "jp",
+      "title": "GRAND GAME AWARDS 2026",
+      "headline": "「GRAND GAME AWARDS 2026」の公式ノミネートリストが発表に。Grand Game of the Yearには発売目前の「GTA6」を含む8本がノミネート",
+      "description": "「GRAND GAME AWARDS 2026」の公式ノミネートリストが発表に。Grand Game of the Yearには発売目前の「GTA6」を含む8本がノミネート",
+      "publishedAt": "2026-11-18T04:40:50.000Z",
+      "addedAt": "2026-11-18T05:00:16.461Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999901/20261118010/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "2fb65f26bde8",
       "url": "https://wiz-generation.com/",
@@ -784,7 +811,7 @@
         "switch2"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611170340"
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611180456"
     },
     {
       "id": "00e80838bf52",
