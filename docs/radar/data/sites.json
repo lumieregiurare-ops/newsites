@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T07:30:18.410Z",
+  "updatedAt": "2026-11-18T08:00:16.403Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1278,
+  "total": 1279,
   "regions": {
-    "jp": 1005,
+    "jp": 1006,
     "global": 273
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 222
+      "count": 223
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "Inside",
     "Game*Spark",
     "App Store",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "6efa6cdac0e5",
+      "url": "https://sonic.sega.jp/SonicRacingCrossWorlds/",
+      "host": "sonic.sega.jp",
+      "region": "jp",
+      "title": "ソニックレーシング クロスワールド",
+      "headline": "「ソニックレーシング クロスワールド」，マクラーレンとコラボ",
+      "description": "同じレースは二度とない！？『ソニックレーシング クロスワールド』で予測不能の”驚き”が詰まったレースバトルを体験しよう！",
+      "publishedAt": "2026-11-18T07:53:48.000Z",
+      "addedAt": "2026-11-18T08:00:16.403Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/882/G088214/20261118024/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sonic.sega.jp/SonicRacingCrossWorlds/assets/images/jp/facebook260319.jpg"
+    },
     {
       "id": "833922c306b7",
       "url": "https://ryu-ga-gotoku.com/",
@@ -246,6 +273,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/18/175019.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611182i"
         }
       ],
       "tags": [
