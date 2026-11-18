@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T05:00:16.461Z",
+  "updatedAt": "2026-11-18T05:30:22.732Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1276,
   "regions": {
-    "jp": 1001,
+    "jp": 1003,
     "global": 273
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 220
+      "count": 221
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 256
+      "count": 257
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 154
+      "count": 155
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 148
+      "count": 149
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 455
+      "count": 456
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,68 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "7283ce21909c",
+      "url": "https://mahjongsoul.com/",
+      "host": "mahjongsoul.com",
+      "region": "jp",
+      "title": "雀魂",
+      "headline": "『雀魂』と『葬送のフリーレン』コラボが本日開催。「フリーレン」「フェルン」「シュタルク」「ユーベル」たちがコラボ雀士として登場",
+      "description": "麻雀を無料で気軽に遊べる雀魂（じゃんたま）",
+      "publishedAt": "2026-11-18T05:26:29.000Z",
+      "addedAt": "2026-11-18T05:30:22.732Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261118y"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "0c43eebd8698",
+      "url": "https://caen.games/8behiroshi",
+      "host": "caen.games",
+      "region": "jp",
+      "title": "八部寛のホームページ",
+      "headline": "異変があったらバールでパソコンを壊す。一人称視点の3D短編ホラーゲーム「八部寛のホームページ」，Steamストアページを公開",
+      "description": "8日間、架空の個人サイト「八部寛のホームページ」を見回って異変を探すホラーゲーム。 / A horror game where you spend eight days checking a fictional personal webs…",
+      "publishedAt": "2026-11-18T05:00:01.000Z",
+      "addedAt": "2026-11-18T05:30:22.732Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/059/G105921/20261118011/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://caen.games/images/og/8behiroshi.webp"
+    },
     {
       "id": "31606d771f97",
       "url": "https://grandgameawards.com/",
