@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-18T14:00:18.730Z",
+  "updatedAt": "2026-11-18T14:30:20.363Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1270,
+  "total": 1272,
   "regions": {
-    "jp": 999,
-    "global": 271
+    "jp": 1000,
+    "global": 272
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 455
+      "count": 457
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 53
+      "count": 54
     },
     {
       "id": "goods",
@@ -416,6 +416,33 @@
       "platforms": [],
       "points": null,
       "image": "https://ryu-ga-gotoku.com/ogp.jpg"
+    },
+    {
+      "id": "6c76365ad81a",
+      "url": "https://delanivogames.com/",
+      "host": "delanivogames.com",
+      "region": "global",
+      "title": "PROCEDURE ZERO",
+      "headline": "囚人が失踪する刑務所内を調査し，黒幕へと迫る。ステルスホラーACT「PROCEDURE ZERO」，配信開始",
+      "description": "You were an auditor who found a second register. Now you are in cell C-17 with status ZERO. Trade cigarettes for inform…",
+      "publishedAt": "2026-11-18T06:03:29.000Z",
+      "addedAt": "2026-11-18T14:30:20.363Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/038/G103815/20261118015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://delanivogames.com/game/procedure-zero-og.png"
     },
     {
       "id": "7283ce21909c",
@@ -6073,6 +6100,34 @@
       ],
       "points": null,
       "image": "https://sakatsuku-rtw.sega.com/assets/images/twcard.png"
+    },
+    {
+      "id": "a6b240ea5bcd",
+      "url": "https://stardive.netmarble.com/ja",
+      "host": "stardive.netmarble.com",
+      "region": "jp",
+      "title": "モンギル",
+      "headline": "開発終盤でもう大きな変更はできない。「モンギル」のリリース半年前に合流したテクニカルアーティストは，アニメ調の魅力をどう足したのか［Unreal Fest Tokyo 2026］",
+      "description": "輝く未知の世界へDIVE！ 今すぐダウンロードしよう！",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "addedAt": "2026-11-18T14:30:20.363Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/857/G085718/20261111006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://sgimage.netmarble.com/images/netmarble/monster2/20260305/ppu01772674640611.jpg"
     },
     {
       "id": "a27abd806f5a",
