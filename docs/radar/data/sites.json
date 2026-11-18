@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T14:30:20.363Z",
+  "updatedAt": "2026-11-18T15:00:21.729Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1272,
+  "total": 1274,
   "regions": {
-    "jp": 1000,
+    "jp": 1002,
     "global": 272
   },
   "categories": [
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 54
+      "count": 55
     },
     {
       "id": "goods",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 152
+      "count": 153
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 151
     },
     {
       "id": "mobile",
@@ -121,16 +121,76 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
     "AppBank",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "8099fc3dd6cb",
+      "url": "https://www.sodaproduction.com/",
+      "host": "sodaproduction.com",
+      "region": "jp",
+      "title": "SEKIRO",
+      "headline": "『SEKIRO』インスパイアの韓国産ソウルライクACT『KAMAGI』最新ゲームプレイ映像が公開！",
+      "description": "Genre: Korean Urban Fantasy Parry Action Platforms: PC & Consoles Development Engine: Unreal Engine 5 < Dev Video : www…",
+      "publishedAt": "2026-11-18T15:00:03.000Z",
+      "addedAt": "2026-11-18T15:00:21.729Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/19/175053.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdTebO2IZDG0ducG5i1UF83fZD_5zvsRFn9kB5HXCNeE9LTsSyCFhlLynE09PzeifgR3FMG50MyHIXkV8Ml2ACcC8tpzyXM5D09UjYFparJnYVPpEAH28sMlOrsryHWKBDMIk5BBsipnYHKV2fduFEzI3G8NSXp-9sdJ9kzTUML3r9BUN5TiNd9nTokK0Kp06FuOQSeGwLHgfOo-OrmGKiedKL8TyXyHHGYA8JhL7s=w1280"
+    },
+    {
+      "id": "dca3cfb20f36",
+      "url": "https://ghelix.ggame.jp/",
+      "host": "ghelix.ggame.jp",
+      "region": "jp",
+      "title": "ガンダム ローグオービット",
+      "headline": "『ガンダム ローグオービット』主人公機などMSの新たな設定画公開！バウバラム、ケリィースの頭部デザインがくっきり",
+      "description": "「GUNDAM ROGUE ORBIT」の公式サイトです。",
+      "publishedAt": "2026-11-18T14:45:02.000Z",
+      "addedAt": "2026-11-18T15:00:21.729Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/18/175052.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/18/191200.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ghelix.ggame.jp/ogp.png"
+    },
     {
       "id": "bdbc63fa855c",
       "url": "https://bandai-hobby.net/site/signature24/",
@@ -4711,7 +4771,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/1b/9c/051b9c0f-3f92-52c6-f975-94357921c982/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/5c/8e/a55c8ece-c35f-1495-2932-88190c258b1a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "286ad75c6e58",
@@ -5655,7 +5715,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/4b/37/b44b37dc-2683-18d7-b257-98bcec07bfa5/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/6f/c7/4b6fc7c5-bb4a-1301-1c81-6d189b26012d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "4cdd78cbfc6d",
