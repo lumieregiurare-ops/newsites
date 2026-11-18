@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T01:30:15.995Z",
+  "updatedAt": "2026-11-18T02:00:26.152Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1270,
+  "total": 1271,
   "regions": {
-    "jp": 998,
+    "jp": 999,
     "global": 272
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 219
+      "count": 220
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
-    "Inside",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "528e7c6fa99d",
+      "url": "https://www.streetfighter.com/6/",
+      "host": "streetfighter.com",
+      "region": "jp",
+      "title": "スト6",
+      "headline": "キュアアンサーがキャミィ、豪鬼たちのポーズをまねっこ！『スト6』×「名探偵プリキュア！」コラボの“かわいい”特別映像が公開",
+      "description": "シリーズ最新作「ストリートファイター6」についての情報をお届けします。",
+      "publishedAt": "2026-11-18T01:35:02.000Z",
+      "addedAt": "2026-11-18T02:00:26.152Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/18/191147.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.streetfighter.com/6/assets/images/sns_6.jpg"
+    },
     {
       "id": "ac76831fc5f7",
       "url": "https://www.kineticgames.co.uk/",
@@ -30608,7 +30635,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1794458778"
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1794964585"
     },
     {
       "id": "ee9753ded30e",

@@ -8911,9 +8911,9 @@
     },
     "dlc1": {
       "title": "DLC 1",
-      "dateText": "2026年12月31日",
-      "date": "2026-12-31",
-      "sortKey": "2026-12-31",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
       "prereg": false,
       "firstSeen": "2026-09-14T08:07:27.954Z"
     },
@@ -53070,9 +53070,9 @@
     },
     "ヤンキーサバイバー転生したら平成ヤンキーだった件": {
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "dateText": "2026年11月19日",
-      "date": "2026-11-19",
-      "sortKey": "2026-11-19",
+      "dateText": "2026年11月25日",
+      "date": "2026-11-25",
+      "sortKey": "2026-11-25",
       "prereg": true,
       "firstSeen": "2026-10-30T08:30:35.408Z"
     },
@@ -79215,33 +79215,17 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-18T01:30:35.039Z"
+    },
+    "whenthesundies": {
+      "title": "When The Sun Dies",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-18T02:00:47.010Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ディストーティドペラノーマルアクティビティズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122907",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f89c5f0f3358c54cb8c3c4acb6fe1ef4de6e238920becef62b991cfb13851643.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "メルティングアタッカー",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000104678",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f68d3e82374e060ce8788ea0b9e9772befc16a8f4baf6825a7793c02f841df7b.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年10月29日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -84019,6 +84003,33 @@
       "image": "",
       "platforms": [],
       "to": "2026年11月24日"
+    },
+    {
+      "at": "2026-11-18T02:00:47.010Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月19日",
+      "to": "2026年11月25日"
+    },
+    {
+      "at": "2026-11-18T02:00:47.010Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "DLC 1",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000076689",
+      "image": "https://img-eshop.cdn.nintendo.net/i/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "from": "2026年12月31日",
+      "to": "2026年12月1日"
     }
   ],
   "initialized": true,
