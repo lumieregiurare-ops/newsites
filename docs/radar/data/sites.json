@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-18T03:00:17.535Z",
+  "updatedAt": "2026-11-18T03:30:18.174Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1269,
+  "total": 1270,
   "regions": {
     "jp": 998,
-    "global": 271
+    "global": 272
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 153
+      "count": 154
     }
   ],
   "platforms": [
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "6c5ef77fcda3",
+      "url": "https://chronicles.net/",
+      "host": "chronicles.net",
+      "region": "global",
+      "title": "Chronicles: Medieval",
+      "headline": "実は破産していた！ デンマークのRaw Power GamesからCoffee StainがIPを取得へ。「Chronicles: Medieval」の開発継続が決定",
+      "description": "Step into a vast, dynamic medieval sandbox. Create your character and forge your path from rags to riches. Engage in in…",
+      "publishedAt": "2026-11-18T03:15:26.000Z",
+      "addedAt": "2026-11-18T03:30:18.174Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/917/G091712/20261118004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn.prod.website-files.com/65417380e1a2b175c1f8e607/683a18672fb7b91a55fb0af2_Opengraph.webp"
+    },
     {
       "id": "e5eb23232413",
       "url": "https://www.riotgames.com/ja/",
@@ -9214,7 +9241,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/a1/e9/00a1e969-7118-bb66-e65f-22575bece8eb/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/53/d5/9053d564-8778-fc9a-e815-778162f68f8c/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9de44778d939",
