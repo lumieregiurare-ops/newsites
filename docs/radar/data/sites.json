@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-18T16:00:21.732Z",
+  "updatedAt": "2026-11-18T16:30:18.472Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1276,
   "regions": {
     "jp": 1002,
-    "global": 272
+    "global": 274
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 323
+      "count": 325
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 457
+      "count": 459
     },
     {
       "id": "browser",
@@ -1085,6 +1085,38 @@
       "platforms": [],
       "points": null,
       "image": "https://www.gameworkers.co.uk/wp-content/uploads/2021/06/IWGB_GW_Logo_Horizontal_BlueBG.png"
+    },
+    {
+      "id": "bee31dc90ffe",
+      "url": "https://apps.apple.com/jp/app/id6821257259",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ヒョーゴスラビア興亡記",
+      "headline": "SADAYUKI NAGAHORI / ロールプレイング · App Store 新着",
+      "description": "SADAYUKI NAGAHORIの「ヒョーゴスラビア興亡記」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ヒョーゴスラビア興亡記」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "addedAt": "2026-11-18T16:30:18.472Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821257259"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/c3/6b/bbc36bfb-ada2-8e00-5879-d64de268c041/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "dfd5ee7f1f91",
@@ -5041,6 +5073,39 @@
       ],
       "points": null,
       "image": "https://www.suzukacircuit.jp/f1/common/images/img_fb.jpg"
+    },
+    {
+      "id": "f88ea63bb983",
+      "url": "http://www.cookapps.com/",
+      "host": "cookapps.com",
+      "region": "global",
+      "title": "カードオブデーモンスレイヤー: デッキ構築ローグライクRPG",
+      "headline": "cookapps / エンターテインメント・ロールプレイング · App Store 新着",
+      "description": "\"세상을 즐겁게!\" 글로벌 캐주얼 게임사 쿡앱스",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "addedAt": "2026-11-18T16:30:18.472Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6824833886"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.cookapps.com/cookapps-static-files/homepage_meta/main_meta.png"
     },
     {
       "id": "80ff25b9c4f2",
@@ -17705,7 +17770,7 @@
       "id": "0be39aa584f0",
       "url": "https://totalmayhemgames.com/",
       "host": "totalmayhemgames.com",
-      "region": "jp",
+      "region": "global",
       "title": "We Were Here Tomorrow",
       "headline": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
       "description": "2人協力プレイ専用謎解きADV「We Were Here Tomorrow」，配信開始。非対称型のパズルを解き，謎の施設の目的と連れてこられた理由を探る",
