@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:30:38.966Z",
+  "updatedAt": "2026-11-18T16:00:43.498Z",
   "platforms": [
     {
       "id": "switch",
@@ -465,81 +465,77 @@
   ],
   "changes": [
     {
-      "at": "2026-11-18T11:30:31.707Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "オトメイト コネクト",
-      "url": "https://www.otomate-p.jp/",
-      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-18T08:30:29.312Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ソコボム",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137825",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9109b97779a0fbe1cb85cbabd8854792d13b41e1567ef0bbd7353e874add2495.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年11月19日",
-      "to": "2027年2月11日"
-    },
-    {
-      "at": "2026-11-18T04:30:35.230Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "クイズアクションRPG ウィズジェネレーション",
-      "url": "https://wiz-generation.com/",
-      "image": "https://wiz-generation.com/assets/og-image.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2027年2月14日"
-    },
-    {
-      "at": "2026-11-18T04:00:32.765Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年11月19日",
-      "to": "2026年11月25日"
-    },
-    {
-      "at": "2026-11-18T02:30:32.079Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/94/31/37943146-6808-1b15-dcbf-975513801efe/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年11月25日",
-      "to": "2026年11月19日"
-    },
-    {
-      "at": "2026-11-18T02:00:47.010Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "DLC 1",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000076689",
-      "image": "https://img-eshop.cdn.nintendo.net/i/943ac82193671174ecae54dabc8c85897b561153d830d86ac288476d3a9d02e4.jpg",
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Barbie™ Rewind - DreamHouse Classics",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000082315",
+      "image": "https://img-eshop.cdn.nintendo.net/i/0cbc1f4d032624bf04b530e004851e18882f20b554e00140be0bb92547a02092.jpg",
       "platforms": [
         "switch2",
         "switch"
       ],
-      "from": "2026年12月31日",
-      "to": "2026年12月1日"
+      "to": "2027年2月25日"
+    },
+    {
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ハロウィン・サバイバーズ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000142259",
+      "image": "https://img-eshop.cdn.nintendo.net/i/54394d9d118cc8c6d8bf4e44f000c84907a940996b09b14d501a6364939198b3.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月21日"
+    },
+    {
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "The James Pond Legacy: The Pond Is Not Enough",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000130709",
+      "image": "https://img-eshop.cdn.nintendo.net/i/a6d20328323e45a6c04e8d2c1c29b316b126eb29250e2852df1d565179959788.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年1月21日"
+    },
+    {
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Crystals of Irm",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136403",
+      "image": "https://img-eshop.cdn.nintendo.net/i/04464acbd70c7c7d65f3c8a7863dc60a7809ca88b62fda9e6c814d407bf60742.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月21日"
+    },
+    {
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ロビンフッドデッキ",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000143382",
+      "image": "https://img-eshop.cdn.nintendo.net/i/270fef0d4a9c194c220739975bd52ae33e20730751cb833a6e6704508fd1bfa8.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月14日"
+    },
+    {
+      "at": "2026-11-18T16:00:43.498Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Nubby's Number Factory",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000127002",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c6e80e41f8faa34ab4deb46dfd7a119dd74839ce2b21a8a3652be04fc6000f6f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月14日"
     }
   ]
 }
