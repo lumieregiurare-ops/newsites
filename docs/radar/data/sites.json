@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T06:00:16.748Z",
+  "updatedAt": "2026-11-18T06:30:19.095Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1277,
+  "total": 1278,
   "regions": {
-    "jp": 1004,
+    "jp": 1005,
     "global": 273
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 221
+      "count": 222
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 258
+      "count": 259
     },
     {
       "id": "release",
@@ -132,6 +132,34 @@
   ],
   "items": [
     {
+      "id": "833922c306b7",
+      "url": "https://ryu-ga-gotoku.com/",
+      "host": "ryu-ga-gotoku.com",
+      "region": "jp",
+      "title": "龍が如く",
+      "headline": "『龍が如く』「趙天佑」が営む「佑天飯店」が渋谷に期間限定オープン。飲食チェーン「紅虎餃子房」「万豚記」コラボが11月21日から12月25日まで開催",
+      "description": "『龍が如く』シリーズの最新情報、ニュース、イベント情報を網羅した公式ポータルサイト。「RGGスタジオ」の最新作や特典情報もいち早くチェック！ファン必見のコンテンツが満載です。",
+      "publishedAt": "2026-11-18T06:28:59.000Z",
+      "addedAt": "2026-11-18T06:30:19.095Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261118w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ryu-ga-gotoku.com/ogp.jpg"
+    },
+    {
       "id": "7283ce21909c",
       "url": "https://mahjongsoul.com/",
       "host": "mahjongsoul.com",
@@ -146,6 +174,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261118y"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/456/G045646/20261118017/"
         }
       ],
       "tags": [
@@ -210,6 +242,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/059/G105921/20261118011/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/18/175019.html"
         }
       ],
       "tags": [
