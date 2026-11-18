@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-18T04:00:18.814Z",
+  "updatedAt": "2026-11-18T04:30:17.380Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1270,
+  "total": 1273,
   "regions": {
-    "jp": 998,
-    "global": 272
+    "jp": 1000,
+    "global": 273
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 255
+      "count": 256
     },
     {
       "id": "release",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 23
+      "count": 24
     },
     {
       "id": "company",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 52
+      "count": 53
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Inside",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,89 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "2fb65f26bde8",
+      "url": "https://wiz-generation.com/",
+      "host": "wiz-generation.com",
+      "region": "jp",
+      "title": "クイズアクションRPG ウィズジェネレーション",
+      "headline": "コロプラ新作『クイズアクションRPG ウィズジェネレーション』ゲーム紹介トレイラー公開！事前登録5万人突破、「ガチャチケット15連分」配布へ",
+      "description": "あなたの知識がド派手な一撃に変わる！クイズアクションRPG ウィズジェネレーションの公式サイトです。",
+      "publishedAt": "2026-11-18T04:15:02.000Z",
+      "addedAt": "2026-11-18T04:30:17.380Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/18/191164.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "browser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://wiz-generation.com/assets/og-image.png"
+    },
+    {
+      "id": "644c22554d7b",
+      "url": "https://ioi.dk/007firstlightgame",
+      "host": "ioi.dk",
+      "region": "global",
+      "title": "The Game Awards 2026",
+      "headline": "「The Game Awards 2026」のノミネート作品が発表。「グランド・セフト・オートVI」が最多8部門で候補入りし，「バイオハザード レクイエム」や「ゼルダの伝説 時の…",
+      "description": "007 First Light is a brand new James Bond video game developed and published by IO Interactive. Featuring a wholly orig…",
+      "publishedAt": "2026-11-18T04:05:54.000Z",
+      "addedAt": "2026-11-18T04:30:17.380Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/916/G091663/20261118006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cms.ioi.dk/media/bnij4cj4/extended-operations-outnow-seo-web.jpg?quality=78&hmac=f777b7cce9c796a400e98d5794e72b8f31cb2358e3c9ca32383fff3a275a6ff7"
+    },
+    {
+      "id": "301dfe1ea0bf",
+      "url": "https://njbp.org/concert/live19/",
+      "host": "njbp.org",
+      "region": "jp",
+      "title": "アレサ",
+      "headline": "12月12日開催「アレサ」シリーズのオーケストラコンサート，演奏予定曲を紹介。GB版第1作の全曲に加え，ファン投票で選ばれた10曲やSFC版の7曲を披露",
+      "description": "12月12日開催「アレサ」シリーズのオーケストラコンサート，演奏予定曲を紹介。GB版第1作の全曲に加え，ファン投票で選ばれた10曲やSFC版の7曲を披露",
+      "publishedAt": "2026-11-18T04:04:03.000Z",
+      "addedAt": "2026-11-18T04:30:17.380Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999109/20261118007/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "6c5ef77fcda3",
       "url": "https://chronicles.net/",

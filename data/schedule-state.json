@@ -3858,6 +3858,25 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/5b/08/2c5b08b4-4fa2-a087-b539-ecbbb2b579f2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "クイズアクションRPG ウィズジェネレーション": {
+      "at": "2026-11-18T04:30:35.523Z",
+      "entry": {
+        "trackId": "6761871323",
+        "title": "クイズアクションRPG ウィズジェネレーション",
+        "artist": "COLOPL, Inc.",
+        "genres": [
+          "ロールプレイング",
+          "教育",
+          "トリビア"
+        ],
+        "releaseDate": "2027-02-14T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6761871323",
+        "sellerUrl": "https://wiz-generation.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/d8/40/53d840e5-ec85-7a89-7523-9b330e4862fd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -79271,21 +79290,14 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-18T03:30:35.320Z"
+    },
+    "クイズアクションrpgウィズジェネレーション": {
+      "title": "クイズアクションRPG ウィズジェネレーション",
+      "prereg": true,
+      "firstSeen": "2026-11-18T04:30:35.230Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-21T16:00:42.719Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Industria (インダストリアー)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136641",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9500f4fea6ef6c918c9f9def2b99b0aaf54c9e4a782574f0721d988eeb8a9b59.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-21T16:00:42.719Z",
       "type": "new",
@@ -84080,6 +84092,18 @@
       ],
       "from": "2026年11月19日",
       "to": "2026年11月25日"
+    },
+    {
+      "at": "2026-11-18T04:30:35.230Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "クイズアクションRPG ウィズジェネレーション",
+      "url": "https://wiz-generation.com/",
+      "image": "https://wiz-generation.com/assets/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年2月14日"
     }
   ],
   "initialized": true,

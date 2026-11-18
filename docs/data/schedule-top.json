@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:00:32.765Z",
+  "updatedAt": "2026-11-18T04:30:35.230Z",
   "platforms": [
     {
       "id": "switch",
@@ -266,6 +266,31 @@
   ],
   "prereg": [
     {
+      "id": "2fb65f26bde8",
+      "title": "クイズアクションRPG ウィズジェネレーション",
+      "url": "https://wiz-generation.com/",
+      "image": "https://wiz-generation.com/assets/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-18T04:15:02.000Z",
+      "releaseText": "2027年2月14日",
+      "releaseSource": "appstore",
+      "count": "事前登録5万人",
+      "reward": "",
+      "headline": "コロプラ新作『クイズアクションRPG ウィズジェネレーション』ゲーム紹介トレイラー公開！事前登録5万人突破、「ガチャチケット15連分」配布へ",
+      "description": "あなたの知識がド派手な一撃に変わる！クイズアクションRPG ウィズジェネレーションの公式サイトです。",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/18/191164.html",
+      "appleId": "",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6761871323",
+        "preorder": true,
+        "releaseDate": "2027-02-14T08:00:00Z"
+      },
+      "trackId": "6761871323"
+    },
+    {
       "id": "c64b85445d7b",
       "title": "聖痕のアルテミスト",
       "url": "https://apps.apple.com/jp/app/id6743342428",
@@ -423,29 +448,21 @@
       "sourceUrl": "https://www.4gamer.net/games/054/G105426/20261105038/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "196783029ded",
-      "title": "ガールズバンドクライ",
-      "url": "https://gbc-firstriff.com/magazine/",
-      "image": "https://gbc-firstriff.com/wp-content/uploads/2026/11/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-07T12:00:34.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "『ガールズバンドクライ』完全新作ゲーム『ガルリフ』のゲーム情報が公開、路上からアリーナまで駆け上がるガールズロックRPG。ハイクオリティな3Dモデルとともに「トゲナシトゲアリ」ら…",
-      "description": "『ガールズバンドクライ First Riff（ガルリフ）』が分かる総合情報マガジン",
-      "source": "電ファミニコゲーマー",
-      "sourceUrl": "https://news.denfaminicogamer.jp/news/261107a",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-18T04:30:35.230Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "クイズアクションRPG ウィズジェネレーション",
+      "url": "https://wiz-generation.com/",
+      "image": "https://wiz-generation.com/assets/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年2月14日"
+    },
     {
       "at": "2026-11-18T04:00:32.765Z",
       "type": "delayed",
@@ -508,18 +525,6 @@
       "image": "",
       "platforms": [],
       "to": "2026年11月24日"
-    },
-    {
-      "at": "2026-11-17T16:00:42.406Z",
-      "type": "new",
-      "label": "新規",
-      "title": "レイマン レジェンド リトールド デラックス エディション",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000036357",
-      "image": "https://img-eshop.cdn.nintendo.net/i/11d9e2bb2c45529351739024bd047e7729af3c6e04fc3c2262f1ae9e9efb79d8.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
     }
   ]
 }
