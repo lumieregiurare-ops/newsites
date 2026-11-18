@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T22:00:14.248Z",
+  "updatedAt": "2026-11-18T22:30:20.973Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1276,
+  "total": 1277,
   "regions": {
-    "jp": 1002,
+    "jp": 1003,
     "global": 274
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 258
+      "count": 259
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 459
+      "count": 460
     },
     {
       "id": "browser",
@@ -121,16 +121,47 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "Game*Spark",
     "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
     "AppBank",
-    "Appliv Games",
-    "GameBusiness.jp"
+    "Appliv Games"
   ],
   "items": [
+    {
+      "id": "6a6e71cdd9cb",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.greenhouse.asken",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "あすけん",
+      "headline": "Google Play ベスト オブ 2026発表―ベストアプリは「あすけん」、ベストゲームは「ホロライブドリームス」",
+      "description": "ダイエットの体重管理や栄養管理・ヘルスケアができる！レコーディングダイエットができるダイエットサポートアプリ。体重の記録をしてダイエットの習慣化や筋トレ記録にも",
+      "publishedAt": "2026-11-18T22:00:03.000Z",
+      "addedAt": "2026-11-18T22:30:20.973Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/19/28751.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/PGGjvEU1r52ehfizMm8dOfJIopQDIOnn8g3ImQLZzozhNGDEwDctCCdGgrHZcnBMUk4gI387VPTxeQOJ1ouzcQ=s0-br30"
+    },
     {
       "id": "8099fc3dd6cb",
       "url": "https://www.sodaproduction.com/",
@@ -29209,7 +29240,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/29/26/01292676-6043-1aea-f75e-58eb75d5f0fe/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/e2/a1/6ee2a1c1-f0bb-dc0b-6e9a-d708e448980f/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "05fce3fa83eb",
@@ -35955,7 +35986,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11182026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11192026"
     },
     {
       "id": "33c0ff2f4868",
