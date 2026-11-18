@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:30:17.608Z",
+  "updatedAt": "2026-11-18T09:00:22.024Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 221
+      "count": 222
     },
     {
       "id": "event",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 156
+      "count": 155
     }
   ],
   "platforms": [
@@ -4258,10 +4258,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
-        "official"
+        "campaign"
       ],
       "platforms": [],
       "points": null,
