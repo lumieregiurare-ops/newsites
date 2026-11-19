@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T01:30:19.924Z",
+  "updatedAt": "2026-11-19T02:00:18.252Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1276,
   "regions": {
-    "jp": 1001,
+    "jp": 1003,
     "global": 273
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 457
+      "count": 459
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 121
+      "count": 122
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 324
+      "count": 325
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 25
+      "count": 26
     },
     {
       "id": "switch2",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 151
+      "count": 153
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 459
+      "count": 460
     },
     {
       "id": "browser",
@@ -121,16 +121,81 @@
     }
   ],
   "sources": [
+    "4Gamer",
+    "AppBank",
     "GameBusiness.jp",
     "Game*Spark",
     "Inside",
-    "4Gamer",
     "電ファミニコゲーマー",
     "App Store",
-    "AppBank",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "67cdc87ab19f",
+      "url": "https://the-first-zombie.com/",
+      "host": "the-first-zombie.com",
+      "region": "jp",
+      "title": "THE FIRST ZOMBIE",
+      "headline": "ゾンビを増やして東京の街を制圧する「THE FIRST ZOMBIE」，12月17日発売決定。「水ダウ」の藤井健太郎氏が手掛ける“逆ゾンビゲー”",
+      "description": "『水曜日のダウンタウン』藤井健太郎プロデュースによる、ゾンビが主人公の”逆ゾンビゲー”、『THE FIRST ZOMBIE』をNintendo Switch™ / PC（Steam）向けに配信決定！",
+      "publishedAt": "2026-11-19T01:57:42.000Z",
+      "addedAt": "2026-11-19T02:00:18.252Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/043/G104316/20261119001/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://the-first-zombie.com/ogp.png"
+    },
+    {
+      "id": "5319e0f77920",
+      "url": "https://apps.apple.com/jp/app/id6743923238",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ネコぱら セカイコネクト",
+      "headline": "『ネコぱら セカイコネクト』Steam版が11月18日配信開始！ 中国語にも対応",
+      "description": "GOOD SMILE COMPANY, INC.の「ネコぱら セカイコネクト」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ネコぱら セカイコネクト」に似たゲームを見ることなどができ…",
+      "publishedAt": "2026-11-19T01:40:00.000Z",
+      "addedAt": "2026-11-19T02:00:18.252Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/19/game/3170505.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/70/51/507051d4-8d18-53c9-4dab-9f6fe56622ab/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "6a6e71cdd9cb",
       "url": "https://play.google.com/store/apps/details?id=jp.co.greenhouse.asken",

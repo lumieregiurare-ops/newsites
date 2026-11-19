@@ -3907,6 +3907,25 @@
     "オトメイト コネクト": {
       "at": "2026-11-18T11:30:31.963Z",
       "entry": null
+    },
+    "ネコぱら セカイコネクト": {
+      "at": "2026-11-19T02:00:31.583Z",
+      "entry": {
+        "trackId": "6743923238",
+        "title": "ネコぱら セカイコネクト",
+        "artist": "GOOD SMILE COMPANY, INC.",
+        "genres": [
+          "ロールプレイング",
+          "エンターテインメント",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2026-04-13T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6743923238",
+        "sellerUrl": "https://nekoconne.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/42/e7/a542e771-db2f-2b1d-8bfb-53e9f3498416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -80554,21 +80573,17 @@
       "sortKey": "2026-11-19",
       "prereg": false,
       "firstSeen": "2026-11-19T01:30:36.659Z"
+    },
+    "thefirstzombie": {
+      "title": "THE FIRST ZOMBIE",
+      "dateText": "2026年12月17日",
+      "date": "2026-12-17",
+      "sortKey": "2026-12-17",
+      "prereg": false,
+      "firstSeen": "2026-11-19T02:00:31.275Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "くるくるカノジョ！ ～ウォーターパークで秘密のデート～",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140238",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f2a628feb13e660e18e164b0aa4a5d77b63b4b39b3cae44ca383c4b08a2dbdd7.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -85383,6 +85398,19 @@
         "switch"
       ],
       "to": "2027年1月21日"
+    },
+    {
+      "at": "2026-11-19T02:00:31.275Z",
+      "type": "new",
+      "label": "新規",
+      "title": "THE FIRST ZOMBIE",
+      "url": "https://the-first-zombie.com/",
+      "image": "https://the-first-zombie.com/ogp.png",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年12月17日"
     }
   ],
   "initialized": true,

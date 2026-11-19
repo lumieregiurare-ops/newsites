@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T01:30:36.659Z",
+  "updatedAt": "2026-11-19T02:00:31.275Z",
   "platforms": [
     {
       "id": "switch",
@@ -465,6 +465,19 @@
   ],
   "changes": [
     {
+      "at": "2026-11-19T02:00:31.275Z",
+      "type": "new",
+      "label": "新規",
+      "title": "THE FIRST ZOMBIE",
+      "url": "https://the-first-zombie.com/",
+      "image": "https://the-first-zombie.com/ogp.png",
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "to": "2026年12月17日"
+    },
+    {
       "at": "2026-11-18T17:00:31.412Z",
       "type": "new",
       "label": "新規",
@@ -522,19 +535,6 @@
       "platforms": [
         "switch"
       ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-18T17:00:31.412Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "Remothered: Red Nun's Legacy",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131139",
-      "image": "https://img-eshop.cdn.nintendo.net/i/11c2c5f8e9daa41d3c42f89bd83905f1d4d0f965f7d632dd7299fd4bacadd5d3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026年10月27日",
       "to": "2026年12月3日"
     }
   ]
