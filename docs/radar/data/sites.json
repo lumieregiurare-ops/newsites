@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-19T09:00:21.319Z",
+  "updatedAt": "2026-11-19T09:30:21.452Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1272,
+  "total": 1275,
   "regions": {
-    "jp": 999,
-    "global": 273
+    "jp": 1001,
+    "global": 274
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 162
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 459
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 152
+      "count": 153
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 461
+      "count": 463
     },
     {
       "id": "browser",
@@ -131,6 +131,38 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "3349762a076e",
+      "url": "https://pjsekai.sega.jp/",
+      "host": "pjsekai.sega.jp",
+      "region": "jp",
+      "title": "プロセカ",
+      "headline": "「プロセカ」，「ノーモアフィクション」セカイver.のフルサイズ2DMVを公開中",
+      "description": "セガ×Colorful Paletteが贈る、スマートフォン向けゲーム『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』の公式サイト",
+      "publishedAt": "2026-11-19T09:00:02.000Z",
+      "addedAt": "2026-11-19T09:30:21.452Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/476/G047609/20261119027/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://pjsekai.sega.jp/assets/img/ogp.png"
+    },
     {
       "id": "e0bf6de18b65",
       "url": "https://www.apple.com/jp/",
@@ -4810,6 +4842,33 @@
       "platforms": [
         "pc"
       ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "700813e361b3",
+      "url": "https://www.stellar-blade.com/index_pc.html",
+      "host": "stellar-blade.com",
+      "region": "global",
+      "title": "Stellar Blade",
+      "headline": "「Stellar Blade」の楽曲を収録した4枚組LPボックスセット「Director’s Edition」が発売決定。限定カラー盤を含む2種類をラインナップ",
+      "description": "「Stellar Blade」の楽曲を収録した4枚組LPボックスセット「Director’s Edition」が発売決定。限定カラー盤を含む2種類をラインナップ",
+      "publishedAt": "2026-11-13T00:00:00.000Z",
+      "addedAt": "2026-11-19T09:30:21.452Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/035/G103535/20261113003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
       "points": null,
       "image": ""
     },
@@ -27752,6 +27811,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/15/173629.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/622/G062211/20261119026/"
         }
       ],
       "tags": [
@@ -38444,7 +38507,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?yvw8ZozOI7a7Kz1war9qe"
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?K1OF2OByoQie0QQKb3wpE"
     },
     {
       "id": "2e16a23209ce",
@@ -38532,6 +38595,39 @@
       ],
       "categories": [
         "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "66d77cdcb0bf",
+      "url": "https://planet.hoyoverse.com/ja-jp/home",
+      "host": "planet.hoyoverse.com",
+      "region": "jp",
+      "title": "プチプラネット",
+      "headline": "HoYoverseのスローライフゲーム「プチプラネット」，ファイナルβテストを開始。公式まったり番組「ぷらっとぷらねっと」第3回を9月25日20：00に配信",
+      "description": "Weave Your Dreams Beneath the Stars! Pre-register now for HoYoverse",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "addedAt": "2026-11-19T09:30:21.452Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/948/G094822/20260920015/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
       ],
       "platforms": [
         "mobile"
