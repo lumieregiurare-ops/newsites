@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T07:00:17.637Z",
+  "updatedAt": "2026-11-19T07:30:23.907Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1280,
+  "total": 1281,
   "regions": {
-    "jp": 1005,
+    "jp": 1006,
     "global": 275
   },
   "categories": [
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 327
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 462
+      "count": 463
     },
     {
       "id": "browser",
@@ -131,6 +131,35 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "e0bf6de18b65",
+      "url": "https://www.apple.com/jp/",
+      "host": "apple.com",
+      "region": "jp",
+      "title": "App Store Awards 2026",
+      "headline": "「App Store Awards 2026」ファイナリスト45作品を発表。「デイヴ・ザ・ダイバー」「アークナイツ：エンドフィールド」「紅の砂漠 Enhanced」などが選出",
+      "description": "革新に満ちたAppleの世界へようこそ。AppleのウェブサイトではiPhoneからiPad、Apple Watch、Mac、Apple TVまで、すべての製品の購入ができます。アクセサリやエンターテインメントを探す時も、専任スペシャリス…",
+      "publishedAt": "2026-11-19T07:10:08.000Z",
+      "addedAt": "2026-11-19T07:30:23.907Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/059/G105976/20261119020/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202609050240"
+    },
     {
       "id": "a93a7e9aabba",
       "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
