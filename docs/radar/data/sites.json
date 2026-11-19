@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-19T03:00:17.457Z",
+  "updatedAt": "2026-11-19T03:30:18.017Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1275,
   "regions": {
-    "jp": 1000,
-    "global": 273
+    "jp": 1001,
+    "global": 274
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 256
+      "count": 257
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 459
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 55
+      "count": 56
     },
     {
       "id": "goods",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "GameBusiness.jp",
     "4Gamer",
     "AppBank",
-    "GameBusiness.jp",
     "Game*Spark",
     "Inside",
     "電ファミニコゲーマー",
@@ -131,6 +131,61 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "3f7a2cd1dc82",
+      "url": "https://conference.godotengine.org/JP/2026/",
+      "host": "conference.godotengine.org",
+      "region": "jp",
+      "title": "GodotCon",
+      "headline": "アジア初「GodotCon」が12月4日に東京で開催！世界のGodot関係者と国内開発者が集う一日",
+      "description": "GodotCon Tokyo December 4",
+      "publishedAt": "2026-11-19T03:30:03.000Z",
+      "addedAt": "2026-11-19T03:30:18.017Z",
+      "source": "GameBusiness.jp",
+      "sources": [
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/19/28760.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://conference.godotengine.org/images/JP/2026/share-image.png"
+    },
+    {
+      "id": "ba2b4ad9817d",
+      "url": "https://www.toplitz-productions.com/farmers-dynasty-2.html",
+      "host": "toplitz-productions.com",
+      "region": "global",
+      "title": "Farmer's Dynasty 2",
+      "headline": "農業ライフシム「Farmer's Dynasty 2」，2027年1月20日の正式リリース。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充へ",
+      "description": "農業ライフシム「Farmer's Dynasty 2」，2027年1月20日の正式リリース。1960年代と現代の物語が完結し，農場の改装機能や農業機械も拡充へ",
+      "publishedAt": "2026-11-19T03:19:21.000Z",
+      "addedAt": "2026-11-19T03:30:18.017Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/996/G099625/20261119004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "67cdc87ab19f",
       "url": "https://the-first-zombie.com/",
