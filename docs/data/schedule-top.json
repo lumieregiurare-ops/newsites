@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:30:32.122Z",
+  "updatedAt": "2026-11-19T07:00:31.688Z",
   "platforms": [
     {
       "id": "switch",
@@ -279,6 +279,31 @@
   ],
   "prereg": [
     {
+      "id": "a93a7e9aabba",
+      "title": "太閤立志伝 乱世立身録",
+      "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
+      "image": "https://taikou-rannsei-jp.bbgame.global/og-pre.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-19T06:46:50.000Z",
+      "releaseText": "2027年2月16日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "MMO戦略シミュレーション「太閤立志伝 乱世立身録」，事前登録の受付をApp StoreとGoogle Playで開始",
+      "description": "名作の魂を受け継ぐ、戦国戦略SLGの最高峰！『太閤立志伝Ⅴ DX』初の公式ライセンススマートフォンゲーム『太閤立志伝 乱世立身録』がついに登場！本作は壮大な戦国絵巻であると同時に、名もなき者が乱世で身を立て、天下人へと駆け上がる一代記。多…",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/059/G105971/20261119021/",
+      "appleId": "6762597050",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6762597050",
+        "preorder": true,
+        "releaseDate": "2027-02-16T08:00:00Z"
+      },
+      "trackId": "6762597050"
+    },
+    {
       "id": "1a4a46cb4ffc",
       "title": "レッドベルの慟哭",
       "url": "https://products.voltage.co.jp/redbell/",
@@ -435,35 +460,21 @@
         "releaseDate": "2027-01-07T08:00:00Z"
       },
       "trackId": "6814084715"
-    },
-    {
-      "id": "5b99f8770663",
-      "title": "ロールコール",
-      "url": "https://apps.apple.com/jp/app/id6792681102",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/5c/8e/a55c8ece-c35f-1495-2932-88190c258b1a/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-12T12:35:00.000Z",
-      "releaseText": "2026年12月1日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "学園戦略SRPG『ロールコール』12月1日配信！ 事前登録・予約注文を受付中",
-      "description": "FANTAGの「ロールコール」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ロールコール」に似たゲームを見ることなどができます。",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/12/game/3163024.php",
-      "appleId": "6792681102",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6792681102",
-        "preorder": true,
-        "releaseDate": "2026-12-01T08:00:00Z"
-      },
-      "announcedText": "12月1日配信",
-      "trackId": "6792681102"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-19T07:00:31.688Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "太閤立志伝 乱世立身録",
+      "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
+      "image": "https://taikou-rannsei-jp.bbgame.global/og-pre.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年2月16日"
+    },
     {
       "at": "2026-11-19T06:00:36.120Z",
       "type": "prereg_start",
@@ -522,18 +533,6 @@
         "switch2"
       ],
       "to": "2027年1月21日"
-    },
-    {
-      "at": "2026-11-18T17:00:31.412Z",
-      "type": "new",
-      "label": "新規",
-      "title": "殺人ピエロ少女：彼女の最後のショー (Killer Clown Girl: Her Final Show)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137624",
-      "image": "https://img-eshop.cdn.nintendo.net/i/993962b5218ffee6be4fa4cf0c5a82bd93405cfde484e2a7c44af89f75745e76.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
     }
   ]
 }

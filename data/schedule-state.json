@@ -2462,7 +2462,7 @@
       "entry": null
     },
     "うめしわ": {
-      "at": "2026-11-16T06:30:32.200Z",
+      "at": "2026-11-19T07:00:34.801Z",
       "entry": {
         "trackId": "6807810259",
         "title": "うめしわ 〜サラリーマンとふしぎなおにぎり〜",
@@ -3455,7 +3455,7 @@
       "entry": null
     },
     "テクロノス": {
-      "at": "2026-11-05T06:30:36.138Z",
+      "at": "2026-11-19T07:00:33.327Z",
       "entry": null
     },
     "Spatial Slash!": {
@@ -3930,6 +3930,23 @@
     "レッドベルの慟哭": {
       "at": "2026-11-19T06:00:36.304Z",
       "entry": null
+    },
+    "太閤立志伝 乱世立身録": {
+      "at": "2026-11-19T07:00:31.871Z",
+      "entry": {
+        "trackId": "6762597050",
+        "title": "太閤立志伝 乱世立身録",
+        "artist": "HKBBGL",
+        "genres": [
+          "ストラテジー"
+        ],
+        "releaseDate": "2027-02-16T08:00:00Z",
+        "isPreorder": true,
+        "storeUrl": "https://apps.apple.com/jp/app/id6762597050",
+        "sellerUrl": "https://taikou-rannsei-jp.bbgame.global/pre",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/ba/47/e2ba47a5-00ef-caec-939e-279f3f0354d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -80665,21 +80682,22 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-19T06:00:36.120Z"
+    },
+    "crazychess–developersupportpack-lvl3": {
+      "title": "Crazy Chess – Developer Support Pack - Lvl 3",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-19T07:00:31.688Z"
+    },
+    "太閤立志伝乱世立身録": {
+      "title": "太閤立志伝 乱世立身録",
+      "prereg": true,
+      "firstSeen": "2026-11-19T07:00:31.688Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "にゃんにゃん にゃん球",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000111217",
-      "image": "https://img-eshop.cdn.nintendo.net/i/cac0b42f0fc6e1da7e450fd7a7ffd76caf030ba1ac644aab7500de1b2644a0d4.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -85493,6 +85511,18 @@
         "pc"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-19T07:00:31.688Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "太閤立志伝 乱世立身録",
+      "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
+      "image": "https://taikou-rannsei-jp.bbgame.global/og-pre.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年2月16日"
     }
   ],
   "initialized": true,
