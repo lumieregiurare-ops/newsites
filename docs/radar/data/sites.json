@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T04:00:17.825Z",
+  "updatedAt": "2026-11-19T04:30:16.951Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1277,
   "regions": {
-    "jp": 1001,
+    "jp": 1003,
     "global": 274
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 324
+      "count": 325
     },
     {
       "id": "official",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 25
+      "count": 26
     },
     {
       "id": "switch2",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 460
+      "count": 461
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "GameBusiness.jp",
     "4Gamer",
+    "GameBusiness.jp",
     "AppBank",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,35 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "bac7e76384c4",
+      "url": "https://www.taito.co.jp/tanmoshi-game/",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "探偵はもう、死んでいる。",
+      "headline": "「探偵はもう、死んでいる。」初の家庭用ゲーム，2027年発売決定。死んだはずのシエスタがいる世界を舞台に，原作者監修のオリジナルストーリーが展開",
+      "description": "『探偵はもう、死んでいる。』Nintendo Switch™向けに初の家庭用ゲーム化決定！",
+      "publishedAt": "2026-11-19T04:12:44.000Z",
+      "addedAt": "2026-11-19T04:30:16.951Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/996/G099644/20261119006/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/tanmoshi/banner_1200675_20261119.jpg"
+    },
     {
       "id": "3f7a2cd1dc82",
       "url": "https://conference.godotengine.org/JP/2026/",
@@ -6876,6 +6905,39 @@
       ],
       "points": null,
       "image": "https://snoopypark.jp/fpark/assets/img/park_icon.png"
+    },
+    {
+      "id": "83fe4b46715f",
+      "url": "https://clockwork-alchemist.com/",
+      "host": "clockwork-alchemist.com",
+      "region": "jp",
+      "title": "AfterRoom",
+      "headline": "Kawamata Koichiro / シミュレーション・エンターテインメント · App Store 新着",
+      "description": "C.A.D.(Clockwork Alchemist Designs)は、AI・映像・グラフィック・Web・iPhoneアプリ・LINEスタンプ・3Dプリント・刺繍・システム開発をひとつの窓口で手がけるクリエイティブスタジオです。ご相談・…",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "addedAt": "2026-11-19T04:30:16.951Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832176911"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://clockwork-alchemist.com/wp/wp-content/themes/cad-theme/assets/img/ogp.jpg"
     },
     {
       "id": "235d8525792d",
