@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T05:30:39.026Z",
+  "updatedAt": "2026-11-19T06:00:36.120Z",
   "platforms": [
     {
       "id": "switch",
@@ -279,6 +279,26 @@
   ],
   "prereg": [
     {
+      "id": "1a4a46cb4ffc",
+      "title": "レッドベルの慟哭",
+      "url": "https://products.voltage.co.jp/redbell/",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "startedAt": "2026-11-19T05:41:04.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "人間界と魔界を舞台に世界の命運をかけて戦う女性向けダークファンタジーADV。PC版「レッドベルの慟哭」，Steamで配信開始",
+      "description": "人間界と魔界を舞台に世界の命運をかけて戦う女性向けダークファンタジーADV。PC版「レッドベルの慟哭」，Steamで配信開始",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/059/G105958/20261119008/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "80f0dd6de116",
       "title": "オトメイト コネクト",
       "url": "https://www.otomate-p.jp/",
@@ -441,29 +461,21 @@
       },
       "announcedText": "12月1日配信",
       "trackId": "6792681102"
-    },
-    {
-      "id": "f1b31d67e968",
-      "title": "PURPLEコイン",
-      "url": "http://www.ncsoft.jp/lineage/",
-      "image": "https://static.ncsoft.jp/renew/l1/ogImg.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-11T11:12:50.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "エヌシージャパン，創立25周年記念特設サイトを公開。総額100万円分の「PURPLEコイン」が当たる記念生放送を11月20日に配信",
-      "description": "「リネージュ」は、気軽に始められる無料オンラインRPGです。伝統的なファンタジー世界で、新たな出会いと冒険があなたを待っています！",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/001/G000189/20261111045/",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-19T06:00:36.120Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "レッドベルの慟哭",
+      "url": "https://products.voltage.co.jp/redbell/",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-19T03:30:33.446Z",
       "type": "new",
@@ -518,18 +530,6 @@
       "title": "殺人ピエロ少女：彼女の最後のショー (Killer Clown Girl: Her Final Show)",
       "url": "https://store-jp.nintendo.com/item/software/D70010000137624",
       "image": "https://img-eshop.cdn.nintendo.net/i/993962b5218ffee6be4fa4cf0c5a82bd93405cfde484e2a7c44af89f75745e76.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-18T17:00:31.412Z",
-      "type": "new",
-      "label": "新規",
-      "title": "パチスロ ユニバ王国2 <A PROJECT>",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131260",
-      "image": "https://img-eshop.cdn.nintendo.net/i/559801e66201fc9f106a2fd25e15d57f88209dabb7e01804b9a99e6095783f5f.jpg",
       "platforms": [
         "switch"
       ],

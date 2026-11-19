@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T05:30:17.521Z",
+  "updatedAt": "2026-11-19T06:00:18.746Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1277,
+  "total": 1278,
   "regions": {
-    "jp": 1003,
+    "jp": 1004,
     "global": 274
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 162
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 460
+      "count": 461
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 154
     },
     {
       "id": "mobile",
@@ -131,6 +131,37 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "1a4a46cb4ffc",
+      "url": "https://products.voltage.co.jp/redbell/",
+      "host": "products.voltage.co.jp",
+      "region": "jp",
+      "title": "レッドベルの慟哭",
+      "headline": "人間界と魔界を舞台に世界の命運をかけて戦う女性向けダークファンタジーADV。PC版「レッドベルの慟哭」，Steamで配信開始",
+      "description": "人間界と魔界を舞台に世界の命運をかけて戦う女性向けダークファンタジーADV。PC版「レッドベルの慟哭」，Steamで配信開始",
+      "publishedAt": "2026-11-19T05:41:04.000Z",
+      "addedAt": "2026-11-19T06:00:18.746Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/059/G105958/20261119008/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "bac7e76384c4",
       "url": "https://www.taito.co.jp/tanmoshi-game/",
@@ -763,7 +794,7 @@
       "region": "jp",
       "title": "八部寛のホームページ",
       "headline": "異変があったらバールでパソコンを壊す。一人称視点の3D短編ホラーゲーム「八部寛のホームページ」，Steamストアページを公開",
-      "description": "8日間、架空の個人サイト「八部寛のホームページ」を見回って異変を探すホラーゲーム。 / A horror game where you spend eight days checking a fictional personal webs…",
+      "description": "架空の個人サイト「八部寛のホームページ」を監視する、異変探索ホラーゲーム。 / A horror game where you spend eight days checking a fictional personal website,…",
       "publishedAt": "2026-11-18T05:00:01.000Z",
       "addedAt": "2026-11-18T05:30:22.732Z",
       "source": "4Gamer",

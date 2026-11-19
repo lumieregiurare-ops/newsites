@@ -1712,7 +1712,7 @@
       "entry": null
     },
     "ラストオリジン": {
-      "at": "2026-11-16T06:00:34.220Z",
+      "at": "2026-11-19T06:00:39.218Z",
       "entry": {
         "trackId": "1469855842",
         "title": "ラストオリジン",
@@ -3451,7 +3451,7 @@
       }
     },
     "Falling Apart": {
-      "at": "2026-11-05T06:00:31.481Z",
+      "at": "2026-11-19T06:00:37.752Z",
       "entry": null
     },
     "テクロノス": {
@@ -3926,6 +3926,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/42/e7/a542e771-db2f-2b1d-8bfb-53e9f3498416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "レッドベルの慟哭": {
+      "at": "2026-11-19T06:00:36.304Z",
+      "entry": null
     }
   },
   "titles": {
@@ -74206,7 +74210,7 @@
       "dateText": "2026年11月18日",
       "date": "2026-11-18",
       "sortKey": "2026-11-18",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-11-13T04:30:27.313Z"
     },
     "beerthirtydemo": {
@@ -80637,21 +80641,33 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-19T05:30:39.026Z"
+    },
+    "crazychess–developersupportpack-lvl2": {
+      "title": "Crazy Chess – Developer Support Pack - Lvl 2",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-19T06:00:36.120Z"
+    },
+    "lowlandsconquest": {
+      "title": "Lowlands Conquest",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-19T06:00:36.120Z"
+    },
+    "maximumaura": {
+      "title": "Maximum Aura",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-19T06:00:36.120Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ソーラーオーエーシストレジャーズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131380",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ecbc50687e8f83e5dc27a7f38308f4f651947bdb18f9bdf2987301a2ec177fbe.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -85465,6 +85481,18 @@
       "image": "",
       "platforms": [],
       "to": "2027年1月20日"
+    },
+    {
+      "at": "2026-11-19T06:00:36.120Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "レッドベルの慟哭",
+      "url": "https://products.voltage.co.jp/redbell/",
+      "image": "",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
