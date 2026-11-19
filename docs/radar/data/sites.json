@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T10:00:19.903Z",
+  "updatedAt": "2026-11-19T10:30:17.749Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1276,
   "regions": {
-    "jp": 1001,
+    "jp": 1002,
     "global": 274
   },
   "categories": [
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 57
+      "count": 58
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 327
+      "count": 328
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 463
+      "count": 464
     },
     {
       "id": "browser",
@@ -22866,6 +22866,40 @@
       ],
       "points": null,
       "image": "https://www.hamster.co.jp/wp/wp-content/uploads/2024/08/ogp.jpg"
+    },
+    {
+      "id": "a52710eb103c",
+      "url": "https://keel-lab.com/",
+      "host": "keel-lab.com",
+      "region": "jp",
+      "title": "クレトレ - クレーンゲーム練習シミュレーター",
+      "headline": "Yuto Otani / シミュレーション・カジュアル · App Store 新着",
+      "description": "日常をもっと豊かに。テクノロジーの力で人々の暮らしに寄り添うプロダクトをつくり続けています。",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "addedAt": "2026-11-19T10:30:17.749Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6819570474"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "d1e790b2c36b",
