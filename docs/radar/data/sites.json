@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-19T14:30:20.881Z",
+  "updatedAt": "2026-11-19T15:00:19.023Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1276,
   "regions": {
     "jp": 1000,
-    "global": 275
+    "global": 276
   },
   "categories": [
     {
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 24
+      "count": 25
     },
     {
       "id": "company",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 465
+      "count": 466
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "AppBank",
     "Game*Spark",
@@ -131,6 +131,37 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "8ef4b29a5827",
+      "url": "https://brawlstars.com/ja/",
+      "host": "brawlstars.com",
+      "region": "global",
+      "title": "ブロスタ 世界一決定戦 2026",
+      "headline": "「ブロスタ 世界一決定戦 2026」が11月20日に東京体育館で開幕。前回王者Crazy Raccoonや強豪ZETA DIVISIONなど12チームが出場",
+      "description": "Fast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes …",
+      "publishedAt": "2026-11-19T14:43:25.000Z",
+      "addedAt": "2026-11-19T15:00:19.023Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/384/G038494/20261119053/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://supercell.com/_next/static/media/games_thumbnail_brawlstars.59dcf516.jpg"
+    },
     {
       "id": "c5d9703bb4b0",
       "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.MonsterHunterRise",
@@ -517,6 +548,10 @@
         {
           "name": "AppBank",
           "url": "https://www.appbank.net/2026/11/19/game/3170505.php"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/19/175094.html"
         }
       ],
       "tags": [
