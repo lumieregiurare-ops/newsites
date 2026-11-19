@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:30:42.568Z",
+  "updatedAt": "2026-11-19T08:00:35.469Z",
   "platforms": [
     {
       "id": "switch",
@@ -230,37 +230,51 @@
       "sourceUrl": "https://www.4gamer.net/games/988/G098878/20261015025/"
     },
     {
-      "id": "09b2d6c2bcb7",
+      "id": "edbd6525a1ae",
       "title": "ワルツとジャム",
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
+      "platforms": [
+        "switch2"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000126598",
+      "image": "https://img-eshop.cdn.nintendo.net/i/226c23c0057c81fc3c157a211217cd112214529f28cb5e5a79af5e910f2e2bda.jpg",
+      "maker": "Flyway Games",
+      "genre": [
+        "アドベンチャー",
+        "アクション",
+        "アーケード"
+      ],
+      "price": 3300,
+      "status": "",
       "priority": 0,
-      "platforms": [],
-      "url": "https://flywaygames.com/en/game/waltz-jam",
-      "image": "https://flywaygames.com/media/site/acea043cd5-1719904657/metatag.jpg",
-      "maker": "",
-      "headline": "アクションADV「ワルツとジャム」，12月3日に発売決定。変身する子犬と一緒に，7つの大罪を再解釈した死後の世界を冒険しよう",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/048/G104889/20261009007/"
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     },
     {
-      "id": "1a2d22b38e29",
+      "id": "617e03b332a3",
       "title": "大悪逆令嬢 ストラテジーオブリリィ",
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 0,
       "platforms": [
         "switch2",
         "ps"
       ],
-      "url": "https://alliance-arts.co.jp/villainess/",
-      "image": "https://alliance-arts.co.jp/villainess/image/ogp_jp.jpg",
-      "maker": "",
-      "headline": "悪役令嬢がテーマのターン制ストラテジー「大悪逆令嬢 ストラテジーオブリリィ」，Switch2版とPS5版が12月3日に発売決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/054/G105421/20261029041/"
+      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
+      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
+      "maker": "アライアンス・アーツ",
+      "genre": [
+        "ストラテジー",
+        "シミュレーション",
+        "アドベンチャー"
+      ],
+      "price": 3290,
+      "status": "予約受付中",
+      "priority": 0,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     }
   ],
   "prereg": [
@@ -450,6 +464,32 @@
   ],
   "changes": [
     {
+      "at": "2026-11-19T08:00:35.469Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "Winx Club - Moonlight Quest",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000136963",
+      "image": "https://img-eshop.cdn.nintendo.net/i/805e75688398dd7c4d4383fd60eed0642b948685d0a74617b04d6e777f7b6eca.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年11月29日",
+      "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-11-19T08:00:35.469Z",
+      "type": "delayed",
+      "label": "発売延期",
+      "title": "ソコボム",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000137825",
+      "image": "https://img-eshop.cdn.nintendo.net/i/9109b97779a0fbe1cb85cbabd8854792d13b41e1567ef0bbd7353e874add2495.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "from": "2026年11月19日",
+      "to": "2027年2月11日"
+    },
+    {
       "at": "2026-11-19T07:00:31.688Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -495,31 +535,6 @@
         "pc"
       ],
       "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-11-18T16:00:43.498Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "Winx Club - Moonlight Quest",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136963",
-      "image": "https://img-eshop.cdn.nintendo.net/i/805e75688398dd7c4d4383fd60eed0642b948685d0a74617b04d6e777f7b6eca.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年11月29日",
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-18T11:30:31.707Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "オトメイト コネクト",
-      "url": "https://www.otomate-p.jp/",
-      "image": "https://www.otomate-p.jp/wordpress/wp-content/themes/otomate/assets/images/common/ogp_2.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }
