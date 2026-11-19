@@ -1214,10 +1214,10 @@
       }
     },
     "イナズマイレブン クロス": {
-      "at": "2026-11-16T10:00:37.087Z",
+      "at": "2026-11-19T10:00:43.187Z",
       "entry": {
         "trackId": "6756994116",
-        "title": "イナズマイレブン クロス",
+        "title": "イナズマイレブン クロス | 超次元サッカーシミュレーション",
         "artist": "Level-5 Inc.",
         "genres": [
           "シミュレーション"
@@ -1226,7 +1226,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6756994116",
         "sellerUrl": "https://www.inazuma-cross.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e2/e7/ade2e71f-6e8e-ba20-af5d-ff96c58dc9cd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/30/91/8e309153-527b-cca4-0b4c-9e0ead99bb62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -3489,7 +3489,7 @@
       }
     },
     "Maru": {
-      "at": "2026-11-16T10:00:35.690Z",
+      "at": "2026-11-19T10:00:41.813Z",
       "entry": {
         "trackId": "816142637",
         "title": "Maru-Jan App",
@@ -3502,7 +3502,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id816142637",
         "sellerUrl": "http://www.maru-jan.com/ios/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/7a/28/a77a2805-7282-7aa7-c965-cdcbad9e0093/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/b0/84/69b084b1-c072-3933-131a-b53e9fc15bf6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -80852,21 +80852,25 @@
       "sortKey": "2026-11-22",
       "prereg": false,
       "firstSeen": "2026-11-19T09:30:40.497Z"
+    },
+    "monolyth": {
+      "title": "MONOLYTH",
+      "dateText": "2026年11月19日",
+      "date": "2026-11-19",
+      "sortKey": "2026-11-19",
+      "prereg": false,
+      "firstSeen": "2026-11-19T10:00:41.417Z"
+    },
+    "you'renuts!—ユー・アー・ナッツ！": {
+      "title": "You're Nuts! — ユー・アー・ナッツ！",
+      "dateText": "2026年12月16日",
+      "date": "2026-12-16",
+      "sortKey": "2026-12-16",
+      "prereg": false,
+      "firstSeen": "2026-11-19T10:00:41.417Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "メロメロ！異世界モンタージュパズル ～聖女から魔物娘まで～",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000140232",
-      "image": "https://img-eshop.cdn.nintendo.net/i/76c46dbad1f57fff0bbae28b04337ebf18f063b2be878d50cf654b2a72c03a72.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -85682,6 +85686,18 @@
       ],
       "from": "2026年11月29日",
       "to": "2026年12月3日"
+    },
+    {
+      "at": "2026-11-19T10:00:41.417Z",
+      "type": "new",
+      "label": "新規",
+      "title": "You're Nuts! — ユー・アー・ナッツ！",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000122180",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7a34e73727c67e509471c06f839a7a6aacc6bfc8a88c650af58c6ef06d9af839.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月16日"
     }
   ],
   "initialized": true,
