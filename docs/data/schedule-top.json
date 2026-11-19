@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:00:31.881Z",
+  "updatedAt": "2026-11-19T14:30:35.594Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,23 @@
     }
   ],
   "releases": [
+    {
+      "id": "d2d011e8e410",
+      "title": "GTA VI",
+      "date": "2026-11-19",
+      "dateText": "2026年11月19日",
+      "sortKey": "2026-11-19",
+      "priority": 0,
+      "platforms": [
+        "ps"
+      ],
+      "url": "https://www.rockstargames.com/VI",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?hhWXJLvTJVVhn5Lv_HeQt",
+      "maker": "",
+      "headline": "「GTA VI」発売直前，プレイに必須となるPS5のシステムソフトウェアアップデートが配信。公式は発売日の11月19日0：00までにダウンロードするよう呼びかけ",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/758/G075801/20261118005/"
+    },
     {
       "id": "0916dcb11afb",
       "title": "ぎゅわんぶらあ自己中心派",
@@ -251,30 +268,6 @@
       "priority": 0,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "617e03b332a3",
-      "title": "大悪逆令嬢 ストラテジーオブリリィ",
-      "date": "2026-12-03",
-      "dateText": "2026年12月3日",
-      "sortKey": "2026-12-03",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
-      "maker": "アライアンス・アーツ",
-      "genre": [
-        "ストラテジー",
-        "シミュレーション",
-        "アドベンチャー"
-      ],
-      "price": 3290,
-      "status": "予約受付中",
-      "priority": 0,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     }
   ],
   "prereg": [
@@ -464,6 +457,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-19T14:30:35.594Z",
+      "type": "new",
+      "label": "新規",
+      "title": "GTA VI",
+      "url": "https://www.rockstargames.com/VI",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?hhWXJLvTJVVhn5Lv_HeQt",
+      "platforms": [
+        "ps"
+      ],
+      "to": "2026年11月19日"
+    },
+    {
       "at": "2026-11-19T10:00:41.417Z",
       "type": "new",
       "label": "新規",
@@ -524,16 +529,6 @@
         "pc"
       ],
       "to": ""
-    },
-    {
-      "at": "2026-11-19T03:30:33.446Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Farmer's Dynasty 2",
-      "url": "https://www.toplitz-productions.com/farmers-dynasty-2.html",
-      "image": "",
-      "platforms": [],
-      "to": "2027年1月20日"
     }
   ]
 }

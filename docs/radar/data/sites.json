@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T14:00:18.479Z",
+  "updatedAt": "2026-11-19T14:30:20.881Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1275,
   "regions": {
-    "jp": 998,
+    "jp": 1000,
     "global": 275
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 162
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 460
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 36
+      "count": 37
     },
     {
       "id": "xbox",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 464
+      "count": 465
     },
     {
       "id": "browser",
@@ -121,16 +121,48 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "GameBusiness.jp",
     "AppBank",
     "Game*Spark",
     "Inside",
-    "電ファミニコゲーマー",
     "App Store",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "c5d9703bb4b0",
+      "url": "https://play.google.com/store/apps/details?id=com.netflix.NGP.MonsterHunterRise",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "モンスターハンターライズ",
+      "headline": "『モンスターハンターライズ』のモバイル版がNetflixから配信決定。会員向けの「Netflixゲーム」として、タッチ操作に最適化されて登場",
+      "description": "この協力型アクションゲームで、狩猟クエストを通して凶暴なモンスターと戦う準備をしよう。",
+      "publishedAt": "2026-11-19T14:30:20.881Z",
+      "addedAt": "2026-11-19T14:30:20.881Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/?p=1687118"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/33YG5Yp_mW3TE54dMBAWX_hB2KCrWylSRBjtRCpnmQvSnTTEWWTZCKtdxu84iNK1Z8YjHyX_me-4NQQGsyCCIw=s0-br30"
+    },
     {
       "id": "435f9924b26d",
       "url": "http://taiko.namco-ch.net/taiko/",
@@ -1123,6 +1155,39 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "cc59e234a8ed",
+      "url": "https://www.rockstargames.com/VI",
+      "host": "rockstargames.com",
+      "region": "jp",
+      "title": "GTA VI",
+      "headline": "「GTA VI」発売直前，プレイに必須となるPS5のシステムソフトウェアアップデートが配信。公式は発売日の11月19日0：00までにダウンロードするよう呼びかけ",
+      "description": "アメリカ、バイスシティ。ジェイソンとルシアは、自分たちの人生には常に向かい風が吹いていることを自覚していた。しかし、簡単にこなせると思われた仕事に失敗した二人は、いつしかアメリカでどこよりも陽当たりのいい街の暗部で、レオナイダ州全土に広が…",
+      "publishedAt": "2026-11-18T03:25:43.000Z",
+      "addedAt": "2026-11-19T14:30:20.881Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/758/G075801/20261118005/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611192s"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?hhWXJLvTJVVhn5Lv_HeQt"
     },
     {
       "id": "6c5ef77fcda3",
@@ -15585,7 +15650,7 @@
       "region": "jp",
       "title": "鳴潮",
       "headline": "「鳴潮」の共鳴者たちが，キー入力に合わせて机をパタパタ叩くデスクトップマスコットに。「Bongo Cat」開発元公認の「Wuwa Tappo」，本日リリース。無料で遊べる",
-      "description": "『鳴潮』は自由度の高い戦闘と多種多彩なコンテンツが楽しめるオープンワールドアクションRPGである。プレイヤーは長い眠りから目覚めた「漂泊者」となって自分の記憶と物語を探す旅に就き、十人十色の共鳴者の仲間たちと「悲鳴」を乗り越えていく。現在…",
+      "description": "Wuthering Waves: Embers of the Everbright arrives on December 22nd (UTC+8). Pre-register to win Astrites rewards!",
       "publishedAt": "2026-10-26T06:02:14.000Z",
       "addedAt": "2026-10-26T06:30:18.493Z",
       "source": "4Gamer",
@@ -15602,6 +15667,7 @@
         "スマホ"
       ],
       "categories": [
+        "prereg",
         "release"
       ],
       "platforms": [
@@ -18354,7 +18420,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcW7ARKUVx4hnNrZMv2WMwAISDG7EsQ5312FRmWhQMMoV9AI3My4vpqXJLWba8Hc5OPPZVvYNavIfqU4CC9x8p_HUfB-CPKxbR5RBeWmnpo_bmNXpDB0FfqouZ68dH4CVFFfMx9wOfn5KWVxNt-vLrB-C6Cm88Gtd3WTerQz-SSWGb7B8E85fT-ku6MMig=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQexvcF9qYe-_Fmm6EORpi8bfBoQE5PFHT-25XNaqMYDaqeIdDNZ_a5EwlvsLu_9fv3ezcPxykEVQf53OwNXnDpzk_MrbQXlaK5GTZVKl4aOpLrqpUAgr92CW_QW42vKtx4_tJ8LcVgbdK3gjIA04VcQkztvqEMW5pV0g_knaT17TXswdGfMxZIj98u_XF8=w16383"
     },
     {
       "id": "41b1b683c8f0",
