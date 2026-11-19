@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T22:00:19.797Z",
+  "updatedAt": "2026-11-19T22:30:15.737Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1276,
+  "total": 1278,
   "regions": {
-    "jp": 1002,
+    "jp": 1004,
     "global": 274
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 124
+      "count": 125
     },
     {
       "id": "media",
@@ -65,19 +65,19 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 327
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 152
+      "count": 153
     }
   ],
   "platforms": [
     {
       "id": "switch",
       "label": "Switch",
-      "count": 26
+      "count": 27
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 37
+      "count": 38
     },
     {
       "id": "xbox",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 154
+      "count": 155
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 467
+      "count": 468
     },
     {
       "id": "browser",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
+    "App Store",
     "GameBusiness.jp",
     "AppBank",
     "Game*Spark",
     "Inside",
-    "App Store",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "327bf12d5fa3",
+      "url": "https://www.rockstargames.com/VI/media",
+      "host": "rockstargames.com",
+      "region": "jp",
+      "title": "GTA6",
+      "headline": "『GTA6』の舞台「レオナイダ州」の全体マップが無料公開。印刷したら手元で地図を確認しながら遊べちゃう",
+      "description": "アメリカ、バイスシティ。ジェイソンとルシアは、自分たちの人生には常に向かい風が吹いていることを自覚していた。しかし、簡単にこなせると思われた仕事に失敗した二人は、いつしかアメリカでどこよりも陽当たりのいい街の暗部で、レオナイダ州全土に広が…",
+      "publishedAt": "2026-11-19T22:24:50.000Z",
+      "addedAt": "2026-11-19T22:30:15.737Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261120e"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg?8DSFc26rmFX7srA3UiIEb"
+    },
     {
       "id": "8ef4b29a5827",
       "url": "https://brawlstars.com/ja/",
@@ -286,6 +313,42 @@
       ],
       "points": null,
       "image": "https://pjsekai.sega.jp/assets/img/ogp.png"
+    },
+    {
+      "id": "a91d9c520d2e",
+      "url": "https://typemoon.com/products/mahoyo/",
+      "host": "typemoon.com",
+      "region": "jp",
+      "title": "魔法使いの夜",
+      "headline": "Aniplex Inc. / ロールプレイング · App Store 新着",
+      "description": "PCゲーム「魔法使いの夜」がフルボイス化・フルHD化でPlayStation®4・Nintendo Switch™・Steam®に移植。彩（いろ）鮮やかに、声（おと）豊かに、TYPE-MOON正統派ビジュアルノベルが紡がれる。",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "addedAt": "2026-11-19T22:30:15.737Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6793855532"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "switch",
+        "ps",
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://typemoon.com/products/mahoyo/ogp_2309.jpg"
     },
     {
       "id": "e0bf6de18b65",
