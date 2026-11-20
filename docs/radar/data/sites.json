@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T02:00:18.920Z",
+  "updatedAt": "2026-11-20T02:30:16.290Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1273,
   "regions": {
-    "jp": 1003,
+    "jp": 1001,
     "global": 272
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 162
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 457
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 125
+      "count": 124
     },
     {
       "id": "media",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "GameBusiness.jp",
     "Game*Spark",
-    "Inside",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "b581137973d6",
+      "url": "https://bandai-hobby.net/site/gundam-assemble/products/",
+      "host": "bandai-hobby.net",
+      "region": "jp",
+      "title": "ガンダムアッセンブル",
+      "headline": "ミニチュアゲーム『ガンダムアッセンブル』から「Zガンダム」や「ガンダムRG」が発売決定！地形やプレイマットなどのサプライも充実",
+      "description": "ガンダムアッセンブルの商品を手に入れてバトルスタート！",
+      "publishedAt": "2026-11-20T02:10:03.000Z",
+      "addedAt": "2026-11-20T02:30:16.290Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/20/191288.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://bandai-hobby.net/site/gundam-assemble/ogp.jpg"
+    },
     {
       "id": "09e92a1c2121",
       "url": "https://apps.apple.com/jp/app/id1463360242",
@@ -38510,109 +38537,6 @@
       ],
       "points": null,
       "image": "https://www.sanrio-games.jp/games/sanrio-kawaii-me-live/release-event/assets/images/ogp.png"
-    },
-    {
-      "id": "922ea17c37b9",
-      "url": "https://www.capcom-games.com/megaman/do/ja-jp/",
-      "host": "capcom-games.com",
-      "region": "jp",
-      "title": "ロックマン: デュアル オーバーライド",
-      "headline": "『ロックマン: デュアル オーバーライド』新ボス「ジェットマン」が公開！",
-      "description": "シリーズ最新作！2027年発売予定『ロックマン: デュアル オーバーライド』公式サイト",
-      "publishedAt": "2026-09-21T02:10:46.000Z",
-      "addedAt": "2026-09-21T02:28:54.491Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260921z"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/968/G096894/20260921016/"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/11/16/191015.html"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/11/16/174916.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録"
-      ],
-      "categories": [
-        "prereg",
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.capcom-games.com/megaman/do/assets/images/share_ja-jp.jpg"
-    },
-    {
-      "id": "9eb108e0532a",
-      "url": "https://www.e-xtreme.co.jp/",
-      "host": "e-xtreme.co.jp",
-      "region": "jp",
-      "title": "ヨ",
-      "headline": "ヨーロッパの小さな国で，NEOGEOの新作が作られていた？ アンドラのゲームスタジオ・Nalua Studioのブースを訪ねて［TGS2026］",
-      "description": "株式会社エクストリームの公式サイトです。多種多様な人材を活用し、DXパートナーとしてあらゆるお客様のご要望にお応えします。「デジタルクリエイタープロダクション」として、上流工程から保守までの領域でシステム開発やリソースの提供を行います。",
-      "publishedAt": "2026-09-21T01:30:00.000Z",
-      "addedAt": "2026-09-21T02:28:54.491Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/991/G999110/20260921002/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "company"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.e-xtreme.co.jp/wp-content/uploads/2026/06/img_ogp.jpg"
-    },
-    {
-      "id": "f629ae7f7872",
-      "url": "https://www.taito.co.jp/estpolis/",
-      "host": "taito.co.jp",
-      "region": "jp",
-      "title": "エストポリス伝記 I＆II",
-      "headline": "名作RPGの現行機向け移植版『エストポリス伝記 I＆II』の発売が決定。1993年、1995年にタイトーから発売された作品",
-      "description": "心を揺さぶる2つのRPGが復活「エストポリス伝記 I&II」2027年発売！",
-      "publishedAt": "2026-09-21T01:00:27.000Z",
-      "addedAt": "2026-09-21T02:28:54.491Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260921u"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/044/G104457/20260921029/"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/21/172592.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.taito.co.jp/Content/images/estpolis/banner_1200675_estpolis202611.jpg"
     },
     {
       "id": "d99dead056d4",
