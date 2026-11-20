@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T14:00:28.346Z",
+  "updatedAt": "2026-11-20T14:30:18.570Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1290,
   "regions": {
-    "jp": 1016,
+    "jp": 1017,
     "global": 273
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 166
+      "count": 167
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 461
+      "count": 462
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 38
+      "count": 39
     },
     {
       "id": "xbox",
@@ -121,16 +121,46 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Appliv Games",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "3ccc8ef21159",
+      "url": "https://jp.gothic.thqnordic.com/",
+      "host": "jp.gothic.thqnordic.com",
+      "region": "jp",
+      "title": "Gothic 1 Remake",
+      "headline": "国内PS5ダウンロード版が発売直前で「発売日未定」へ。無名の囚人から始まるアクションRPG『Gothic 1 Remake』表現調整のため予約受付も終了し自動返金に",
+      "description": "運命に抗え、この閉ざされた世界で。 囚人サバイバルRPG 『Gothic 1 Remake』 ゴシック １ リメイク",
+      "publishedAt": "2026-11-20T14:15:02.000Z",
+      "addedAt": "2026-11-20T14:30:18.570Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/20/175139.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "prereg"
+      ],
+      "platforms": [
+        "ps"
+      ],
+      "points": null,
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeD7eZ5jYqLR_ajh6_Bm1UTZSWBgDqhadTaQP17Ays-eS9wGDRPlW4PBXvsUew4fFwTAXrtw1FFx4-bfOgsy1R5sdw8aaZcZJKxMbeCLohxQJQ_YVnTdTGROKIPdEr5PVUhan8xLVXUCH55VE2RgiO7F0u6WL15Qw-D_5fFH5ypEfpKORooS1Hh4R4X=w16383"
+    },
     {
       "id": "904df9541647",
       "url": "https://kaleidorider.com/jp/",
