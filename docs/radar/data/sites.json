@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-20T16:30:18.503Z",
+  "updatedAt": "2026-11-20T17:00:20.471Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1290,
   "regions": {
-    "jp": 1016,
-    "global": 273
+    "jp": 1015,
+    "global": 275
   },
   "categories": [
     {
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 219
+      "count": 220
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 264
+      "count": 265
     },
     {
       "id": "release",
@@ -415,6 +415,34 @@
       ],
       "points": null,
       "image": "https://play-lh.googleusercontent.com/tSWiNHnJKbM8n4T1mkr4YIGpmaXLu35R2Pb8Bye6Zl0xER7jyeduRc31CNIv7O1LTpN_UfE4NHJd3z0x-It7=s0-br30"
+    },
+    {
+      "id": "e24381ec18b1",
+      "url": "https://rakuspa.com/kamuy-anime/",
+      "host": "rakuspa.com",
+      "region": "jp",
+      "title": "ゴールデンカムイ",
+      "headline": "ムッワァァァ…「ゴールデンカムイ」×極楽湯・RAKU SPAコラボ「湯上黄金郷」開催！鶴見店は「鶴見中尉」が店舗をジャック",
+      "description": "ムッワァァァ…「ゴールデンカムイ」×極楽湯・RAKU SPAコラボ「湯上黄金郷」開催！鶴見店は「鶴見中尉」が店舗をジャック",
+      "publishedAt": "2026-11-20T09:10:03.000Z",
+      "addedAt": "2026-11-20T17:00:20.471Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/20/191315.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
     },
     {
       "id": "cc763ff11054",
@@ -29875,7 +29903,7 @@
       "id": "95200af24978",
       "url": "https://hazgamesstudio.com/",
       "host": "hazgamesstudio.com",
-      "region": "jp",
+      "region": "global",
       "title": "BrainWash: Zombie Cleanup",
       "headline": "ゾンビの血や臓物を“お片付け”するお掃除シミュゲーム『BrainWash: Zombie Cleanup』Steamストアページが公開中。殺した後もやることだらけ",
       "description": "They rose from the grave. You",
@@ -30271,7 +30299,7 @@
       "id": "624b103cc5f0",
       "url": "https://oddada.com/",
       "host": "oddada.com",
-      "region": "jp",
+      "region": "global",
       "title": "ODDADA",
       "headline": "Sven Ahlgrimm / カジュアル・ミュージック · App Store 新着",
       "description": "A cozy music game where you build songs by playing with toy worlds and strange machines. No musical knowledge needed — …",
