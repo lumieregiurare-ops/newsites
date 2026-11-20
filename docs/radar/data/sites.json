@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T05:00:16.330Z",
+  "updatedAt": "2026-11-20T05:30:17.871Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1279,
+  "total": 1280,
   "regions": {
-    "jp": 1006,
+    "jp": 1007,
     "global": 273
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 215
+      "count": 216
     },
     {
       "id": "event",
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
-    "4Gamer",
     "Inside",
     "App Store",
     "GameBusiness.jp",
@@ -160,6 +160,33 @@
       ],
       "points": null,
       "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gfn/webassets/server-status/geforce-now-50-series-announce-nv-sfg-thumbnail-1920x1080.jpg"
+    },
+    {
+      "id": "cfe9f09b35c3",
+      "url": "https://olproshop.com/atari/",
+      "host": "olproshop.com",
+      "region": "jp",
+      "title": "Atari 2600",
+      "headline": "ATARIがキャンプ用品メーカーとコラボ。懐かしいゲーム機「Atari 2600」をイメージしたキャンプテーブルなど13アイテムが登場",
+      "description": "ATARIがキャンプ用品メーカーとコラボ。懐かしいゲーム機「Atari 2600」をイメージしたキャンプテーブルなど13アイテムが登場",
+      "publishedAt": "2026-11-20T04:59:51.000Z",
+      "addedAt": "2026-11-20T05:30:17.871Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999901/20261120013/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
     },
     {
       "id": "989304d00fb6",
@@ -25803,7 +25830,7 @@
       "region": "jp",
       "title": "荒野行動",
       "headline": "「荒野行動」×「ドン・キホーテ」コラボが本日スタート。巨大ンペンとの記念撮影でアイテムが手に入るチャンス",
-      "description": "イベント参加でイタチ/カカシ金枠衣装と最大100連GET！サスケとイタチ、うちは兄弟が揃って殿堂実装！",
+      "description": "イベント参加で最大35連分、「C.C.拘束衣Ver.」＆ボイスパックなどをGET！さらにルルーシュとC.C.を切り替えて楽しめるSP衣装「契約で結ばれた絆」が登場！",
       "publishedAt": "2026-10-09T15:57:13.000Z",
       "addedAt": "2026-10-09T16:00:19.674Z",
       "source": "4Gamer",
@@ -25828,7 +25855,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://www.knivesout.jp/pc/gw/20200928100611/data/share20261031.jpg"
+      "image": "https://www.knivesout.jp/pc/gw/20200928100611/data/share20261119.jpg"
     },
     {
       "id": "ccb832f40b75",
