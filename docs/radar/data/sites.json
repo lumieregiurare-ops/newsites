@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-20T10:00:17.679Z",
+  "updatedAt": "2026-11-20T10:30:25.580Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1283,
+  "total": 1285,
   "regions": {
-    "jp": 1011,
-    "global": 272
+    "jp": 1012,
+    "global": 273
   },
   "categories": [
     {
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 216
+      "count": 217
     },
     {
       "id": "event",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 325
+      "count": 326
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 473
+      "count": 474
     },
     {
       "id": "browser",
@@ -125,10 +125,10 @@
     "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
+    "Appliv Games",
     "Game*Spark",
     "App Store",
-    "GameBusiness.jp",
-    "Appliv Games"
+    "GameBusiness.jp"
   ],
   "items": [
     {
@@ -572,6 +572,33 @@
       ],
       "points": null,
       "image": "https://caladrius.mossjp.co.jp/caladrius2/assets/img/ogp_1210.jpg"
+    },
+    {
+      "id": "0d8fa9e65db5",
+      "url": "http://app.nhn-playart.com/compass/",
+      "host": "app.nhn-playart.com",
+      "region": "jp",
+      "title": "ダンまち",
+      "headline": "【#コンパス】『ダンまち』コラボカード＆コスチューム紹介！【帯】【止】や【引】【連】など注目カード多数!!",
+      "description": "アクション・戦略・カードゲーム、ジャンルを超えた対戦チームバトル！ ゲームが好きなら、ぜひ体験してほしい「バトルSNS #コンパス」！",
+      "publishedAt": "2026-11-20T05:00:35.000Z",
+      "addedAt": "2026-11-20T10:30:25.580Z",
+      "source": "Appliv Games",
+      "sources": [
+        {
+          "name": "Appliv Games",
+          "url": "https://games.app-liv.jp/archives/463345"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://s.nhn-playart.com/smartgame/spn/games/compass/common/img/fb.jpg"
     },
     {
       "id": "e151f28f2adc",
@@ -14031,6 +14058,38 @@
         "iOS",
         "パズル",
         "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "48e845407be5",
+      "url": "http://monsfield.net/",
+      "host": "monsfield.net",
+      "region": "global",
+      "title": "ディノモン",
+      "headline": "SOTHAM KIM / ロールプレイング · App Store 新着",
+      "description": "SOTHAM KIM / ロールプレイング · App Store 新着",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "addedAt": "2026-11-20T10:30:25.580Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6827968626"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
       ],
       "categories": [
         "goods"
@@ -32930,6 +32989,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/09/30/172963.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/636/G063659/20261120026/"
         }
       ],
       "tags": [
