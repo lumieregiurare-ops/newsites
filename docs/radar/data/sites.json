@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T04:30:17.355Z",
+  "updatedAt": "2026-11-20T05:00:16.330Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1276,
+  "total": 1279,
   "regions": {
-    "jp": 1003,
+    "jp": 1006,
     "global": 273
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 214
+      "count": 215
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 458
+      "count": 459
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 151
+      "count": 152
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 155
+      "count": 156
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 469
+      "count": 470
     },
     {
       "id": "browser",
@@ -122,15 +122,104 @@
   ],
   "sources": [
     "Game*Spark",
+    "電ファミニコゲーマー",
+    "AppBank",
     "4Gamer",
     "Inside",
-    "AppBank",
-    "電ファミニコゲーマー",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "e151f28f2adc",
+      "url": "https://www.nvidia.com/ja-jp/geforce-now/",
+      "host": "nvidia.com",
+      "region": "jp",
+      "title": "GeForce NOW",
+      "headline": "「GeForce NOW」6か月30%オフのブラックフライデーセール開催！ベセスダ5作のGOG版対応やFire TV Stick対応も",
+      "description": "ゲームもデバイスも RTX On で楽しもう",
+      "publishedAt": "2026-11-20T05:00:03.000Z",
+      "addedAt": "2026-11-20T05:00:16.330Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/20/175113.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/gfn/webassets/server-status/geforce-now-50-series-announce-nv-sfg-thumbnail-1920x1080.jpg"
+    },
+    {
+      "id": "989304d00fb6",
+      "url": "https://deltarune.jp/",
+      "host": "deltarune.jp",
+      "region": "jp",
+      "title": "デルタルーン",
+      "headline": "『デルタルーン』チャプター6が「ラフの状態で、最初から最後までプレイできる状態」と最新メルマガで報告。クイーンとモモの“本当にどうでもいい”シーンや、チャプター5のボツキャラ「A…",
+      "description": "みんなが待ってた、『UNDERTALE』のパラレルストーリーが登場！アクション満載のバトルは、戦うのも敵を逃がすのもキミ次第。初めて出会う顔、おなじみの面々、愛すべきキャラクターたちといっしょに、ヒミツがいっぱいのナゾの世界を旅しよう。ア…",
+      "publishedAt": "2026-11-20T04:51:27.000Z",
+      "addedAt": "2026-11-20T05:00:16.330Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261120v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://deltarune.jp/assets/images/social-logo.png"
+    },
+    {
+      "id": "63d34b2d1bd7",
+      "url": "https://play.google.com/store/apps/details?id=jp.txcom.snoopy.minigames",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "スヌーピー ゲームズ ～ サクッと脳トレパズル",
+      "headline": "スヌーピーの完全無料パズルアプリ『スヌーピー ゲームズ ～ サクッと脳トレパズル』が配信開始！ 4種のゲームを収録",
+      "description": "PEANUTSの魅力がつまった【パズル&アクションゲーム】",
+      "publishedAt": "2026-11-20T04:30:00.000Z",
+      "addedAt": "2026-11-20T05:00:16.330Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/20/game/3170269.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/PpNu9MXgKwmvzJSDIdHn42EV3Dl5UjUdL-nL5em568622o_KZOYM57QwflmId-l8PgXKAZV9jpgyNob7tIoD7Ko=s0-br30"
+    },
     {
       "id": "7077132ad762",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7493599132&iu=/2261101/clicktracking",
