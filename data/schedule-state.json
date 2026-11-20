@@ -64090,9 +64090,9 @@
     },
     "doublewhammy": {
       "title": "Double Whammy",
-      "dateText": "2026年11月10日",
-      "date": "2026-11-10",
-      "sortKey": "2026-11-10",
+      "dateText": "2026年11月24日",
+      "date": "2026-11-24",
+      "sortKey": "2026-11-24",
       "prereg": false,
       "firstSeen": "2026-11-06T02:00:28.305Z"
     },
@@ -82378,33 +82378,41 @@
       "sortKey": "2026-11-26",
       "prereg": false,
       "firstSeen": "2026-11-20T14:00:41.727Z"
+    },
+    "imperialistdemo": {
+      "title": "Imperialist Demo",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T15:00:37.182Z"
+    },
+    "thetemple": {
+      "title": "The Temple",
+      "dateText": "2026年11月24日",
+      "date": "2026-11-24",
+      "sortKey": "2026-11-24",
+      "prereg": false,
+      "firstSeen": "2026-11-20T15:00:37.182Z"
+    },
+    "『ベイブレードエックスエボバトル』デジタルベイブースターvol.10": {
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.10",
+      "dateText": "2027年3月21日",
+      "date": "2027-03-21",
+      "sortKey": "2027-03-21",
+      "prereg": false,
+      "firstSeen": "2026-11-20T15:00:37.182Z"
+    },
+    "『ベイブレードエックスエボバトル』デジタルベイブースターvol.9": {
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.9",
+      "dateText": "2027年3月21日",
+      "date": "2027-03-21",
+      "sortKey": "2027-03-21",
+      "prereg": false,
+      "firstSeen": "2026-11-20T15:00:37.182Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "テーブルゲームワールド CCFOLIA for Nintendo Switch 2",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000104817",
-      "image": "https://img-eshop.cdn.nintendo.net/i/ef136e30c9a111a406a675dc2b74694f751991a2401d14cdb1e9892ebe10f92e.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月10日"
-    },
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "UKKARIANS ウッカリアンズ",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136308",
-      "image": "https://img-eshop.cdn.nintendo.net/i/fcd81d0f9b19e132c57de83d3a2175084556d7d43dc9af7a8e415c01656c953c.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月12日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -87205,6 +87213,30 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-20T15:00:37.182Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.10",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075631",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1ad84989953f3576f2556d6fdc785fdb44a68a2275ad113b38a6dcb17cf38f3f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年3月21日"
+    },
+    {
+      "at": "2026-11-20T15:00:37.182Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.9",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075630",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7b2976bce3e7d40fd5d305e3c3ee70ea7830cee40d3e5c121fa14d6cdd9e53e3.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年3月21日"
     }
   ],
   "initialized": true,

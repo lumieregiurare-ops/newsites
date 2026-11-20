@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T14:30:19.539Z",
+  "updatedAt": "2026-11-20T15:00:23.245Z",
   "boards": [
     {
       "id": "steam",
       "label": "Steam",
       "title": "いま遊ばれている",
-      "note": "Steam の同時接続数ランキング（11/19 比）",
+      "note": "Steam の同時接続数ランキング（11/20 比）",
       "sourceUrl": "https://store.steampowered.com/charts/mostplayed",
       "items": [
         {
@@ -28,9 +28,9 @@
           "url": "https://store.steampowered.com/app/570/",
           "metric": "同時接続 816,657人",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -41,9 +41,9 @@
           "url": "https://store.steampowered.com/app/578080/",
           "metric": "同時接続 729,448人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -93,9 +93,9 @@
           "url": "https://store.steampowered.com/app/3419430/",
           "metric": "同時接続 201,271人",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -106,9 +106,9 @@
           "url": "https://store.steampowered.com/app/1422450/",
           "metric": "同時接続 174,599人",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -145,7 +145,7 @@
       "square": true,
       "label": "App Store",
       "title": "無料ゲーム",
-      "note": "App Store（日本）の無料ゲームランキング（11/19 比）",
+      "note": "App Store（日本）の無料ゲームランキング（11/20 比）",
       "sourceUrl": "https://apps.apple.com/jp/charts/iphone/%E3%82%B2%E3%83%BC%E3%83%A0-%E7%84%A1%E6%96%99%E3%82%A2%E3%83%97%E3%83%AA/6014?chart=top-free",
       "items": [
         {
@@ -155,9 +155,9 @@
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -168,9 +168,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%83%AB%E3%83%9F%E3%83%8A%E3%82%B5%E3%83%BC%E3%82%AC-%E5%A4%A2%E3%81%A8%E5%86%92%E9%99%BA%E3%81%AEmmorpg/id6808535967",
           "metric": "HYPER HEAT",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -220,9 +220,9 @@
           "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
           "metric": "GOODROID,Inc.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -233,9 +233,9 @@
           "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
           "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },
@@ -272,9 +272,9 @@
           "url": "https://apps.apple.com/jp/app/%E3%82%B0%E3%83%AB%E3%83%A1-%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC/id6471045672",
           "metric": "Century Games Pte. Ltd.",
           "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         }

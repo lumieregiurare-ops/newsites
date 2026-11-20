@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:30:33.330Z",
+  "updatedAt": "2026-11-20T15:00:37.182Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,23 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "c9d351e0b806",
-      "title": "ガンズタワー",
-      "date": "2026-11-20",
-      "dateText": "2026年11月20日",
-      "sortKey": "2026-11-20",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://apps.apple.com/us/app/id6741555643",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg",
-      "maker": "",
-      "headline": "ローグライト・カジュアルシューティング『ガンズタワー』が11月20日に正式サービス開始！ 移動と射撃を分けたダンジョン探索",
-      "source": "AppBank",
-      "sourceUrl": "https://www.appbank.net/2026/11/20/game/3173106.php"
-    },
     {
       "id": "ae4f1d697479",
       "title": "ポケモン東京ばな奈",
@@ -266,6 +249,30 @@
       "priority": 0,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
+    },
+    {
+      "id": "617e03b332a3",
+      "title": "大悪逆令嬢 ストラテジーオブリリィ",
+      "date": "2026-12-03",
+      "dateText": "2026年12月3日",
+      "sortKey": "2026-12-03",
+      "platforms": [
+        "switch2",
+        "ps"
+      ],
+      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
+      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
+      "maker": "アライアンス・アーツ",
+      "genre": [
+        "ストラテジー",
+        "シミュレーション",
+        "アドベンチャー"
+      ],
+      "price": 3290,
+      "status": "予約受付中",
+      "priority": 0,
+      "source": "Nintendo",
+      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
     }
   ],
   "prereg": [
@@ -455,6 +462,30 @@
   ],
   "changes": [
     {
+      "at": "2026-11-20T15:00:37.182Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.9",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075630",
+      "image": "https://img-eshop.cdn.nintendo.net/i/7b2976bce3e7d40fd5d305e3c3ee70ea7830cee40d3e5c121fa14d6cdd9e53e3.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年3月21日"
+    },
+    {
+      "at": "2026-11-20T15:00:37.182Z",
+      "type": "new",
+      "label": "新規",
+      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.10",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000075631",
+      "image": "https://img-eshop.cdn.nintendo.net/i/1ad84989953f3576f2556d6fdc785fdb44a68a2275ad113b38a6dcb17cf38f3f.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年3月21日"
+    },
+    {
       "at": "2026-11-20T12:30:43.877Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -491,18 +522,6 @@
       "to": "2026年11月23日"
     },
     {
-      "at": "2026-11-20T10:00:34.826Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ガンズタワー",
-      "url": "https://apps.apple.com/us/app/id6741555643",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年11月20日"
-    },
-    {
       "at": "2026-11-20T07:00:31.236Z",
       "type": "new",
       "label": "新規",
@@ -511,18 +530,6 @@
       "image": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/ogp2022.png",
       "platforms": [],
       "to": "2026年11月30日"
-    },
-    {
-      "at": "2026-11-20T06:00:40.046Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Caladrius2/Dark Element",
-      "url": "https://caladrius.mossjp.co.jp/caladrius2/",
-      "image": "https://caladrius.mossjp.co.jp/caladrius2/assets/img/ogp_1210.jpg",
-      "platforms": [
-        "ps"
-      ],
-      "to": "2027年1月28日"
     }
   ]
 }
