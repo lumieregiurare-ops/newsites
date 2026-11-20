@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T06:30:24.175Z",
+  "updatedAt": "2026-11-20T07:00:18.095Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1282,
+  "total": 1284,
   "regions": {
-    "jp": 1009,
+    "jp": 1011,
     "global": 273
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 461
+      "count": 463
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 327
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 470
+      "count": 471
     },
     {
       "id": "browser",
@@ -122,15 +122,74 @@
   ],
   "sources": [
     "Inside",
+    "AppBank",
     "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "92b656b80143",
+      "url": "https://www.sanrio.co.jp/",
+      "host": "sanrio.co.jp",
+      "region": "jp",
+      "title": "UT",
+      "headline": "ユニクロ「UT」から「サンリオキャラクターズ」新作UTコレクション第1弾が11月30日発売！デコレーションシール風デザインのキッズ向けシャツ全3種",
+      "description": "サンリオの公式ポータルサイトです。ハローキティ、マイメロディ、リトルツインスターズ、シナモロールなど、サンリオのキャラクターに関する最新情報をいち早くお届けします。",
+      "publishedAt": "2026-11-20T06:45:03.000Z",
+      "addedAt": "2026-11-20T07:00:18.095Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/20/191305.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/ogp2022.png"
+    },
+    {
+      "id": "b0bb1d9dbb8b",
+      "url": "https://apps.apple.com/jp/app/id6831239852",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Sol",
+      "headline": "夕焼けの色づきを4段階で予報！ iPhoneアプリ『Sol』が日本で配信開始",
+      "description": "Neonsol LLCの「Sol：夕焼け予報とマジックアワー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Sol：夕焼け予報とマジックアワー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T06:30:00.000Z",
+      "addedAt": "2026-11-20T07:00:18.095Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/20/game/3171287.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/08/fa/6508fa97-e7a5-55d3-4865-7ef64ed31399/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "cfa49f4e4ca7",
       "url": "https://www.tanita.co.jp/content/vtuber/",
