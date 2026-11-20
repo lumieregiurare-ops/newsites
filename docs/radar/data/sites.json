@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T11:30:24.483Z",
+  "updatedAt": "2026-11-20T12:00:18.071Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1286,
+  "total": 1287,
   "regions": {
-    "jp": 1013,
+    "jp": 1014,
     "global": 273
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 475
+      "count": 476
     },
     {
       "id": "browser",
@@ -131,6 +131,39 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "f2c4c7cb70f1",
+      "url": "https://www.hare-onna.jp/",
+      "host": "hare-onna.jp",
+      "region": "jp",
+      "title": "雨のちハレ女",
+      "headline": "スマホアプリ「雨のちハレ女」，メインキャラクターの情報が公開に。二次創作・配信ガイドラインも発表",
+      "description": "スマホアプリ「雨のちハレ女」，メインキャラクターの情報が公開に。二次創作・配信ガイドラインも発表",
+      "publishedAt": "2026-11-20T11:48:01.000Z",
+      "addedAt": "2026-11-20T12:00:18.071Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/042/G104241/20261120041/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "332b5d04d3c1",
       "url": "https://18trip.jp/",

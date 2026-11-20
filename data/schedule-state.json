@@ -693,7 +693,7 @@
       }
     },
     "雨のちハレ女": {
-      "at": "2026-11-14T08:00:42.652Z",
+      "at": "2026-11-20T12:00:38.374Z",
       "entry": {
         "trackId": "6760698900",
         "title": "雨のちハレ女",
@@ -9400,7 +9400,7 @@
     },
     "雨のちハレ女": {
       "title": "雨のちハレ女",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T12:56:30.728Z"
     },
     "arrowcardarena(箭域卡戰)": {
@@ -82166,21 +82166,41 @@
       "sortKey": "2026-11-20",
       "prereg": false,
       "firstSeen": "2026-11-20T11:30:40.511Z"
+    },
+    "claybounddemo": {
+      "title": "Claybound Demo",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T12:00:37.993Z"
+    },
+    "midnightshift2:lastrental": {
+      "title": "Midnight Shift 2: Last Rental",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T12:00:37.993Z"
+    },
+    "starpurr": {
+      "title": "Star Purr",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T12:00:37.993Z"
+    },
+    "spycarnival": {
+      "title": "Spy Carnival",
+      "dateText": "2026年11月24日",
+      "date": "2026-11-24",
+      "sortKey": "2026-11-24",
+      "prereg": false,
+      "firstSeen": "2026-11-20T12:00:37.993Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "RACCOIN: Chaos Max Edition",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000116416",
-      "image": "https://img-eshop.cdn.nintendo.net/i/608c9e1d7f8fe983c163c7be996d276bfec545b914eb713961cf99b510413305.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月10日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -86994,6 +87014,18 @@
         "mobile"
       ],
       "to": "2026年11月23日"
+    },
+    {
+      "at": "2026-11-20T12:00:37.993Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "雨のちハレ女",
+      "url": "https://www.hare-onna.jp/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
