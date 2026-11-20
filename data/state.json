@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "4abc508cd9e0",
+      "url": "https://shibuyatsutaya.tsite.jp/kyoto/ip-shoten/",
+      "host": "shibuyatsutaya.tsite.jp",
+      "region": "jp",
+      "title": "VRChat",
+      "headline": "『VRChat』初のポップアップストア開催へ！『超かぐや姫！』やVTuber「ぽこピー」のVRワールドを体験できる",
+      "description": "『京都 IP書店』日本を代表するIPエンタテインメントコンテンツが集まり、ファン同士がつながることができる「IP書店」",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-20T08:33:49.000Z",
+      "addedAt": "2026-11-20T09:00:29.185Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611202i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "event"
+      ],
+      "points": null,
+      "image": "https://shibuyatsutaya.tsite.jp/static_files/img/kyoto_ip-shoten_logo_og.png?time=00",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-20T09:00:29.185Z",
+      "ogFetchedAt": "2026-11-20T09:00:29.185Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": [
+        "vr"
+      ]
+    },
+    {
       "id": "d1a80f4cf306",
       "url": "https://www.hollowknight-chamber-orchestra-2027.com/",
       "host": "hollowknight-chamber-orchestra-2027.com",
@@ -10206,7 +10250,7 @@
       "headline": "開発終盤でもう大きな変更はできない。「モンギル」のリリース半年前に合流したテクニカルアーティストは，アニメ調の魅力をどう足したのか［Unreal Fest Tokyo 2026］",
       "description": "輝く未知の世界へDIVE！ 今すぐダウンロードしよう！",
       "article": {
-        "prereg": false,
+        "prereg": true,
         "preregEnded": false,
         "count": "",
         "reward": "",
@@ -10224,10 +10268,12 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "phCategories": [],
       "categories": [
+        "prereg",
         "release",
         "media"
       ],
