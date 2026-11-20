@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-20T08:00:17.387Z",
+  "updatedAt": "2026-11-20T08:30:20.299Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1284,
+  "total": 1285,
   "regions": {
-    "jp": 1011,
+    "jp": 1012,
     "global": 273
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 54
+      "count": 55
     },
     {
       "id": "prereg",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 261
+      "count": 262
     },
     {
       "id": "release",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
-    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d1a80f4cf306",
+      "url": "https://www.hollowknight-chamber-orchestra-2027.com/",
+      "host": "hollowknight-chamber-orchestra-2027.com",
+      "region": "jp",
+      "title": "Hollow Knight",
+      "headline": "「Hollow Knight」の楽曲を約30人編成のオーケストラで演奏。2027年1月30日に東京・三鷹でコンサート開催",
+      "description": "「Hollow Knight」の楽曲を約30人編成のオーケストラで演奏。2027年1月30日に東京・三鷹でコンサート開催",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T08:30:20.299Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/991/G999109/20261120008/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "92b656b80143",
       "url": "https://www.sanrio.co.jp/",
@@ -27228,9 +27255,11 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "ティザーサイト"
       ],
       "categories": [
+        "teaser",
         "release"
       ],
       "platforms": [],
