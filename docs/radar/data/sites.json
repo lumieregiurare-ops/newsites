@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T10:30:25.580Z",
+  "updatedAt": "2026-11-20T11:00:15.185Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1285,
+  "total": 1286,
   "regions": {
-    "jp": 1012,
+    "jp": 1013,
     "global": 273
   },
   "categories": [
@@ -20,17 +20,17 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 162
+      "count": 163
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 113
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 217
+      "count": 218
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 474
+      "count": 475
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Inside",
     "AppBank",
-    "4Gamer",
     "電ファミニコゲーマー",
     "Appliv Games",
     "Game*Spark",
@@ -131,6 +131,43 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "332b5d04d3c1",
+      "url": "https://18trip.jp/",
+      "host": "18trip.jp",
+      "region": "jp",
+      "title": "18TRIP",
+      "headline": "「18TRIP」，サービス開始2.5周年を記念したキャンペーンを11月23日にスタート。コンダクター4人のソロ曲の制作も決定",
+      "description": "近未来の横浜「HAMA18区」を舞台に「旅」をテーマにした“おもてなしアドベンチャー” 『18TRIP（エイティーントリップ）』好評配信中！",
+      "publishedAt": "2026-11-20T10:49:51.000Z",
+      "addedAt": "2026-11-20T11:00:15.185Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/779/G077989/20261120035/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "特設サイト",
+        "周年",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "anniversary",
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://18trip.jp/shared/img/common/og-image.png"
+    },
     {
       "id": "1689c24de560",
       "url": "https://doax-venusvacation.jp/lp.html",
@@ -15202,7 +15239,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/76/94/6b769448-0988-41a8-0726-17e64d4e7664/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/04/93/300493ba-e9ed-2d64-24f7-27a22fa2dd8b/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "775eb6f083f0",
@@ -17073,6 +17110,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/24/174040.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611202r"
         }
       ],
       "tags": [

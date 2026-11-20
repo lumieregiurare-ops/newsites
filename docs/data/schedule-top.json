@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:30:44.053Z",
+  "updatedAt": "2026-11-20T11:00:31.455Z",
   "platforms": [
     {
       "id": "switch",
@@ -70,6 +70,23 @@
       "headline": "「ポケモン東京ばな奈」新作トートバッグセットが11月21日発売！ピカチュウ＆イーブイを大胆デザイン、付箋プレゼントキャンペーンも実施",
       "source": "Inside",
       "sourceUrl": "https://www.inside-games.jp/article/2026/11/12/190826.html"
+    },
+    {
+      "id": "89488cb5a382",
+      "title": "18TRIP",
+      "date": "2026-11-23",
+      "dateText": "2026年11月23日",
+      "sortKey": "2026-11-23",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://18trip.jp/",
+      "image": "https://18trip.jp/shared/img/common/og-image.png",
+      "maker": "",
+      "headline": "「18TRIP」，サービス開始2.5周年を記念したキャンペーンを11月23日にスタート。コンダクター4人のソロ曲の制作も決定",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/779/G077989/20261120035/"
     },
     {
       "id": "10dff8dd0abe",
@@ -246,30 +263,6 @@
       ],
       "price": 3300,
       "status": "",
-      "priority": 0,
-      "source": "Nintendo",
-      "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "617e03b332a3",
-      "title": "大悪逆令嬢 ストラテジーオブリリィ",
-      "date": "2026-12-03",
-      "dateText": "2026年12月3日",
-      "sortKey": "2026-12-03",
-      "platforms": [
-        "switch2",
-        "ps"
-      ],
-      "url": "https://store-jp.nintendo.com/item/software/D70010000118760",
-      "image": "https://img-eshop.cdn.nintendo.net/i/70c71864db6bbc3123aaf62ea64ee0427bd5a0307ec1b721ed308a06aeb85f2f.jpg",
-      "maker": "アライアンス・アーツ",
-      "genre": [
-        "ストラテジー",
-        "シミュレーション",
-        "アドベンチャー"
-      ],
-      "price": 3290,
-      "status": "予約受付中",
       "priority": 0,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
@@ -462,6 +455,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-20T11:00:31.455Z",
+      "type": "new",
+      "label": "新規",
+      "title": "18TRIP",
+      "url": "https://18trip.jp/",
+      "image": "https://18trip.jp/shared/img/common/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月23日"
+    },
+    {
       "at": "2026-11-20T10:00:34.826Z",
       "type": "new",
       "label": "新規",
@@ -518,19 +523,6 @@
         "switch"
       ],
       "to": "2026年12月16日"
-    },
-    {
-      "at": "2026-11-19T08:00:35.469Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "Winx Club - Moonlight Quest",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136963",
-      "image": "https://img-eshop.cdn.nintendo.net/i/805e75688398dd7c4d4383fd60eed0642b948685d0a74617b04d6e777f7b6eca.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年11月29日",
-      "to": "2026年12月3日"
     }
   ]
 }

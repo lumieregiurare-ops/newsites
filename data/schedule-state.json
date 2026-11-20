@@ -4080,6 +4080,24 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/12/b6/3912b6bb-1729-bea7-fe09-dfd5cdcb245f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "18TRIP": {
+      "at": "2026-11-20T11:00:31.766Z",
+      "entry": {
+        "trackId": "6476969262",
+        "title": "18TRIP （エイトリ）",
+        "artist": "Liberent",
+        "genres": [
+          "シミュレーション",
+          "アドベンチャー"
+        ],
+        "releaseDate": "2024-05-23T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6476969262",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/5d/b8/555db856-e8bd-e921-9796-6144b5ef56d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -82100,21 +82118,49 @@
       "sortKey": "2026-11-25",
       "prereg": false,
       "firstSeen": "2026-11-20T10:30:44.053Z"
+    },
+    "18trip": {
+      "title": "18TRIP",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T11:00:31.455Z"
+    },
+    "follyvale-supporterpack": {
+      "title": "Follyvale - Supporter Pack",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T11:00:31.455Z"
+    },
+    "piracysoundtrack": {
+      "title": "PIRACY Soundtrack",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T11:00:31.455Z"
+    },
+    "woodshireforagersdemo": {
+      "title": "Woodshire Foragers Demo",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T11:00:31.455Z"
+    },
+    "applecrumble": {
+      "title": "Apple Crumble",
+      "dateText": "2026年12月2日",
+      "date": "2026-12-02",
+      "sortKey": "2026-12-02",
+      "prereg": false,
+      "firstSeen": "2026-11-20T11:00:31.455Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "両面反転パズル 追加ステージパック Vol.1",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000083576",
-      "image": "https://img-eshop.cdn.nintendo.net/i/f93b4163b5ac5221bf038e125627643f727a662a65c4909e3578bbf3d6d9661d.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -86928,6 +86974,18 @@
         "mobile"
       ],
       "to": "2026年11月20日"
+    },
+    {
+      "at": "2026-11-20T11:00:31.455Z",
+      "type": "new",
+      "label": "新規",
+      "title": "18TRIP",
+      "url": "https://18trip.jp/",
+      "image": "https://18trip.jp/shared/img/common/og-image.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月23日"
     }
   ],
   "initialized": true,
