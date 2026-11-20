@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T01:00:17.077Z",
+  "updatedAt": "2026-11-20T01:30:17.300Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1275,
   "regions": {
-    "jp": 1002,
+    "jp": 1003,
     "global": 272
   },
   "categories": [
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 111
+      "count": 112
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 212
+      "count": 213
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 257
+      "count": 258
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 467
+      "count": 468
     },
     {
       "id": "browser",
@@ -121,16 +121,50 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "GameBusiness.jp",
-    "AppBank",
     "Game*Spark",
     "Inside",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "09e92a1c2121",
+      "url": "https://apps.apple.com/jp/app/id1463360242",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "太鼓の達人",
+      "headline": "『太鼓の達人』25周年でゴールデンボンバーとコラボ！『君はドコ？』が11月19日から遊べる、ドンフェスに新モードも",
+      "description": "Bandai Namco Entertainment Inc.の「太鼓の達人 Pop Tap Beat」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「太鼓の達人 Pop Tap Be…",
+      "publishedAt": "2026-11-20T01:10:00.000Z",
+      "addedAt": "2026-11-20T01:30:17.300Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/20/game/3170942.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/fa/0e/5dfa0e9a-f099-934e-5374-6172b2b73ae8/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "327bf12d5fa3",
       "url": "https://www.rockstargames.com/VI/media",
@@ -28354,7 +28388,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://playhunger.com/wp-content/uploads/2024/09/EGS-Offer-Image-Portrait-H_Portrait_1200x1600_2.0-768x1024.png"
+      "image": "https://www.playhunger.com/wp-content/uploads/2024/09/EGS-Offer-Image-Portrait-H_Portrait_1200x1600_2.0-768x1024.png"
     },
     {
       "id": "7bd6307ec91c",
@@ -32276,7 +32310,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdNgm3aoOku1MloncDNs2au_O0K8a_exGrQo3IND6h2Gm_DkG9oA8KWLpYoQIXqlk-ept3E2z6ivom8rp1B8BN6755Ex410HvQkXeuQdIFRySq-j2XrQKIcPMWJ4FOXXwORX95vAkNeKqsGoufswRxAKIx__k6V3uFi9tPoFScVSsIo1aXz2KiLYKW7AQk=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcYQ3g2aImIlnMgt_57YY3JTmx-4u6Z9DkSUr1unzTFo88DttN2XuTi0oZwiVczzaMrV5Bsmy9AxmXXrWKF7cjZGNWl2-0D7MjaxErJ6ZkWmnHh6io10h3CmjJyptKlT1HYPAYWZTnaVjxIZiPL4ufh0XXbZW8_ASiuxrMMPp_eoncI3Vi---NlEEvHKoM=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
