@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-20T17:30:28.926Z",
+  "updatedAt": "2026-11-20T18:00:17.775Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1310,
   "regions": {
-    "jp": 1014,
-    "global": 275
+    "jp": 1020,
+    "global": 290
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 168
+      "count": 169
     },
     {
       "id": "anniversary",
@@ -55,17 +55,17 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 124
+      "count": 126
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 58
+      "count": 59
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 326
+      "count": 347
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 477
+      "count": 498
     },
     {
       "id": "browser",
@@ -121,16 +121,84 @@
     }
   ],
   "sources": [
+    "App Store",
     "Game*Spark",
     "4Gamer",
     "Inside",
     "AppBank",
     "電ファミニコゲーマー",
     "Appliv Games",
-    "App Store",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "8e0bad812ede",
+      "url": "https://silentspice.com/parallax/",
+      "host": "silentspice.com",
+      "region": "global",
+      "title": "Parallax: Netrek",
+      "headline": "Silent Spice LLC / アクション・ストラテジー · App Store 新着",
+      "description": "A new client for Netrek, the 1989 team space game. Out December 1 on Apple TV, Mac and iPad. Pre-order on the App Store.",
+      "publishedAt": "2026-11-20T18:00:28.225Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6760241229"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://silentspice.com/parallax/images/og-parallax.jpg"
+    },
+    {
+      "id": "311dd0dc5b4b",
+      "url": "https://bravekidmobilegames.com/",
+      "host": "bravekidmobilegames.com",
+      "region": "global",
+      "title": "着せ替えゲーム：女の子アバター",
+      "headline": "Tabloki - relaxing games designed for the family / 教育・ファミリー · App Store 新着",
+      "description": "Welcome to BraveKid, a mobile gaming studio dedicated to creating engaging and educational games for kids and toddlers.…",
+      "publishedAt": "2026-11-20T18:00:28.225Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6782286743"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "教育",
+        "ファミリー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "3ccc8ef21159",
       "url": "https://jp.gothic.thqnordic.com/",
@@ -255,6 +323,37 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "72f4eb42396b",
+      "url": "https://apps.apple.com/jp/app/id6835595549",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Cubivo",
+      "headline": "Naif Alosailan / ゲーム · App Store 新着",
+      "description": "Naif Alosailanの「Cubivo」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Cubivo」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T11:26:10.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835595549"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/63/d0/1f63d09e-0816-9a89-9dc7-7b9ea29234a2/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "332b5d04d3c1",
@@ -564,6 +663,74 @@
       "image": "https://yysls-build-na.fp.ps.easebar.com/file/69118e9af5a2b7775166e5c6e0Q84oZo03"
     },
     {
+      "id": "0477d86952d9",
+      "url": "https://burny.games/",
+      "host": "burny.games",
+      "region": "global",
+      "title": "Nonogram Village: ロジックパズル・暇つぶし",
+      "headline": "Burny Games / パズル・ボード · App Store 新着",
+      "description": "Burny Games is a mobile game development studio. Our team treats the games like a combination of art and science to bui…",
+      "publishedAt": "2026-11-20T08:38:56.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6830133298"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ボード"
+      ],
+      "categories": [
+        "company",
+        "media",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/f676f6_8083e353d9f2440481103ec1fb4ea689%7Emv2.png/v1/fit/w_2500,h_1330,al_c/f676f6_8083e353d9f2440481103ec1fb4ea689%7Emv2.png"
+    },
+    {
+      "id": "f05bdab8f170",
+      "url": "https://whirlit.app/support",
+      "host": "whirlit.app",
+      "region": "global",
+      "title": "HyzerMaster",
+      "headline": "Kristjan Solvi / スポーツ・カジュアル · App Store 新着",
+      "description": "Kristjan Solvi / スポーツ・カジュアル · App Store 新着",
+      "publishedAt": "2026-11-20T08:37:51.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6819448635"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "4abc508cd9e0",
       "url": "https://shibuyatsutaya.tsite.jp/kyoto/ip-shoten/",
       "host": "shibuyatsutaya.tsite.jp",
@@ -593,6 +760,39 @@
       "image": "https://shibuyatsutaya.tsite.jp/static_files/img/kyoto_ip-shoten_logo_og.png?time=00"
     },
     {
+      "id": "0fa3755c4fb8",
+      "url": "https://astreliaworks.com/",
+      "host": "astreliaworks.com",
+      "region": "jp",
+      "title": "幻想少女コレクション",
+      "headline": "eisuke nishino / カード・ロールプレイング · App Store 新着",
+      "description": "eisuke nishino / カード・ロールプレイング · App Store 新着",
+      "publishedAt": "2026-11-20T08:08:10.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828318782"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "d1a80f4cf306",
       "url": "https://www.hollowknight-chamber-orchestra-2027.com/",
       "host": "hollowknight-chamber-orchestra-2027.com",
@@ -616,6 +816,498 @@
         "event"
       ],
       "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "c69c2ab32390",
+      "url": "https://precagames.itch.io/",
+      "host": "precagames.itch.io",
+      "region": "global",
+      "title": "Anomaly Express",
+      "headline": "Pavel Precek / ゲーム · App Store 新着",
+      "description": "Pavel Precek / ゲーム · App Store 新着",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833602944"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://img.itch.zone/aW1nLzMxNzI3MDkwLnBuZw==/508x254%23b/4deOM3.png"
+    },
+    {
+      "id": "7d4de71cb3f8",
+      "url": "https://apps.apple.com/jp/app/id6831589743",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ArrowFlow: Unblock Puzzle",
+      "headline": "晋 王 / パズル · App Store 新着",
+      "description": "晋 王の「ArrowFlow: Unblock Puzzle」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ArrowFlow: Unblock Puzzle」に似たゲームを見ること…",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6831589743"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/6b/a9/156ba90f-60fe-cf4d-7522-112c13c5ce72/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "a0cbf1be3bc2",
+      "url": "https://apps.apple.com/jp/app/id6821673461",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Baba Abdo",
+      "headline": "abdelrahman mohamed / カジュアル・シミュレーション · App Store 新着",
+      "description": "abdelrahman mohamedの「Baba Abdo」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Baba Abdo」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821673461"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/b0/64/4eb064e4-313c-0524-901f-cdef5c8ceb24/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "ca4fc758c9ef",
+      "url": "https://apps.apple.com/jp/app/id6815612428",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Bad Pig House",
+      "headline": "VADIM CHURILOV / アクション・アドベンチャー · App Store 新着",
+      "description": "VADIM CHURILOVの「Bad Pig House」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Bad Pig House」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6815612428"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/09/a1/2409a1e2-71c4-5526-09c7-0d9bb5446af7/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "6681c6b73c20",
+      "url": "https://istokmanaus-debug.github.io/ball-sort-crush/",
+      "host": "istokmanaus-debug.github.io",
+      "region": "global",
+      "title": "Ball Sort Crush",
+      "headline": "UAGMER RODRIGUES CUMHA / パズル・カジュアル · App Store 新着",
+      "description": "UAGMER RODRIGUES CUMHA / パズル・カジュアル · App Store 新着",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6831359971"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "b06e17319b00",
+      "url": "https://games.parskunt.com/beam",
+      "host": "games.parskunt.com",
+      "region": "global",
+      "title": "Beam：UFOトラップパズル",
+      "headline": "Pars Kunt / ストラテジー・パズル · App Store 新着",
+      "description": "A UFO wants a human. The human wants coffee. Plan clever traps across nine worlds and make sure the coffee break surviv…",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833672631"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "59731d12621a",
+      "url": "https://beatsbingo.live/home",
+      "host": "beatsbingo.live",
+      "region": "global",
+      "title": "BeatsBingo Home Edition",
+      "headline": "Christopher Barron / エンターテインメント・ファミリー · App Store 新着",
+      "description": "One device hosts, everyone plays on their own phone, and your TV becomes the stage. Hosted by Vinny and Bop.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834013920"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ファミリー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://beatsbingo.live/og-home.png"
+    },
+    {
+      "id": "e1de1c95348c",
+      "url": "https://www.bibelduell.de/",
+      "host": "bibelduell.de",
+      "region": "global",
+      "title": "Bibelduell",
+      "headline": "Silas Detering / エンターテインメント・トリビア · App Store 新着",
+      "description": "Silas Detering / エンターテインメント・トリビア · App Store 新着",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6753735831"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "トリビア"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "b2be1ca0f160",
+      "url": "https://apps.apple.com/jp/app/id6832391363",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Brass Whisker 歯車ねこのまちがいさがし",
+      "headline": "Nekorist LLC / カジュアル・パズル · App Store 新着",
+      "description": "Nekorist LLCの「Brass Whisker 歯車ねこのまちがいさがし」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Brass Whisker 歯車ねこのまちがいさがし」…",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832391363"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ff/68/91ff682e-8bcc-ade8-0ef2-0398d0259e51/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "b97fc51e4974",
+      "url": "https://sheribates1936.top/cabanaise",
+      "host": "sheribates1936.top",
+      "region": "global",
+      "title": "Cabanaise",
+      "headline": "Shunsuke Arakawa / カジュアル・シミュレーション · App Store 新着",
+      "description": "The Cabanaise privacy policy, including on-device storage, permissions, retention, and contact information.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835784291"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "7cb902648df4",
+      "url": "https://cardle.cc/",
+      "host": "cardle.cc",
+      "region": "global",
+      "title": "Cardle: Car Hunt Game",
+      "headline": "cagri uzun / エンターテインメント・アドベンチャー · App Store 新着",
+      "description": "Every parked car could be a card.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6818741525"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://cardle.cc/img/hero-car.webp"
+    },
+    {
+      "id": "877713bc1751",
+      "url": "https://chronominer-app.netlify.app/",
+      "host": "chronominer-app.netlify.app",
+      "region": "global",
+      "title": "Chrono Miner: Zaman Madencisi",
+      "headline": "IZZET DOGUKAN YUCE / ストラテジー・シミュレーション · App Store 新着",
+      "description": "Chrono Miner: Zaman Madencisi iOS oyunu resmi tanıtım, destek ve KVKK gizlilik sayfası.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833198173"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "005f914114ff",
+      "url": "https://gamedevstudio.xyz/",
+      "host": "gamedevstudio.xyz",
+      "region": "global",
+      "title": "Color Pipe Sort Puzzle",
+      "headline": "murtaza mehmood / パズル・ボード · App Store 新着",
+      "description": "murtaza mehmood / パズル・ボード · App Store 新着",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6826184248"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ボード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "a1aa6531fe69",
+      "url": "https://bg.xyz/games/couch-cop/",
+      "host": "bg.xyz",
+      "region": "global",
+      "title": "Couch Cop",
+      "headline": "Blake Gomez / エンターテインメント・アクション · App Store 新着",
+      "description": "The living-room shooting gallery. Red eyes, shoot. Blue eyes, don",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6826865497"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://bg.xyz/games/couch-cop/assets/img/room_plate-1400.webp"
+    },
+    {
+      "id": "fdf19428b401",
+      "url": "https://kaiangames.com/",
+      "host": "kaiangames.com",
+      "region": "global",
+      "title": "Crash & Smash: Flick Wreck",
+      "headline": "Serkan Ozturk / カジュアル・パズル · App Store 新着",
+      "description": "Kaian Games creates memorable worlds, expressive systems, and games worth returning to.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-20T18:00:17.775Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6831780887"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
       "points": null,
       "image": ""
     },
@@ -35014,7 +35706,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ce/5d/2cce5d08-0559-6fb8-869a-56ef4e0cb3ea/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/64/7d/28647daa-d8d4-c747-eacf-86db150b76f2/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "c2694e451c81",
