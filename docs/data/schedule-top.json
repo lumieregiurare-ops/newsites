@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T09:30:30.819Z",
+  "updatedAt": "2026-11-20T10:00:34.826Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,6 +39,23 @@
     }
   ],
   "releases": [
+    {
+      "id": "c9d351e0b806",
+      "title": "ガンズタワー",
+      "date": "2026-11-20",
+      "dateText": "2026年11月20日",
+      "sortKey": "2026-11-20",
+      "priority": 0,
+      "platforms": [
+        "mobile"
+      ],
+      "url": "https://apps.apple.com/us/app/id6741555643",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg",
+      "maker": "",
+      "headline": "ローグライト・カジュアルシューティング『ガンズタワー』が11月20日に正式サービス開始！ 移動と射撃を分けたダンジョン探索",
+      "source": "AppBank",
+      "sourceUrl": "https://www.appbank.net/2026/11/20/game/3173106.php"
+    },
     {
       "id": "ae4f1d697479",
       "title": "ポケモン東京ばな奈",
@@ -256,21 +273,6 @@
       "priority": 0,
       "source": "Nintendo",
       "sourceUrl": "https://www.nintendo.com/jp/software/schedule/index.html"
-    },
-    {
-      "id": "034511f4a4ae",
-      "title": "EverQuest Legends",
-      "date": "2026-12-08",
-      "dateText": "2026年12月8日",
-      "sortKey": "2026-12-08",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.everquestlegends.com/home",
-      "image": "",
-      "maker": "",
-      "headline": "EverQuestの現代版「EverQuest Legends」初の拡張パック「Rulers of Kunark」が12月8日にリリース決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/993/G099328/20261113018/"
     }
   ],
   "prereg": [
@@ -460,6 +462,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-20T10:00:34.826Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ガンズタワー",
+      "url": "https://apps.apple.com/us/app/id6741555643",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月20日"
+    },
+    {
       "at": "2026-11-20T07:00:31.236Z",
       "type": "new",
       "label": "新規",
@@ -517,19 +531,6 @@
       ],
       "from": "2026年11月29日",
       "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-19T08:00:35.469Z",
-      "type": "delayed",
-      "label": "発売延期",
-      "title": "ソコボム",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137825",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9109b97779a0fbe1cb85cbabd8854792d13b41e1567ef0bbd7353e874add2495.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "from": "2026年11月19日",
-      "to": "2027年2月11日"
     }
   ]
 }

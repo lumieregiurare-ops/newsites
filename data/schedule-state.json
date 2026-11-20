@@ -4039,6 +4039,47 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/f9/9c/61f99cb7-1828-5276-e0e7-9c8cd0f76d97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "ガンズタワー": {
+      "at": "2026-11-20T10:00:35.075Z",
+      "entry": {
+        "trackId": "6741555643",
+        "title": "ガンズタワー：ピクセルアートダンジョンRPG",
+        "artist": "Wemade Play Co.,Ltd.",
+        "genres": [
+          "アクション",
+          "カジュアル"
+        ],
+        "releaseDate": "2026-08-03T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6741555643",
+        "sellerUrl": "http://en.wemadeplay.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/3f/ba/0f3fba50-ac9a-9b96-cc05-fd632cb1ef95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "Epomaker": {
+      "at": "2026-11-20T10:00:36.452Z",
+      "entry": null
+    },
+    "キャプテン翼 たたかえドリームチーム": {
+      "at": "2026-11-20T10:00:37.984Z",
+      "entry": {
+        "trackId": "1181335936",
+        "title": "キャプテン翼 ～たたかえドリームチーム～ サッカーゲーム",
+        "artist": "KLab Inc.",
+        "genres": [
+          "シミュレーション",
+          "エンターテインメント",
+          "スポーツ"
+        ],
+        "releaseDate": "2017-06-13T02:13:06Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id1181335936",
+        "sellerUrl": "https://www.tsubasa-dreamteam.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/12/b6/3912b6bb-1729-bea7-fe09-dfd5cdcb245f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "isGame": true
+      }
     }
   },
   "titles": {
@@ -82003,21 +82044,41 @@
       "sortKey": "2026-11-25",
       "prereg": false,
       "firstSeen": "2026-11-20T09:30:30.819Z"
+    },
+    "ガンズタワー": {
+      "title": "ガンズタワー",
+      "dateText": "2026年11月20日",
+      "date": "2026-11-20",
+      "sortKey": "2026-11-20",
+      "prereg": false,
+      "firstSeen": "2026-11-20T10:00:34.826Z"
+    },
+    "friendlyminingcompany": {
+      "title": "Friendly Mining Company",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T10:00:34.826Z"
+    },
+    "goldbarinashitstack": {
+      "title": "Goldbar In A Shitstack",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T10:00:34.826Z"
+    },
+    "huex": {
+      "title": "Huex",
+      "dateText": "2026年11月23日",
+      "date": "2026-11-23",
+      "sortKey": "2026-11-23",
+      "prereg": false,
+      "firstSeen": "2026-11-20T10:00:34.826Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "竜騎士の迷宮 リメイク",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000112333",
-      "image": "https://img-eshop.cdn.nintendo.net/i/6261a4c15a5d23a6d258672a64f9d8800ebf2544677fbdefb1f6953e69ca5499.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月5日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -86831,6 +86892,18 @@
       "image": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/ogp2022.png",
       "platforms": [],
       "to": "2026年11月30日"
+    },
+    {
+      "at": "2026-11-20T10:00:34.826Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ガンズタワー",
+      "url": "https://apps.apple.com/us/app/id6741555643",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月20日"
     }
   ],
   "initialized": true,

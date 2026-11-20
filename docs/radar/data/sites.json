@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-20T09:30:16.895Z",
+  "updatedAt": "2026-11-20T10:00:17.679Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1278,
+  "total": 1283,
   "regions": {
-    "jp": 1007,
-    "global": 271
+    "jp": 1011,
+    "global": 272
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 111
+      "count": 112
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 261
+      "count": 264
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 123
+      "count": 124
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 324
+      "count": 325
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 152
+      "count": 153
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 470
+      "count": 473
     },
     {
       "id": "browser",
@@ -121,16 +121,139 @@
     }
   ],
   "sources": [
-    "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
+    "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "1689c24de560",
+      "url": "https://doax-venusvacation.jp/lp.html",
+      "host": "doax-venusvacation.jp",
+      "region": "jp",
+      "title": "DEAD OR ALIVE Xtreme Venus Vacation",
+      "headline": "祝9周年の「DEAD OR ALIVE Xtreme Venus Vacation」…総勢33名のヴィーナスを今から無課金で集めるとしたらどれくらいかかる？チャンスは今！",
+      "description": "「DEAD OR ALIVE Xtreme」女の子たちと仲良くなって、「ヴィーナスフェス」を盛り上げよう！",
+      "publishedAt": "2026-11-20T10:00:03.000Z",
+      "addedAt": "2026-11-20T10:00:17.679Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/20/191321.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "38c5feffa2e0",
+      "url": "https://apps.apple.com/us/app/id6741555643",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "ガンズタワー",
+      "headline": "ローグライト・カジュアルシューティング『ガンズタワー』が11月20日に正式サービス開始！ 移動と射撃を分けたダンジョン探索",
+      "description": "Download GunzTower: Pixel Dungeon RPG by Wemade Play Co.,Ltd. on the App Store. See screenshots, ratings and reviews, u…",
+      "publishedAt": "2026-11-20T09:50:00.000Z",
+      "addedAt": "2026-11-20T10:00:17.679Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/20/game/3173106.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/ac/73/86ac732b-fb8a-b00c-d91a-3db8d4c2bdb7/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "eabdc2dcfc74",
+      "url": "https://epomaker.jp/ja",
+      "host": "epomaker.jp",
+      "region": "jp",
+      "title": "Epomaker",
+      "headline": "日本でも原宿でポップアップストアが開催中。100種類のキーボードが並ぶ「Epomaker」ブース［G-STAR 2026］",
+      "description": "Mac、Windows、Linux、iOS、Android デバイス向けの最高のワイヤレス/有線メカニカル キーボードとアクセサリ。",
+      "publishedAt": "2026-11-20T09:42:51.000Z",
+      "addedAt": "2026-11-20T10:00:17.679Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999902/20261120027/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://epomaker.jp/cdn/shop/files/50_40a0ec67-3ae4-4826-87e5-5f52f37a091a.jpg?v=1713951586"
+    },
+    {
+      "id": "85a021c3cf8a",
+      "url": "https://play.google.com/store/apps/details?id=jp.klab.captain283",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "キャプテン翼 ～たたかえドリームチーム～",
+      "headline": "賞金総額1000万円！ 「DREAM CHAMPIONSHIP 2026」決勝トーナメントが11月22日開催 『キャプテン翼 ～たたかえドリームチーム～』公式大会",
+      "description": "『キャプテン翼』のサッカーゲームでライバルと対戦！",
+      "publishedAt": "2026-11-20T09:30:00.000Z",
+      "addedAt": "2026-11-20T10:00:17.679Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/20/game/3171116.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/tSWiNHnJKbM8n4T1mkr4YIGpmaXLu35R2Pb8Bye6Zl0xER7jyeduRc31CNIv7O1LTpN_UfE4NHJd3z0x-It7=s0-br30"
+    },
     {
       "id": "cc763ff11054",
       "url": "https://www.ayaneo.com/",
@@ -157,6 +280,33 @@
       "platforms": [
         "mobile"
       ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "c552b8e45ec1",
+      "url": "https://hello.vrchat.com/jp/welcome",
+      "host": "hello.vrchat.com",
+      "region": "jp",
+      "title": "VRChat",
+      "headline": "『VRChat』の楽しさは、アバターから始まる。ピクシブが開発し、VRChatと共同で公開する初心者向けワールド「アバター×着せ替えチュートリアル」を先行プレイ。順番どおりに歩く…",
+      "description": "『VRChat』の楽しさは、アバターから始まる。ピクシブが開発し、VRChatと共同で公開する初心者向けワールド「アバター×着せ替えチュートリアル」を先行プレイ。順番どおりに歩くだけで“アバターの入手から着せ替えまで”を学べる",
+      "publishedAt": "2026-11-20T09:00:17.000Z",
+      "addedAt": "2026-11-20T10:00:17.679Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/2611202j"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
       "points": null,
       "image": ""
     },
@@ -13327,7 +13477,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/81/26/4f81267a-9ab8-16c4-49b4-ab624228430c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/79/45/1c794587-97f9-cf95-5768-56196c323357/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3b60981d5e71",
