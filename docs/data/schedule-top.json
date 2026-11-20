@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T12:00:37.993Z",
+  "updatedAt": "2026-11-20T12:30:43.877Z",
   "platforms": [
     {
       "id": "switch",
@@ -270,6 +270,26 @@
   ],
   "prereg": [
     {
+      "id": "904df9541647",
+      "title": "チェイシング・カレイドライダー",
+      "url": "https://kaleidorider.com/jp/",
+      "image": "https://kaleidorider.com/img/share_jp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-20T12:24:44.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「チェイシング・カレイドライダー」，期間限定テスト「ドキドキテスト」を12月17日に実施決定",
+      "description": "『チェイシング·カレイドライダー』登場！バイクに乗る美少女との新たなドキドキ体験を味わおう！さあ、ナビゲーターさん、早く乗って～！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/014/G101490/20261120049/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "f2c4c7cb70f1",
       "title": "雨のちハレ女",
       "url": "https://www.hare-onna.jp/",
@@ -431,29 +451,21 @@
       "sourceUrl": "https://www.4gamer.net/games/058/G105873/20261116022/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "d8de0cb6f5a3",
-      "title": "VIRTUAL CIRCLE",
-      "url": "https://space.bilibili.com/696791303",
-      "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-15T06:00:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
-      "description": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/11/15/190991.html",
-      "appleId": "",
-      "trackId": ""
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-20T12:30:43.877Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "チェイシング・カレイドライダー",
+      "url": "https://kaleidorider.com/jp/",
+      "image": "https://kaleidorider.com/img/share_jp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-20T12:00:37.993Z",
       "type": "prereg_start",
@@ -511,18 +523,6 @@
         "ps"
       ],
       "to": "2027年1月28日"
-    },
-    {
-      "at": "2026-11-20T03:00:37.713Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ライダーズ リパブリック",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000122505",
-      "image": "https://img-eshop.cdn.nintendo.net/i/11bab07cd4bd27be70444dcefa7070fc433f849760cc56b578ce4da4e48940a3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月9日"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T12:00:18.071Z",
+  "updatedAt": "2026-11-20T12:30:23.866Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1287,
+  "total": 1289,
   "regions": {
-    "jp": 1014,
+    "jp": 1016,
     "global": 273
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 166
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 460
+      "count": 461
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 155
+      "count": 156
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 476
+      "count": 477
     },
     {
       "id": "browser",
@@ -131,6 +131,68 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "904df9541647",
+      "url": "https://kaleidorider.com/jp/",
+      "host": "kaleidorider.com",
+      "region": "jp",
+      "title": "チェイシング・カレイドライダー",
+      "headline": "「チェイシング・カレイドライダー」，期間限定テスト「ドキドキテスト」を12月17日に実施決定",
+      "description": "『チェイシング·カレイドライダー』登場！バイクに乗る美少女との新たなドキドキ体験を味わおう！さあ、ナビゲーターさん、早く乗って～！",
+      "publishedAt": "2026-11-20T12:24:44.000Z",
+      "addedAt": "2026-11-20T12:30:23.866Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/014/G101490/20261120049/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://kaleidorider.com/img/share_jp.jpg"
+    },
+    {
+      "id": "e3d910babe73",
+      "url": "https://giftfromgod-game.com/",
+      "host": "giftfromgod-game.com",
+      "region": "jp",
+      "title": "GIFT from GOD",
+      "headline": "主人公とヒロイン，2人の視点で物語が展開されるビジュアルノベル。PC版「GIFT from GOD」，Steamで配信開始",
+      "description": "ノベルゲーム『GIFT from GOD』公式サイト。Android版・iOS版は配信中。Steam版はウィッシュリスト受付中。ストーリー、キャラクター、最新情報を掲載。",
+      "publishedAt": "2026-11-20T12:10:08.000Z",
+      "addedAt": "2026-11-20T12:30:23.866Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106028/20261120044/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://giftfromgod-game.com/images/ogp.jpg"
+    },
     {
       "id": "f2c4c7cb70f1",
       "url": "https://www.hare-onna.jp/",
