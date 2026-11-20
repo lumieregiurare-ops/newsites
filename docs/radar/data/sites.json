@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T02:30:16.290Z",
+  "updatedAt": "2026-11-20T03:00:16.561Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1274,
   "regions": {
-    "jp": 1001,
+    "jp": 1002,
     "global": 272
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 457
+      "count": 458
     },
     {
       "id": "indie",
@@ -618,6 +618,41 @@
       "platforms": [],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "922ea17c37b9",
+      "url": "https://www.capcom-games.com/megaman/do/ja-jp/",
+      "host": "capcom-games.com",
+      "region": "jp",
+      "title": "ロックマン：デュアル オーバーライド",
+      "headline": "「ロックマン：デュアル オーバーライド」，新ボス「ボートマン」を公開。水中で広範囲の攻撃を仕掛ける気弱な漁業ロボット",
+      "description": "シリーズ最新作！2027年発売予定『ロックマン: デュアル オーバーライド』公式サイト",
+      "publishedAt": "2026-11-19T02:38:46.000Z",
+      "addedAt": "2026-11-20T03:00:16.561Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/968/G096894/20261119003/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/19/191248.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261119m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.capcom-games.com/megaman/do/assets/images/share_ja-jp.jpg"
     },
     {
       "id": "67cdc87ab19f",
@@ -8732,7 +8767,7 @@
       "region": "jp",
       "title": "JockeyBox - 競馬ジョッキーキャリアゲーム",
       "headline": "BOX LLC (Japan) / スポーツ・シミュレーション · App Store 新着",
-      "description": "追う、抑える、ムチを入れる。騎手の判断と駆け引きをそのまま味わう3D競馬ジョッキーゲーム。iPhone・iPad・Mac対応。",
+      "description": "追う、抑える、ムチを入れる。騎手の判断と駆け引きをそのまま味わう3D競馬ジョッキーゲーム。iPhone・iPad・Mac・Android対応。",
       "publishedAt": "2026-11-06T22:30:25.085Z",
       "addedAt": "2026-11-06T22:30:15.571Z",
       "source": "App Store",
@@ -19461,6 +19496,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2610202l"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/20/175108.html"
         }
       ],
       "tags": [
@@ -32084,7 +32123,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1794964585"
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1795056919"
     },
     {
       "id": "ee9753ded30e",
