@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:30:18.028Z",
+  "updatedAt": "2026-11-20T08:00:17.387Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 113
+      "count": 114
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 216
+      "count": 217
     },
     {
       "id": "event",
@@ -24615,9 +24615,13 @@
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト",
+        "周年"
       ],
       "categories": [
+        "campaign",
+        "anniversary",
         "release"
       ],
       "platforms": [],
