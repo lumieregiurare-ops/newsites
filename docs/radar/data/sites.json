@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-21T06:30:15.360Z",
+  "updatedAt": "2026-11-21T07:00:23.182Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1331,
+  "total": 1330,
   "regions": {
-    "jp": 1034,
+    "jp": 1033,
     "global": 297
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 464
+      "count": 465
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 153
+      "count": 151
     }
   ],
   "platforms": [
@@ -2147,33 +2147,6 @@
       "image": "https://deltarune.jp/assets/images/social-logo.png"
     },
     {
-      "id": "502a2cd31919",
-      "url": "https://gup-mottolovelove.jp/",
-      "host": "gup-mottolovelove.jp",
-      "region": "jp",
-      "title": "ガルパン",
-      "headline": "『ガルパン』あの“家元コンビ”がアイドルに。スピンオフ作『もっとらぶらぶ作戦です！』特殊EDが公開スタート、西住しほ&島田千代による楽曲「いいえ！もっとLOVEでしょう？」がいつ…",
-      "description": "『ガルパン』あの“家元コンビ”がアイドルに。スピンオフ作『もっとらぶらぶ作戦です！』特殊EDが公開スタート、西住しほ&島田千代による楽曲「いいえ！もっとLOVEでしょう？」がいつでも楽しめるように",
-      "publishedAt": "2026-11-20T04:31:06.000Z",
-      "addedAt": "2026-11-21T06:30:15.360Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/261120s"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
       "id": "63d34b2d1bd7",
       "url": "https://play.google.com/store/apps/details?id=jp.txcom.snoopy.minigames",
       "host": "play.google.com",
@@ -3362,7 +3335,7 @@
       "region": "jp",
       "title": "八部寛のホームページ",
       "headline": "異変があったらバールでパソコンを壊す。一人称視点の3D短編ホラーゲーム「八部寛のホームページ」，Steamストアページを公開",
-      "description": "架空の個人サイト「八部寛のホームページ」を監視する、異変探索ホラーゲーム。 / A horror game where you spend eight days checking a fictional personal website,…",
+      "description": "架空の個人サイト「八部寛のホームページ」を8日間監視する一人称視点の3D異変探索ホラーゲーム。異変を見つけたらパソコンを叩き壊して退勤せよ。2027年春にSteamで発売予定。",
       "publishedAt": "2026-11-18T05:00:01.000Z",
       "addedAt": "2026-11-18T05:30:22.732Z",
       "source": "4Gamer",
@@ -3384,7 +3357,7 @@
         "ゲーム"
       ],
       "categories": [
-        "official"
+        "release"
       ],
       "platforms": [
         "pc"
