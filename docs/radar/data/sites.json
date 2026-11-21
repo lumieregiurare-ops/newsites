@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-21T05:00:16.126Z",
+  "updatedAt": "2026-11-21T05:30:16.064Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1328,
+  "total": 1329,
   "regions": {
-    "jp": 1032,
+    "jp": 1033,
     "global": 296
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 463
+      "count": 464
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 362
+      "count": 363
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 514
+      "count": 515
     },
     {
       "id": "browser",
@@ -122,11 +122,11 @@
   ],
   "sources": [
     "App Store",
+    "AppBank",
     "4Gamer",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
-    "AppBank",
     "Appliv Games",
     "GameBusiness.jp"
   ],
@@ -196,6 +196,38 @@
       ],
       "points": null,
       "image": "https://montecarlo.techraccoon.net/img/icon.png"
+    },
+    {
+      "id": "8df71e75e3ed",
+      "url": "https://apps.apple.com/jp/app/id6818558674",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "SASSEN WARS",
+      "headline": "デジタルチャンバラ「SASSEN」初のスマホ対戦ゲーム『SASSEN WARS』がApp Storeで11月19日配信開始！",
+      "description": "REVOT, K.K.の「SASSEN WARS チャンバラ対戦」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「SASSEN WARS チャンバラ対戦」に似たゲームを見ることなどがで…",
+      "publishedAt": "2026-11-21T05:00:00.000Z",
+      "addedAt": "2026-11-21T05:30:16.064Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/21/game/3172916.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/01/24/960124f2-4f5c-981d-21a7-81416d9878e3/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "334cbc29db18",
