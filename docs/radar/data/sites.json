@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-21T04:30:18.062Z",
+  "updatedAt": "2026-11-21T05:00:16.126Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1313,
+  "total": 1328,
   "regions": {
-    "jp": 1023,
-    "global": 290
+    "jp": 1032,
+    "global": 296
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 125
+      "count": 126
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 348
+      "count": 362
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 500
+      "count": 514
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
-    "4Gamer",
     "App Store",
+    "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
     "AppBank",
@@ -131,6 +131,99 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "d8e5f44d0b23",
+      "url": "https://apps.apple.com/jp/app/id6835946111",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Line 4 Is Ringing",
+      "headline": "Filipe Macedo / ファミリー・パズル · App Store 新着",
+      "description": "Filipe Macedoの「Line 4 Is Ringing」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Line 4 Is Ringing」に似たゲームを見ることなどができま…",
+      "publishedAt": "2026-11-21T05:00:21.803Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835946111"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/e9/f2/36e9f294-09d4-66cc-1125-becbd4bbacf2/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "4456288262dc",
+      "url": "https://montecarlo.techraccoon.net/",
+      "host": "montecarlo.techraccoon.net",
+      "region": "jp",
+      "title": "Monte Carlo Solitaire: Pairs",
+      "headline": "TechRaccoon / パズル・カード · App Store 新着",
+      "description": "となり合う同じ数字のペアを取って、場のカードを全部消すトランプの一人遊び。「足して14」ルール・デイリー・エンドレスも。",
+      "publishedAt": "2026-11-21T05:00:21.803Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832544993"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カード"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://montecarlo.techraccoon.net/img/icon.png"
+    },
+    {
+      "id": "334cbc29db18",
+      "url": "https://www.pocketpair.jp/palworld",
+      "host": "pocketpair.jp",
+      "region": "jp",
+      "title": "オワコン",
+      "headline": "「オワコン」とも言われた「パルワールド」は，どうやってプレイヤーを呼び戻したのか。ポケットペアが語る，正式リリースに向けた3つの施策［WePlay2026］",
+      "description": "「オワコン」とも言われた「パルワールド」は，どうやってプレイヤーを呼び戻したのか。ポケットペアが語る，正式リリースに向けた3つの施策［WePlay2026］",
+      "publishedAt": "2026-11-21T04:50:35.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/574/G057444/20261121015/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "887a9122a378",
       "url": "https://event.mecchachameleon.game/teaser",
@@ -189,6 +282,37 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "d3fc58b08a1d",
+      "url": "https://apps.apple.com/jp/app/id6837144558",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Chimnora",
+      "headline": "Dinh Chinh Duy / ゲーム · App Store 新着",
+      "description": "Dinh Chinh Duyの「Chimnora」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Chimnora」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T19:29:50.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837144558"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/8b/15/5d8b152d-deb2-4759-a851-8b89221d6d39/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8e0bad812ede",
@@ -259,6 +383,171 @@
       "image": ""
     },
     {
+      "id": "96e586aa4209",
+      "url": "https://erumaru.com/hundredfold/",
+      "host": "erumaru.com",
+      "region": "global",
+      "title": "Hundredfold: 農場ローグライク",
+      "headline": "Abzal Toremuratuly / ストラテジー・シミュレーション · App Store 新着",
+      "description": "Abzal Toremuratuly / ストラテジー・シミュレーション · App Store 新着",
+      "publishedAt": "2026-11-20T17:54:18.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836451285"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "754800ef4495",
+      "url": "https://gsjinc.fr/",
+      "host": "gsjinc.fr",
+      "region": "jp",
+      "title": "Slimo : Fusion de Slimes",
+      "headline": "nathan langlet / カジュアル・パズル · App Store 新着",
+      "description": "Politique de confidentialité — Fuse Room Dernière mise à jour : 16 octobre 2026 Fuse Room est un jeu mobile solo de réf…",
+      "publishedAt": "2026-11-20T16:10:59.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835538978"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "df5e638c0db6",
+      "url": "https://apps.apple.com/jp/app/id6809280308",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Critter Camp : Logic Puzzles",
+      "headline": "DILM STUDIO, LLC / パズル · App Store 新着",
+      "description": "DILM STUDIO, LLCの「Critter Camp : Logic Puzzles」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Critter Camp : Logic …",
+      "publishedAt": "2026-11-20T15:55:34.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6809280308"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/66/ca/4366ca57-39da-db48-af22-f218e5d51ab8/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "46effe11aa20",
+      "url": "https://apps.apple.com/jp/app/id6836863481",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "OOPS! Cat Chaos",
+      "headline": "KidsPro World LLC / カジュアル・パズル · App Store 新着",
+      "description": "KidsPro World LLCの「OOPS! Cat Chaos」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「OOPS! Cat Chaos」に似たゲームを見ることなどができま…",
+      "publishedAt": "2026-11-20T15:22:07.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836863481"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/2a/e0/c02ae07d-ac75-f488-d8b0-df7ad0499ffa/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "566f72d0c720",
+      "url": "https://tahirkilic.com.tr/",
+      "host": "tahirkilic.com.tr",
+      "region": "global",
+      "title": "Kelime Arena - Bilgi Oyunu",
+      "headline": "TAHIR KILIC / 単語・ファミリー · App Store 新着",
+      "description": "TAHIR KILIC / 単語・ファミリー · App Store 新着",
+      "publishedAt": "2026-11-20T14:20:33.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834941503"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "ファミリー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "3ccc8ef21159",
       "url": "https://jp.gothic.thqnordic.com/",
       "host": "jp.gothic.thqnordic.com",
@@ -287,6 +576,70 @@
       ],
       "points": null,
       "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQeD7eZ5jYqLR_ajh6_Bm1UTZSWBgDqhadTaQP17Ays-eS9wGDRPlW4PBXvsUew4fFwTAXrtw1FFx4-bfOgsy1R5sdw8aaZcZJKxMbeCLohxQJQ_YVnTdTGROKIPdEr5PVUhan8xLVXUCH55VE2RgiO7F0u6WL15Qw-D_5fFH5ypEfpKORooS1Hh4R4X=w16383"
+    },
+    {
+      "id": "ba5b922a6d3a",
+      "url": "https://apps.apple.com/jp/app/id6835818737",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "دليفري القاهرة",
+      "headline": "Ahmed Abbas / ゲーム · App Store 新着",
+      "description": "Ahmed Abbasの「دليفري القاهرة」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「دليفري القاهرة」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T13:07:09.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835818737"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/84/d5/cd84d5fe-34c2-ee2e-ccee-c2ab7234cddd/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "782b575066ff",
+      "url": "https://orbium.sigcode.de/",
+      "host": "orbium.sigcode.de",
+      "region": "global",
+      "title": "Orbium",
+      "headline": "Simon Gunther / カジュアル・パズル · App Store 新着",
+      "description": "Orbium: Support, Datenschutzerklärung und Impressum / Support, Privacy Policy and Legal Notice.",
+      "publishedAt": "2026-11-20T13:01:20.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835081939"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "904df9541647",
@@ -1369,6 +1722,138 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "87c921c53a80",
+      "url": "https://playkading.com/",
+      "host": "playkading.com",
+      "region": "global",
+      "title": "KaDing! Math Card Game",
+      "headline": "YUANZHONG OU / カード・教育 · App Store 新着",
+      "description": "A math card game. Build a sum from your cards, hit the target exactly, and KaDing! Coming to the App Store on December …",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832010751"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "教育"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://playkading.com/assets/og.png"
+    },
+    {
+      "id": "6d6ca45eb14a",
+      "url": "https://apps.apple.com/jp/app/id6833275156",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Boutique Merge",
+      "headline": "Wael Alwasel / カジュアル・パズル · App Store 新着",
+      "description": "Wael Alwaselの「Boutique Merge」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Boutique Merge」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833275156"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/cc/7a/66cc7a2b-abeb-deec-15f1-4ec66d7e9cc7/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "3cf67ec85a96",
+      "url": "https://feltclub.app/accrete/",
+      "host": "feltclub.app",
+      "region": "global",
+      "title": "Accrete: Friss dich zum Stern",
+      "headline": "MATTHIAS TORSTEN STEINS / アクション・カジュアル · App Store 新着",
+      "description": "MATTHIAS TORSTEN STEINS / アクション・カジュアル · App Store 新着",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835129036"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "acbc1c33790a",
+      "url": "https://arttica.is/",
+      "host": "arttica.is",
+      "region": "global",
+      "title": "Afterimage: The Echoes of Time",
+      "headline": "Arttica INC / カジュアル・アクション · App Store 新着",
+      "description": "Distinctive design. Intuitive experiences. Websites, brands and apps shaped around people.",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-21T05:00:16.126Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836671164"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://arttica.is/assets/mountain.webp"
     },
     {
       "id": "92b656b80143",
