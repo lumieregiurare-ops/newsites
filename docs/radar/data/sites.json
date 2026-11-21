@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-21T09:00:16.177Z",
+  "updatedAt": "2026-11-21T09:30:19.351Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1326,
+  "total": 1328,
   "regions": {
-    "jp": 1030,
+    "jp": 1032,
     "global": 296
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 55
+      "count": 56
     },
     {
       "id": "prereg",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 262
+      "count": 263
     },
     {
       "id": "release",
@@ -60,12 +60,12 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 59
+      "count": 60
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 364
+      "count": 365
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 516
+      "count": 517
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "App Store",
-    "AppBank",
     "4Gamer",
+    "AppBank",
+    "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
     "Inside",
@@ -131,6 +131,67 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "62c42c9b9005",
+      "url": "http://www.capcom.co.jp/rxac",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "ロックマンX アニバーサリー コレクション 2",
+      "headline": "「ロックマンX アニバーサリー コレクション 2」の海外パッケージ版が予約を受付中。メットールの可愛いキーホルダーや，ライト博士の姿が浮かぶ「ライトカプセル」などのグッズも付属",
+      "description": "「ロックマンX アニバーサリー コレクション 2」の海外パッケージ版が予約を受付中。メットールの可愛いキーホルダーや，ライト博士の姿が浮かぶ「ライトカプセル」などのグッズも付属",
+      "publishedAt": "2026-11-21T09:05:59.000Z",
+      "addedAt": "2026-11-21T09:30:19.351Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/415/G041594/20261121020/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "6262dc278a5a",
+      "url": "https://play.google.com/store/apps/details?id=com.dena.mirrativ",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "ブロスタ",
+      "headline": "ミラティブ、『ブロスタ』公認配信者プログラムを始動！ プロデューサーはYouTuberのがん",
+      "description": "【日本最大級！ゲーム配信者数500万人】ゲーム×アバターのライブ配信アプリ！ゲーム実況・配信やアバターを手軽に楽しめてVtuberになってカラオケもできちゃう！",
+      "publishedAt": "2026-11-21T09:00:00.000Z",
+      "addedAt": "2026-11-21T09:30:19.351Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/21/game/3172424.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android",
+        "iOS"
+      ],
+      "categories": [
+        "teaser",
+        "event",
+        "media"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/EmgV3PwyaN2Gr1NleaO0Db9tWU8YehDJjAC0rkz2eTrYlNvXagMKBr0Z9nBsydj7LOCFsG7VxBbCBv_Y0igy2A=s0-br30"
+    },
     {
       "id": "2c6eabc0dd6e",
       "url": "https://riftshock.com/",
