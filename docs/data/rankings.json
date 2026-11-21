@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:00:20.224Z",
+  "updatedAt": "2026-11-21T10:30:26.665Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
+          "title": "モンスターハンターアウトランダーズ",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
+          "metric": "Level Infinite",
+          "delta": {
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
           "title": "Bus Traffic Fever!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
           "metric": "GOODROID,Inc.",
           "delta": {
             "kind": "up",
-            "label": "+3",
-            "value": 3
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
-          "title": "モンスターハンターアウトランダーズ",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/73/e0/0073e0c8-a9e4-1956-8966-f83a136ee71e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BA/id6444520814",
-          "metric": "Level Infinite",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "label": "+2",
+            "value": 2
           },
           "deltaNote": "前日比"
         },
@@ -215,27 +215,27 @@
         },
         {
           "rank": 6,
-          "title": "Block Out! - Color Sort Puzzle",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cd/31/29cd31ef-903b-8620-f3e4-9cd9822d1b3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
-          "metric": "Grand Games A.Ş.",
-          "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 7,
           "title": "麻雀ブラスト (Mahjong Blast)",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/3f/ac/a93faca7-5a55-6734-ed81-a0231c46f0e0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-mahjong-blast/id6747492600",
           "metric": "Nebula Studio",
           "delta": {
             "kind": "up",
-            "label": "+1",
-            "value": 1
+            "label": "+2",
+            "value": 2
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 7,
+          "title": "Block Out! - Color Sort Puzzle",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/cd/31/29cd31ef-903b-8620-f3e4-9cd9822d1b3e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
+          "metric": "Grand Games A.Ş.",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
           },
           "deltaNote": "前日比"
         },

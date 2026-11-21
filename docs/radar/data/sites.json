@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-21T10:00:18.320Z",
+  "updatedAt": "2026-11-21T10:30:25.375Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1328,
+  "total": 1331,
   "regions": {
-    "jp": 1031,
-    "global": 297
+    "jp": 1033,
+    "global": 298
   },
   "categories": [
     {
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 114
+      "count": 115
     },
     {
       "id": "campaign",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 263
+      "count": 264
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 365
+      "count": 367
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 517
+      "count": 519
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "AppBank",
+    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
@@ -131,6 +131,35 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "fff42a492218",
+      "url": "https://perspect.co.jp/event/PxF/",
+      "host": "perspect.co.jp",
+      "region": "jp",
+      "title": "ペルソナ",
+      "headline": "『ペルソナ』30周年記念！ FiFS描き下ろしイラスト展が銀座。蔦屋書店で11月27日から開催",
+      "description": "『ペルソナ３』『ペルソナ４』コミカライズを担当し、その後シリーズ公認イラストレーターとして様々なイラストを手掛けてきたクリエイターユニットFiFSが、『ペルソナ』シリーズの30周年を記念し、シリーズ歴代主人公8人を新規に描き下ろし。新規イ…",
+      "publishedAt": "2026-11-21T10:20:00.000Z",
+      "addedAt": "2026-11-21T10:30:25.375Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/21/game/3173923.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://perspect.co.jp/ogp.jpg"
+    },
     {
       "id": "62c42c9b9005",
       "url": "http://www.capcom.co.jp/rxac",
@@ -3206,6 +3235,39 @@
         "スマホ",
         "iOS",
         "ロールプレイング"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "fee7d97212a0",
+      "url": "https://circle.gs/",
+      "host": "circle.gs",
+      "region": "global",
+      "title": "Tidy Room!",
+      "headline": "Circle Games / パズル・カジュアル · App Store 新着",
+      "description": "Circle Games / パズル・カジュアル · App Store 新着",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "addedAt": "2026-11-21T10:30:25.375Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6831317859"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
       ],
       "categories": [
         "goods"
@@ -8818,6 +8880,39 @@
       ],
       "points": null,
       "image": "https://www.monsterhunter.com/mhpuzzlef/assets/images/share_en.png"
+    },
+    {
+      "id": "8c6a71d011db",
+      "url": "https://machikadomart.ferris.tokyo/",
+      "host": "machikadomart.ferris.tokyo",
+      "region": "jp",
+      "title": "まちかどマート - コンビニ経営ゲーム",
+      "headline": "atsuto omosu / カジュアル・シミュレーション · App Store 新着",
+      "description": "atsuto omosu / カジュアル・シミュレーション · App Store 新着",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "addedAt": "2026-11-21T10:30:25.375Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832955562"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "7d00115d726f",
