@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-21T05:30:16.064Z",
+  "updatedAt": "2026-11-21T06:00:17.861Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1329,
+  "total": 1330,
   "regions": {
     "jp": 1033,
-    "global": 296
+    "global": 297
   },
   "categories": [
     {
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 363
+      "count": 364
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 515
+      "count": 516
     },
     {
       "id": "browser",
@@ -131,6 +131,38 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "2c6eabc0dd6e",
+      "url": "https://riftshock.com/",
+      "host": "riftshock.com",
+      "region": "global",
+      "title": "Riftshock: Neon Space Shooter",
+      "headline": "Chris Hawley / アクション · App Store 新着",
+      "description": "Riftshock is a fast neon twin-stick shooter for iPhone, iPad, Apple TV, and Mac. It has eight modes and two unique spec…",
+      "publishedAt": "2026-11-21T06:00:23.159Z",
+      "addedAt": "2026-11-21T06:00:17.861Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6819375975"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://riftshock.com/img/share.jpg"
+    },
     {
       "id": "d8e5f44d0b23",
       "url": "https://apps.apple.com/jp/app/id6835946111",
@@ -4514,7 +4546,7 @@
       "region": "jp",
       "title": "JockeyBox",
       "headline": "3D競馬ジョッキーゲーム『JockeyBox』Android版、Google Playで事前登録開始！ 980円で11月下旬〜12月上旬発売予定",
-      "description": "新人騎手から、頂点へ。騎手の判断と駆け引きを味わう3D競馬ゲーム",
+      "description": "新人騎手からトップジョッキーを目指す、3Dの競馬ゲーム。お手馬や牧場での配合、最大12人のオンライン対戦があります。",
       "publishedAt": "2026-11-16T03:10:00.000Z",
       "addedAt": "2026-11-16T03:30:18.596Z",
       "source": "AppBank",
