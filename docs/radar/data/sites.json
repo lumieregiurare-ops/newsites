@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-21T03:00:21.573Z",
+  "updatedAt": "2026-11-21T03:30:23.095Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1312,
+  "total": 1313,
   "regions": {
-    "jp": 1022,
+    "jp": 1023,
     "global": 290
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 264
+      "count": 265
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 499
+      "count": 500
     },
     {
       "id": "browser",
@@ -121,16 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "Game*Spark",
     "Inside",
     "AppBank",
-    "電ファミニコゲーマー",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "887a9122a378",
+      "url": "https://event.mecchachameleon.game/teaser",
+      "host": "event.mecchachameleon.game",
+      "region": "jp",
+      "title": "めっちゃカメレオン",
+      "headline": "書店で開催されたリアル『めっちゃカメレオン』が、超”ガチ勢向け”すぎてぜんぜん見つけられなかった。ずっと、ずっと眼の前にいたのに……！ 本屋さん、隠れる場所が多すぎる。",
+      "description": "本屋で、本気のかくれんぼ。書泉グランデ（神保町）の棚やサインに“擬態”したカメレオンを、スマホのカメラで探そう。2026年11月20日（金）〜12月31日（木）開催。1,500円（税込）。",
+      "publishedAt": "2026-11-21T03:00:47.000Z",
+      "addedAt": "2026-11-21T03:30:23.095Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261121h"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://event.mecchachameleon.game/og.png?v=20261119"
+    },
     {
       "id": "5f808a42cb01",
       "url": "https://www.echographgame.com/",
