@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:00:20.863Z",
+  "updatedAt": "2026-11-22T13:30:20.504Z",
   "boards": [
     {
       "id": "steam",
@@ -176,27 +176,27 @@
         },
         {
           "rank": 3,
+          "title": "麻雀ブラスト (Mahjong Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/3f/ac/a93faca7-5a55-6734-ed81-a0231c46f0e0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-mahjong-blast/id6747492600",
+          "metric": "Nebula Studio",
+          "delta": {
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
           "title": "Bus Traffic Fever!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
           "metric": "GOODROID,Inc.",
           "delta": {
             "kind": "up",
-            "label": "+2",
-            "value": 2
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
-          "title": "麻雀ブラスト (Mahjong Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/3f/ac/a93faca7-5a55-6734-ed81-a0231c46f0e0/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-mahjong-blast/id6747492600",
-          "metric": "Nebula Studio",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "label": "+1",
+            "value": 1
           },
           "deltaNote": "前日比"
         },
@@ -215,36 +215,10 @@
         },
         {
           "rank": 6,
-          "title": "Block Out! - Color Sort Puzzle",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/bd/98/abbd98ba-3434-b619-728b-0c491aaf8fc2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
-          "metric": "Grand Games A.Ş.",
-          "delta": {
-            "kind": "up",
-            "label": "+1",
-            "value": 1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 7,
           "title": "Cutie Sort - ねこソート かわいい色分けゲーム",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/24/e4/9c24e4c7-f45e-0b48-e902-79a48fcb2b31/AppIcon-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/cutie-sort-%E3%81%AD%E3%81%93%E3%82%BD%E3%83%BC%E3%83%88-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E8%89%B2%E5%88%86%E3%81%91%E3%82%B2%E3%83%BC%E3%83%A0/id6796547048",
           "metric": "Ladaneta Games",
-          "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
-          "title": "ゴシップハーバー：マージ & ストーリー",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
-          "metric": "Microfun Limited",
           "delta": {
             "kind": "same",
             "label": "–",
@@ -253,28 +227,54 @@
           "deltaNote": "前日比"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "title": "Block Out! - Color Sort Puzzle",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/bd/98/abbd98ba-3434-b619-728b-0c491aaf8fc2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
+          "metric": "Grand Games A.Ş.",
+          "delta": {
+            "kind": "same",
+            "label": "–",
+            "value": 0
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 8,
           "title": "ブロックブラスト (Block Blast)",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/1e/9f/481e9f1d-900d-d4d7-2fab-354ba5f433de/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
           "metric": "Hungry Studio",
           "delta": {
             "kind": "up",
-            "label": "+1",
-            "value": 1
+            "label": "+2",
+            "value": 2
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 9,
+          "title": "ゴシップハーバー：マージ & ストーリー",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/95/09/a7950973-f828-69a3-9d21-4e9c598a596b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
+          "metric": "Microfun Limited",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 10,
-          "title": "Warline: スナイパー",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/da/be/e6dabe74-dc92-76c8-e9ba-a5e6e161b5b2/AppIcon-Global-0-0-1x_U007epad-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194",
-          "metric": "Powerfantasy",
+          "title": "にゃんこ大戦争",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f8/ca/fcf8ca71-9ebe-8cac-f65a-97cc3bb6ebb2/AppIcon-1x_U007epad-0-1-85-220-0.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%81%AB%E3%82%83%E3%82%93%E3%81%93%E5%A4%A7%E6%88%A6%E4%BA%89/id547145938",
+          "metric": "ponos corporation",
           "delta": {
             "kind": "up",
-            "label": "+2",
-            "value": 2
+            "label": "+3",
+            "value": 3
           },
           "deltaNote": "前日比"
         }
