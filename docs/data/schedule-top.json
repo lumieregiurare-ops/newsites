@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T05:30:31.845Z",
+  "updatedAt": "2026-11-22T06:00:33.171Z",
   "platforms": [
     {
       "id": "switch",
@@ -277,6 +277,26 @@
   ],
   "prereg": [
     {
+      "id": "cb60c38a7352",
+      "title": "星溯",
+      "url": "https://space.bilibili.com/3546670734247958",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-22T06:00:03.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "アニメ調ソウルライク『星溯』は戦闘の歯ごたえと育成のしやすさを両立？中国現地メディアのインタビューが公開中―日本未上陸の注目ゲーム3選【2026年11月22日】",
+      "description": "アニメ調ソウルライク『星溯』は戦闘の歯ごたえと育成のしやすさを両立？中国現地メディアのインタビューが公開中―日本未上陸の注目ゲーム3選【2026年11月22日】",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/22/191405.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "904df9541647",
       "title": "チェイシング・カレイドライダー",
       "url": "https://kaleidorider.com/jp/",
@@ -438,29 +458,21 @@
       "sourceUrl": "https://www.4gamer.net/games/058/G105873/20261116022/",
       "appleId": "",
       "trackId": ""
-    },
+    }
+  ],
+  "changes": [
     {
-      "id": "d8de0cb6f5a3",
-      "title": "VIRTUAL CIRCLE",
-      "url": "https://space.bilibili.com/696791303",
+      "at": "2026-11-22T06:00:33.171Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "星溯",
+      "url": "https://space.bilibili.com/3546670734247958",
       "image": "",
       "platforms": [
         "mobile"
       ],
-      "startedAt": "2026-11-15T06:00:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
-      "description": "バーチャルタレントRPG『VIRTUAL CIRCLE』最新PVが1,000万再生超え。ベータテストも募集開始―日本未上陸の注目ゲーム3選【2026年11月15日】",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/11/15/190991.html",
-      "appleId": "",
-      "trackId": ""
-    }
-  ],
-  "changes": [
+      "to": ""
+    },
     {
       "at": "2026-11-20T15:00:37.182Z",
       "type": "new",
@@ -520,16 +532,6 @@
         "mobile"
       ],
       "to": "2026年11月23日"
-    },
-    {
-      "at": "2026-11-20T07:00:31.236Z",
-      "type": "new",
-      "label": "新規",
-      "title": "UT",
-      "url": "https://www.sanrio.co.jp/",
-      "image": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/ogp2022.png",
-      "platforms": [],
-      "to": "2026年11月30日"
     }
   ]
 }

@@ -3511,7 +3511,7 @@
       "entry": null
     },
     "ガデテル": {
-      "at": "2026-11-08T06:00:27.641Z",
+      "at": "2026-11-22T06:00:34.889Z",
       "entry": null
     },
     "ヒロアカUR": {
@@ -4158,6 +4158,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/65/2d/b3652d49-c00c-7f1f-f63e-941eb32ffeef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "星溯": {
+      "at": "2026-11-22T06:00:33.464Z",
+      "entry": null
     }
   },
   "titles": {
@@ -83071,21 +83075,14 @@
       "sortKey": "2026-11-24",
       "prereg": false,
       "firstSeen": "2026-11-22T05:00:32.984Z"
+    },
+    "星溯": {
+      "title": "星溯",
+      "prereg": true,
+      "firstSeen": "2026-11-22T06:00:33.171Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ウチのペット事情",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138338",
-      "image": "https://img-eshop.cdn.nintendo.net/i/92d66c15d343e9eceb4d727f01095593504a34a39b5453a9e5cc32f569e9f0cf.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月12日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -87898,6 +87895,18 @@
         "switch"
       ],
       "to": "2027年3月21日"
+    },
+    {
+      "at": "2026-11-22T06:00:33.171Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "星溯",
+      "url": "https://space.bilibili.com/3546670734247958",
+      "image": "",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
