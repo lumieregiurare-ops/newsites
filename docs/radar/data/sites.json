@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-22T00:00:26.414Z",
+  "updatedAt": "2026-11-22T00:30:26.542Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1328,
+  "total": 1329,
   "regions": {
-    "jp": 1031,
+    "jp": 1032,
     "global": 297
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 126
+      "count": 127
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 365
+      "count": 366
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 517
+      "count": 518
     },
     {
       "id": "browser",
@@ -131,6 +131,39 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "34a56b3af1c2",
+      "url": "https://apps.apple.com/jp/app/id6760698900",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "雨のちハレ女",
+      "headline": "『雨のちハレ女』メインキャラ30人が公開！ 二次創作・配信ガイドラインも制定",
+      "description": "GAME FREAK Inc.の「雨のちハレ女」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「雨のちハレ女」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "addedAt": "2026-11-22T00:30:26.542Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/22/game/3173281.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/25/e3/b425e325-5b4c-cd53-a359-ffe54f56cf09/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "fff42a492218",
       "url": "https://perspect.co.jp/event/PxF/",
@@ -39104,7 +39137,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11212026"
+      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11222026"
     },
     {
       "id": "33c0ff2f4868",
