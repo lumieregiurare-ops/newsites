@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T10:00:18.958Z",
+  "updatedAt": "2026-11-23T10:30:16.671Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1300,
+  "total": 1299,
   "regions": {
-    "jp": 1011,
+    "jp": 1010,
     "global": 289
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 125
+      "count": 124
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 362
+      "count": 361
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 512
+      "count": 511
     },
     {
       "id": "browser",
@@ -12803,6 +12803,39 @@
       ],
       "points": null,
       "image": "https://jammsworks.com/wp-content/uploads/2017/05/icon_1k-150x150.png"
+    },
+    {
+      "id": "195c18e855d7",
+      "url": "https://apps.apple.com/jp/app/id6816685796",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "PYON",
+      "headline": "Hitoshi Imai / アクション・ストラテジー · App Store 新着",
+      "description": "Hitoshi Imaiの「PYON」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「PYON」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "addedAt": "2026-11-23T10:30:16.671Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6816685796"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アクション",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/54/cc/8b54cc85-5e23-2726-c10c-260db58a20e8/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "894e5d5c2593",
@@ -38408,42 +38441,6 @@
       "image": ""
     },
     {
-      "id": "e6ef56a4557d",
-      "url": "https://apps.apple.com/jp/app/id6806924020",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "[7R]ビッグドリーム THE GOLDEN PUSHER",
-      "headline": "Sammy Networks Co., Ltd. / カジノ・エンターテインメント · App Store 新着",
-      "description": "Sammy Networks Co., Ltd.の「[7R]ビッグドリーム THE GOLDEN PUSHER」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[7R]ビッグドリーム …",
-      "publishedAt": "2026-09-24T10:30:19.623Z",
-      "addedAt": "2026-09-24T10:30:15.062Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6806924020"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジノ",
-        "エンターテインメント",
-        "Casino",
-        "MZGenre.Entertainment"
-      ],
-      "categories": [
-        "company",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/e3/03/51e30385-f3d2-a761-0384-83d2dc03aa27/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
       "id": "e81bc3eb6c90",
       "url": "https://shinobi-art-of-vengeance.sega.jp/",
       "host": "shinobi-art-of-vengeance.sega.jp",
@@ -39654,39 +39651,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/17/55/5a175567-c222-9d90-5bad-7e0f2a2b29da/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "d99dead056d4",
-      "url": "https://kurohune538.github.io/pokebuddy/",
-      "host": "kurohune538.github.io",
-      "region": "jp",
-      "title": "PokeBuddy | ポケバディ",
-      "headline": "Shinnosuke Komiya / カード・エンターテインメント · App Store 新着",
-      "description": "PokeBuddy（ポケバディ）の公式サポート、プライバシーポリシー、アカウント削除案内。",
-      "publishedAt": "2026-09-20T07:00:00.000Z",
-      "addedAt": "2026-09-24T10:30:15.062Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6468970638"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カード",
-        "エンターテインメント"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "66d77cdcb0bf",
