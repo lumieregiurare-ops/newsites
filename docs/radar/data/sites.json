@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-23T16:00:22.342Z",
+  "updatedAt": "2026-11-23T16:30:21.175Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1290,
+  "total": 1292,
   "regions": {
-    "jp": 1000,
-    "global": 290
+    "jp": 1001,
+    "global": 291
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 124
+      "count": 126
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 360
+      "count": 362
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 511
+      "count": 513
     },
     {
       "id": "browser",
@@ -2225,6 +2225,40 @@
         "スポーツ"
       ],
       "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "a5adebb154eb",
+      "url": "https://kinginstudio.com/",
+      "host": "kinginstudio.com",
+      "region": "jp",
+      "title": "脱出ゲーム 星空ATM",
+      "headline": "MITSUO IMACHI / トリビア・アドベンチャー · App Store 新着",
+      "description": "KinGin Studioの脱出ゲーム一覧。様々なシチュエーションで楽しめる無料謎解きゲームを配信中。",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-23T16:30:21.175Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6785346096"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "トリビア",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "company",
         "goods"
       ],
       "platforms": [
@@ -10046,6 +10080,38 @@
       ],
       "points": null,
       "image": "https://clockwork-alchemist.com/wp/wp-content/themes/cad-theme/assets/img/ogp.jpg"
+    },
+    {
+      "id": "ee1a59595001",
+      "url": "https://happytapland.com/",
+      "host": "happytapland.com",
+      "region": "global",
+      "title": "Pixelora Flow: 癒しのパズルゲーム",
+      "headline": "HappyTapLand Technology Co., Ltd. / ゲーム · App Store 新着",
+      "description": "HappyTapLand Technology Co., Ltd. / ゲーム · App Store 新着",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "addedAt": "2026-11-23T16:30:21.175Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828679757"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "235d8525792d",
