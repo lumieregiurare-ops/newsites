@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:30:46.099Z",
+  "updatedAt": "2026-11-23T15:00:31.250Z",
   "platforms": [
     {
       "id": "switch",
@@ -39,38 +39,6 @@
     }
   ],
   "releases": [
-    {
-      "id": "89488cb5a382",
-      "title": "18TRIP",
-      "date": "2026-11-23",
-      "dateText": "2026年11月23日",
-      "sortKey": "2026-11-23",
-      "priority": 0,
-      "platforms": [
-        "mobile"
-      ],
-      "url": "https://18trip.jp/",
-      "image": "https://18trip.jp/shared/img/common/og-image.png",
-      "maker": "",
-      "headline": "「18TRIP」，サービス開始2.5周年を記念したキャンペーンを11月23日にスタート。コンダクター4人のソロ曲の制作も決定",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/779/G077989/20261120035/"
-    },
-    {
-      "id": "10dff8dd0abe",
-      "title": "ドラクエ",
-      "date": "2026-11-23",
-      "dateText": "2026年11月23日",
-      "sortKey": "2026-11-23",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.nissin.com/jp/company/",
-      "image": "https://www.nissin.com/assets/images/common/og.png",
-      "maker": "",
-      "headline": "『ドラクエ』の魔王が、日清ラ王とコラボ！「日清マ王 大魔王味噌」11月23日発売―「はぐれメタルブランケット付きセット」や「ゾーマのフタ止めアクスタ」も",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/11/16/191045.html"
-    },
     {
       "id": "6319ae1fdeb4",
       "title": "Phasmophobia",
@@ -273,6 +241,38 @@
       "headline": "EverQuestの現代版「EverQuest Legends」初の拡張パック「Rulers of Kunark」が12月8日にリリース決定",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/993/G099328/20261113018/"
+    },
+    {
+      "id": "9619d7b9b5f7",
+      "title": "A列車で行こう9 PRIME LINE",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.atrain.jp/title/a9pl/",
+      "image": "https://www.atrain.jp/title/a9pl/ogp.jpg",
+      "maker": "",
+      "headline": "「A列車で行こう9 PRIME LINE」，12月10日発売。自由な曲率の線路や最大16両編成，カーブ駅など大幅進化を遂げたA9最新作",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/045/G104504/20260925006/"
+    },
+    {
+      "id": "68de7bbfe85c",
+      "title": "ぼくは航空管制官 エアポートヒーロー 成田 × ANA",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "priority": 0,
+      "platforms": [
+        "switch"
+      ],
+      "url": "https://www.sonicpowered.co.jp/bokukan/nsw/rjaa/",
+      "image": "",
+      "maker": "",
+      "headline": "シリーズ最新作「ぼくは航空管制官 エアポートヒーロー 成田 × ANA」，Switch向けに12月10日リリース",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/047/G104746/20261002045/"
     }
   ],
   "prereg": [
@@ -462,6 +462,53 @@
   ],
   "changes": [
     {
+      "at": "2026-11-23T15:00:31.250Z",
+      "type": "new",
+      "label": "新規",
+      "title": "天地創造 Nintendo Switch 2 Edition アップグレードパス",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000085397",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c3a91e1cda6f33b1462bff9b493637e7e1cc4fe463ed72751bc35e5c0ad296ed.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年1月14日"
+    },
+    {
+      "at": "2026-11-23T15:00:31.250Z",
+      "type": "new",
+      "label": "新規",
+      "title": "天地創造 Nintendo Switch 2 Edition",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000140416",
+      "image": "https://img-eshop.cdn.nintendo.net/i/00f495ef528552883b399163e662041de3101f9facc07f8ded7ebf8fa8bc7857.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年1月14日"
+    },
+    {
+      "at": "2026-11-23T15:00:31.250Z",
+      "type": "new",
+      "label": "新規",
+      "title": "天地創造",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000122270",
+      "image": "https://img-eshop.cdn.nintendo.net/i/b9341feee977b600664a4d43bc077e6f9df0575a5eeec10bfa56b24508dd1ebb.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2027年1月14日"
+    },
+    {
+      "at": "2026-11-23T15:00:31.250Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ドラクエ",
+      "url": "http://suntory.jp/nope",
+      "image": "",
+      "platforms": [],
+      "from": "2026年11月23日",
+      "to": "2026年11月"
+    },
+    {
       "at": "2026-11-22T13:30:32.882Z",
       "type": "new",
       "label": "新規",
@@ -478,54 +525,6 @@
       "title": "星溯",
       "url": "https://space.bilibili.com/3546670734247958",
       "image": "",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-20T15:00:37.182Z",
-      "type": "new",
-      "label": "新規",
-      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.9",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000075630",
-      "image": "https://img-eshop.cdn.nintendo.net/i/7b2976bce3e7d40fd5d305e3c3ee70ea7830cee40d3e5c121fa14d6cdd9e53e3.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2027年3月21日"
-    },
-    {
-      "at": "2026-11-20T15:00:37.182Z",
-      "type": "new",
-      "label": "新規",
-      "title": "『ベイブレードエックス エボバトル』デジタルベイブースター VOL.10",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000075631",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1ad84989953f3576f2556d6fdc785fdb44a68a2275ad113b38a6dcb17cf38f3f.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2027年3月21日"
-    },
-    {
-      "at": "2026-11-20T12:30:43.877Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "チェイシング・カレイドライダー",
-      "url": "https://kaleidorider.com/jp/",
-      "image": "https://kaleidorider.com/img/share_jp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-20T12:00:37.993Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "雨のちハレ女",
-      "url": "https://www.hare-onna.jp/",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
