@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-23T03:00:16.929Z",
+  "updatedAt": "2026-11-23T03:30:16.561Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1316,
+  "total": 1315,
   "regions": {
-    "jp": 1024,
-    "global": 292
+    "jp": 1025,
+    "global": 290
   },
   "categories": [
     {
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 147
+      "count": 146
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 515
+      "count": 516
     },
     {
       "id": "browser",
@@ -112,7 +112,7 @@
     {
       "id": "arcade",
       "label": "アーケード",
-      "count": 15
+      "count": 16
     },
     {
       "id": "vr",
@@ -121,16 +121,48 @@
     }
   ],
   "sources": [
+    "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "AppBank",
     "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "27aa28397fbd",
+      "url": "https://play.google.com/store/apps/details?id=com.twoeexgames.serendy",
+      "host": "play.google.com",
+      "region": "jp",
+      "title": "SERENDY",
+      "headline": "線を閉じるたびにアイドルが現れる！ 陣取りアーケード『SERENDY』が配信開始",
+      "description": "線を引いて陣地を取り、閉じ込められたアイドル7人を救おう。片手で遊べるネオンアーケード！",
+      "publishedAt": "2026-11-23T03:20:00.000Z",
+      "addedAt": "2026-11-23T03:30:16.561Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/23/game/3174708.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "Android"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "mobile",
+        "arcade"
+      ],
+      "points": null,
+      "image": "https://play-lh.googleusercontent.com/oL-exjALYlRfovjtGszpMvYwASJQXtepza3AvZiXRr67gh8r1BEUiX4_3lbJIHdBI45vfBL0VkQBeyD78cos6Q=s0-br30"
+    },
     {
       "id": "56e54efbd567",
       "url": "https://kadokawa-animation.jp/lineup/aria_corto",
@@ -39227,72 +39259,6 @@
       ],
       "points": null,
       "image": "https://game.rakuen-tsuiho.com/share/images/og_3.jpg"
-    },
-    {
-      "id": "374fc0c3061a",
-      "url": "https://www.elosgames.net/",
-      "host": "elosgames.net",
-      "region": "global",
-      "title": "Sagas of Lumin",
-      "headline": "ドラゴンと人間の操作をシームレスに切り替えるアクションRPG『Sagas of Lumin』新映像が公開。空中戦では火炎ブレスを放ち、地上戦ではスキルベースの戦いが展開",
-      "description": "Sagas of Lumin: Ride dragons in a thrilling action RPG adventure. Explore a steampunk-medieval world, battle in the ski…",
-      "publishedAt": "2026-09-24T03:00:00.000Z",
-      "addedAt": "2026-09-24T03:00:17.398Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260924m"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://static1.squarespace.com/static/65509d18544df93addf7c341/t/680a89de4bbb2150bb9ced1c/1745521118647/Sagas+Of+Lumin+-+Logo+Landscape-min.png?format=1500w"
-    },
-    {
-      "id": "f6158e9bee2e",
-      "url": "https://www.konami.com/games/silenthill/townfall/",
-      "host": "konami.com",
-      "region": "global",
-      "title": "サイレントヒル",
-      "headline": "『サイレントヒル』シリーズ最新作『サイレントヒル：タウンフォール』が本日発売！",
-      "description": "『サイレントヒル』シリーズ最新作『サイレントヒル：タウンフォール』が本日発売！",
-      "publishedAt": "2026-09-24T02:55:31.000Z",
-      "addedAt": "2026-09-24T03:00:17.398Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260924n"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/24/172691.html"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/24/188191.html"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/983/G098335/20260924065/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.konami.com/games/silenthill/townfall/s/img/share_img.jpg?v=11232026"
     },
     {
       "id": "4e22a1470b08",
