@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T00:00:16.793Z",
+  "updatedAt": "2026-11-23T00:30:19.302Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1320,
+  "total": 1318,
   "regions": {
-    "jp": 1028,
+    "jp": 1026,
     "global": 292
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 167
+      "count": 168
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 114
+      "count": 115
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 266
+      "count": 267
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 461
+      "count": 459
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 148
+      "count": 147
     }
   ],
   "platforms": [
@@ -82,7 +82,7 @@
     {
       "id": "switch2",
       "label": "Switch 2",
-      "count": 37
+      "count": 36
     },
     {
       "id": "ps",
@@ -117,7 +117,7 @@
     {
       "id": "vr",
       "label": "VR",
-      "count": 7
+      "count": 6
     }
   ],
   "sources": [
@@ -853,6 +853,41 @@
       ],
       "points": null,
       "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdfx8kIZXUFlqZ6qkhhUFNO-6HhxWeq63c2J05gnPTQp8wBVX8P3US7yRK4bFthkezeRAPZzcdF_Jd-BqtZ7LQH7CSSkHgst7SDBfSEQ1Fv6S3xG2obXoqvJDBywR79nL_M8u525zh2rQfAedJLCBbajyZpMAjFcF8fxQTeT4plfJ5qxoEYQlU7jtjm=w16383"
+    },
+    {
+      "id": "08fade7d2b1f",
+      "url": "https://azurpromilia.jp/",
+      "host": "azurpromilia.jp",
+      "region": "jp",
+      "title": "アズールプロミリア",
+      "headline": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
+      "description": "キボと旅するファンタジーワールドRPG『アズールプロミリア』（Azur Promilia）。当サイトでは、登場キャラクターや星霊「キボ」世界観、事前登録情報などの最新情報をお届けします。Manjuu GamesとYostarが日本で共同パ…",
+      "publishedAt": "2026-11-20T13:35:27.000Z",
+      "addedAt": "2026-11-23T00:30:19.302Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/784/G078489/20261120023/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "anniversary",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/poster-C670mzf9.jpg"
     },
     {
       "id": "ba5b922a6d3a",
@@ -39318,93 +39353,6 @@
       ],
       "points": null,
       "image": "https://miracle-match.com/image/new_ogp.png"
-    },
-    {
-      "id": "0e395f5b806b",
-      "url": "https://www.pokemontcgpocket.com/ja/",
-      "host": "pokemontcgpocket.com",
-      "region": "jp",
-      "title": "ポケポケ",
-      "headline": "『ポケポケ』最新情報が9月24日22時に公開！予告映像では歴代パックを振り返り…新たな「ハイクラスパックex」登場か",
-      "description": "『Pokémon Trading Card Game Pocket（ポケポケ）』は、「ポケモンカード」を手軽にコレクションできるアプリ。拡張パックを毎日2パック無料で開封して、スマートフォンでポケモンカードを楽しもう！",
-      "publishedAt": "2026-09-24T00:20:42.000Z",
-      "addedAt": "2026-09-24T00:30:17.522Z",
-      "source": "Inside",
-      "sources": [
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/24/188168.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://www.pokemontcgpocket.com/assets/img/ja/ogp.png"
-    },
-    {
-      "id": "1babe8bb6a1c",
-      "url": "https://www.oculus.com/quest/",
-      "host": "oculus.com",
-      "region": "jp",
-      "title": "Meta VR Glasses",
-      "headline": "大幅に軽くなり，メガネのようにかけられるVR HMD「Meta VR Glasses」発表。発売時期は2027年春の予定",
-      "description": "大幅に軽くなり，メガネのようにかけられるVR HMD「Meta VR Glasses」発表。発売時期は2027年春の予定",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "addedAt": "2026-09-24T00:30:17.522Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/436/G043602/20260923003/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "vr"
-      ],
-      "points": null,
-      "image": ""
-    },
-    {
-      "id": "411b1f32241a",
-      "url": "https://www.gameaddict.co.jp/derbystallion2/",
-      "host": "gameaddict.co.jp",
-      "region": "jp",
-      "title": "ダービースタリオン２",
-      "headline": "競走馬育成シミュレーションゲーム 『ダービースタリオン２』がNintendo Switch 2で本日9月24日に発売。配合と育成を繰り返して、自分だけの競走馬と血統を築いていくシ…",
-      "description": "『その血統が、歴史を変える』 「ダービースタリオン２」は、牧場オーナーとなって競走馬を生産・育成し、レースに挑みながら、最高のサラブレッドを作り出すことを目指す競走馬育成シミュレーションです。 配合・生産、育成、調教、出走、そして繁殖入り…",
-      "publishedAt": "2026-09-23T23:59:04.000Z",
-      "addedAt": "2026-09-24T00:00:19.699Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260924g"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "switch2"
-      ],
-      "points": null,
-      "image": "https://www.gameaddict.co.jp/derbystallion2/assets/images/section01/img_section01_youtube.webp"
     },
     {
       "id": "4e22a1470b08",
