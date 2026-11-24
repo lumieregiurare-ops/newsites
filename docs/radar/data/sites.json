@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-24T05:30:23.140Z",
+  "updatedAt": "2026-11-24T06:00:20.036Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1268,
+  "total": 1269,
   "regions": {
     "jp": 988,
-    "global": 280
+    "global": 281
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 52
+      "count": 53
     },
     {
       "id": "prereg",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 209
+      "count": 210
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 143
+      "count": 142
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 489
+      "count": 490
     },
     {
       "id": "browser",
@@ -131,6 +131,66 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "c71e8b9d82b1",
+      "url": "https://www.mahjong-jp.com/home",
+      "host": "mahjong-jp.com",
+      "region": "jp",
+      "title": "麻雀一番街",
+      "headline": "「麻雀一番街」×「逆転無頼カイジ 破戒録篇」，コラボを12月1日から開催。コラボ限定雀士「伊藤開司」（CV：萩原聖人）の情報も公開",
+      "description": "「麻雀一番街」×「逆転無頼カイジ 破戒録篇」，コラボを12月1日から開催。コラボ限定雀士「伊藤開司」（CV：萩原聖人）の情報も公開",
+      "publishedAt": "2026-11-24T05:57:49.000Z",
+      "addedAt": "2026-11-24T06:00:20.036Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/607/G060708/20261124019/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "08d76d916e10",
+      "url": "https://videogamesfrompoland.com/",
+      "host": "videogamesfrompoland.com",
+      "region": "global",
+      "title": "Polish Video Game Trail",
+      "headline": "ポーランドでゲームキャラの銅像巡り。「Polish Video Game Trail」が始動。第1号は「Darkwood」，今後は「Dying Light」など",
+      "description": "Z Polski do miliona światów to immersyjny, multimedialny pokaz, prowadzący przez kilkanaście unikalnych przestrzeni stw…",
+      "publishedAt": "2026-11-24T05:57:04.000Z",
+      "addedAt": "2026-11-24T06:00:20.036Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999905/20261124021/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d0bb23f1c682",
       "url": "https://blastheim.com/",
@@ -263,6 +323,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611242d"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106069/20261124020/"
         }
       ],
       "tags": [
@@ -38068,33 +38132,6 @@
       "platforms": [],
       "points": null,
       "image": ""
-    },
-    {
-      "id": "aeea0a586370",
-      "url": "https://www.marathonthegame.com/ja/",
-      "host": "marathonthegame.com",
-      "region": "jp",
-      "title": "Marathon",
-      "headline": "「Marathon」が開発方針を大幅変更。シーズン制を見直し，常設PvEや新シェル「Bishop」など2027年前半までのロードマップを公開",
-      "description": "『Halo』と『Destiny』を開発したBungieが手がける、新しいチーム制の脱出シューター『Marathon』。",
-      "publishedAt": "2026-09-25T05:54:50.000Z",
-      "addedAt": "2026-09-25T06:00:16.806Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/709/G070952/20260925020/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://images.contentstack.io/v3/assets/blt15f7b5c0d43ed112/blt8a17f36418f01d7c/698f05439546730008163284/1200x630_SEO.png?width=1200&quality=80&auto=webp&height=630&format=jpg&fit=crop"
     },
     {
       "id": "8a69d59cf6e6",
