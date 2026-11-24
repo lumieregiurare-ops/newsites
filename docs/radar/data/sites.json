@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T11:00:17.010Z",
+  "updatedAt": "2026-11-24T11:30:20.167Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1275,
+  "total": 1272,
   "regions": {
-    "jp": 992,
-    "global": 283
+    "jp": 991,
+    "global": 281
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 113
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 208
+      "count": 207
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 260
+      "count": 259
     },
     {
       "id": "release",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 336
+      "count": 335
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 143
+      "count": 142
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 494
+      "count": 492
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -131,6 +131,34 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "4cb2d76e6445",
+      "url": "https://www.ichijinsha.co.jp/",
+      "host": "ichijinsha.co.jp",
+      "region": "jp",
+      "title": "かるび、もまれる。",
+      "headline": "VTuber・赤見かるび（CV：ファイルーズあい）の「かるび、もまれる。」第1巻発売記念PVが公開！炎上・ギャンブルから再起を狙う「労働コメディー」",
+      "description": "一迅社公式サイト総合トップページ。一迅社の雑誌、書籍、コミックなど全ての出版物に関する情報や各サイトへアクセスできます。",
+      "publishedAt": "2026-11-24T11:20:02.000Z",
+      "addedAt": "2026-11-24T11:30:20.167Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/24/191496.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "82042e690e0b",
       "url": "https://hothukurou.com/game/Marukunare/index.html",
@@ -262,6 +290,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/954/G095477/20261124034/"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/24/191495.html"
         }
       ],
       "tags": [
@@ -38121,93 +38153,6 @@
       "image": "https://pjsekai.sega.jp/6th/assets/webp/common/ogp_v1.webp"
     },
     {
-      "id": "e18ba1e475f3",
-      "url": "https://nightdivestudios.com/",
-      "host": "nightdivestudios.com",
-      "region": "global",
-      "title": "SiN Reloaded",
-      "headline": "名作レトロFPSのフルリマスター版「SiN Reloaded」配信開始。FPSジャンルの黎明期にあたる1998年に登場したゲームが最新グラフィックスで蘇る",
-      "description": "名作レトロFPSのフルリマスター版「SiN Reloaded」配信開始。FPSジャンルの黎明期にあたる1998年に登場したゲームが最新グラフィックスで蘇る",
-      "publishedAt": "2026-09-25T11:24:28.000Z",
-      "addedAt": "2026-09-25T11:30:19.104Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/045/G104542/20260925045/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
-      "id": "451e5e7ea86d",
-      "url": "https://nolawthegame.com/",
-      "host": "nolawthegame.com",
-      "region": "jp",
-      "title": "NO LAW",
-      "headline": "サイバーノワールシューター「NO LAW」，ゲームの自由度の高さにフォーカスした開発者動画を公開",
-      "description": "NO LAWは、プレイヤーの選択がゲームプレイとノンリニアな物語の両方に影響を与える、没入型一人称視点シューティングゲーム。手がかりを追い、標的を見つけ出し、ポートデザイアで復讐を果たせ。",
-      "publishedAt": "2026-09-25T10:52:16.000Z",
-      "addedAt": "2026-09-25T11:00:19.199Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/968/G096874/20260925042/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://wstatic-prod.nolawthegame.com/web/live/static/og/img-og-nolaw.jpg"
-    },
-    {
-      "id": "325395719b22",
-      "url": "https://granbluefantasy.jp/",
-      "host": "granbluefantasy.jp",
-      "region": "jp",
-      "title": "グラブルフェス2026",
-      "headline": "グラブルの大型オフラインイベント「グラブルフェス2026」の公式サイトが公開に。各種チケットの先行抽選受付は9月26日12：00にスタート",
-      "description": "空の彼方、約束の地へ− 想像を超えるクオリティではじまる本格RPG『グランブルーファンタジー』の公式サイトです。",
-      "publishedAt": "2026-09-25T10:32:51.000Z",
-      "addedAt": "2026-09-25T11:00:19.199Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/238/G023885/20260925039/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "event",
-        "campaign"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://granbluefantasy.com/og/img/path/ogp.png"
-    },
-    {
       "id": "9052de957052",
       "url": "https://goblinruntgames.com/",
       "host": "goblinruntgames.com",
@@ -38930,39 +38875,6 @@
       ],
       "points": null,
       "image": "https://sophiechat-ai.go-spiral.ai/assets/ogp/ogp_1200x630.jpg"
-    },
-    {
-      "id": "1fef999b6d04",
-      "url": "https://www.thqnordicmobile.com/games/disney-epic-mickey-rebrushed/",
-      "host": "thqnordicmobile.com",
-      "region": "global",
-      "title": "Disney Epic Mickey: Rebrushed",
-      "headline": "THQ Nordic Mobile GmbH / アドベンチャー・アクション · App Store 新着",
-      "description": "Disney Epic Mickey: Rebrushed brings Disney magic to life in a vibrant 3D platformer. Use paint and thinner to shape Mi…",
-      "publishedAt": "2026-09-16T07:00:00.000Z",
-      "addedAt": "2026-09-25T11:30:19.104Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6780501808"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "アドベンチャー",
-        "アクション"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": ""
     },
     {
       "id": "40d20f49aa9a",
