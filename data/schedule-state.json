@@ -1438,7 +1438,7 @@
       "entry": null
     },
     "NARUTO": {
-      "at": "2026-11-21T08:30:30.811Z",
+      "at": "2026-11-24T08:30:35.749Z",
       "entry": {
         "trackId": "6745006459",
         "title": "NARUTO－ナルト－ ナルティメットストーム+",
@@ -2369,20 +2369,20 @@
       "entry": null
     },
     "リネージュ": {
-      "at": "2026-11-21T08:30:29.254Z",
+      "at": "2026-11-24T08:30:34.226Z",
       "entry": {
-        "trackId": "1193135691",
-        "title": "リネージュ2 レボリューション",
-        "artist": "Netmarble Corporation",
+        "trackId": "1538379462",
+        "title": "リネージュ2M（Lineage2M）",
+        "artist": "NC Corp.",
         "genres": [
-          "ロールプレイング",
-          "アクション"
+          "アクション",
+          "ロールプレイング"
         ],
-        "releaseDate": "2017-08-22T01:29:50Z",
+        "releaseDate": "2021-03-22T07:00:00Z",
         "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id1193135691",
-        "sellerUrl": "https://l2.netmarble.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/de/64/83de649d-8416-e501-8fdc-9f9a020517c2/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "storeUrl": "https://apps.apple.com/jp/app/id1538379462",
+        "sellerUrl": "",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/48/a3/5e48a3c7-9bb2-c3a1-efdb-2cf9ea7e72b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -4201,6 +4201,25 @@
         "storeUrl": "https://apps.apple.com/jp/app/id1578816591",
         "sellerUrl": "",
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/53/3d/6b533d0f-e153-1651-8525-8a993d9df776/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
+    },
+    "パチスロ かぐや様は告らせたい": {
+      "at": "2026-11-24T08:30:32.833Z",
+      "entry": {
+        "trackId": "6747757142",
+        "title": "パチスロ かぐや様は告らせたい",
+        "artist": "CommSeed Corporation",
+        "genres": [
+          "シミュレーション",
+          "カジノ",
+          "エンターテインメント"
+        ],
+        "releaseDate": "2025-10-14T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6747757142",
+        "sellerUrl": "https://app.commseed.net/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/22/b7/0922b753-4c8a-975a-d0e2-f91e09c94ebc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     }
@@ -84137,21 +84156,33 @@
       "sortKey": "2026-11-25",
       "prereg": false,
       "firstSeen": "2026-11-24T08:00:35.121Z"
+    },
+    "パチスロかぐや様は告らせたい": {
+      "title": "パチスロ かぐや様は告らせたい",
+      "dateText": "2026年11月24日",
+      "date": "2026-11-24",
+      "sortKey": "2026-11-24",
+      "prereg": false,
+      "firstSeen": "2026-11-24T08:30:32.546Z"
+    },
+    "noroadhome": {
+      "title": "No Road Home",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-24T08:30:32.546Z"
+    },
+    "dreadwinter": {
+      "title": "Dreadwinter",
+      "dateText": "2026年11月27日",
+      "date": "2026-11-27",
+      "sortKey": "2026-11-27",
+      "prereg": false,
+      "firstSeen": "2026-11-24T08:30:32.546Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "SUPERやのまんCOLLECTION",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041261",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1604a0af3f84e6f24868a56963688b07fcb1ef34e383f819c2c27bfc193c5e1c.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -88967,6 +88998,18 @@
       ],
       "from": "2026年11月24日",
       "to": "2026年11月"
+    },
+    {
+      "at": "2026-11-24T08:30:32.546Z",
+      "type": "new",
+      "label": "新規",
+      "title": "パチスロ かぐや様は告らせたい",
+      "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0212",
+      "image": "https://play-lh.googleusercontent.com/r8zjBbgtk8jKGML30oMSe6nJfU8bbebIc4MqTC3qkvs4KK4H3W3Qqg_DlOgIqekPnWGyG0NN65FxmemxTrqQEg=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年11月24日"
     }
   ],
   "initialized": true,
