@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-24T19:00:19.692Z",
+  "updatedAt": "2026-11-24T19:30:22.435Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1260,
+  "total": 1261,
   "regions": {
-    "jp": 985,
+    "jp": 986,
     "global": 275
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 127
+      "count": 128
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 324
+      "count": 325
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 482
+      "count": 483
     },
     {
       "id": "browser",
@@ -121,16 +121,50 @@
     }
   ],
   "sources": [
+    "App Store",
     "Game*Spark",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
-    "App Store",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "a8db3dd2dfa2",
+      "url": "https://keroro-game.com/",
+      "host": "keroro-game.com",
+      "region": "jp",
+      "title": "ケロロ軍曹 ぽちっと大出動であります！",
+      "headline": "G HOLDINGS CO., LTD. / ストラテジー・カジュアル · App Store 新着",
+      "description": "ケロロ軍曹☆ ぽちっと大出動であります！【公式サイト】です。",
+      "publishedAt": "2026-11-24T19:30:29.063Z",
+      "addedAt": "2026-11-24T19:30:22.435Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6805005476"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "92d70d5bd328",
       "url": "https://apps.apple.com/jp/app/id6766267906",
