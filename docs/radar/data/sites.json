@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:00:20.036Z",
+  "updatedAt": "2026-11-24T06:30:21.341Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 210
+      "count": 209
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 449
+      "count": 448
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 337
+      "count": 338
     },
     {
       "id": "official",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "App Store",
     "Inside",
     "Game*Spark",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "00add27c48ee",
+      "url": "https://suikagame.jp/",
+      "host": "suikagame.jp",
+      "region": "jp",
+      "title": "スイカゲーム",
+      "headline": "『スイカゲーム』フルーツたちの“相関図”が公開され話題に。「相関図とかいう概念あったんだ…」「擬人化されそう」など反応相次ぐ",
+      "description": "Aladdin Xが提供するスイカゲームの公式サイトです。ゲームの更新情報・公式グッズなどの最新情報をお届けします！",
+      "publishedAt": "2026-11-24T06:03:28.000Z",
+      "addedAt": "2026-11-24T06:30:21.341Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611242g"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://suikagame.jp/wp/wp-content/themes/suikagame.jp/assets/icons/ogp.jpg"
+    },
     {
       "id": "c71e8b9d82b1",
       "url": "https://www.mahjong-jp.com/home",
@@ -38104,34 +38131,6 @@
       ],
       "points": null,
       "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uQMHvAPqXrHcgq3WMu5LiOLuY6oV3gL2ZzFsDgHDGGoiHhqHXIV3dvlBA1fiGlayeAV21b92vqkdxgxnAqdZERrUiVcCgYq7UzPLcOSuTwFu7XyeT0uy-J2G1ODj4OMBGid9wT20Vjy4itySa7xx4mMABSMtnlE1tuQSemUq2RBzQVZLwJ-PXNg5bVo2sKOQAALMfBFNTos2pLSLWevko2rB2mT8b5wjQNNGE4S_nBV64=w1200-h630-p-k-no-nu"
-    },
-    {
-      "id": "a1190e19c51b",
-      "url": "https://heroaca.com/",
-      "host": "heroaca.com",
-      "region": "jp",
-      "title": "ヒロアカ",
-      "headline": "アニメ『ヒロアカ』と日清「どん兵衛」「焼そばU.F.O.」とのコラボが決定。総勢50人のキャラでデザインした、全33種の限定パッケージが発売",
-      "description": "アニメ『ヒロアカ』と日清「どん兵衛」「焼そばU.F.O.」とのコラボが決定。総勢50人のキャラでデザインした、全33種の限定パッケージが発売",
-      "publishedAt": "2026-09-25T06:02:27.000Z",
-      "addedAt": "2026-09-25T06:30:15.007Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609252i"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "campaign",
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
     },
     {
       "id": "8a69d59cf6e6",
