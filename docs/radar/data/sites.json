@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:30:22.478Z",
+  "updatedAt": "2026-11-24T16:00:29.116Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 111
+      "count": 112
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 450
+      "count": 451
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 127
+      "count": 128
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 142
+      "count": 141
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 494
+      "count": 495
     },
     {
       "id": "browser",
@@ -131,6 +131,40 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "92d70d5bd328",
+      "url": "https://apps.apple.com/jp/app/id6766267906",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Tiny Bookshop",
+      "headline": "100万本突破！「圧倒的に好評」多数の実在書籍登場の移動型古書店経営シム『Tiny Bookshop』新エリア・カスタマイズ・クエスト追加のDLC「Arts and Crafts…",
+      "description": "Skystone Games Inc.の「Tiny Bookshop Mobile」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Tiny Bookshop Mobile」に似たゲー…",
+      "publishedAt": "2026-11-24T16:00:03.000Z",
+      "addedAt": "2026-11-24T16:00:29.116Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175267.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "anniversary",
+        "company"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/39/2b/ad392be5-b902-5b6e-a44e-cbcc956490b6/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "f3b22c9a6887",
       "url": "https://www.dospara.co.jp/event/pc-device-set.html?srsltid=AYCX9vKgla1nyprF6V3JfUbBC81-xycJzVnyg5yJ3CVYGYUweNLgHJ0L",
@@ -5784,7 +5818,7 @@
       "region": "jp",
       "title": "メルカリ",
       "headline": "「メルカリ」「駿河屋」が米国に合弁会社「Mercari Surugaya Inc.」の設立を発表。日本発のエンタメ・ホビー商品の買取・仕入れおよび販売を行う",
-      "description": "「メルカリ」「駿河屋」が米国に合弁会社「Mercari Surugaya Inc.」の設立を発表。日本発のエンタメ・ホビー商品の買取・仕入れおよび販売を行う",
+      "description": "株式会社メルカリのコーポレートサイトは現在サイトメンテナンスを実施しています。",
       "publishedAt": "2026-11-16T11:52:27.000Z",
       "addedAt": "2026-11-16T12:00:14.844Z",
       "source": "電ファミニコゲーマー",
@@ -7737,33 +7771,6 @@
       "platforms": [],
       "points": null,
       "image": "https://yokohama-landmark.jp/lp/winterholiday2026/img/ogimage.jpg"
-    },
-    {
-      "id": "a7ebccfc67af",
-      "url": "https://kaze-tsugu.com/",
-      "host": "kaze-tsugu.com",
-      "region": "jp",
-      "title": "風を継ぐもの",
-      "headline": "「Live2D技術」を用いた新選組アニメ『風を継ぐもの』TV版キービジュアルが解禁。U-NEXTほかでの配信も決定",
-      "description": "「Live2D技術」を用いた新選組アニメ『風を継ぐもの』TV版キービジュアルが解禁。U-NEXTほかでの配信も決定",
-      "publishedAt": "2026-11-13T08:20:54.000Z",
-      "addedAt": "2026-11-15T11:30:18.207Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2611132j"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
     },
     {
       "id": "941ce9dfaf84",
@@ -11516,7 +11523,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/33/47/77334726-c38f-9fa1-11ed-985a133dbd1f/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/96/fd/fc96fde9-ca66-0b30-4bfd-296d5b63ba09/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "8e9e48e0eacd",
@@ -22428,7 +22435,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdVuJ-_uW6gTY5lQ8Je_BRWarNuDtXRkmIo2UD4u1prwOohIWc2792zkWSGXGWhPF_snGArpWtuo5jordniDnwcJwqaqmMPQ-ADpiNwDZUfH5l1ItibR6_PLrSt27dwdFiQjd2SRGk0_YkJeAHbtmAWRdejJiAR1eYFQ477q9q9HbohuySSaZDhfAwcFGY=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdMXE1E3DhVL08JITGchd8D-S7fqk6JlsTV6wAuJwX_LkjpXQG-8j6kcqCC9c7Lz245eidUSN1FyMskkTjc1FxJGe3hOBtkVdJU1XIBR9rCFTFj0oWLoVCiczVFWjEHmvBAME2dEGHYdBlUF3FSOfrW3Dil_xthzB6li8ZeP47g6mp2jLU6Ig1Ijr4mKeI=w16383"
     },
     {
       "id": "41b1b683c8f0",
