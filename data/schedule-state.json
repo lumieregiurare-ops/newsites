@@ -1375,7 +1375,7 @@
       }
     },
     "モンハンアウトランダーズ": {
-      "at": "2026-11-10T03:00:33.598Z",
+      "at": "2026-11-24T03:01:08.347Z",
       "entry": null
     },
     "Spellvoc": {
@@ -83968,21 +83968,25 @@
       "sortKey": "2026-11-26",
       "prereg": false,
       "firstSeen": "2026-11-24T02:00:39.060Z"
+    },
+    "incrementalpainprofit-supportpack": {
+      "title": "Incremental Pain Profit - Support Pack",
+      "dateText": "2026年11月24日",
+      "date": "2026-11-24",
+      "sortKey": "2026-11-24",
+      "prereg": false,
+      "firstSeen": "2026-11-24T03:01:07.957Z"
+    },
+    "odinq:valkyrie’scall": {
+      "title": "ODIN Q: VALKYRIE’S CALL",
+      "dateText": "2027年1月26日",
+      "date": "2027-01-26",
+      "sortKey": "2027-01-26",
+      "prereg": false,
+      "firstSeen": "2026-11-24T03:01:07.957Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "楽園追放 -The Stellar Angel-",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000129857",
-      "image": "https://img-eshop.cdn.nintendo.net/i/789d603cd1b62a50ed55e3e0d874c5bf1099ee2956a3cbf0363a2a3db04d6064.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年11月26日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -88797,6 +88801,16 @@
       ],
       "from": "2027年2月16日",
       "to": "2027年2月4日"
+    },
+    {
+      "at": "2026-11-24T03:01:07.957Z",
+      "type": "new",
+      "label": "新規",
+      "title": "ODIN Q: VALKYRIE’S CALL",
+      "url": "https://odinq.kakaogames.com/",
+      "image": "https://odinq.kakaogames.com/og-image.jpg",
+      "platforms": [],
+      "to": "2027年1月26日"
     }
   ],
   "initialized": true,
