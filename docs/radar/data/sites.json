@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T12:30:20.024Z",
+  "updatedAt": "2026-11-24T13:00:18.056Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1268,
+  "total": 1271,
   "regions": {
-    "jp": 988,
-    "global": 280
+    "jp": 990,
+    "global": 281
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 258
+      "count": 259
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 125
+      "count": 127
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 334
+      "count": 336
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 491
+      "count": 493
     },
     {
       "id": "browser",
@@ -121,16 +121,75 @@
     }
   ],
   "sources": [
+    "AppBank",
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
-    "AppBank",
     "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "2ef70e394429",
+      "url": "https://apps.apple.com/jp/app/id6809661429",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "MimicFit",
+      "headline": "顔を映さない表情筋トレーニングアプリ『MimicFit』がiPhone向けに公開！ 3Dアバターで1日3分から",
+      "description": "VNL Works Inc.の「MimicFit」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「MimicFit」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-24T12:25:00.000Z",
+      "addedAt": "2026-11-24T13:00:18.056Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/24/game/3176326.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/c9/91/b1c9912b-3277-1280-3089-647f02ad043c/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "b4e8953d4531",
+      "url": "https://www.evojapan.gg/",
+      "host": "evojapan.gg",
+      "region": "jp",
+      "title": "スト6",
+      "headline": "『スト6』『鉄拳8』など「EVO Japan 2027」のメインタイトル全7作品が発表。4月29日～5月1日に東京ビッグサイトで開催",
+      "description": "『EVO Japan 2027』@TOKYO BIG SIGHT 2027.4.29-5.1 |『さぁ、熱狂の中心地へ』日本最大の格闘ゲームの祭典、開催情報、観戦やエントリー応募の情報を掲載しています。",
+      "publishedAt": "2026-11-24T12:21:58.000Z",
+      "addedAt": "2026-11-24T13:00:18.056Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611243c"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.evojapan.gg/ogp-2027.jpg"
+    },
     {
       "id": "4cb2d76e6445",
       "url": "https://www.ichijinsha.co.jp/",
@@ -3137,6 +3196,40 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "b64bca925639",
+      "url": "https://www.beekgamestudio.com/",
+      "host": "beekgamestudio.com",
+      "region": "global",
+      "title": "Fresh Today: Cozy Supermarket",
+      "headline": "Emre Beyoglu / シミュレーション・カジュアル · App Store 新着",
+      "description": "Beek Game Studio; Deli Days, Latte Days ve Geode Pop gibi rahatlatıcı cozy simülasyonlar ile App Store ve Google Play",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "addedAt": "2026-11-24T13:00:18.056Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836499974"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "シミュレーション",
+        "カジュアル"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://static.wixstatic.com/media/ab2c6e_a3ffe271bbbb496994de0ae757ec547a%7Emv2.png/v1/fit/w_2500,h_1330,al_c/ab2c6e_a3ffe271bbbb496994de0ae757ec547a%7Emv2.png"
     },
     {
       "id": "92b656b80143",
