@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T07:30:17.611Z",
+  "updatedAt": "2026-11-24T08:00:20.891Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1270,
+  "total": 1271,
   "regions": {
-    "jp": 989,
-    "global": 281
+    "jp": 988,
+    "global": 283
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 163
     },
     {
       "id": "anniversary",
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 210
+      "count": 209
     },
     {
       "id": "event",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 26
+      "count": 27
     },
     {
       "id": "company",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 28
+      "count": 27
     },
     {
       "id": "switch2",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 36
+      "count": 35
     },
     {
       "id": "xbox",
@@ -107,7 +107,7 @@
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "arcade",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
+    "Inside",
     "AppBank",
     "App Store",
     "Game*Spark",
@@ -131,6 +131,89 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "d0cb9bac913a",
+      "url": "https://www.mary.co.jp/mary/",
+      "host": "mary.co.jp",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "『ポケモン』のバレンタイン専用商品が12月23日より予約開始。ルギアやホウオウなど、ジョウト地方ならではのポケモンたちが勢ぞろい",
+      "description": "日本を代表する高級チョコレートメーカーのメリーチョコレート公式サイト。メリーチョコレートにはチョコレートを始め、マロングラッセ、クッキー（焼き菓子）、ケーキ、その他洋菓子など魅力あふれるスイーツがいっぱいです。メリーチョコレートは全国各地…",
+      "publishedAt": "2026-11-24T07:48:04.000Z",
+      "addedAt": "2026-11-24T08:00:20.891Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611242r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.mary.co.jp/mary/images/ogp.png"
+    },
+    {
+      "id": "78319cb4bce9",
+      "url": "https://tuyoki.itch.io/of-the-world",
+      "host": "tuyoki.itch.io",
+      "region": "global",
+      "title": "UNDERTALE",
+      "headline": "「UNDERTALE」のメインアーティスト・Temmie氏が手掛けるアクションADV「Of The World」が公開に",
+      "description": "Play in your browser",
+      "publishedAt": "2026-11-24T07:47:47.000Z",
+      "addedAt": "2026-11-24T08:00:20.891Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106087/20261124027/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "browser"
+      ],
+      "points": null,
+      "image": "https://img.itch.zone/aW1nLzI5NzA1OTMzLnBuZw==/original/l%2B0rlf.png"
+    },
+    {
+      "id": "411c79369f27",
+      "url": "https://lual.games/eldritchempathy/",
+      "host": "lual.games",
+      "region": "global",
+      "title": "Eldritch Empathy",
+      "headline": "異形の怪物たちの言語や感情を読み解くクトゥルフ系パズルADV「Eldritch Empathy」，2027年リリース。共感と暴力の狭間で人としての正気を保てるか",
+      "description": "異形の怪物たちの言語や感情を読み解くクトゥルフ系パズルADV「Eldritch Empathy」，2027年リリース。共感と暴力の狭間で人としての正気を保てるか",
+      "publishedAt": "2026-11-24T07:46:43.000Z",
+      "addedAt": "2026-11-24T08:00:20.891Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106082/20261124028/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "d20c2f3213f0",
       "url": "https://www.capcom.co.jp/amusement/streetfighter6-hololive-3/",
@@ -38012,79 +38095,6 @@
       ],
       "points": null,
       "image": "https://rpg.jp/resources/img/ogp.jpg"
-    },
-    {
-      "id": "a7d25edb03ae",
-      "url": "https://indietechgames.neoscorp.jp/sulfur/index.html",
-      "host": "indietechgames.neoscorp.jp",
-      "region": "jp",
-      "title": "SULFUR",
-      "headline": "死んだら“全ロス”するアクションゲーム『SULFUR』Nintendo Switch、PS5向けパッケージ版が2027年3月11日に発売。全国の販売店にて本日9月25日より予約開始",
-      "description": "敵を出し抜き、宝を手に入れ、武器を強くしながら進むアクションアドベンチャーのインディゲーム『サルファー（SULFUR）』。世界をくまなく探索し、物語の結末へとたどり着こう。",
-      "publishedAt": "2026-09-25T07:17:06.000Z",
-      "addedAt": "2026-09-25T07:30:19.130Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609252l"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "prereg",
-        "release"
-      ],
-      "platforms": [
-        "switch",
-        "ps"
-      ],
-      "points": null,
-      "image": "https://indietechgames.neoscorp.jp/sulfur/images/ogp.jpg"
-    },
-    {
-      "id": "2e5b52d8b4cb",
-      "url": "https://avarebirth.pmang.jp/",
-      "host": "avarebirth.pmang.jp",
-      "region": "jp",
-      "title": "AVA",
-      "headline": "無料オンラインFPS『AVA』の続編『AVA RE:BIRTH』の事前登録とCBT募集が開始。新トレーラーや「キャラクター名先行取得キャンペーン」も解禁",
-      "description": "基本プレイ無料オンラインFPSゲーム「AVA RE:BIRTH」",
-      "publishedAt": "2026-09-25T07:05:44.000Z",
-      "addedAt": "2026-09-25T07:30:19.130Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609252k"
-        },
-        {
-          "name": "AppBank",
-          "url": "https://www.appbank.net/2026/09/28/game/3116838.php"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/10/12/173499.html"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/030/G103096/20261023031/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "特設サイト",
-        "事前登録"
-      ],
-      "categories": [
-        "campaign",
-        "prereg"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://avarebirth.pmang.jp/opengraph-image.jpg?opengraph-image.26bzs9o5win_j.jpg"
     },
     {
       "id": "9052de957052",

@@ -1356,7 +1356,7 @@
       "entry": null
     },
     "スライドブロックde懸賞": {
-      "at": "2026-11-21T07:30:47.232Z",
+      "at": "2026-11-24T08:00:38.293Z",
       "entry": {
         "trackId": "6803351936",
         "title": "スライドブロックde懸賞 - パズルde懸賞(公式)",
@@ -1502,7 +1502,7 @@
       }
     },
     "ソリティア世界旅行": {
-      "at": "2026-11-21T07:30:45.910Z",
+      "at": "2026-11-24T08:00:36.944Z",
       "entry": {
         "trackId": "6792692437",
         "title": "ソリティア世界旅行 - 旅するクロンダイク",
@@ -2214,7 +2214,7 @@
       }
     },
     "Nientum": {
-      "at": "2026-11-21T07:30:44.472Z",
+      "at": "2026-11-24T08:00:35.450Z",
       "entry": {
         "trackId": "6757788137",
         "title": "Nientum - Op.ZERO",
@@ -53415,10 +53415,10 @@
     },
     "ヤンキーサバイバー転生したら平成ヤンキーだった件": {
       "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "dateText": "2026年11月24日",
-      "date": "2026-11-24",
-      "sortKey": "2026-11-24",
-      "prereg": true,
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
+      "prereg": false,
       "firstSeen": "2026-10-30T08:30:35.408Z"
     },
     "bellusparty": {
@@ -84121,21 +84121,25 @@
       "sortKey": "2026-11-25",
       "prereg": false,
       "firstSeen": "2026-11-24T07:30:30.294Z"
+    },
+    "sos:shouldistayorshouldihit": {
+      "title": "SOS :Should I Stay or Should I Hit",
+      "dateText": "2026年11月25日",
+      "date": "2026-11-25",
+      "sortKey": "2026-11-25",
+      "prereg": false,
+      "firstSeen": "2026-11-24T08:00:35.121Z"
+    },
+    "thelastembrace:bookone-officialwalkthrough": {
+      "title": "The Last Embrace: Book One - Official Walkthrough",
+      "dateText": "2026年11月25日",
+      "date": "2026-11-25",
+      "sortKey": "2026-11-25",
+      "prereg": false,
+      "firstSeen": "2026-11-24T08:00:35.121Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "大悪逆令嬢 ストラテジーオブリリィ デジタルデラックスエディション",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000039556",
-      "image": "https://img-eshop.cdn.nintendo.net/i/b51bc66443d5901499b48cc5ac72931bb184b421535d211063353f7127b0a3af.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -88950,6 +88954,19 @@
         "xbox"
       ],
       "to": "2027年1月28日"
+    },
+    {
+      "at": "2026-11-24T08:00:35.121Z",
+      "type": "date_changed",
+      "label": "発売日変更",
+      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
+      "url": "https://apps.apple.com/jp/app/id6778303469",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/67/60/25676062-22c4-f32a-d85d-ac70697c39c6/Placeholder.mill/1200x630wa.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "from": "2026年11月24日",
+      "to": "2026年11月"
     }
   ],
   "initialized": true,
