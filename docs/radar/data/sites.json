@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:30:16.342Z",
+  "updatedAt": "2026-11-24T09:00:19.094Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 210
+      "count": 209
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 262
+      "count": 261
     },
     {
       "id": "release",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 339
+      "count": 338
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 142
+      "count": 143
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 149
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "App Store",
     "Game*Spark",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "48102dc4f427",
+      "url": "https://toei-stage.jp/Gavv-musical/",
+      "host": "toei-stage.jp",
+      "region": "jp",
+      "title": "仮面ライダーガヴ",
+      "headline": "『仮面ライダーガヴ』敵勢力「ストマック家」の知られざる過去を描くミュージカル『ストマック・スイートホーム』が発表。2027年1月8日より東京、1月28日より大阪で上演へ",
+      "description": "すべては、幸せな家族になるためだった。『仮面ライダーガヴ』へとつながる、ストマック家の知られざる悲劇の幕が開く。",
+      "publishedAt": "2026-11-24T08:45:24.000Z",
+      "addedAt": "2026-11-24T09:00:19.094Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611242v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://toei-stage.jp/Gavv-musical/assets/images/favicon/og.jpg"
+    },
     {
       "id": "3e49f592526f",
       "url": "https://play.google.com/store/apps/details?id=jp.sammynet.next.ort.a0212",
@@ -16182,7 +16209,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/c0/6b/afc06b98-e819-edae-154d-938ca5172d31/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/d9/f5/71d9f5e1-7ece-eeb7-b52c-5a91c7d5b49a/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "20737373163d",
@@ -38125,37 +38152,6 @@
       ],
       "points": null,
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/53/0a/c4530ad8-87df-4ce5-5367-2837a87e0124/Placeholder.mill/1200x630wa.jpg"
-    },
-    {
-      "id": "0a34b3bade6e",
-      "url": "https://rpg.jp/",
-      "host": "rpg.jp",
-      "region": "jp",
-      "title": "オータムセール",
-      "headline": "アトラス,「オータムセール」をSteam，ニンテンドーeショップ，PS Storeで開催",
-      "description": "アトラス完全新作ファンタジーRPG『メタファー：リファンタジオ』公式サイト",
-      "publishedAt": "2026-09-25T08:12:46.000Z",
-      "addedAt": "2026-09-25T08:30:22.040Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/367/G036702/20260925026/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "goods",
-        "campaign",
-        "event"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "points": null,
-      "image": "https://rpg.jp/resources/img/ogp.jpg"
     },
     {
       "id": "9052de957052",
