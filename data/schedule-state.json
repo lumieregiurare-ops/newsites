@@ -48891,7 +48891,7 @@
     },
     "デジモンカードゲーム": {
       "title": "デジモンカードゲーム",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-28T04:30:35.428Z"
     },
     "ロックマン:デュアルオーバーライド": {
@@ -83984,21 +83984,25 @@
       "sortKey": "2027-01-26",
       "prereg": false,
       "firstSeen": "2026-11-24T03:01:07.957Z"
+    },
+    "becomeblackholesoundtrack": {
+      "title": "Become Blackhole Soundtrack",
+      "dateText": "2026年11月25日",
+      "date": "2026-11-25",
+      "sortKey": "2026-11-25",
+      "prereg": false,
+      "firstSeen": "2026-11-24T03:30:32.020Z"
+    },
+    "負けるな！魔剣道1&2": {
+      "title": "負けるな！魔剣道1&2",
+      "dateText": "2027年3月18日",
+      "date": "2027-03-18",
+      "sortKey": "2027-03-18",
+      "prereg": false,
+      "firstSeen": "2026-11-24T03:30:32.020Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "BloodRush: Undying Wish",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000136608",
-      "image": "https://img-eshop.cdn.nintendo.net/i/35d2279722d502251087bbb06623291361c6f46317231398711090f53f3a93a0.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -88811,6 +88815,20 @@
       "image": "https://odinq.kakaogames.com/og-image.jpg",
       "platforms": [],
       "to": "2027年1月26日"
+    },
+    {
+      "at": "2026-11-24T03:30:32.020Z",
+      "type": "new",
+      "label": "新規",
+      "title": "負けるな！魔剣道1&2",
+      "url": "https://www.edia-game.com/makendo",
+      "image": "https://static.wixstatic.com/media/2c04d5_36ef26bf992c4ac38c31a0af3c2b57c9~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_36ef26bf992c4ac38c31a0af3c2b57c9~mv2.jpg",
+      "platforms": [
+        "switch",
+        "ps",
+        "pc"
+      ],
+      "to": "2027年3月18日"
     }
   ],
   "initialized": true,
