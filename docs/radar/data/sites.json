@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T14:00:17.199Z",
+  "updatedAt": "2026-11-24T14:30:31.649Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1272,
+  "total": 1273,
   "regions": {
     "jp": 990,
-    "global": 282
+    "global": 283
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 450
+      "count": 451
     },
     {
       "id": "indie",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "App Store",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "97172cd37bdd",
+      "url": "https://nekcomgames.com/showaamericanstory",
+      "host": "nekcomgames.com",
+      "region": "global",
+      "title": "昭和米国物語",
+      "headline": "「昭和米国物語」，発売日を2027年10月28日に再延期。ゲーム内容の開発は完了しているが，品質のさらなる向上に時間が必要",
+      "description": "「昭和米国物語」，発売日を2027年10月28日に再延期。ゲーム内容の開発は完了しているが，品質のさらなる向上に時間が必要",
+      "publishedAt": "2026-11-24T14:16:04.000Z",
+      "addedAt": "2026-11-24T14:30:31.649Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/613/G061307/20261124048/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/62b3dcf960c165721bfb29f3/t/62d4e2721a77e63c3be3feba/1658118770390/NEKCOM_Logo_black.png?format=1500w"
+    },
     {
       "id": "2ef70e394429",
       "url": "https://apps.apple.com/jp/app/id6809661429",
@@ -3768,7 +3795,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://taiko.namco-ch.net/taiko/en/images/ogp.jpg?20261123"
+      "image": "https://taiko.namco-ch.net/taiko/en/images/ogp.jpg?20261124"
     },
     {
       "id": "fd5fc58dcc35",
