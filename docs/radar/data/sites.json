@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-24T06:30:21.341Z",
+  "updatedAt": "2026-11-24T07:00:18.426Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1269,
+  "total": 1270,
   "regions": {
-    "jp": 988,
+    "jp": 989,
     "global": 281
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 209
+      "count": 210
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 260
+      "count": 261
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 338
+      "count": 339
     },
     {
       "id": "official",
@@ -121,16 +121,45 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "AppBank",
     "App Store",
-    "Inside",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "d20c2f3213f0",
+      "url": "https://www.capcom.co.jp/amusement/streetfighter6-hololive-3/",
+      "host": "capcom.co.jp",
+      "region": "jp",
+      "title": "スト6",
+      "headline": "ホロライブ・百鬼あやめ、博衣こよりなどが『スト6』とコラボ！ 可愛い描き下ろしグッズが公開",
+      "description": "ホロライブ・百鬼あやめ、博衣こよりなどが『スト6』とコラボ！ 可愛い描き下ろしグッズが公開",
+      "publishedAt": "2026-11-24T07:00:03.000Z",
+      "addedAt": "2026-11-24T07:00:18.426Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/24/191473.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "00add27c48ee",
       "url": "https://suikagame.jp/",
@@ -4975,7 +5004,7 @@
         "switch2"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611230631"
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611240612"
     },
     {
       "id": "00e80838bf52",
