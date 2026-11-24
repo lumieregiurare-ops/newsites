@@ -4222,6 +4222,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/22/b7/0922b753-4c8a-975a-d0e2-f91e09c94ebc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "三国志 九州覇業": {
+      "at": "2026-11-24T09:30:34.244Z",
+      "entry": null
     }
   },
   "titles": {
@@ -84220,21 +84224,30 @@
       "sortKey": "2026-11-26",
       "prereg": false,
       "firstSeen": "2026-11-24T09:00:38.826Z"
+    },
+    "うちの従業員は死んでいる！パラノーマル・タイクーン": {
+      "title": "うちの従業員は死んでいる！ パラノーマル・タイクーン",
+      "dateText": "2026年11月25日",
+      "date": "2026-11-25",
+      "sortKey": "2026-11-25",
+      "prereg": false,
+      "firstSeen": "2026-11-24T09:30:34.094Z"
+    },
+    "sliceoffortune": {
+      "title": "Slice of Fortune",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-24T09:30:34.094Z"
+    },
+    "三国志:九州覇業": {
+      "title": "三国志:九州覇業",
+      "prereg": true,
+      "firstSeen": "2026-11-24T09:30:34.094Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "トリネア",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000131134",
-      "image": "https://img-eshop.cdn.nintendo.net/i/071ccadc3875160504503e827b0cb0fc6bbe1d64657a4045e4b4cb84cb2d4fda.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -89050,6 +89063,18 @@
         "mobile"
       ],
       "to": "2026年11月24日"
+    },
+    {
+      "at": "2026-11-24T09:30:34.094Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "三国志:九州覇業",
+      "url": "https://ninekingdomsjp.rastargames.com/pre",
+      "image": "https://gw-apk.resources.rastargames.com/gw-front/gw-files/uploads/2026-11-10/nlUBtPGSVy7fxYTq2pAVSCV7zzHnHbE0dCrOPMqD.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

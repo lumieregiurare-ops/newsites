@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-24T09:00:19.094Z",
+  "updatedAt": "2026-11-24T09:30:20.025Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1273,
+  "total": 1274,
   "regions": {
-    "jp": 990,
+    "jp": 991,
     "global": 283
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 163
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 491
+      "count": 492
     },
     {
       "id": "browser",
@@ -234,6 +234,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611242r"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/24/191484.html"
         }
       ],
       "tags": [
@@ -1240,6 +1244,36 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "da221312498b",
+      "url": "https://ninekingdomsjp.rastargames.com/pre",
+      "host": "ninekingdomsjp.rastargames.com",
+      "region": "jp",
+      "title": "三国志:九州覇業",
+      "headline": "「三国志:九州覇業」日本向けAndroid版クローズドβテストがスタート。事前登録も開始され，武将「趙雲」や最大390連分のガチャなどの特典が明らかに",
+      "description": "今すぐ『三国志:九州覇業』を事前登録、神将・趙雲を無料で入手、初週で最大390連ガチャも無料！立体的な戦場、空陸連携による攻撃、平面を超えよ。武将レベルはすべて共有され、新編成で即座に戦闘を開始可能。自動攻城、同盟委託機能、夜間門限など、…",
+      "publishedAt": "2026-11-20T22:30:00.000Z",
+      "addedAt": "2026-11-24T09:30:20.025Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106031/20261121001/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://gw-apk.resources.rastargames.com/gw-front/gw-files/uploads/2026-11-10/nlUBtPGSVy7fxYTq2pAVSCV7zzHnHbE0dCrOPMqD.jpg"
     },
     {
       "id": "d3fc58b08a1d",
