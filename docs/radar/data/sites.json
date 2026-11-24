@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-24T00:00:20.851Z",
+  "updatedAt": "2026-11-24T00:30:17.874Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1269,
+  "total": 1270,
   "regions": {
-    "jp": 990,
+    "jp": 991,
     "global": 279
   },
   "categories": [
@@ -20,12 +20,12 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 164
+      "count": 165
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 113
+      "count": 114
     },
     {
       "id": "campaign",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 489
+      "count": 490
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "App Store",
     "AppBank",
     "Inside",
@@ -131,6 +131,40 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "b1fe0dc1b96a",
+      "url": "https://trickcal.biligames.com/jp/",
+      "host": "trickcal.biligames.com",
+      "region": "jp",
+      "title": "Trickcal Patima",
+      "headline": "北米でも注目を集める新作ターン制RPG「Trickcal Patima」はグローバルCBTを予定。日本版「トリッカル」は1周年からが「本編」。代表，副代表，PDの3人に聞く［G-…",
+      "description": "トリッカル1周年おめでとうございます～ 教主様、私たちはずっとここにいるよ。",
+      "publishedAt": "2026-11-24T00:00:00.000Z",
+      "addedAt": "2026-11-24T00:30:17.874Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/913/G091374/20261122019/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "anniversary",
+        "prereg"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://creator-static.biligames.com/03eb5531e1ab670e551bd26255922ddf8d047a458927188a6dae167aa6ac2c6e.png"
+    },
     {
       "id": "ad5e71b592b8",
       "url": "https://jpn.nec.com/bazar/calendarpc/",
