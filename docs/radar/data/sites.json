@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T10:30:22.518Z",
+  "updatedAt": "2026-11-24T11:00:17.010Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1274,
+  "total": 1275,
   "regions": {
-    "jp": 990,
-    "global": 284
+    "jp": 992,
+    "global": 283
   },
   "categories": [
     {
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 28
+      "count": 29
     },
     {
       "id": "company",
@@ -97,17 +97,17 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 148
+      "count": 149
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 493
+      "count": 494
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "arcade",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "App Store",
@@ -131,6 +131,37 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "82042e690e0b",
+      "url": "https://hothukurou.com/game/Marukunare/index.html",
+      "host": "hothukurou.com",
+      "region": "jp",
+      "title": "石を丸くして転がす",
+      "headline": "石を削って丸くし，昭和の町で転がす無料ブラウザゲーム「石を丸くして転がす」が公開。30秒の研磨で仕上げた石の走行距離を競う",
+      "description": "下町の工場で、おじさんに教わりながら御影石を削り、坂道へ転がすゲーム。スマートフォン・PC対応。",
+      "publishedAt": "2026-11-24T10:59:17.000Z",
+      "addedAt": "2026-11-24T11:00:17.010Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106096/20261124039/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "browser"
+      ],
+      "platforms": [
+        "pc",
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://hothukurou.com/game/Marukunare/ogp.jpg"
+    },
     {
       "id": "c6c7a5f021f0",
       "url": "https://www.casetify.com/ja_JP/co-lab/pokemon-2026",
@@ -912,10 +943,10 @@
       "id": "95fc84b83947",
       "url": "https://apps.apple.com/jp/app/id6832461356",
       "host": "apps.apple.com",
-      "region": "global",
+      "region": "jp",
       "title": "[777Real]パチスロ かぐや様は告らせたい",
       "headline": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
-      "description": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
+      "description": "Sammy Networks Co., Ltd.の「[777Real]パチスロ かぐや様は告らせたい」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「[777Real]パチスロ かぐや…",
       "publishedAt": "2026-11-23T08:00:00.000Z",
       "addedAt": "2026-11-24T10:30:22.518Z",
       "source": "App Store",
@@ -940,7 +971,7 @@
         "mobile"
       ],
       "points": null,
-      "image": ""
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/b3/73/c7b37399-c8f7-e47b-cfab-a7260fe0be77/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "27aa28397fbd",
