@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T05:00:16.921Z",
+  "updatedAt": "2026-11-24T05:30:23.140Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 165
+      "count": 164
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 260
+      "count": 259
     },
     {
       "id": "release",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 123
+      "count": 124
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 336
+      "count": 337
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 142
+      "count": 143
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 488
+      "count": 489
     },
     {
       "id": "browser",
@@ -122,15 +122,76 @@
   ],
   "sources": [
     "4Gamer",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
-    "AppBank",
     "Inside",
     "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "d0bb23f1c682",
+      "url": "https://blastheim.com/",
+      "host": "blastheim.com",
+      "region": "global",
+      "title": "Blastheim",
+      "headline": "セカンドスクリーン向けの新作アクションRPG「Blastheim」の制作をアナウンス。「Path of Exile」の著名ストリーマーらが開発に参加",
+      "description": "Blastheim is an action RPG for your second screen, set in a Nordic world shattered by the death of the Tree of Life. Co…",
+      "publishedAt": "2026-11-24T05:22:09.000Z",
+      "addedAt": "2026-11-24T05:30:23.140Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106072/20261124016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://blastheim.com/img/share.jpg"
+    },
+    {
+      "id": "72c55b658ed9",
+      "url": "https://apps.apple.com/jp/app/id1325457827",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ウマ娘",
+      "headline": "『ウマ娘』ショートアニメ『うまゆる ふるげ～と！』第3弾主題歌「ちゅみぽみYayyay」が先行配信開始！",
+      "description": "Cygames, Inc.の「ウマ娘 プリティーダービー」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ウマ娘 プリティーダービー」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-24T05:10:00.000Z",
+      "addedAt": "2026-11-24T05:30:23.140Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/24/game/3175785.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/b5/18/6bb518da-b181-a4dd-c652-9650e43675ca/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "00259f2af6ff",
       "url": "https://www.gstar.or.kr/",
@@ -13595,7 +13656,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/13/fd/dc13fd4e-0fdd-e3fe-9ef7-5d3c8cc9e742/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/5e/fa/195efae2-4149-166b-0661-1c212737e30e/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "9de44778d939",
@@ -38034,74 +38095,6 @@
       "platforms": [],
       "points": null,
       "image": "https://images.contentstack.io/v3/assets/blt15f7b5c0d43ed112/blt8a17f36418f01d7c/698f05439546730008163284/1200x630_SEO.png?width=1200&quality=80&auto=webp&height=630&format=jpg&fit=crop"
-    },
-    {
-      "id": "c6c8f627a746",
-      "url": "http://www.nvidia.com/",
-      "host": "nvidia.com",
-      "region": "global",
-      "title": "CONTROL Resonant",
-      "headline": "「CONTROL Resonant」や「ウィッチャー3」リマスター版などに対応する「GeForce 617.14 Driver」リリース",
-      "description": "We create the world’s fastest supercomputer and largest gaming platform.",
-      "publishedAt": "2026-09-25T04:47:24.000Z",
-      "addedAt": "2026-09-25T05:00:51.586Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/022/G002210/20260925009/"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/sfg/nvidia-corporate-og-image-1200x630.jpg"
-    },
-    {
-      "id": "501f5d92a8d0",
-      "url": "https://rocokingdom.com/web/ja/",
-      "host": "rocokingdom.com",
-      "region": "jp",
-      "title": "Roco Kingdom",
-      "headline": "オープンワールドモンスター育成RPG『Roco Kingdom』鬼頭明里さんや日笠陽子さんら出演決定！KENNさん、相羽あいなさん登壇イベントにて発表",
-      "description": "『Roco Kingdom』次世代オープンワールド・モンスター収集RPG",
-      "publishedAt": "2026-09-25T04:33:33.000Z",
-      "addedAt": "2026-09-25T05:00:51.586Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260925r"
-        },
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/25/188249.html"
-        },
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/25/172765.html"
-        },
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/640/G064053/20260925041/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録"
-      ],
-      "categories": [
-        "prereg",
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://rocokingdom.com/share/img/ja.png"
     },
     {
       "id": "8a69d59cf6e6",
