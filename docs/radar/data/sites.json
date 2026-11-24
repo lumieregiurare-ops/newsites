@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:00:21.325Z",
+  "updatedAt": "2026-11-24T15:30:22.478Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 259
+      "count": 260
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 451
+      "count": 450
     },
     {
       "id": "indie",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "4Gamer",
     "AppBank",
     "電ファミニコゲーマー",
     "Inside",
     "App Store",
-    "Game*Spark",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "f3b22c9a6887",
+      "url": "https://www.dospara.co.jp/event/pc-device-set.html?srsltid=AYCX9vKgla1nyprF6V3JfUbBC81-xycJzVnyg5yJ3CVYGYUweNLgHJ0L",
+      "host": "dospara.co.jp",
+      "region": "jp",
+      "title": "GALLERIAと同時購入でLogicool G703hなど人気ゲ",
+      "headline": "GALLERIAと同時購入でLogicool G703hなど人気ゲーミングデバイスが半額に！数量限定でドスパラにて開催中",
+      "description": "GALLERIAとの同時購入でLogicool製指定ゲーミングデバイスが半額！",
+      "publishedAt": "2026-11-24T15:30:03.000Z",
+      "addedAt": "2026-11-24T15:30:22.478Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175265.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "97172cd37bdd",
       "url": "https://nekcomgames.com/showaamericanstory",
@@ -1904,7 +1931,7 @@
         "ps"
       ],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcRLUDzbmtpGmoARd-UcMX1P2p4Dvm0wM6tFVI3TNPusAaxO3Rtkv5OvmJu0aVi1iMa__7InfG2bu3NC5FP1KTUcWuEM8hfn4uQV0FzyGBwG10iXdHDGAdZi6fNje0OBrGLb2_qZfdPh_bcIYURphpfY8WtvAPiOoS1wv4tUnBdxRZyCDwuOucKCatG=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQez7uyDvTpd4ETOU-TrHtQiT5cbJL52eMT1Z6IJcwa8EAVb2GRQd9p-nJz7PpuUMbmRKNWpI8GhG1VCW2-UfpK5NaSnoaZYnWVinFPKyC6lzl1gqwa2d3PNiwNq2oDdZj7Lc0kNX5tlNoXLVF7FoE6209mJ2He6RZibQ0q9xRuXH7YoOAo7DjOxm82l=w16383"
     },
     {
       "id": "08fade7d2b1f",
@@ -38153,33 +38180,6 @@
       "image": ""
     },
     {
-      "id": "a182fd02c834",
-      "url": "https://www.thewitcher.com/jp/ja/buy",
-      "host": "thewitcher.com",
-      "region": "jp",
-      "title": "ウィッチャー3 ワイルドハント リマスター",
-      "headline": "外見変更機能が追加！9月29日リリース『ウィッチャー3 ワイルドハント リマスター』装備の性能はそのまま、お気に入りの衣装で冒険に出られる",
-      "description": "ウィッチャーの世界 | アクションアドベンチャーRPG",
-      "publishedAt": "2026-09-25T15:25:48.000Z",
-      "addedAt": "2026-09-25T15:30:16.520Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/26/172777.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://public.cdn.cdpr.app/thewitcher/website/buy/og-image-ds12cekfn34.jpeg"
-    },
-    {
       "id": "9052de957052",
       "url": "https://goblinruntgames.com/",
       "host": "goblinruntgames.com",
@@ -38252,7 +38252,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uQMHvAPqXrHcgq3WMu5LiOLuY6oV3gL2ZzFsDgHDGGoiHhqHXIV3dvlBA1fiGlayeAV21b92vqkdxgxnAqdZERrUiVcCgYq7UzPLcOSuTwFu7XyeT0uy-J2G1ODj4OMBGid9wT20Vjy4itySa7xx4mMABSMtnlE1tuQSemUq2RBzQVZLwJ-PXNg5bVo2sKOQAALMfBFNTos2pLSLWevko2rB2mT8b5wjQNNGE4S_nBV64=w1200-h630-p-k-no-nu"
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ui13lPHOoxER2Mvr4lahQfmhnrtuyQXLBoNflSF5xYD9kO74XCId2novxi-ECZjzqwkD2tMk2iHhyDz3sEJF7ZgKI_iUB4lueWUt7mifZ2Eo8x8e_6h85AfVUA2VC6ESSmvibCCTavYhfJREkGZQ6ydyy7Zm1LLcFvMj1DOTWQDu_7nx1pQlot_ebDhASLk3vfjGMJvXzk2YJt1HGidyvd7WjCibrTHHWdaQrQag7B8i0=w1200-h630-p-k-no-nu"
     },
     {
       "id": "8a69d59cf6e6",
