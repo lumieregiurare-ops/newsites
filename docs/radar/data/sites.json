@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T10:00:22.760Z",
+  "updatedAt": "2026-11-24T10:30:22.518Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1272,
+  "total": 1274,
   "regions": {
-    "jp": 989,
-    "global": 283
+    "jp": 990,
+    "global": 284
   },
   "categories": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 124
+      "count": 125
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 335
+      "count": 336
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 142
+      "count": 143
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 492
+      "count": 493
     },
     {
       "id": "browser",
@@ -131,6 +131,33 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "c6c7a5f021f0",
+      "url": "https://www.casetify.com/ja_JP/co-lab/pokemon-2026",
+      "host": "casetify.com",
+      "region": "jp",
+      "title": "ポケモン",
+      "headline": "『ポケモン』モンスターボール型のイヤホンケースが可愛い！ ピクセルアートで描かれたテックアクセサリーコレクションが発表",
+      "description": "Pokémon",
+      "publishedAt": "2026-11-24T10:10:03.000Z",
+      "addedAt": "2026-11-24T10:30:22.518Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/24/191489.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://cdn-stamplib.casetify.com/cms/image/a39c84ceae456a2777374594c28990a4.png"
+    },
     {
       "id": "981eaa0b654e",
       "url": "https://www.beardpapa.jp/",
@@ -880,6 +907,40 @@
       ],
       "points": null,
       "image": "https://mahoumura.com/wp-content/themes/original/images/top.webp"
+    },
+    {
+      "id": "95fc84b83947",
+      "url": "https://apps.apple.com/jp/app/id6832461356",
+      "host": "apps.apple.com",
+      "region": "global",
+      "title": "[777Real]パチスロ かぐや様は告らせたい",
+      "headline": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
+      "description": "Sammy Networks Co., Ltd. / エンターテインメント・カジノ · App Store 新着",
+      "publishedAt": "2026-11-23T08:00:00.000Z",
+      "addedAt": "2026-11-24T10:30:22.518Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832461356"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "カジノ"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "27aa28397fbd",
