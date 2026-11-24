@@ -1484,7 +1484,7 @@
       "entry": null
     },
     "ブラウンダスト2": {
-      "at": "2026-11-21T04:30:36.943Z",
+      "at": "2026-11-24T05:00:36.970Z",
       "entry": {
         "trackId": "1299021478",
         "title": "ブラウンダスト",
@@ -2085,7 +2085,7 @@
       }
     },
     "Vampire Crawlers": {
-      "at": "2026-11-21T04:30:35.512Z",
+      "at": "2026-11-24T05:00:35.536Z",
       "entry": {
         "trackId": "6749456796",
         "title": "Vampire Crawlers",
@@ -2107,7 +2107,7 @@
       "entry": null
     },
     "ウィンドランナーGo!": {
-      "at": "2026-11-21T04:30:34.010Z",
+      "at": "2026-11-24T05:00:34.106Z",
       "entry": {
         "trackId": "6757690255",
         "title": "ウィンドランナーGo!：放置系RPG",
@@ -2124,8 +2124,23 @@
       }
     },
     "ねこねこダンジョン": {
-      "at": "2026-11-10T04:30:39.653Z",
-      "entry": null
+      "at": "2026-11-24T05:00:32.681Z",
+      "entry": {
+        "trackId": "6818420154",
+        "title": "ねこねこダンジョン：猫の放置RPG",
+        "artist": "Code and DESIGN inc.",
+        "genres": [
+          "ライフスタイル",
+          "ロールプレイング",
+          "カジュアル"
+        ],
+        "releaseDate": "2026-10-11T07:00:00Z",
+        "isPreorder": false,
+        "storeUrl": "https://apps.apple.com/jp/app/id6818420154",
+        "sellerUrl": "https://utaverse.tokyo/cat-dungeons.html",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/da/24/80da2461-3086-0dcc-9896-3b2a5515fa1d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "isGame": true
+      }
     },
     "デュエプレ": {
       "at": "2026-11-10T10:30:40.412Z",
@@ -3845,7 +3860,7 @@
       }
     },
     "クイズアクションRPG ウィズジェネレーション": {
-      "at": "2026-11-21T05:00:30.870Z",
+      "at": "2026-11-24T05:00:31.284Z",
       "entry": {
         "trackId": "6761871323",
         "title": "クイズアクションRPG ウィズジェネレーション",
@@ -84000,21 +84015,25 @@
       "sortKey": "2027-03-18",
       "prereg": false,
       "firstSeen": "2026-11-24T03:30:32.020Z"
+    },
+    "东方自走棋": {
+      "title": "东方自走棋",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-24T05:00:31.007Z"
+    },
+    "仁王3": {
+      "title": "仁王3",
+      "dateText": "2027年1月28日",
+      "date": "2027-01-28",
+      "sortKey": "2027-01-28",
+      "prereg": false,
+      "firstSeen": "2026-11-24T05:00:31.007Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "大悪逆令嬢 ストラテジーオブリリィ DIGITAL ARTWORKS & MUSIC PLAYER",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077507",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a160ac08810367e5d6c329bcf279a3e6cd0ef9e0516f154972c9ac99904ecfed.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月3日"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -88829,6 +88848,18 @@
         "pc"
       ],
       "to": "2027年3月18日"
+    },
+    {
+      "at": "2026-11-24T05:00:31.007Z",
+      "type": "new",
+      "label": "新規",
+      "title": "仁王3",
+      "url": "https://teamninja-studio.com/nioh3/",
+      "image": "",
+      "platforms": [
+        "xbox"
+      ],
+      "to": "2027年1月28日"
     }
   ],
   "initialized": true,

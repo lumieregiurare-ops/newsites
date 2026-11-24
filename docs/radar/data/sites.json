@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-24T04:30:17.346Z",
+  "updatedAt": "2026-11-24T05:00:16.921Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1267,
+  "total": 1268,
   "regions": {
     "jp": 988,
-    "global": 279
+    "global": 280
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 166
+      "count": 165
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 448
+      "count": 449
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 141
+      "count": 142
     }
   ],
   "platforms": [
@@ -92,7 +92,7 @@
     {
       "id": "xbox",
       "label": "Xbox",
-      "count": 7
+      "count": 8
     },
     {
       "id": "pc",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "App Store",
     "AppBank",
     "Inside",
@@ -131,6 +131,62 @@
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "00259f2af6ff",
+      "url": "https://www.gstar.or.kr/",
+      "host": "gstar.or.kr",
+      "region": "global",
+      "title": "ディフェンスゲームの暴君になった：LAST STAGE",
+      "headline": "WEBZENの新作は，3Dの空間表現と2Dドット絵を組み合わせたジオラマ・ピクセルアートが特徴の「ディフェンスゲームの暴君になった：LAST STAGE」［G-STAR 2026］",
+      "description": "국제 게임전시회 G-STAR",
+      "publishedAt": "2026-11-24T04:57:12.000Z",
+      "addedAt": "2026-11-24T05:00:16.921Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/032/G103244/20261121014/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.gstar.or.kr/images/logo.png"
+    },
+    {
+      "id": "3b7796730fee",
+      "url": "https://teamninja-studio.com/nioh3/",
+      "host": "teamninja-studio.com",
+      "region": "jp",
+      "title": "仁王3",
+      "headline": "「仁王3」DLC第2弾「天草大乱」，12月17日配信決定。天草四郎や立花宗茂が登場。XBOX Series X|S版を含むComplete Editionも2027年1月28日発売",
+      "description": "「仁王3」DLC第2弾「天草大乱」，12月17日配信決定。天草四郎や立花宗茂が登場。XBOX Series X|S版を含むComplete Editionも2027年1月28日発売",
+      "publishedAt": "2026-11-24T04:31:36.000Z",
+      "addedAt": "2026-11-24T05:00:16.921Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/060/G106063/20261124012/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "xbox"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "bbf712e6588f",
       "url": "https://www.edia-game.com/makendo",
@@ -38046,38 +38102,6 @@
       "platforms": [],
       "points": null,
       "image": "https://rocokingdom.com/share/img/ja.png"
-    },
-    {
-      "id": "8fd209060525",
-      "url": "https://www.wonderpawsgame.com/",
-      "host": "wonderpawsgame.com",
-      "region": "jp",
-      "title": "WonderPaws",
-      "headline": "人間も動物たちもハッピーな世界が魅力の大都市ライフシム『WonderPaws』発表！アイドルになってもいいし市長でもいい、小さな動物に変身してお世話してもらうことも",
-      "description": "Welcome to Paw City, Where Wonder Begins! Pre-register now for WonderPaws, a Cozy Paw City Life Sim where every day bri…",
-      "publishedAt": "2026-09-25T04:15:03.000Z",
-      "addedAt": "2026-09-25T04:30:18.212Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/25/172749.html"
-        },
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260928g"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録"
-      ],
-      "categories": [
-        "prereg"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://wonderpawsgame.com/img/common/favicon/favicon.png"
     },
     {
       "id": "8a69d59cf6e6",
