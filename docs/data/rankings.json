@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:00:22.243Z",
+  "updatedAt": "2026-11-25T16:30:25.202Z",
   "boards": [
     {
       "id": "steam",
@@ -189,27 +189,27 @@
         },
         {
           "rank": 4,
-          "title": "ケロロ軍曹 ぽちっと大出動であります！",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fe/56/5cfe565e-bc5f-3029-5013-93fcde914272/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9-%E3%81%BD%E3%81%A1%E3%81%A3%E3%81%A8%E5%A4%A7%E5%87%BA%E5%8B%95%E3%81%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/id6805005476",
-          "metric": "G HOLDINGS CO., LTD.",
-          "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
           "title": "Meowdoku!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/3d/0e/773d0ed6-4e4e-859f-7817-c5f7a42466e5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
           "delta": {
-            "kind": "same",
-            "label": "–",
-            "value": 0
+            "kind": "up",
+            "label": "+1",
+            "value": 1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "ケロロ軍曹 ぽちっと大出動であります！",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fe/56/5cfe565e-bc5f-3029-5013-93fcde914272/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9-%E3%81%BD%E3%81%A1%E3%81%A3%E3%81%A8%E5%A4%A7%E5%87%BA%E5%8B%95%E3%81%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/id6805005476",
+          "metric": "G HOLDINGS CO., LTD.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
           },
           "deltaNote": "前日比"
         },
