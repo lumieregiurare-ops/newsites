@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T14:00:17.517Z",
+  "updatedAt": "2026-11-25T14:30:23.455Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1304,
+  "total": 1306,
   "regions": {
-    "jp": 1013,
+    "jp": 1015,
     "global": 291
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 207
+      "count": 209
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 264
+      "count": 265
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 515
+      "count": 517
     },
     {
       "id": "browser",
@@ -121,16 +121,80 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
-    "AppBank",
     "4Gamer",
+    "Game*Spark",
+    "AppBank",
     "App Store",
     "Inside",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "8b84f31b7460",
+      "url": "https://www.playdeltaforce.com/ja/",
+      "host": "playdeltaforce.com",
+      "region": "jp",
+      "title": "デルタフォース",
+      "headline": "『デルタフォース』と『メタルギアソリッドΔ』のコラボが11月27日より開催。レジェンドEX外観「ネイキッド・スネーク」や、限定アクション「ダンボール箱に隠れる」など『MGSΔ』の…",
+      "description": "T『Delta Force』は基本プレイ無料のタクティカルシューター。オペレーター戦闘システムを搭載しており、64人対戦の大規模PvPモード「ウォーフェア」と「ブラックホークダウン」戦役モードも実装。",
+      "publishedAt": "2026-11-25T14:00:53.000Z",
+      "addedAt": "2026-11-25T14:30:23.455Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611253c"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.playdeltaforce.com/main_share_icon.v2.png"
+    },
+    {
+      "id": "fff1f71ed8ce",
+      "url": "https://www.playdeltaforce.com/ja/home.html",
+      "host": "playdeltaforce.com",
+      "region": "jp",
+      "title": "Delta Force",
+      "headline": "「Delta Force」×「METAL GEAR SOLID Δ: SNAKE EATER」コラボが11月27日に開幕。レジェンドEX外観「ネイキッド・スネーク」や限定アクショ…",
+      "description": "「Delta Force」×「METAL GEAR SOLID Δ: SNAKE EATER」コラボが11月27日に開幕。レジェンドEX外観「ネイキッド・スネーク」や限定アクションが登場",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "addedAt": "2026-11-25T14:30:23.455Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/732/G073256/20261125060/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "4dcd9af00f2d",
       "url": "https://muvluv-girls-garden.com/",
