@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:00:31.297Z",
+  "updatedAt": "2026-11-25T02:30:30.139Z",
   "platforms": [
     {
       "id": "switch",
@@ -457,6 +457,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-25T02:30:30.139Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月23日"
+    },
+    {
       "at": "2026-11-24T15:00:43.008Z",
       "type": "new",
       "label": "新規",
@@ -514,18 +526,6 @@
       "image": "https://www.beardpapa.jp/wp-content/uploads/2023/05/ogp-img.png",
       "platforms": [],
       "to": "2026年12月1日"
-    },
-    {
-      "at": "2026-11-24T09:30:34.094Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "三国志:九州覇業",
-      "url": "https://ninekingdomsjp.rastargames.com/pre",
-      "image": "https://gw-apk.resources.rastargames.com/gw-front/gw-files/uploads/2026-11-10/nlUBtPGSVy7fxYTq2pAVSCV7zzHnHbE0dCrOPMqD.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
     }
   ]
 }

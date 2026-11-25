@@ -3415,7 +3415,7 @@
       "entry": null
     },
     "Arcaea": {
-      "at": "2026-11-22T02:00:46.833Z",
+      "at": "2026-11-25T02:30:33.858Z",
       "entry": {
         "trackId": "1205999125",
         "title": "Arcaea",
@@ -3624,7 +3624,7 @@
       }
     },
     "ウィザードリィ": {
-      "at": "2026-11-11T02:00:40.422Z",
+      "at": "2026-11-25T02:30:32.126Z",
       "entry": null
     },
     "GCFX": {
@@ -3895,7 +3895,7 @@
       "entry": null
     },
     "ネコぱら セカイコネクト": {
-      "at": "2026-11-22T02:00:45.190Z",
+      "at": "2026-11-25T02:30:30.593Z",
       "entry": {
         "trackId": "6743923238",
         "title": "ネコぱら セカイコネクト",
@@ -3909,7 +3909,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6743923238",
         "sellerUrl": "https://nekoconne.com/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/42/e7/a542e771-db2f-2b1d-8bfb-53e9f3498416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/16/d3/8f16d3d2-b661-fda2-7946-a9169568df62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -30779,7 +30779,7 @@
     },
     "ホロライブ麻雀-ホロじゃん-": {
       "title": "ホロライブ麻雀 -ホロじゃん-",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-09T04:30:30.071Z"
     },
     "sunlitsuites": {
@@ -48990,7 +48990,7 @@
     },
     "デジモンカードゲーム": {
       "title": "デジモンカードゲーム",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-10-28T04:30:35.428Z"
     },
     "ロックマン:デュアルオーバーライド": {
@@ -85064,21 +85064,17 @@
       "sortKey": "2026-11-26",
       "prereg": false,
       "firstSeen": "2026-11-25T02:00:31.297Z"
+    },
+    "vialibera:italiantraindriver": {
+      "title": "Via Libera: Italian Train Driver",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-25T02:30:30.139Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "『Winds of Viridia ～ヴィリディアの風～』",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000139726",
-      "image": "https://img-eshop.cdn.nintendo.net/i/e490010b8d5894422dfbd795dd740f43683d8da3b3859a0dad2e70b697bf1c44.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -89893,6 +89889,18 @@
         "switch"
       ],
       "to": "2027年3月25日"
+    },
+    {
+      "at": "2026-11-25T02:30:30.139Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "デジモンカードゲーム",
+      "url": "https://www.digimon-alysion.com/",
+      "image": "https://www.digimon-alysion.com/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2026年12月23日"
     }
   ],
   "initialized": true,
