@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T12:30:18.796Z",
+  "updatedAt": "2026-11-25T13:00:21.139Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1303,
+  "total": 1304,
   "regions": {
-    "jp": 1012,
+    "jp": 1013,
     "global": 291
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 460
+      "count": 461
     },
     {
       "id": "indie",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 151
+      "count": 152
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 514
+      "count": 515
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
     "App Store",
@@ -131,6 +131,39 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "4dcd9af00f2d",
+      "url": "https://muvluv-girls-garden.com/",
+      "host": "muvluv-girls-garden.com",
+      "region": "jp",
+      "title": "レベル上げを愛するプレイヤ",
+      "headline": "レベル上げを愛するプレイヤーのために作られたMMO。定番スキルがすべて揃った無料ピクセルRPGが正式リリース―採れたて！本日のSteam注目ゲーム5選【2026年11月25日】",
+      "description": "EXNOAｘKMSが贈る新作ゲーム「マブラヴ ガールズガーデン（マブガル）」公式サイト。好評配信中！",
+      "publishedAt": "2026-11-25T13:00:02.000Z",
+      "addedAt": "2026-11-25T13:00:21.139Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175301.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://muvluv-girls-garden.com/img/og-image-mv.jpg"
+    },
     {
       "id": "d4a20d87ec5a",
       "url": "https://meltyblood.twilumina.com/",
@@ -146,6 +179,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/2611253a"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/019/G101928/20261125061/"
         }
       ],
       "tags": [
@@ -1099,7 +1136,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/c9/91/b1c9912b-3277-1280-3089-647f02ad043c/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/aa/56/0eaa56dd-daaa-e0df-9333-4f1a53264bf9/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "b4e8953d4531",
@@ -17988,7 +18025,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/57/9d/aa579d72-f135-fc6f-463e-6ccf41816dfb/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/0c/76/090c768f-6885-dcbe-bd58-84098fe8466d/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ee3416ca1a71",
