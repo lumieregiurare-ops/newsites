@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T08:00:19.496Z",
+  "updatedAt": "2026-11-25T08:30:17.295Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1289,
+  "total": 1290,
   "regions": {
-    "jp": 1001,
+    "jp": 1002,
     "global": 288
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 141
+      "count": 142
     }
   ],
   "platforms": [
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
     "App Store",
-    "Game*Spark",
     "AppBank",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "a3a8ef627dfc",
+      "url": "https://galliumstudios.com/",
+      "host": "galliumstudios.com",
+      "region": "jp",
+      "title": "シムシティ",
+      "headline": "『シムシティ』『ザ・シムズ』のウィル・ライト新作が2027年公開予定―AIが「プレイヤー自身の記憶」を学習し出会った人々をキャラ化する人生リプレイシム",
+      "description": "From The Sims creator Will Wright, a Social Simulation powering shared worlds built from your memories. Powering up in …",
+      "publishedAt": "2026-11-25T08:30:03.000Z",
+      "addedAt": "2026-11-25T08:30:17.295Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175289.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_4fx5b8kf7985dak7kvgfhhwnfx/64707bd738ba949c38c758eb0625c105_1795036147286.png"
+    },
     {
       "id": "266c7f486b81",
       "url": "https://strangerthings-cafe.ltr-online.com/",
