@@ -85251,21 +85251,25 @@
       "sortKey": "2026-11-27",
       "prereg": false,
       "firstSeen": "2026-11-25T10:00:34.269Z"
+    },
+    "galacticarms": {
+      "title": "Galactic Arms",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-25T10:30:33.304Z"
+    },
+    "めざせ!戦球王": {
+      "title": "めざせ!戦球王",
+      "dateText": "2026年11月26日",
+      "date": "2026-11-26",
+      "sortKey": "2026-11-26",
+      "prereg": false,
+      "firstSeen": "2026-11-25T10:30:33.304Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-28T16:00:39.081Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Cairn（ケルン）",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000126642",
-      "image": "https://img-eshop.cdn.nintendo.net/i/49dd012b49e73ef1a255e4cd8ccd25b3ef2a3a0ec4c619f59ac5d0fdfb02ed80.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2027"
-    },
     {
       "at": "2026-10-28T16:00:39.081Z",
       "type": "new",
@@ -90080,6 +90084,16 @@
         "mobile"
       ],
       "to": "2026年12月23日"
+    },
+    {
+      "at": "2026-11-25T10:30:33.304Z",
+      "type": "new",
+      "label": "新規",
+      "title": "めざせ!戦球王",
+      "url": "https://www.consolearchives.com/",
+      "image": "https://www.consolearchives.com/wp/wp-content/themes/hamster-consolearchives/common/img/ogp/console-archives-ogp-jp.png",
+      "platforms": [],
+      "to": "2026年11月26日"
     }
   ],
   "initialized": true,
