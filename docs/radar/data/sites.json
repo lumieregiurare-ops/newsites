@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T03:00:27.181Z",
+  "updatedAt": "2026-11-25T03:30:20.607Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1279,
+  "total": 1281,
   "regions": {
-    "jp": 992,
+    "jp": 994,
     "global": 287
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 206
+      "count": 207
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 261
+      "count": 262
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 451
+      "count": 452
     },
     {
       "id": "indie",
@@ -121,16 +121,71 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
+    "4Gamer",
     "App Store",
     "Game*Spark",
-    "4Gamer",
     "AppBank",
-    "電ファミニコゲーマー",
     "Inside",
     "Appliv Games",
     "GameBusiness.jp"
   ],
   "items": [
+    {
+      "id": "1d43708b40c7",
+      "url": "https://nettrend100.jp/",
+      "host": "nettrend100.jp",
+      "region": "jp",
+      "title": "ｽﾋﾟｷ",
+      "headline": "「ｽﾋﾟｷ」「マルフォイ女体化」「これ毒かも」などがノミネート。「ネット流行語100」2026年度も開催決定、結果は12月15日に生中継へ",
+      "description": "ミームからアニメ、ゲームまで！今年日本のネットで最も流行った単語を選ぶ「ネット流行語100」。今年の100単語を公開中！12月15日にYouTube他で大賞発表（ニコニコ大百科・ピクシブ百科事典・Togetter・livedoor New…",
+      "publishedAt": "2026-11-25T03:00:16.000Z",
+      "addedAt": "2026-11-25T03:30:20.607Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611252w"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://nettrend100.jp/ogp_1125.jpg"
+    },
+    {
+      "id": "10a93a99f951",
+      "url": "https://ss-beta.co.jp/products/daisenryaku-ssb-2/",
+      "host": "ss-beta.co.jp",
+      "region": "jp",
+      "title": "大戦略SSB2",
+      "headline": "「大戦略SSB2」×「R-TYPE TACTICS」開発者インタビュー。現用兵器とSF兵器が激突する異色のコラボの真相を，両社のキーマンに聞いてみた",
+      "description": "熱くなれ。戦略は個性だ。現代兵器 ウォー・シミュレーション『大戦略SSB2』 2026年2月26日(木)発売",
+      "publishedAt": "2026-11-25T03:00:00.000Z",
+      "addedAt": "2026-11-25T03:30:20.607Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/946/G094686/20261124004/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://ss-beta.co.jp/products/daisenryaku-ssb-2/image/dsssb2_ogp_03.jpg"
+    },
     {
       "id": "2e7b3b9dbc1c",
       "url": "https://panzerkeil.app/",
@@ -5659,6 +5714,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/24/175257.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/25/191522.html"
         }
       ],
       "tags": [
