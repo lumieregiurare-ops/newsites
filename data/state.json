@@ -1,6 +1,91 @@
 {
   "items": [
     {
+      "id": "0323e7e87f6a",
+      "url": "https://www.fortnite.com/",
+      "host": "fortnite.com",
+      "region": "jp",
+      "title": "フォートナイト",
+      "headline": "「フォートナイト」の2万以上のBlueprintをわずか2週間でVerseに移植。Epic Gamesが「Unreal Engine 6」への移行に向けたAI活用の成果を公開",
+      "description": "「フォートナイト」の2万以上のBlueprintをわずか2週間でVerseに移植。Epic Gamesが「Unreal Engine 6」への移行に向けたAI活用の成果を公開",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-25T05:26:01.000Z",
+      "addedAt": "2026-11-25T05:30:18.683Z",
+      "source": "4Gamer",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/144/G014484/20261125017/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "media"
+      ],
+      "points": null,
+      "image": "",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-25T05:30:18.683Z",
+      "metaError": "HTTP 403",
+      "platforms": [
+        "pc"
+      ]
+    },
+    {
+      "id": "b230d7e247ba",
+      "url": "https://garage-nova.com/",
+      "host": "garage-nova.com",
+      "region": "jp",
+      "title": "モンスト",
+      "headline": "『モンスト』開発の「でらゲー」が新ゲームレーベル「GarageNova」を始動。第1弾となる2タイトルの体験版が配信開始",
+      "description": "小さなガレージから、世界を驚かせるゲームを。GarageNovaは、ゲームクリエイターの自由な発想を次々とカタチにする、日本の実験的ゲームレーベルです。新作を続々配信。",
+      "article": {
+        "prereg": false,
+        "preregEnded": false,
+        "count": "",
+        "reward": "",
+        "ios": "",
+        "android": ""
+      },
+      "publishedAt": "2026-11-25T05:13:58.000Z",
+      "addedAt": "2026-11-25T05:30:18.683Z",
+      "source": "電ファミニコゲーマー",
+      "sourceKind": "news",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261125y"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "phCategories": [],
+      "categories": [
+        "release",
+        "teaser"
+      ],
+      "points": null,
+      "image": "https://garage-nova.com/assets/image_kaHymi9RK-GCAB7i1Eyzb.png",
+      "metaAttempts": 1,
+      "checkedAt": "2026-11-25T05:30:18.683Z",
+      "ogFetchedAt": "2026-11-25T05:30:18.683Z",
+      "ogDescription": true,
+      "regionDetected": true,
+      "platforms": []
+    },
+    {
       "id": "c440afeab9c0",
       "url": "https://jbfes.jp/jbfes2027",
       "host": "jbfes.jp",
@@ -121,9 +206,9 @@
       ],
       "points": null,
       "image": "",
-      "metaAttempts": 1,
+      "metaAttempts": 2,
       "linkUrl": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5",
-      "checkedAt": "2026-11-25T05:00:18.753Z",
+      "checkedAt": "2026-11-25T05:30:18.683Z",
       "metaError": "HTTP 403",
       "platforms": []
     },
