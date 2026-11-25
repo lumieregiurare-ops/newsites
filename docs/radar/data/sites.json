@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T07:30:20.431Z",
+  "updatedAt": "2026-11-25T08:00:19.496Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1287,
+  "total": 1289,
   "regions": {
-    "jp": 999,
+    "jp": 1001,
     "global": 288
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 111
+      "count": 112
     },
     {
       "id": "campaign",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 263
+      "count": 264
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 454
+      "count": 455
     },
     {
       "id": "indie",
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 30
+      "count": 31
     },
     {
       "id": "company",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 149
+      "count": 150
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 504
+      "count": 505
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "GameBusiness.jp",
     "App Store",
     "Game*Spark",
@@ -131,6 +131,66 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "266c7f486b81",
+      "url": "https://strangerthings-cafe.ltr-online.com/",
+      "host": "strangerthings-cafe.ltr-online.com",
+      "region": "jp",
+      "title": "ストレンジャー・シングス",
+      "headline": "『ストレンジャー・シングス』デモゴルゴンすぎるドーナツが登場。10周年記念カフェが12月11日より東京・大阪・愛知で順次オープン",
+      "description": "『ストレンジャー・シングス』デモゴルゴンすぎるドーナツが登場。10周年記念カフェが12月11日より東京・大阪・愛知で順次オープン",
+      "publishedAt": "2026-11-25T07:35:27.000Z",
+      "addedAt": "2026-11-25T08:00:19.496Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611252g"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://seat-images.groobee.com/strangerthings-cafe/J4HnXcF1gXcZapZ64wmFQejdkFBXagfT1HMcXOm4.jpg"
+    },
+    {
+      "id": "3c735eb098c1",
+      "url": "https://www.holo-jong.com/sindan/",
+      "host": "holo-jong.com",
+      "region": "jp",
+      "title": "ホロじゃん",
+      "headline": "【基本プレイ無料】「ホロライブ」初の麻雀ゲーム『ホロじゃん』が本日11月25日より配信開始。PCの大画面でも、手元のスマホでも",
+      "description": "あなたの麻雀プレイスタイル＆相性ぴったりのタレントがわかる！スタイル診断 ホロライブ麻雀-ホロじゃん-",
+      "publishedAt": "2026-11-25T07:30:25.000Z",
+      "addedAt": "2026-11-25T08:00:19.496Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611252d"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release",
+        "browser"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.holo-jong.com/wp-content/themes/officialsite/images/sindan/ogp/ogp-shindan.jpg"
+    },
     {
       "id": "f0f93acd70e4",
       "url": "https://www.super-groupies.com/feature/yugioh_11_outer",
