@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T17:00:22.400Z",
+  "updatedAt": "2026-11-25T17:30:21.262Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1307,
+  "total": 1308,
   "regions": {
-    "jp": 1015,
+    "jp": 1016,
     "global": 292
   },
   "categories": [
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 113
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 209
+      "count": 210
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 461
+      "count": 462
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 27
+      "count": 28
     },
     {
       "id": "switch2",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,37 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "b20960bd7960",
+      "url": "https://www.jupiter.co.jp/switch/picrosssclimax/",
+      "host": "jupiter.co.jp",
+      "region": "jp",
+      "title": "ピクロス",
+      "headline": "Switch向け「ピクロス」シリーズが累計100万DLを突破。11月30日から記念セールがスタート。「ピクロスS CLIMAX」の体験版も公開に",
+      "description": "Nintendo Switch™のピクロス™Sシリーズ9作品の集大成！",
+      "publishedAt": "2026-11-25T17:13:01.000Z",
+      "addedAt": "2026-11-25T17:30:21.262Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/061/G106154/20261126003/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.jupiter.co.jp/switch/picrosssclimax/img/thumbnail.png"
+    },
     {
       "id": "8b84f31b7460",
       "url": "https://www.playdeltaforce.com/ja/",
@@ -5942,7 +5973,7 @@
         "pc"
       ],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdEszyIWY74X6OmnkQE08Pwva6RZuknTBWHGxP-xPwjIUeSZMPPPmx_5QpcPDyV3CfC500ZJtt_-e5enwwd9EpxmIMMeLOwEKH-YEduHTNg73C3RX9b2UsCrPknujJrL4BeK3Ni89TA9DM7tSQ_pXP6osDZCRywECaI1SSur5ylvUQBMBwJ-81zsgYKVzw5E0v2GobtEaaGGRan6cJXoVBP6yTMCN83IsbFu83ASfQ=w1280"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcUO1hCREevGtm9pnlCWE2DgmVzA_Q5ZLOidk7_fVGao8ZxfIBm4hqyzyHj9oFbS-i2O81DLqFl_eZ_I1O2LH76YRq0kuh9vxhOCX5VE-GE7Ht95LHLEwy-rkblxzEIjCv5JDi5SvdSAMQgyb62TwUrAHbZANF6jU1kl1GJbF1AaiXbv0yxTqSMPty5lOF1XQ5ayjoCZnAfkkpI_mSbbRO4L8DIWY4blkCloFhpdQg=w1280"
     },
     {
       "id": "dca3cfb20f36",
@@ -9274,7 +9305,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/6f/42/016f420a-77ba-bde9-de7f-64b909fa7b53/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/51/8e/ef518e91-dc90-91ad-d4e7-3adcdf2c0c73/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "0c53cb2d6eaa",
