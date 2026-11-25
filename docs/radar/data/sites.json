@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-25T11:00:16.657Z",
+  "updatedAt": "2026-11-25T11:30:20.034Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1295,
+  "total": 1303,
   "regions": {
-    "jp": 1006,
-    "global": 289
+    "jp": 1012,
+    "global": 291
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 459
+      "count": 460
     },
     {
       "id": "indie",
@@ -50,12 +50,12 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 31
+      "count": 32
     },
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 132
+      "count": 133
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 346
+      "count": 353
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 507
+      "count": 514
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "arcade",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "4Gamer",
-    "電ファミニコゲーマー",
+    "App Store",
     "Inside",
     "GameBusiness.jp",
-    "App Store",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d4a20d87ec5a",
+      "url": "https://meltyblood.twilumina.com/",
+      "host": "meltyblood.twilumina.com",
+      "region": "jp",
+      "title": "メルブラ",
+      "headline": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』に「弓塚さつき」が参戦！クロスプラットフォームに対応し、2027年4月22日に発売予定",
+      "description": "2D対戦格闘ゲーム『MELTY BLOOD』シリーズ最新作",
+      "publishedAt": "2026-11-25T11:15:05.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611253a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://meltyblood.twilumina.com/ogp.png"
+    },
     {
       "id": "9fc7f157edda",
       "url": "https://connecthearts.jp/contents/ys",
@@ -342,6 +369,39 @@
       "platforms": [],
       "points": null,
       "image": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_4fx5b8kf7985dak7kvgfhhwnfx/64707bd738ba949c38c758eb0625c105_1795036147286.png"
+    },
+    {
+      "id": "aa4cc59942ef",
+      "url": "https://gaspery.com/catsbypost/",
+      "host": "gaspery.com",
+      "region": "global",
+      "title": "Cats by Post",
+      "headline": "Gaspery Limited / パズル・カジュアル · App Store 新着",
+      "description": "Gaspery Limited / パズル・カジュアル · App Store 新着",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834231907"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
     },
     {
       "id": "266c7f486b81",
@@ -1696,6 +1756,205 @@
         "iOS",
         "ストラテジー",
         "カード"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "411cb311404d",
+      "url": "https://peppox.de/en/shardfall/",
+      "host": "peppox.de",
+      "region": "global",
+      "title": "SHARDFALL: Command RTS",
+      "headline": "Burgemeister Michael / ストラテジー · App Store 新着",
+      "description": "SHARDFALL: real-time strategy with base building, two factions, two campaigns and an online ladder. Playable in the bro…",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6821648220"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://peppox.de/static/img/og.png?v=5549a96c"
+    },
+    {
+      "id": "89f5b42be0a5",
+      "url": "https://apps.apple.com/jp/app/id6832339001",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Abecedo",
+      "headline": "Redwixoft / 単語・パズル · App Store 新着",
+      "description": "Redwixoftの「Abecedo」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Abecedo」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832339001"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/3f/53/c83f5310-62f6-3b47-e08b-36957b184fad/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "560eaac02328",
+      "url": "https://apps.apple.com/jp/app/id6838091518",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Abece!: Harflerle 2048",
+      "headline": "Abdulsamet Tak / 単語・パズル · App Store 新着",
+      "description": "Abdulsamet Takの「Abece!: Harflerle 2048」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Abece!: Harflerle 2048」に似たゲーム…",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6838091518"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/78/b5/0e78b573-df72-9a11-1270-8b8cd5a1372a/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "3dfbb18245d7",
+      "url": "https://apps.apple.com/jp/app/id6826317193",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Absi: Four in a Row",
+      "headline": "BRANDY MICHELLE HARGROVE / ボード・ストラテジー · App Store 新着",
+      "description": "BRANDY MICHELLE HARGROVEの「Absi: Four in a Row」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Absi: Four in a Row」に似…",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6826317193"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ボード",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/72/fb/8572fb8b-bc5b-260d-a998-4820517f4570/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "31b78773379f",
+      "url": "https://apps.apple.com/jp/app/id6828261858",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Accused: Murder Mystery Cases",
+      "headline": "Ryan Smith / アドベンチャー・エンターテインメント · App Store 新着",
+      "description": "Ryan Smithの「Accused: Murder Mystery Cases」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Accused: Murder Mystery Ca…",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6828261858"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/53/28/09532840-64b8-6402-6b3b-d6a8a844a22c/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "48bad30b47b3",
+      "url": "https://playtime.beavontech.com/ja/",
+      "host": "playtime.beavontech.com",
+      "region": "jp",
+      "title": "Across Playtime",
+      "headline": "Wuhan Beavon Technology Co.,Ltd / ファミリー · App Store 新着",
+      "description": "iPhoneを1台はさんで、ふたりで遊ぼう。絵の正体を当てたり、ヒントを描いたり、一緒にお話を作ったり。",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T11:30:20.034Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837893478"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー"
       ],
       "categories": [
         "company",
@@ -19591,6 +19850,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/10/28/189983.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611252u"
         }
       ],
       "tags": [
