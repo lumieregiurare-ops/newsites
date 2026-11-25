@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-25T10:30:19.181Z",
+  "updatedAt": "2026-11-25T11:00:16.657Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1292,
+  "total": 1295,
   "regions": {
-    "jp": 1004,
-    "global": 288
+    "jp": 1006,
+    "global": 289
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 456
+      "count": 459
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 345
+      "count": 346
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 150
+      "count": 151
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 506
+      "count": 507
     },
     {
       "id": "browser",
@@ -121,16 +121,105 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
-    "Inside",
+    "AppBank",
     "4Gamer",
+    "電ファミニコゲーマー",
+    "Inside",
     "GameBusiness.jp",
     "App Store",
-    "AppBank",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "9fc7f157edda",
+      "url": "https://connecthearts.jp/contents/ys",
+      "host": "connecthearts.jp",
+      "region": "jp",
+      "title": "イースI・II",
+      "headline": "不朽の名作『イースI・II』が原作の新作「ドラマCD イース Ancient Ys Vanished 上巻」発売！梶裕貴さん演じるアドルによる物語の幕開け",
+      "description": "日本ファルコムの名作アクションRPG『イースI・",
+      "publishedAt": "2026-11-25T11:00:03.000Z",
+      "addedAt": "2026-11-25T11:00:16.657Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175296.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://storage.googleapis.com/production-os-assets/assets/22d8bdfa-e2a4-4aa8-990f-ad718a52e7bd"
+    },
+    {
+      "id": "5c5a366d02ff",
+      "url": "https://apps.apple.com/jp/app/id6812650477",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "水槽のぷる",
+      "headline": "放置型育成ゲーム『水槽のぷる』配信開始！ ことばを教えて「ぷる」を育てよう",
+      "description": "Ciagramの「水槽のぷる」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「水槽のぷる」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-25T11:00:00.000Z",
+      "addedAt": "2026-11-25T11:00:16.657Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/25/game/3177304.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/c9/76/39c9765d-663d-13c1-bae1-bad9f5d1b184/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "d352deb97a71",
+      "url": "https://unruledgames.com/games/no-asteroids",
+      "host": "unruledgames.com",
+      "region": "global",
+      "title": "No Asteroids",
+      "headline": "最大8人で協力し，90日後に衝突する小惑星を掘りまくれ。採掘シミュレーション「No Asteroids」，本日リリース",
+      "description": "Dig an asteroid away in first person before it hits Earth. Coming to Steam 24 November 2026.",
+      "publishedAt": "2026-11-25T10:38:33.000Z",
+      "addedAt": "2026-11-25T11:00:16.657Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/061/G106115/20261125045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://unruledgames.com/no-asteroids/header.png"
+    },
     {
       "id": "4a66144fb31e",
       "url": "https://www.consolearchives.com/",
