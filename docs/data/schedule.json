@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T06:00:39.056Z",
+  "updatedAt": "2026-11-25T06:30:32.155Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
       "appstoreSearch": 0,
-      "appstoreLookup": 0.8
+      "appstoreLookup": 0.1
     },
     "nintendo": 278,
     "steam": 300,
@@ -18,7 +18,7 @@
       "unverified": 4,
       "lookedUp": 35
     },
-    "prereg": 41,
+    "prereg": 40,
     "preregDropped": [
       {
         "title": "アズールプロミリア",
@@ -71,6 +71,10 @@
       {
         "title": "誰ガ為のアルケミスト ポートマスターズ",
         "reason": "released on App Store"
+      },
+      {
+        "title": "深鳶",
+        "reason": "article too old"
       },
       {
         "title": "異世界のんびり農家 ドリーミーライフ",
@@ -165,7 +169,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.003,
+      "priority": 3.002,
       "platforms": [
         "pc"
       ],
@@ -357,7 +361,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.214,
+      "priority": 3.215,
       "platforms": [
         "pc"
       ],
@@ -1109,7 +1113,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.135,
+      "priority": 3.134,
       "platforms": [
         "pc"
       ],
@@ -1317,7 +1321,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.077,
+      "priority": 3.076,
       "platforms": [
         "pc"
       ],
@@ -1381,7 +1385,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.096,
+      "priority": 3.095,
       "platforms": [
         "pc"
       ],
@@ -1573,7 +1577,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.216,
+      "priority": 3.214,
       "platforms": [
         "pc"
       ],
@@ -1589,7 +1593,7 @@
       "date": "2026-11-25",
       "dateText": "2026年11月25日",
       "sortKey": "2026-11-25",
-      "priority": 3.215,
+      "priority": 3.216,
       "platforms": [
         "pc"
       ],
@@ -2191,6 +2195,22 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "0262ee4dd111",
+      "title": "Charmosaic - Wild Horizons",
+      "date": "2026-11-26",
+      "dateText": "2026年11月26日",
+      "sortKey": "2026-11-26",
+      "priority": 3.299,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5509040/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5509040/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "de3b764274a8",
       "title": "Chronocracy",
       "date": "2026-11-26",
@@ -2619,7 +2639,7 @@
       "date": "2026-11-26",
       "dateText": "2026年11月26日",
       "sortKey": "2026-11-26",
-      "priority": 3.267,
+      "priority": 3.266,
       "platforms": [
         "pc"
       ],
@@ -2813,7 +2833,7 @@
       "date": "2026-11-26",
       "dateText": "2026年11月26日",
       "sortKey": "2026-11-26",
-      "priority": 3.09,
+      "priority": 3.089,
       "platforms": [
         "pc"
       ],
@@ -5165,7 +5185,7 @@
       "date": "2026-11-27",
       "dateText": "2026年11月27日",
       "sortKey": "2026-11-27",
-      "priority": 3.038,
+      "priority": 3.037,
       "platforms": [
         "pc"
       ],
@@ -5468,7 +5488,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.002,
+      "priority": 3.003,
       "platforms": [
         "pc"
       ],
@@ -5484,7 +5504,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.266,
+      "priority": 3.267,
       "platforms": [
         "pc"
       ],
@@ -5564,7 +5584,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.134,
+      "priority": 3.135,
       "platforms": [
         "pc"
       ],
@@ -5637,22 +5657,6 @@
       "headline": "3D競馬ジョッキーゲーム『JockeyBox』Android版、Google Playで事前登録開始！ 980円で11月下旬〜12月上旬発売予定",
       "source": "AppBank",
       "sourceUrl": "https://www.appbank.net/2026/11/16/game/3167163.php"
-    },
-    {
-      "id": "49a45d3ad672",
-      "title": "SUSPECIES",
-      "date": null,
-      "dateText": "2026年11月",
-      "sortKey": "2026-11-32",
-      "priority": 3.299,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4932310/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932310/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
       "id": "493e3e93b19a",
@@ -6116,7 +6120,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.095,
+      "priority": 3.096,
       "platforms": [
         "pc"
       ],
@@ -6164,7 +6168,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.078,
+      "priority": 3.077,
       "platforms": [
         "pc"
       ],
@@ -6461,7 +6465,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.089,
+      "priority": 3.09,
       "platforms": [
         "pc"
       ],
@@ -7953,7 +7957,7 @@
       "date": "2026-12-10",
       "dateText": "2026年12月10日",
       "sortKey": "2026-12-10",
-      "priority": 3.076,
+      "priority": 3.078,
       "platforms": [
         "pc"
       ],
@@ -9177,7 +9181,7 @@
       "date": null,
       "dateText": "2026年",
       "sortKey": "2026-13-00",
-      "priority": 3.037,
+      "priority": 3.038,
       "platforms": [
         "pc"
       ],
@@ -11704,7 +11708,7 @@
         "mobile"
       ],
       "startedAt": "2026-10-28T04:00:03.000Z",
-      "releaseText": "2026年11月25日",
+      "releaseText": "2026年12月23日",
       "releaseSource": "appstore",
       "count": "事前登録者数が20万人",
       "reward": "",
@@ -11717,7 +11721,7 @@
       "appStore": {
         "url": "https://apps.apple.com/jp/app/id6740988190",
         "preorder": true,
-        "releaseDate": "2026-11-25T08:00:00Z"
+        "releaseDate": "2026-12-23T08:00:00Z"
       }
     },
     {
@@ -11897,26 +11901,6 @@
       "description": "A game jam from 2026-10-21 to 2027-03-01 hosted by Figglewatts. Welcome to the annual LSDJAM event for 2026! This is th…",
       "source": "Game*Spark",
       "sourceUrl": "http://www.gamespark.jp/article/2026/10/13/173541.html",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
-      "id": "52ab6f084262",
-      "title": "深鳶",
-      "url": "https://www.taptap.cn/app/582728?os=android",
-      "image": "https://img-tc.tapimg.com/market/images/bc5094538e8345c59c3aaf6e2b3b6436.png/_tap_appicon.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-10-11T06:10:02.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "美少女×武装艦の新作RPG『深鳶』が中国で配信開始！人気アニメ原作『鎮魂街』新作アクションもテスト間近―日本未上陸の注目ゲーム3選【2026年10月11日】",
-      "description": "深鸢是一款角色扮演游戏，TapTap 提供深鸢最新1.0.9版官方正版下载，由于【大灾难】的出现，海洋吞没了全部的陆地。为了生存，人类建...",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/11/189107.html",
       "appleId": "",
       "trackId": ""
     },
@@ -12149,7 +12133,7 @@
       "platforms": [
         "mobile"
       ],
-      "to": "App Store 2026年11月25日"
+      "to": "App Store 2026年12月23日"
     },
     {
       "at": "2026-11-24T15:00:43.008Z",
