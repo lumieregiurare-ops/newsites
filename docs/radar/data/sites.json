@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-25T07:00:19.789Z",
+  "updatedAt": "2026-11-25T07:30:20.431Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1286,
+  "total": 1287,
   "regions": {
     "jp": 999,
-    "global": 287
+    "global": 288
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 166
+      "count": 168
     },
     {
       "id": "anniversary",
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 264
+      "count": 263
     },
     {
       "id": "release",
@@ -55,12 +55,12 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 129
+      "count": 131
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 61
+      "count": 62
     },
     {
       "id": "goods",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 503
+      "count": 504
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "Inside",
     "4Gamer",
     "電ファミニコゲーマー",
-    "Inside",
     "GameBusiness.jp",
     "App Store",
     "Game*Spark",
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "f0f93acd70e4",
+      "url": "https://www.super-groupies.com/feature/yugioh_11_outer",
+      "host": "super-groupies.com",
+      "region": "jp",
+      "title": "遊戯王",
+      "headline": "「遊戯王」海馬瀬人イメージのロングコートがおしゃれ！ 「海馬コーポレーション」ロゴ入りニットなど、新作アイテムが予約受付中",
+      "description": "「遊戯王」海馬瀬人イメージのロングコートがおしゃれ！ 「海馬コーポレーション」ロゴ入りニットなど、新作アイテムが予約受付中",
+      "publishedAt": "2026-11-25T07:10:03.000Z",
+      "addedAt": "2026-11-25T07:30:20.431Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/25/191538.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "0323e7e87f6a",
       "url": "https://www.fortnite.com/",
@@ -1403,6 +1430,40 @@
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/15/9d/48159d71-9043-821a-5be7-8a07b2263955/Placeholder.mill/1200x630wa.jpg"
     },
     {
+      "id": "34d148d81683",
+      "url": "https://alto-studio.jp/",
+      "host": "alto-studio.jp",
+      "region": "jp",
+      "title": "カード迷宮：オフラインバトル",
+      "headline": "ALTO Inc. / ストラテジー・カード · App Store 新着",
+      "description": "ALTO Inc. / ストラテジー・カード · App Store 新着",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-25T07:30:20.431Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6825628532"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "カード"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
       "id": "d0cb9bac913a",
       "url": "https://www.mary.co.jp/mary/",
       "host": "mary.co.jp",
@@ -2276,6 +2337,41 @@
       ],
       "points": null,
       "image": "https://play-lh.googleusercontent.com/EmgV3PwyaN2Gr1NleaO0Db9tWU8YehDJjAC0rkz2eTrYlNvXagMKBr0Z9nBsydj7LOCFsG7VxBbCBv_Y0igy2A=s0-br30"
+    },
+    {
+      "id": "2a4f262064c8",
+      "url": "https://mobtive.com/",
+      "host": "mobtive.com",
+      "region": "global",
+      "title": "チーズラン：坂道ころころ逃走ゲーム",
+      "headline": "Mustafa Bugra Sozeri / カジュアル・アクション · App Store 新着",
+      "description": "Mobtive is an independent studio building mobile apps and games for iPhone and Android: AI photo tools, language learni…",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "addedAt": "2026-11-25T07:30:20.431Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837705456"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "アクション"
+      ],
+      "categories": [
+        "prereg",
+        "company",
+        "media"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://mobtive.com/og?t=Mobtive+%E2%80%94+Independent+mobile+app+and+game+studio"
     },
     {
       "id": "2c6eabc0dd6e",
@@ -6532,7 +6628,7 @@
         "switch2"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611240612"
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611250715"
     },
     {
       "id": "00e80838bf52",
@@ -10721,7 +10817,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://science.nasa.gov/wp-content/uploads/2017/12/voyager.png"
+      "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/voyager/one-light-day/1LD-One-Light-Day_Voyager-1_Shine-Bright_thumbnail.jpg"
     },
     {
       "id": "151491aa1516",
@@ -38945,33 +39041,6 @@
       "image": "https://play-lh.googleusercontent.com/aoHQJmD4R_vvS9dWjjloMSgwX5zulBeRf7JrKofCHZchJQVvN_zxR_oITVPjvdoSltkPambad60pkvj5TsDfXw=s0-br30"
     },
     {
-      "id": "b8bbec5dacd2",
-      "url": "https://www.level5.co.jp/tgs2026/",
-      "host": "level5.co.jp",
-      "region": "jp",
-      "title": "レイトン教授と蒸気の新世界",
-      "headline": "『レイトン教授と蒸気の新世界』『ホーリーホラーマンション』『スナックワールド RELOADED』『デカポリス』のTGS試遊版プレイ動画が一挙に公開！",
-      "description": "東京ゲームショウ2026 レベルファイブタイトル出展決定!",
-      "publishedAt": "2026-09-26T07:30:02.000Z",
-      "addedAt": "2026-09-26T07:30:16.388Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/26/172795.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://www.level5.co.jp/tgs2026/assets/img/shared/ogp.jpg"
-    },
-    {
       "id": "cb6679636009",
       "url": "https://play.google.com/store/apps/details?id=com.withprize.slideblock",
       "host": "play.google.com",
@@ -39671,41 +39740,6 @@
       ],
       "points": null,
       "image": "https://bang-dream-on.bushimo.jp/wordpress/wp-content/themes/bang-dream-on_prod/assets/images/common/ogp.webp?20260913"
-    },
-    {
-      "id": "810450323c89",
-      "url": "https://apps.apple.com/jp/app/id6759667009",
-      "host": "apps.apple.com",
-      "region": "jp",
-      "title": "超増税都市",
-      "headline": "Ota Sora / カジュアル・シミュレーション · App Store 新着",
-      "description": "Ota Soraの「超増税都市」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「超増税都市」に似たゲームを見ることなどができます。",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "addedAt": "2026-09-26T07:30:16.388Z",
-      "source": "App Store",
-      "sources": [
-        {
-          "name": "App Store",
-          "url": "https://apps.apple.com/jp/app/id6759667009"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "スマホ",
-        "iOS",
-        "カジュアル",
-        "シミュレーション",
-        "Casual",
-        "Simulation"
-      ],
-      "categories": [
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/8e/a7/918ea7c3-6fa1-07a5-40f0-1c177bcd62bd/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "ab75820e29fe",
