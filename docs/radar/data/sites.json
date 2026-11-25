@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-25T09:30:17.745Z",
+  "updatedAt": "2026-11-25T10:00:16.963Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1290,
+  "total": 1292,
   "regions": {
-    "jp": 1002,
+    "jp": 1004,
     "global": 288
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 455
+      "count": 456
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 131
+      "count": 132
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 344
+      "count": 345
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 142
+      "count": 143
     }
   ],
   "platforms": [
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 505
+      "count": 506
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Game*Spark",
     "電ファミニコゲーマー",
+    "Game*Spark",
     "Inside",
     "4Gamer",
     "GameBusiness.jp",
@@ -131,6 +131,67 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d7ebb99848b6",
+      "url": "https://hatenacoffee.experiful.jp/locations/nagoya/",
+      "host": "hatenacoffee.experiful.jp",
+      "region": "jp",
+      "title": "はてな珈琲店",
+      "headline": "“謎を解かないと帰れない”カフェ「はてな珈琲店」が12月1日に名古屋にオープンへ。予約なしでも当日ふらっと立ち寄れる",
+      "description": "名古屋栄店 はてな珈琲店１０号店の名古屋栄店。オシャレな店内でドリンク片手にゆる〜く楽しめる、気楽な謎解きカフ",
+      "publishedAt": "2026-11-25T09:52:13.000Z",
+      "addedAt": "2026-11-25T10:00:16.963Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611252r"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://hatenacoffee.experiful.jp/wp-content/uploads/2026/11/6e066c8b9d0c32fcd136c492def2ec70.jpg"
+    },
+    {
+      "id": "561af60edf2e",
+      "url": "https://apps.apple.com/jp/app/id6740350229",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "モンスターハンターライズ",
+      "headline": "『モンスターハンターライズ』iOS/Android版Netflix会員向けに配信開始。スマホでも一狩り行こうぜ！",
+      "description": "Netflix, Inc.の「MONSTER HUNTER RISE NETFLIX」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「MONSTER HUNTER RISE NETFL…",
+      "publishedAt": "2026-11-25T09:45:02.000Z",
+      "addedAt": "2026-11-25T10:00:16.963Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/25/175292.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/14/97/52149725-42b4-7138-07cd-b5ce74c9c921/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "a3a8ef627dfc",
       "url": "https://galliumstudios.com/",
@@ -146,6 +207,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/25/175289.html"
+        },
+        {
+          "name": "GameBusiness.jp",
+          "url": "https://www.gamebusiness.jp/article/2026/11/25/28848.html"
         }
       ],
       "tags": [
