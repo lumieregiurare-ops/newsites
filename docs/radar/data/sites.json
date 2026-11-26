@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T16:00:19.346Z",
+  "updatedAt": "2026-11-26T16:30:16.610Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1337,
+  "total": 1338,
   "regions": {
-    "jp": 1039,
+    "jp": 1040,
     "global": 298
   },
   "categories": [
@@ -50,7 +50,7 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 32
+      "count": 33
     },
     {
       "id": "company",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 364
+      "count": 365
     },
     {
       "id": "official",
@@ -102,12 +102,12 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 531
+      "count": 532
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 18
+      "count": 19
     },
     {
       "id": "arcade",
@@ -1269,6 +1269,41 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "2bebb7c1bf1d",
+      "url": "https://piko2game.com/",
+      "host": "piko2game.com",
+      "region": "jp",
+      "title": "ぴこぴこゲーム",
+      "headline": "ruka tokushige / エンターテインメント・ファミリー · App Store 新着",
+      "description": "ぴこぴこPが作ったおもろいWebゲーム。登録なし・スマホでそのまま遊べる！",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "addedAt": "2026-11-26T16:30:16.610Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837298357"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ファミリー"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://piko2game.com/assets/og.png"
     },
     {
       "id": "266c7f486b81",
@@ -4363,7 +4398,7 @@
         "ps"
       ],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcRu-cczn-SOTrRpsf34QzUEup5Zws-vCxCfPqdMRmxIUgjZlDE9s7PCjQ1-FknPpy3KccxodBCoIADenOqS73TLAKZhzGNNpVQ6ViOWxSWu1MwemWqB4klXPHORgOalZIO7vXzTxbmrRty0voO5DJ1fUHXjP4vqw6YX6juJ32vXFrH7WIvjCf6sm_Y=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdVXS1Ri1rp8vSvgUtNi2HRpoE2EeoRdTyAZ1tFS5EchZu_1PYzBz-E_iHjpnLXYLVw-tCwD4CK5hQ5AC6Zhmtc7YgEtR7eVAIG8Co7idYr1WxjhfpPN8Cd43JKN5OPt_4DQdNEHpzt78Y7xbNs6o3D2hiTz7QUxRmk1Ai8LT3CR6gk1GO_XbR-iPPC=w16383"
     },
     {
       "id": "08fade7d2b1f",
