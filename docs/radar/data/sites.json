@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T09:00:19.695Z",
+  "updatedAt": "2026-11-26T09:30:17.040Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1325,
+  "total": 1326,
   "regions": {
-    "jp": 1028,
+    "jp": 1029,
     "global": 297
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 212
+      "count": 213
     },
     {
       "id": "event",
@@ -132,6 +132,33 @@
   ],
   "items": [
     {
+      "id": "611e09e1f0a3",
+      "url": "https://www.durex.jp/pages/why-durex/",
+      "host": "durex.jp",
+      "region": "jp",
+      "title": "ゲーミングコンドーム",
+      "headline": "まさかの「ゲーミングコンドーム」が爆誕。Razerがコンドームの老舗メーカーとコラボ―マウスパッド＋“持久”コンドームで戦い抜く",
+      "description": "Durexは1915年に誕生し、世界150カ国で販売されているコンドームブランド。",
+      "publishedAt": "2026-11-26T09:15:03.000Z",
+      "addedAt": "2026-11-26T09:30:17.040Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/26/175331.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://eu-images.contentstack.com/v3/assets/blt488325e30f106c4d/blt6c2dfdbb5049cb1c/6979e3fa0a92d0a996605417/bltf7e9648e7ae7281a-Durex_KristinaN_12_Adjusted.webp"
+    },
+    {
       "id": "65b8fee1afc5",
       "url": "https://www.entergram.co.jp/senti-re/",
       "host": "entergram.co.jp",
@@ -146,6 +173,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/26/175330.html"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262i"
         }
       ],
       "tags": [
@@ -5490,7 +5521,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/4b/07/1e4b07ce-5679-ca12-1678-a589725fb903/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/aa/aa/6faaaa51-056a-6291-a695-4d222cdfe515/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "cfa49f4e4ca7",
