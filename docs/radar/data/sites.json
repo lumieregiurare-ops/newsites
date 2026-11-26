@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T08:30:22.037Z",
+  "updatedAt": "2026-11-26T09:00:19.695Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1323,
+  "total": 1325,
   "regions": {
-    "jp": 1026,
+    "jp": 1028,
     "global": 297
   },
   "categories": [
@@ -30,17 +30,17 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 211
+      "count": 212
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 272
+      "count": 273
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 468
+      "count": 470
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 30
+      "count": 31
     },
     {
       "id": "switch2",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 154
+      "count": 155
     },
     {
       "id": "mobile",
@@ -121,16 +121,75 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "4Gamer",
     "AppBank",
     "Inside",
     "電ファミニコゲーマー",
-    "4Gamer",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "65b8fee1afc5",
+      "url": "https://www.entergram.co.jp/senti-re/",
+      "host": "entergram.co.jp",
+      "region": "jp",
+      "title": "センチメンタルグラフティリメイク",
+      "headline": "伝説のギャルゲーが29年の時を経て再び『センチメンタルグラフティリメイク』2027年3月25日発売決定！水着を含む大量のイベントCGが眩しい…新たな『セングラ』",
+      "description": "『センチメンタルグラフティリメイク』 公式サイト 2027.3.25 ON SALE",
+      "publishedAt": "2026-11-26T09:00:03.000Z",
+      "addedAt": "2026-11-26T09:00:19.695Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/26/175330.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release",
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.entergram.co.jp/senti-re/assets/img/common/ogp.jpg"
+    },
+    {
+      "id": "f020ca1d0afe",
+      "url": "https://game.rakuen-tsuiho.com/",
+      "host": "game.rakuen-tsuiho.com",
+      "region": "jp",
+      "title": "楽園追放 -The Stellar Angel-",
+      "headline": "劇場版の後日譚を描く完全新作ビジュアルノベル「楽園追放 -The Stellar Angel-」，本日リリース",
+      "description": "『楽園追放 The Stellar Angel』公式サイト。Nintendo Switch、Steamで好評発売中。",
+      "publishedAt": "2026-11-26T08:53:47.000Z",
+      "addedAt": "2026-11-26T09:00:19.695Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/006/G100663/20261126029/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://game.rakuen-tsuiho.com/share/images/og_4.png"
+    },
     {
       "id": "71971dd4d118",
       "url": "https://apps.apple.com/jp/app/id6821595984",
