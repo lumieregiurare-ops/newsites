@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T06:30:17.565Z",
+  "updatedAt": "2026-11-26T07:00:17.659Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1320,
+  "total": 1321,
   "regions": {
-    "jp": 1023,
+    "jp": 1024,
     "global": 297
   },
   "categories": [
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 271
+      "count": 272
     },
     {
       "id": "release",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
-    "Inside",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "12affe9e5405",
+      "url": "https://www.0101.co.jp/054/event/detail.html?article_seq=145943&article_type=sto",
+      "host": "0101.co.jp",
+      "region": "jp",
+      "title": "ウルトラ怪獣",
+      "headline": "なんというハイレグ！宝多六花たちを「ウルトラ怪獣」モチーフに描き下ろした、「グリッドマン ユニバース」POP UP開催決定",
+      "description": "QINOCOP グリッドマンヒロイン×ウルトラ怪獣 POPUP in OIOI 開催決定！",
+      "publishedAt": "2026-11-26T07:00:03.000Z",
+      "addedAt": "2026-11-26T07:00:17.659Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/26/191591.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.0101.co.jp/contents2/storenews/054/284014ffcb2eeaf43d5be67f2bb3ccc3_02_01.jpg"
+    },
     {
       "id": "da6319514e1d",
       "url": "https://www.pokemon.co.jp/ex/pokemonhome/ja/titles/pokemongo/",
@@ -399,6 +426,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/news/261126l"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/983/G098319/20261126025/"
         }
       ],
       "tags": [
