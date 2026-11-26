@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T09:30:17.040Z",
+  "updatedAt": "2026-11-26T10:00:19.786Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1326,
+  "total": 1328,
   "regions": {
-    "jp": 1029,
+    "jp": 1031,
     "global": 297
   },
   "categories": [
@@ -20,22 +20,22 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 168
+      "count": 169
     },
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 113
+      "count": 114
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 213
+      "count": 215
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 273
+      "count": 274
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 357
+      "count": 358
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 523
+      "count": 524
     },
     {
       "id": "browser",
@@ -121,16 +121,80 @@
     }
   ],
   "sources": [
-    "Game*Spark",
-    "4Gamer",
-    "AppBank",
     "Inside",
+    "4Gamer",
+    "Game*Spark",
+    "AppBank",
     "電ファミニコゲーマー",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "32e95a7221b1",
+      "url": "https://toy.bandai.co.jp/ja/item/01_21451/",
+      "host": "toy.bandai.co.jp",
+      "region": "jp",
+      "title": "クラッシュギア",
+      "headline": "「クラッシュギア」が令和に復活!? 25周年を記念して「バラバライド」に「ガルダイーグル」が登場へ",
+      "description": "株式会社バンダイ トイ事業部が運営する公式サイトです。最新の玩具情報、イベント、キャンペーン情報についてお届けいたします。キャラクターや発売時期からお好きな商品を検索できます。",
+      "publishedAt": "2026-11-26T09:40:02.000Z",
+      "addedAt": "2026-11-26T10:00:19.786Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/26/191603.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://toy.bandai.co.jp/ja/ogp.jpg"
+    },
+    {
+      "id": "953a8d971d6b",
+      "url": "https://www.snkcrossover.indexg.net/",
+      "host": "snkcrossover.indexg.net",
+      "region": "jp",
+      "title": "SNKクロスオーバー",
+      "headline": "草薙 京や不知火 舞らSNK作品のキャラクターたちが集結する「SNKクロスオーバー」，事前登録をApp StoreとGoogle Playで開始",
+      "description": "歴代の人気ファイターが作品の垣根を越えて集結する、オールスターRPG！",
+      "publishedAt": "2026-11-26T09:30:06.000Z",
+      "addedAt": "2026-11-26T10:00:19.786Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/061/G106184/20261126032/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://snkcrossover.indexg.net/brand/og-image.jpg"
+    },
     {
       "id": "611e09e1f0a3",
       "url": "https://www.durex.jp/pages/why-durex/",
@@ -13758,12 +13822,18 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/486/G048642/20261109020/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/26/175334.html"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "特設サイト"
       ],
       "categories": [
+        "campaign",
         "event"
       ],
       "platforms": [],

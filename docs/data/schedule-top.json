@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:30:30.684Z",
+  "updatedAt": "2026-11-26T10:00:39.744Z",
   "platforms": [
     {
       "id": "switch",
@@ -275,6 +275,31 @@
   ],
   "prereg": [
     {
+      "id": "953a8d971d6b",
+      "title": "SNKクロスオーバー",
+      "url": "https://www.snkcrossover.indexg.net/",
+      "image": "https://snkcrossover.indexg.net/brand/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-26T09:30:06.000Z",
+      "releaseText": "2026年12月24日",
+      "releaseSource": "appstore",
+      "count": "",
+      "reward": "",
+      "headline": "草薙 京や不知火 舞らSNK作品のキャラクターたちが集結する「SNKクロスオーバー」，事前登録をApp StoreとGoogle Playで開始",
+      "description": "歴代の人気ファイターが作品の垣根を越えて集結する、オールスターRPG！",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/061/G106184/20261126032/",
+      "appleId": "6779082914",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6779082914",
+        "preorder": true,
+        "releaseDate": "2026-12-24T08:00:00Z"
+      },
+      "trackId": "6779082914"
+    },
+    {
       "id": "49957b1853a1",
       "title": "シノビNEXUS - 閃乱カグラ -",
       "url": "https://hpgames.jp/shinovi-nexus/",
@@ -428,34 +453,21 @@
       "sourceUrl": "https://www.4gamer.net/games/570/G057029/20261118040/",
       "appleId": "",
       "trackId": ""
-    },
-    {
-      "id": "2fb65f26bde8",
-      "title": "クイズアクションRPG ウィズジェネレーション",
-      "url": "https://wiz-generation.com/",
-      "image": "https://wiz-generation.com/assets/og-image.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-18T04:15:02.000Z",
-      "releaseText": "2027年2月14日",
-      "releaseSource": "appstore",
-      "count": "事前登録5万人",
-      "reward": "",
-      "headline": "コロプラ新作『クイズアクションRPG ウィズジェネレーション』ゲーム紹介トレイラー公開！事前登録5万人突破、「ガチャチケット15連分」配布へ",
-      "description": "あなたの知識がド派手な一撃に変わる！クイズアクションRPG ウィズジェネレーションの公式サイトです。",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/11/18/191164.html",
-      "appleId": "",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6761871323",
-        "preorder": true,
-        "releaseDate": "2027-02-14T08:00:00Z"
-      },
-      "trackId": "6761871323"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-26T10:00:39.744Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "SNKクロスオーバー",
+      "url": "https://www.snkcrossover.indexg.net/",
+      "image": "https://snkcrossover.indexg.net/brand/og-image.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2026年12月24日"
+    },
     {
       "at": "2026-11-25T17:00:40.534Z",
       "type": "new",
@@ -511,18 +523,6 @@
       "title": "アイテムきせかえ！ハッピーストーリー",
       "url": "https://store-jp.nintendo.com/item/software/D70010000138091",
       "image": "https://img-eshop.cdn.nintendo.net/i/bae57022a6355925faa4b89e175ed4023543319854be7470fa7c60adfcf73c32.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
-      "at": "2026-11-25T17:00:40.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Little Genius: Spot the Difference",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000138187",
-      "image": "https://img-eshop.cdn.nintendo.net/i/db958d28fe193507a5b551b8d0a07b1d0ee3fa1bac539761af12766115aa1691.jpg",
       "platforms": [
         "switch"
       ],
