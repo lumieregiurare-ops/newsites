@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T03:00:24.888Z",
+  "updatedAt": "2026-11-26T03:30:18.005Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1312,
+  "total": 1315,
   "regions": {
-    "jp": 1017,
+    "jp": 1020,
     "global": 295
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 269
+      "count": 270
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 463
+      "count": 464
     },
     {
       "id": "indie",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 143
+      "count": 144
     }
   ],
   "platforms": [
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 154
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 519
+      "count": 520
     },
     {
       "id": "browser",
@@ -131,6 +131,91 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "28813110157c",
+      "url": "https://www.konami.com/games/suikoden/star_leap/",
+      "host": "konami.com",
+      "region": "jp",
+      "title": "幻想水滸伝",
+      "headline": "『幻想水滸伝』最新作『幻水SP』は王道RPGの皮を被った料理ゲーだった。100人以上の仲間を強くするためずっと鍋を振っている",
+      "description": "『幻想水滸伝 STAR LEAP』は、「幻想水滸伝」シリーズ初のモバイルゲームです。紋章を巡る新たな108星の物語が始まるー。",
+      "publishedAt": "2026-11-26T03:10:30.000Z",
+      "addedAt": "2026-11-26T03:30:18.005Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126i"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.konami.com/games/suikoden/star_leap/s/images/sns_suikoden_starleap3_ja.jpg?v=63"
+    },
+    {
+      "id": "3fa5bd223be9",
+      "url": "https://infiniteloop.co.jp/desktopmate/",
+      "host": "infiniteloop.co.jp",
+      "region": "jp",
+      "title": "Desktop Mate",
+      "headline": "「OИE」がデスクトップで動き回る！「ダーリン」と呼びかけてくれる『Desktop Mate』新DLCが本日より配信開始",
+      "description": "次世代デスクトップマスコットプラットフォーム「Desktop Mate」。公式監修の高クオリティなかわいいキャラクターたちがあなたのPCデスクトップ上で魅力的に動き回ります。無料ダウンロード可能、人気キャラクターのDLC続々登場中！",
+      "publishedAt": "2026-11-26T03:00:58.000Z",
+      "addedAt": "2026-11-26T03:30:18.005Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262z"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://www.infiniteloop.co.jp/desktopmate/common/img/desktopmate_og.jpg"
+    },
+    {
+      "id": "329cc253ab59",
+      "url": "https://games.parco.jp/",
+      "host": "games.parco.jp",
+      "region": "jp",
+      "title": "サイレントヒル2",
+      "headline": "『サイレントヒル2』の展覧会が大阪、ポップアップストアが福岡と愛知のパルコで開催決定。7月に東京で開催され反響を呼んだ「EXHIBITION OF SILENT HILL 2」が…",
+      "description": "PARCO GAMESの公式サイトです。",
+      "publishedAt": "2026-11-26T03:00:57.000Z",
+      "addedAt": "2026-11-26T03:30:18.005Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261126b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://games.parco.jp/OGP.jpeg"
+    },
     {
       "id": "89ff6d2aa502",
       "url": "https://careesports.com/",
@@ -3672,6 +3757,10 @@
         {
           "name": "電ファミニコゲーマー",
           "url": "https://news.denfaminicogamer.jp/kikakuthetower/261126z"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/26/191579.html"
         }
       ],
       "tags": [
@@ -11799,7 +11888,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/3a/0a/433a0ab0-f35d-cce7-e701-d990eccd8b46/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/22/40/b3224093-c831-3774-9eea-7bee99424107/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "d05813c81a23",
@@ -38055,7 +38144,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdWB9WPAYZlBOqWGibniGQYyCygReiotLB-FEQSvbavSIIHcrCLY1gmdsxSkfwY801g_sZwCzmsEJpmZLU2hB__fXJAhOlmhN1OPL3-kbdtKnDBOohWLaPFmAhM5OjGHIFlnDkYQx98kLfnnhJaKUDlbj6tB9S0oDBo4mKE-F25FWpTfFLt2-6ObmtR1wM=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcJBoqbraWkebZ3PuVXwBtLq7E5gSsuh1Wf7BYQyl7DiD5POqOcAe7YcMaifOqpAS8RWRhrND9tqShXVBtX8zC8XHp_P6qln_iTJZ6cBP8VYjPF4poiOCkYU-fNoXZCKUJCdDut8H_9WZY7G-sBuuyaePs_8uouj0oNd0XGfkE6DMabh8AHzZ90QCbNlxU=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
