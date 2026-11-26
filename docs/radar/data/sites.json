@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T03:30:18.005Z",
+  "updatedAt": "2026-11-26T04:00:16.726Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1315,
+  "total": 1316,
   "regions": {
-    "jp": 1020,
+    "jp": 1021,
     "global": 295
   },
   "categories": [
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 144
+      "count": 145
     }
   ],
   "platforms": [
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "dca6f901e315",
+      "url": "https://m-78.jp/",
+      "host": "m-78.jp",
+      "region": "jp",
+      "title": "レッドマン",
+      "headline": "あの『レッドマン』の“100時間耐久配信”がYouTubeで決定。しかも「レッドマン派」「怪獣派」に分かれ視聴者同士でバトル、チャット欄と連動",
+      "description": "あの『レッドマン』の“100時間耐久配信”がYouTubeで決定。しかも「レッドマン派」「怪獣派」に分かれ視聴者同士でバトル、チャット欄と連動",
+      "publishedAt": "2026-11-26T03:37:30.000Z",
+      "addedAt": "2026-11-26T04:00:16.726Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262f"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "official"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "28813110157c",
       "url": "https://www.konami.com/games/suikoden/star_leap/",
@@ -1020,7 +1047,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://ss-beta.co.jp/products/daisenryaku-ssb-2/image/dsssb2_ogp_03.jpg"
+      "image": "https://ss-beta.co.jp/products/daisenryaku-ssb-2/image/dsssb2_season2_ogp_02.jpg"
     },
     {
       "id": "2e7b3b9dbc1c",
@@ -10717,6 +10744,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/010/G101055/20261105050/"
+        },
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262d"
         }
       ],
       "tags": [
@@ -31535,7 +31566,8 @@
       ],
       "tags": [
         "ゲーム",
-        "特設サイト"
+        "特設サイト",
+        "事前登録"
       ],
       "categories": [
         "campaign",
