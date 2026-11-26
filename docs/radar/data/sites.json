@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-26T04:30:17.406Z",
+  "updatedAt": "2026-11-26T05:00:25.953Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1316,
+  "total": 1317,
   "regions": {
     "jp": 1021,
-    "global": 295
+    "global": 296
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 464
+      "count": 465
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "4Gamer",
+    "電ファミニコゲーマー",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "5cb6456b6f9f",
+      "url": "https://stagetour.com/",
+      "host": "stagetour.com",
+      "region": "global",
+      "title": "STAGE TOUR",
+      "headline": "楽器コントローラ対応の新作リズムアクション「STAGE TOUR」，ゲームシステムを紹介する最新映像が公開。全95曲を収録予定",
+      "description": "Stage Tour is a new rhythm-action game featuring 90+ officially licensed songs, guitar, drums, vocals and more. Launchi…",
+      "publishedAt": "2026-11-26T04:45:10.000Z",
+      "addedAt": "2026-11-26T05:00:25.953Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/041/G104158/20261126016/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://stagetour.com/cdn/shop/files/Hero_Image.png?v=1788185779&width=2048"
+    },
     {
       "id": "dca6f901e315",
       "url": "https://m-78.jp/",
@@ -30964,7 +30991,8 @@
       "tags": [
         "ゲーム",
         "スマホ",
-        "Android"
+        "Android",
+        "iOS"
       ],
       "categories": [
         "official"
