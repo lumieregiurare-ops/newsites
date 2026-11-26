@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T07:00:17.659Z",
+  "updatedAt": "2026-11-26T07:30:18.318Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1321,
+  "total": 1322,
   "regions": {
-    "jp": 1024,
+    "jp": 1025,
     "global": 297
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 467
+      "count": 468
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 133
+      "count": 134
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 355
+      "count": 356
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 521
+      "count": 522
     },
     {
       "id": "browser",
@@ -121,16 +121,49 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
-    "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "71971dd4d118",
+      "url": "https://apps.apple.com/jp/app/id6821595984",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "見習い錬金術師の雑貨店",
+      "headline": "借金30万から雑貨店を育てる！ 『見習い錬金術師の雑貨店』がiPhone向けに配信開始",
+      "description": "Walker Co., Ltd.の「見習い錬金術師の雑貨店」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「見習い錬金術師の雑貨店」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-26T07:10:00.000Z",
+      "addedAt": "2026-11-26T07:30:18.318Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/26/game/3178319.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/da/b5/57dab5c2-53db-3442-2a5e-b51a7f15ace8/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "12affe9e5405",
       "url": "https://www.0101.co.jp/054/event/detail.html?article_seq=145943&article_type=sto",
