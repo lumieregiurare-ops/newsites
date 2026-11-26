@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T07:30:18.318Z",
+  "updatedAt": "2026-11-26T08:00:20.253Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1322,
+  "total": 1323,
   "regions": {
-    "jp": 1025,
+    "jp": 1026,
     "global": 297
   },
   "categories": [
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 134
+      "count": 135
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 356
+      "count": 357
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 522
+      "count": 523
     },
     {
       "id": "browser",
@@ -2476,6 +2476,40 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "74500f6853ad",
+      "url": "https://card-labyrinth.alto-studio.jp/",
+      "host": "card-labyrinth.alto-studio.jp",
+      "region": "jp",
+      "title": "カード迷宮：オフラインバトル",
+      "headline": "ALTO Inc. / ストラテジー・カード · App Store 新着",
+      "description": "600種以上のカードと、80人以上の対戦相手。記憶の迷宮の先にある、王の座を目指そう。",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "addedAt": "2026-11-26T08:00:20.253Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6825628532"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ストラテジー",
+        "カード"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://card-labyrinth.alto-studio.jp/assets/ogp-wide.jpg?v=cards-1108"
     },
     {
       "id": "d0cb9bac913a",
@@ -7666,7 +7700,7 @@
         "switch2"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611250715"
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611260738"
     },
     {
       "id": "00e80838bf52",
@@ -38349,6 +38383,10 @@
         {
           "name": "4Gamer",
           "url": "https://www.4gamer.net/games/979/G097942/20260930015/"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/26/175326.html"
         }
       ],
       "tags": [
