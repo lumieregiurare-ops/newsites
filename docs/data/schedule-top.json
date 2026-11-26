@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:30:37.380Z",
+  "updatedAt": "2026-11-26T19:00:28.297Z",
   "platforms": [
     {
       "id": "switch",
@@ -354,6 +354,26 @@
       "trackId": "6569243522"
     },
     {
+      "id": "da08b60159e9",
+      "title": "信長の野望・飛翔",
+      "url": "https://www.gamecity.ne.jp/hishou/jp/",
+      "image": "https://www.gamecity.ne.jp/hishou/assets/img/og.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-23T23:00:00.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "シブサワ・コウ氏45周年記念作品「信長の野望・飛翔」の公式生放送第1回は11月25日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "description": "生きろ、「大義」のために。武将一人ひとりの“大義名分”が戦国の世を動かす新たな「信長の野望」。城下町を自由に発展させる町づくり内政が約20年ぶりに復活し、シリーズ初のストーリーモードも搭載。",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/421/G042182/20261120043/",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "cb60c38a7352",
       "title": "星溯",
       "url": "https://space.bilibili.com/3546670734247958",
@@ -437,34 +457,21 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6760698900"
-    },
-    {
-      "id": "a93a7e9aabba",
-      "title": "太閤立志伝 乱世立身録",
-      "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
-      "image": "https://taikou-rannsei-jp.bbgame.global/og-pre.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-19T06:46:50.000Z",
-      "releaseText": "2027年2月16日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "MMO戦略シミュレーション「太閤立志伝 乱世立身録」，事前登録の受付をApp StoreとGoogle Playで開始",
-      "description": "名作の魂を受け継ぐ、戦国戦略SLGの最高峰！『太閤立志伝Ⅴ DX』初の公式ライセンススマートフォンゲーム『太閤立志伝 乱世立身録』がついに登場！本作は壮大な戦国絵巻であると同時に、名もなき者が乱世で身を立て、天下人へと駆け上がる一代記。多…",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/059/G105971/20261119021/",
-      "appleId": "6762597050",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6762597050",
-        "preorder": true,
-        "releaseDate": "2027-02-16T08:00:00Z"
-      },
-      "trackId": "6762597050"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-26T19:00:28.297Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "信長の野望・飛翔",
+      "url": "https://www.gamecity.ne.jp/hishou/jp/",
+      "image": "https://www.gamecity.ne.jp/hishou/assets/img/og.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-26T12:00:34.986Z",
       "type": "prereg_start",
@@ -524,18 +531,6 @@
         "switch2"
       ],
       "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-11-25T17:00:40.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "セクシークリスマス：サンタガールズ (Sexy Christmas: Santa Girls)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137576",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3965978545357d351c2d425e7f8cc2097ffaa79a728f4b8e6ff5c8c76bc99a88.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
     }
   ]
 }

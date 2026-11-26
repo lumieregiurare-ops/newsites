@@ -2342,7 +2342,7 @@
       "entry": null
     },
     "アッシュアームズ": {
-      "at": "2026-11-23T18:30:54.372Z",
+      "at": "2026-11-26T19:00:29.813Z",
       "entry": {
         "trackId": "1458301782",
         "title": "アッシュアームズ‐灰燼戦線‐",
@@ -2356,7 +2356,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id1458301782",
         "sellerUrl": "http://www.asharms.jp/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/92/0e/b7920e3e-ece1-1bce-98e4-3ef243908604/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/4c/89/cc4c89ce-1120-4bc3-49ea-bd37afebacaf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -4423,6 +4423,10 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/57/fd/7b/57fd7b69-9095-d166-8ba8-f43b2fc4769c/AppIcon-1x_U007emarketing-0-85-220-0-9.png/512x512bb.jpg",
         "isGame": true
       }
+    },
+    "信長の野望 飛翔": {
+      "at": "2026-11-26T19:00:28.423Z",
+      "entry": null
     }
   },
   "titles": {
@@ -13486,9 +13490,9 @@
     },
     "cielleisnothappy": {
       "title": "Cielle is Not Happy",
-      "dateText": "2026年9月25日",
-      "date": "2026-09-25",
-      "sortKey": "2026-09-25",
+      "dateText": "2026年12月2日",
+      "date": "2026-12-02",
+      "sortKey": "2026-12-02",
       "prereg": false,
       "firstSeen": "2026-09-17T23:48:49.615Z"
     },
@@ -87428,21 +87432,38 @@
       "sortKey": "2026-12-01",
       "prereg": false,
       "firstSeen": "2026-11-26T18:30:37.380Z"
+    },
+    "プラネット・スイープ・カンパニー": {
+      "title": "プラネット・スイープ・カンパニー",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-26T19:00:28.297Z"
+    },
+    "t.s.kcommander": {
+      "title": "T.S.K Commander",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
+      "prereg": false,
+      "firstSeen": "2026-11-26T19:00:28.297Z"
+    },
+    "footballstory": {
+      "title": "Football Story",
+      "dateText": "2026年12月4日",
+      "date": "2026-12-04",
+      "sortKey": "2026-12-04",
+      "prereg": false,
+      "firstSeen": "2026-11-26T19:00:28.297Z"
+    },
+    "信長の野望・飛翔": {
+      "title": "信長の野望・飛翔",
+      "prereg": true,
+      "firstSeen": "2026-11-26T19:00:28.297Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "天空の世界シェルテーラ Nintendo Switch 2 Edition アップグレードパス",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000083382",
-      "image": "https://img-eshop.cdn.nintendo.net/i/4e19f95bd1ba8cbc9e5ffbb74011e54f405c85a37128a81b9b6a7d0dfbfda483.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年11月6日"
-    },
     {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
@@ -92256,6 +92277,18 @@
         "mobile"
       ],
       "to": "2027年3月22日"
+    },
+    {
+      "at": "2026-11-26T19:00:28.297Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "信長の野望・飛翔",
+      "url": "https://www.gamecity.ne.jp/hishou/jp/",
+      "image": "https://www.gamecity.ne.jp/hishou/assets/img/og.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
