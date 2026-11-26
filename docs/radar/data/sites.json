@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T11:30:18.149Z",
+  "updatedAt": "2026-11-26T12:00:18.111Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1332,
+  "total": 1334,
   "regions": {
-    "jp": 1034,
+    "jp": 1036,
     "global": 298
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 170
+      "count": 171
     },
     {
       "id": "anniversary",
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 215
+      "count": 216
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 274
+      "count": 276
     },
     {
       "id": "release",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 527
+      "count": 529
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
-    "AppBank",
-    "4Gamer",
     "Inside",
+    "4Gamer",
+    "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -131,6 +131,73 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "81cdd0b978ca",
+      "url": "https://kawaiilab-rhythm-kenkyuchu.com/",
+      "host": "kawaiilab-rhythm-kenkyuchu.com",
+      "region": "jp",
+      "title": "KAWAII LAB. リズム研究中！",
+      "headline": "「KAWAII LAB.」初のスマホ向け公式ゲーム『KAWAII LAB. リズム研究中！』事前登録受付開始！ FRUITS ZIPPERら総勢36名が登場、人気楽曲50曲以上を…",
+      "description": "KAWAII LAB.【公式】リズムゲームが登場！＼鳴るほどっ！カワイイの新発見！／カワラボ人気楽曲を【ライブ映像】で多数収録！",
+      "publishedAt": "2026-11-26T12:00:03.000Z",
+      "addedAt": "2026-11-26T12:00:18.111Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/26/191613.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://kawaiilab-rhythm-kenkyuchu.com/assets/ogp_image.png"
+    },
+    {
+      "id": "c75737d36158",
+      "url": "https://pad.gungho.jp/member/index.html",
+      "host": "pad.gungho.jp",
+      "region": "jp",
+      "title": "パズドラ",
+      "headline": "「パズドラ」×「魔法少女まどか☆マギカ」のコラボが11月27日にスタート。サレーネ衣装のまどか，ヴェロア衣装のほむらが登場",
+      "description": "パズル＆ドラゴンズ（パズドラ）の公式運営サイト。「パズドラ」はモンスターを育ててパズルでバトルする新感覚パズルRPG！イベントやコラボ、モンスターに関する最新情報をお届け！",
+      "publishedAt": "2026-11-26T11:46:11.000Z",
+      "addedAt": "2026-11-26T12:00:18.111Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/148/G014877/20261126049/"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "iOS",
+        "Android",
+        "スマホ"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://pad.gungho.jp/img_new/ogp.jpg"
+    },
     {
       "id": "0284c6594bd3",
       "url": "https://apps.apple.com/jp/app/id6779082914",
@@ -885,7 +952,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://meltyblood.twilumina.com/ogp.png"
+      "image": "https://meltyblood.twilumina.com/ogp.jpg"
     },
     {
       "id": "9fc7f157edda",
@@ -1091,6 +1158,10 @@
         {
           "name": "GameBusiness.jp",
           "url": "https://www.gamebusiness.jp/article/2026/11/25/28848.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/061/G106190/20261126040/"
         }
       ],
       "tags": [
