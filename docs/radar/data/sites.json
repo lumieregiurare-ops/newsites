@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-26T01:00:18.141Z",
+  "updatedAt": "2026-11-26T01:30:26.005Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1309,
+  "total": 1311,
   "regions": {
-    "jp": 1015,
-    "global": 294
+    "jp": 1016,
+    "global": 295
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 167
+      "count": 168
     },
     {
       "id": "anniversary",
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 266
+      "count": 268
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -87,7 +87,7 @@
     {
       "id": "ps",
       "label": "PlayStation",
-      "count": 34
+      "count": 35
     },
     {
       "id": "xbox",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 152
+      "count": 153
     },
     {
       "id": "mobile",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,65 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d897ec9243cb",
+      "url": "https://www.play4loop.com/",
+      "host": "play4loop.com",
+      "region": "global",
+      "title": "L4D",
+      "headline": "『L4D』クリエイターによる新作協力シューター『4:LOOP』CBTが12月10日より開催。PS5、Steamで実施、日本からも応募可能",
+      "description": "A tactical, four-player co-op shooter crafted for endless replayability and infinite ways to build the ultimate team.",
+      "publishedAt": "2026-11-26T01:23:59.000Z",
+      "addedAt": "2026-11-26T01:30:26.005Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261126l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "ps",
+        "pc"
+      ],
+      "points": null,
+      "image": "https://play4loop.com/assets/social-card.jpg"
+    },
+    {
+      "id": "7b8610f735fd",
+      "url": "https://www.rainyfrog.com/ja/game/taxi-chaos-2",
+      "host": "rainyfrog.com",
+      "region": "jp",
+      "title": "タクシー・カオス2",
+      "headline": "暴走するAIタクシーをかわし，乗客を目的地へ。「タクシー・カオス2」本日発売。開発者が語る続編の進化と制作秘話も公開",
+      "description": "AI制御のタクシーが暴走する未来都市サン・ヴァレダを舞台にした、ハイテンションなアクション・ドライブゲームです。攻撃的なタクシーボットを出し抜き、屋上を飛び越え、渋滞を突破しながら乗客を目的地へ送り届けます。安全なルートだけでなく、危険な…",
+      "publishedAt": "2026-11-26T01:00:00.000Z",
+      "addedAt": "2026-11-26T01:30:26.005Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/061/G106150/20261125052/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "b20960bd7960",
       "url": "https://www.jupiter.co.jp/switch/picrosssclimax/",
@@ -3570,7 +3629,7 @@
       "region": "jp",
       "title": "アズールプロミリア",
       "headline": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
-      "description": "キボと旅するファンタジーワールドRPG『アズールプロミリア』（Azur Promilia）。当サイトでは、登場キャラクターや星霊「キボ」世界観、事前登録情報などの最新情報をお届けします。Manjuu GamesとYostarが日本で共同パ…",
+      "description": "『アズールプロミリア』（Azur Promilia）は、キボと旅するファンタジーワールドRPGです。Manjuu GamesとYostarが日本で共同パブリッシングする本作の公式サイトで、キャラクターや星霊「キボ」、世界観を紹介します。日…",
       "publishedAt": "2026-11-20T13:35:27.000Z",
       "addedAt": "2026-11-23T00:30:19.302Z",
       "source": "4Gamer",
@@ -3596,7 +3655,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/poster-C670mzf9.jpg"
+      "image": "https://webusstatic.yo-star.com/azurpromilia-jp/azurpromilia-jp-official-2026/prod/azurpromiliajpofficial2026/assets/poster-DGAu94FG.jpg"
     },
     {
       "id": "ba5b922a6d3a",
