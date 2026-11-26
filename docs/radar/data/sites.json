@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-26T06:00:19.847Z",
+  "updatedAt": "2026-11-26T06:30:17.565Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1318,
+  "total": 1320,
   "regions": {
-    "jp": 1021,
+    "jp": 1023,
     "global": 297
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 210
+      "count": 211
     },
     {
       "id": "event",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 465
+      "count": 467
     },
     {
       "id": "indie",
@@ -77,7 +77,7 @@
     {
       "id": "switch",
       "label": "Switch",
-      "count": 28
+      "count": 30
     },
     {
       "id": "switch2",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 520
+      "count": 521
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "電ファミニコゲーマー",
+    "4Gamer",
     "Game*Spark",
     "AppBank",
     "App Store",
@@ -131,6 +131,66 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "da6319514e1d",
+      "url": "https://www.pokemon.co.jp/ex/pokemonhome/ja/titles/pokemongo/",
+      "host": "pokemon.co.jp",
+      "region": "jp",
+      "title": "ポケモンチャンピオンズ",
+      "headline": "『ポケモンチャンピオンズ』『ポケモンGO』がコラボ決定。『GO』の伝説レイドバトルには準伝8体が出現、色メガヒードランなどを対戦で活躍させるチャンス",
+      "description": "『Pokémon HOME』公式サイト。「全てのポケモンが集まる場所」をコンセプトとした、Nintendo Switchとスマートフォンを対象としたクラウドサービス。2020年2月上旬配信開始！",
+      "publishedAt": "2026-11-26T06:25:14.000Z",
+      "addedAt": "2026-11-26T06:30:17.565Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "release"
+      ],
+      "platforms": [
+        "switch",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.pokemon.co.jp/ex/pokemonhome/assets/og/ja/fb.jpg"
+    },
+    {
+      "id": "6967f3ce006d",
+      "url": "https://www.taito.co.jp/uqgensoukyoku/uq2R",
+      "host": "taito.co.jp",
+      "region": "jp",
+      "title": "悠久幻想曲 2nd Album リバイバル",
+      "headline": "『悠久幻想曲 2nd Album リバイバル』パッケージ版早期購入特典に『悠久幻想曲アンサンブルRe』が同梱決定。1998年発売のファンディスクをベースに『悠久幻想曲』キャラのみ…",
+      "description": "「悠久幻想曲」シリーズ２作目『悠久幻想曲 2nd Album』が待望のリバイバル！Nintendo Switch™で登場！！",
+      "publishedAt": "2026-11-26T06:23:44.000Z",
+      "addedAt": "2026-11-26T06:30:17.565Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611262l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "switch"
+      ],
+      "points": null,
+      "image": "https://www.taito.co.jp/Content/images/apps/img_260526_uq2r_1200.jpg"
+    },
     {
       "id": "6aca64988075",
       "url": "https://www.konami.com/games/silenthill/",
@@ -3842,6 +3902,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/26/191579.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/26/175323.html"
         }
       ],
       "tags": [
