@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-26T13:30:18.308Z",
+  "updatedAt": "2026-11-26T14:00:20.987Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1335,
+  "total": 1337,
   "regions": {
-    "jp": 1038,
-    "global": 297
+    "jp": 1039,
+    "global": 298
   },
   "categories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 171
+      "count": 172
     },
     {
       "id": "anniversary",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 135
+      "count": 136
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 362
+      "count": 364
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 529
+      "count": 531
     },
     {
       "id": "browser",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "AppBank",
     "4Gamer",
     "Inside",
-    "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
     "App Store",
@@ -131,6 +131,41 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "7a081dcaf5df",
+      "url": "https://apps.apple.com/jp/app/id6809792283",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "KAWAII LAB. リズム研究中！",
+      "headline": "『KAWAII LAB. リズム研究中！』事前登録開始！ FRUITS ZIPPERら5グループ36名が登場",
+      "description": "Appirits Fan Culture Partners Inc.の「KAWAII LAB. リズム研究中！」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「KAWAII LAB. …",
+      "publishedAt": "2026-11-26T13:40:00.000Z",
+      "addedAt": "2026-11-26T14:00:20.987Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/26/game/3178992.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/91/a7/6e91a709-1963-73b7-da93-7b9b7b05923f/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "9dd25fc8e326",
       "url": "https://product.kadokawa.co.jp/cthulhu/",
@@ -19701,6 +19736,39 @@
       ],
       "points": null,
       "image": ""
+    },
+    {
+      "id": "a1da36eb2fd0",
+      "url": "https://chaos.gs/",
+      "host": "chaos.gs",
+      "region": "global",
+      "title": "Sushi Paws：お寿司の仕分けパズル",
+      "headline": "MOBILEVERSE DIJITAL HIZMETLER LIMITED SIRKETI / パズル・カジュアル · App Store 新着",
+      "description": "Chaos Games",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "addedAt": "2026-11-26T14:00:20.987Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6811016135"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://chaos.gs/og-image.png"
     },
     {
       "id": "83f8470360e9",
