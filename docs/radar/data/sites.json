@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-26T12:00:18.111Z",
+  "updatedAt": "2026-11-26T12:30:18.416Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1334,
+  "total": 1335,
   "regions": {
-    "jp": 1036,
-    "global": 298
+    "jp": 1038,
+    "global": 297
   },
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 276
+      "count": 277
     },
     {
       "id": "release",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 361
+      "count": 362
     },
     {
       "id": "official",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "Inside",
     "4Gamer",
+    "Inside",
     "AppBank",
     "Game*Spark",
     "電ファミニコゲーマー",
@@ -131,6 +131,34 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "9dd25fc8e326",
+      "url": "https://product.kadokawa.co.jp/cthulhu/",
+      "host": "product.kadokawa.co.jp",
+      "region": "jp",
+      "title": "クトゥルフ神話TRPG",
+      "headline": "「クトゥルフ神話TRPG」，邪神総選挙2026の結果を発表。ポップアップショップを東京で12月19日から開催",
+      "description": "『クトゥルフ神話TRPG』とはクトゥルフ神話の世界を舞台にした神秘と恐怖のTRPG。“クトゥルフ神話TRPG”の遊び方や各種ルールブック・ソースブックのご紹介、無料シナリオや探索者シート（キャラクター...",
+      "publishedAt": "2026-11-26T12:15:03.000Z",
+      "addedAt": "2026-11-26T12:30:18.416Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/438/G043897/20261126052/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://product.kadokawa.co.jp/archives/020/202509/900a1d09c9c21ae1d20cffdf7966b3fd0b3a8eecaafd24b3e60e93ce23a25ae9.png"
+    },
     {
       "id": "81cdd0b978ca",
       "url": "https://kawaiilab-rhythm-kenkyuchu.com/",
@@ -4696,7 +4724,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://play-lh.googleusercontent.com/tSWiNHnJKbM8n4T1mkr4YIGpmaXLu35R2Pb8Bye6Zl0xER7jyeduRc31CNIv7O1LTpN_UfE4NHJd3z0x-It7=s0-br30"
+      "image": "https://play-lh.googleusercontent.com/zbnyWkojOmMUkioUSbZ8vGBzRMdap4bqlCNsOS6VqS5hgM7wfZkH2nzWsaPGYLQEEm1dC0KG-deGQ_DYA587Og=s0-br30"
     },
     {
       "id": "cc763ff11054",
@@ -7028,7 +7056,7 @@
       "id": "fee7d97212a0",
       "url": "https://circle.gs/",
       "host": "circle.gs",
-      "region": "global",
+      "region": "jp",
       "title": "Tidy Room!",
       "headline": "Circle Games / パズル・カジュアル · App Store 新着",
       "description": "Circle Games / パズル・カジュアル · App Store 新着",
@@ -7764,7 +7792,7 @@
       "region": "jp",
       "title": "クレイジータクシー：ワールドツアー",
       "headline": "「クレイジータクシー：ワールドツアー」，インドマップの情報とトレイラーが公開に。「ストーリーモード」などでプレイ可能な5つめの都市",
-      "description": "全世界で人気を博したドライビングアクションゲーム『クレイジータクシー』シリーズの完全新作『クレイジータクシー：ワールドツアー』を、XBOX Series X|S／XBOX on PC／PC（Steam）／PlayStation®5／Nin…",
+      "description": "全世界で人気を博したドライビングアクションゲーム『クレイジータクシー』（クレタク）シリーズの完全新作『クレイジータクシー：ワールドツアー』を、XBOX Series X|S／XBOX on PC／PC（Steam）／PlayStation…",
       "publishedAt": "2026-11-17T08:03:20.000Z",
       "addedAt": "2026-11-17T08:30:21.041Z",
       "source": "4Gamer",
