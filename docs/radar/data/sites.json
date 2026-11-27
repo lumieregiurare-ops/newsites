@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T12:30:21.360Z",
+  "updatedAt": "2026-11-27T13:00:17.867Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1324,
+  "total": 1325,
   "regions": {
-    "jp": 1028,
+    "jp": 1029,
     "global": 296
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 464
+      "count": 465
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 365
+      "count": 366
     },
     {
       "id": "official",
@@ -97,12 +97,12 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 152
+      "count": 153
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 528
+      "count": 529
     },
     {
       "id": "browser",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "電ファミニコゲーマー",
     "Game*Spark",
+    "電ファミニコゲーマー",
     "4Gamer",
     "Inside",
     "AppBank",
@@ -131,6 +131,40 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "db7a22b8c575",
+      "url": "https://apps.apple.com/jp/app/id6758299956",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "最大4人でのマルチプレイ対応な洞窟採掘サバイバルホラ",
+      "headline": "最大4人でのマルチプレイ対応な洞窟採掘サバイバルホラーがリリース。怪物待ち受ける洞窟を巨大掘削機で掘り進め―採れたて！本日のSteam注目ゲーム15選【2026年11月27日】",
+      "description": "Cubic Gamesの「Pixel Gun 2」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Pixel Gun 2」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-27T13:00:03.000Z",
+      "addedAt": "2026-11-27T13:00:17.867Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/27/175391.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "Android"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "pc",
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/bf/ec/aabfec1f-fad0-38a1-85c7-dfa870a1e777/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "7cf9adc9684c",
       "url": "https://hanoura-maze.com/",
