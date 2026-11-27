@@ -1438,7 +1438,7 @@
       "entry": null
     },
     "NARUTO": {
-      "at": "2026-11-24T08:30:35.749Z",
+      "at": "2026-11-27T09:00:36.354Z",
       "entry": {
         "trackId": "6745006459",
         "title": "NARUTO－ナルト－ ナルティメットストーム+",
@@ -2369,20 +2369,20 @@
       "entry": null
     },
     "リネージュ": {
-      "at": "2026-11-24T08:30:34.226Z",
+      "at": "2026-11-27T09:00:34.825Z",
       "entry": {
-        "trackId": "1538379462",
-        "title": "リネージュ2M（Lineage2M）",
-        "artist": "NC Corp.",
+        "trackId": "1445631112",
+        "title": "リネージュM - 本格スマホMMORPG",
+        "artist": "NC Japan K.K.",
         "genres": [
-          "アクション",
+          "アドベンチャー",
           "ロールプレイング"
         ],
-        "releaseDate": "2021-03-22T07:00:00Z",
+        "releaseDate": "2019-05-28T13:44:17Z",
         "isPreorder": false,
-        "storeUrl": "https://apps.apple.com/jp/app/id1538379462",
-        "sellerUrl": "",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/48/a3/5e48a3c7-9bb2-c3a1-efdb-2cf9ea7e72b6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "storeUrl": "https://apps.apple.com/jp/app/id1445631112",
+        "sellerUrl": "https://lineagem-jp.com/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/1e/1aa21e70-70ce-98c0-27bb-1fffba8e0cff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -4448,6 +4448,10 @@
     },
     "STEINS;GATE 0": {
       "at": "2026-11-27T08:30:35.766Z",
+      "entry": null
+    },
+    "センチメンタルグラフティリメイク": {
+      "at": "2026-11-27T09:00:33.433Z",
       "entry": null
     }
   },
@@ -87992,21 +87996,38 @@
       "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-27T08:30:34.128Z"
+    },
+    "esperoverload": {
+      "title": "Esper Overload",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T09:00:33.287Z"
+    },
+    "requeststop": {
+      "title": "Request Stop",
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
+      "prereg": false,
+      "firstSeen": "2026-11-27T09:00:33.287Z"
+    },
+    "goingmyway?": {
+      "title": "Going my way?",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
+      "prereg": false,
+      "firstSeen": "2026-11-27T09:00:33.287Z"
+    },
+    "センチメンタルグラフティリメイク": {
+      "title": "センチメンタルグラフティリメイク",
+      "prereg": true,
+      "firstSeen": "2026-11-27T09:00:33.287Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "キャラクター衣装（３着）＆キャラクターエディットパーツセット（７点）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082333",
-      "image": "https://img-eshop.cdn.nintendo.net/i/5e17dbabe01e4ec7d8006f2d6970fc7723576ac9b111b3e3c0fd28afaa1cb2fa.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
@@ -92820,6 +92841,18 @@
         "pc"
       ],
       "to": "2026年12月10日"
+    },
+    {
+      "at": "2026-11-27T09:00:33.287Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "センチメンタルグラフティリメイク",
+      "url": "https://www.entergram.co.jp/senti-re/",
+      "image": "https://www.entergram.co.jp/senti-re/assets/img/common/ogp.jpg",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
