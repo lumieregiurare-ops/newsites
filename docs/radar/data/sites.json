@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-27T12:00:16.271Z",
+  "updatedAt": "2026-11-27T12:30:21.360Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1325,
+  "total": 1324,
   "regions": {
-    "jp": 1030,
-    "global": 295
+    "jp": 1028,
+    "global": 296
   },
   "categories": [
     {
@@ -25,12 +25,12 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 110
+      "count": 109
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 209
+      "count": 208
     },
     {
       "id": "event",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "Game*Spark",
     "4Gamer",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "App Store",
@@ -131,6 +131,35 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "7cf9adc9684c",
+      "url": "https://hanoura-maze.com/",
+      "host": "hanoura-maze.com",
+      "region": "jp",
+      "title": "まのさば",
+      "headline": "『まのさば』Acaciaの新作『配信少女ノ裏垢迷宮』Steam版が2027年1月29日に発売決定！朗読劇『魔法少女ノ魔女裁判 ～the next page～』の映像化も",
+      "description": "『配信少女ノ裏垢迷宮』公式サイト。裏アカに具現化したダンジョンを探索し、少女たちの本性に迫る裏アカ迷宮ノベルRPG。発売時期は後日発表します。原作・制作 Acacia。",
+      "publishedAt": "2026-11-27T12:01:06.000Z",
+      "addedAt": "2026-11-27T12:30:21.360Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611272v"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://hanoura-maze.com/wp-content/themes/original/images/top.webp"
+    },
     {
       "id": "28a6cb4d6ade",
       "url": "https://www.alicesoft.com/diabolique_re/",
@@ -7395,7 +7424,7 @@
       "id": "fee7d97212a0",
       "url": "https://circle.gs/",
       "host": "circle.gs",
-      "region": "jp",
+      "region": "global",
       "title": "Tidy Room!",
       "headline": "Circle Games / パズル・カジュアル · App Store 新着",
       "description": "Circle Games / パズル・カジュアル · App Store 新着",
@@ -40267,64 +40296,6 @@
       "platforms": [],
       "points": null,
       "image": "https://www.liargame-anime.com/wordpress/wp-content/themes/liargame_v1/assets/images/common/ogp_v4.jpg"
-    },
-    {
-      "id": "190f7dc7de69",
-      "url": "https://saikeystudios.com/ja/product/160112/stranded-with-you/",
-      "host": "saikeystudios.com",
-      "region": "jp",
-      "title": "散らばった約2,000本の骨を拾い集める整理整頓シムがリリ",
-      "headline": "散らばった約2,000本の骨を拾い集める整理整頓シムがリリース。博物館で9体の恐竜標本を復元しよう―採れたて！本日のSteam注目ゲーム15選【2026年9月28日】",
-      "description": "このサバイバルゲームでは、主人公は友人のミツキと共に無人島に取り残されてしまいます。二人で周囲を探索し、小さなシェルターを建て、物資を狩り集めながら、少しずつ絆を深めていきましょう。いつもそばにいるミツキと力を合わせて、危険を乗り越え、無…",
-      "publishedAt": "2026-09-28T12:30:03.000Z",
-      "addedAt": "2026-09-28T12:30:17.465Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/28/172875.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "release"
-      ],
-      "platforms": [
-        "pc"
-      ],
-      "points": null,
-      "image": "https://media.saikeystudios.com/cdn-cgi/image/quality=94,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2025/12/SK160112_cover_japanese.png"
-    },
-    {
-      "id": "839340dfed26",
-      "url": "https://draw.geo-online.co.jp/lottery/129/",
-      "host": "draw.geo-online.co.jp",
-      "region": "jp",
-      "title": "ワンピース カードゲーム",
-      "headline": "『ワンピース カードゲーム』より「世界最強の戦士」がゲオで抽選販売中！「エルバフ」と「四皇」をテーマにした4周年パック",
-      "description": "『ワンピース カードゲーム』より「世界最強の戦士」がゲオで抽選販売中！「エルバフ」と「四皇」をテーマにした4周年パック",
-      "publishedAt": "2026-09-28T11:45:03.000Z",
-      "addedAt": "2026-09-28T12:00:18.676Z",
-      "source": "Inside",
-      "sources": [
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/28/188425.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "周年"
-      ],
-      "categories": [
-        "anniversary",
-        "campaign"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
     },
     {
       "id": "a2df0f861d44",

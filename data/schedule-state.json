@@ -3270,7 +3270,7 @@
       }
     },
     "エピックセブン": {
-      "at": "2026-11-24T12:00:38.839Z",
+      "at": "2026-11-27T12:30:36.596Z",
       "entry": {
         "trackId": "1322399438",
         "title": "エピックセブン",
@@ -88143,21 +88143,17 @@
       "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-27T12:00:29.648Z"
+    },
+    "まのさば": {
+      "title": "まのさば",
+      "dateText": "2027年1月29日",
+      "date": "2027-01-29",
+      "sortKey": "2027-01-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T12:30:36.243Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "スタートダッシュアイテムセット",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082336",
-      "image": "https://img-eshop.cdn.nintendo.net/i/2d1cf130ae9b132403f979bb7808e371b2d833f11137e7df98a72c04478bde48.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
@@ -92971,6 +92967,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-27T12:30:36.243Z",
+      "type": "new",
+      "label": "新規",
+      "title": "まのさば",
+      "url": "https://hanoura-maze.com/",
+      "image": "https://hanoura-maze.com/wp-content/themes/original/images/top.webp",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2027年1月29日"
     }
   ],
   "initialized": true,
