@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-27T03:00:20.452Z",
+  "updatedAt": "2026-11-27T03:30:19.250Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1332,
+  "total": 1333,
   "regions": {
-    "jp": 1035,
-    "global": 297
+    "jp": 1037,
+    "global": 296
   },
   "categories": [
     {
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 273
+      "count": 275
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 467
+      "count": 466
     },
     {
       "id": "indie",
@@ -60,7 +60,7 @@
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 61
+      "count": 62
     },
     {
       "id": "goods",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 154
     },
     {
       "id": "mobile",
@@ -121,16 +121,75 @@
     }
   ],
   "sources": [
+    "Inside",
     "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
-    "Inside",
     "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "c803eedfd723",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index",
+      "host": "astraeoratio.plaync.com",
+      "region": "jp",
+      "title": "アストラエ・オラティオ",
+      "headline": "新作『アストラエ・オラティオ』初のPC試遊でCBT未登場キャラ6人をお披露目！韓国「AGF 2026」最大規模ブースの出展詳細が公開",
+      "description": "───新たな夢[まほう]が始まる。 新伝奇魔法RPG『アストラエ・オラティオ』の公式サイトです。",
+      "publishedAt": "2026-11-27T03:20:02.000Z",
+      "addedAt": "2026-11-27T03:30:19.250Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/27/191642.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "事前登録"
+      ],
+      "categories": [
+        "prereg",
+        "event"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19ddc16eef6-45a81638-c24f-4bb9-a278-68aa2f3c1116"
+    },
+    {
+      "id": "76675f01296c",
+      "url": "https://lp.openrec.jp/hyper-game-event-final/",
+      "host": "lp.openrec.jp",
+      "region": "jp",
+      "title": "配信者ハイパーゲーム大会 FINAL",
+      "headline": "「配信者ハイパーゲーム大会 FINAL」開催直前・加藤純一×k4sen×SHAKA×もこう×関優太インタビュー。「文字どおり命がかかっている」──東京ドーム決戦を前に、5人が語っ…",
+      "description": "【公式】2026年11月28日(土)・29日(日)、東京ドームで開催。加藤純一、k4sen、SHAKA、もこう、関優太ら豪華ストリーマーが集結する「配信者ハイパーゲーム大会 FINAL」チケット・出演者情報。",
+      "publishedAt": "2026-11-27T03:00:19.000Z",
+      "addedAt": "2026-11-27T03:30:19.250Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/interview/261127b"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event",
+        "media"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://lp.openrec.jp/hyper-game-event-final/assets/ogp.jpg?v=20260718"
+    },
     {
       "id": "d3845fda68c7",
       "url": "https://www.pizzahut.jp/topic/wutheringwaves/game",
@@ -35064,7 +35123,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://52.13.84.192/wp-content/uploads/2024/09/EGS-Offer-Image-Portrait-H_Portrait_1200x1600_2.0-768x1024.png"
+      "image": "https://playhunger.com/wp-content/uploads/2024/09/EGS-Offer-Image-Portrait-H_Portrait_1200x1600_2.0-768x1024.png"
     },
     {
       "id": "7bd6307ec91c",
@@ -39008,7 +39067,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQcJBoqbraWkebZ3PuVXwBtLq7E5gSsuh1Wf7BYQyl7DiD5POqOcAe7YcMaifOqpAS8RWRhrND9tqShXVBtX8zC8XHp_P6qln_iTJZ6cBP8VYjPF4poiOCkYU-fNoXZCKUJCdDut8H_9WZY7G-sBuuyaePs_8uouj0oNd0XGfkE6DMabh8AHzZ90QCbNlxU=w16383"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQe4FGMg8TQThhnFjFPs7l0NRUNmgAhVKSE6mU3P-zbsRyodrVA91pjlYH0SsVE7R_whnFUvXT-fdejDd-fvAVUt1vVvj9FIJp598ze5DDadaqiyO69ymF7C5XJcPFZA2uphA3dKGPe4Z0s2f4Vwc_IarS_ww2qIs3OpcfZSqHA5jY8gDG594MXcoxqrih0=w16383"
     },
     {
       "id": "5d8f0da9ef6f",
@@ -40556,35 +40615,6 @@
       "platforms": [],
       "points": null,
       "image": "https://genshin-cafe.jp/ogp.png"
-    },
-    {
-      "id": "ea83d6664c6f",
-      "url": "https://www.doublefine.com/games/thank-you-bus-driver",
-      "host": "doublefine.com",
-      "region": "global",
-      "title": "Thank You Bus Driver",
-      "headline": "バス運転手として時間と治安を守り運行するゲーム『Thank You Bus Driver』10月15日リリース。飲んだり騒いだりやりたい放題の乗客はビンタでわからせる",
-      "description": "Take on the role of a town’s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, a…",
-      "publishedAt": "2026-09-28T03:02:56.000Z",
-      "addedAt": "2026-09-28T03:30:15.369Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/260928l"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "事前登録"
-      ],
-      "categories": [
-        "prereg",
-        "release"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://assets.doublefine.com/shared/games/backgrounds/_1200x630_crop_center-center_82_none/tybd-landscape.jpeg?mtime=1788303835"
     },
     {
       "id": "2117b6e08e65",

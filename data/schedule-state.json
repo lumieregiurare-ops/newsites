@@ -4427,6 +4427,10 @@
     "信長の野望 飛翔": {
       "at": "2026-11-26T19:00:28.423Z",
       "entry": null
+    },
+    "アストラエ オラティオ": {
+      "at": "2026-11-27T03:30:31.792Z",
+      "entry": null
     }
   },
   "titles": {
@@ -87741,21 +87745,30 @@
       "sortKey": "2026-12-04",
       "prereg": false,
       "firstSeen": "2026-11-27T03:00:31.840Z"
+    },
+    "crystalcore": {
+      "title": "Crystal Core",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T03:30:31.592Z"
+    },
+    "zombiedayprotocol": {
+      "title": "Zombie Day Protocol",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T03:30:31.592Z"
+    },
+    "アストラエ・オラティオ": {
+      "title": "アストラエ・オラティオ",
+      "prereg": true,
+      "firstSeen": "2026-11-27T03:30:31.592Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "オフィシャルアートブック（デジタル版）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082332",
-      "image": "https://img-eshop.cdn.nintendo.net/i/38a8b367152766855987e7c422506fdebfad9ad28905ac64c9351242e7c3b76c.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
@@ -92567,6 +92580,18 @@
       "image": "https://www.gamecity.ne.jp/hishou/assets/img/og.jpg",
       "platforms": [
         "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-27T03:30:31.592Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アストラエ・オラティオ",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index",
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19ddc16eef6-45a81638-c24f-4bb9-a278-68aa2f3c1116",
+      "platforms": [
+        "pc"
       ],
       "to": ""
     }

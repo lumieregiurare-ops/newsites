@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:00:31.840Z",
+  "updatedAt": "2026-11-27T03:30:31.592Z",
   "platforms": [
     {
       "id": "switch",
@@ -281,6 +281,26 @@
   ],
   "prereg": [
     {
+      "id": "c803eedfd723",
+      "title": "アストラエ・オラティオ",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index",
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19ddc16eef6-45a81638-c24f-4bb9-a278-68aa2f3c1116",
+      "platforms": [
+        "pc"
+      ],
+      "startedAt": "2026-11-27T03:20:02.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "新作『アストラエ・オラティオ』初のPC試遊でCBT未登場キャラ6人をお披露目！韓国「AGF 2026」最大規模ブースの出展詳細が公開",
+      "description": "───新たな夢[まほう]が始まる。 新伝奇魔法RPG『アストラエ・オラティオ』の公式サイトです。",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/27/191642.html",
+      "appleId": "",
+      "trackId": ""
+    },
+    {
       "id": "81cdd0b978ca",
       "title": "KAWAII LAB. リズム研究中！",
       "url": "https://kawaiilab-rhythm-kenkyuchu.com/",
@@ -439,34 +459,21 @@
         "releaseDate": "2026-12-31T08:00:00Z"
       },
       "trackId": "6760698900"
-    },
-    {
-      "id": "a93a7e9aabba",
-      "title": "太閤立志伝 乱世立身録",
-      "url": "https://taikou-rannsei-jp.bbgame.global/pre/",
-      "image": "https://taikou-rannsei-jp.bbgame.global/og-pre.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-19T06:46:50.000Z",
-      "releaseText": "2027年2月16日",
-      "releaseSource": "appstore",
-      "count": "",
-      "reward": "",
-      "headline": "MMO戦略シミュレーション「太閤立志伝 乱世立身録」，事前登録の受付をApp StoreとGoogle Playで開始",
-      "description": "名作の魂を受け継ぐ、戦国戦略SLGの最高峰！『太閤立志伝Ⅴ DX』初の公式ライセンススマートフォンゲーム『太閤立志伝 乱世立身録』がついに登場！本作は壮大な戦国絵巻であると同時に、名もなき者が乱世で身を立て、天下人へと駆け上がる一代記。多…",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/059/G105971/20261119021/",
-      "appleId": "6762597050",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6762597050",
-        "preorder": true,
-        "releaseDate": "2027-02-16T08:00:00Z"
-      },
-      "trackId": "6762597050"
     }
   ],
   "changes": [
+    {
+      "at": "2026-11-27T03:30:31.592Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アストラエ・オラティオ",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index",
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19ddc16eef6-45a81638-c24f-4bb9-a278-68aa2f3c1116",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
+    },
     {
       "at": "2026-11-26T12:00:34.986Z",
       "type": "prereg_start",
@@ -526,18 +533,6 @@
         "switch2"
       ],
       "to": "2026年12月17日"
-    },
-    {
-      "at": "2026-11-25T17:00:40.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "セクシークリスマス：サンタガールズ (Sexy Christmas: Santa Girls)",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000137576",
-      "image": "https://img-eshop.cdn.nintendo.net/i/3965978545357d351c2d425e7f8cc2097ffaa79a728f4b8e6ff5c8c76bc99a88.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月10日"
     }
   ]
 }
