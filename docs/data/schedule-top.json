@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:30:36.986Z",
+  "updatedAt": "2026-11-27T10:00:31.383Z",
   "platforms": [
     {
       "id": "switch",
@@ -351,26 +351,6 @@
       "trackId": "6779082914"
     },
     {
-      "id": "65b8fee1afc5",
-      "title": "センチメンタルグラフティリメイク",
-      "url": "https://www.entergram.co.jp/senti-re/",
-      "image": "https://www.entergram.co.jp/senti-re/assets/img/common/ogp.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-26T09:00:03.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "伝説のギャルゲーが29年の時を経て再び『センチメンタルグラフティリメイク』2027年3月25日発売決定！水着を含む大量のイベントCGが眩しい…新たな『セングラ』",
-      "description": "『センチメンタルグラフティリメイク』 公式サイト 2027.3.25 ON SALE",
-      "source": "Game*Spark",
-      "sourceUrl": "http://www.gamespark.jp/article/2026/11/26/175330.html",
-      "appleId": "",
-      "trackId": ""
-    },
-    {
       "id": "49957b1853a1",
       "title": "シノビNEXUS - 閃乱カグラ -",
       "url": "https://hpgames.jp/shinovi-nexus/",
@@ -453,21 +433,34 @@
       "sourceUrl": "https://www.4gamer.net/games/014/G101490/20261120049/",
       "appleId": "",
       "trackId": ""
-    }
-  ],
-  "changes": [
+    },
     {
-      "at": "2026-11-27T09:00:33.287Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "センチメンタルグラフティリメイク",
-      "url": "https://www.entergram.co.jp/senti-re/",
-      "image": "https://www.entergram.co.jp/senti-re/assets/img/common/ogp.jpg",
+      "id": "f2c4c7cb70f1",
+      "title": "雨のちハレ女",
+      "url": "https://www.hare-onna.jp/",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1b/fa/431bfa4f-0da5-72c0-507e-b6b35ff8abc0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "platforms": [
         "mobile"
       ],
-      "to": ""
-    },
+      "startedAt": "2026-11-20T11:48:01.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "スマホアプリ「雨のちハレ女」，メインキャラクターの情報が公開に。二次創作・配信ガイドラインも発表",
+      "description": "スマホアプリ「雨のちハレ女」，メインキャラクターの情報が公開に。二次創作・配信ガイドラインも発表",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/042/G104241/20261120041/",
+      "appleId": "6760698900",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6760698900",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6760698900"
+    }
+  ],
+  "changes": [
     {
       "at": "2026-11-27T08:00:43.204Z",
       "type": "new",
@@ -527,6 +520,18 @@
         "switch"
       ],
       "to": "2027年3月11日"
+    },
+    {
+      "at": "2026-11-25T17:00:40.534Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Legend of Hand",
+      "url": "https://store-jp.nintendo.com/item/software/D70010000141000",
+      "image": "https://img-eshop.cdn.nintendo.net/i/12ad2b3acd25f3fcbeeedbd7a1900876db48d1feb3ab0c1256e1e9a5b8f4fb8d.jpg",
+      "platforms": [
+        "switch"
+      ],
+      "to": "2026年12月18日"
     }
   ]
 }
