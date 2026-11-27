@@ -4264,7 +4264,7 @@
       "entry": null
     },
     "Escape the Baby Alarm ベビーモニターからの脱出": {
-      "at": "2026-11-24T13:30:40.337Z",
+      "at": "2026-11-27T13:30:45.426Z",
       "entry": {
         "trackId": "6805971714",
         "title": "ベビーモニターからの脱出",
@@ -4470,6 +4470,10 @@
     },
     "最大4人でのマルチプレイ対応な洞窟採掘サバイバルホラ": {
       "at": "2026-11-27T13:00:36.679Z",
+      "entry": null
+    },
+    "なめこ": {
+      "at": "2026-11-27T13:30:43.964Z",
       "entry": null
     }
   },
@@ -37818,7 +37822,7 @@
     },
     "冒険宿なめこ亭": {
       "title": "冒険宿 なめこ亭",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-16T10:00:39.194Z"
     },
     "broken&loveddemo": {
@@ -88243,21 +88247,22 @@
       "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-27T13:00:36.331Z"
+    },
+    "こいしの釣り日記-プレミアム装飾サポーターパック": {
+      "title": "こいしの釣り日記 - プレミアム装飾サポーターパック",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T13:30:43.666Z"
+    },
+    "なめこ": {
+      "title": "なめこ",
+      "prereg": true,
+      "firstSeen": "2026-11-27T13:30:43.666Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "進撃の巨人３ Digital Deluxe Edition",
-      "url": "https://store-jp.nintendo.com/item/software/D70070000041126",
-      "image": "https://img-eshop.cdn.nintendo.net/i/525c7b28c5bf0601e9183163baecaefe2b68801917978fd42793164b160d5c23.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-30T03:00:32.720Z",
       "type": "new",
@@ -93072,6 +93077,18 @@
         "mobile"
       ],
       "to": "2026年11月27日"
+    },
+    {
+      "at": "2026-11-27T13:30:43.666Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "なめこ",
+      "url": "https://namepara.com/namekotei/",
+      "image": "https://namepara.com/namekotei/tei_ogp_jp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,

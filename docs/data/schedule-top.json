@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:00:36.331Z",
+  "updatedAt": "2026-11-27T13:30:43.666Z",
   "platforms": [
     {
       "id": "switch",
@@ -461,6 +461,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-27T13:30:43.666Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "なめこ",
+      "url": "https://namepara.com/namekotei/",
+      "image": "https://namepara.com/namekotei/tei_ogp_jp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
       "at": "2026-11-27T13:00:36.331Z",
       "type": "new",
       "label": "新規",
@@ -520,18 +532,6 @@
         "mobile"
       ],
       "to": "App Store 2027年3月22日"
-    },
-    {
-      "at": "2026-11-26T10:00:39.744Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "SNKクロスオーバー",
-      "url": "https://www.snkcrossover.indexg.net/",
-      "image": "https://snkcrossover.indexg.net/brand/og-image.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2026年12月24日"
     }
   ]
 }
