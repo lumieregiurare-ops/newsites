@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-27T10:00:19.657Z",
+  "updatedAt": "2026-11-27T10:30:20.460Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1326,
+  "total": 1324,
   "regions": {
-    "jp": 1030,
-    "global": 296
+    "jp": 1029,
+    "global": 295
   },
   "categories": [
     {
@@ -25,17 +25,17 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 110
     },
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 210
+      "count": 209
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 274
+      "count": 273
     },
     {
       "id": "release",
@@ -45,7 +45,7 @@
     {
       "id": "indie",
       "label": "インディー・個人開発",
-      "count": 21
+      "count": 20
     },
     {
       "id": "browser",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 136
+      "count": 137
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 366
+      "count": 365
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 529
+      "count": 528
     },
     {
       "id": "browser",
@@ -121,16 +121,43 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "Game*Spark",
     "電ファミニコゲーマー",
     "Inside",
-    "4Gamer",
     "AppBank",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "e031f45041bf",
+      "url": "https://www.marv.jp/",
+      "host": "marv.jp",
+      "region": "jp",
+      "title": "マ",
+      "headline": "マーベラス，コンシューマ事業の構造改革で約65名を対象とした社外転進支援制度を実施へ。今後も新作の企画・開発を継続する方針",
+      "description": "ゲームへ、映像へ、音楽へ、ステージへ。 感動は、ボーダーを超えて。株式会社マーベラス【Marvelous Inc.】の公式ウェブサイトです。",
+      "publishedAt": "2026-11-27T10:26:17.000Z",
+      "addedAt": "2026-11-27T10:30:20.460Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/999/G999905/20261127041/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "company"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.marv.jp/assets/img/common/ogp.png"
+    },
     {
       "id": "d2b77415891d",
       "url": "https://sugarlies.kogado.com/",
@@ -40257,101 +40284,6 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/09/28/188425.html"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "周年"
-      ],
-      "categories": [
-        "anniversary",
-        "campaign"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": ""
-    },
-    {
-      "id": "481c15cce2ec",
-      "url": "https://www.ukiyostudios.com/ukiyo-game-bar",
-      "host": "ukiyostudios.com",
-      "region": "global",
-      "title": "UKIYO GAME BAR",
-      "headline": "世界中のインディーゲームが集まる「UKIYO GAME BAR」東京でプレオープン中。インディーゲームのイベント出展支える“業界の黒子”が365日遊べる場所を作った理由とは【イン…",
-      "description": "世界中のインディーゲームが集まる「UKIYO GAME BAR」東京でプレオープン中。インディーゲームのイベント出展支える“業界の黒子”が365日遊べる場所を作った理由とは【インタビュー】",
-      "publishedAt": "2026-09-28T10:30:03.000Z",
-      "addedAt": "2026-09-28T10:30:18.227Z",
-      "source": "Game*Spark",
-      "sources": [
-        {
-          "name": "Game*Spark",
-          "url": "http://www.gamespark.jp/article/2026/09/28/172870.html"
-        },
-        {
-          "name": "GameBusiness.jp",
-          "url": "https://www.gamebusiness.jp/article/2026/09/29/28163.html"
-        }
-      ],
-      "tags": [
-        "ゲーム"
-      ],
-      "categories": [
-        "event",
-        "indie"
-      ],
-      "platforms": [],
-      "points": null,
-      "image": "https://static1.squarespace.com/static/583bfedc6a4963d2568de5c6/t/6a3588418a10fa02d8b287cd/1781893185068/ukiyogamebarmap.jpg?format=1500w"
-    },
-    {
-      "id": "58d74ced159c",
-      "url": "https://gf2.haoplay.com/jp/",
-      "host": "gf2.haoplay.com",
-      "region": "jp",
-      "title": "ドルフロ",
-      "headline": "「ドルフロ」シリーズ公式通販サイトがリニューアルオープン",
-      "description": "人形と切り開くポストアポカリプス戦略RPG 「ドールズフロントライン2：エクシリウム」の公式サイトです。好評配信中",
-      "publishedAt": "2026-09-28T10:25:44.000Z",
-      "addedAt": "2026-09-28T10:30:18.227Z",
-      "source": "4Gamer",
-      "sources": [
-        {
-          "name": "4Gamer",
-          "url": "https://www.4gamer.net/games/631/G063178/20260928031/"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "周年",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "anniversary",
-        "goods"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://res.17996cdn.net/gf2/kr/images/fbshare/jp.jpg"
-    },
-    {
-      "id": "bd68544345e2",
-      "url": "https://draw.geo-online.co.jp/lottery/126/",
-      "host": "draw.geo-online.co.jp",
-      "region": "jp",
-      "title": "ポケカ",
-      "headline": "ゲオで、『ポケカ』30周年記念商品「30th CELEBRATION カードセット」9種セットが抽選受付中！ “御三家”の特別カードを地方ごとに収録した胸アツなアイテム",
-      "description": "ゲオで、『ポケカ』30周年記念商品「30th CELEBRATION カードセット」9種セットが抽選受付中！ “御三家”の特別カードを地方ごとに収録した胸アツなアイテム",
-      "publishedAt": "2026-09-28T09:35:02.000Z",
-      "addedAt": "2026-09-28T10:00:20.873Z",
-      "source": "Inside",
-      "sources": [
-        {
-          "name": "Inside",
-          "url": "https://www.inside-games.jp/article/2026/09/28/188412.html"
         }
       ],
       "tags": [
