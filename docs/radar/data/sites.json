@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:00:24.673Z",
+  "updatedAt": "2026-11-27T08:30:18.699Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 173
+      "count": 174
     },
     {
       "id": "anniversary",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 145
+      "count": 144
     }
   ],
   "platforms": [
@@ -146,6 +146,10 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/11/27/175367.html"
+        },
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/036/G103607/20261127006/"
         }
       ],
       "tags": [
@@ -32412,13 +32416,18 @@
         {
           "name": "Game*Spark",
           "url": "http://www.gamespark.jp/article/2026/10/30/174285.html"
+        },
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/27/191670.html"
         }
       ],
       "tags": [
-        "ゲーム"
+        "ゲーム",
+        "事前登録"
       ],
       "categories": [
-        "official"
+        "prereg"
       ],
       "platforms": [
         "switch2",
