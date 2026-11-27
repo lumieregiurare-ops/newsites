@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:30:39.349Z",
+  "updatedAt": "2026-11-27T08:00:43.204Z",
   "platforms": [
     {
       "id": "switch",
@@ -196,6 +196,23 @@
       "sourceUrl": "https://www.4gamer.net/games/993/G099328/20261113018/"
     },
     {
+      "id": "bdd26cfd55f7",
+      "title": "Sugar Lies",
+      "date": "2026-12-10",
+      "dateText": "2026年12月10日",
+      "sortKey": "2026-12-10",
+      "priority": 0,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://sugarlies.kogado.com/",
+      "image": "https://sugarlies.kogado.com/img/ogp.jpg",
+      "maker": "",
+      "headline": "嘘嫌いの青年と嘘つき少女の短編ビジュアルノベル『Sugar Lies』Steam版が12月10日発売へ―ヒロイン2人のASMRや主題歌リリックビデオも公開決定",
+      "source": "Game*Spark",
+      "sourceUrl": "http://www.gamespark.jp/article/2026/11/27/175367.html"
+    },
+    {
       "id": "68de7bbfe85c",
       "title": "ぼくは航空管制官 エアポートヒーロー 成田 × ANA",
       "date": "2026-12-10",
@@ -260,23 +277,6 @@
       "headline": "『白銀の城』が12月14日に全世界同時リリース！ PC・PS5・iOS・Androidに対応",
       "source": "AppBank",
       "sourceUrl": "https://www.appbank.net/2026/11/01/game/3150980.php"
-    },
-    {
-      "id": "57d0b0fac0da",
-      "title": "コマンドス オリジンズ デラックスエディション",
-      "date": "2026-12-15",
-      "dateText": "2026年12月15日",
-      "sortKey": "2026-12-15",
-      "priority": 0,
-      "platforms": [
-        "switch2"
-      ],
-      "url": "https://kalypsomedia.co.jp/commandos-origins/",
-      "image": "",
-      "maker": "",
-      "headline": "「コマンドス オリジンズ デラックスエディション」，Switch2向けに12月15日配信決定。Joy-Con 2のマウス操作や2人協力プレイに対応",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/059/G105909/20261117037/"
     }
   ],
   "prereg": [
@@ -462,6 +462,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-27T08:00:43.204Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Sugar Lies",
+      "url": "https://sugarlies.kogado.com/",
+      "image": "https://sugarlies.kogado.com/img/ogp.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年12月10日"
+    },
+    {
       "at": "2026-11-27T03:30:31.592Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -520,18 +532,6 @@
         "switch"
       ],
       "to": "2026年12月18日"
-    },
-    {
-      "at": "2026-11-25T17:00:40.534Z",
-      "type": "new",
-      "label": "新規",
-      "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000142324",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c76d72d212ef0447d6f6545fb07121e542c8d8d341d82058cf653473a107a3a3.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月17日"
     }
   ]
 }

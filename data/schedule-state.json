@@ -1502,7 +1502,7 @@
       }
     },
     "ソリティア世界旅行": {
-      "at": "2026-11-24T08:00:36.944Z",
+      "at": "2026-11-27T08:00:44.807Z",
       "entry": {
         "trackId": "6792692437",
         "title": "ソリティア世界旅行 - 旅するクロンダイク",
@@ -2214,10 +2214,10 @@
       }
     },
     "Nientum": {
-      "at": "2026-11-24T08:00:35.450Z",
+      "at": "2026-11-27T08:00:43.420Z",
       "entry": {
         "trackId": "6757788137",
-        "title": "Nientum - Op.ZERO",
+        "title": "ニエンタム — オプス・ゼロ (Nientum)",
         "artist": "QueseraGames Co.,Ltd",
         "genres": [
           "ミュージック",
@@ -2226,8 +2226,8 @@
         "releaseDate": "2026-10-26T07:00:00Z",
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id6757788137",
-        "sellerUrl": "https://www.queseragames.com/",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/9f/d8/569fd8b7-5e9a-d779-882a-c1d54c709767/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "sellerUrl": "https://queseragames.net/ja/games/nientum/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/6b/b3/f96bb3a6-8a89-5f73-2228-1c28352153a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -34407,7 +34407,7 @@
     },
     "lsd": {
       "title": "LSD",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-10-14T00:00:32.731Z"
     },
     "superscore": {
@@ -87900,21 +87900,81 @@
       "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-27T07:30:39.349Z"
+    },
+    "nullvector": {
+      "title": "NULL VECTOR",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "塔防山贼模拟器-主角穿越protagonistpack": {
+      "title": "塔防山贼模拟器 - 主角穿越 Protagonist Pack",
+      "dateText": "2026年11月29日",
+      "date": "2026-11-29",
+      "sortKey": "2026-11-29",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "brewerysimulator": {
+      "title": "Brewery Simulator",
+      "dateText": "2026年11月30日",
+      "date": "2026-11-30",
+      "sortKey": "2026-11-30",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "magickingdom": {
+      "title": "Magic Kingdom",
+      "dateText": "2026年11月30日",
+      "date": "2026-11-30",
+      "sortKey": "2026-11-30",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "lastthaw": {
+      "title": "Last Thaw",
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "punchyourwayout": {
+      "title": "Punch Your Way Out",
+      "dateText": "2026年11月",
+      "date": null,
+      "sortKey": "2026-11-32",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "wbs26wrestlingbookersimulator": {
+      "title": "WBS26 Wrestling Booker Simulator",
+      "dateText": "2026年12月1日",
+      "date": "2026-12-01",
+      "sortKey": "2026-12-01",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "hordeofdistraction": {
+      "title": "Horde of Distraction",
+      "dateText": "2026年12月4日",
+      "date": "2026-12-04",
+      "sortKey": "2026-12-04",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
+    },
+    "sugarlies": {
+      "title": "Sugar Lies",
+      "dateText": "2026年12月10日",
+      "date": "2026-12-10",
+      "sortKey": "2026-12-10",
+      "prereg": false,
+      "firstSeen": "2026-11-27T08:00:43.204Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-29T16:00:32.998Z",
-      "type": "new",
-      "label": "新規",
-      "title": "オリジナル兵装パーツセット（１３点）",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000082334",
-      "image": "https://img-eshop.cdn.nintendo.net/i/a590f2c2f16db5d9d114ea6375392cc57b9093ab3f288763c15bf3c5d1af34da.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "to": "2026年12月10日"
-    },
     {
       "at": "2026-10-29T16:00:32.998Z",
       "type": "new",
@@ -92728,6 +92788,18 @@
         "pc"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-27T08:00:43.204Z",
+      "type": "new",
+      "label": "新規",
+      "title": "Sugar Lies",
+      "url": "https://sugarlies.kogado.com/",
+      "image": "https://sugarlies.kogado.com/img/ogp.jpg",
+      "platforms": [
+        "pc"
+      ],
+      "to": "2026年12月10日"
     }
   ],
   "initialized": true,

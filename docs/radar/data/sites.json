@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T07:30:20.249Z",
+  "updatedAt": "2026-11-27T08:00:24.673Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1325,
+  "total": 1327,
   "regions": {
-    "jp": 1029,
+    "jp": 1031,
     "global": 296
   },
   "categories": [
@@ -35,12 +35,12 @@
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 274
+      "count": 275
     },
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 151
+      "count": 152
     },
     {
       "id": "mobile",
@@ -121,16 +121,72 @@
     }
   ],
   "sources": [
+    "Game*Spark",
+    "電ファミニコゲーマー",
     "Inside",
     "4Gamer",
-    "電ファミニコゲーマー",
     "AppBank",
-    "Game*Spark",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d2b77415891d",
+      "url": "https://sugarlies.kogado.com/",
+      "host": "sugarlies.kogado.com",
+      "region": "jp",
+      "title": "Sugar Lies",
+      "headline": "嘘嫌いの青年と嘘つき少女の短編ビジュアルノベル『Sugar Lies』Steam版が12月10日発売へ―ヒロイン2人のASMRや主題歌リリックビデオも公開決定",
+      "description": "工画堂スタジオ新作ADV「Sugar Lies」公式サイトです。",
+      "publishedAt": "2026-11-27T08:00:03.000Z",
+      "addedAt": "2026-11-27T08:00:24.673Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/27/175367.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [
+        "pc"
+      ],
+      "points": null,
+      "image": "https://sugarlies.kogado.com/img/ogp.jpg"
+    },
+    {
+      "id": "3d3b246e50ef",
+      "url": "https://www.animax.co.jp/events/gyakuten-saiban202611/",
+      "host": "animax.co.jp",
+      "region": "jp",
+      "title": "逆転裁判Re:2",
+      "headline": "朗読劇『逆転裁判Re:2』の上演が決定。原作ゲーム第1作の最高潮にあたる第4話「逆転、そしてサヨナラ」のストーリーをメインに描く",
+      "description": "「逆転裁判」原作第1話・第2話を、新キャストによる朗読劇で再びお届けします！東京・シアター1010にて2026年11月26日（木）～30日（月）開催",
+      "publishedAt": "2026-11-27T07:39:04.000Z",
+      "addedAt": "2026-11-27T08:00:24.673Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611272l"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.animax.co.jp/events/gyakuten-saiban202611/assets/images/ogImage.png"
+    },
     {
       "id": "5dd17110e940",
       "url": "https://tenyo.store/collections/jigsaw",
@@ -8343,7 +8399,7 @@
         "switch2"
       ],
       "points": null,
-      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611260738"
+      "image": "https://www.konami.com/games/momotetsu/2/s/img/common/share.jpg?202611270712"
     },
     {
       "id": "00e80838bf52",
@@ -8352,7 +8408,7 @@
       "region": "jp",
       "title": "NBA 2K27",
       "headline": "「NBA 2K27」に「GTA6」のバイスシティを再現したパークが登場。ロスサントスとの対抗戦や限定衣装など，大型コラボのトレイラー公開",
-      "description": "「NBA 2K27」に「GTA6」のバイスシティを再現したパークが登場。ロスサントスとの対抗戦や限定衣装など，大型コラボのトレイラー公開",
+      "description": "NBAオフィシャルゲームソフト「NBA 2K27」日本語版公式サイト",
       "publishedAt": "2026-11-17T03:23:11.000Z",
       "addedAt": "2026-11-17T03:30:17.461Z",
       "source": "4Gamer",
@@ -8370,7 +8426,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": ""
+      "image": "https://nba2k.jp/images/ogp.png"
     },
     {
       "id": "71c8f380a8ae",
