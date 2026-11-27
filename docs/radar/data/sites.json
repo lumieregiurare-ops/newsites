@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T06:30:25.795Z",
+  "updatedAt": "2026-11-27T07:00:15.462Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1327,
+  "total": 1328,
   "regions": {
-    "jp": 1031,
+    "jp": 1032,
     "global": 296
   },
   "categories": [
@@ -25,7 +25,7 @@
     {
       "id": "anniversary",
       "label": "周年・記念",
-      "count": 112
+      "count": 113
     },
     {
       "id": "campaign",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 462
+      "count": 463
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Inside",
+    "4Gamer",
     "電ファミニコゲーマー",
     "AppBank",
     "Game*Spark",
@@ -131,6 +131,35 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "5dd17110e940",
+      "url": "https://tenyo.store/collections/jigsaw",
+      "host": "tenyo.store",
+      "region": "jp",
+      "title": "ゼルダの伝説",
+      "headline": "時代を超えた10作品のリンクが集結！『ゼルダの伝説』40周年を記念したジグソーパズル全3種が発売へ",
+      "description": "We are sorry, but we don't ship our jigsaw puzzles outside of Japan.",
+      "publishedAt": "2026-11-27T06:40:02.000Z",
+      "addedAt": "2026-11-27T07:00:15.462Z",
+      "source": "Inside",
+      "sources": [
+        {
+          "name": "Inside",
+          "url": "https://www.inside-games.jp/article/2026/11/27/191657.html"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "周年"
+      ],
+      "categories": [
+        "anniversary",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "96012267a4db",
       "url": "http://www.yugioh-card.com/japan/",
@@ -173,6 +202,10 @@
         {
           "name": "Inside",
           "url": "https://www.inside-games.jp/article/2026/11/27/191642.html"
+        },
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/27/175365.html"
         }
       ],
       "tags": [
