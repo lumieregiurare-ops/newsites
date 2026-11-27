@@ -87808,7 +87808,7 @@
     },
     "アストラエ・オラティオ": {
       "title": "アストラエ・オラティオ",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-11-27T03:30:31.592Z"
     },
     "fullower": {
@@ -88364,21 +88364,17 @@
       "sortKey": "2026-12-11",
       "prereg": false,
       "firstSeen": "2026-11-27T15:30:41.753Z"
+    },
+    "core31": {
+      "title": "Core 31",
+      "dateText": "2026年11月30日",
+      "date": "2026-11-30",
+      "sortKey": "2026-11-30",
+      "prereg": false,
+      "firstSeen": "2026-11-27T16:00:33.766Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-10-30T08:30:35.408Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ヤンキーサバイバー 転生したら平成ヤンキーだった件",
-      "url": "https://apps.apple.com/jp/app/id6778303469",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/cc/74/04cc7404-443e-0406-b6ab-8ec4a8b6b5f5/Placeholder.mill/1200x630wa.jpg",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "2026年11月12日"
-    },
     {
       "at": "2026-10-30T08:30:35.408Z",
       "type": "prereg_start",
@@ -93191,6 +93187,18 @@
       "image": "https://static1.squarespace.com/static/606d4bb793879d12d807d4c8/t/606d4bc193879d12d807d8a9/1617766368558/Team_Cherry_Logo_Big.png?format=1500w",
       "platforms": [],
       "to": "2026年12月11日"
+    },
+    {
+      "at": "2026-11-27T16:00:33.766Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "アストラエ・オラティオ",
+      "url": "https://astraeoratio.plaync.com/ja-jp/index",
+      "image": "https://fizz-download.playnccdn.com/download/v2/buckets/conti-upload/files/19ddc16eef6-45a81638-c24f-4bb9-a278-68aa2f3c1116",
+      "platforms": [
+        "pc"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
