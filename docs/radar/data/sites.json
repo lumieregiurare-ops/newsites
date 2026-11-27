@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-27T11:00:16.334Z",
+  "updatedAt": "2026-11-27T11:30:19.038Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1324,
+  "total": 1325,
   "regions": {
-    "jp": 1029,
+    "jp": 1030,
     "global": 295
   },
   "categories": [
     {
       "id": "teaser",
       "label": "ティザー・カウントダウン",
-      "count": 52
+      "count": 53
     },
     {
       "id": "prereg",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 463
+      "count": 464
     },
     {
       "id": "indie",
@@ -121,8 +121,8 @@
     }
   ],
   "sources": [
-    "4Gamer",
     "Game*Spark",
+    "4Gamer",
     "電ファミニコゲーマー",
     "Inside",
     "AppBank",
@@ -131,6 +131,34 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "28a6cb4d6ade",
+      "url": "https://www.alicesoft.com/diabolique_re/",
+      "host": "alicesoft.com",
+      "region": "jp",
+      "title": "デアボリカ",
+      "headline": "1998年発売の名作『デアボリカ』がリマスターで蘇る―アリスソフトが『DiaboLiQuE remaster』発表",
+      "description": "DiaboLiQuE Remaster 公式ティザーサイト",
+      "publishedAt": "2026-11-27T11:24:57.000Z",
+      "addedAt": "2026-11-27T11:30:19.038Z",
+      "source": "Game*Spark",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "http://www.gamespark.jp/article/2026/11/27/175385.html"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "teaser",
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "e031f45041bf",
       "url": "https://www.marv.jp/",
