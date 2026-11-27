@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-27T14:55:36.182Z",
+  "updatedAt": "2026-11-27T15:30:17.898Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1326,
+  "total": 1327,
   "regions": {
     "jp": 1030,
-    "global": 296
+    "global": 297
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 466
+      "count": 467
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 137
+      "count": 138
     },
     {
       "id": "media",
@@ -70,7 +70,7 @@
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 144
+      "count": 143
     }
   ],
   "platforms": [
@@ -97,7 +97,7 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 153
+      "count": 152
     },
     {
       "id": "mobile",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "Inside",
     "AppBank",
     "App Store",
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "fc7f0055e9f6",
+      "url": "https://hollowknightsilksong.com/",
+      "host": "hollowknightsilksong.com",
+      "region": "global",
+      "title": "ホロウナイト: シルクソング",
+      "headline": "『ホロウナイト: シルクソング』無料拡張DLC「Sea of Sorrow」が12月11日に配信決定！！プレイ映像が公開",
+      "description": "『ホロウナイト: シルクソング』無料拡張DLC「Sea of Sorrow」が12月11日に配信決定！！プレイ映像が公開",
+      "publishedAt": "2026-11-27T15:15:34.000Z",
+      "addedAt": "2026-11-27T15:30:17.898Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/2611273a"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://static1.squarespace.com/static/606d4bb793879d12d807d4c8/t/606d4bc193879d12d807d8a9/1617766368558/Team_Cherry_Logo_Big.png?format=1500w"
+    },
     {
       "id": "38376ce29418",
       "url": "https://namepara.com/namekotei/",
@@ -6709,7 +6736,7 @@
         "arcade"
       ],
       "points": null,
-      "image": "https://taiko.namco-ch.net/taiko/en/images/ogp.jpg?20261127"
+      "image": "https://taiko.namco-ch.net/taiko/en/images/ogp.jpg?20261128"
     },
     {
       "id": "fd5fc58dcc35",
@@ -20150,7 +20177,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/e4/18/74e418c9-efae-6d41-edd4-4e101341ed25/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/03/fd/b403fdd9-8662-a802-8453-75e9d95c3e53/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "316945d54035",
@@ -24921,7 +24948,7 @@
       "region": "global",
       "title": "Mass Effect",
       "headline": "RPGの名門BioWareが31年の歴史に幕。「Mass Effect」最新作の開発も中止に。EAは約400人を削減する大規模な事業再編を発表",
-      "description": "BioWare develops high quality console, PC and online role-playing games, focused on rich stories, unforgettable charact…",
+      "description": "For more than 30 years, BioWare has been more than a studio. It has been a home for storytellers, developers, and the p…",
       "publishedAt": "2026-10-22T02:46:38.000Z",
       "addedAt": "2026-10-22T03:00:15.287Z",
       "source": "4Gamer",
@@ -24935,13 +24962,11 @@
         "ゲーム"
       ],
       "categories": [
-        "official"
+        "company"
       ],
-      "platforms": [
-        "pc"
-      ],
+      "platforms": [],
       "points": null,
-      "image": "https://www.bioware.com/wp-content/themes/bioware/assets/img/apple-touch-icon-144x144.png"
+      "image": "https://drop-assets.ea.com/images/2WAQvREA4REBTRhkkL3OO8/b002e584f421bfa26c023de875638e9a/BioWare_Symbol_BoW_banner_16x9png.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5"
     },
     {
       "id": "8c6b8728869f",
