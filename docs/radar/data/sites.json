@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T02:00:20.674Z",
+  "updatedAt": "2026-11-27T02:30:16.877Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1333,
+  "total": 1334,
   "regions": {
-    "jp": 1035,
+    "jp": 1036,
     "global": 298
   },
   "categories": [
@@ -30,12 +30,12 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 213
+      "count": 214
     },
     {
       "id": "event",
       "label": "イベント・大会・eスポーツ",
-      "count": 272
+      "count": 273
     },
     {
       "id": "release",
@@ -121,16 +121,44 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "AppBank",
     "4Gamer",
     "Inside",
     "Game*Spark",
-    "電ファミニコゲーマー",
     "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "d3845fda68c7",
+      "url": "https://www.pizzahut.jp/topic/wutheringwaves/game",
+      "host": "pizzahut.jp",
+      "region": "jp",
+      "title": "鳴潮",
+      "headline": "「ピザハット」×『鳴潮』コラボが12月1日より開催決定！キャラのおすすめを集めたオリジナルピザ「鳴潮セレクト4」が販売",
+      "description": "「ピザハット」×『鳴潮』コラボが12月1日より開催決定！キャラのおすすめを集めたオリジナルピザ「鳴潮セレクト4」が販売",
+      "publishedAt": "2026-11-27T02:00:43.000Z",
+      "addedAt": "2026-11-27T02:30:16.877Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261127m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign",
+        "event"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": ""
+    },
     {
       "id": "7a081dcaf5df",
       "url": "https://apps.apple.com/jp/app/id6809792283",
@@ -37219,7 +37247,7 @@
       "region": "jp",
       "title": "麻辣湯ものがたり（マーラータン）",
       "headline": "Ryusei Okamoto / シミュレーション・エンターテインメント · App Store 新着",
-      "description": "小さな麻辣湯（マーラータン）屋さんの店長になって、街いちばんの人気店を目指そう。画面をなぞって店長を動かし、具材の補充やレジ、片付けをこなして、テーブルや厨房、新しいエリアをどんどん開放していく iPhone ゲームです。",
+      "description": "小さな麻辣湯（マーラータン）屋さんの店長になって、街いちばんの人気店を目指そう。画面をなぞって店長を動かし、具材の補充やレジ、片付けをこなして、テーブルや厨房、新しいエリアをどんどん開放していくスマホゲームです（iPhone・Androi…",
       "publishedAt": "2026-10-02T07:00:00.000Z",
       "addedAt": "2026-10-04T07:30:16.211Z",
       "source": "App Store",
