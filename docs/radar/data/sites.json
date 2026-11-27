@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-27T18:00:16.709Z",
+  "updatedAt": "2026-11-27T18:30:18.125Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1327,
+  "total": 1344,
   "regions": {
-    "jp": 1030,
-    "global": 297
+    "jp": 1037,
+    "global": 307
   },
   "categories": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 467
+      "count": 469
     },
     {
       "id": "indie",
@@ -50,27 +50,27 @@
     {
       "id": "browser",
       "label": "ブラウザ・Web ゲーム",
-      "count": 33
+      "count": 34
     },
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 138
+      "count": 140
     },
     {
       "id": "media",
       "label": "メディア・コミュニティ・ツール",
-      "count": 61
+      "count": 60
     },
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 367
+      "count": 384
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 143
+      "count": 144
     }
   ],
   "platforms": [
@@ -97,17 +97,17 @@
     {
       "id": "pc",
       "label": "PC / Steam",
-      "count": 152
+      "count": 151
     },
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 530
+      "count": 547
     },
     {
       "id": "browser",
       "label": "ブラウザ",
-      "count": 19
+      "count": 20
     },
     {
       "id": "arcade",
@@ -121,16 +121,149 @@
     }
   ],
   "sources": [
+    "App Store",
     "電ファミニコゲーマー",
     "4Gamer",
     "Game*Spark",
     "Inside",
     "AppBank",
-    "App Store",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "7a13904da776",
+      "url": "https://www.mergemelody.com/",
+      "host": "mergemelody.com",
+      "region": "global",
+      "title": "Merge Melody",
+      "headline": "Matt Greenwood / エンターテインメント・ミュージック · App Store 新着",
+      "description": "Merge Melody: a puzzle adventure for Apple TV where every room moves to its own music.",
+      "publishedAt": "2026-11-27T18:30:23.336Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6832357804"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "ミュージック"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "2d55819de03f",
+      "url": "https://tathyalabs.com/move/",
+      "host": "tathyalabs.com",
+      "region": "global",
+      "title": "Move Buddies: Dance & Sports",
+      "headline": "Ankit Ankit / ファミリー・ヘルスケア／フィットネス · App Store 新着",
+      "description": "A family party game where your iPhone is the camera and your body is the controller. 1 or 2 players, cat and dog buddie…",
+      "publishedAt": "2026-11-27T18:30:23.336Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834087732"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ファミリー",
+        "ヘルスケア／フィットネス"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.tathyalabs.com/move/og.jpg"
+    },
+    {
+      "id": "d0ac11d918c2",
+      "url": "https://swaynt.com/",
+      "host": "swaynt.com",
+      "region": "global",
+      "title": "Probably Human",
+      "headline": "Swaynt LLC / カード・アドベンチャー · App Store 新着",
+      "description": "A software studio focused on craft. We design and engineer mobile apps for teams who refuse to compromise.",
+      "publishedAt": "2026-11-27T18:30:23.336Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6823573157"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カード",
+        "アドベンチャー"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "c0baf66e827e",
+      "url": "https://tttu732.github.io/wanchan-racers/",
+      "host": "tttu732.github.io",
+      "region": "jp",
+      "title": "ワンチャンレーサーズ",
+      "headline": "TAKURO UEHARA / レーシング・シミュレーション · App Store 新着",
+      "description": "ジャンクから、空のてっぺんへ。柴犬ゴロウのジェットエンジン改造レースゲーム。",
+      "publishedAt": "2026-11-27T18:30:23.336Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6834320509"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "シミュレーション"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://tttu732.github.io/wanchan-racers/og_640x320.png"
+    },
     {
       "id": "fc7f0055e9f6",
       "url": "https://hollowknightsilksong.com/",
@@ -351,6 +484,437 @@
       ],
       "points": null,
       "image": "https://sugarlies.kogado.com/img/ogp.jpg"
+    },
+    {
+      "id": "ae0644bf6021",
+      "url": "https://n07i.my.id/",
+      "host": "n07i.my.id",
+      "region": "global",
+      "title": "Pulang Kampung: Desa Impian",
+      "headline": "PT Purnama Indah Group / カジュアル・パズル · App Store 新着",
+      "description": "N07I adalah halaman resmi developer aplikasi mobile dan web.",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6839535153"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "カジュアル",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "64aefbc98806",
+      "url": "https://nicovlr.github.io/altivolt/",
+      "host": "nicovlr.github.io",
+      "region": "global",
+      "title": "Altivolt",
+      "headline": "nicolas valerino / レーシング・カジュアル · App Store 新着",
+      "description": "Side-view driving game for iPhone: an electric car that flies over ravines, from a meadow to orbit.",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6833883462"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "レーシング",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://nicovlr.github.io/altivolt/icon.png"
+    },
+    {
+      "id": "4c470d28d751",
+      "url": "https://apps.apple.com/jp/app/id6837262241",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "ARK AUCTION ACADEMY",
+      "headline": "PENGUIN TRADE / 教育・カジュアル · App Store 新着",
+      "description": "PENGUIN TRADEの「ARK AUCTION ACADEMY」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「ARK AUCTION ACADEMY」に似たゲームを見ることなど…",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837262241"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "教育",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/53/9e/c9539e0d-e7a0-994f-2b83-6698ac069977/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "9d04047518ec",
+      "url": "https://braindoki.com/",
+      "host": "braindoki.com",
+      "region": "global",
+      "title": "Braindoki - Mind Training",
+      "headline": "Snega AS / トリビア・パズル · App Store 新着",
+      "description": "A feed of quick brain puzzles. Free on iPhone and iPad, or play in your browser.",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6816264768"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "トリビア",
+        "パズル"
+      ],
+      "categories": [
+        "browser",
+        "goods"
+      ],
+      "platforms": [
+        "mobile",
+        "browser"
+      ],
+      "points": null,
+      "image": "https://braindoki.com/share.jpg"
+    },
+    {
+      "id": "ba8375caaccd",
+      "url": "http://www.kitegames.co/",
+      "host": "kitegames.co",
+      "region": "global",
+      "title": "Cars Out! - Traffic Puzzle",
+      "headline": "Kite Games / パズル · App Store 新着",
+      "description": "Kite Games / パズル · App Store 新着",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836780878"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "ed3444dfca83",
+      "url": "https://apps.apple.com/jp/app/id6835397828",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Cini Match: Tile Puzzle",
+      "headline": "Serdar Yildiz / ボード・パズル · App Store 新着",
+      "description": "Serdar Yildizの「Cini Match: Tile Puzzle」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Cini Match: Tile Puzzle」に似たゲー…",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835397828"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ボード",
+        "パズル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/53/c0/d953c05d-37ad-840b-49e6-e9c8d4712a63/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "c35a63a7e6f8",
+      "url": "https://apps.apple.com/jp/app/id6835892089",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "DEAD SWEEP",
+      "headline": "BYUNGHOON LEE / パズル・ストラテジー · App Store 新着",
+      "description": "BYUNGHOON LEEの「DEAD SWEEP」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「DEAD SWEEP」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6835892089"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "パズル",
+        "ストラテジー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/51/dc/e351dc73-551a-0a04-ec67-8c2c21fb6d74/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "a08c7aff1b80",
+      "url": "https://apps.apple.com/jp/app/id6837847010",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Descubra o Impostor",
+      "headline": "Vitor Cesar do Nascimento Silva / 単語・ファミリー · App Store 新着",
+      "description": "Vitor Cesar do Nascimento Silvaの「Descubra o Impostor」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Descubra o Impo…",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6837847010"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "単語",
+        "ファミリー"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/c1/0a/f6c10a3d-e174-ea60-ada4-827e7edf17d5/Placeholder.mill/1200x630wa.jpg"
+    },
+    {
+      "id": "393215d24109",
+      "url": "https://games.hrlabs.studio/dunk-rivals/",
+      "host": "games.hrlabs.studio",
+      "region": "global",
+      "title": "Dunk Rivals: バスケットボール",
+      "headline": "Harvey Roberts / スポーツ・エンターテインメント · App Store 新着",
+      "description": "Dunk Rivals is a 1v1 basketball shooting game for iPhone and Android. One smooth swipe sets the power: release in the g…",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836256035"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "スポーツ",
+        "エンターテインメント"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://games.hrlabs.studio/assets/og/dunk-rivals.jpg"
+    },
+    {
+      "id": "6c872d5615e7",
+      "url": "https://games.hrlabs.studio/eat-them-all/",
+      "host": "games.hrlabs.studio",
+      "region": "global",
+      "title": "Eat Them All: サメを育てよう",
+      "headline": "Harvey Roberts / エンターテインメント・カジュアル · App Store 新着",
+      "description": "Eat Them All is a quick, satisfying level game for iPhone and Android. You steer a hungry shark through the reef, the k…",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6836254344"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "エンターテインメント",
+        "カジュアル"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://games.hrlabs.studio/assets/og/eat-them-all.jpg"
+    },
+    {
+      "id": "e10f17a7bb7a",
+      "url": "https://zilankeji.com/",
+      "host": "zilankeji.com",
+      "region": "jp",
+      "title": "Frostline: The Wakeful",
+      "headline": "Hangzhou Zilan Technology Co., Ltd. / アドベンチャー・アクション · App Store 新着",
+      "description": "杭州紫岚科技有限公司(ZiLan Technology)——专注定制软件开发、企业信息化系统建设、Web与小程序开发、系统集成与技术咨询的软件开发服务商。统一社会信用代码 91330110MA28RH124D。",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6838189735"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "アクション"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": ""
+    },
+    {
+      "id": "304265f9e785",
+      "url": "https://www.blacksheepstudio.eu/",
+      "host": "blacksheepstudio.eu",
+      "region": "global",
+      "title": "Halls of Jötunn",
+      "headline": "Pawel Sobczak / アドベンチャー・ロールプレイング · App Store 新着",
+      "description": "Enter the Halls. Play the mobile demo on iOS and Android and help shape the game.",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6814841310"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "アドベンチャー",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://www.blacksheepstudio.eu/og-image.png"
+    },
+    {
+      "id": "abbf6488228e",
+      "url": "https://apps.apple.com/jp/app/id6839254829",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "Hush Trail",
+      "headline": "Dat Vuong Van / ゲーム · App Store 新着",
+      "description": "Dat Vuong Vanの「Hush Trail」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「Hush Trail」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-27T08:00:00.000Z",
+      "addedAt": "2026-11-27T18:30:18.125Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6839254829"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/50/65/13506507-2c3e-4311-7649-a6982f2de883/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "3d3b246e50ef",
@@ -7240,7 +7804,7 @@
       "region": "jp",
       "title": "SEKIRO",
       "headline": "『SEKIRO』インスパイアの韓国産ソウルライクACT『KAMAGI』最新ゲームプレイ映像が公開！",
-      "description": "Genre: Korean Urban Fantasy Parry Action Platforms: PC & Consoles Development Engine: Unreal Engine 5 < Dev Video : www…",
+      "description": "Screen shot",
       "publishedAt": "2026-11-18T15:00:03.000Z",
       "addedAt": "2026-11-18T15:00:21.729Z",
       "source": "Game*Spark",
@@ -7254,13 +7818,11 @@
         "ゲーム"
       ],
       "categories": [
-        "media"
+        "official"
       ],
-      "platforms": [
-        "pc"
-      ],
+      "platforms": [],
       "points": null,
-      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQclIHHnaAV6oLTLuB10KCywv1bCRk8Mp5hvPX_rc_EehxZarcqt5pt5Yg40mfEYa_0ffiFBPOENPQvwxjSV7qZEf0p4ZW7AD824815O6Eym0AJ0xYLCACENnm2UjpH21gbREKuJ66g67dLUhqK0oXTanEOU9GWVFJFdu_5nlmDokLh9iw3LnngD13iO2lb94pbkOtVjpQC7h7UHH5dJi2u7MoBQnQrw5bUbjBvOPBY=w1280"
+      "image": "https://lh7-us.googleusercontent.com/sitesv-images-rt/APXyLQdCjLrICHbsGjbRxrUJn-IwNlyM2DBHcq-o6sCsxLTuj6gbXJ6A8hLhHhigneXU65GqhVN-U-UIX6SRCJIsoZSoaZlZ2DXn5czfonhKAPtpceOgsU_XCBcfEZKbwnIAX-H7skKwIfr48DS7q3jIGv6Q5mKTc2RAbzlpXD8dXz_Zprzt9IaMr0_PncWkhYn9QI7QCGPdrezQlqAVLDZ802H3bnjVH9Bj2Q0n_4Rn6Zw=w1280"
     },
     {
       "id": "dca3cfb20f36",
@@ -12080,7 +12642,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/71/8b/dd718bb7-71f3-eb87-397d-7b39e3243d50/Placeholder.mill/1200x630wa.jpg"
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/58/22/2c582224-39dc-1c03-b07f-3a6ad0c818ac/Placeholder.mill/1200x630wa.jpg"
     },
     {
       "id": "286ad75c6e58",
