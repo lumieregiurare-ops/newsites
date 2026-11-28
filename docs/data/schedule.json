@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T13:00:31.902Z",
+  "updatedAt": "2026-11-28T13:30:33.611Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
-      "appstoreSearch": 3.2,
-      "appstoreLookup": 0
+      "appstoreSearch": 0,
+      "appstoreLookup": 0.1
     },
     "nintendo": 264,
     "steam": 300,
@@ -18,7 +18,7 @@
       "unverified": 4,
       "lookedUp": 36
     },
-    "prereg": 36,
+    "prereg": 37,
     "preregDropped": [
       {
         "title": "アズールプロミリア",
@@ -115,10 +115,6 @@
       {
         "title": "BLEACH Mirrors High",
         "reason": "released on App Store"
-      },
-      {
-        "title": "シノビNEXUS - 閃乱カグラ -",
-        "reason": "released on App Store"
       }
     ]
   },
@@ -156,12 +152,28 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "9c126e10780f",
+      "title": "Saurora",
+      "date": "2026-11-28",
+      "dateText": "2026年11月28日",
+      "sortKey": "2026-11-28",
+      "priority": 3.169,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5570020/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570020/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "3b88f0f6ecc2",
       "title": "ABLATION",
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.188,
+      "priority": 3.186,
       "platforms": [
         "pc"
       ],
@@ -241,7 +253,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.101,
+      "priority": 3.1,
       "platforms": [
         "pc"
       ],
@@ -305,7 +317,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.183,
+      "priority": 3.182,
       "platforms": [
         "pc"
       ],
@@ -385,7 +397,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.142,
+      "priority": 3.141,
       "platforms": [
         "pc"
       ],
@@ -417,7 +429,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.158,
+      "priority": 3.159,
       "platforms": [
         "pc"
       ],
@@ -465,7 +477,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.1,
+      "priority": 3.099,
       "platforms": [
         "pc"
       ],
@@ -593,7 +605,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.182,
+      "priority": 3.181,
       "platforms": [
         "pc"
       ],
@@ -673,7 +685,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.201,
+      "priority": 3.2,
       "platforms": [
         "pc"
       ],
@@ -769,7 +781,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.284,
+      "priority": 3.283,
       "platforms": [
         "pc"
       ],
@@ -785,7 +797,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.213,
+      "priority": 3.212,
       "platforms": [
         "pc"
       ],
@@ -897,7 +909,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.2,
+      "priority": 3.199,
       "platforms": [
         "pc"
       ],
@@ -961,7 +973,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.19,
+      "priority": 3.189,
       "platforms": [
         "pc"
       ],
@@ -977,7 +989,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.273,
+      "priority": 3.2720000000000002,
       "platforms": [
         "pc"
       ],
@@ -1105,7 +1117,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.239,
+      "priority": 3.238,
       "platforms": [
         "pc"
       ],
@@ -1217,7 +1229,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.112,
+      "priority": 3.111,
       "platforms": [
         "pc"
       ],
@@ -1328,7 +1340,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.224,
+      "priority": 3.223,
       "platforms": [
         "pc"
       ],
@@ -1425,7 +1437,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.181,
+      "priority": 3.18,
       "platforms": [
         "pc"
       ],
@@ -1441,7 +1453,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.185,
+      "priority": 3.184,
       "platforms": [
         "pc"
       ],
@@ -1468,6 +1480,22 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
+      "id": "29de5c7f3db0",
+      "title": "BumperMania",
+      "date": null,
+      "dateText": "2026年11月",
+      "sortKey": "2026-11-32",
+      "priority": 3.193,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/4298340/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298340/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
       "id": "ac4520dd8ce0",
       "title": "Can't See Shift",
       "date": null,
@@ -1489,7 +1517,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.122,
+      "priority": 3.121,
       "platforms": [
         "pc"
       ],
@@ -1505,7 +1533,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.175,
+      "priority": 3.174,
       "platforms": [
         "pc"
       ],
@@ -1521,7 +1549,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.191,
+      "priority": 3.19,
       "platforms": [
         "pc"
       ],
@@ -1553,7 +1581,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.186,
+      "priority": 3.185,
       "platforms": [
         "pc"
       ],
@@ -1617,7 +1645,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.193,
+      "priority": 3.192,
       "platforms": [
         "pc"
       ],
@@ -1676,22 +1704,6 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "2fcf8180befb",
-      "title": "NanaType",
-      "date": null,
-      "dateText": "2026年11月",
-      "sortKey": "2026-11-32",
-      "priority": 3.18,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/5507600/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5507600/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "0ac60c5493b3",
       "title": "NekoGPT — Your AI VTuber Companion",
       "date": null,
@@ -1729,7 +1741,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.163,
+      "priority": 3.162,
       "platforms": [
         "pc"
       ],
@@ -1793,7 +1805,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.184,
+      "priority": 3.183,
       "platforms": [
         "pc"
       ],
@@ -1815,22 +1827,6 @@
       ],
       "url": "https://store.steampowered.com/app/5364560/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5364560/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
-      "id": "9c126e10780f",
-      "title": "Saurora",
-      "date": null,
-      "dateText": "2026年11月",
-      "sortKey": "2026-11-32",
-      "priority": 3.169,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/5570020/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5570020/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -1921,7 +1917,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.189,
+      "priority": 3.188,
       "platforms": [
         "pc"
       ],
@@ -1937,7 +1933,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.192,
+      "priority": 3.191,
       "platforms": [
         "pc"
       ],
@@ -1991,6 +1987,22 @@
       ],
       "url": "https://store.steampowered.com/app/5125040/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125040/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "def2639809dd",
+      "title": "奇迹觉醒之大天使传奇",
+      "date": null,
+      "dateText": "2026年11月",
+      "sortKey": "2026-11-32",
+      "priority": 3.194,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5265550/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5265550/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -2133,7 +2145,7 @@
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.141,
+      "priority": 3.142,
       "platforms": [
         "pc"
       ],
@@ -2396,7 +2408,7 @@
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.162,
+      "priority": 3.163,
       "platforms": [
         "pc"
       ],
@@ -2713,7 +2725,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.203,
+      "priority": 3.204,
       "platforms": [
         "pc"
       ],
@@ -2993,7 +3005,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.121,
+      "priority": 3.122,
       "platforms": [
         "pc"
       ],
@@ -3009,7 +3021,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.111,
+      "priority": 3.112,
       "platforms": [
         "pc"
       ],
@@ -4090,7 +4102,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.159,
+      "priority": 3.158,
       "platforms": [
         "pc"
       ],
@@ -4604,7 +4616,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.215,
+      "priority": 3.222,
       "platforms": [
         "pc"
       ],
@@ -4652,7 +4664,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.174,
+      "priority": 3.175,
       "platforms": [
         "pc"
       ],
@@ -4869,7 +4881,7 @@
       "date": "2026-12-07",
       "dateText": "2026年12月7日",
       "sortKey": "2026-12-07",
-      "priority": 3.099,
+      "priority": 3.101,
       "platforms": [
         "pc"
       ],
@@ -8603,6 +8615,30 @@
       "trackId": "6779082914"
     },
     {
+      "id": "49957b1853a1",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "startedAt": "2026-11-24T09:31:28.000Z",
+      "releaseText": "",
+      "releaseSource": "",
+      "count": "",
+      "reward": "",
+      "headline": "「シノビNEXUS - 閃乱カグラ -」，11月29日にサービス開始。実機プレイを初公開した公式番組もアーカイブ配信中",
+      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
+      "source": "4Gamer",
+      "sourceUrl": "https://www.4gamer.net/games/954/G095477/20261124034/",
+      "appStore": {
+        "url": "https://apps.apple.com/jp/app/id6569243522",
+        "preorder": true,
+        "releaseDate": "2026-12-31T08:00:00Z"
+      },
+      "trackId": "6569243522"
+    },
+    {
       "id": "cb60c38a7352",
       "title": "星溯",
       "url": "https://space.bilibili.com/3546670734247958",
@@ -9383,6 +9419,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-28T13:30:33.611Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
       "at": "2026-11-28T11:30:37.721Z",
       "type": "prereg_start",
       "label": "事前登録開始",
@@ -9393,6 +9441,30 @@
         "mobile"
       ],
       "to": "App Store 2027年2月6日"
+    },
+    {
+      "at": "2026-11-28T09:30:30.209Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-28T08:30:34.926Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     },
     {
       "at": "2026-11-28T07:30:28.057Z",
@@ -10006,6 +10078,18 @@
     },
     {
       "at": "2026-11-24T10:00:37.610Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-24T10:00:37.610Z",
       "type": "new",
       "label": "新規",
       "title": "インターネット4",
@@ -10049,58 +10133,6 @@
         "xbox"
       ],
       "to": "2027年1月28日"
-    },
-    {
-      "at": "2026-11-24T03:30:32.020Z",
-      "type": "new",
-      "label": "新規",
-      "title": "負けるな！魔剣道1&2",
-      "url": "https://www.edia-game.com/makendo",
-      "image": "https://static.wixstatic.com/media/2c04d5_36ef26bf992c4ac38c31a0af3c2b57c9~mv2.jpg/v1/fill/w_1200,h_630,al_c/2c04d5_36ef26bf992c4ac38c31a0af3c2b57c9~mv2.jpg",
-      "platforms": [
-        "switch",
-        "ps",
-        "pc"
-      ],
-      "to": "2027年3月18日"
-    },
-    {
-      "at": "2026-11-24T03:01:07.957Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ODIN Q: VALKYRIE’S CALL",
-      "url": "https://odinq.kakaogames.com/",
-      "image": "https://odinq.kakaogames.com/og-image.jpg",
-      "platforms": [],
-      "to": "2027年1月26日"
-    },
-    {
-      "at": "2026-11-24T02:00:39.060Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックスアップグレード",
-      "url": "https://store-jp.nintendo.com/item/software/D70050000077483",
-      "image": "https://img-eshop.cdn.nintendo.net/i/c7f3a46b50e33bfd12c9c90151768b5c8b929c9c93adda4812eb987df5128d40.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "from": "2027年2月16日",
-      "to": "2027年2月4日"
-    },
-    {
-      "at": "2026-11-24T02:00:39.060Z",
-      "type": "moved_up",
-      "label": "発売日前倒し",
-      "title": "ロマンシング サガ3 デスティニーユナイテッド",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000114055",
-      "image": "https://img-eshop.cdn.nintendo.net/i/9fd7f1e04700a7840b1d4ff27fe3b584bff903578969b4485a6d9b383808e76c.jpg",
-      "platforms": [
-        "switch2",
-        "switch"
-      ],
-      "from": "2027年2月16日",
-      "to": "2027年2月4日"
     }
   ],
   "platforms": [
