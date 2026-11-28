@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:00:16.011Z",
+  "updatedAt": "2026-11-28T10:30:17.733Z",
   "boards": [
     {
       "id": "steam",
@@ -150,23 +150,75 @@
       "items": [
         {
           "rank": 1,
-          "title": "ホロライブ麻雀 -ホロじゃん-",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/59/6c/ab596ce5-b7f3-fb7f-1b9c-87528fe08207/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%E9%BA%BB%E9%9B%80-%E3%83%9B%E3%83%AD%E3%81%98%E3%82%83%E3%82%93/id6762111285",
-          "metric": "Aiming Inc.",
+          "title": "シノビNEXUS ―閃乱カグラ― (シノネク)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/27/ff/eb27ff41-ea9d-17b9-03c3-c7ade2ac0811/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%8E%E3%83%93nexus-%E9%96%83%E4%B9%B1%E3%82%AB%E3%82%B0%E3%83%A9-%E3%82%B7%E3%83%8E%E3%83%8D%E3%82%AF/id6569243522",
+          "metric": "HONEY PARADE GAMES Inc.",
           "delta": {
-            "kind": "same",
-            "label": "–",
+            "kind": "new",
+            "label": "NEW",
             "value": 0
           },
           "deltaNote": "前日比"
         },
         {
           "rank": 2,
+          "title": "ホロライブ麻雀 -ホロじゃん-",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/59/6c/ab596ce5-b7f3-fb7f-1b9c-87528fe08207/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E3%83%9B%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%E9%BA%BB%E9%9B%80-%E3%83%9B%E3%83%AD%E3%81%98%E3%82%83%E3%82%93/id6762111285",
+          "metric": "Aiming Inc.",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 3,
           "title": "Meowdoku!",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/3d/0e/773d0ed6-4e4e-859f-7817-c5f7a42466e5/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/meowdoku/id6761760135",
           "metric": "Oakever Games",
+          "delta": {
+            "kind": "down",
+            "label": "-1",
+            "value": -1
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 4,
+          "title": "Tidy Room!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7f/5e/6f7f5ec0-7bf8-cec6-f7f9-29642e63c0d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/tidy-room/id6831317859",
+          "metric": "Circle Games",
+          "delta": {
+            "kind": "up",
+            "label": "+5",
+            "value": 5
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 5,
+          "title": "麻雀ブラスト (Mahjong Blast)",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/f5/4f/43f54fb8-5e00-ed6e-d1cb-0e546dca9159/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-mahjong-blast/id6747492600",
+          "metric": "Nebula Studio",
+          "delta": {
+            "kind": "up",
+            "label": "+5",
+            "value": 5
+          },
+          "deltaNote": "前日比"
+        },
+        {
+          "rank": 6,
+          "title": "Bus Traffic Fever!",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
+          "metric": "GOODROID,Inc.",
           "delta": {
             "kind": "same",
             "label": "–",
@@ -175,80 +227,28 @@
           "deltaNote": "前日比"
         },
         {
-          "rank": 3,
-          "title": "Tidy Room!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7f/5e/6f7f5ec0-7bf8-cec6-f7f9-29642e63c0d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/tidy-room/id6831317859",
-          "metric": "Circle Games",
-          "delta": {
-            "kind": "up",
-            "label": "+6",
-            "value": 6
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 4,
-          "title": "Bus Traffic Fever!",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/66/13/a96613da-a816-17ef-b4d4-538a75165ae5/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/bus-traffic-fever/id6759763476",
-          "metric": "GOODROID,Inc.",
-          "delta": {
-            "kind": "up",
-            "label": "+2",
-            "value": 2
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 5,
+          "rank": 7,
           "title": "アズールプロミリア",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6c/47/156c471a-e3fc-5fba-a0be-8f640e876515/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%9F%E3%83%AA%E3%82%A2/id6787982572",
           "metric": "YOSTAR LIMITED",
           "delta": {
             "kind": "down",
-            "label": "-2",
-            "value": -2
+            "label": "-4",
+            "value": -4
           },
           "deltaNote": "前日比"
         },
         {
-          "rank": 6,
-          "title": "麻雀ブラスト (Mahjong Blast)",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/f5/4f/43f54fb8-5e00-ed6e-d1cb-0e546dca9159/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E9%BA%BB%E9%9B%80%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-mahjong-blast/id6747492600",
-          "metric": "Nebula Studio",
-          "delta": {
-            "kind": "up",
-            "label": "+4",
-            "value": 4
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "デジモンアリシオン",
           "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/5d/f0/655df06f-481e-60c0-7319-8b791ea4dc8f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/246x246bb.png",
           "url": "https://apps.apple.com/jp/app/%E3%83%87%E3%82%B8%E3%83%A2%E3%83%B3%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%AA%E3%83%B3/id6740988190",
           "metric": "BANDAI Co., Ltd.",
           "delta": {
             "kind": "down",
-            "label": "-3",
-            "value": -3
-          },
-          "deltaNote": "前日比"
-        },
-        {
-          "rank": 8,
-          "title": "[777Real]パチスロ かぐや様は告らせたい",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/d8/87/0ad88791-c787-76e9-6f35-24a5ab991adb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/777real-%E3%83%91%E3%83%81%E3%82%B9%E3%83%AD-%E3%81%8B%E3%81%90%E3%82%84%E6%A7%98%E3%81%AF%E5%91%8A%E3%82%89%E3%81%9B%E3%81%9F%E3%81%84/id6832461356",
-          "metric": "Sammy Networks Co., Ltd.",
-          "delta": {
-            "kind": "down",
-            "label": "-1",
-            "value": -1
+            "label": "-4",
+            "value": -4
           },
           "deltaNote": "前日比"
         },
@@ -267,14 +267,14 @@
         },
         {
           "rank": 10,
-          "title": "ケロロ軍曹 ぽちっと大出動であります！",
-          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/fe/56/5cfe565e-bc5f-3029-5013-93fcde914272/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
-          "url": "https://apps.apple.com/jp/app/%E3%82%B1%E3%83%AD%E3%83%AD%E8%BB%8D%E6%9B%B9-%E3%81%BD%E3%81%A1%E3%81%A3%E3%81%A8%E5%A4%A7%E5%87%BA%E5%8B%95%E3%81%A7%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99/id6805005476",
-          "metric": "G HOLDINGS CO., LTD.",
+          "title": "Block Out! - Color Sort Puzzle",
+          "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/ef/03/a5ef0337-f5a8-2a04-0944-ed2e6e1588b1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x246bb.png",
+          "url": "https://apps.apple.com/jp/app/block-out-color-sort-puzzle/id6752672568",
+          "metric": "Grand Games A.Ş.",
           "delta": {
-            "kind": "down",
-            "label": "-5",
-            "value": -5
+            "kind": "up",
+            "label": "+3",
+            "value": 3
           },
           "deltaNote": "前日比"
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:00:14.073Z",
+  "updatedAt": "2026-11-28T10:30:16.105Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 140
+      "count": 141
     },
     {
       "id": "media",
@@ -65,12 +65,12 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 388
+      "count": 389
     },
     {
       "id": "official",
       "label": "公式サイト",
-      "count": 144
+      "count": 143
     }
   ],
   "platforms": [
@@ -122,9 +122,9 @@
   ],
   "sources": [
     "4Gamer",
+    "App Store",
     "AppBank",
     "Inside",
-    "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
     "GameBusiness.jp",
@@ -157,6 +157,39 @@
       "platforms": [],
       "points": null,
       "image": "https://www.shadow-garden-pe.jp/wp-content/themes/officialsite/images/common/ogp.jpg"
+    },
+    {
+      "id": "62c2fe72b413",
+      "url": "https://hpgames.jp/",
+      "host": "hpgames.jp",
+      "region": "jp",
+      "title": "シノビNEXUS ―閃乱カグラ― (シノネク)",
+      "headline": "HONEY PARADE GAMES Inc. / ロールプレイング · App Store 新着",
+      "description": "株式会社HONEY&infin;PARADE GAMESは『閃乱カグラ』シリーズをはじめとした家庭用ゲームソフトやスマートフォンゲームを開発しています。",
+      "publishedAt": "2026-11-28T08:00:00.000Z",
+      "addedAt": "2026-11-28T10:30:16.105Z",
+      "source": "App Store",
+      "sources": [
+        {
+          "name": "App Store",
+          "url": "https://apps.apple.com/jp/app/id6569243522"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "ロールプレイング"
+      ],
+      "categories": [
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://hpgames.jp/share/img/ogp_v2.png"
     },
     {
       "id": "8f9ba9dc1e97",
@@ -40784,38 +40817,6 @@
       ],
       "points": null,
       "image": "https://mhaur.bn-ent.net/ogp.jpg?2610"
-    },
-    {
-      "id": "606c2efece71",
-      "url": "https://www.re-beast.com/",
-      "host": "re-beast.com",
-      "region": "jp",
-      "title": "ReBEAST ～ウメハラ、1/60秒に賭けた人生～",
-      "headline": "「ウメハラ」初の単独長編ドキュメンタリー映画化！『ReBEAST ～ウメハラ、1/60秒に賭けた人生～』が2027年1月29日に全国公開",
-      "description": "日本人初のプロ格闘ゲーマー・梅原大吾。20年以上、勝負の最前線に立ち続ける彼の“現在”を追ったドキュメンタリー映画。2027年1月29日（金）全国公開。",
-      "publishedAt": "2026-09-29T09:33:54.000Z",
-      "addedAt": "2026-09-29T10:00:20.024Z",
-      "source": "電ファミニコゲーマー",
-      "sources": [
-        {
-          "name": "電ファミニコゲーマー",
-          "url": "https://news.denfaminicogamer.jp/news/2609292q"
-        }
-      ],
-      "tags": [
-        "ゲーム",
-        "iOS",
-        "Android",
-        "スマホ"
-      ],
-      "categories": [
-        "official"
-      ],
-      "platforms": [
-        "mobile"
-      ],
-      "points": null,
-      "image": "https://rebeast-preview.shimizu-mra.chatgpt.site/ogp.jpg"
     },
     {
       "id": "feefd7794cbd",
