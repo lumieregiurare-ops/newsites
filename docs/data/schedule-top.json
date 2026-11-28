@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T11:00:35.811Z",
+  "updatedAt": "2026-11-28T11:30:37.721Z",
   "platforms": [
     {
       "id": "switch",
@@ -86,6 +86,21 @@
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "1e87d16b42a9",
+      "title": "名探偵プリキュア！",
+      "date": "2026-12-01",
+      "dateText": "2026年12月1日",
+      "sortKey": "2026-12-01",
+      "priority": 0,
+      "platforms": [],
+      "url": "https://www.beardpapa.jp/",
+      "image": "https://www.beardpapa.jp/wp-content/uploads/2023/05/ogp-img.png",
+      "maker": "",
+      "headline": "ビアードパパ×「名探偵プリキュア！」コラボシュークリームが可愛すぎる！コースターや缶バッジセットが12月1日より数量限定発売",
+      "source": "Inside",
+      "sourceUrl": "https://www.inside-games.jp/article/2026/11/24/191488.html"
     },
     {
       "id": "df149b2ff73d",
@@ -260,21 +275,6 @@
       "headline": "「EA SPORTS UFC 6」，拡張パック「PRIDE FC」を12月12日に配信。桜庭，ミルコ，ヒョードルらが登場するトレイラーも公開に",
       "source": "4Gamer",
       "sourceUrl": "https://www.4gamer.net/games/023/G102323/20261117007/"
-    },
-    {
-      "id": "d05be386affa",
-      "title": "FF14",
-      "date": "2026-12-12",
-      "dateText": "2026年12月12日",
-      "sortKey": "2026-12-12",
-      "priority": 0,
-      "platforms": [],
-      "url": "https://www.roland.com/jp/products/bridge_cast_final_fantasy_xiv_edition/",
-      "image": "https://static.roland.com/assets/images/products/main/bridge_cast_final_fantasy_xiv_edition_top_main.jpg",
-      "maker": "",
-      "headline": "「シャキ音」や「F.A.T.E.」突入時のサウンドが収録！配信に便利な『FF14』コラボのゲーミング・オーディオミキサーが12月12日発売",
-      "source": "Inside",
-      "sourceUrl": "https://www.inside-games.jp/article/2026/10/21/189586.html"
     }
   ],
   "prereg": [
@@ -461,6 +461,18 @@
   ],
   "changes": [
     {
+      "at": "2026-11-28T11:30:37.721Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "僕のヒーローアカデミア ULTRA RUMBLE モバイル",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.heroacaur_jp",
+      "image": "https://play-lh.googleusercontent.com/cq5HDes7FiGAud_5g5kvPEXyx6FSHW9jqwjXp8s8LaMzomIDskZ3RBo9aPM3Skl4Vkr84CJ98zwyLRrIMmEqBA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "App Store 2027年2月6日"
+    },
+    {
       "at": "2026-11-28T07:30:28.057Z",
       "type": "new",
       "label": "新規",
@@ -517,18 +529,6 @@
         "pc"
       ],
       "to": "2026年12月10日"
-    },
-    {
-      "at": "2026-11-26T12:00:34.986Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "KAWAII LAB. リズム研究中！",
-      "url": "https://kawaiilab-rhythm-kenkyuchu.com/",
-      "image": "https://kawaiilab-rhythm-kenkyuchu.com/assets/ogp_image.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": "App Store 2027年3月22日"
     }
   ]
 }

@@ -3101,7 +3101,7 @@
       }
     },
     "クッキーラン オーブンブレイク": {
-      "at": "2026-11-25T11:30:33.690Z",
+      "at": "2026-11-28T11:30:37.977Z",
       "entry": {
         "trackId": "963067330",
         "title": "クッキーラン : オーブンブレイク",
@@ -3114,7 +3114,7 @@
         "isPreorder": false,
         "storeUrl": "https://apps.apple.com/jp/app/id963067330",
         "sellerUrl": "https://game.devsisters.com/ko/cookierun",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/6c/3b/c66c3b11-8476-9570-0baa-6bf968221492/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/b9/b8/37b9b81c-28ae-3de2-1d8f-b043b45065ca/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
         "isGame": true
       }
     },
@@ -66450,7 +66450,7 @@
     },
     "ヒロアカur": {
       "title": "ヒロアカUR",
-      "prereg": true,
+      "prereg": false,
       "firstSeen": "2026-11-08T15:30:30.302Z"
     },
     "cardalaxy": {
@@ -88525,22 +88525,14 @@
       "sortKey": "2026-11-32",
       "prereg": false,
       "firstSeen": "2026-11-28T09:00:59.127Z"
+    },
+    "僕のヒーローアカデミアultrarumbleモバイル": {
+      "title": "僕のヒーローアカデミア ULTRA RUMBLE モバイル",
+      "prereg": true,
+      "firstSeen": "2026-11-28T11:30:37.721Z"
     }
   },
   "changeLog": [
-    {
-      "at": "2026-11-01T00:00:29.893Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "ウィンドランナーGo!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle",
-      "image": "https://play-lh.googleusercontent.com/bChU4-P0O-GGWMgzQWu3BX41rfOojAzAhgLUTIMSjaIvmcky1W-hbZusc59QlSXhyPBDHwFACLiUq8KKR6B0Xw=s0-br30",
-      "platforms": [
-        "mobile"
-      ],
-      "from": "2026年10月",
-      "to": "2027年10月"
-    },
     {
       "at": "2026-11-01T00:00:29.893Z",
       "type": "date_changed",
@@ -93351,6 +93343,18 @@
         "mobile"
       ],
       "to": ""
+    },
+    {
+      "at": "2026-11-28T11:30:37.721Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "僕のヒーローアカデミア ULTRA RUMBLE モバイル",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.heroacaur_jp",
+      "image": "https://play-lh.googleusercontent.com/cq5HDes7FiGAud_5g5kvPEXyx6FSHW9jqwjXp8s8LaMzomIDskZ3RBo9aPM3Skl4Vkr84CJ98zwyLRrIMmEqBA=s0-br30",
+      "platforms": [
+        "mobile"
+      ],
+      "to": "2027年2月6日"
     }
   ],
   "initialized": true,
