@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-28T14:00:16.667Z",
+  "updatedAt": "2026-11-28T14:30:16.219Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1334,
+  "total": 1335,
   "regions": {
-    "jp": 1031,
+    "jp": 1032,
     "global": 303
   },
   "categories": [
@@ -30,7 +30,7 @@
     {
       "id": "campaign",
       "label": "特設・キャンペーン",
-      "count": 205
+      "count": 206
     },
     {
       "id": "event",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 548
+      "count": 549
     },
     {
       "id": "browser",
@@ -121,16 +121,45 @@
     }
   ],
   "sources": [
+    "電ファミニコゲーマー",
     "4Gamer",
     "App Store",
     "AppBank",
     "Inside",
-    "電ファミニコゲーマー",
     "Game*Spark",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "3f719d21f386",
+      "url": "https://another-eden.jp/",
+      "host": "another-eden.jp",
+      "region": "jp",
+      "title": "アナザーエデン",
+      "headline": "『アナザーエデン』が『サガ』シリーズとコラボ。バトルテーマは作曲家・伊藤賢治氏による書き下ろし",
+      "description": "シングルプレイ専用スマートフォンRPG「アナザーエデン 時空を超える猫」の公式サイトです。加藤正人(シナリオ/演出)、光田康典、土屋俊輔、マリアム・アボンナサー(コンポーザー)、江草天仁(アートディレクター)",
+      "publishedAt": "2026-11-28T14:05:28.000Z",
+      "addedAt": "2026-11-28T14:30:16.219Z",
+      "source": "電ファミニコゲーマー",
+      "sources": [
+        {
+          "name": "電ファミニコゲーマー",
+          "url": "https://news.denfaminicogamer.jp/news/261128m"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "campaign"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://another-eden.jp/img/ogimage4.png"
+    },
     {
       "id": "580326bb4b8f",
       "url": "https://www.shadow-garden-pe.jp/",
