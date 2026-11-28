@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-28T08:30:34.926Z",
+  "updatedAt": "2026-11-28T09:00:59.127Z",
   "daysAhead": 120,
   "stats": {
     "sec": {
       "feeds": 0,
       "appstoreSearch": 3.1,
-      "appstoreLookup": 0.1
+      "appstoreLookup": 0.7
     },
     "nintendo": 264,
     "steam": 300,
@@ -18,7 +18,7 @@
       "unverified": 4,
       "lookedUp": 36
     },
-    "prereg": 38,
+    "prereg": 37,
     "preregDropped": [
       {
         "title": "アズールプロミリア",
@@ -110,6 +110,10 @@
       },
       {
         "title": "BLEACH Mirrors High",
+        "reason": "released on App Store"
+      },
+      {
+        "title": "シノビNEXUS - 閃乱カグラ -",
         "reason": "released on App Store"
       }
     ]
@@ -313,7 +317,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.187,
+      "priority": 3.186,
       "platforms": [
         "pc"
       ],
@@ -633,7 +637,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.111,
+      "priority": 3.11,
       "platforms": [
         "pc"
       ],
@@ -649,7 +653,7 @@
       "date": "2026-11-29",
       "dateText": "2026年11月29日",
       "sortKey": "2026-11-29",
-      "priority": 3.113,
+      "priority": 3.112,
       "platforms": [
         "pc"
       ],
@@ -665,7 +669,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.174,
+      "priority": 3.175,
       "platforms": [
         "pc"
       ],
@@ -681,7 +685,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.199,
+      "priority": 3.2,
       "platforms": [
         "pc"
       ],
@@ -697,7 +701,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.096,
+      "priority": 3.097,
       "platforms": [
         "pc"
       ],
@@ -857,7 +861,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.073,
+      "priority": 3.074,
       "platforms": [
         "pc"
       ],
@@ -921,7 +925,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.121,
+      "priority": 3.122,
       "platforms": [
         "pc"
       ],
@@ -969,7 +973,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.183,
+      "priority": 3.184,
       "platforms": [
         "pc"
       ],
@@ -985,7 +989,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.271,
+      "priority": 3.2720000000000002,
       "platforms": [
         "pc"
       ],
@@ -1033,7 +1037,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.128,
+      "priority": 3.129,
       "platforms": [
         "pc"
       ],
@@ -1129,7 +1133,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.079,
+      "priority": 3.078,
       "platforms": [
         "pc"
       ],
@@ -1225,7 +1229,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.125,
+      "priority": 3.126,
       "platforms": [
         "pc"
       ],
@@ -1241,7 +1245,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.112,
+      "priority": 3.113,
       "platforms": [
         "pc"
       ],
@@ -1320,7 +1324,7 @@
       "date": "2026-11-30",
       "dateText": "2026年11月30日",
       "sortKey": "2026-11-30",
-      "priority": 3.124,
+      "priority": 3.125,
       "platforms": [
         "pc"
       ],
@@ -1433,7 +1437,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.175,
+      "priority": 3.172,
       "platforms": [
         "pc"
       ],
@@ -1449,7 +1453,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.184,
+      "priority": 3.183,
       "platforms": [
         "pc"
       ],
@@ -1465,7 +1469,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.186,
+      "priority": 3.187,
       "platforms": [
         "pc"
       ],
@@ -1492,22 +1496,6 @@
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
     },
     {
-      "id": "29de5c7f3db0",
-      "title": "BumperMania",
-      "date": null,
-      "dateText": "2026年11月",
-      "sortKey": "2026-11-32",
-      "priority": 3.196,
-      "platforms": [
-        "pc"
-      ],
-      "url": "https://store.steampowered.com/app/4298340/",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298340/header.jpg",
-      "maker": "",
-      "source": "Steam",
-      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
-    },
-    {
       "id": "ac4520dd8ce0",
       "title": "Can't See Shift",
       "date": null,
@@ -1529,7 +1517,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.122,
+      "priority": 3.123,
       "platforms": [
         "pc"
       ],
@@ -1657,7 +1645,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.195,
+      "priority": 3.196,
       "platforms": [
         "pc"
       ],
@@ -1673,7 +1661,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.18,
+      "priority": 3.178,
       "platforms": [
         "pc"
       ],
@@ -1689,7 +1677,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.153,
+      "priority": 3.152,
       "platforms": [
         "pc"
       ],
@@ -1753,7 +1741,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.173,
+      "priority": 3.174,
       "platforms": [
         "pc"
       ],
@@ -1769,7 +1757,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.164,
+      "priority": 3.165,
       "platforms": [
         "pc"
       ],
@@ -1817,12 +1805,28 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.129,
+      "priority": 3.128,
       "platforms": [
         "pc"
       ],
       "url": "https://store.steampowered.com/app/1420310/",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420310/header.jpg",
+      "maker": "",
+      "source": "Steam",
+      "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
+    },
+    {
+      "id": "340ec915a8dc",
+      "title": "Rash Decision",
+      "date": null,
+      "dateText": "2026年11月",
+      "sortKey": "2026-11-32",
+      "priority": 3.194,
+      "platforms": [
+        "pc"
+      ],
+      "url": "https://store.steampowered.com/app/5028830/",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028830/header.jpg",
       "maker": "",
       "source": "Steam",
       "sourceUrl": "https://store.steampowered.com/explore/upcoming/"
@@ -1865,7 +1869,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.155,
+      "priority": 3.154,
       "platforms": [
         "pc"
       ],
@@ -1913,7 +1917,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.12,
+      "priority": 3.121,
       "platforms": [
         "pc"
       ],
@@ -1993,7 +1997,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.172,
+      "priority": 3.173,
       "platforms": [
         "pc"
       ],
@@ -2025,7 +2029,7 @@
       "date": null,
       "dateText": "2026年11月",
       "sortKey": "2026-11-32",
-      "priority": 3.178,
+      "priority": 3.177,
       "platforms": [
         "pc"
       ],
@@ -2276,7 +2280,7 @@
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.152,
+      "priority": 3.153,
       "platforms": [
         "pc"
       ],
@@ -2436,7 +2440,7 @@
       "date": "2026-12-01",
       "dateText": "2026年12月1日",
       "sortKey": "2026-12-01",
-      "priority": 3.093,
+      "priority": 3.094,
       "platforms": [
         "pc"
       ],
@@ -2706,7 +2710,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.071,
+      "priority": 3.07,
       "platforms": [
         "pc"
       ],
@@ -2722,7 +2726,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.194,
+      "priority": 3.195,
       "platforms": [
         "pc"
       ],
@@ -2738,7 +2742,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.097,
+      "priority": 3.096,
       "platforms": [
         "pc"
       ],
@@ -2818,7 +2822,7 @@
       "date": "2026-12-02",
       "dateText": "2026年12月2日",
       "sortKey": "2026-12-02",
-      "priority": 3.078,
+      "priority": 3.079,
       "platforms": [
         "pc"
       ],
@@ -3018,7 +3022,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.11,
+      "priority": 3.111,
       "platforms": [
         "pc"
       ],
@@ -3034,7 +3038,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.07,
+      "priority": 3.071,
       "platforms": [
         "pc"
       ],
@@ -3315,7 +3319,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.123,
+      "priority": 3.124,
       "platforms": [
         "pc"
       ],
@@ -3347,7 +3351,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.018,
+      "priority": 3.019,
       "platforms": [
         "pc"
       ],
@@ -4099,7 +4103,7 @@
       "date": "2026-12-03",
       "dateText": "2026年12月3日",
       "sortKey": "2026-12-03",
-      "priority": 3.154,
+      "priority": 3.155,
       "platforms": [
         "pc"
       ],
@@ -4613,7 +4617,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.177,
+      "priority": 3.18,
       "platforms": [
         "pc"
       ],
@@ -4629,7 +4633,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.094,
+      "priority": 3.093,
       "platforms": [
         "pc"
       ],
@@ -4661,7 +4665,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.165,
+      "priority": 3.164,
       "platforms": [
         "pc"
       ],
@@ -4693,7 +4697,7 @@
       "date": "2026-12-04",
       "dateText": "2026年12月4日",
       "sortKey": "2026-12-04",
-      "priority": 3.1189999999999998,
+      "priority": 3.12,
       "platforms": [
         "pc"
       ],
@@ -5028,7 +5032,7 @@
       "date": "2026-12-08",
       "dateText": "2026年12月8日",
       "sortKey": "2026-12-08",
-      "priority": 3.126,
+      "priority": 3.1189999999999998,
       "platforms": [
         "pc"
       ],
@@ -5401,7 +5405,7 @@
       "date": "2026-12-10",
       "dateText": "2026年12月10日",
       "sortKey": "2026-12-10",
-      "priority": 3.209,
+      "priority": 3.214,
       "platforms": [
         "pc"
       ],
@@ -7162,7 +7166,7 @@
       "date": "2027-01-15",
       "dateText": "2027年1月15日",
       "sortKey": "2027-01-15",
-      "priority": 3.074,
+      "priority": 3.073,
       "platforms": [
         "pc"
       ],
@@ -8628,30 +8632,6 @@
       "trackId": "6779082914"
     },
     {
-      "id": "49957b1853a1",
-      "title": "シノビNEXUS - 閃乱カグラ -",
-      "url": "https://hpgames.jp/shinovi-nexus/",
-      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "startedAt": "2026-11-24T09:31:28.000Z",
-      "releaseText": "",
-      "releaseSource": "",
-      "count": "",
-      "reward": "",
-      "headline": "「シノビNEXUS - 閃乱カグラ -」，11月29日にサービス開始。実機プレイを初公開した公式番組もアーカイブ配信中",
-      "description": "命懸けで獲りにゆく。シノビマスター最新作 シノビNEXUS（ネクサス）公式サイト│ハニパレが贈るハイパーシノビバトル#シノネクの最新情報をお届けします",
-      "source": "4Gamer",
-      "sourceUrl": "https://www.4gamer.net/games/954/G095477/20261124034/",
-      "appStore": {
-        "url": "https://apps.apple.com/jp/app/id6569243522",
-        "preorder": true,
-        "releaseDate": "2026-12-31T08:00:00Z"
-      },
-      "trackId": "6569243522"
-    },
-    {
       "id": "cb60c38a7352",
       "title": "星溯",
       "url": "https://space.bilibili.com/3546670734247958",
@@ -9456,18 +9436,6 @@
   ],
   "changes": [
     {
-      "at": "2026-11-28T08:30:34.926Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "シノビNEXUS - 閃乱カグラ -",
-      "url": "https://hpgames.jp/shinovi-nexus/",
-      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
       "at": "2026-11-28T07:30:28.057Z",
       "type": "new",
       "label": "新規",
@@ -10079,18 +10047,6 @@
     },
     {
       "at": "2026-11-24T10:00:37.610Z",
-      "type": "prereg_start",
-      "label": "事前登録開始",
-      "title": "シノビNEXUS - 閃乱カグラ -",
-      "url": "https://hpgames.jp/shinovi-nexus/",
-      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
-      "platforms": [
-        "mobile"
-      ],
-      "to": ""
-    },
-    {
-      "at": "2026-11-24T10:00:37.610Z",
       "type": "new",
       "label": "新規",
       "title": "インターネット4",
@@ -10176,6 +10132,32 @@
       ],
       "from": "2027年2月16日",
       "to": "2027年2月4日"
+    },
+    {
+      "at": "2026-11-24T02:00:39.060Z",
+      "type": "moved_up",
+      "label": "発売日前倒し",
+      "title": "ロマンシング サガ3 デスティニーユナイテッド デジタルデラックス版",
+      "url": "https://store-jp.nintendo.com/item/software/D70070000038894",
+      "image": "https://img-eshop.cdn.nintendo.net/i/61120a238711830ee4e726b69c0d38704f6b5248155f70c60ad128be8a8f020d.jpg",
+      "platforms": [
+        "switch2",
+        "switch"
+      ],
+      "from": "2027年2月13日",
+      "to": "2027年2月1日"
+    },
+    {
+      "at": "2026-11-23T15:00:31.250Z",
+      "type": "new",
+      "label": "新規",
+      "title": "天地創造 Nintendo Switch 2 Edition アップグレードパス",
+      "url": "https://store-jp.nintendo.com/item/software/D70050000085397",
+      "image": "https://img-eshop.cdn.nintendo.net/i/c3a91e1cda6f33b1462bff9b493637e7e1cc4fe463ed72751bc35e5c0ad296ed.jpg",
+      "platforms": [
+        "switch2"
+      ],
+      "to": "2027年1月14日"
     }
   ],
   "platforms": [
