@@ -2476,7 +2476,7 @@
       "entry": null
     },
     "うめしわ": {
-      "at": "2026-11-25T08:00:34.617Z",
+      "at": "2026-11-28T08:30:38.025Z",
       "entry": {
         "trackId": "6807810259",
         "title": "うめしわ 〜サラリーマンとふしぎなおにぎり〜",
@@ -3083,7 +3083,7 @@
       }
     },
     "UFO 米国政府公開文書": {
-      "at": "2026-11-25T08:30:33.597Z",
+      "at": "2026-11-28T08:30:36.577Z",
       "entry": {
         "trackId": "6826495318",
         "title": "UFO：米国政府公開文書",
@@ -4317,7 +4317,7 @@
       }
     },
     "ホロじゃん": {
-      "at": "2026-11-25T08:00:33.244Z",
+      "at": "2026-11-28T08:30:35.217Z",
       "entry": {
         "trackId": "6762111285",
         "title": "ホロライブ麻雀 -ホロじゃん-",
@@ -7588,7 +7588,7 @@
     },
     "シノビnexus-閃乱カグラ-": {
       "title": "シノビNEXUS -閃乱カグラ-",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "ディズニースパークリンク・スターズ": {
@@ -88521,18 +88521,6 @@
   },
   "changeLog": [
     {
-      "at": "2026-10-30T11:00:29.473Z",
-      "type": "new",
-      "label": "新規",
-      "title": "ニハチデイズトレインレックサバイバー 28 Days Train Wreck Survivor",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000123154",
-      "image": "https://img-eshop.cdn.nintendo.net/i/10ddee1e72685a65b350e9bf87f9109bb4821ad5450c1e2606b3db91ee76e0ca.jpg",
-      "platforms": [
-        "switch"
-      ],
-      "to": "2026年12月3日"
-    },
-    {
       "at": "2026-10-31T07:00:28.067Z",
       "type": "date_changed",
       "label": "発売日変更",
@@ -93344,6 +93332,18 @@
         "mobile"
       ],
       "to": "2026年11月30日"
+    },
+    {
+      "at": "2026-11-28T08:30:34.926Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
     }
   ],
   "initialized": true,
