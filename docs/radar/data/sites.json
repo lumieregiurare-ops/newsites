@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-28T05:00:16.915Z",
+  "updatedAt": "2026-11-28T05:30:18.291Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1336,
+  "total": 1337,
   "regions": {
-    "jp": 1031,
+    "jp": 1032,
     "global": 305
   },
   "categories": [
@@ -20,7 +20,7 @@
     {
       "id": "prereg",
       "label": "事前登録・予約",
-      "count": 166
+      "count": 167
     },
     {
       "id": "anniversary",
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 467
+      "count": 468
     },
     {
       "id": "indie",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 385
+      "count": 386
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 547
+      "count": 548
     },
     {
       "id": "browser",
@@ -131,6 +131,41 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "1254c3c43a22",
+      "url": "https://apps.apple.com/jp/app/id6740911222",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "冒険宿 なめこ亭",
+      "headline": "なめこの新作『冒険宿 なめこ亭』事前登録がスタート！ 12月リリース予定",
+      "description": "BeeworksGamesの「冒険宿 なめこ亭」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「冒険宿 なめこ亭」に似たゲームを見ることなどができます。",
+      "publishedAt": "2026-11-28T04:50:00.000Z",
+      "addedAt": "2026-11-28T05:30:18.291Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/28/game/3181129.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS",
+        "事前登録",
+        "Android"
+      ],
+      "categories": [
+        "prereg",
+        "release",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/f8/87/38f887ef-0ffe-05e3-e7e3-752171fb4080/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "ca7954a261c7",
       "url": "https://apps.apple.com/jp/app/id6837647045",
@@ -10245,7 +10280,7 @@
         "mobile"
       ],
       "points": null,
-      "image": "https://appsthrum.com/adventthrum/assets/og.jpg?v=20261114b"
+      "image": "https://appsthrum.com/adventthrum/assets/og.jpg?v=20261127"
     },
     {
       "id": "f4993f2b01df",
@@ -39811,7 +39846,7 @@
       ],
       "platforms": [],
       "points": null,
-      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1795663650"
+      "image": "https://cdn-ak.shonenjumpplus.com/images/ogimage_260803.png?1795764624"
     },
     {
       "id": "ee9753ded30e",
