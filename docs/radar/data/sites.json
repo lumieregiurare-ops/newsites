@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-28T04:00:20.794Z",
+  "updatedAt": "2026-11-28T04:30:16.732Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1335,
+  "total": 1336,
   "regions": {
-    "jp": 1030,
+    "jp": 1031,
     "global": 305
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 466
+      "count": 467
     },
     {
       "id": "indie",
@@ -55,7 +55,7 @@
     {
       "id": "company",
       "label": "ゲーム会社・採用",
-      "count": 138
+      "count": 139
     },
     {
       "id": "media",
@@ -65,7 +65,7 @@
     {
       "id": "goods",
       "label": "グッズ・ストア",
-      "count": 384
+      "count": 385
     },
     {
       "id": "official",
@@ -102,7 +102,7 @@
     {
       "id": "mobile",
       "label": "スマホ",
-      "count": 546
+      "count": 547
     },
     {
       "id": "browser",
@@ -121,16 +121,49 @@
     }
   ],
   "sources": [
+    "AppBank",
     "Inside",
     "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
-    "AppBank",
     "GameBusiness.jp",
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "ca7954a261c7",
+      "url": "https://apps.apple.com/jp/app/id6837647045",
+      "host": "apps.apple.com",
+      "region": "jp",
+      "title": "フワリウム",
+      "headline": "光る生き物を30日育てて親から子へ！ 『フワリウム』iPhone・Apple Watch版が800円で配信開始",
+      "description": "Code and DESIGN inc.の「フワリウム - 光る生き物の育成ゲーム」をApp Storeでダウンロードしてください。スクリーンショット、評価とレビュー、ユーザのヒント、「フワリウム - 光る生き物の育成ゲーム」に似たゲーム…",
+      "publishedAt": "2026-11-28T04:05:00.000Z",
+      "addedAt": "2026-11-28T04:30:16.732Z",
+      "source": "AppBank",
+      "sources": [
+        {
+          "name": "AppBank",
+          "url": "https://www.appbank.net/2026/11/28/game/3181057.php"
+        }
+      ],
+      "tags": [
+        "ゲーム",
+        "スマホ",
+        "iOS"
+      ],
+      "categories": [
+        "release",
+        "company",
+        "goods"
+      ],
+      "platforms": [
+        "mobile"
+      ],
+      "points": null,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/b7/74/23b77428-2642-17a5-d0db-f230f035daec/Placeholder.mill/1200x630wa.jpg"
+    },
     {
       "id": "404d60d43e6f",
       "url": "https://www.konami.com/games/castlevania/belmonts_curse/jp/ja/",
