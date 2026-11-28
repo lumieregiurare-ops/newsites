@@ -7588,7 +7588,7 @@
     },
     "シノビnexus-閃乱カグラ-": {
       "title": "シノビNEXUS -閃乱カグラ-",
-      "prereg": false,
+      "prereg": true,
       "firstSeen": "2026-09-14T07:37:27.850Z"
     },
     "ディズニースパークリンク・スターズ": {
@@ -88529,19 +88529,6 @@
   },
   "changeLog": [
     {
-      "at": "2026-10-31T07:00:28.067Z",
-      "type": "date_changed",
-      "label": "発売日変更",
-      "title": "The Duskbloods",
-      "url": "https://store-jp.nintendo.com/item/software/D70010000096715",
-      "image": "https://img-eshop.cdn.nintendo.net/i/1a0152b5a5f033a2055858886af3c931f22ed8f4400fc2673b7a225336f419cd.jpg",
-      "platforms": [
-        "switch2"
-      ],
-      "from": "2026",
-      "to": "2027"
-    },
-    {
       "at": "2026-11-01T00:00:29.893Z",
       "type": "date_changed",
       "label": "発売日変更",
@@ -93343,6 +93330,18 @@
     },
     {
       "at": "2026-11-28T08:30:34.926Z",
+      "type": "prereg_start",
+      "label": "事前登録開始",
+      "title": "シノビNEXUS - 閃乱カグラ -",
+      "url": "https://hpgames.jp/shinovi-nexus/",
+      "image": "https://hpgames.jp/shinovi-nexus/assets/img/ogp.png",
+      "platforms": [
+        "mobile"
+      ],
+      "to": ""
+    },
+    {
+      "at": "2026-11-28T09:30:30.209Z",
       "type": "prereg_start",
       "label": "事前登録開始",
       "title": "シノビNEXUS - 閃乱カグラ -",

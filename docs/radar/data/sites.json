@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-28T09:00:37.548Z",
+  "updatedAt": "2026-11-28T09:30:17.376Z",
   "site": {
     "title": "GameLab Radar",
     "tagline": "新しく公開されたゲーム関連の Web サイトを、毎日自動で集めています。",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform",
     "contactLabel": "掲載に関するお問い合わせ"
   },
-  "total": 1338,
+  "total": 1339,
   "regions": {
-    "jp": 1031,
+    "jp": 1032,
     "global": 307
   },
   "categories": [
@@ -40,7 +40,7 @@
     {
       "id": "release",
       "label": "配信・発売",
-      "count": 467
+      "count": 468
     },
     {
       "id": "indie",
@@ -121,9 +121,9 @@
     }
   ],
   "sources": [
+    "4Gamer",
     "AppBank",
     "Inside",
-    "4Gamer",
     "App Store",
     "電ファミニコゲーマー",
     "Game*Spark",
@@ -131,6 +131,33 @@
     "Appliv Games"
   ],
   "items": [
+    {
+      "id": "580326bb4b8f",
+      "url": "https://www.shadow-garden-pe.jp/",
+      "host": "shadow-garden-pe.jp",
+      "region": "jp",
+      "title": "陰の実力者になりたくて！Phantom Echoes",
+      "headline": "「陰の実力者になりたくて！Phantom Echoes」，2027年5月14日に発売決定。最新トレイラーや各エディションの情報も公開",
+      "description": "『陰の実力者になりたくて！』初のコンシューマーゲーム『陰の実力者になりたくて！ファントムエコーズ（陰実PE）』公式サイト。今作のゲームジャンルはローグライトアクション！最新PV、キャラクター、対応ハードや予約特典などの最新情報を公開中！",
+      "publishedAt": "2026-11-28T09:00:00.000Z",
+      "addedAt": "2026-11-28T09:30:17.376Z",
+      "source": "4Gamer",
+      "sources": [
+        {
+          "name": "4Gamer",
+          "url": "https://www.4gamer.net/games/039/G103917/20261127045/"
+        }
+      ],
+      "tags": [
+        "ゲーム"
+      ],
+      "categories": [
+        "release"
+      ],
+      "platforms": [],
+      "points": null,
+      "image": "https://www.shadow-garden-pe.jp/wp-content/themes/officialsite/images/common/ogp.jpg"
+    },
     {
       "id": "8f9ba9dc1e97",
       "url": "https://apps.apple.com/jp/app/id1551798277",
